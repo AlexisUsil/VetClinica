@@ -1,0 +1,455 @@
+{
+ "id": "ChIJb4I7JvHGBZERFr7KikkYook",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6829897",
+ "internationalPhoneNumber": "+51 1 6829897",
+ "formattedAddress": "Ca. Constructores del Sol 112, La Molina 15012",
+ "addressComponents": [
+  {
+   "longText": "112",
+   "shortText": "112",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Constructores del Sol",
+   "shortText": "Ca. Constructores del Sol",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Del Sol",
+   "shortText": "Del Sol",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Acacias",
+   "shortText": "Las Acacias",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0678304,
+  "longitude": -76.9577683
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=9917516033563475478&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 7,
+ "displayName": {
+  "text": "Only Pets",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Ca. Constructores del Sol 112, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNWFXNVlTM0Z1ZVU5NU1IZFlibmRVY0ZWNllVRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 3,
+   "text": {
+    "text": "El teléfono que figura aquí NO ES EL DE LA VETERINARIA",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El teléfono que figura aquí NO ES EL DE LA VETERINARIA",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "BRENDA BRAN RIVERA",
+    "uri": "https://www.google.com/maps/contrib/105186794766781322285/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGRFXPYw5knJBKMrf4tQgKT-w2re-0Koi6N5IPH6UDU-YhEDFfDg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-24T16:41:00.906914691Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsNWFXNVlTM0Z1ZVU5NU1IZFlibmRVY0ZWNllVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNWFXNVlTM0Z1ZVU5NU1IZFlibmRVY0ZWNllVRRAB!2m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  },
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5OFppZzRnRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Precio justo y el dueño muy amable años de experiencia",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Precio justo y el dueño muy amable años de experiencia",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karlo Zavaleta",
+    "uri": "https://www.google.com/maps/contrib/109901399927938791027/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmYeGZWnJHv6TeZIuuRZHwKzeCfzJseYT8Gsz4PePxcV_VRiDMoA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-02-03T15:41:05.672566Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5OFppZzRnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5OFppZzRnRRAB!2m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  },
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDc2JuNnJBRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "atendieron super bien a mis perros y gata",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "atendieron super bien a mis perros y gata",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mabee Baldeon (beeadesigner)",
+    "uri": "https://www.google.com/maps/contrib/107845042514329679924/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWH4j0XLLL5L2v5V4n20at6pGHPUpR1uXxcYkZBZREg8ltEt9kewA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2020-08-26T18:26:04.089681Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDc2JuNnJBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDc2JuNnJBRRAB!2m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  },
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dVBqd0dREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Exelente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Exelente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yonni Bracho",
+    "uri": "https://www.google.com/maps/contrib/114379333949116854564/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFPbVHGm_zsb857_axfxrM25lj6UGyWFu8F0p3cqY87D2f4w=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2021-01-19T02:01:34.101824Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5dVBqd0dREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5dVBqd0dREAE!2m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  },
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4LWVuU3JBRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Paola Acuña",
+    "uri": "https://www.google.com/maps/contrib/116876469383063993972/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOkDs1Wv5yUBWWfG-gloks3dhe9jZEsLG35AA05QJn5DWBBRjP=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-07-21T18:47:25.833962Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ4LWVuU3JBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ4LWVuU3JBRRAB!2m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJb4I7JvHGBZERFr7KikkYook/photos/Aa-ngMZI62JBvRL-2XM3dee6FHdDEcX4ml4Wf-iJZYwAl8YOq2YvsPyL0q5O434Bp_nADDmPJ9I6hS6mec5KUiv_sbACdBcFO5MfhkV_4E2Ibd9JQZzlQwZehrXZYmUTnNhOsNNfvr1Mr5nXu-OXJw4SyMQLBDc565XT1OGyOunWb4JU7LS81KGmSwRSom16jGhxOSxgCPWLoo3kC7DRSDQhahyt8BX02Fh1280HZvCkPPo8VTAe33Ldv96qqznLiNYHaiKXHJi4uB5ezJ1wnG9EWPdh5ICVKP-6FhnwCPhRNQBNGsgnEGJoFMq3e-Vnt6k3VHcOz5wFZ9wUC6gb-h4TUVPhdo6ONZnM_HraPcMfH_wyXdlXo-wiJDnSY9UXS0BVVf2uEUoxnA9PAW_NCH6UxuX4uj-AyntyZ6XpYQ04nkPzEUbo",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Karlo Zavaleta",
+     "uri": "https://maps.google.com/maps/contrib/109901399927938791027",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmYeGZWnJHv6TeZIuuRZHwKzeCfzJseYT8Gsz4PePxcV_VRiDMoA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyiabBogE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyiabBogE!2e10!4m2!3m1!1s0x9105c6f1263b826f:0x89a218498acabe16"
+  }
+ ]
+}

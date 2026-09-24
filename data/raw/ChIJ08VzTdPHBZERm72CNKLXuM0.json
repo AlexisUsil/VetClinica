@@ -1,0 +1,573 @@
+{
+ "id": "ChIJ08VzTdPHBZERm72CNKLXuM0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "997 350 514",
+ "internationalPhoneNumber": "+51 997 350 514",
+ "formattedAddress": "Av. Aviación 2305, San Borja 15034",
+ "addressComponents": [
+  {
+   "longText": "2305",
+   "shortText": "2305",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Aviación",
+   "shortText": "Av. Aviación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "A.h San Juan Masias",
+   "shortText": "A.h San Juan Masias",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0843518,
+  "longitude": -77.00375989999999
+ },
+ "rating": 3.9,
+ "googleMapsUri": "https://maps.google.com/?cid=14823835265155644827&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:00–21:00",
+   "martes: 7:00–21:00",
+   "miércoles: 7:00–21:00",
+   "jueves: 7:00–21:00",
+   "viernes: 7:00–21:00",
+   "sábado: 7:00–21:00",
+   "domingo: 9:00–14:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 12,
+ "displayName": {
+  "text": "Clinica Veterinaria Universal",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:00–21:00",
+   "martes: 7:00–21:00",
+   "miércoles: 7:00–21:00",
+   "jueves: 7:00–21:00",
+   "viernes: 7:00–21:00",
+   "sábado: 7:00–21:00",
+   "domingo: 9:00–14:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Aviación 2305, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOSVNYcEJRa2xXTWxCU1ZXUlljMXBCTjIxbVFsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "OJO 🚨⚠️⚠️⚠️⚠️\nNo sé arriesgen y lleven mascotas exóticas a esta veterinaria. No lleven hamsters , aves , conejos etc.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "OJO 🚨⚠️⚠️⚠️⚠️\nNo sé arriesgen y lleven mascotas exóticas a esta veterinaria. No lleven hamsters , aves , conejos etc.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pau Pau",
+    "uri": "https://www.google.com/maps/contrib/109934672928624135410/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ2qRajVUZkm2_llgy-Id5_qCr4Xw_8jlw7I2trrHzf0yhVg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-17T18:13:00.050568258Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOSVNYcEJRa2xXTWxCU1ZXUlljMXBCTjIxbVFsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOSVNYcEJRa2xXTWxCU1ZXUlljMXBCTjIxbVFsRRAB!2m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbDlPalFnEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "No te dan detalle de lo que van a cobrar y tampoco muestran tarifario. Prácticamente cobra lo que quiere. No hizo ficha de mi mascota. Solo es para salir del paso, no busca fidelizar al cliente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No te dan detalle de lo que van a cobrar y tampoco muestran tarifario. Prácticamente cobra lo que quiere. No hizo ficha de mi mascota. Solo es para salir del paso, no busca fidelizar al cliente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Penélope Hurtado Vásquez",
+    "uri": "https://www.google.com/maps/contrib/114818945596595665880/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMk9pJmg3Gdd4xGYTQBvaeIfpeBSWhvjY6HM4Pn1-t1toZ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-03-09T00:28:57.074507Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXbDlPalFnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXbDlPalFnEAE!2m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlbGRQckZBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Todo muy mal, llevé a mi conejita para que le curaran una herida, querían hacerle una operación de 1500s, cuándo lo que necesitaba era unos puntos, cobran el triple de los medicamentos y cuando tenía que retirarle los puntos me cobraron adicional como una consulta cuando eso ya iba incluido en el tratamiento que pagué.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Todo muy mal, llevé a mi conejita para que le curaran una herida, querían hacerle una operación de 1500s, cuándo lo que necesitaba era unos puntos, cobran el triple de los medicamentos y cuando tenía que retirarle los puntos me cobraron adicional como una consulta cuando eso ya iba incluido en el tratamiento que pagué.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eluvy L. Alvarado",
+    "uri": "https://www.google.com/maps/contrib/104743339124548173099/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWl0hemso94oSDOaYiwDK2ztXCZT7Kf2QU9pFLLeW0-nvZe7hIR=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-09-19T18:51:18.526493Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlbGRQckZBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlbGRQckZBEAE!2m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/reviews/ChdDSUhNMG9nS0VJQ0FnSURHZ2NDOHBRRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 4,
+   "text": {
+    "text": "Diagnosticaron a mi perrito de manera muy rápida. Además tenían los medicamentos necesarios para su tratamiento en el mismo establecimiento. El diagnóstico fue acertado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Diagnosticaron a mi perrito de manera muy rápida. Además tenían los medicamentos necesarios para su tratamiento en el mismo establecimiento. El diagnóstico fue acertado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rina Cueva Cayetano",
+    "uri": "https://www.google.com/maps/contrib/106821260577866619788/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtS017Tk7ZjuJ0Arn_76DSGZgpv_2Jnbykr2XEVn9Jlofks4bl=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2021-11-29T22:41:52.040222Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHZ2NDOHBRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHZ2NDOHBRRRAB!2m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/reviews/ChdDSUhNMG9nS0VJQ0FnSURwbFBYSWdBRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Se los recomiendo para todo tipo de perros, gatos, aves",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Se los recomiendo para todo tipo de perros, gatos, aves",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jcsr saldaña",
+    "uri": "https://www.google.com/maps/contrib/113613644315081941166/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJixfGAPbDJsU8Bk4slQhQ7Cy072Ikt9A9dT32O8fgUiT4Dw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-08-16T18:07:00.037082Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwbFBYSWdBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwbFBYSWdBRRAB!2m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMbKAfLKaKW--K6uU5qNWHSFYuHFbznsWmwQPakUcwK6U1Xf-iyj6T2yUKjug3XPalOBQB1WJP74zejPI3JOCN8sQmnkQtd2fKhgmjz4Po9GBxym2SQDSU6trWpCA95ZSvFZmINX5wkj6kF64sF_tceXDzXVjCoKasyab6JYv9hAnyKutcllbuph6MPXntnF91NZvFxFFBD-TXrSgk80xIqrNqYPm3HKwtFMdcfM6M3AoloIVCcA1MpLkjh7LbkLDcMV2yyQFSSf8XIJiRCF57tZDPGrBJ_ZhHARWk-6Kv7W81hqb7Q7Vi-TXSp7lgGrMAlI-6aCkJ_H1qccc318RjV9ApCItb3FJhHWiLY53k61y0KEy3ZVasaihGWE9pZrLhh-zxEmiokFvapRwEl_YuTaBEwBHUY",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Universal",
+     "uri": "https://maps.google.com/maps/contrib/105596908939297404157",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIy09d84VWNHHWLfjc22CvBZsmK5RSFnn_mkHXrFcrwm9Cpvw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6rKO_ygE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6rKO_ygE!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMZcjokkQDG6FhnfUiTpnT_bhr63-8D5g2C6uzWuS5c-tPRM8jaz_NQAzY63pBj1kgNXnuPTc7ju0pU6jcXP1Fzfq3rr_tdbBQx40BFxaMlWGkSGbiR-ezWjpqYlDFmkw5JeKFwqchGbiX-cPXjVI4Y_MiaJQEwZcSL6FAWTJQzSOSmKEiuRT3wrB5lb3mdPMzyidzB6lPY7psO3jqk5OSpHlkeCxrpFrTtOTAMbJ7cArKMmJbv3bzgEiBjcy1TbRlUuHyeRG9fthjRalZ5CW6zUsNT_1j81rD_9S3-AzGCB0G372wyapi7Rf0si_ztPntQR8WOCeFZ7-IZNuEL3ugv8YQ7BKp84YRfLlv9H7o02CmycVkAI5lXDhk397hGtVtXOqZlu5F9gCCoUZ5aRtyWWzcykRg5IJiJWM-kV52paWA",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "David Rosas",
+     "uri": "https://maps.google.com/maps/contrib/110298599029271990540",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrKoaEC_M8GCZcOoSyZ4iMh4BeWJoIdxkp902bNdg-C0G7RA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAPZspLBys_nszp6pBIIECJ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAPZspLBys_nszp6pBIIECJ!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMYuYYUcJn8OpIv77OOvZOaLRREuQPwAd_iMtsZsCUQQ0ZWLeOV9HMzVlzVTSz6LhS510wTCU9BlPBaPtfzSFfXDQlsScIo8IX-BI1IXhMhep9-0dHINZpOKkrYI1tYaN2fXU3dkRB12ZPwcjyPu_V6Vvj8B_S1dWyvCf2IZKV4tnaRktBbS-0VuwvOPJdDrAs5iRAFyZqWg8j_IDxz_zp1K1oSB1XulbUpIelKPPPfqKkuK9suTuY7JB_zMbYEyvjTTgynPkRLdJB7PubuMOioc1YmTxIrWm8Xa9nALt1NEjoocZMKG760F9OIuPU_5Mng2E2DRZbq4h-zXplsd2LnIEMFotKa-JqJR02aS52Bl50BHR7px-m1tHW-ECpFm7LoWZb5351T_68EBs4zL578-5ESL",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "DAVID ROSAS",
+     "uri": "https://maps.google.com/maps/contrib/117070346765240383183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXf6ubLZ7KvFyiRoi1_bqLAVNAPEg2IIlVmC-yYm35waCg8_NI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcw_vZpAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcw_vZpAE!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMZ2_qXnvGa21WHM1xSvleazv8ZAecvrN4_IjsWv4hbGw4-BVJZlcTXkWV7D-T5K0-JM2x4GUJP1h6nkOaWLWbegasqpX-NIo5PCgP1gKoIOP92IkYt0UugcIdgCVlRZP_YmW2fZsWJXAR3I19X9MQ3pc_gOOXX0JU17-9uGOfnsRpYK67B03RuST7CURHUN7SJxNZDF70WF3KMiHaAEHzFuJ04letl5yuiIg6pSRx-fqzlFu1oNy3AxZhb7r0vvcB45gDNHfwCWg3F0q5T60CDYnMHVs6b2b_luk4rukeME6HwtFC_tj97ncyS2iFBLvJNVetSgGLgDDMr1fLEBqQiyalI8qxGUgHvcxH01KKeC7N8cocIMScXJwY-NN7jOJgmJ04U-tVDt065XG8AolMY-4gs",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "DAVID ROSAS",
+     "uri": "https://maps.google.com/maps/contrib/117070346765240383183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXf6ubLZ7KvFyiRoi1_bqLAVNAPEg2IIlVmC-yYm35waCg8_NI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcw_vFfw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcw_vFfw!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMZwm5klIfaVBReVg4zVjk2Xg_YP01992DdYOj3RYyFjOpkxPmEGPFjf_rBJ_QCpH37xc6C1Of2hKMm5ePw3_dDc3saMGeduGq_GGK_6-IdUSRGRxMMJObyPQ_OO1ufG6JGzYD2gv7ZT4sQIA0Udim4fBoAo23UPvtjcKiDa8TFWK5_oGtwFKSJtxcO5rR70OlVb5-_pqRSg3a8EuL483sGFHMHZmhKl_3ULC8yAPhPzdId0hCUahTpwJVuWoTa2Bn3qUThlllSl6GEPM5jxugQ0c6tizHt__yGK-yeTgHDmIVhA_FlOJ_toayV4GpAeozeZMbr8chcmpKEWo6nB4ZTdFKAbYwAMLAICECFnL1wMr_TYyvAiAKs7ETrdyAabJMnssyHdG4R46EeoGN30ktTSnzo4Eq8XzrPFyexOGelFKQ",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "David Rosas",
+     "uri": "https://maps.google.com/maps/contrib/110298599029271990540",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrKoaEC_M8GCZcOoSyZ4iMh4BeWJoIdxkp902bNdg-C0G7RA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCG33uUo1CIKB32LnvP5GmB&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCG33uUo1CIKB32LnvP5GmB!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMYYyhY_ihinfk2qw9HBn_OnxXkjsWhX1Z2Z30Fqs7LA6rZYvCaw3gCd17UmiR3fPe47TFUSHKEHdDMxRV790Qd52fWNJFFJGB9IT1wLXOrOL4AIrKVPtMA5V4hdrN2LZxKPloB8EB5VmzVTPNEwQS8n6Ev3OnY4G9hi_cbZeOkIiz1K_rY6ENG0nhfCaoP-8ctBqj5HXTFvJronpA1PkYEQxggb3oFmp0z4e-s0nFYcWuJmvF1JC0httJsg3ABVbrg0eOGIKIAfrlVa07B7XB9dg2g1JYfMVB2aRzyVDDJS6IOITk4ur_kAzAZZNANoCTQBnAWK2L0rb6TsiAVoCXglAEEdxy6gTWT8rSp_8e3z2ZzCUtYuMTn0o8eSzgcvWnYPaj7iDq0_y11VtskBESTEGIDipRI",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "DAVID ROSAS",
+     "uri": "https://maps.google.com/maps/contrib/117070346765240383183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXf6ubLZ7KvFyiRoi1_bqLAVNAPEg2IIlVmC-yYm35waCg8_NI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcw_u1lgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcw_u1lgE!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  },
+  {
+   "name": "places/ChIJ08VzTdPHBZERm72CNKLXuM0/photos/Aa-ngMbTiE0FVVg_kJ1iAmPGlswkaf_QHXFuIyS9VkJ-bMQQk4aod8DnKP548K2MwyJPRICATG2qFhgFarZwvrddpU3YSB94FK9eMsTjWuV7Q9SY9hySxtsgK1OWXifZPYhWiAnf_mwMNjo71uMZQ1U0aHFm8TJMXBnowsKXZrysDc5FZilDFueVSr_npqpyc2nxSJiqzoXTb4M5KTETNTiRrgfFVa-86pyZYeu51beew_joBGa5tnrCaQdLmWOPAfMmxMLas34yLv3cjvT0H0avo2r-TVdc-dahkD44Z_K9zpyw_RH3zQnSCbkaFT9hMdg32zKcgANnjyY9SWO6-1E7WkWjq5ut6c1b86Q11BHATHsRoWkjxV2Jt_6z6e126Eu5B5AC8OlWVAatCU-lFAe4zj89-Q",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "DAVID ROSAS",
+     "uri": "https://maps.google.com/maps/contrib/117070346765240383183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXf6ubLZ7KvFyiRoi1_bqLAVNAPEg2IIlVmC-yYm35waCg8_NI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcw_utEQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcw_utEQ!2e10!4m2!3m1!1s0x9105c7d34d73c5d3:0xcdb8d7a23482bd9b"
+  }
+ ]
+}

@@ -1,0 +1,578 @@
+{
+ "id": "ChIJB55B54fGBZERFZmZXT8VKgc",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "966 755 661",
+ "internationalPhoneNumber": "+51 966 755 661",
+ "formattedAddress": "Los Jilgueros 474, Santa Anita 15009",
+ "addressComponents": [
+  {
+   "longText": "474",
+   "shortText": "474",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Jilgueros",
+   "shortText": "Los Jilgueros",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15009",
+   "shortText": "15009",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.051447800000002,
+  "longitude": -76.9654662
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=516248469184813333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 92,
+ "displayName": {
+  "text": "Veterinaria Puppish",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Los Jilgueros 474, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT204MmVsaDRPVE50VlZsc1QyTnBOV0V4WW1KQ2FsRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "En un momento muy duro con mi gatita(Pachona), la doctora Jannyna nos atendió con profesionalismo y mucha humanidad. Explicó con claridad, tuvo buen criterio para el diagnóstico y sus recomendaciones fueron acordes al caso. Gracias por la empatía y el trato.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En un momento muy duro con mi gatita(Pachona), la doctora Jannyna nos atendió con profesionalismo y mucha humanidad. Explicó con claridad, tuvo buen criterio para el diagnóstico y sus recomendaciones fueron acordes al caso. Gracias por la empatía y el trato.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ANGEL M.",
+    "uri": "https://www.google.com/maps/contrib/113249669784475406440/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzeCJVmmWXmq2KMNGKmK0CV1vT3XdWvIJokAT6x6tLqtncRPEyrA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-21T19:33:59.326231459Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204MmVsaDRPVE50VlZsc1QyTnBOV0V4WW1KQ2FsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204MmVsaDRPVE50VlZsc1QyTnBOV0V4WW1KQ2FsRRAB!2m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FM2NHUXljbVpXVjNaVFVIQkxNVVJvVTBkVmVrRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tratan bien a las mascotas, son pacientes con los dueños y dan buen servicio en general.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tratan bien a las mascotas, son pacientes con los dueños y dan buen servicio en general.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leticia",
+    "uri": "https://www.google.com/maps/contrib/118443975881268567492/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRVjjqhd6sPw8mXGaB3SBhP07M51XZqN0GDdUzZDqbQIIF6dVH=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-26T22:58:47.411475032Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FM2NHUXljbVpXVjNaVFVIQkxNVVJvVTBkVmVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FM2NHUXljbVpXVjNaVFVIQkxNVVJvVTBkVmVrRRAB!2m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/reviews/ChZDSUhNMG9nS0VJQ0FnTURJdDdLV0J3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "La doctora se nota que sabe acerca de su trabajo, pero le falta mucha empatía en su atención, cuando preguntas acerca de algo que no entiendes, parece que le molestará y te lo explica pero con mala cara.\nLa calidad del servicio medico no debería opacarse por una mala atención al cliente, no regreso más a ese lugar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La doctora se nota que sabe acerca de su trabajo, pero le falta mucha empatía en su atención, cuando preguntas acerca de algo que no entiendes, parece que le molestará y te lo explica pero con mala cara.\nLa calidad del servicio medico no debería opacarse por una mala atención al cliente, no regreso más a ese lugar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexandra Casani",
+    "uri": "https://www.google.com/maps/contrib/105997031884628011983/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLCDjIsiRoakGudkfaeYgI1WyvjR4R_8hHCClj4B1i0D4j-4rszw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-13T17:29:17.203734Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJdDdLV0J3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJdDdLV0J3EAE!2m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/reviews/ChZDSUhNMG9nS0VJQ0FnSURhejVYWlJBEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 2,
+   "text": {
+    "text": "Mi perrito se atendió ahí, sin embargo, el trato no fue adecuado en la consulta, los precios en algunos análisis son más caros que en las competencias, no se tolera la alimentación natural, la doctora no tiene empatia con los animales ni con los papitos de los perritos, poca paciencia y los diagnósticos no son muy acertados.Solo recomiendo el servicios de baño y corte, hacen un adecuado trabajo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi perrito se atendió ahí, sin embargo, el trato no fue adecuado en la consulta, los precios en algunos análisis son más caros que en las competencias, no se tolera la alimentación natural, la doctora no tiene empatia con los animales ni con los papitos de los perritos, poca paciencia y los diagnósticos no son muy acertados.Solo recomiendo el servicios de baño y corte, hacen un adecuado trabajo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yomeli Ysla Zenitagoya",
+    "uri": "https://www.google.com/maps/contrib/104935883151517702450/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK7h-kbgYU1buNWp6K5yS67LCMJYZkBwChuiQ3IMZVBIoCoSCjew=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2021-08-26T01:54:16.819756Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhejVYWlJBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhejVYWlJBEAE!2m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoaXBfY1Z3EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "La doctora Yanina es una excelente veterinaria, ha salvado a mis gatas que estaban muy mal por culpa de otros veterinarios. Definitivamente Suleiman, Kösem y Xena aman a su doctora que les atiende con amor y mucha paciencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La doctora Yanina es una excelente veterinaria, ha salvado a mis gatas que estaban muy mal por culpa de otros veterinarios. Definitivamente Suleiman, Kösem y Xena aman a su doctora que les atiende con amor y mucha paciencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Judy Ayllón",
+    "uri": "https://www.google.com/maps/contrib/103197632761820530945/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4mbm_POjDWjEmiJ27MT_Mu5eXGWqrEXqn_MlZpK8mQtlKYQn0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-10T00:32:25.996618Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoaXBfY1Z3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoaXBfY1Z3EAE!2m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMZykU9aJ9wnNYvqy7uK5YvURppjAxWiN2sH20d2bEUn9Bp10hUDStuVn_dYK94-QjQA6TRgapHGanhVByJ33p7DoM2XxYOEc8iwJQWFGNkn7xnNxd_fA4VFp19grFYp2VpkA1b_liC8LFPAd3I37OrM8JUMEv9LZw3-2HdRPgKYG23kKaogw3Yje2BmJxPTg8tH75PcpLnD0_t8qlDYSJ_WzOo3UeLY9Wq-BYOvpS8FGA7QtNdMqgKAeRwdSVxbXnXdEHU0ACyum01a5EoPW-VpT7_S5kX70qjYeDOXkT1PSDxDcxw64d3p_vfldSR9f1QNEU5DxM_PUx48haRFePCKRl_MWeTnTbDUWpcEUnY2enZ7eF2c_5RdjTYBQCgwfcr12-wEe4a_j4-WS2Nryn6y5ssXA0BZKTp-OC0IRaFCO0tOh-kKDh_0z6qRN1Ko",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Puppish",
+     "uri": "https://maps.google.com/maps/contrib/100337990239793578493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYShwNmUP4TUdpKTv59pGX2IEQgVG_ctzLgqYsyFizdiH-hXM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDYhOrOLItrEe7eqTwQNH-j&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDYhOrOLItrEe7eqTwQNH-j!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMbHVfQwclunsRrQJAUJ1ySxjhEW3Nlz30IAu5bMJUMqsYeTWmbaeuV8jjmENpedcGox_NIFWD5Gz4mqEYNj5PCzBK-dhEnes1G00xp5U1YTSZ8lO0kctF8hydR1gK7FLclJqhj2REK3uQBCWQ8hyoPe-Zz-8MCahlnuwzWbMoMsfFD7R1mHrlD3UW_QzxKedOMMlA7p14Yg7-2YfaSn5c_AsfNh_UDfecJivNnND4PzRCajrljvHcsQcioNOY5D6BKoFDHIWTOArO4bd0TVBiHQ66vyTLWbZQ0a1xXVEcfp5gOlp7r1ge-QCSh5lxyNRiAEnDrU3HRkZef2GpSxxNE0YzQF6oPCo4fMFQ0AKhmmYyfP5_LCn1-F3nWsSjhQn_HTB94172TdT13UwvjD_Xa2w6X8A0Ig9T81_tiYR8D6VxVFQeoehJf6cUPFy2gj",
+   "widthPx": 4800,
+   "heightPx": 3614,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Puppish",
+     "uri": "https://maps.google.com/maps/contrib/100337990239793578493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYShwNmUP4TUdpKTv59pGX2IEQgVG_ctzLgqYsyFizdiH-hXM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBOV8ESDY_kDLvyIv06YLub&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBOV8ESDY_kDLvyIv06YLub!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMY50qifPEEeeXehbdQHDM_TMkoPDWgTCnjwiTr4nZ5gmaOySm3WnvI7IyDm6Ss_MFEq7e6z2QwSP9oXbKoOgXrUt549zefv_lz4Q5KbP2BX9mDIMZxnXpVfCG_tm7VGm-FCSuut67LEVFyQbUNZc18Iz-PtHAZohJ64oDM_JGqBhcVDz5NIKzE2ZsPbQbn6b6qZNGtv37kML4xo5gUyKs55jpZKi7JBeaIapCkBlFBmBwnNyDLsSAxatXpRpd4bSczscQR-s2qy37ztYH41VKranrG6N92X54PnRcqf4PS1ybhwxBbJaUtXw6ZW1zyDNnj9s7X2P_HDXzM6u6-L8KisRCa83_dLiacMZ2yOqqSr4TnXGgdtEmsMrpbqq_rq9KM186DRgFyY2XExeQuZTs1PdI3b2WKQDdf4q5lZyMWpDL2_",
+   "widthPx": 4000,
+   "heightPx": 2248,
+   "authorAttributions": [
+    {
+     "displayName": "On-Off RO",
+     "uri": "https://maps.google.com/maps/contrib/116745540416716039014",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpz7B885z1wry0MnGZq7Djey0xPVtP-mTOTQxLJbsUh3zUWlZK=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID2kNXTgwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID2kNXTgwE!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMZQ32thUVbcFOdn__d5U-fiGmpNfGSlb7IjZkuK9Ho2RjuPbmiqtMMa-2qg2tgQ25wR1yWbH44H1Xw52BdNcf9hPnqX5JrJpFIwGim8lUuYq6g9y9yNOpY91Xd1jWJJVQ8rvRXxS1AXsuPWBSULWrPhDC7ie3iOzfEmyFCRO_CNFFdxlc1F6VCMMWhl9MZ4E10ccXk4krl7GsY12IlrCqkWl43DjjUkeXSb3z_M1AyS-evG4pzk3hWGa73c5VgQOY-trEfKGDXB8O9RmPQQehas1XkThXa3ExhJh8Jv0muEtsonGp7wdLYchx7TWPwqbOGFP5A0mdb9HeuoyEgTtrRJuJUzhhRHpquq53kRvxGfN5ESdRgBF_lGpTZaEAUHhM_R4tF9pkldNMG5DbT_Hq4xN7EV4XN_eaW93lUYe4Y0gLc",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMzO_t_wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzO_t_wE!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMY4DHGn85fCvMXqpBBY2FcXz5oxrQqD1z7zpmMs1D5MMZ0Ik7RPuCYXHIa5nEdJ0qqF9rkupSOYRiOdoVw6eXnn2TSVXjVFr1SecieKAFU2XYsoZoTCK2jqoRSRYQauFYu-vGKIrq83QBifm7jXevFTnISJCQ27wh9JmTCskMHvf0kJvxLp-szeXuEH_BL25NptlHaYwCbGLfVyNckpERic6Rzx_fatv8DkyPkH-AFxSPD2kbXC-nYg29-_BZV8VuWmHLPqeogPHOafvByQxPi0P5oxkG-arrZKU6xUvGto3I-htzvpNsZviTlTsBqXOYkuw4Cq5c6BAUhlmosUwxsxgqeEa7Zn5666ve9dC4VNUr4OvllfTcKxJL05AFQpZULF1ysbnUFzY2dxVOWRLPsjI_4T8x-HiB3dpUNvNJ0hmWnZapGF4jBLVIq3ew",
+   "widthPx": 4080,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Puppish",
+     "uri": "https://maps.google.com/maps/contrib/100337990239793578493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYShwNmUP4TUdpKTv59pGX2IEQgVG_ctzLgqYsyFizdiH-hXM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBG4GYBJCLXzg8MkJGwbdJK&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBG4GYBJCLXzg8MkJGwbdJK!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMa2jo49qxLdb6BedUo3t0UoPv3PyX7YKkTkBiPcTLI0_mtPCvxWsMvoLWxu-spUXeO0ZFKJxMiy7G8yTQYsPhaTI35azS4yJeTpOZDW5ULkili12SUOR3O4rYdNFIOoVIxvuaiRT_-FhpHcEJDP7iQ6BNlmYzsn7G_HwDTHXbS5rnGXRVGvlApFcMP0eHYQJYqDUS4QSo06brHAwRFYPDc8Vl4D55YV8Gf7-CUEuddkWxTDhYYurDCPtH7GzE70WOHok4HovYLeTCm-_ZHeZwCuAnGy4X3RfNumk34ECXH64IXRU31X8sC80-Q94h6D5VrTOYVOXWKzIPFwh-PVeRfi7wxVPKE9PBQncIIEF9210WkgIvheUEgCkat0wV7Ho0_P2Y2VHh4GoMMJyCc6E3cVYOs33bTNlbxQs_SvvkpznqgF",
+   "widthPx": 1840,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE-OrPywE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE-OrPywE!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMbpyYi4TK6V9vTNsgVhlImfOXmrnYVoRpBSvm5r0M8GUZluLAR4kWCu0GjA6PMm_6FP7L3S9IZni7wLiYgAfXcy8BcIDPoFsv0k8VZoO-CwrrYlFp0_-VWeyekYSUZ0NoyKNjE4X0PVQfTFUugT15zyBCpYSrkqR41XGDUhJt6a-jD2fBjbWDhuWUpap23BtsQeWKxBItDAqMbSSdctnkppLqVygJIbptXB2qplUliGCVI7zLRwDhOXwpFYljifU9Ah3vJDnER9EvuOGjNXIt1NjHr4VoauxdNsyC0yzjrdHc0w6-sIRMQGXl_qc43vMGlrmlnJAakga7XHlJuPUtfGB2BF7S70d743fQeas-GthByj0pZoQ7YbfK_LJ1hdRtkmWwhSl8It36wmvqqNYWKEHI3o6CL0s9exRfCCy-JClg",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMzM-RUg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzM-RUg!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMZGoGO-uXaRoSwbzESblYrjWugQoGS3N2xEDkqT4uA5Q2pCEWLoLnf741hb2n_FmLAUag0YNTxX1ySZjPbYmWZ8goqZxA_zyMhYiTxERqEbtFdQJlsmXpmlrISaefu_HdGfZOczfWOPpmFADeRK402lH161aB_-nMkFQVPwAZWHmjDiIeCXKic3Q_rp-H6SEuuchE9HGWMqNMmndNgdfZ2OK0GCBfkg9n4OoCEnqk1N-XY5G43qP1gMzvkC6timvFi-UkTbahNW1qaFrNZIKG0_WN0DmBperxXaaMM3_y9FNTIsU5Ul6FI5fewtJtY5t3hbZCs6Yze-bFh-2DfhgRHtcT6LZX99vry2vCEZ9rmd72iK-f3pOeqZX2pWv6m7EH81t0tvGJaR0oOwMriVkYVjemDyS2yh8CMZECEBaTpHjA",
+   "widthPx": 3264,
+   "heightPx": 1840,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE-OrPKw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE-OrPKw!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMZApDHovzuje6kW-0f8xr3zV5GXdHRJfFV5T1pyDbhSMn_SqetZkoMo6rVaStZQVOZlLEZW2RTF57Aj-DS-Fnn_9ZvmvU4OspNh-lKs7f43vo8QUhB2GQY20vW8BtcPPr9tHI6ApTlVl2_tWjJOuPSnhdvlUExv5JBshJN8cbNo65VPo-Ry03QdTemqXhPLveTLuNmIifNjf_a8iTCIQUXZHhOLlq_tnfXMHDUSObWg7EVTcsGKeXOe-iQsAFhCAZ6LjGJ4KYXvvQV89DWB3RSPWceXBu8ev6KkuW-xUYDExcWoD-joH5hZpeDzogSyc9tFyWsqqOVnqC0FdMvZ89lK23a_CAlrTK5Be9JVlc6Z8ZIN5I-HiSIP-56wb9cMkyPJBsu3-jKM2s6IDQXs7Xk2CkUZIAjXUsodPLUg2H7yZJ8",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMzO_tvwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMzO_tvwE!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  },
+  {
+   "name": "places/ChIJB55B54fGBZERFZmZXT8VKgc/photos/Aa-ngMaSrMn8aKg86D13Q46vO-3CV5T2n9wzBmQHHWIGl6vX-NWlHwwmITcI42mO_Z4ITxIJ1Xfq2D4Sto8oWPD7ZPoJfN0QdklQn7IaVKP5uMmOR9T-Kq5KQ_D0gz4yuO1j76x1-24ZnRmB8M8es6TyjYyQYgBH5Tm_bTZsBYcmBnXprPrtDrvYdiQBI2FCnJf_C-cDXA_IZtL7yUOH1WRCHKb5qt8qISRiya9MbtlPNv_yTBb4LLU51hYbJwc3bP6Enqxzm-l6yuXB0HBh9ti6DLGrDgXoz42ZNZytUODm3mrpKniu2aqkIpdl2_k0TcPCEd1Hn6--z1Q6IRJx28OJe1FdTKob6cPnIFKVIRDDw0cuJKfYNZj1XewF1tB5rjYAVREkUJ86TGrGj4AcQQPHnr4Sbj659_XXMgJRCENkOgUOSg",
+   "widthPx": 720,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Cristian Urrunaga Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/100488469827339364162",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdZV48CxaxhCAZCvRJGV07eekSF-jsywyGo8zygQTnJdHHh1ZT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE-OrPQw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE-OrPQw!2e10!4m2!3m1!1s0x9105c687e7419e07:0x72a153f5d999915"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": false,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": false
+ }
+}

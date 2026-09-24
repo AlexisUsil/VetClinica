@@ -1,0 +1,590 @@
+{
+ "id": "ChIJUQwfJSHJBZERsWpaqpdu6U0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "986 786 682",
+ "internationalPhoneNumber": "+51 986 786 682",
+ "formattedAddress": "Av. José Gálvez Barrenechea 819, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "819",
+   "shortText": "819",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida José Gálvez Barrenechea",
+   "shortText": "Av. José Gálvez Barrenechea",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Corpac",
+   "shortText": "Urb Corpac",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.102199599999999,
+  "longitude": -77.0113588
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=5614140008171203249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.memorialvet.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 6,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–6:30",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T11:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 67,
+ "displayName": {
+  "text": "Memorial Hospital Oncología Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 6,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–6:30",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T11:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. José Gálvez Barrenechea 819, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/reviews/Ci9DQUlRQUNvZENodHljRjlvT201aldGUkViVUpNT1RCV1psUTFZMVJ3YmxFNVRuYxAB",
+   "relativePublishTimeDescription": "Hace 3 semanas",
+   "rating": 5,
+   "text": {
+    "text": "La Dra Noelia y todas las Dras en general, han atendido a Tico de manera especial. Es difícil pasar por todo un proceso oncológico pero el tener su acompañamiento ha sido lo que más paz trae a mi familia.\nGracias chicas por engreír a mi bebé como siempre lo hacen, les estamos eternamente agradecidos.\nGracias Dra Noe, por darnos las respuestas a todas las preguntas que hemos tenido en estos meses.\nRecomendado a ojos cerrados.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La Dra Noelia y todas las Dras en general, han atendido a Tico de manera especial. Es difícil pasar por todo un proceso oncológico pero el tener su acompañamiento ha sido lo que más paz trae a mi familia.\nGracias chicas por engreír a mi bebé como siempre lo hacen, les estamos eternamente agradecidos.\nGracias Dra Noe, por darnos las respuestas a todas las preguntas que hemos tenido en estos meses.\nRecomendado a ojos cerrados.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Samantha Ipanaque",
+    "uri": "https://www.google.com/maps/contrib/113126714630239204187/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgYuW1DAh0QB6G3ZaFEBMhVobcfRCEUKboGfTRWOJ4_iTM4NwH=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-31T14:53:55.535551218Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201aldGUkViVUpNT1RCV1psUTFZMVJ3YmxFNVRuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201aldGUkViVUpNT1RCV1psUTFZMVJ3YmxFNVRuYxAB!2m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KemFYQjVaemxOZEdkaVYxOXZlR0ZxUTFsVFVYYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Totalmente recomendado. Desde que a mi pequeña Lucky le diagnosticaron leucemia hemos pasado por un proceso muy difícil, pero contar con el Memorial Hospital Veterinario ha hecho toda la diferencia. La Dra. Noelia es una excelente profesional, con una empatía, dedicación y paciencia increíble y todo su equipo es de 10; nos brindan un acompañamiento sumamente humano y un trato lleno de amor. Saber que mi pequeña Lucky está en tan buenas manos nos llena de paz y confianza. Infinitas gracias a la Dra. Noelia y a todo el personal por su impecable labor y por darle tanto amor a mi pequeña.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Totalmente recomendado. Desde que a mi pequeña Lucky le diagnosticaron leucemia hemos pasado por un proceso muy difícil, pero contar con el Memorial Hospital Veterinario ha hecho toda la diferencia. La Dra. Noelia es una excelente profesional, con una empatía, dedicación y paciencia increíble y todo su equipo es de 10; nos brindan un acompañamiento sumamente humano y un trato lleno de amor. Saber que mi pequeña Lucky está en tan buenas manos nos llena de paz y confianza. Infinitas gracias a la Dra. Noelia y a todo el personal por su impecable labor y por darle tanto amor a mi pequeña.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rocio Borja Zabalaga",
+    "uri": "https://www.google.com/maps/contrib/116543899927580689096/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYsORUk3eahUnB3Mf1aePZZzxtOmbLV0ZG3DvDuVuBVZv3pQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-22T00:12:55.364083790Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KemFYQjVaemxOZEdkaVYxOXZlR0ZxUTFsVFVYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KemFYQjVaemxOZEdkaVYxOXZlR0ZxUTFsVFVYYxAB!2m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jNVMwUjNPVFZUZVUwemVURmhNa3RzUWw5T1RXYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "¡Excelente atención!.\nOsita fue sometida a cirugía reconstructiva y electroquimioterapia en su miembro anterior derecho y viene recuperándose muy bien. El equipo liderado por la Dra. Noelia trabajó con profesionalismo, paciencia y mucho cariño en cada etapa: cirugía, postoperatorio, curaciones y seguimiento. Nos sentimos acompañados y respaldados en todo momento (van mas de 42 días desde la operación)\nTotalmente recomendados.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "¡Excelente atención!.\nOsita fue sometida a cirugía reconstructiva y electroquimioterapia en su miembro anterior derecho y viene recuperándose muy bien. El equipo liderado por la Dra. Noelia trabajó con profesionalismo, paciencia y mucho cariño en cada etapa: cirugía, postoperatorio, curaciones y seguimiento. Nos sentimos acompañados y respaldados en todo momento (van mas de 42 días desde la operación)\nTotalmente recomendados.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "José Luis Ortega Alfaro",
+    "uri": "https://www.google.com/maps/contrib/107795493014118187116/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUH0fNs-q2RqwO6aj34xxwMLx77p4QNsPp0HVqwSKTvc6XI1g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-03T20:31:34.638905214Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jNVMwUjNPVFZUZVUwemVURmhNa3RzUWw5T1RXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNVMwUjNPVFZUZVUwemVURmhNa3RzUWw5T1RXYxAB!2m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFM1lXcGhUM1JFYnpWQ1lVWktZVTlFUkZocVFXYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena experiencia por el excelente trato hacia las mascotas y una eficiente atención. Se los recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena experiencia por el excelente trato hacia las mascotas y una eficiente atención. Se los recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "carlos constantino",
+    "uri": "https://www.google.com/maps/contrib/100613513640436666598/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIa5MphVxiBbSlhZT6J7NE5v5Telh1jpNEVfBQwk7qaV1S9Xg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-16T12:03:02.596605660Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFM1lXcGhUM1JFYnpWQ1lVWktZVTlFUkZocVFXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFM1lXcGhUM1JFYnpWQ1lVWktZVTlFUkZocVFXYxAB!2m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNVpsVk5XV0prWTFkeVVEUjNPVlpxWVdnd1lWRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta su atencion , para nuestros pequeños corazones y la confianza que nos brinda .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta su atencion , para nuestros pequeños corazones y la confianza que nos brinda .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "pamela fiorella gamboa hernandez",
+    "uri": "https://www.google.com/maps/contrib/110981955488643887182/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3DbRnlN6HP0-wjqjC7p9Z5pMNdmjCKgRUdby1gc3s2tbRNOk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-05T20:11:44.796200193Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNVpsVk5XV0prWTFkeVVEUjNPVlpxWVdnd1lWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNVpsVk5XV0prWTFkeVVEUjNPVlpxWVdnd1lWRRAB!2m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMYawitjflyLQvjC18776wwZO77jdZHoET1KUPM_hIYOSyoghoNT60hs-d6IhQ_RJpg_KKBngBWkTLJpU2Ves8Zp4N_I8-49gbRV65m7Unr4KOHLXorFuRb2rpUZ5BjelEQLMHDds_kJO_48NGpg_cxijhCf802TBAz2dnH0chmIHnNeAl3CZgIyWyfZjqOMDf5lOH514xpSTYKkmbqigAaanUtb8C9GtX5OFTZO_Jui-wnCk2ZgRlOQ5RVgRltwT1F4Jwo8WUFhAgcvZRbF3nIhUVugmz6M37OnMV4HLob9L4PezQErGKp6NPZveXsfA38vd6YLoq1d_p75zyUzpnOadJEZ4rCLEI5X9E053SKfQ63ZPfi9akiK7C2DFOVyOroUgmeT-1EnDDr616_k5sHZFDertvlISweAGhSZjHTkokgSZ8DHTifX73VWv7nG",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Groomers Usuario",
+     "uri": "https://maps.google.com/maps/contrib/108074432167764314866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVionlqgEa2acRUr9pqqCITEGpkkdspnrERDRALVlrfDodhTSVh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDuTFiGGrxUClVUZnwP8s8g&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDuTFiGGrxUClVUZnwP8s8g!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMZq45SjAW-gnb-XHirRnNVKoT5k2xAxG3Fx4axmCke_g8_rZYrl2teXdV3q1QCm-DkMhzJFV6wobX4P14GV3dtR16mvdKFYlz3Yo-wF5rwJ2ZlommOrtHiZpVus7J7onSWXImr3AWZMxz-Xg_29r7kr7AbXAsU4QxM3r5M409oyGWeWKj-CwuUS5nEgfz1JVuygiwkDnYU3LzBRJnkTRY6HOmN8RPVkYJXRqhZaQwAwiNKzNoe4eWT7AhcEtfYfMdvQpYSoOaA754BKCCL1aE39KNAqFt8_LxB1xRTq_Dt20qILAI6pHqt7rxJnfcWZO6zrGZL6V0nmeAgZN0G2N59usYnPwQ1hOOjkTd4SsHck4ReQMAhWPgCajw2DO29JXjqg-BuuD-qX9PIcaiQctyonYq8KD6Wih-Cq2SUaDmX24C-OeBQ1YKCqYQmEuxvM",
+   "widthPx": 4800,
+   "heightPx": 3600,
+   "authorAttributions": [
+    {
+     "displayName": "Groomers Usuario",
+     "uri": "https://maps.google.com/maps/contrib/108074432167764314866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVionlqgEa2acRUr9pqqCITEGpkkdspnrERDRALVlrfDodhTSVh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBNDTpmTxyVt966IXWjqjLE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBNDTpmTxyVt966IXWjqjLE!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMYc2FY3ShQWMG5a-eyNLDzdWbGfD04bU8PTJVK-Zk8llrneF7-k10NzWgWncVKOl7xfggXOGGkBwgktdD-1dsFwW7Ej8hTn8gSsCO8XPghZ-5BoyEISKkpRwf3OKf7WDVdcIwh3GTRf5m5k8HMAqm7FyrtcbWwnm8IfDVC91r6bOOK58E3Ao2g5QrXWzoS5g5ijwSy_VC8RjYgdzi3tg3qXap3ouNVgpQ-9yLaI1nrdC-C6mBFVNZ-0oMe1pxePRYwKYa9Wh3GdbF68hgf8RC_18PexHMBgCuCVQ7CO9FRouClknmzK3hgX1g7Ah6eMC3mShOhQOzX8Le0zQGmkF5SIJQXaDWm9ijotYuxvrMx3VUxbxDPUFhgt_ELwG7RGxQ394ke_hUtqNHt6a-Ol6rNKs1ipNOLGsmpTASG8UUGI5prs_3HPQjo9edt9NdI9",
+   "widthPx": 4800,
+   "heightPx": 3600,
+   "authorAttributions": [
+    {
+     "displayName": "Groomers Usuario",
+     "uri": "https://maps.google.com/maps/contrib/108074432167764314866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVionlqgEa2acRUr9pqqCITEGpkkdspnrERDRALVlrfDodhTSVh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhASicUzbFXVF1XJIIXFKOan&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhASicUzbFXVF1XJIIXFKOan!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMZZ7FlaggQnspBHL1z0r-_cwKH4ZtEwFSGtBGT01fOPxKw5ousAJPofCW1RScx21DP4Y36nclrcohSvDiAFkf8h8larDJPb7mFTzP-IKwpjxJBb2TkkcXykuRoZ8E4ZoicWPGiwxXe6y8mmZ-2OxOFBWZZ8k1adv6GIq6IPe80yejokhD9_FxflOtMMBM4U2oY_RIa4HuZXpMfw0_2bO-OZYL5qtTj6n7x0ARwVc9jAfAMONeHjyOnU8Gfoy5mzSglATTVcNtnlz7VbTwm6xlrg86_byuOFJ6l3eRNNEk6odRRDcKchqMTW_6zRngZpxZBv2XV9atHpZvsKfVGAOBi0OQs01jDM9_gApvJIWr5ddS8sS0biz7BKhNnMyTHy_iLr2VRWHshQI4PmRnK8f4dRBnHjtZc3cvlZ3Na5kBj3Hc464qqvn8f-KGUj_PmS",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Daysi Gutierrez",
+     "uri": "https://maps.google.com/maps/contrib/110317343939853036243",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1K41JcHBkmJFT5-GEka4VX-1Z4tPQVA1nyLEIOacdb4r4jnwO=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB0NmYvneGojBU590RUGB2I&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB0NmYvneGojBU590RUGB2I!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMaZBOJIOxD43Nux7oVgDRy9lsrUmPsVTCmrb_BJ6af06fAVZqgqZSP4izJ95LBXOCp1MMqHf_Fi8k1ffEXBaZEIewhEIrKEbTM0N7iUK4Ss40t5rAJ9aDRbGnIvA5Ns-hb4lrUJDieuVzzd4BMtbujsp3uzXDzU9uehxa0-uGyaoga9worJdiPGmREFAvXK9WZsZceur0P6RdYxrYVfnV06ZH5syjDVw0n2R6N-qOSORFA8Pu3WJExs9FjPNvi6IU2bLfLjOlKZNZQZNh4HCNcpDeM4g_GxU6EL9Unp_fWRjCR_Oo1rnEl7EVZCodYWSp7ldx_0XZcLnpLODOErWnBA0UW8X7l1UQcn4P_CgjiEtSbPp_YcdcLnIm7UGnW-VRSN_DSXIHgCVRj7WuXkWRFW45NX-K3UI_sbqZ4TMOdHzu_m34kOTm0Fa5qn5MSJ",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Memorial Hospital Oncología Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/115471437012858529740",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIK-X2dsEFsd1KMYEjjEzESjSpCrVv1dmijqOAOUML4-JoqEA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhClvMjSBIHcj27AMQnx-WUo&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhClvMjSBIHcj27AMQnx-WUo!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMaJPb4qo49wiE54_Q5-68LAA4EMut4pTEsdw2pn7QzRQqThTzVD6LYXFOK0cm1g3SRO0kJveIbiTfcWJUz7g3haY8v3g87FUvG0HIOblXUEXPmrMvomBs6lWZwsUq6J7J5XH1nTLdAq5kWN2F72uuZJ7un5hSzC8INaG4rx6ZVdN2ZGBDtRwGZubNnyxuj0nXwOfiL7bg4hfX1zROu5GrzDTLDl6sFeymNf_wGxCwKsRet5U47PxAxBUjY9d89yRV599Dex5bIXYTJW-dTL02LOBhIqpsGsP6_VHWAWn5Us_2uAj8WgN4vYS9oGUXteMZsVN9CPquvustNdiacEAAiojWhiHSKcfpKioqz9RvglZENi_ZqZJDE_1Ekqsdr5tGAu4SkkSNzjDxDhzELSyWYShqKeOh8RREwujJ0-GI3MLjBjCF4El5bA_4Tthw",
+   "widthPx": 974,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Daysi Gutierrez",
+     "uri": "https://maps.google.com/maps/contrib/110317343939853036243",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1K41JcHBkmJFT5-GEka4VX-1Z4tPQVA1nyLEIOacdb4r4jnwO=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAPJkKd4e4qyjJDvM6kHwNE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAPJkKd4e4qyjJDvM6kHwNE!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMZmglfl896dzyJ4l_2hlZ15UMaNS9h7waauyRvPMk9bQFxVs1DU7mJr2iy0BAblVf_pIYnhJC3DO6EO9iKc6-8x-uH4oiOuzxnIfRt8uO5pC9rw4qDsxjfuZgslrrnEFpM7C3m9b7ckgUa-R67Ope9d9tsi4SztKNL6v9PjbZ3ivBj1tB4xTaRvwehAVgXcvAqZqpyFQkHoWrlQKGRbk6f1AbvH4aBU8mdKKHTie0sx_vlgiTsUzCXJDxBINCip8kXvlsh68UPRFe0IjkwKOEM2w3GzUD0JuXG9gJF5r3L80V75htYf7oD69FuNRucM2b7Uf2QyHAttPVbUgD-lmGMM9u9DxS3byl8vivHTWuUFVz_8mrkysvu-vNW3Z8Fp4Y-pgJgLZlbIaLgpIjFKWFX1EjalZSg2jx7KxyHnr41xcXZCQ9OLbHC0s50tMgOO",
+   "widthPx": 735,
+   "heightPx": 919,
+   "authorAttributions": [
+    {
+     "displayName": "José Luis Ortega Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/107795493014118187116",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUH0fNs-q2RqwO6aj34xxwMLx77p4QNsPp0HVqwSKTvc6XI1g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDR_1sOHrI24srw450jN9vb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDR_1sOHrI24srw450jN9vb!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMat4tBD-0XYyEQ-RiAENM8tjJJ919yzRaaOH0rF7kTqEiLM5s0ciRalj_iHEUdnJ6gqJxCN5cx1SJTW_8V5uKQpEoHpZg3CU8jBr8CkKfQouAqV00WdLHMOUyvHU-RTaES_5P56P5NnOoOLi0daqlSEQGl8TXihaK6h2QNiNAMJk5UXpA_RG_HI7kHeW_Kfrp3fx0ZadO9EKhY-yuSgWVMbI9pjOMxxaDemI1cdvZovr1F6VcW9DBZ_boBwEyt-P7LDW584uinmi-zhUlAXXNGgt_GjOWakw8P4IFcg2XvFMFKHYZ4VxeS3XPWmksMM9CrxBJrhWd0aGj29B_O7irNfuPCRqjz1Z6Ei1cfuajGRRS2MIBAT-_rJEF00nd75_A4tEvjouaZasfI7SSZU-0I3p0bPyLHNVc0My58RsInyQyIXAxrHNNp61PkVLKhE",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Yanaisa Millares",
+     "uri": "https://maps.google.com/maps/contrib/106509784580662705080",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINxLiIgXTeK6A5a_hiN4zarfT2JM-tzDBUrtlEXJVqdAlD7A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAsatdc1WDN6Bz2XP761knc&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAsatdc1WDN6Bz2XP761knc!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMZst7ntpgUzBAe4QV_ny97HTy1dSZI13iTd_sHgLO7z-tpcJ5RFS_ViLH8RhJ3nZYTClFi2nOGIcI5N1xWxX6pK1BsxKGNbFxOiQaOIXvcr6XS_D-85FJHONh92HuLyLRyJ-HNoA__LCj3zpSLbsO_oB5oM7X1f-Jr7ri0m377wVaiUOrOHBLYvE_eRyqbdlaFrGJOqduS_EaUfMMRfLNVRyD3YpHIXcpTbuBMtPv8sTy3zUTx3nd3Z8pypqh4S-Mcew7jwYeUicHmyDArXqaYMhcVGizjXTKqAX0fdWe6xBWHzug7UmkqzvmZJzbMeGzSoF_O1ObxbbP-m31SVb1fMg8czJ4-u9owCHhpRxWa68iePTSeGAgl_ZLnwi2MMsK6ZDJp1X0uHIUgxEve0dbXo23ButVSPWBAqQ5AqfrU1JlYgQ_LFNDKDZyznxx8Q",
+   "widthPx": 4800,
+   "heightPx": 3600,
+   "authorAttributions": [
+    {
+     "displayName": "Groomers Usuario",
+     "uri": "https://maps.google.com/maps/contrib/108074432167764314866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVionlqgEa2acRUr9pqqCITEGpkkdspnrERDRALVlrfDodhTSVh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhATPj3ioIuuJ9XVEAimKUO8&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATPj3ioIuuJ9XVEAimKUO8!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  },
+  {
+   "name": "places/ChIJUQwfJSHJBZERsWpaqpdu6U0/photos/Aa-ngMY7lAF1Prysf1TKZIH77cC3s0cVC6QMM38rpaVfPFnHaTKFKTJWsxJKQevJw--Rhbmo_xnzQGepTX5v1gy5JgoIbe46rTfmaHVyhnfclz7LfvEPmvP2y3MLaEHvBjonOH8lSnaf_YEH1MQ4CXNdNRW2unfISPI-gQ6V3h3BE79ZpC3r6LVlazMdnkAS_RCT8mKkPhIh2AGW3tc9sUs8bjHLeV5lW3MLLN0MTAhxhiq5i4FBE81B2kl-GnvyhIKCvKONJbPMOCvhtzV6_nGIU1tqqm0X7Qv9D4vXE2DPjvgwC825taR3QjpeCSMell14_6FpqXA-DbQJ3xRJywFCdTSapgFXce4hSsgbkNrb8KKNSrsv9aLgXBmSpnZ3RXIhpTJ1nW_ZCHg9q6P9LUbdyX_y6fZcDw1t5nz8zNAXaqLATmxFAiYUCMf7I6m03A",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Memorial Hospital Oncología Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/115471437012858529740",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIK-X2dsEFsd1KMYEjjEzESjSpCrVv1dmijqOAOUML4-JoqEA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAWogBsmyfhoDpJtg6SitbD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAWogBsmyfhoDpJtg6SitbD!2e10!4m2!3m1!1s0x9105c921251f0c51:0x4de96e97aa5a6ab1"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": false,
+  "paidGarageParking": false
+ }
+}

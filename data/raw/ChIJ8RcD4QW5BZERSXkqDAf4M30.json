@@ -1,0 +1,557 @@
+{
+ "id": "ChIJ8RcD4QW5BZERSXkqDAf4M30",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "937 317 177",
+ "internationalPhoneNumber": "+51 937 317 177",
+ "formattedAddress": "Av. Alfredo Benavides 3580, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "3580",
+   "shortText": "3580",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alfredo Benavides",
+   "shortText": "Av. Alfredo Benavides",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Rosales",
+   "shortText": "Los Rosales",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1289024,
+  "longitude": -76.9984887
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=9021827187705805129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://petpharmacy.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 26,
+ "displayName": {
+  "text": "Farmacia Veterinaria PET PHARMACY",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Alfredo Benavides 3580, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4N1ktLWtnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! Son muy cordiales a la hora de atendernos y se prepcupan por el bienestar y la salud de nuestras mascotas. ¡Recomendadísimos!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! Son muy cordiales a la hora de atendernos y se prepcupan por el bienestar y la salud de nuestras mascotas. ¡Recomendadísimos!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gerardo Gutierrez",
+    "uri": "https://www.google.com/maps/contrib/105621969595050145492/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvNXQvmyl5SZ8L58FjvKc-pBlVz9zxSOEX_UwuZreOKYikIEp9AQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-13T17:10:49.998986Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4N1ktLWtnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4N1ktLWtnRRAB!2m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4N2Fqdm93RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y atención de primera! Siempre encuentro los mejores precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y atención de primera! Siempre encuentro los mejores precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sebastian Siles",
+    "uri": "https://www.google.com/maps/contrib/116378737948974600754/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBQ7P6ocmm5P8IoIpeSn01gRq3E0jL-Re_Bp5ZdEceiEadvM8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-13T14:44:19.832598Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4N2Fqdm93RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4N2Fqdm93RRAB!2m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4N2FDbVRREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, lo mejor es que te asesoran sobre las medicinas que llevas, buen horario",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, lo mejor es que te asesoran sobre las medicinas que llevas, buen horario",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alicia Sánchez Namias",
+    "uri": "https://www.google.com/maps/contrib/117537361644318216345/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQXPnfNG87afTQigwKf4zoylzstVoNoCxR6WJ98GRKgLOgDvl0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-13T14:33:19.021956Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4N2FDbVRREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4N2FDbVRREAE!2m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4M1l5NDF3RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena experiencia la qué tuvimos con mercho mi mascota, gracias por las recomendaciones y los acertados diagnósticos, sigan así siempre ✌️✌️.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena experiencia la qué tuvimos con mercho mi mascota, gracias por las recomendaciones y los acertados diagnósticos, sigan así siempre ✌️✌️.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alberto Ivan Quiroz Arias",
+    "uri": "https://www.google.com/maps/contrib/111824333865597923245/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyaPqfOVq3nGviphKgypfRKWWqJJSP3i4LX_deTECfvfUPBIy8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-15T14:42:18.498481Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4M1l5NDF3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4M1l5NDF3RRAB!2m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4M2FqaVBnEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Esta es una farmacia veterinaria donde la atención es muy cordial y donde encontré todos los medicamentos para mi engreida",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Esta es una farmacia veterinaria donde la atención es muy cordial y donde encontré todos los medicamentos para mi engreida",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "jaime becerra",
+    "uri": "https://www.google.com/maps/contrib/116162496363726877002/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQfQF1SsJ9kWuaeTS2hQ3SoZfzIuwWVvt4FKfE_HumX2TwL4yBGQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-13T21:08:58.621882Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4M2FqaVBnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4M2FqaVBnEAE!2m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/photos/Aa-ngMbDPnpD07wGFBvxVEllDtTyi2_xVek_iWOWda5xoZdu5jR_yzuH4q7c2cdqSJ5Xe5f44mOhEHyH9MMZGPptgW9SsVdGrgWOKPqByT2X3NlRv5shG5lDzUnUbXczfFle7jSNnWDoTwOW-6gOnfD7nGXG1k6MvpcgoRwnHlyluYPkgFAsH2TqnQkDmYMWhYKg_YYzhpcyczvZqjhjfRXZy-mtk2UsXZf3ys_tOO2buJDawXI6gaxOKAfuT_nlk8kcC5y3DalXDoS2jO9kggyWYJAC1JZMT9MqSnA96qJL4tHTe1AOws-uZ_4w63bhc5EVUMsPX9T70AhbnPcbFByo33O-9P-3yhb2NV4MWVfaNL6I6Dg0TwjeAXiN6AyqT63f3N-T3qcTv6e19BZRb8F9kzAq_2k8",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Farmacia Veterinaria PET PHARMACY",
+     "uri": "https://maps.google.com/maps/contrib/107859762331923480564",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_PH4SZrLtkyVzElgFRSA9UrbKJ59OomMcC4nlJRIMN2aVrZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxnevzzQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxnevzzQE!2e10!4m2!3m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/photos/Aa-ngMZyrjt6vp6C-soAWr0CkZWOSOnjj-QaVnWAkcKlB7bqaGTnek0OLntKWMgRBNBPrHw-jXdIbJhvqo_YIzLmTaJSwixyUA7DVRX5HyEt8FcPS36PZWr9ADm4_XTjfoZ4T7Ar41yRjDdSIFs7Ej8Ds7x9nHxSBXmM6ZNUR6e5j8iXov8NNseI0OcLjQ9lxQzqfdU836dum21tqm_1S2y_SlsAXu8kN1dK41dSgW0e1ta4JZjFlNWpKN0CDkNE1chAdBmC-EKwEuVCfqDHHfXJq5uhNTfLQF4RQt8p08zA46HmdpmGQYpWi-zP5q5fEuCuXwvdpiYvGk8uPyYb_7PdF0gxd0SQfR4KLKB1eNYdgfoyMttlBRe3fUYhO0b4oDVlWHNic1vaB0976lFBTdK0L2wjbdOQrWA",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Farmacia Veterinaria PET PHARMACY",
+     "uri": "https://maps.google.com/maps/contrib/107859762331923480564",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_PH4SZrLtkyVzElgFRSA9UrbKJ59OomMcC4nlJRIMN2aVrZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJuIDM4gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJuIDM4gE!2e10!4m2!3m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/photos/Aa-ngMbxrR0p8gsWDvPp8bPVSYQy70JSO8Gx8pazztk9i_n9F5HoitrpieHd-26UlwgljkbT231Ym3U-wslkfAojG9KFOQ2xH8fR13V1leAZxLOypf70xZUJTfITpOquN4OGN1TNdgaJyDMLHw5ha6l0iUECmbbKf1OfRacj-eSjxQtUpiq6cU_xL7BZkn7V2RxiMbDh66r0BPnkntV8kJ9yBOdr2eG7MjrHmZwGzrObh3ZD978FypS3EWJXn_SReMgIxPUBALEAxlnBtvJGjfLrH1lHmPs_P3A_TvTyMJ_0_3t02hjhVIf9z7YAT_54PsV1-vZLYH8AKv7vUCaaL6J1C4PGRVc_9iev14Eq2SXEhTFYIQaq8pOr3LeZmkeJR86i-0xOMVaecaLYpIhGrU37jLP7Bw",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Farmacia Veterinaria PET PHARMACY",
+     "uri": "https://maps.google.com/maps/contrib/107859762331923480564",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_PH4SZrLtkyVzElgFRSA9UrbKJ59OomMcC4nlJRIMN2aVrZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx7ZCcSA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx7ZCcSA!2e10!4m2!3m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/photos/Aa-ngMZpAj42U9r7YtHmaLjJwY2M0QPnxaCHXa7stc4Ympl6-LnMkJdsEPnc1vCz8X2IIgOGOcGqepiY04voUYUEFGlBhiqx7YM5i9j-CUCoqO8wVTBlb6nF44YI8Hk8XfC7LS-zwsFConoR6aaF52CZDeVBKbyDRLoej_50RRUbsM45ISaIXU30Yskw-kobroL54UrKIib7mTVxbNWGIzd3xUIGyepco9bc_V3D3gG8Uy9Bqb2wOGQPhaoYxw3HjHSenZyTRlwZ1iw64DG5IYk9a-kY_bIHL1LORqqDAoJlk9NXH1nrMCGIHWGm8Mbb0-qwbvDi9icZO4INmQJvjZBZ_IzKePmH_eeo3rVlKpb56-qx-YizhPfosChAnHoDX1IViy_oCjJfR4Tmc_vil2z3XpRw3Q",
+   "widthPx": 940,
+   "heightPx": 788,
+   "authorAttributions": [
+    {
+     "displayName": "Farmacia Veterinaria PET PHARMACY",
+     "uri": "https://maps.google.com/maps/contrib/107859762331923480564",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_PH4SZrLtkyVzElgFRSA9UrbKJ59OomMcC4nlJRIMN2aVrZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx7ZDORg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx7ZDORg!2e10!4m2!3m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  },
+  {
+   "name": "places/ChIJ8RcD4QW5BZERSXkqDAf4M30/photos/Aa-ngMY5YT3j8bsv1QQYdCoQqnJ2vjq1RhGi6kq3k06mypynrF0K_IOHigf8-XN-0I6YJR9dSRqMLKWjl_2ZPB7D2UXdqXRf2mtVaGtrl60mkJ6LEEDs2zW9jWmL2dgPJcuw2bt_hIbUZYok3_HCfUpSMp5KAZcR2JJtmO-1Jqk1qwqJBz1mQD2QrZCn7l47RZxdGn9L93_u9Vk1eXeVjNR8aVAKvCtk6X9gWkChwCbFx7MpWcDqD6Wxa4lRApx29nQRPfek4TadR6VfXweOoZcIutyJWYh2v5vJkvuw76r6cftoGQRc-gGyPAqXWNIPAUxgwzCwyjBWvPA_3ES9s8c9ZP94kH3oTEYzusnu4B8Uyt35U70tmF7dz05Vu9L0s9rhIwMksbjjDl2wfZfyzPi1RKvZzjpo7pU",
+   "widthPx": 1869,
+   "heightPx": 3008,
+   "authorAttributions": [
+    {
+     "displayName": "Farmacia Veterinaria PET PHARMACY",
+     "uri": "https://maps.google.com/maps/contrib/107859762331923480564",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_PH4SZrLtkyVzElgFRSA9UrbKJ59OomMcC4nlJRIMN2aVrZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx7er43AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx7er43AE!2e10!4m2!3m1!1s0x9105b905e10317f1:0x7d33f8070c2a7949"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true
+ }
+}

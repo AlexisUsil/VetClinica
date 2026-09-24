@@ -1,0 +1,155 @@
+{
+ "id": "ChIJO7_iM47HBZER5UjHqPbuIkE",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "951 768 637",
+ "internationalPhoneNumber": "+51 951 768 637",
+ "formattedAddress": "Av. los Fresnos 1826, La Molina 15024",
+ "addressComponents": [
+  {
+   "longText": "1826",
+   "shortText": "1826",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida los Fresnos",
+   "shortText": "Av. los Fresnos",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Portada del Sol Etapa 2",
+   "shortText": "Urb Portada del Sol Etapa 2",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1108824,
+  "longitude": -76.9385097
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=4693576504834476261&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 0,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Abierto 24 horas",
+   "martes: Abierto 24 horas",
+   "miércoles: Abierto 24 horas",
+   "jueves: Abierto 24 horas",
+   "viernes: Abierto 24 horas",
+   "sábado: Abierto 24 horas",
+   "domingo: Abierto 24 horas"
+  ]
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "SimbaVet La Molina",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 3,
+     "hour": 0,
+     "minute": 0,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 23,
+     "minute": 59,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Abierto 24 horas",
+   "martes: Abierto 24 horas",
+   "miércoles: Abierto 24 horas",
+   "jueves: Abierto 24 horas",
+   "viernes: Abierto 24 horas",
+   "sábado: Abierto 24 horas",
+   "domingo: Abierto 24 horas"
+  ]
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. los Fresnos 1826, La Molina"
+}

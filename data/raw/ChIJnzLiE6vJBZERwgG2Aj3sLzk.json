@@ -1,0 +1,536 @@
+{
+ "id": "ChIJnzLiE6vJBZERwgG2Aj3sLzk",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "doctor",
+  "health",
+  "service",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 806 985",
+ "internationalPhoneNumber": "+51 952 806 985",
+ "formattedAddress": "Av. Antonio Miró Quesada 733, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "733",
+   "shortText": "733",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Antonio Miró Quesada",
+   "shortText": "Av. Antonio Miró Quesada",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.090662,
+  "longitude": -77.0583099
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=4120771930849935810&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.animalia.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 84,
+ "displayName": {
+  "text": "Veterinaria Animalia",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Antonio Miró Quesada 733, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSeFNUVmlWWHB2ZEZkTmNqbERiREJtU2tGclNGRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "No pondría a mi bebé en manos de nadie mas, aunque esté en Magdalena y yo en Surco, ya comprobé que veterinarios hay muchos pero Doctores como la Dra. Gensollen, no hay muchos. Otra cosa.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No pondría a mi bebé en manos de nadie mas, aunque esté en Magdalena y yo en Surco, ya comprobé que veterinarios hay muchos pero Doctores como la Dra. Gensollen, no hay muchos. Otra cosa.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rodolfo Jibaja",
+    "uri": "https://www.google.com/maps/contrib/114800316942161325405/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTs7DIE1rx24caWBbmlOC8e3C3tEadIr195_vEfmv6RYLYbHaHeA=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-03-25T01:59:24.154612457Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSeFNUVmlWWHB2ZEZkTmNqbERiREJtU2tGclNGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSeFNUVmlWWHB2ZEZkTmNqbERiREJtU2tGclNGRRAB!2m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYcHV1SzJRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buen trato y recomendaciones muy útiles. Ideal para la atención personalizada de tu mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen trato y recomendaciones muy útiles. Ideal para la atención personalizada de tu mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Abel Ramirez Pimentel",
+    "uri": "https://www.google.com/maps/contrib/111030898139190241376/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbEe2dpcWKp3D1IeoIOwr1QN6pjX7TCndA91thBzflFu2w8y-61w=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-10-16T02:31:29.467196Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYcHV1SzJRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYcHV1SzJRRRAB!2m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/reviews/ChdDSUhNMG9nS0VJQ0FnSURLOThDRXN3RRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 1,
+   "text": {
+    "text": "NO lo recomiendo. Mi perrita empeoró después de las indicaciones erróneas del dr Francisco Canales Ríos. Mi perrita tenía el ojo derecho en buen estado y el izquierdo estaba con inflamación. En Marzo, el señor le recetó un antibiótico y unas lágrimas. A los dos días de aplicar las gotas mi perrita empeoró y no podía abrir los ojos por una mayor infección y úlcera, por lo tanto no podía ver y no caminaba. Es muy lamentable ver a mi perrita en ese estado y que habiendo conversado por teléfono con el señor no haya mencionado ni las disculpas. Y me atrevo a mencionar que las indicaciones del señor (no se sabe si esta acreditado para laborar como oftalmólogo veterinario) fueron erróneas porque busqué segundas opiniones que dicen que las gotas no debieron ser recetadas. No recomiendo este lugar para nada.\nActualmente mi perrita mejoró gracias al tratamiento adecuado de un especialista",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "NO lo recomiendo. Mi perrita empeoró después de las indicaciones erróneas del dr Francisco Canales Ríos. Mi perrita tenía el ojo derecho en buen estado y el izquierdo estaba con inflamación. En Marzo, el señor le recetó un antibiótico y unas lágrimas. A los dos días de aplicar las gotas mi perrita empeoró y no podía abrir los ojos por una mayor infección y úlcera, por lo tanto no podía ver y no caminaba. Es muy lamentable ver a mi perrita en ese estado y que habiendo conversado por teléfono con el señor no haya mencionado ni las disculpas. Y me atrevo a mencionar que las indicaciones del señor (no se sabe si esta acreditado para laborar como oftalmólogo veterinario) fueron erróneas porque busqué segundas opiniones que dicen que las gotas no debieron ser recetadas. No recomiendo este lugar para nada.\nActualmente mi perrita mejoró gracias al tratamiento adecuado de un especialista",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Isabel Miguel",
+    "uri": "https://www.google.com/maps/contrib/114441272720301543068/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjDP-yMHlezli3Xe2O-p_5b7td7I9t5JnsclKYId9w9kuznuQA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-05-19T22:39:43.753099Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLOThDRXN3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLOThDRXN3RRAB!2m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MjlxUWh3RRAB",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 5,
+   "text": {
+    "text": "Un muy buen sitio para traer a tus mascotas. Tanto para una cirugía como para un simple baño. Cuentan también con oftalmólogo veterinario e igual con un dentista veterinario. Puedes confiar plenamente en que tu mascota estará bien cuidada y bien atendida en este sitio. Recuerda visitar la parte de la tienda, donde tienen un montón de artículos para tus engreídos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un muy buen sitio para traer a tus mascotas. Tanto para una cirugía como para un simple baño. Cuentan también con oftalmólogo veterinario e igual con un dentista veterinario. Puedes confiar plenamente en que tu mascota estará bien cuidada y bien atendida en este sitio. Recuerda visitar la parte de la tienda, donde tienen un montón de artículos para tus engreídos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Raúl Ferreyra",
+    "uri": "https://www.google.com/maps/contrib/115961426508073847069/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQI-KttxubaQPx4xAQ0pmiUZzuiZx-nNuOBdChhN5dov3N9QkutA=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2018-05-02T06:23:49.821Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN3MjlxUWh3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3MjlxUWh3RRAB!2m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1cEpYT05nEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy agradecida con el doctor. Mi Morita paso por un proceso complicado con su ojito. Al final tuvo dos operaciones  juntas y todo salió excelente. El doctor estuvo siempre atento a su proceso.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy agradecida con el doctor. Mi Morita paso por un proceso complicado con su ojito. Al final tuvo dos operaciones  juntas y todo salió excelente. El doctor estuvo siempre atento a su proceso.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Alexandra Reátegui Sánchez",
+    "uri": "https://www.google.com/maps/contrib/113123520706463460085/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4Y1ho9LD3NjpFqKMRdF8DWMRxPhSW-dQo3YSG9UbTq0XNuh-Itw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-12-18T01:57:51.613309Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1cEpYT05nEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1cEpYT05nEAE!2m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMblZgmuA83Z1o9CMkzjCysaBoa24fUUV0Id_trfrsrH1K12PEnxawRSy4xELSzxZehaklf5VLT9Y7lbROF09s7gjUgXWvzgC4UKMJJ1RwfJ4B0BmjGAzuzKG7O_uHeenfxncWknFdD6zBSjnWKVS9zMhr0fV0KWqVj7qMfq0yIrtFLLgwsztk-Y8jvDLkSFv9JSgzL6q_tDQ-U6RG1dhHnOUxlRBr5CwIBJHh59pQFC0Oy1ZLTi0_xgz8DlTp6qPn4WUE9gBtz0kakNWLg3sDMP77HDB6pbLyK-dKK__rPmLu77jWoPU4MnHTqI7J3gUUhyOciqotT-E_qJ_BPpVBmoDjvBtHFj5YJ0EfdQKWjKluJ6A_wR6m2jEsh-tJhRnyqfiJecBMYB3G-ADqfDNis2SS81F10",
+   "widthPx": 592,
+   "heightPx": 592,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animalia",
+     "uri": "https://maps.google.com/maps/contrib/103545434733180761261",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRillrtl9HidLItss7adXAZmA5k6LfIm1aGJ4nOkBj0q8db0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDa4Z7DtQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa4Z7DtQE!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMYqAiY-JYSx2D77WPWpF8L5F8rynJSX8mRJf1yOh4aBAlVhkjtQ_8DyWnzsZ2FcAJbxyCKe5-SsQFN5OkdLywsipnW1Zj8zNIrZ79q_anYaMdcqFZI3DRHqEIJ5uRmnhZIi1fEl9IV6XSs2EGGK-7h_Oc5-OtH858rR_D7ZfTDe-Slwjoo2fE-VkSoI7XbCu9mGsqFtwb3eGYdezsj0hUM1dGIqbwGbPHBYYSYKcyNWoBkHHs7lP8OTmCzVeNXZF9U1tbJqvmrIRXenO9s6J-KadiVJQwDkj-GdUIQqssDAWVSCeJ2kMpg8KMPqqf3aUH2itR2TZ2qGi6acbqcWEaTXlm_rw_qPb1yxa5WD5O85C8oBWMgNwpMbrxfH1p4up3m7K3KixoVfAtjg3Y5JKUoRAA",
+   "widthPx": 592,
+   "heightPx": 592,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animalia",
+     "uri": "https://maps.google.com/maps/contrib/103545434733180761261",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRillrtl9HidLItss7adXAZmA5k6LfIm1aGJ4nOkBj0q8db0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC88ZO6DQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC88ZO6DQ!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMZPn-TlV9-J2-5e3IwusY4_Mdiv8iIbiYuuiIN6mmx6MJ-cOdn5w4F7ZGZmcaoiHNZ2jfFM57ls7x_WWkR2neqf7jM8xFokE2pbdkIJfFJ3rBP3_Ah9E4m3ATy1eIYn691RXUPb9RqRUleVIqqdWzZD7EiWU7CkvMzepwGpAwZnsSHUwDuHbePBSjN41wnGVGNRyx4ikhRvbFjLZyHfuey1zJ-uJLX0Z7uK7SYiKUeY_NQ8f1LcRG6WTNJYI_Vf012q0bpdkatPiRb5jYzkFmaKfX64wa6DHygV5ucpTDTdLp0l5YB6S0XfgyanhPOWoKWUV3C8nZLnbM6h_yeMx0tW4OXHwguNWDXjQrDd8_2o2YTgi5B0q1VeRMWsusYWvPqdjaaeFTYlS7h1ABbo1l5_X6k",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Emmanuel Matos",
+     "uri": "https://maps.google.com/maps/contrib/114843487386594883925",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYfe6PwA_4iATMDoYxkT1W4D3OE46ZUaJAIM2wP4bmViElsRgH=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu8bzeNA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu8bzeNA!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMYnlqPz9ZY2zqPyrlrnRUdmPgK_AIhDKC4YDjEfGmgOFkYQAuDmTWeuiWf-bOt0RhjiInSy6X6VUA1PWQ0paUQYiaxuVYoIsoZa5ya3V677rVaXCdejpg-sN-By49mzi9zWqIMrwgYPYX0iKmVeJ52EUjcCh7UfcT-laDxGAnFSpoiuDGS5kllhirTcDdWhj1pdt-b-ll0Xq06qbHY-IBm93vCmUmpWdnaFwGe5Ek_JD7_j3EWMJL46efmsDW8fL3-ME6YI0ysDU4I_4A4mm0h687dO-hh4XAklKgTssyGyWDWpfN0OPXLU8FSIGtHvAW_saxbd2NZeXXD0L4LjdojpvnJWNFeKKnfkCwCAJjgljOSOHr6E4Vh3lw7ZcXszMeIrxw-XV5KALrZ-zw09ikPYfD4",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Jeri",
+     "uri": "https://maps.google.com/maps/contrib/112731340445611775664",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUglASMLbdoXB17RTnSSfUxQg5MZM_qVPH36IH-UZ0XbfZonQJJGw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2oJ_BMw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oJ_BMw!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMYPW8OVEVLBzRjaN56NKSAPIrTvt5cfqaQj61KvocKG5IxJ8mZsmV7HLzrMcrIinBepjt7zsW_67q55KpftRmpnEfvhMSWLyqOR2nUud9f5dnYH-saZx__4vhDGCYxpmnJR9mKArfGdWJAU5cSLne0d4flaDWF5fR48-SxyDLaKOxAORWdG5rY_TR_Fu4MFkochqqZIF3WyT9n6OUPtkdWX0SDQRFsPPx3OcBGkCR8hSDpURhHh7WL6l2e8yB076YgcCUgn5NL_2Vq1GMLfI75ICUnKz5vzBAxYjeFzzWsEQBg99H72XWMSVx6SekbMA1b3dEwXgvTJKxMJvpd1Fj_aPa6-AloxXpHsBRKFLGA_Y76sKIrxWDzPs8AimISIhwHQW2h9-x28JyfnRU9Q1E0VEhpr6LQ",
+   "widthPx": 1680,
+   "heightPx": 3648,
+   "authorAttributions": [
+    {
+     "displayName": "Norma Aguilar",
+     "uri": "https://maps.google.com/maps/contrib/118369657368975161013",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-_1OtHlXayng3e_q_uDqTwrw0p4OSQfjtv2vfRfGKdt5eYLjsJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICexuns_wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICexuns_wE!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  },
+  {
+   "name": "places/ChIJnzLiE6vJBZERwgG2Aj3sLzk/photos/Aa-ngMZ3NoNMJ4Nz_q2AIfmw80Ix1Y4PvYE84BshwTzlpep-qYMkkwpOTgnFZdH0xbdCZCSu30XtK2tKUCXKCU3K7X9WQp3Bf9yCbUVwT1iWjLZnhu51XxBT9HfOQensVhIE3FHDSo8J1TmBqFCutN-_ZWaFo0UqL7pGTAFFqzWG1znO4eq6QZiMd9HWZ-Rk3umggbbYD1bvrEb65L7VUWL_VwvZWPsImoRRZ7sD6FWgDC28WvzjqxsiobgD7aMgs8QwKk_XNCO_mwbJTwC1zWlx4cBMD37hipHQrx6ps1TRrE1nThg7ZbbTWyodcpG5Vd0B64yktuaNYYNHzpAr8Hvo2JKCH3l0JpdxOMUhfBf8VI4_swDFzhTHTGEdny37RNGYswZULp3OHqJiSQXDSCL2dnTirv4",
+   "widthPx": 571,
+   "heightPx": 571,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animalia",
+     "uri": "https://maps.google.com/maps/contrib/103545434733180761261",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRillrtl9HidLItss7adXAZmA5k6LfIm1aGJ4nOkBj0q8db0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC88ZPJfQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC88ZPJfQ!2e10!4m2!3m1!1s0x9105c9ab13e2329f:0x392fec3d02b601c2"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": true,
+  "paidGarageParking": false
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

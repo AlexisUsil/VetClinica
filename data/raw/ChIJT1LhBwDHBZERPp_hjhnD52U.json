@@ -1,0 +1,513 @@
+{
+ "id": "ChIJT1LhBwDHBZERPp_hjhnD52U",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "992 807 136",
+ "internationalPhoneNumber": "+51 992 807 136",
+ "formattedAddress": "151, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "151",
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Borja",
+   "shortText": "Urb San Borja",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0979452,
+  "longitude": -77.0081292
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=7343052231989632830&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 46,
+ "displayName": {
+  "text": "Latevet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "151, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JMllYWkJTV2RSVEZSRmRFcE1TUzFCUkdSTVVuYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mi perrita fue mal diagnosticada, lamentablemente, la atención careció de revisión análisis previos de mi mascota por parte de la médico veterinaria, concluyendo con un diagnóstico rápido y errado. ( Neoplasia) . Sin recomendaciones específicas para el diagnóstico. Posteriormente, fue llevada a otro cardiólogo, quien pudo brindar otra conclusión diagnóstica, clínicamente favorable para mi perrita.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi perrita fue mal diagnosticada, lamentablemente, la atención careció de revisión análisis previos de mi mascota por parte de la médico veterinaria, concluyendo con un diagnóstico rápido y errado. ( Neoplasia) . Sin recomendaciones específicas para el diagnóstico. Posteriormente, fue llevada a otro cardiólogo, quien pudo brindar otra conclusión diagnóstica, clínicamente favorable para mi perrita.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stefany Pajuelo",
+    "uri": "https://www.google.com/maps/contrib/114763500217279794831/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULNtYK9uKvckYDZdfeI0TbXU2pidXUf5KK-W4DFTAi9EepIYM=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-07T01:15:23.007056336Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JMllYWkJTV2RSVEZSRmRFcE1TUzFCUkdSTVVuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JMllYWkJTV2RSVEZSRmRFcE1TUzFCUkdSTVVuYxAB!2m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSb05FNVNlRTFFY0VJNE1VbEtaM0J2VDFaNllrRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención para Toto fue muy buena, atenciones y me explicaron a detalle los exámenes. Super feliz y recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención para Toto fue muy buena, atenciones y me explicaron a detalle los exámenes. Super feliz y recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karla Garcia",
+    "uri": "https://www.google.com/maps/contrib/106035770657835561247/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiCHD9FvAt-1_ZJrFh0fi-2qQ2k4OrgZjnaGKIkfifn2C41tppNA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-02-23T15:25:08.899982466Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSb05FNVNlRTFFY0VJNE1VbEtaM0J2VDFaNllrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSb05FNVNlRTFFY0VJNE1VbEtaM0J2VDFaNllrRRAB!2m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTlJqZDZOMmxUVFhGMVRVaHZibWR3WVhKYVFVRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, su personal súper amable y la doctora muy profesional, te muestra en pantalla y va explicando el electro y eco cardiograma conforme lo va realizando a mi mascota. Muchas gracias!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, su personal súper amable y la doctora muy profesional, te muestra en pantalla y va explicando el electro y eco cardiograma conforme lo va realizando a mi mascota. Muchas gracias!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "claudia echaiz dellepiane",
+    "uri": "https://www.google.com/maps/contrib/112079215548348809746/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBoITLzY5ANl8EhCN0euKgFcQh1nXc1jyiX-ohB5pwlnfQrg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-04T00:15:45.173690631Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWTlJqZDZOMmxUVFhGMVRVaHZibWR3WVhKYVFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWTlJqZDZOMmxUVFhGMVRVaHZibWR3WVhKYVFVRRAB!2m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTFJEWklZM00zY2tGaUxUWTBRMFpKVm1wSVNsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Gran atención de la Dra. Caroline y su equipo, gracias a Dios mi perrita está en muy buen estado y con las recomendaciones de la Doctora y la explicación quedamos muy satisfechos con el servicio 😊",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Gran atención de la Dra. Caroline y su equipo, gracias a Dios mi perrita está en muy buen estado y con las recomendaciones de la Doctora y la explicación quedamos muy satisfechos con el servicio 😊",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Katherine Alvarez Guarniz",
+    "uri": "https://www.google.com/maps/contrib/105732147079744116770/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-HAh3mrbbfKAo8zX4jWBQKES680VxYesjAgPAcZ_tg6StHLYU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-20T16:27:51.159018186Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sTFJEWklZM00zY2tGaUxUWTBRMFpKVm1wSVNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sTFJEWklZM00zY2tGaUxUWTBRMFpKVm1wSVNsRRAB!2m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKc1YxUlNTV2hWZVhScVptTnVSa2xFYmxGMVlrRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención de la doctora Caroline fue excelente,  como ya dicen otros clientes satisfechos,  ella se tomó todo el tiempo necesario para mostrarnos todo el proceso y luego para explicarnos con lujo de detalles, pero lo mas placentero es que parecía que estabamos conversando con un familiar, y ni decir  de la manera en que trataba a nuestra mascota (hijo), quedamos gratamente impresionados.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención de la doctora Caroline fue excelente,  como ya dicen otros clientes satisfechos,  ella se tomó todo el tiempo necesario para mostrarnos todo el proceso y luego para explicarnos con lujo de detalles, pero lo mas placentero es que parecía que estabamos conversando con un familiar, y ni decir  de la manera en que trataba a nuestra mascota (hijo), quedamos gratamente impresionados.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mario Asca",
+    "uri": "https://www.google.com/maps/contrib/115046677492491778403/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYCfZPS_qcp1cBw74f09JRuAka5KsJWfW-cMMwRBe5pOftMA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-23T02:25:20.403297729Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKc1YxUlNTV2hWZVhScVptTnVSa2xFYmxGMVlrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKc1YxUlNTV2hWZVhScVptTnVSa2xFYmxGMVlrRRAB!2m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMaIb5Vjz5ipX7nYHuPYOfebGBXSs9-428PGvBIX6Rj_E8UHt9tkUtlYBaGBpWbHD4CajU7sgjCydOPyp42FI2Mszgbey9NEPzozaRahfdvh3PNHPyzUxiyi-Kp6XG6u-qZOH-w1flCf6TKu11eoJFmO9l-vEKyjfIMoyICv2wqAZoNToMYA73uBbXk51P6f096d24WoYYU-Ng-bqIOG-OaTw-7nkNtG7-ZbR-JAUfxyQFarIMQmRA6sVorvSLpWO7K-Rqhy4ertRGGWmH_nxpioUORMPtZ75rhEaYFamWWgn5bM1R-roJBb1yM6LdrcgO-Zpg6HKDzBVrVL56sby9R5gRUWmRrO_9RqjtqJg68VuIEKAxqLYYbGLtylgdQLuQujTo6Pgtg5khk6_tP6nEIGTIQ",
+   "widthPx": 1795,
+   "heightPx": 1197,
+   "authorAttributions": [
+    {
+     "displayName": "Caroline Garcia",
+     "uri": "https://maps.google.com/maps/contrib/102195198244202863829",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXY6ZmjwukBIn-E19cxBXF0mp1SUh2M3lJ1Tp3nBw5y5Z_1hM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCoy826SA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoy826SA!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMbQQCH6pv-Q-pCdrdVDEwIPw1d_IygFcEXWnpd7Ac860ExtlfEvbL140cdmf3IcQvyKHsxu25w8gFgN3Zh3dykqKTUlgt9kPMwelAaX5ui5XRX9bPqBOI66nI02YZ9Ju8VBE3wMsVyfd3ejdv_gfwwwa0zmhBLWnYyWUd6zlbpbUjssa9Nq5C2e2P7BRmjmVaf12JjK4hnpvR8KXuR4fbReQ2_7dE43smKdd1v0fhP09gLG_h__ApGsNUsiGnThwfbJYcNJ22xw9At_M0fSmaYCicp0Kw3G_FA2sl9efxyLCSIpkdL4x3ZWVrFV0Hh7oXR2qEEPChh551MdISEnHogyhtLO6vUW0B06DZks-iFZvgU0i6_1n22eARhxNeTGM3Y_E1h6UR-A_69G8mcdrPijxUZxaXCoGe34NRZIUCeM",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "lucero grace rojas arana",
+     "uri": "https://maps.google.com/maps/contrib/109420408186158416723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4c95WaU5mydRY_6HXQA1POyMuR5CPnjJINpwUQO8r4WE3jfY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB44I8AU7DdjSrshO06lX01&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB44I8AU7DdjSrshO06lX01!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMZ2zlnRacKitD9Su7MrBxSnMLldTO1JaMVDbSQWZLjvWzt8VM0iCjUa3WXpD1vUWP57vdar77KiFN_BgnJuG6KN4nj3F0UjFgfCgMVVO4QfexuZs6gpDED3qHl-c5MRj5h-CHugfFUMZypHM8C9-779dd55Wlb9NNtCfL-XU9M8JrdoQuLUhqqoJSwzFK54AU2PJg2tz1nsxkkMpd7N4sreqXvlx7gojvG0rzUBruKhQW668bYFddGgticiAX9bNTVOz-m9UYcFAs2UxLw0SkcdRJGAIGS5VJXUhJBxta4gpYn0w-WnzjeDll3bjgkLJU_xc8nejLpmctgkJSr3YiWbZ-fDXe1prA7OCItwo-e54PWT-7yNL6DEDZZ9Ircsjry2ZMxw4ngYmOv26rUbNuChPXiYy03cBUMJwvtnD07OXg",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Flavia Sáenz",
+     "uri": "https://maps.google.com/maps/contrib/110617222421335538339",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLthdViLKVu0yWWq1GOuL_mCXm5rdTXzNIpLqMsxeOvTcmo8g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBa696Y56puqaPPcbj-BKMU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBa696Y56puqaPPcbj-BKMU!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMYh6HTau-TDY9Zta4IrMJSyC9e3PPKnJBoSm8tczkpuQV5uzH4o_Og3P3VJnSKkXmFuRb-OGdTogpnaxAkiY29c9qUxQXUEShnQ8F1P0UKJSw7RENvAvRInzDNBfAutwTP_yqwomzEosCCm4JvhmzkoZxVXTrxwAL2BirUn6lyww_85sALyIwUqt09LDCSUO1Bs9fGTAq6EJY_yUzBWPYdNEzYUYJcIYoKJosRqkt1Y7IzlZsU11PpgiQhJ15CN3S_F4OerK9nKYjE-Lwf1v3cfoULTYjYY8Mf7vqCFJSH4oFcu1EE4g_3CzcwtqdK8Oplu4puf75HKwfqUqDqU5chQeVFR6EviX7L-dTn1lHp5lUsM86uvsz40JC8hHPvKNZkKXL-KVPILnVUsA-0rTzO8j8hmA60",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Caroline Garcia",
+     "uri": "https://maps.google.com/maps/contrib/102195198244202863829",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXY6ZmjwukBIn-E19cxBXF0mp1SUh2M3lJ1Tp3nBw5y5Z_1hM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCoy-303gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoy-303gE!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMY-qdIS1WIx0S8uzZgRF601chyDqKMve8LckSR-5jHSgVzrD8eKJlXPLDQ7VA1DbZpKW1SNzBAIavEjnsZ6IoRm4lxznHxeadK2a0W-VUeNSuqcerBKjlndyWikzY4D_hTU4UuHy8v6-6izsDf1sxz6bfTJHzxPl2t2XBHF3_QOFWbYS-S8oOFZOPtjJTYjMhN5VvcZneBAlHtYQDdlVbroXnqV7AOLRIDBWtdFA1gjsbWQW1j8Ra8BE-TZCRSicDYCUeLPJm0I5RM_vStjEz2Rp3eUXbuKOseCzY4J6Ti1A4ItATbXkDRypxy7c2m_nBHL7Vs21MzhmwJf1luwEHsEztiMlT_z779k_byF957yMZpgQiMdXeO1wZXXkMtXljFzkHUgCT7Oi-F_bUSKloJ5IIdWcfEOepFIRSB-VrYq4w",
+   "widthPx": 2252,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Karla Garcia",
+     "uri": "https://maps.google.com/maps/contrib/106035770657835561247",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiCHD9FvAt-1_ZJrFh0fi-2qQ2k4OrgZjnaGKIkfifn2C41tppNA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCqdy-SK1dZ-wS8poXC_TJb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCqdy-SK1dZ-wS8poXC_TJb!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  },
+  {
+   "name": "places/ChIJT1LhBwDHBZERPp_hjhnD52U/photos/Aa-ngMaPTMPUF9Y6ZpAfKHeR8NXywbusJYkzHSCXuiD9H4OwiGsUeoTMULQj6evv1Efn-sGa22FZGUDQoR9P-vtCQHe29UOR9FsOE_fsYW7ixRooXWAuTtM9bS8iuFJ6dUDnd3EKPwueh99It6LBBJSfWGHLR591OBkfZtp7x-JD-Gpv35lMNAs3mu0XCElLxQHqwRWFEqN0C3D4MfMqhuS16sUyNBD2PF8ih7BFvYRfHC7gaF56YvtjxZauNwbf5iV_-7fev-X9UgAB7Tfo250I8M-D8AlDyjQ8UQPhR_lOhO_XIEPMh5UPiaJXwADCNZGGkkfEqttHIRypO_sYukcf2IfdjO2k8_ESKJkUB-hJJSQlJmyiUWRAQYnJVrTTd45JCHDz_lnAxQWAIGvuDxRe4Z4XKlK4",
+   "widthPx": 1795,
+   "heightPx": 1197,
+   "authorAttributions": [
+    {
+     "displayName": "Caroline Garcia",
+     "uri": "https://maps.google.com/maps/contrib/102195198244202863829",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXY6ZmjwukBIn-E19cxBXF0mp1SUh2M3lJ1Tp3nBw5y5Z_1hM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCoy826iAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCoy826iAE!2e10!4m2!3m1!1s0x9105c70007e1524f:0x65e7c3198ee19f3e"
+  }
+ ]
+}

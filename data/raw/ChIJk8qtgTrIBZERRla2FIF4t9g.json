@@ -1,0 +1,588 @@
+{
+ "id": "ChIJk8qtgTrIBZERRla2FIF4t9g",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2221478",
+ "internationalPhoneNumber": "+51 1 2221478",
+ "formattedAddress": "Av. del Ejército 391, Miraflores 15074",
+ "addressComponents": [
+  {
+   "longText": "391",
+   "shortText": "391",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida del Ejército",
+   "shortText": "Av. del Ejército",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Santa Cruz",
+   "shortText": "Urb Santa Cruz",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15074",
+   "shortText": "15074",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.117013499999999,
+  "longitude": -77.0448899
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=15616082728724092486&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://vetmiraflores.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 31,
+ "displayName": {
+  "text": "Veterinaria Miraflores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. del Ejército 391, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsTlYwcFdZbkZ6ZFVoMVpFNVNZbnBwTms1M05WRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "El Doctor Jorge y su equipo siempre atendieron bien a mi Princesita, durante varios largos años, siempre acertado con sus diagnósticos, muy atento y servicial. Lo recomiendo ante cualquier emergencia veterania, es muy humano en su atención.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Doctor Jorge y su equipo siempre atendieron bien a mi Princesita, durante varios largos años, siempre acertado con sus diagnósticos, muy atento y servicial. Lo recomiendo ante cualquier emergencia veterania, es muy humano en su atención.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jessica Gómez",
+    "uri": "https://www.google.com/maps/contrib/107249525407387062137/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaVAEDLbJH2RmMVbjtfH7RWxbGJnOVdIeHmwjvx7wOlkjdUltrDw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-05-21T03:52:48.611016722Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsTlYwcFdZbkZ6ZFVoMVpFNVNZbnBwTms1M05WRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsTlYwcFdZbkZ6ZFVoMVpFNVNZbnBwTms1M05WRRAB!2m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNFFpMXVaVTgxTW5sWFJIa3RZbGg1T0VOR1dFRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Soy argentina y estoy de paso por Perú con mi familia. Toto nuestro perro debe hacer los trámites migratorios de rigor para pasar a Ecuador y, como en cada situación de exportación de animales (así se denomina el pasaje de un perro a otro país) la simple lectura de los requerimientos se torna una complicación le consulté al Dr. Matta. Increíble atención! Nos atendió, nos escuchó y nos aconsejó dándonos la confianza tan necesaria cuando se está en viaje. Gracias miles!!!!! Le recomiendo a cualquiera que ande por Miraflores con su perro darse una vuelta por la veterinaria Miraflores un lujo para los tiempos que corren.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Soy argentina y estoy de paso por Perú con mi familia. Toto nuestro perro debe hacer los trámites migratorios de rigor para pasar a Ecuador y, como en cada situación de exportación de animales (así se denomina el pasaje de un perro a otro país) la simple lectura de los requerimientos se torna una complicación le consulté al Dr. Matta. Increíble atención! Nos atendió, nos escuchó y nos aconsejó dándonos la confianza tan necesaria cuando se está en viaje. Gracias miles!!!!! Le recomiendo a cualquiera que ande por Miraflores con su perro darse una vuelta por la veterinaria Miraflores un lujo para los tiempos que corren.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ximena frois",
+    "uri": "https://www.google.com/maps/contrib/110466379500376994579/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2u657BNlp7Bp5js37vMzM2BpWXsDbZ2rjo-1pOPnQ6zGH4sq09g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-12T16:11:51.601073117Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psNFFpMXVaVTgxTW5sWFJIa3RZbGg1T0VOR1dFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNFFpMXVaVTgxTW5sWFJIa3RZbGg1T0VOR1dFRRAB!2m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKZlUzcGxhSEV3UTJwbVEyUlpVRWRNUlVWclNGRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención es súper buena, los médicos son muy atentos, respetuosos, empáticos y con un gran desempeño profesional.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención es súper buena, los médicos son muy atentos, respetuosos, empáticos y con un gran desempeño profesional.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ceci Alcantara",
+    "uri": "https://www.google.com/maps/contrib/113899426467852190287/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8NmWWDUQhBzCk5CXN9UkJeQtAZV0OzMEirYq9Dxj5UIzXEpxGxA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-01-30T02:26:55.231799709Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKZlUzcGxhSEV3UTJwbVEyUlpVRWRNUlVWclNGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKZlUzcGxhSEV3UTJwbVEyUlpVRWRNUlVWclNGRRAB!2m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJdGNGZFVNRGQ2YzBwYVQyOXpTRXhVTkdaWVJGRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 4,
+   "text": {
+    "text": "Muy buenos doctores. Aceptan sugerencias y solucionan problemas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buenos doctores. Aceptan sugerencias y solucionan problemas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Catalina Alva",
+    "uri": "https://www.google.com/maps/contrib/113760587153701947823/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPkySQMoNQNREjSI1Fpqgxj6uoLIfVP8R6uhdw55d2LaeoNg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-16T22:18:08.713856145Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJdGNGZFVNRGQ2YzBwYVQyOXpTRXhVTkdaWVJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJdGNGZFVNRGQ2YzBwYVQyOXpTRXhVTkdaWVJGRRAB!2m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/reviews/Ci9DQUlRQUNvZENodHljRjlvT205d09IRkRMVWs1UVRaS2VHMDJWbEJHVGtsaE9GRRAB",
+   "relativePublishTimeDescription": "Hace 12 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy acertados en sus diagnósticos y tratamientos, el Dr Matta es muy amable, y muy dedicado y profesional. Atienden a mis mascotas desde hace más de 15 años y estoy muy satisfecha.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy acertados en sus diagnósticos y tratamientos, el Dr Matta es muy amable, y muy dedicado y profesional. Atienden a mis mascotas desde hace más de 15 años y estoy muy satisfecha.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Margarita Lay",
+    "uri": "https://www.google.com/maps/contrib/117695992903459055174/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNfvXod6jhGkR6JqjE-fWcKM_6gjWRXmHW8ceUoJCVnpyCnA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-26T20:59:28.914924095Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205d09IRkRMVWs1UVRaS2VHMDJWbEJHVGtsaE9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205d09IRkRMVWs1UVRaS2VHMDJWbEJHVGtsaE9GRRAB!2m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMbqdWDfs7K1sQL1YpwGsih6CzrPR2ixS2lS_P_W5U-mE1Cwro9wQD-2cC4rlpDNEhluHy_zbYfgNNYen5chrhGKkHXjUtFHIx3bRmqM4x3B2VLNRPPv9QZDwxgHho_NQpwK6s1gTbqPSi5-EirKEI6GYegqcmDxC6fv6wNgM-R-XGUR_H_PSbmT9kSllFHUZRV850dwq88U1h1IhqhwmPDBH97EdCKJefg3M_b6XVl8SkzxlDQp2XLUufdyZQdHaLZ3yEFBEFJjUY59Nc-KeqyOfTkEJkITfYFLpe8OT6j8BpznksgIMZylbJ7BTmW9QDT6QE-lFzuODDOeuc_ZCZz2y3kNWrcxlPSGyyKCoMzN7IrLyfr2W5HZaabULmXHcmT4j38wSXsQ7pGTZOKio9o9MpZ-NfWouSJLMI1qr7-q",
+   "widthPx": 554,
+   "heightPx": 554,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDL3EpF_qkfem5RbKV4_5uC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDL3EpF_qkfem5RbKV4_5uC!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMYFWzoQumGS1HUu-eKdc8mmg40ahUBR1b9bLPHtx_JiOkj5NojV8AmR4OtCl76hDwruIccbx1VJocOjgQ7gHZr3HUWkXF1bypeBmyWQJu_yngm_OcREhPeOp6BIOB8KgpRg6rxPU_6Q1F5zK6x6yjf2goHge-R6011XnDlZHiBjB7f2VrKhVKxKFsVo52KfFX_aMrZjGBj4BRsPEVxs-B7hOHfa8NZ1Oij6rRDKdkeH0Yy_2z6G-umvkzEho17Bh3bdjPXcMytxu5lzZpa17bi93adVcDs7dto4DkGf3tw0aE7fPKOZgU4VcSN3g2eZxX0BPkE2GWcYBShrTIpPmYmyIxiLuc0-53d6Z18Qy7LUZ8tYpf2pQamABxg7yQ5XYOWRU8dkh57sfGsUPMKbIZPb0k4",
+   "widthPx": 3148,
+   "heightPx": 4192,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2yIvTMQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2yIvTMQ!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMYs9ymYggOe7BmOBRTI83xtFkm64G0iNBnAObeXwbapQu_tBFbP6LdrFNmTdHvXnJ2NFw-VAM3iaQhNxIArOK3dRYp4m_vMzNB2l0LOxuDSJ0eRcqof0NhMNFb3bb_R7nR-j76BX8val23nZSbtld-OEru2WG4NyFgYkv6HkNOmmjeQd4koWQd3j6oPpGCLoJc3-CH-AuveP6CRID6fGGSn8CTj8T5ED-C6OHOh-QF4Ts3Vm-nfYR3tmp5BQYoPAnxqkO5-U5eQjJ6Q-edA2IG5WW7guYVw61iBRGRJ9KyNxFXOR6VPmXLJCR21pZqRjVqUUANWniQL8ssEe8pbT_gQyhr2nQi5EQoY_uHr6CDaMTJSe28sv65jEEKy4h1keVI5RHbcYOxSEudRsDAYI1zfpouLQPrQoYr5qZEQXVW5-Q",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCFlxIyOzu2HwxAvb3iV0h-&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCFlxIyOzu2HwxAvb3iV0h-!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMYXFmu7GuE2uTrrenV8pqMNi05mTOsHZ1qzd0HkXx6ALkOcs_pWpnd37z-sMrKThI9y33mhBtSPh8tHw4qq3HsY_ZEPHCt6YJO7LX9jVLBRaeC63f2KRc3bV_3HKsX59seUwl5RxJqPZCCPr5JlIyLN2CNlIxhUHE5QFHVl7drYGWd-QOmWjw53dDYrKMtZ7AahYpGjjrlQjvMBcFVSTXpzWa4jf-yufffht8T5Zhqo1cmJ7nOu3krBBG-os4w7DQTJOys_VtTEIycQ2SyemPIp3mqN3Sf7AX_UdUzlAAuKYcl0WtzPo0ACNUZO5IuFqJ20HR6ip6RTlqyZzwZ1t4imUF0LkxCMUdR4RuBdjpewNEaPC8LPTYhxukUQGXjjYrOi8qVLrGraeoa7co4d4maC6nIx_gvT8p1z7D7kmdu38A",
+   "widthPx": 1170,
+   "heightPx": 922,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDVrPqB60KvdFsBg0n4Yoik&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDVrPqB60KvdFsBg0n4Yoik!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMZZQHDYg9gkuqn0RAf6dxvBjYEQJ_T-VuVqph7MjIx4GHuzqDGXqHtJ7YEHD19FEoZU7kuowL3CN8XIVUy2tYZxJb2qU795utzKEH2WjSTtu-PS2xHWJcf6oVQJcfNogeW9k9-R5j5rNTCqc8IAFelJgu2ylGqpFncLqdo9wTAdw-VSKwxk-m3nq2Dobsbzxx3Lt6cYYJlkB5hgfhrPhHZtbk4PWNnvfeU-n9GN6CbqktOvpJcMB2x1_1M-dOeCtSA0m6nytnJolsz2rTaxDuVTfgMok4Mei6freMFF2v4dfhaW29ALHQm4P0QatB4P8j1iKbL7BD4QUcYUfi3OE5qnOUVodSu_awWzRH2hmx69S-dVofyuKwSPMXLTC_m1NDCp5OUFosfAXS2jfV2kMJ6zGpl6URQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia",
+     "uri": "https://maps.google.com/maps/contrib/107209809867319361780",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgcFJ7dXE1lzHEEzoFJrtYZutTWJ60mPI9ceyYc0sVdhHog5rvhw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICW9vyCxwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICW9vyCxwE!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMZSJ4XfXiGZX5ki0v9YTK9WefupMFI9Y_HF_aGP3W5EioTYs9gof9l0EhAgTUszPK-B_HDvAPTcKs4PqqDb_REa9LaQ3kf2iysCUnNgDZM6JLL92O3RbQeShNoGS8vIU38az1chCwfey0qUs0Gd887ds_zWXABAO4jv8QsF0pW0mOct4yMFQwKFzJwWUtcM0Oux0XOWPVoNjdBL8tUUYCFdLPNu12lrJ1TlPD7MVsuS3mp1Rx1gIP8YthdgiYAWX0E5g3MrcQI32wKDLIT4jKpe443ICw37ULuTRvggQtP8Sb5YNV7i-RnRcV3Wocoref_a0rYQ6HhITEI-pEkBP2YgP3iO9OLeCs1vPHiF882Ru_tL--MSuIx6MTdKDJQ3i8jY9YgYiB9yaB_UZN14BF1gXfJ_6SyjxaM-GHICs28Rdw",
+   "widthPx": 1000,
+   "heightPx": 1000,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCgHaExlltI2zHTtgGMH0ng&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCgHaExlltI2zHTtgGMH0ng!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMa1NhIgqHV_Iz9ufHl4r7Iy7THef-pJ72v-Q5dy-Z3YKx2tnnD2UPnawFNrg5EfoE8c283PgNVcNDe0O6JFy7og8UInHdZegMRc_S4fHphL33weshO2F2QD2tCU3wPMvKP5K1sOc-fijnsS23lgqOannALeWcxt2nc8R4KtkHU-qAfDfUrT4VZulIPkPFyaLi1dDtl2cNI8YL26EhFfaTIYqCpyVMyCGy-w9kgrjUY75DJZC3v8OywXDarVWaDkEMv3e2JIktZ0vfycqFFdR7XER6av0h4heLlZpF-Z5LyT77a-32pKtbplbc4ZRFzcV7Tv91PIH1_RnQMCN5xB0yjzLwfwy71of834GzT8KAVD52y-0RCi3C1f1oFf4SqFouRAsgYhlRkBzO0V9qxG1mwbWQmazFTqyTekrH8Y83hEKA",
+   "widthPx": 414,
+   "heightPx": 741,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCjYi0aERn6TeO2UXqbvhC6&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCjYi0aERn6TeO2UXqbvhC6!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMa0hRTVd63CqY6BOhrN8SFrzPCDP6bJabAmVanOE2FvFmSe0TZiAn-8coLFtpAON6YQw11ya7LbtAkkMUQfdOvQKJiIKEVpTjltutWI_HrA7nFGKt24iDDyp8MqkG31UAMDPATBen1wHa-Rm9522rMzHRSan6TH3bXXIVnfMM1fQac6uzoRMxwwv-C53hygBK9D6fxLOSjaAKjZKKGT0-Uxo9xSfAvSXure2zaIhGWMmCSc_PsQDWMTl3SWzHxATVEYWdZz7bYwBQ-_C4D2W35dKZamW7-cMIYrwBXXXuSnlFehZmtIns_aWit_ZCWuiAFhiV2c-Vz4epLJGgDlWqnjBlkeAg16GKtMl2PgQ0YQWFKRokBVv1kernV0v_wYKd28cWcMphfFt-fhcaODRJu5XWCx3xlUL7sMNQ42O4B72g",
+   "widthPx": 2100,
+   "heightPx": 2100,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD-07O1GYMGD3bXh0Z76HLi&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD-07O1GYMGD3bXh0Z76HLi!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMY_etiABmiD5huEdkMqHsM6xrI7WRkzsZOsZhndwMI1d9sRgkxf7jmmjI6HqsFcimnJZ-3Flz2TO1ksNf21Cbapm9uxytlXLSKmGRlUhj4AK5lP6AVOwF34SDKJMYj1DzfcJy0uA2ZxP8bNG8E2r4QET8LF9XiQBEU88wO3CewobBEL-gIKdLe_Sb3k0rv3FBgbEkIeWE7yWDLf8qwH7cwMsjHWHc4bIruUB5xXTrcMo5Q-HT0rbuDtZrDQrQT6sAF6C6mKlCAgMj_yYfxUIOpEV9wfpHw79E4ql4TLJmoiy8Zx_GwyENMWuBL4oqcBZmPGOtYyBQFg_DYF1FiFB1ykQvoVABEdSZJB9JQkDNAD5KmT0UITtnKAlmqEMuim6GYR7rTmWsDvN2XawlB7eUep97g",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117580457906039058515",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPnv_gzIc81uxYRBa6xQ7X1JDoDI1_qLpyYlKIc-NY1mvmT7E=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi-KLAQQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi-KLAQQ!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  },
+  {
+   "name": "places/ChIJk8qtgTrIBZERRla2FIF4t9g/photos/Aa-ngMbGH9jkT9NtvtaSel6JcVjOx0e6ov_RhpG65KIQkHTJ8QuhJzC7Gvcsv2tvHfLQWNLzrbMT1kHiQHTZAcPCzYRAI688L06O3xCmOpwF1KoZ0h5lMNH4Pf3DR_JIkgcRT1iFTgU5ebXsLexIs63GI2dOB6b6iASkiOcHXdxtOzq6M-9fkh0nPuPgapoBRKVoplwhMMSvX1Xw0XV48l4SSvagAFgFCKvRNZjd8S5syiJirLmwXyhnRcx7d2Nsf9YSx_dVp8j1CkYAVhIVjItlA9k_U3drD2ZOMAAxS7xMnOhozK6VWiGRCoAQP2TTNu70bzsnUkGCtW-qLlRZgrMgCeaY-2JBWfeX6K7psaTstTcCh7Bq74dYZMlhP7o4rg3jxsXZrILUK5IxBzHEv94EdZuK7jbFhMo",
+   "widthPx": 3264,
+   "heightPx": 1568,
+   "authorAttributions": [
+    {
+     "displayName": "Dany Navas",
+     "uri": "https://maps.google.com/maps/contrib/108485834204953168510",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSPcFhsY3P3X4wiRwQtYbYGlQOgxdU_Td4-2yL3Wt3JI29h4qtJA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE6MSaogE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE6MSaogE!2e10!4m2!3m1!1s0x9105c83a81adca93:0xd8b7788114b65646"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

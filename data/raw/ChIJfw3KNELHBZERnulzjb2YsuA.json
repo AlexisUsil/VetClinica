@@ -1,0 +1,502 @@
+{
+ "id": "ChIJfw3KNELHBZERnulzjb2YsuA",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "940 433 801",
+ "internationalPhoneNumber": "+51 940 433 801",
+ "formattedAddress": "Av. los Fresnos 1847, La Molina 15024",
+ "addressComponents": [
+  {
+   "longText": "1847",
+   "shortText": "1847",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida los Fresnos",
+   "shortText": "Av. los Fresnos",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Portada del Sol Etapa 3",
+   "shortText": "Urb Portada del Sol Etapa 3",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1111009,
+  "longitude": -76.9378787
+ },
+ "rating": 4.1,
+ "googleMapsUri": "https://maps.google.com/?cid=16191171550239779230&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/VeterinariaAnimalHospital",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 107,
+ "displayName": {
+  "text": "Veterinaria Animal Hospital Fresnos",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. los Fresnos 1847, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/reviews/Ci9DQUlRQUNvZENodHljRjlvT204eVpsTlZjVGxVWVVObGNtZ3phM2hhV1U5U1NIYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 4,
+   "text": {
+    "text": "Hasta ahora es la unica veterinaria que han atendido muy bien a mis gatos Darcy y Coco🙏",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hasta ahora es la unica veterinaria que han atendido muy bien a mis gatos Darcy y Coco🙏",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karla Milagros Cardenas Urbina",
+    "uri": "https://www.google.com/maps/contrib/107803689560424266692/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMWPdCJSWH-IsA6rEvOwbqXFqkft1pmdsocT46ewUIRibftQCojw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-12-08T20:16:36.111125544Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204eVpsTlZjVGxVWVVObGNtZ3phM2hhV1U5U1NIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204eVpsTlZjVGxVWVVObGNtZ3phM2hhV1U5U1NIYxAB!2m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2NjZ5NW9nRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Hay una mujer veterinaria que simplemente se debería dedicar a las ventas pq eso es lo q hace ni siquiera se toma el tiempo de auscultar a las mascotas solo vende vende sus productos y te vota pague alla dice, ni saluda ni se despide a la mascota no le habla ni toca a ojo cerrado dice compre esto esto y el otro y si sigue mal regrese por más , NUNCA LLEVEN A SUS ENGREIDOS A ESTE SITIO DEL MAL ESA MUJER SOLO QUIERE VENDER Y VENDER .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hay una mujer veterinaria que simplemente se debería dedicar a las ventas pq eso es lo q hace ni siquiera se toma el tiempo de auscultar a las mascotas solo vende vende sus productos y te vota pague alla dice, ni saluda ni se despide a la mascota no le habla ni toca a ojo cerrado dice compre esto esto y el otro y si sigue mal regrese por más , NUNCA LLEVEN A SUS ENGREIDOS A ESTE SITIO DEL MAL ESA MUJER SOLO QUIERE VENDER Y VENDER .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mauro Looner",
+    "uri": "https://www.google.com/maps/contrib/114909590803512702063/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHAa8OZwAWiRErVNEUiEQA9YWNI9CxtvKn7sDU4GlRe6aAozPx=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-24T07:16:23.391841Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2NjZ5NW9nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2NjZ5NW9nRRAB!2m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NjlDMlNREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "La disque DOCTORA solo olió la oreja de mi perro ni le reviso con una linterna ni mando exámenes nada ,solo hizo una receta de 5 productos todos los vendía ella por un valor de 165 soles más consulta más inyección mala gracia con el perrito y conmigo mismo , ni una sonrisa de mala gana nos atendió NO LES RECOMIENDO ESTE SITIO ESA MUJER VETERINARIA HA ESTUDIADO POR DINERO NO POR VOCACION , ES DE LO PEOR , LE DIJE QUE ESTABA CARO Y ME MIRO CON CARA DE DESPRECIO, POR FAVOR Si AMAN A SUS MASCOTAS ESTE ES EL PEOR SITIO PARA LLEVARLO , MANEJEN UN POQUITO MAS , VALDRÁ LA PENA.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La disque DOCTORA solo olió la oreja de mi perro ni le reviso con una linterna ni mando exámenes nada ,solo hizo una receta de 5 productos todos los vendía ella por un valor de 165 soles más consulta más inyección mala gracia con el perrito y conmigo mismo , ni una sonrisa de mala gana nos atendió NO LES RECOMIENDO ESTE SITIO ESA MUJER VETERINARIA HA ESTUDIADO POR DINERO NO POR VOCACION , ES DE LO PEOR , LE DIJE QUE ESTABA CARO Y ME MIRO CON CARA DE DESPRECIO, POR FAVOR Si AMAN A SUS MASCOTAS ESTE ES EL PEOR SITIO PARA LLEVARLO , MANEJEN UN POQUITO MAS , VALDRÁ LA PENA.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "MANOLO SAAVEDRA",
+    "uri": "https://www.google.com/maps/contrib/114480055814114436001/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINrhCCtvtZw4uSn5Q7BL-1TIVvLiS5Y39wMByAeiNhINHD5g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-24T07:06:23.182888Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NjlDMlNREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NjlDMlNREAE!2m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNXVuTXlnRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes doctores las veces que mis perritos han tenido algún problema de salud he tenido muy buena experiencia tanto en las cirugías como en baño y profilaxis dental.\nSuper recomendable excelentes profesionales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes doctores las veces que mis perritos han tenido algún problema de salud he tenido muy buena experiencia tanto en las cirugías como en baño y profilaxis dental.\nSuper recomendable excelentes profesionales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Miluska Mendieta",
+    "uri": "https://www.google.com/maps/contrib/106889605547838589995/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUTUfU8Sy6rGXrO-MINP1lPWE6-g_FRkt6EkgQhuN2JlMBEVtJ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-31T13:28:20.225897Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNXVuTXlnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNXVuTXlnRRAB!2m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxdW9yWnpBRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mí gato para sus vacunas y lo maltrataron. Claramente no sabían cómo manipularlo. Lo hincharon varias veces. Terrible experiencia\n\nLuego mi prima llevó a su perro para su baño y le cortaron hasta los bigotes, le hicieron heridas por cortarle mucho y se contagió de sarna y se estrella por todos lados a falta del bigote. Encima es cara.\n\nPésima atención, no vayan.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mí gato para sus vacunas y lo maltrataron. Claramente no sabían cómo manipularlo. Lo hincharon varias veces. Terrible experiencia\n\nLuego mi prima llevó a su perro para su baño y le cortaron hasta los bigotes, le hicieron heridas por cortarle mucho y se contagió de sarna y se estrella por todos lados a falta del bigote. Encima es cara.\n\nPésima atención, no vayan.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Danery T. OP.",
+    "uri": "https://www.google.com/maps/contrib/113266210519390696363/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQNibKxLH8arkY5IG8uPoekLTfhMUEas4JmfATfYPIVUXMi5KVIw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-06-03T23:27:32.063819Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNxdW9yWnpBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNxdW9yWnpBRRAB!2m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/photos/Aa-ngMaY051kZthbs3X2q2sr-OmekuZt2avRBv0n_KBgEj0DQ53XzpYo0MooU2xW5iLYJH3RqGnY9aTMjOm-gr6NyFyB6HUpCD8ATowHp4WL4X-60-pBf7dZwB_0CT8fKtcEDcUXUSCZHJinCHZp2MlTZvJqzj8Bg4o4ie8MO0HJ7p8Xq2xDbJTGqXKtTC-qe2YCICSDn8HdtqzYb7V6Ci7zwP7P-14BO0CGU1jb7fYBP_zneqoOjSR-J-cOTSl7Cq9WRBwAUSNO785rx2tmUJJjjffI5fljWq3cQoIDd8a50rQ_9XToqYGHrvgnScv3PmdBQpElio1tRWqpNvu-XZZHYq-xY5ppWaU6e529McYESq7mXTOwkYsePsmq_u17LJfon0AhPHNbR-3y8uLyYQgdBOxkyXQ8CMapyXOOofZIWSqZfu6FMLOmHuGLC8z6qRgM",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animal Hospital Fresnos",
+     "uri": "https://maps.google.com/maps/contrib/108592974695396510377",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNiZQbP8l99Hg_s_zCSVC9VJSTEElfxedyCb6jHEozGBG6nA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDOUKXoArPnONrgBwq--r2t&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOUKXoArPnONrgBwq--r2t!2e10!4m2!3m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/photos/Aa-ngMZdtyNELpH88v5rumJ6KAZ2Qsu4izsaDVpu-wD_1drsGJxL9LXPe-WQWjQUGmcDHMRzE_E-8xe30r7EljgohDmt8PtA7el8cJrRuGEhA_tIfBfrjSEhNJaH5-ZPYKKhJKoyrgH5ghQZHlo0E3LiFbNTHC0wXH6z56rI2UlOkefvOgVVjKB7EB-Rtalg0F64BNi995bp2Z-nkT8yEhnMCbBCAs4cIpP55A9fQTqWfZFTI7_qs5lNGZLg-i5rvemY752CpNiXJbnN1ohhCCRkMqqJUxFROOb4LFSSKJvmx6yj2u7CYhcmmjhZoouYnhnopiOCHcMsnHSCoTqG_sjZ9XPS58xFTkxWZllXr_LGPkolIt-qVn4I_Icg_znIB-sXXEYGtTh6aKBoiOagQhFnpzO1LPKd4mkdP1cBj8JQ7SiTT-sc",
+   "widthPx": 987,
+   "heightPx": 771,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animal Hospital Fresnos",
+     "uri": "https://maps.google.com/maps/contrib/108592974695396510377",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNiZQbP8l99Hg_s_zCSVC9VJSTEElfxedyCb6jHEozGBG6nA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_hru18wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_hru18wE!2e10!4m2!3m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/photos/Aa-ngMbAxV7bJ76ah-Cnp7TiDK4TiDor4cKGMtIbpVSCGlbiYWsL9FeMAwFhTcDDCugI4oEmXJr-oDrPY6ItEr33hnX_udO9tLm-2o7hS2gqALSnIeOT2f4X7pBYoUTXsMRiNVIZKJiNen6ozRaRIguzgt67FWTNAqLCY9XdwLL7CJM7o7JGktvGUEyNVkTqwufFaoYdgsa6fCFM8VwdRPb1XGwSwCm5wWgVb2k9Ts1rKvEcz3ldVSRyQt3-DBgBkF64E4FdmDYtYdFMuWVYB4Mk1knWhUXTm6sZQEOB1xU-OcwCWCePPLLG54tbaybMmGIljPlnSemhrhEWr3dPT8OHrs2vnQMU0-ouBxHQDfoNbIvStmZB-mwmjWj3OcqqGJwJs5IjWCsQBYRoKfH4hKw5Ldzu2lxV0dkGgBs-zg72u8qniidE",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "andrés martín gonzales angeles",
+     "uri": "https://maps.google.com/maps/contrib/115713226304444444292",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXONajYsGD_pOcTpATCh2bsUmOr2eERdWNL_f5evQeLfYZowhKA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE3dyDmgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE3dyDmgE!2e10!4m2!3m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  },
+  {
+   "name": "places/ChIJfw3KNELHBZERnulzjb2YsuA/photos/Aa-ngMa-qNggaq-ai8zvx9NXHXdktj8PQv7dJozYHVspfVuF5qz18Fdy5wUThcgsFcUrpO83VxdsXT776hXeg4HDlfIk0_jW-ZG88AVd76O5qtUdGW1QVIBP6Wvlb7FDyx66ub2fwwbNm8YI-5mZmra2yfxlK_teu2XUMAgC2VewsdimLBwht4mZu_99bcULZ7OFDTyBA3LkskwvBvXRDmej1GDOrTMAHVwMxHzZKlO6wCxwxHsPNDu5Ud_uqZahc9X3G2dDeLP8mD3bDY7xk15BvOr7rN6VE6UMQFHQTse0oYD8jp3Vgjkwkejy34CnCXx9H1FPULX1Vt_yBdBifmKz__z6IEctpgHxtX90fs76ozS3K9UYYJygRIxhru3MQIOJh2H0KaYDRJJUCjD2V2LOfkKBTLKeAdCYNoqex2qiS_srQ-as",
+   "widthPx": 540,
+   "heightPx": 540,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Animal Hospital Fresnos",
+     "uri": "https://maps.google.com/maps/contrib/108592974695396510377",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNiZQbP8l99Hg_s_zCSVC9VJSTEElfxedyCb6jHEozGBG6nA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID84siG4AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID84siG4AE!2e10!4m2!3m1!1s0x9105c74234ca0d7f:0xe0b298bd8d73e99e"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false,
+  "wheelchairAccessibleEntrance": false
+ }
+}

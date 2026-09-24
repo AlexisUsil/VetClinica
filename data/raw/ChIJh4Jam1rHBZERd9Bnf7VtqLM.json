@@ -1,0 +1,581 @@
+{
+ "id": "ChIJh4Jam1rHBZERd9Bnf7VtqLM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "937 747 234",
+ "internationalPhoneNumber": "+51 937 747 234",
+ "formattedAddress": "Daniel Cruz 138, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "138",
+   "shortText": "138",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Daniel Cruz",
+   "shortText": "Daniel Cruz",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Calera De La Merced",
+   "shortText": "La Calera De La Merced",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1132525,
+  "longitude": -77.00307380000001
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=12945717755170508919&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 26,
+ "displayName": {
+  "text": "King Pets Veterinary Center",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Daniel Cruz 138, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSWRqZ3lhRE5JY0VGcVVHUkJOV3R3YURkSmMxRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi gatito porque vomitaba mucho, actuaron inmediatamente con una ecografía y descubrieron un tumor, lo operaron y cuidaron mientras se recuperaba. Fueron siempre muy amables, profesionales y atentos con mi gato ❤️ estoy muy agradecida con el doctor y todos allí pues lo consintieron durante su estadía 🙌🏼 recomendadísimos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi gatito porque vomitaba mucho, actuaron inmediatamente con una ecografía y descubrieron un tumor, lo operaron y cuidaron mientras se recuperaba. Fueron siempre muy amables, profesionales y atentos con mi gato ❤️ estoy muy agradecida con el doctor y todos allí pues lo consintieron durante su estadía 🙌🏼 recomendadísimos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gabriela Castro",
+    "uri": "https://www.google.com/maps/contrib/106862410143982551389/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtooFFSWH9aOBx5tail_AFmaFk2r1ebXscPltjLh2MITn65Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-20T23:04:47.944541104Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkSWRqZ3lhRE5JY0VGcVVHUkJOV3R3YURkSmMxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkSWRqZ3lhRE5JY0VGcVVHUkJOV3R3YURkSmMxRRAB!2m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjNE4wTXpZa3Q0YjBKeGVtWjJhRWxGVDFFeVdWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena experiencia, atendieron rápido a mi gatito y fueron amables y pacientes",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena experiencia, atendieron rápido a mi gatito y fueron amables y pacientes",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Brigit Ingar",
+    "uri": "https://www.google.com/maps/contrib/103445164877766121853/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-j9Lswq7DcUCYd9RYfOADtjZh2vGviu7U3Fniy7p8nuL1KFfkKA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-27T22:34:35.033644250Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjNE4wTXpZa3Q0YjBKeGVtWjJhRWxGVDFFeVdWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjNE4wTXpZa3Q0YjBKeGVtWjJhRWxGVDFFeVdWRRAB!2m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmcXBqUE9BEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, muy buenos profesionales, super recomendada, trataron a mis engreídos con amor y paciencia y sobretodo con mucho profesionalismo 👍🐶😽",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, muy buenos profesionales, super recomendada, trataron a mis engreídos con amor y paciencia y sobretodo con mucho profesionalismo 👍🐶😽",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Anibal Smith Silva Urrutia",
+    "uri": "https://www.google.com/maps/contrib/113298361653483460071/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIasrbMg8T5CdzdZBo8hz69mB3-173y15nXvn6S9ferHBwSr3gJg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-28T01:01:10.066696Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmcXBqUE9BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmcXBqUE9BEAE!2m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeUpmRVJREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Recomendado ❤️\nMis mascotas felices con la atención de los Doctores muy profesionales y con un ambiente muy agradable.\nGrandes especialistas ,con mucha seguridad y confianza.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Recomendado ❤️\nMis mascotas felices con la atención de los Doctores muy profesionales y con un ambiente muy agradable.\nGrandes especialistas ,con mucha seguridad y confianza.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rudy Martinez",
+    "uri": "https://www.google.com/maps/contrib/108349358738429143724/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYMKUl0q0d_IVdNwXtCBNc0FVlry390bv9WJjQ6InlNWYkwW1h-g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-06T15:33:15.532353Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBeUpmRVJREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBeUpmRVJREAE!2m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJbGRHSVN3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y el doctor que me atendió muy agradable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y el doctor que me atendió muy agradable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yair D.",
+    "uri": "https://www.google.com/maps/contrib/117149128173908551028/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQbxNM6909JB-eKBQJGfBPp9QM9bWNKGj6hCYSFB35xoK4qrIs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-11T20:23:12.577269Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJbGRHSVN3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJbGRHSVN3EAE!2m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMaJuC_PABPv9fbLqenFadmBZ4AiiaH5WJCSvhcmf5xs-HvAzcemTWWn_NtCIhveVMf_kbrrMGyvo5atYoGXkaBykaIndQeWrNMGbabeyeGW6zWN3BPtVusY6I-3c_Wa9E_KVqR-lb8CcU2CZ_qnPGWtKbafFHmiTtC-r8Q5hh-kI_ZaqJIuknVEMv7HFqOmpUgQSk8KLnlXphXbPKuxYm2ennL2a6CyuYmxET5mxOcHdFGPI_gNgO2VXr7YD3LB91TuLn8Z5ETGynTPiH4XH9IUgE7gu4hK4g27oNIpWamnlXdyeeIVzBiKR3nOMDmyxxmGmFyLadObWprMZeCvKPDAGhJfGRe1s6ZDCm-zMBeAb-inBZ7hrf4kEq1O19PFjdu9Wqspuvp7qIODrkSPJeBCI3tr5W5r8CRrdy0sqag",
+   "widthPx": 1080,
+   "heightPx": 608,
+   "authorAttributions": [
+    {
+     "displayName": "King Pets Veterinary Center",
+     "uri": "https://maps.google.com/maps/contrib/100443999996682337112",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZy9la-_JACTU5vMM6cJrX77UsDISNVGnndqnHvGBMC4gdww=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDr1-i-EQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDr1-i-EQ!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMYDyHvuO1MExnfDSQlyKD02cvh6ovmGgc8QDgQ_69AcH99w9i0OmuV_Y3JJTwfE4pb8_heyBeapbdIjTimkzDe01cnYY5FsJ1S2UtzC6dcgu8XccqEpMaij12aiuM5PEagxpGE0VWOMXNBKL1DI5hk3E4s8Yu8hL230VqJRaboQ-L4rJI4RCEMmaY37ZxLYQOzSxkkMXGl5-0LArW84Rdut1LhcsEJXQoo1TTI_lAldSeXJx-4rs4NSvrkFdvSPqdwIXe87p9zCL2XWvXLBXeLipZ-Pcah76xpm9wrAe64UitlVqAUoutbU24Qx8unjO5stQ39exnP7JeaX0Ds-LGbsvVLezpwHHyu0oIeWPOU8tGGffGlW0fZkuhxs2og2g1EMfv40mmB8eHiepNW4IL4OSAYwK8lQ5URuvkwDPb5sXg",
+   "widthPx": 2807,
+   "heightPx": 2160,
+   "authorAttributions": [
+    {
+     "displayName": "King Pets Veterinary Center",
+     "uri": "https://maps.google.com/maps/contrib/100443999996682337112",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZy9la-_JACTU5vMM6cJrX77UsDISNVGnndqnHvGBMC4gdww=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDJt_GsEA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJt_GsEA!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMZdcDc1PDBkC9-P-pO5fW9GfrQhK2uJY8LpT1lu0c96caIjNJi4gn-bAE3Jnk2viT4NYXIID-3VQWirt5mKOFrZFjpvSQVTCsCHyVlUHAqhV_lgOfJ2805VkqP1F7blyGrbraOCaUJpY2vmeb_zyxyzNS_DAQPGbGadqcc2ZCSeV8cfGMcCW2wC7LeZUtP8lu2_diCm1ltkxfM1akX60HPWt88-lW_y_zdnpPX7Vrda9H5dnsgQ6-JqO1wWKvOIi18vJGUZb7p9cKgYIF37TurQCA0BV0KVoTDVIFHNk2SkGq1tHx75sTGCXU7Cd4nRVO9C3rnq2MvxwQtgDzlXfNMMNWK34zCDSVW1Cm33XDMujGtuYouBePTMqQes5_X9Z00jToUShtmDcpo53gt6tQESeTGkef138mmn4GHqeUqUFA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Alexander Diaz Guevara",
+     "uri": "https://maps.google.com/maps/contrib/117121013233929844689",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7ZtUpSWoE2YAxUNguf5JJWVXG3cD0SIcLjXQ9raHG98hmCELQIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICh6brSXg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh6brSXg!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMaDVioXjozaWiIQ98KMk2FVutWbNx_WpMzoNu8-cEkyEfOyxN2syEDpm02FMmZfFu9nn4nrvtkIQt0QbFPIlkd31ENA7rClWDr2N0w7RhXMYaV2xjze8DTyHaZeXm_9OBbS9mBcpWPZj3hd_VcI9TyVM0-uWW60zeBQopuOf7cxsdA5veIGKczVD6gyrGdd4V7PExTYZ8OAJLrIxs7Tx0tmKT_Dv7EDh2D_GEiuSneiH--6d745mEzoNPnG3jixfwyOCGBW8JjW_zlK8G8-_xRdo1wd8MSrXUm35s_m3E16X4W9CUbTf7ZwJk2Mswye97cexwsAhM4iqB-kK2foKal1a0k-gryURlbEJzlC2JbeIfubzg1fkqR5D9lDEXYzrzmz_1p3oW63WHNR0-q1-w-EgSxPCUAtkDdFPHqoHgAt7A",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Kings Pets",
+     "uri": "https://maps.google.com/maps/contrib/105032954301319254523",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLltW3Bt-UHnRrpa7xuIB2hfRHu8g3OYOnmvvXbEDoFYfL4Sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ4sPpeA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ4sPpeA!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMZvxhsJCrgL1z54zwhIgr6DnhglEDa25dnwzSGCidt_sf337aPqSmb66vnmtqheDGKmyuNN-dRVWIGLUXVzhBUAF4mW0qFb0hBfUkRFKpuisVGkxWhJha117zEtFe8_yt4ZN9ytN3fi07r0jVvpHVdygAkH8u35Nr3Cdc_bgLNzGGib393i55m72zfHbFTZopkdW4EKANmRAvj8w2tny735v0SQ2ZOFPVuWCDQoT7x1zs3Tdm34z32CaDK0PAeqmAqlqe9GPi0Wz8sYvVjlZwdWJhWuiTOJf1iVPfb4w004sgqMM0JrA969bldCFRzpLphKgATstyQGo8TTEVcktE-z-tMtxPxXni49mySXzjSsbz3sgbflmZaMYCI3kZff9LMs1kqZRM3xTd2Lr4N4oEB8jrL5fCW4on9d73ZEt9W8mGa4oL1NQp-86aHRrQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Castro",
+     "uri": "https://maps.google.com/maps/contrib/106862410143982551389",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtooFFSWH9aOBx5tail_AFmaFk2r1ebXscPltjLh2MITn65Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCo7w43VAmBxS-TFWH8lNLQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCo7w43VAmBxS-TFWH8lNLQ!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMbxuddPnJLQQdQFZHm0vwguyy_j8pacrE5jDlPCgcP3u25tOplYZ2ub-UETG-dc-RVZ1I34lkBUBSyHYzAwY5Emr7OWQkvA44TSvbRGFHuT6Qi3H15Ywu0mFlTIXNj_4uHNrs5_DN9iBJnfKWnsiGHn9NNonMm2zgfJuRFsLWQlvN05Pjx1RwhXdl8UxTDWvhhwpg8-h8r9SoLW-Iy4YyBdaAN38NiB0lIHPVD17AKq5V5U7fDf0sXSl-STBd1cZ1veNXIFOsCbXk6YErqVLRX08Q5k1B-D0qWS6AJHydSvGmVC9IX48GDLskfNLnlHVLvlueFg7vD3LKpXqD0zahd7S3lKbvrqdeSTa4fvlkjMlfxwatn5GGZEOT7hQJF8zyop0dkU0iqfqR91uU6Aq8XMsSMftbx5E-qIeeKHO_Pi1kg",
+   "widthPx": 1024,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "Cecilia Ly",
+     "uri": "https://maps.google.com/maps/contrib/109078772060018528631",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdYJycmShT6OuMRZS6zFwumY6P_dwKVB7BLWhi80AMdPYnlas=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxofuyQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxofuyQE!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMbLlswhNNP9PAvovHsBtyvsxiHzLvb_pG3l4OYyuhF6L9hZHeVzUFyPYQ75TCNb1nATue-6QplJJazLuvPqMBuIdc4I7J7wJxWVkN9DIuGsOJ1ewQWLy1vFo0muG2OynDiP2IDNQ7Cs_UFyuiUxkR5KFqaHV_zeDHoWv0r6HhaqnxenqgFBkUPk8ffy_VfXqMnMu6T9K6tGMFkgcbAraSALX1SPH1Ve8eXzvE0iBQK3nWFUi93kqKL5z-LibZ9Ov7OuAKBMSuJIlwCn8a5Kcnn6Hs11YRGME46Tff-Gi2YMatHutnDVtNcGsJ8-f7b1QfDNJUSDrK98rJ_GDIHytYV_Hgp2FX_AKHuCycHYUphB9zFd9WZPAjeVa-1fqMqXPUe5GxgrNArgDb5yQtCeVfBJWqHrHK3g7lFZTU9LphqYew",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Kings Pets",
+     "uri": "https://maps.google.com/maps/contrib/105032954301319254523",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLltW3Bt-UHnRrpa7xuIB2hfRHu8g3OYOnmvvXbEDoFYfL4Sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ4sOBPQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ4sOBPQ!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMbKv-o4mP7L2eRwq9O2T_IHhp9WOTysirF5dZ9_GLt5t98r-METDGDiyKIpXtYhUUgKHfiOx0pzS-FJcQmD2Q_7sZyyTnUm4CmWwNPB4DsGJM6LxcN2TuDVeDENk1_5UcdgoPOENrE-Yyjq9QV6B-cMnvq7QMfeDm95GwbMreb5fDhKgwXCQLJ-ZYSqUBDHdEFoTiu8Z9cEzXhFYbaiNVALYjB1DFviuuJVNILkHbEpS2fsFm8LNhCvVffROXLYMKM49wbnEq_29Rut6Fpfue5pxG9UjFB9UbIejqMX-pFX7Jho7FO-3hJkqNNac-IqftdYkPtmToZQC59HofsmWWDssm9QQbr8Mmkt84jpEADDxfSubqaZfFVnnaVbHEL-PFAuKfeJgOfvWT1NQEXpWv2SJu0qU36hoquJUwIaI4srOn7r",
+   "widthPx": 952,
+   "heightPx": 1618,
+   "authorAttributions": [
+    {
+     "displayName": "Kings Pets",
+     "uri": "https://maps.google.com/maps/contrib/105032954301319254523",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLltW3Bt-UHnRrpa7xuIB2hfRHu8g3OYOnmvvXbEDoFYfL4Sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ4oO9rQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ4oO9rQE!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMbII-VQ9AvffHK1_FsVjImrBZItQpBe6DAjXJiOyqv1HgtmhWOE_XtiDmKFb6EQmmvQGWBfiACQVR2sRr4TuswxUQZMn5o8pxBhKecMMH-g7qUECFPsigqr0d-Lq-yJGtdM_QzQJgGWwKmLi_9z4ybndyhmyyloTmpQ1rntFBbcqzxGcHcCDJ6OwdnIjOl9ES78jS_P6fohALQN-A_Z35L-98MVnZQwMS-t94rx3Ffzuzak7X66ifA3Gg0B-npHmmBpUd3OEldO8aQoUl21CiAla26JUv1HDbWSY0NZ36FhoyvEY57X-Bro9MQ6W43tY_0PsmEbY4wSqWx4WOAd9YRXPCsrh6Xbe2InwMBri7qYLNfeIeTxNhU_u0nj4vKjIj84x2s9p89jZPJbsqxEzFRWZxYXk8H3REHQAN95pudvtg",
+   "widthPx": 1204,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Kings Pets",
+     "uri": "https://maps.google.com/maps/contrib/105032954301319254523",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLltW3Bt-UHnRrpa7xuIB2hfRHu8g3OYOnmvvXbEDoFYfL4Sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ4sPRTQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ4sPRTQ!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  },
+  {
+   "name": "places/ChIJh4Jam1rHBZERd9Bnf7VtqLM/photos/Aa-ngMYWSY-GGWvxt2z8SQgjR17RyttDm5o7cNJAA6m6HmWbdIJxHAFvhkZ6Z3xBNZ0wYiUIgW2nqtFc-2W6tlVa4EiPOaQJU2gym3P3xGwWXm_db_LOM3FO1EBJuJyZM42vUp7s6IWgaMBR_6zEb1ETKLXz5eXsiQb_FKZ4oPtZw4XjfPxsdb5L_JZ6EL0Hwk5jDzzGl9hFqYpgnAZpKT0IEosK57BogOMFfgAq9kBZWJh9Oh3H0k3MA7sFrrjCSS2C5Sey0PGXfcPpiM_SwrlKv3zMpWwEc_ftOqWt3JtU-Io6uOy8TPudJ_9XrBoKcQDqXb-95Q7DTMd4jMJHq1IZ8A9HT5LiTwdu23Ww5slQLxxKPivvb8GYtSebChN7VCFROwfGa8Ud_szrnu_6anD_jtaAybVQ_r6JbYPBS-wLIt5I_UFR47vJ0dTI6_iCuvu9",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Castro",
+     "uri": "https://maps.google.com/maps/contrib/106862410143982551389",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtooFFSWH9aOBx5tail_AFmaFk2r1ebXscPltjLh2MITn65Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB0uDiWyL_L_kPmje0-To5U&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB0uDiWyL_L_kPmje0-To5U!2e10!4m2!3m1!1s0x9105c75a9b5a8287:0xb3a86db57f67d077"
+  }
+ ]
+}

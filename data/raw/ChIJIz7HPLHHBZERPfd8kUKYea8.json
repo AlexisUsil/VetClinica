@@ -1,0 +1,568 @@
+{
+ "id": "ChIJIz7HPLHHBZERPfd8kUKYea8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "929 373 800",
+ "internationalPhoneNumber": "+51 929 373 800",
+ "formattedAddress": "Av. Asturias Mz P Lote 6 Urb, Ate 15012",
+ "addressComponents": [
+  {
+   "longText": "Mz P Lote 6 Urb",
+   "shortText": "Mz P Lote 6 Urb",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Asturias",
+   "shortText": "Av. Asturias",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mayorazgo",
+   "shortText": "Mayorazgo",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.053501899999999,
+  "longitude": -76.9405555
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=12644304840495527741&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/clarivetclinicaveterinaria/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 17,
+ "displayName": {
+  "text": "Clinica Veterinaria Clarivet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Asturias Mz P Lote 6 Urb, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25semNIRm1UbmhwZWkxVWRUQk9XbFJ2TTI5WUxYYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Una experiencia fenomenal, la doctora ama su trabajo, a tratado muy bien a mis niños....gracias doctora Clarita.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una experiencia fenomenal, la doctora ama su trabajo, a tratado muy bien a mis niños....gracias doctora Clarita.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lisbeth Morillo quezada",
+    "uri": "https://www.google.com/maps/contrib/106550692626279639569/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnmqNa5Hr2-N7JrEvhRo8S3qMKhnFHPtKsR07skFY0mQdZLiVn5g=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-02-10T19:07:23.358922479Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25semNIRm1UbmhwZWkxVWRUQk9XbFJ2TTI5WUxYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25semNIRm1UbmhwZWkxVWRUQk9XbFJ2TTI5WUxYYxAB!2m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/reviews/ChdDSUhNMG9nS0VJQ0FnSURLM29yNl9RRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena la atencion y super confiable me encanta",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena la atencion y super confiable me encanta",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mishel Morillo Quesada",
+    "uri": "https://www.google.com/maps/contrib/108894687605340836951/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc1noL5Hbm9_xol_AwFf9tuWjL7CzWNuBce1t8Tdo4ZsoNFkGLRw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-05-12T04:11:18.274626Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLM29yNl9RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLM29yNl9RRRAB!2m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcXA3bEN3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención.\nLa doctora es muy empática con los animalitos, muy amables con los dueños de las mascotitas y acertada con sus diagnósticos.\nBuenos precios, también.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención.\nLa doctora es muy empática con los animalitos, muy amables con los dueños de las mascotitas y acertada con sus diagnósticos.\nBuenos precios, también.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Renato Sánchez",
+    "uri": "https://www.google.com/maps/contrib/110944340513345921652/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmpuO0fE6ZmMxO4wV62zxTot7MXyyNqVrqFhxFWaZ5rVVX4hTL3w=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-01-25T04:43:02.954343Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURtcXA3bEN3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURtcXA3bEN3EAE!2m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/reviews/ChdDSUhNMG9nS0VJQ0FnSURjNS1xaTJ3RRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! Super confiable, mi pequeñito muy bien tratado 👏",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! Super confiable, mi pequeñito muy bien tratado 👏",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Moshde Mao",
+    "uri": "https://www.google.com/maps/contrib/115316235317909665738/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5YVht6TTB0r6jZcU3WvZ3JOLS0KBefXMlzJXWQIZ5s4-TIuewSg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-06-19T15:04:39.553812Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjNS1xaTJ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjNS1xaTJ3RRAB!2m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlM3NEM0VBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Setiembre del 2022 se ha vuelto la peor veterinaria que vísito por primera vez, hice una consulta por todos sus medios y no responden, te responden después de 1 semana como si no fuera urgente el caso, falta de seriedad y profesionalismo, y siempre que vas al local está cerrado, y cuando llamas te cortan",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Setiembre del 2022 se ha vuelto la peor veterinaria que vísito por primera vez, hice una consulta por todos sus medios y no responden, te responden después de 1 semana como si no fuera urgente el caso, falta de seriedad y profesionalismo, y siempre que vas al local está cerrado, y cuando llamas te cortan",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mauricio C",
+    "uri": "https://www.google.com/maps/contrib/105218647449841005135/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVraMmUgL_mngA_I8EFS9NX0j70b0MreJZX4Fhu6mg523X7X2ZWsQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-09-14T20:38:34.712774Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlM3NEM0VBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlM3NEM0VBEAE!2m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMY_mMwrGK7hj8AsuftHMrkwPPWxBBEhVPfmNViijIrdkt0zpemLmUOAeoraEIgL-usTPYqRTwKhJWuMCkf_rDEpVvleDVGUxmSkP-gCJVexlS3Dwk9RcNM0I1jVjQDHhzG-FWxYRBvwJomYPCR8EA9CnjdEBzjFiFsPyEFLhPjCCkKExVQYOn-t8n8gEfwNTqV1NMuMOc9bnyJkPWr7bxKXt6nUZ9J27jeoAm0h6QFQxkBgztoN-43mkry662IgaSnpsS1_XnvZT6A_JDX2G2m1l_1vfx5Gr1e7-1Z6u8Qs-2eYOsXQ2lf5ogCbs2HDaCnyIRcrrSssQXU2aItNdGw64kDjvgZDpO-BnGZCdzU09rLYz3JdhcCuCdPGIacoTFugreuLPTGSzldP0cbAya8Gv8ELqD8gYCtQPHt1i9NaIPGWzaJhlaI81nUjLSVm",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lisbeth Morillo quezada",
+     "uri": "https://maps.google.com/maps/contrib/106550692626279639569",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnmqNa5Hr2-N7JrEvhRo8S3qMKhnFHPtKsR07skFY0mQdZLiVn5g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCWy0Bk8AhGfDOHTaQ1zgVN&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCWy0Bk8AhGfDOHTaQ1zgVN!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMbGAUr45UrdDfHcVz_tMBcfUrrpuZUeS-gvQKMisw6fE_q8J0lPI-0AqzkFMkvysey8unqgNqZY7-dv0SSoj0ngdHmORUXuFxAeGByKEodNjuCsaaSOlP8Oh-fI3qyOzzXyI2TNpFSwOJIvF8hPIcpgDUSq7oPE0DSxs836StDNHfBXHOxX_4xrXzIA0Muqrs4XnNrnX39dfKXJD4P_o5-wJs_Y5voWoi_VQjmx_ndDrkNYOK2zGpBxEoou7rsn2Q6MqlQLPdF7WYglBl8qbSSjPOpXjAbWaLA1f29jF6kZj-t3W34rIesNYpv2e_BIDnIBb2KXyLk0jibpWvN8Q5BlwpQLIiYAHzIjy1GDkBapRO2qS68ByPp7LE8QT4xkZjJ1l7pBqX90s_pJlSL2W87yEaGJ6_-7k6GdzBfiRxVpQ_LoJLzVLm5e4Lj0iw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lisbeth Morillo quezada",
+     "uri": "https://maps.google.com/maps/contrib/106550692626279639569",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnmqNa5Hr2-N7JrEvhRo8S3qMKhnFHPtKsR07skFY0mQdZLiVn5g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAcuYk8kjYnNoVm7DkBWuAk&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAcuYk8kjYnNoVm7DkBWuAk!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMabUHg7Jda5qzNkCZY1p4AOx5MsmjHeDicJj3JLq9PcLOuEfmnT1QGzlvDnbPbFyFScjYiF2P0mTWLGW2ARuwvzMhYdFIJnxYYSTng1qk5vkhsLiVN3m5jKTsdGVNVI9HREovp-nKcqSr9iQOPEbNwxfP_dIPfTm_Obw-YNBT_R_etpCmXKwt4l8sqCGJMzTmmvJ85jrYVIu2vsw3-wCiX9BLRdd9W_c2MtxZAO-oUXKI3Yg5B446PSBLWLlqS00WEeZiJQywijKpZSX_2-_G1mhpXGxw9BTeYx62NvSj4nX8Bk9N_nNg-1dcNb9CYC2mYC8DQE2luDh-vltnWS7n3dfTa_NNbvt6gAZnWsTrD3Size5P6H_35S4IqsE66icKOdaM3Ozs1Loq9gvAQgZj6c6lzZWhjsTVwlmzoiy6Alj2qnUS7bQAKqXYJiYfkz",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lisbeth Morillo quezada",
+     "uri": "https://maps.google.com/maps/contrib/106550692626279639569",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnmqNa5Hr2-N7JrEvhRo8S3qMKhnFHPtKsR07skFY0mQdZLiVn5g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCk093jLumPS9pQzvI1wA0J&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCk093jLumPS9pQzvI1wA0J!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMY81ErT307wcKWDTVs6uxTGrRRNV7ux24f7H4NsOfqYIQoTHYOMcDzXE4_RnckB7pWW84zpmY6ErwrhOJ8GvCkE7vi-bXljlz5L04hsplbBrK-nL5tFHmkeouuEs77DEYi5nfN7joEl7rMFLwwYxek4TrnZbNrk6zt3_pyQ_Gn7kUH_STzEkxVIneraxWEGJjo3FpgikAdxdhw_Eas45y1XWzxV0ixARvi26AuQEPbBeYd82a_xTX0MrDeMd3Sl0b09fk3gdGjeXze-UpzCQxiYtMI-Tw1I_VZQY2jEk_9KCZBs5mWFAh-Jjm35HPzrs_7OmY05LzuExly__0_tcaUhM8h2OYOUHHj5xzOrVHu4mKwNG1wHhUNk9buriLSQ54_xNZKXR7xd-SQdUVYlnjaKDrbC72RXBPM",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Mishel Morillo Quesada",
+     "uri": "https://maps.google.com/maps/contrib/108894687605340836951",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc1noL5Hbm9_xol_AwFf9tuWjL7CzWNuBce1t8Tdo4ZsoNFkGLRw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK3oqLPQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK3oqLPQ!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMY3EC35j-82umdHRECaauLMcUTcBGz3q2B-hbVyxM4iNCJCEC1leiO_sxmqCBjZqjGSv4L_eLSYGeURxr4vgo0DLOL2QR7mZpEzaI0MXMNjhAHxqmcwWzjmkiRV4GvGMIuWqK73ZGKZLlRGzHS8bn_x8bhKZwAAYYHkYQ7z7ZHfBrHycDzgMjt4vXlm_Fu_Rdqr7GatxV9Mj-TuMBxrzDBJSuxBWZbQKCPZPhflEGNeuql-o3G3loszbwJTkYgdtuBQNl8bugv4VmeSgjE7TNWeuCnaZmJsRxO0olS5QVkxo4MNz8IOyPv0v6hjEp16eVQ1PRHCbzOz0OM4GEdVC2UuLjxaYAvUmWlU-Euf5h4H561-ry2pVJRc34qFgWp1dmkIClZXh7UguczQUaR8qRm1Eli7HWumUeUyGApTR3KJgB84",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Mishel Morillo Quesada",
+     "uri": "https://maps.google.com/maps/contrib/108894687605340836951",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc1noL5Hbm9_xol_AwFf9tuWjL7CzWNuBce1t8Tdo4ZsoNFkGLRw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqhIWViAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqhIWViAE!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMZ5JFuUXMGcBWK21s05_xqvwqlxYWyybV15NrjH1WVJBmhouXCHVWB6pg1oMKQnIQjPWAoigGEAnIzFzMehaWqhEXXX2waD004o3TgAXC1HaNb2MZg3So6ig0pZ7VNcw8UbnK4X4ccZ61WV3qabZfkJR9Jw8bpw9pO6fOvl2yRmW4_wV_mcCzDRx2aop-UMqykTiemwk5NoOcpEHfdmWNroMCnwAwPfT0wZh2YDgT4tKYXKhp-qEaMIEulkrDiiJfPtvXggKCvV5_4inf4P321cfNHZMObGvWakBPKHNjXXlz8GJAwIr4ScZWGJAQ698Yqd7xSIC7e_lVg72EZKjN_mBR0ar9uCOfp-eQKUZKKesUDEvVXcJvpGUP8XOK3Cf6co7_MbaOctuFDyhHj2vhXUfbLCwyopWMh882seFx3ROA",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Mishel Morillo Quesada",
+     "uri": "https://maps.google.com/maps/contrib/108894687605340836951",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc1noL5Hbm9_xol_AwFf9tuWjL7CzWNuBce1t8Tdo4ZsoNFkGLRw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK3f6law&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK3f6law!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMbzzTcvexNZyiGtdzqlQeViIReJqrcD5Bt6zkYwCtXw6ADcfuG1rZrioGcWc7snUteznY-j_ImxC41K8PLGB0lU8cnZy2DPbtxdwRQ3Yoay_bcs-ex5gZrfn1OyHLd_ZsIj3lXt9JvSVDd5pI6qJ2W_X3dP_Q3zrbePQo-5QwL18shhW-TgkCFSk0yUZtejUy5dzf4ZirRpFH5GIRhqsyaEOeFrHeKTTo7gz3ABlaN4RJAB3M_Jemfih2QahZForqUd-SEAJrUidmvewZWIHLwkh987DBMQuAk6oxSzef-C74nwCu8sHED1pB12VTOn_zizYKlLQPYv8RpypGXcj6P9p0_lUwDAiHZNHwDWfBqoZYvSCmL90VIyeTUAsyN3dBKqo2LbFDhGWetgB4VMJ_HBbp-Fbdp4ZiEc0mKePgb0IH4",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Mishel Morillo Quesada",
+     "uri": "https://maps.google.com/maps/contrib/108894687605340836951",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc1noL5Hbm9_xol_AwFf9tuWjL7CzWNuBce1t8Tdo4ZsoNFkGLRw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqhIWV8AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqhIWV8AE!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMb-CsrgbrhqUqzbX5M1pmKcaxH3Tzg6xoDcFsCbkdeUE6o_anKShQQJ-zDrbqB1fs7NVAcXUcz4RRnpwYNgDCTUqRZD1_tia1NYPUGJv-MHv9gX-JuZ4lym8DMYw2iCjcXZVvE7q4-xv4927gZrQtAFbCv9tmEoVzehslhrPgUzdIm8ApGxgzGU9lSnxkL97JcqiB8_TWZry8qfrKG8SXc3pHxxtpehy9I8nw6KOfzB55Asz6dO-QPGzE_gwM5Y3X9fTBaOCBssv8jbToUM8k-Nh8txlzA9a4uNep6-Tj5ATmQA7uoYP93iIiUc56SICjEP1W5MTnQaMM3EbEs4Xo97iL81SOoKPtumGhWKeeR0l6A4MUOJf8O9MAdwR9ttufndRRk6FFpuX_GtJQ6mTYBZLSCbb8Wbm-vGfl0qns-7xQgd",
+   "widthPx": 960,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Clarivet",
+     "uri": "https://maps.google.com/maps/contrib/109870294035766212939",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb80XGA7VyWRevd3F0viTa1_mEiwFFN8tj3LyhgaNznA2Bcg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8kN_rkwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8kN_rkwE!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  },
+  {
+   "name": "places/ChIJIz7HPLHHBZERPfd8kUKYea8/photos/Aa-ngMYEj9GuGZfO85YZfAPtbKFHLZOBP4vHNYvc4No06NZS0de08v3efcGT2FrFShz-U7MllkcUZiYzYYWswgY4QZcBT2Y8o0M03gQ7my6rE1RecnWDgoGOTkVXVqf10EBX097stRq7lqNh351DpoR5E8y29ekd9VOTsjMpusFQUGV-IWx2GwnFIjEnI0JbyBqt_cgnaT9mlAM99zUr6R5AU-_1HY1g3f1v9kyy_02eqckgseb_Sdx0sJ-wnlALlggEUqXZ7Hq4sA5ZdEQ3II5SWEd1ZaVFvxHs9bsSj6AW5-hx6jqotkcmc0JCrjI7QWFVu3rnDwING2aQ5ik4ApnSEtonm8uQj4k67W7ckLMiIGAmvbv29NTNEsnXDW4NPF9GQMNBgRE_bzkNdWpLBMfShWblmwzbnBiTjLo_hBq3iTwuSA",
+   "widthPx": 1280,
+   "heightPx": 474,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Clarivet",
+     "uri": "https://maps.google.com/maps/contrib/109870294035766212939",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb80XGA7VyWRevd3F0viTa1_mEiwFFN8tj3LyhgaNznA2Bcg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8kN_rUw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8kN_rUw!2e10!4m2!3m1!1s0x9105c7b13cc73e23:0xaf799842917cf73d"
+  }
+ ]
+}

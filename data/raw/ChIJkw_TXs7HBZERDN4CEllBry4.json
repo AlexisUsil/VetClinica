@@ -1,0 +1,594 @@
+{
+ "id": "ChIJkw_TXs7HBZERDN4CEllBry4",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4752290",
+ "internationalPhoneNumber": "+51 1 4752290",
+ "formattedAddress": "Av. San Luis 2080, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "2080",
+   "shortText": "2080",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida San Luis",
+   "shortText": "Av. San Luis",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Borja",
+   "shortText": "Urb San Borja",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.091213999999999,
+  "longitude": -76.99622540000001
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=3363979297479122444&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://fidosvet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 180,
+ "displayName": {
+  "text": "Veterinaria Fido's Vet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. San Luis 2080, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2X3NuNm1nRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "No recomiendo la atención veterinaria de la doctora, no se me informó de la gravedad del estado de mi perro(la minimizó en todo momento y me dijo que con una pastilla se curaba)  - chihuahua 13 años, lo mal diagnostico y medicó de acuerdo a una afección que mi perro no tenía, cuando lo lleve la tercera vez en el mismo día, se limitó a decirme que estaba perdiendo mi tiempo y que lo llevara a urgencias. Mi perro murió ese mismo día. Camino a urgencias.\n\nUna muerte completamente evitable con la debida derivación a urgencias cuando aún había tiempo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No recomiendo la atención veterinaria de la doctora, no se me informó de la gravedad del estado de mi perro(la minimizó en todo momento y me dijo que con una pastilla se curaba)  - chihuahua 13 años, lo mal diagnostico y medicó de acuerdo a una afección que mi perro no tenía, cuando lo lleve la tercera vez en el mismo día, se limitó a decirme que estaba perdiendo mi tiempo y que lo llevara a urgencias. Mi perro murió ese mismo día. Camino a urgencias.\n\nUna muerte completamente evitable con la debida derivación a urgencias cuando aún había tiempo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marialba Delgado",
+    "uri": "https://www.google.com/maps/contrib/116340156348262135392/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrajr7OV-ATTGqC2BUkw7Sz8dXGI5MmvxHM_r9rCAeSIuK-Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-21T00:29:31.514235Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2X3NuNm1nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2X3NuNm1nRRAB!2m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNncV9iVUt3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y servicio por parte de todo el staff. Cuentan con todo lo necesario como medicamentos, juguetes, todo tipo de comida y productos para las mascotas. El doctor es una persona que ama su trabajo y siempre está dispuesto a ayudar o resolver cualquier duda. Muy recomendable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y servicio por parte de todo el staff. Cuentan con todo lo necesario como medicamentos, juguetes, todo tipo de comida y productos para las mascotas. El doctor es una persona que ama su trabajo y siempre está dispuesto a ayudar o resolver cualquier duda. Muy recomendable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eduardo Rodriguez",
+    "uri": "https://www.google.com/maps/contrib/107859191907339797772/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW64T93zl1OC_CU5XryKhmDQH3MRdfAZBfes26g-WoprFUwUdI=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-02-20T22:30:20.021940Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNncV9iVUt3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNncV9iVUt3EAE!2m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podVZWQXhTbGgyTVZoR2QxSktXRnBSVVhKamNIYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta como cortante el palito de Nina y Loly",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta como cortante el palito de Nina y Loly",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Acaeni Cristine Guimaraes",
+    "uri": "https://www.google.com/maps/contrib/104706794778598022603/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbUUIMJ5KvrrMRaQWIdPJ-8ek6bthCErAUVwDvWmk6-zNF4cozYQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-02-24T21:30:30.328629723Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2podVZWQXhTbGgyTVZoR2QxSktXRnBSVVhKamNIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2podVZWQXhTbGgyTVZoR2QxSktXRnBSVVhKamNIYxAB!2m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/reviews/ChZDSUhNMG9nS0VJQ0FnSURXeU5pQUtnEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "llegamos con nuestra perrita enferma, pagamos por la desparacitacion q costo 25 soles (eran dos tubitos orales) que se los puso en menos d 1 min y dijo listo y al preguntarle si no podiamos darle algo después por la desparacitcion, nos respondio eso es consult paguen su consult y no nos dijo nd nisiquier respecto a lo q habiamos pagado. lo  cual me parecio pesimo ya que mi cachorra solo tiene 4 meses",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "llegamos con nuestra perrita enferma, pagamos por la desparacitacion q costo 25 soles (eran dos tubitos orales) que se los puso en menos d 1 min y dijo listo y al preguntarle si no podiamos darle algo después por la desparacitcion, nos respondio eso es consult paguen su consult y no nos dijo nd nisiquier respecto a lo q habiamos pagado. lo  cual me parecio pesimo ya que mi cachorra solo tiene 4 meses",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Almendra Bringas",
+    "uri": "https://www.google.com/maps/contrib/112641713637647011843/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7UW1nagX0CzAXffL7CF-fKqTJYkLah_tN_Qlew1CiJfh-5Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-03-13T17:27:17.200154Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXeU5pQUtnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXeU5pQUtnEAE!2m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVbDhlSTZnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy amables muy atentos conforme con la atencion",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy amables muy atentos conforme con la atencion",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bruce Villalta Céspedes",
+    "uri": "https://www.google.com/maps/contrib/110409767560226913169/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9x8GszddvgSwaxBwN14t99JEfHIyseEGBir_i2XkqBGg-Wh2I8A=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-08-07T19:52:52.313056Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVbDhlSTZnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVbDhlSTZnRRAB!2m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMZsMFjzQgmZLwOJoXSHnvtg3COGyqmz0H9O5n1bTaJUQzTxH3PrHZ9c_2gK4iLMzaVPmFHMeJTIl8BTHZldqTRTI--mvaKKX7I8CxVVHBtn9_oaBEAwI-WqZRhuzVsoun9OEyUMk7MS5pmw-dGMnE33wu5H6BzWBrvpRpNlWzgXuQ9TIoEiqk4tgI-Xbn_Rl_3sFOaz5UWjy6cBcoqs14i0sPMkuTsfN7a2Z3d40685aeH_qbTSSJvjEdWeql3cjRwgiBTcFeyNN77MN9T3sM_B0HjDLcn_cPCa2GnroSKAe-vRGSNawIWByK7_eaHCXO2Kg1cfN5EEyjii59EIfRUHjyykZAxoLGctGQdqpbKgMnkwLWPkWwvHRLEpkOZzsf6ex2xCckaW88hODABDuVvTNOWzaEVzuKVRYWbJgWo",
+   "widthPx": 2500,
+   "heightPx": 1667,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Fido's Vet",
+     "uri": "https://maps.google.com/maps/contrib/116522849604810465065",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo8AEoPtWxBw-_9saieacdyPxMYZ4qqws4fXIvFGDLm-gKglw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHobbnaA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHobbnaA!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMaJx8pxlcvOMyJLbSHP9PKciVE9Wj3C1XLb-TVIVoUfK3nIc3Ayq-K-x1Jag54nUvhPqnMDeK7pR-wUagKD-plxnL_qc0jDzFPzFlT7tOSr6Ixi8NBNiTjtmsL8_xJZM6BBWs2L7mDAbHx3FKsq0DgFK0KonPrSb0i1x4BJMw9CP2OK9_mPwlnAyxKsBjlVJBrXDpD1RFbXNdoH9qBvjK5F5xXnzqzpFk9gIzVi2PrSkyh7I0or1aRD-b2JhKXlIfikXfoHGYpihKJ7-bgTEcdWNVeinh5d1tyvEgBJhCX-SATBJEmmVFMNkRtenU1h06QeBSSZdNJaWUHE-cEeWpzRz3m72BeBQ_TezqDPN5FpaMtKOCaXCcvlSpe00H4pY6t2g3MjNT84SFd_SSlqcZ01P2hxzQmSp32oKW6IiR4ayA",
+   "widthPx": 1500,
+   "heightPx": 1000,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Fido's Vet",
+     "uri": "https://maps.google.com/maps/contrib/116522849604810465065",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo8AEoPtWxBw-_9saieacdyPxMYZ4qqws4fXIvFGDLm-gKglw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHhb2xGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHhb2xGw!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMa1tU2BfWZ3yloRubw_ctPf_kLyyfk5fF-KcJkvImIicWc0rFgHVPUw5CtsycfUyBRpF9eekyRf6_SdURvFeoU-cGXM5JjU3zLxlr4bHL_-T1_gXmSHKd9C6ZLDi98hu0sJrdh-UNdcKN1FkcDCjibbtwPHtuffpPmKgs3oE-wmXJM_zixvpv-Fsy0_M25psgH7QmxZaKKeWnbdGkQgjhcmeid8NrE37dPt81bFr4cbubHofhC1TcVs9ybePKwfnPqdmaXqbkdBm71MyXlmYef72wiX_opoNT6F1RRpJID6NwQDjd6QGvBgCebM7Z0GBU-5wSgzLnH94WiBh7GaarlP82iqwoGgvLjtzKOCSybWBOp7WxKb4gzDikOawPzTYM_qc3JHPrdfNXiVGgAGa8a1tsEFOqyUzEtH8pLKMkBOqA",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Rosario Yancan",
+     "uri": "https://maps.google.com/maps/contrib/102468733869264528023",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR_JmZSaNVHgD0b5Xr4MfSNumbi80K9G0Ng9ezI_nrKlNUCIB2pQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-_9KvJQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-_9KvJQ!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMZyCzO5znFdYIUYF4CnlI1gV050oFaPvf0LqeaEVlWrE8CcTuANTwS6AaR7EYUth5COAkQvftObK4-rf8UZ_94-ewXe23aBXJdz5ZzbeJ_LK4nwoXwMd8PvcL3XxWSTh0y5KJMKPMtlHzZREoAzwXNCPCh-GsLcuoXtTwX8PB54uzfAhEogmBGEVGk-ZCNCAS4406dhpgeh3ieNENgl-w5f3H-LtfbRmObWhsbjVYF8yRewI66LZsF0HmKiacET5o0CT2IAj-JVcZgSN-VnuIh1EkSUNO1CmBvvvSV0iWY2x2HdhZinqBBIn207YfCRji01xd2ittnbt80XhUepPpJLR6KApOmYnktio79fPW1x9X8uCCLDnyIHf0OU_DIPHwV1krlEz5yfaKUVDfTH_q0Xb6IM73wzw4Eyfok",
+   "widthPx": 1500,
+   "heightPx": 1000,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Fido's Vet",
+     "uri": "https://maps.google.com/maps/contrib/116522849604810465065",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo8AEoPtWxBw-_9saieacdyPxMYZ4qqws4fXIvFGDLm-gKglw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHhb0V&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHhb0V!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMbzcrBjmk4lR0maNrVBhp7LuBhjpQC0yPCw4hMG0EiUczM01pYaP9KvEw70I0GK1YbOCEt7ir5tKYqSVqiymDZbsFY7vwV8p8D9a2yOFvUVca-UDbDwcno7eSn6q2pgEV2mZVCq_pQ8nM2FmKN3jM_BfRG8RGikFtzd13ZtKrcuFCp657Y7V0a-enyEBwRf4G1SNE75YKY5SsR0p1VUt9ESDYmn5m5FQriG0Zdi12goGDxw1qwpe3CfgZY-7-F9rtLn5omRH-pA2_eBfdlY-kKmGEsmFVseXZ5IyqPWa1enVVk8Ekz4PER3HWUF_1g0AmyRmx8A2Kz3AWa4aFfj7bGUap3Omqm7GQGb7y7Wjl8rBj5vsprpAzPTMSamCCexnC_Cyx-amD6JfvmHj_ed928HvehavBKxesTVnZIw4eY",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Vanessa Ponce de leon",
+     "uri": "https://maps.google.com/maps/contrib/103324046165131874593",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfSmjBpi-iQQ0T8WHwoMywXn-uUIWI8hr1EoG5EVqzUtnH6A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID46MGDcA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID46MGDcA!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMbHO6lBzAjCVucTR1bb1IqGSD2ztWXZNbsVsdbxqiYOmeLXMM6r3yDw8TVrDZ2u3dgABlzvHfsANVMYwe4RQMpvhMxZXWNFCP4HuYn2Pr6o3sUyTnRVZmb0tw4vAEfbUuSfbBEtHUMbtkb3Z1N6JMKWZW5o6K3Kbb_i9IEUxy0CQQV3wE5Q8NRnvQGe2aQKiR39W4d58mKUTJJMVFq72eNHAMT6eVM_Qz3z1_3UFkfTIOETuu8fpNqDS52WX2qcuvDrk_aXId16zyLS8bREzCVFAi6WbAb08tZGPm99bZLIxMs3J2gCn205UicG85g1ltggHlKMJSS1p90f4xAwyT-Vlru9ww14SmDO4_PPXdJnHKn8ILbe8XqVNYiYWj4f6ZIX1itWaVeTNEgKvHGRTtn1osjSKVg0pkwi2uW_yW47IA",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Fernando Vasquez Soto",
+     "uri": "https://maps.google.com/maps/contrib/113944749368635026653",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLoKdPZuSP2NWnt6x-82WLmco8Bizs5x0H_FNWNgpDybHykBg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDp24LKTA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDp24LKTA!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMZuZY4Vdrpgxrk5g9kHbbNrK5lN9IDrdbyEA7T1Mtf4rv4HWMl7J9VmyhBjzLGULj3L-k23FQfMCIMBkmgcjgq5Ic_OK2PRkp52awqnQLRuD-J3wtkfLf6kkXzViiE82W9QEUPPogaegf6Ug46CojRM8TawKWOGvaJkgjNS6kVlI6DxBR8C3OSVREQ5xI7rOgCC6GZWS3HY0wVhu4Y8up8X51ZZ6whMe-ykKNjcgbzerIx3IJIPyMYACza_5uJRmwCAihiS1QtkkzHnIsONrmBeAwfoJp0dmU2RbQWCEN3GitL0SY6oDDf1a_22xgRJEcczkdI2343xnyZAXZyGffh0oOBV6U-EuHTshV5LxR5KL12p_UFh-I1gm46tidXUcRm10t2VR1vqg34kEk7CRS1Mii_wAJJpjyf9XrkID5v6uQ",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Nurith Claudia Emilia Stern Valdivia de Cadillo",
+     "uri": "https://maps.google.com/maps/contrib/108496912775458925594",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1AUfZV58rFvOStg-objMJziWIk7ieJFdZ3HwXn7chs9NXcl4i=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDPheaNKQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPheaNKQ!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMZhVHX6OwWXrfC7I9Mr82S8-lkZCzLEc4vDrZXgBzo5Nj671RxpvnT8LAv4KE9hsJOtNDThu3YLPrGxeQ_VQdwvEhoMWUt1jlvPxazxZeChwQrnGy3MyMkb3Ro12_9nIXxMv0RRaTC24zdVH2NNIEHkCSRHXvcMhfc2H8tib8MFlgw0FaIGKc382mN9uFdMwSNg8C3aYTOYhUAQMonwn406ViGFmzHR-2Gh7ycGbMkNZNKB0o8TdHeuaDeGNSC5JIqOi18sCZ-dMc0QmvQzMp0uwE1qgJ3moWnO3u_izJOB3QAnceqi_k0ip5Shd3e0zwthJRm7MayK-2ImjulZ_OKMXEXFji7f91eL26XjvJRGZIi6yM54jL_tDKoJ2LEeh55bu0y2Aj15WnazjixzyiaGSjWjNNXlkkHybO2e2w8IHw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Marialba Delgado",
+     "uri": "https://maps.google.com/maps/contrib/116340156348262135392",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrajr7OV-ATTGqC2BUkw7Sz8dXGI5MmvxHM_r9rCAeSIuK-Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDv_sn6Og&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDv_sn6Og!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMZNN03gLBU9LJmjBu9jI96IDJdIthoDSVlQmliyZac_J2c86403q685czRCT2e5oPWMfhsG8qoEiZp19vrlB6-NQt--XIeY2CyI28DsXVLvqp2-70BUnBAh__b4q2zZJTsFcF8rX3_df4JbI_ZFltHaJjcBp_GMYuuJ_qc8_-2124VAwKwALo2SqJNY3F5H-GWgLl2fTVJr-DxKZXHxOCQLpBEfRVcW0G5035VLuILyGZejlFhzHWzV2o35vgIl4niVB99X27x5lmEAdcCBMALu2pao9k8vQR7itIZKcVkQBXCAecDoSTUBuz-izY0gOR6KLYLRs9v8huB431nHusHlx2PzyY2ypCB-nK2H0TmxFx1CoDf9H5yNAmTQ1OPJBywsCDm4BPOLwbNG-1s13A9KweWplrBS3GKuoaBgSJQ",
+   "widthPx": 4160,
+   "heightPx": 2080,
+   "authorAttributions": [
+    {
+     "displayName": "ANA MARIA ESPINOSA JENSSEN",
+     "uri": "https://maps.google.com/maps/contrib/110305515389897410729",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVz14V7XbkQp1jiHszgyXk42VAYI6FP3jBZnmbZzaI1A-byPDXCuA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkr4jpNg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkr4jpNg!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  },
+  {
+   "name": "places/ChIJkw_TXs7HBZERDN4CEllBry4/photos/Aa-ngMavptR1cHI8idrFHxpzPw631rBppmVBv2IFvfYbgucDakK5kWa1oUWiX5axfCQ3pgCc53n_er4dGusTx7XXMrEVloRevS8yKBtwi8Cl1b4CQhw0MJ3vDqbaQ0kZWNrbws7DW93EpaRYLjtXPm1Ty3_tsbGCH-fg4lEbe4PAWQoFfp-atXM1_EpbSZ1MLF_VNfc1607PIlx4kAMIJuj37RK5juPYnmQ9uFTjnBHxSqqmXumZ3p1nhZrw_gWcJolphQ7SujPa76dh25U08QOeekVw49t3UllFxPoheANZR60WL_vn-O0NECXe527uYLITb8rh1R2heoIHR476TOzIqcKb_Ai3iQ84mXXZgAQndNse9wtPzCzjdf2qZRR83Xy_iuEt_3bkcpZQi-0gYFoQfdW4YnSS0by9dUrOfpktHIAixfU3",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Rosario Yancan",
+     "uri": "https://maps.google.com/maps/contrib/102468733869264528023",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR_JmZSaNVHgD0b5Xr4MfSNumbi80K9G0Ng9ezI_nrKlNUCIB2pQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-_9KvxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-_9KvxQE!2e10!4m2!3m1!1s0x9105c7ce5ed30f93:0x2eaf41591202de0c"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": false,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": false,
+  "paidGarageParking": false
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleRestroom": false,
+  "wheelchairAccessibleSeating": false
+ }
+}

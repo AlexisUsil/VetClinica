@@ -1,0 +1,471 @@
+{
+ "id": "ChIJAYFGaY3JBZER7-aA-cFV9iA",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "formattedAddress": "Av. Los Conquistadores 880, San Isidro 15073",
+ "addressComponents": [
+  {
+   "longText": "880",
+   "shortText": "880",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Conquistadores",
+   "shortText": "Av. Los Conquistadores",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Isidro",
+   "shortText": "San Isidro",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15073",
+   "shortText": "15073",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.104895899999999,
+  "longitude": -77.03721279999999
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=2375180145087538927&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 16:00–20:00",
+   "martes: 16:00–20:00",
+   "miércoles: 16:00–20:00",
+   "jueves: 16:00–20:00",
+   "viernes: 16:00–20:00",
+   "sábado: 16:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 49,
+ "displayName": {
+  "text": "Veterinaria Dr Victor Malca",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 16:00–20:00",
+   "martes: 16:00–20:00",
+   "miércoles: 16:00–20:00",
+   "jueves: 16:00–20:00",
+   "viernes: 16:00–20:00",
+   "sábado: 16:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Conquistadores 880, San Isidro",
+ "reviews": [
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OellqVTFkWFoxTUdKM1kzTTJNR0ZIY1ZwNlkzYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Lo conozco desde hace más de 50 años y, para mí, es el mejor veterinario que existe. No se fijen en el consultorio, porque él es un veterinario de vocación: no busca vender, solo curar. Tampoco manda medicamentos innecesarios ni pide exámenes de más; con solo una consulta te da el tratamiento adecuado y el perrito se cura. Para mí, es un verdadero ángel de los animales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lo conozco desde hace más de 50 años y, para mí, es el mejor veterinario que existe. No se fijen en el consultorio, porque él es un veterinario de vocación: no busca vender, solo curar. Tampoco manda medicamentos innecesarios ni pide exámenes de más; con solo una consulta te da el tratamiento adecuado y el perrito se cura. Para mí, es un verdadero ángel de los animales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Chelo Urmeneta Calderon",
+    "uri": "https://www.google.com/maps/contrib/115549177411777178183/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQLniKVL39kz9RoSaxxoAIFeY63D5EyQX9ejK-e9oIgGn2oRBq=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-08T20:24:16.069206105Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OellqVTFkWFoxTUdKM1kzTTJNR0ZIY1ZwNlkzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OellqVTFkWFoxTUdKM1kzTTJNR0ZIY1ZwNlkzYxAB!2m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMmRWVjBSR2RyUjNkaU5EWmZSSHB1U21aSGMyYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hoy fui a la veterinaria del Dr. Malca por recomendación de una señora que llevó ahí a su perrito, el local bastante descuidado... Esperé más de un hora afuera para tener tranquilo a mi perro, pensando que el Doctor valía la pena. llegué para preguntarle si podía esterilizarlo. Me dijo que si, que lo subiera a la mesa, en 5 minutos le escuchó el corazón, le revisó los dientes para calcular la edad y le revisó los testículos. Yo le preguntaba cuánto cuesta la esterilización y no me respondía.\nMe dijo que la podíamos programar, yo le insisto que cuánto vale, me dice; S/1,300 soles, ahhh!, No lo voy a operar, gracias. Le debo algo?, S/100 soles 😮 Osea casi que le pagué la mitad de la cirugía o el total. plop!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy fui a la veterinaria del Dr. Malca por recomendación de una señora que llevó ahí a su perrito, el local bastante descuidado... Esperé más de un hora afuera para tener tranquilo a mi perro, pensando que el Doctor valía la pena. llegué para preguntarle si podía esterilizarlo. Me dijo que si, que lo subiera a la mesa, en 5 minutos le escuchó el corazón, le revisó los dientes para calcular la edad y le revisó los testículos. Yo le preguntaba cuánto cuesta la esterilización y no me respondía.\nMe dijo que la podíamos programar, yo le insisto que cuánto vale, me dice; S/1,300 soles, ahhh!, No lo voy a operar, gracias. Le debo algo?, S/100 soles 😮 Osea casi que le pagué la mitad de la cirugía o el total. plop!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sara Henriquez",
+    "uri": "https://www.google.com/maps/contrib/117071284418513733309/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdYwlq4_-fDK3UWYAAprD9ZB3m6_cO2UK2pOmkymtjvwvkd1LYXw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-10T01:14:05.778166777Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCMmRWVjBSR2RyUjNkaU5EWmZSSHB1U21aSGMyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCMmRWVjBSR2RyUjNkaU5EWmZSSHB1U21aSGMyYxAB!2m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNVJIQnRjRXBNTFVGVlRXZEZSR1pWYTFOTU0xRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Un local desarreglado y con poca higiene. El costo de la consulta (de 5') es básica y cuesta s/100 (sí, el doble de la media). Si quiere una simple castración de su perrito le pedirá s/1300 (!!!!). Una buena vet en otro lugar le cobrará s/180. No vale la pena... No se deje quitar el dinero...",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un local desarreglado y con poca higiene. El costo de la consulta (de 5') es básica y cuesta s/100 (sí, el doble de la media). Si quiere una simple castración de su perrito le pedirá s/1300 (!!!!). Una buena vet en otro lugar le cobrará s/180. No vale la pena... No se deje quitar el dinero...",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luis Snz",
+    "uri": "https://www.google.com/maps/contrib/112940727599083889185/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxeInNecQIWAhrtDp5wXqgBVcpgWt3lyeNv431jHyfiKzaUg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-10T01:24:53.895952901Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNVJIQnRjRXBNTFVGVlRXZEZSR1pWYTFOTU0xRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNVJIQnRjRXBNTFVGVlRXZEZSR1pWYTFOTU0xRRAB!2m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FM05tbzRNSEZaYmtGMGFUZFhhVlZtUWtaNlVrRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Súper recomendado! Hace 11 años conocí al doctor Malca y nos ha salvado de varias 🫶🏻 Sin duda alguna es el mejor veterinario del país",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper recomendado! Hace 11 años conocí al doctor Malca y nos ha salvado de varias 🫶🏻 Sin duda alguna es el mejor veterinario del país",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "monica cardeña",
+    "uri": "https://www.google.com/maps/contrib/115126155870545450489/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAzp1DinaBx3TVulCDBAyE3y7f2GaH8zXwkhCZbAKMDwyFrA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-02T21:20:11.922902325Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FM05tbzRNSEZaYmtGMGFUZFhhVlZtUWtaNlVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FM05tbzRNSEZaYmtGMGFUZFhhVlZtUWtaNlVrRRAB!2m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMVMyaFpSVjkwYW5vMmNsZHNWVGRLVUVsSmVFRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Cómo hago para contactarlo. El teléfono que está en internet no está disponible. Quisiera sacar una cita con él por favor.\nMuchas gracias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Cómo hago para contactarlo. El teléfono que está en internet no está disponible. Quisiera sacar una cita con él por favor.\nMuchas gracias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bruno Sciutto",
+    "uri": "https://www.google.com/maps/contrib/101121147349229086113/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCWe-8f5vR7ziopf154lUwODd5I6rOrUEQCwwjEzQGnLqtuA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-17T00:06:47.558215600Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOMVMyaFpSVjkwYW5vMmNsZHNWVGRLVUVsSmVFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMVMyaFpSVjkwYW5vMmNsZHNWVGRLVUVsSmVFRRAB!2m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/photos/Aa-ngMYEJoHLYvf4XSCe4XqSo96MwnD18tjZT2sfUbkTRk_Pzb7HNgA9hZyPpf2vlDX0wpl_3dE3NtJgnko-e6g_ypSBWhvXUN3CBQCGGHqBUMISDvAsh1LxZU6RyNjHyNayluWgCRXzsgC5Gvct7ql6AhSx8tXyICgHNlzxswgH_lUko2j63n6QxydKn-XtbcSimnDPvj2QhRGk3M80P6XNwUk5Br8Gz_6y7yKZSbdPGQxyrcL5pzMqFEoK-zvf8nthpb5VdacBQq5Pb5psvcvm0uJopFg5BoNpVsmEXTAt8EGgAKi8yGs5aSqNAAZQhUXC_DxebGmpLMBvZt1GGqU-4rCu3PhhwtltxI9e9mtsPhAFlRJaXBD5EKT9-7tPPOeBhKWN2WYAtb3yTqxOi7SzHqgKOoqniWb0XGkhm8KgzY3hsA",
+   "widthPx": 1170,
+   "heightPx": 1560,
+   "authorAttributions": [
+    {
+     "displayName": "Kimberly",
+     "uri": "https://maps.google.com/maps/contrib/109526862737898306952",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV23t1gqa6dURfxDwQQssia_UYdzTOKYNxBnsOznID4aljFp2QL=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCMEOiDS3-B-GqeOnD5jRMe&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCMEOiDS3-B-GqeOnD5jRMe!2e10!4m2!3m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/photos/Aa-ngMYIZS5b0zIe-SkPWESn6tzG6eHMOP1qKkJfTSmNurOs2jYSApxH1e3m5Bv-6YdagN6xX8Q0DYEkJJ4Uos0iwl3EYfshlMeJObbrbk2SptF9mU2sHtBgyTUFE9P79h272K-0K4PX81v_Y0-cXVptEQYSVC4IDalMHw21h0f9f4ablmwU3K6SGS7eYttv14B4fGccu7FH7dRALssRlNSYy434cg0IXm1lG0fdXpg3hUzVuFog1uhG5adp713AOtCnNOPamef_bv71WEHwmzd3gpuI-ICP3x-PFXxQpIjeQ4PlufpcF8iYPEeTUv7nZ2wW4b26EVymBmQpknEJnFe9quhryGrbxaWNVrZYwKPOcoMv9co4xNW5tPAFC8UhqMh6hEUFZDl3huNClDxl4oK1R3E-IA",
+   "widthPx": 1965,
+   "heightPx": 1816,
+   "authorAttributions": [
+    {
+     "displayName": "Ire Guerra",
+     "uri": "https://maps.google.com/maps/contrib/108336340354486006154",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7-_sAtFsJnyHtKOQ-N7XDnv_FwKjrx1Ha8udjs8RqETcKU0pHqA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKrc2CJQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKrc2CJQ!2e10!4m2!3m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  },
+  {
+   "name": "places/ChIJAYFGaY3JBZER7-aA-cFV9iA/photos/Aa-ngMbo9qoJPitDWXf57SbFol8PfOLuKfs85n72P_4Au1Azh-l3m36hixRZs09huPtKxBq-MPDHwxo5hWJq_zFp3ARPDAVkn_mqJzvt2VBt4Fo_Qy6wdckV3yU_vLbC6lWP7jYkkFvVNwUkGNVrNEyHUJmmandiHp9_2NqIIcpyzZp0BK4WWRGqT0AjnEPb4pvdy_8mMdRLndILXf1nmVhUWiMTZqRdQokvtME0dh6manBoY62h-i8lYUp-Bm-htOjCRmQGJWI-yeqiPtSQnbV4O83jv-XiwNuXyMmybf9P8Wptx5350s3IJ2XW8RrkvsU0zGJM2lXynKSVvQ4Px_opBea8_hB98zjsJ7eumo5UPY-2l1BfzQwiy0VHYtONTIENxt83ZolrvocgisZ0Q2-AP91WY1s",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Erick Gonzalo Rojas Carranza",
+     "uri": "https://maps.google.com/maps/contrib/117988398691821335618",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIv5jpQBcqAtT3TrHh3EhLBmjWH0YyfO7ysqllcmIqNMPLmeak=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEsOfsHQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEsOfsHQ!2e10!4m2!3m1!1s0x9105c98d69468101:0x20f655c1f980e6ef"
+  }
+ ]
+}

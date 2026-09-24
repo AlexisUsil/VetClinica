@@ -1,0 +1,582 @@
+{
+ "id": "ChIJpYxzbQi4BZER4NstNz7aneY",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 7605286",
+ "internationalPhoneNumber": "+51 1 7605286",
+ "formattedAddress": "Av. Alejandro Velasco Astete 2837, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "2837",
+   "shortText": "2837",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alejandro Velasco Astete",
+   "shortText": "Av. Alejandro Velasco Astete",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Prolongacion Benavides",
+   "shortText": "Prolongacion Benavides",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1351338,
+  "longitude": -76.9901723
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=16617678160815578080&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.veterinariadtaisa.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 238,
+ "displayName": {
+  "text": "Veterinaria D´Taisa",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Alejandro Velasco Astete 2837, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eWVHSndkVVl4TVY5cWMweFpZVFZDZEY5b1QyYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 4,
+   "text": {
+    "text": "Se debe sacar cita para consulta, el costo es asequible pero adicionalmente hay que pagar los inyectables y otros procedimientos. La doctora que atendio a mi gatita la reviso bien y encontro una inflamacion en la garganta que entre varios doctores le drenaron el liquido sin complicaciones adicionalmente contaban con una camara para inspeccionar la boca que me parecio interesante. En contra deberian mejorar la recepcion, los precios son algo elevados y no me supieron dar un presupuesto para una rinoscopia de un polipo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Se debe sacar cita para consulta, el costo es asequible pero adicionalmente hay que pagar los inyectables y otros procedimientos. La doctora que atendio a mi gatita la reviso bien y encontro una inflamacion en la garganta que entre varios doctores le drenaron el liquido sin complicaciones adicionalmente contaban con una camara para inspeccionar la boca que me parecio interesante. En contra deberian mejorar la recepcion, los precios son algo elevados y no me supieron dar un presupuesto para una rinoscopia de un polipo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "jhonatan ortiz",
+    "uri": "https://www.google.com/maps/contrib/107818076777681400176/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk5Tga1MHYcC4qb45oJE8JkqK1jirH3v_KA9gAuO0OdvRUoxg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-05-09T14:56:54.788844054Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eWVHSndkVVl4TVY5cWMweFpZVFZDZEY5b1QyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eWVHSndkVVl4TVY5cWMweFpZVFZDZEY5b1QyYxAB!2m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcXUzeDhBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La mejor veterinaria de Surco.  Con profesionales de primera en donde mis gatos se sienten en casa.  Excelentes veterinarios que realmente aman su trabajo.  Para Aslan y Zoe (mis gatos) es su 2da casa.  Los reciben y atienden como propios.  Cuando viajo,  tengo la tranquilidad de dejarlos los días que no estaré con total seguridad ya que el hotel de gatos es maravilloso, supervisados con cámaras y personal 24/7.   Lo más importante,  desde que uno entra a la Vet.  se respira amor a los animales. ♥",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor veterinaria de Surco.  Con profesionales de primera en donde mis gatos se sienten en casa.  Excelentes veterinarios que realmente aman su trabajo.  Para Aslan y Zoe (mis gatos) es su 2da casa.  Los reciben y atienden como propios.  Cuando viajo,  tengo la tranquilidad de dejarlos los días que no estaré con total seguridad ya que el hotel de gatos es maravilloso, supervisados con cámaras y personal 24/7.   Lo más importante,  desde que uno entra a la Vet.  se respira amor a los animales. ♥",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Connie Fletcher",
+    "uri": "https://www.google.com/maps/contrib/101688376265226281989/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYg-eHqhaquiE-Dnu0I8YSrBc4lfm8Hlki3qTlQ87d22bcpw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-23T19:53:00.676374Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcXUzeDhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcXUzeDhBRRAB!2m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeWFraFJjRXRwY21GT2RHVXdVMk4zYjNRMkxYYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "La Dra Taisa es una especialista en gatos, ninguna veterinaria me ha dado la confianza y profesionalismo con el que trabaja Taisa. Muy recomendada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La Dra Taisa es una especialista en gatos, ninguna veterinaria me ha dado la confianza y profesionalismo con el que trabaja Taisa. Muy recomendada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sebastián Pareja",
+    "uri": "https://www.google.com/maps/contrib/116875227672126107587/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8BtkTubetzQPim0t6CVI0NlPBWTqYGDRHrDvK1lFDHacIHLOs=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-02-28T15:01:04.424949686Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJeWFraFJjRXRwY21GT2RHVXdVMk4zYjNRMkxYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeWFraFJjRXRwY21GT2RHVXdVMk4zYjNRMkxYYxAB!2m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xORlVGaFpORmQ2YUVWTFkyNXJhM0UzTmpCUGNVRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tienen un excelente manejo, le realizaron una revisión completa, le tuvieron mucha paciencia en la toma de sangre y lo engrieron con churito de perro ☺️😋\nGracias por atender a mi gordito 🥰",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen un excelente manejo, le realizaron una revisión completa, le tuvieron mucha paciencia en la toma de sangre y lo engrieron con churito de perro ☺️😋\nGracias por atender a mi gordito 🥰",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lina Encarnacion",
+    "uri": "https://www.google.com/maps/contrib/106759881459464055088/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVX4kaCfNOyhATr2pIvEkVMgiKDtSyp4wv8meluM5_gc1PSJ_MWHg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-24T00:28:30.926419515Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xORlVGaFpORmQ2YUVWTFkyNXJhM0UzTmpCUGNVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xORlVGaFpORmQ2YUVWTFkyNXJhM0UzTmpCUGNVRRAB!2m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMk5VODRiVVZaTXpjemJFRTRiVk5DYkZSVFowRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "La mejor, realmente especialista en gatitos. 🐱🎉\n\nMuy agradecida, ya que había llevado a mi gatita a varios lugares antes para que pudieran ayudarla a sanar su ojito y me daban muchos diagnósticos errados, gasté bastante en medicamentos que no hacían nada y hasta me dijeron que estaría toda la vida así.\n\nPasando unos meses nos recomendaron a la Dra Taisa y desde un inicio el proceso de curación fue haciendo efecto, le hicieron un seguimiento hasta que curó y le salvó por completo el ojito a mi gatita. Mil gracias ❤️‍🩹",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor, realmente especialista en gatitos. 🐱🎉\n\nMuy agradecida, ya que había llevado a mi gatita a varios lugares antes para que pudieran ayudarla a sanar su ojito y me daban muchos diagnósticos errados, gasté bastante en medicamentos que no hacían nada y hasta me dijeron que estaría toda la vida así.\n\nPasando unos meses nos recomendaron a la Dra Taisa y desde un inicio el proceso de curación fue haciendo efecto, le hicieron un seguimiento hasta que curó y le salvó por completo el ojito a mi gatita. Mil gracias ❤️‍🩹",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pam Cubas",
+    "uri": "https://www.google.com/maps/contrib/111826431140840991762/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViDsiE_DFyLoY7zvRtDli0PonfjGhlKf7uXnIgqOW0LX7NuEcv=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-10-29T04:46:59.363502069Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKMk5VODRiVVZaTXpjemJFRTRiVk5DYkZSVFowRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKMk5VODRiVVZaTXpjemJFRTRiVk5DYkZSVFowRRAB!2m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMZquPK6dDULllSTyj0zLhDSPb1_KhveGvvSaSuwiYGngF1f1XmKxoi-P4rLif8md34Iouv7j22GflrwtHB-1LrUhZ0QQSG4h2toMn61mpvLRv98mTcKxAqwUA3UEez0isZRBr3Fs8EEERwJCQZE0B206AlZn83FnxIVDGPaaYQtm8jD18JpaaY2OOP5X_CJsaAYI3pTgylvRFiUdvx8XLTYO8A1_B2CylQBvC3Axjioj6Jaxjkuyj0IN4VopCXnIkaxyVdL1QAYL8wMfyUwmxg5lJnS_SECPDBmbOHuMUks3S96fso0XOHFPJiH5RHuZehu8R4JjFxwhlMglosuvgqeD2VR4SpTkk8E2qO4-36W57Rlj_G3_Z8SVvyqOkFhKOpKbvFQKstrHEjgyEq9L5V0nLfRv6JHCUi4X3XHU3ix1b8c2IP6Qiz2uSSpwsZv",
+   "widthPx": 1320,
+   "heightPx": 803,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria D´Taisa",
+     "uri": "https://maps.google.com/maps/contrib/114023603649772596643",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKNPQVrhDy5E_-8RzwwyJ5M_PFhm2Tlbyx62vfXS6_ymAbwSGO=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDRuVnMZ7ng4tnyxjU7eYI6&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDRuVnMZ7ng4tnyxjU7eYI6!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMaBz0Q4zdf-xteS9TIYnCAaA5UBn4KlSppKyA0c2Aizlq4l6zTl0TcMZkljl8TYkXwY9DHsXEd2BLwbhm8v0YXMe8M4QXeq-FuCKzK3zNIXbw3g1BxAO8yOSi-RFMalMsnR8fylSD6F_PWz4pwvFeQVdvG0qWrPeCwiDgGnFwTTEQGz1uMVQZrn7z35xWBOR9bOfYMdyIN0Pb_y4DzVNdU15BatsygHYoFtXcrpDmIM-qRXhE7Zrm-dtXc95xn5R7uJyTJ708PoLOQnE-g1Lqt5VHbvH0QThB2nXCS3SBb41zSg2WtrciYLsfsvV9CHiuy4SQM3LJXMXfYuIAOv1XX1Z_MeBlL1B6syoff5f47As9vlngQdN_82jxFFdrDuZQQnNKsxDdum8aKTv3HXLfnW0JVWTYfkbrFeIokHqpIyNtQ",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Kath Aliaga",
+     "uri": "https://maps.google.com/maps/contrib/113399615447588545217",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWbqwTE8mryQAOjIIqeZTHuIyEZ_sDh8KFMiFr6_vthX_mEh4GJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC0oJmn_QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC0oJmn_QE!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMbEbN3izMMJp9kaSQswWznoL-j8goJgk6xSQcGT9oN4lz1bQIm94Prq-ZMMFo27tVPbB8lN-Zq7j8kX-gAc5R_ah2mMabyEEVQtSvZVg7TjYWzBWOtXiKXx8A3LVBMEtdevVvz7-ngmGpQkRJCB8rZ7dvxgUzgNa8uBfSd1n3_WJhou1TKO3HMDHVc3Fx2ZrBPuJxt_jY24pKT0YKJFUn5n6Fk7R7Jd4aOQduZdizqSywru9XZ2QAD26FXqqUONigL727Uy9a2HRZes94ya4HvBwSOXVo5vgED2NVGNHodnXMrygUadtvYdPNYZjESFOU2TkkYZby2KzT5Hew7YqvKEYP0UqtyCOghvm6H6oAgw7k0avbWOqLps6WgQxXc887uKFucXwpDz29kbx1w3qfJ7OHhoDv0iqkZABCKhvTfojPOPROlb6Ab9JqBZSX9j",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Sebastián Pareja",
+     "uri": "https://maps.google.com/maps/contrib/116875227672126107587",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8BtkTubetzQPim0t6CVI0NlPBWTqYGDRHrDvK1lFDHacIHLOs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC93cUcSlUrmAlKz0sMxlR4&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC93cUcSlUrmAlKz0sMxlR4!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMYtg5vTH260siYEwLTidowKhabu08R3WJFlJ0aA_f-5rdMvlRvyOtcgFZVz3ZQjMTVQMuY6pvvayBl-BxdCH_h2ugCvyef51eGTVjzzfKuFueJUTlTjXkFGpqafqgR3lsNzkZHJ5w0GcLFl3x204K3Oz59lw89XeLUPq_T8f34BV6OvtmedV8Ka2bKTpViijWtkQM1B4R4w3aYhyx3Xwi9b8mV6vs7Nq_UxP98mftzjfS5CN2E6A31gIVKDV4cAHH0v1ar39dyVnobh0QQRKqF3dt8EZtCK_zZzs2lG7JBAQKAVGFqzJhMvpUZMxUsjejX8uxeiXKzbzxmA31dnNNpNi7r1DVDbx_k48VZtNJfSE0G0I-xabhn7zLHNg7mb2VJJKEQLm9SzTeTonI0ZJJues_Er9auYiFVqNO9yzui3CRwT",
+   "widthPx": 1080,
+   "heightPx": 953,
+   "authorAttributions": [
+    {
+     "displayName": "nileppez del",
+     "uri": "https://maps.google.com/maps/contrib/114652768795038778763",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnVqS3KR4mT43kKqzShh2W0GEIouT1LfkbAiQVfOc6EGmVzsE7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDI9pvJkwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDI9pvJkwE!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMYBXQNSL8XAhWezBq7_K6RMvDGk920zuDe39aESESRn4cKpdNr524Ygb2z-4JVkkX6nnWWRO0x4PiPo7tKLLx0sjIhMy_24B3rU_4b-dzDFQWzmaKX2tWsRLYzsUn-GrAoj-uk1I1VTzE4UZKbJ4vpadEdrGAmWCxWwTe4jbMXUD8wRfsPNei-rT9B-e3WKBkiixpOF-KFajEOsUZhs9Q-1WgEbNo_lzo-q8noHT7L_d7_c-ufqt6jWSVso1AQS0G__CbgozkelX_qhoFR6CIxYj703jtoFVZYRjOALNB0ydKcRbIPemrASanpDwzzcuERYN1d1YuciPUwHDv8iRz-dKNQpZT0cGFXz17bmCbNkyylSzCPdg_z8JE1451Wn7GGkeZ_k-GKSoUmyZMVOmeRyBbQpyZTnH1cbd3Gs2yU_vf5FtQfAt5hipfpJDMpZ",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Lina Encarnacion",
+     "uri": "https://maps.google.com/maps/contrib/106759881459464055088",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVX4kaCfNOyhATr2pIvEkVMgiKDtSyp4wv8meluM5_gc1PSJ_MWHg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8iXcmUoJYYJTU1XQ6LCdx&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8iXcmUoJYYJTU1XQ6LCdx!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMYqAyubCbE0VMXAjbfJYUtCd9RfkUpMV1QqV9nkRNbL_HeSWrGOOvWwsuoIiHUVWEgX_5BS2VKedptAX01ZulU6OdyeYfi5zWwNRjkRw0v8kHUcrtYmYaWMVWM0WHutWdttfd6Rk9z5fp_DHmQmSDUpGgreSFZSXumv_cl4uEBiKciVfAUNAl5MQ0yPuR-uiiXO5a_40bsh_201gaaTGCc4o4zMo3xPuaTKLSk9rWrrH5MHwmQn4DDiwq1XhUcsHxsBpnlwWbFwbrSxoq_bn-XFPYP291-T89g6W2RWYHmf2a2CZWfzyHY9i3Lrtjo4_3MmsCEF3tCpSL5bazheX_SZVObV5uXr92QLBrJR8vT8B6C1CXjvho7DhPiaBH4FfLEfl1G0BGP9lF4CcaZdRC2WZuHkiYoIeukwJjOde02Ugg",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Fabiola gonzales rios",
+     "uri": "https://maps.google.com/maps/contrib/115177363861847054326",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoSNucPhV9VX8T73zyiQWcvsoPXETqlihxX1ZVXnkfjOPavdBU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDc-riiGA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDc-riiGA!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMY5eP4XA1eg4PvQ-mFd17hM9BfyExmXCIAllEjcOEOkR7M_HWWKjAHF4GhbD65AsFPJajlcAydMk1l4CRkABwTAEj0GUi8ckAr49i7_giTS3ic-VP2fxZZeRCP32KBTc9AZiSoLWU7gn8mViqEepaZiNYc3-EbPkbAlZenJ1Wk8GWZ6R7yL_WjNf06wllOUW3s6FCPsk7-obLmHirXWHVJ7Hv-pMq_ZU2DfFxiJyzvNMrDTcY3-eoRkPr6fPIsVFnnL9sZPkkSp0Pg0vM0oJAxFIjE-kJCBaMpbQAQH0kcPOCJM2c4ikBtw9iFeBeAdLiKocWP1b1FTRi0yuZTDyMKDcd_9t4igAEXKYYXx1e4gtGcXPzHwTK8zVKGCbMV5H4kEkvUCX8JHAgZ6iMWe5mKM6oF8Hof6GsxJ06tNnhNo9zc",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Esperanza Sells Tampa",
+     "uri": "https://maps.google.com/maps/contrib/102992493659628943470",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM6ovWbESRJ7UI82peZuLIS3CI6r1ZAdbhPiEfIapoj0afhdw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhif2u2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhif2u2wE!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMao_u5FzOJkf6UTcysC4Lpt4eqHhUT3CcrLRXMbrCsWPg6cJ8UpotROnw82ojZZ44yJ86BUYsWbR294oGSIA5mYKeFy7byf5Nscz3nSMAPTG07Nj2t79uENNZ7EpVsQI-FZnEH_X9FfMvpxCADK7ILn14b0ww933B6aXrLYuKDvFClEmRvxoSE291Pho9mhXgjNgJS3yNT2RAJjhuBQO5Hl7nf2P09juc4yRZQ9xsRaeZ2ps3BzJFKjkfM59su5ihA-gKz1_sLJMcuocTJmiuczjMIikCGMA7WpZpe3RnyX-Vd7qNvbnNA7aVyvpQ_8pSMBsmCp8akAvPlUlP5O3EjBFvNlGR-EtvEBYkPWYXhL0W7xpS-ZxlJA1iYdeYfd8zsTvbpljj10H0E9YsxSvT8zpHoDq48hoWmjxpNlD16pYRNiisgYePzU-iilow",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Ruz",
+     "uri": "https://maps.google.com/maps/contrib/101317701422948600167",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQZJsQkRrvRrrnsbZ-X7El0NxGljf2J-QMms2qVumstl6ISD_hHA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCfYRd6TBy7H0UqSvsVkG_q&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCfYRd6TBy7H0UqSvsVkG_q!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMbkrZR6HQv0vCO-oAEHIfMaYz6UY4seXPMEWGKGc4GTtdZ_r5yeJ5Ww_S55XWUm554_Wrl4Hm9vsv7I9wYct2vpBHEFleD1xJrZ7Z-q3aQwkwaNwGOugRDZy8pnBY690q2Q0RXBAgLD-AceRDGtH00ink5TAtZo5GCb0AjaceZ5mcMhg3dkOkpARQBg4XnOlQeVAQ5ijCjQRvAaIoKNlwDRtGvRBWEFM9F4Mjb_Ym793515z612wCFkqYAdV5GzeA1tb1CEzZawR_ySctl6S9JuXItz8i63d2B0wLbe1cQ-TT4jQAB-VZymMVAXUQwM-VuQWvA-b5A31lucUKZPkNmaz9O9kqBrb2cnhM8h_G8j7lyNuxKv-kMHPi-3TmO8Ikv-UuLb4ZTxWb7njdDTv8V2Ipm5mCf6WDPpG5lP_BDWbw",
+   "widthPx": 4032,
+   "heightPx": 1816,
+   "authorAttributions": [
+    {
+     "displayName": "Tauro Hernandez Arbi",
+     "uri": "https://maps.google.com/maps/contrib/104504636009703849644",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVX3YNnJWjEedAcRgjIospMuFWDR4K_KyDXz_DODKwEcWE-xdPNdA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG7O2dSw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG7O2dSw!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  },
+  {
+   "name": "places/ChIJpYxzbQi4BZER4NstNz7aneY/photos/Aa-ngMZ6MCjUApS-mCX4FyFNlTASHGOCfNrUaFPHBoMxDOwiJk_NCYuiUS_kONyyWt5CZm_z5QNshamwrOir5jhJpGEb-fx1xZaT6hoTm-YRA7OYhIz2eDAHN6lBg9I0AzMzL3_xmENL7hpb6RTqaxJmyvwtJcVL6HOZ-Pz5pHOBjyJcG9fiCJlZ5ZpBdhul06J34w1B55nkbZUNC_uAdxFBWfeu1kLPagvaGuLZRUd2GefSSy0efyvJVmOxVAKJFiqX7mxsTZpwuV2BJKCzFC-QEGixQ2yb7xSL4hBjehY_B5PmRiAoTKYXqxl9W--ZcGv3R_WqiDaqEBhaoUcX6FCTZeqDO02PahSiPc81f9rVFvHOi8_xRsLcnq4AOzwyBSkss5OPw4iu0Dlwjw4rrv1WkCFytzH2eAkwqi5JG4lQ2n0",
+   "widthPx": 1280,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Connie Fletcher",
+     "uri": "https://maps.google.com/maps/contrib/101688376265226281989",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYg-eHqhaquiE-Dnu0I8YSrBc4lfm8Hlki3qTlQ87d22bcpw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDoqu3xSA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDoqu3xSA!2e10!4m2!3m1!1s0x9105b8086d738ca5:0xe69dda3e372ddbe0"
+  }
+ ]
+}

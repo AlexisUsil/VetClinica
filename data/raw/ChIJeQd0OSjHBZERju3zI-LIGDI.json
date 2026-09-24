@@ -1,0 +1,561 @@
+{
+ "id": "ChIJeQd0OSjHBZERju3zI-LIGDI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "933 688 439",
+ "internationalPhoneNumber": "+51 933 688 439",
+ "formattedAddress": "Av. Ricardo Elías Aparicio 181, La Molina 15026",
+ "addressComponents": [
+  {
+   "longText": "181",
+   "shortText": "181",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Ricardo Elías Aparicio",
+   "shortText": "Av. Ricardo Elías Aparicio",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Rinconada Alta Etapa 1",
+   "shortText": "Urb Rinconada Alta Etapa 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15026",
+   "shortText": "15026",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.081677400000002,
+  "longitude": -76.92755
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=3609855974928805262&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://reinoanimal.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 22,
+ "displayName": {
+  "text": "Veterinaria Reino Animal La Molina",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Ricardo Elías Aparicio 181, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNjZIMU5BEAE",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria. La doctora Jenny y el doctor Jorge son de lo mejor en su atencion y en el trato al cliente. Se los recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria. La doctora Jenny y el doctor Jorge son de lo mejor en su atencion y en el trato al cliente. Se los recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fran Castillo",
+    "uri": "https://www.google.com/maps/contrib/102497177777589350244/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyjyh8SnkwR2NWSifdt4xHf8yCYaKw01J7oICmsUIj_bKsX1q_=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2017-11-07T01:19:40.026Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRNjZIMU5BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRNjZIMU5BEAE!2m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0dTVlSjFnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Son unos maravillosos profecionales y siempre la atencion de nuestras mascotas es personalizados y muy bien tratados y lo bueno tienen muy buen precio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son unos maravillosos profecionales y siempre la atencion de nuestras mascotas es personalizados y muy bien tratados y lo bueno tienen muy buen precio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "juan bejar ruiz",
+    "uri": "https://www.google.com/maps/contrib/103388269917250815398/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAuiYEAsKRRantZSmVoq4qtWmojUtFHf1ddpDNOieqE8GlE0qKTg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2019-06-11T23:56:34.400316Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM0dTVlSjFnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM0dTVlSjFnRRAB!2m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1bGNLT05BEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Se olvidaron sacarle un tubo con sangre a mi mascota. Lo peor fue su respuesta que el mismo gato se lo puede sacar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Se olvidaron sacarle un tubo con sangre a mi mascota. Lo peor fue su respuesta que el mismo gato se lo puede sacar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Vania Escobar",
+    "uri": "https://www.google.com/maps/contrib/113763782455546592814/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISGpj9qjSEryOWJ6f06CMRUIHIdcxEw3u2xT-zZHKI1m4baQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-08-25T17:52:51.962051Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1bGNLT05BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1bGNLT05BEAE!2m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWazRlMXBRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy dedicada la doctora Cárdenas Avilés a sus pacientes.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy dedicada la doctora Cárdenas Avilés a sus pacientes.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Y PV",
+    "uri": "https://www.google.com/maps/contrib/107010512391201859132/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoRdRGOD2yKnNzxwiCcV4xZmW-30ceHWcx9hw6ydzu17Sneag=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-12-09T06:26:54.543532Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNWazRlMXBRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWazRlMXBRRRAB!2m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/reviews/ChZDSUhNMG9nS0VJQ0FnSURVejZyV01REAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "La atención es a1, ahí llevo a mi gata",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención es a1, ahí llevo a mi gata",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Juan Carlos Granthon Campos",
+    "uri": "https://www.google.com/maps/contrib/111562544043883010016/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM_1BIFksHBUgNii0Zv4H6CyaL2ucK-xGT-lzUAkpwhhmnmYaY=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2019-09-08T14:47:46.439456Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURVejZyV01REAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVejZyV01REAE!2m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMZx5X3Frc4BVZ0BRyXdwzIGuLGpGJ4CqsoJERQibhoLP9GLyELmYcZcCw8JYTWUsb1tAGaqrCpRN-VP9R6Hma0Hi6KC2jtkc_eknw7gJPDJITaqXakgjgsZMhdJ7dOngjBgFJpIAnyYfbTlaJqv1zewvfKHIrcEfsahWA2UuxshKFYqDaS0EI8dmR4v_K5OGCisNy_KdM15cnR0rjs_hWFtrEMYRMDJYUOf1agnvUnGayiVeg8uSHLhCqQEI-arnp9UCe7nN_sYcGvb2YdTuvE8GIZLW1n5RvNaZFjwuAEOBHwPQZyqLAJ9CKclH_9GJroIGTQwCTz2BBHSUwEE2KmvEKwRUbfblSj6Kshz0UOrxs3hpGfeIg_mK7l8Wf3iGIDeEFyoTlkKXcAPTYL-uwy8aSPPYzPxyMClAayEaLp_uA",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Reino Animal La Molina",
+     "uri": "https://maps.google.com/maps/contrib/104997204819483994422",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1XpbHx-7Q5oWogd4p3p2hBdMnt2tjeNYxsPD8ElExBB5dSw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAcZZuxznA21uaG4MV5jVP2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAcZZuxznA21uaG4MV5jVP2!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMbz50i6I9a3UWg_YaCYwZtA8sfJZ5LKXXgfW701Wdev7XRcrCq6oR0bNsah8G_Ctkv0OR8F6LjZljFuFi9kLaekgE1DBMfVHbs9weqapg19RlOAXOCkIwLx4KBEXp3kvfdX1lQWwyplazMu3Haki33iQar0RfzdHJ9l27wcVW0v3zTejP01-qjOaV0AUTJtbfKVj3918WjS2nmYhTm9y4_2fNvRCo-5Sdyn9L_C7MVCa8rnU6hncwfhCJj5hwKCyWd1TSFN5q01CAFiR5qM1he48Usplwn1AHZmCSeoNgMpg-l9UnQN1COp5goj1E7ktVPQ-MIjOLlMoR2fNPRaqlmZGQsv_1J03RzZip4AMXSLcI2xcMa6o8OIkuooT4RaXsyfepqW6xtt-A7sr8G89wDa7aOvp8HUf2n0m9k3lPP1aQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Reino Animal La Molina",
+     "uri": "https://maps.google.com/maps/contrib/104997204819483994422",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1XpbHx-7Q5oWogd4p3p2hBdMnt2tjeNYxsPD8ElExBB5dSw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD662n7T3Ubyr_KVkBoU0GO&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD662n7T3Ubyr_KVkBoU0GO!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMZlilZdoIKxYSki1UUIHeCoRnxf0_3IWT6NJyy4CSn4g1fDz6S-fDmvFsKf-UeMsnA4wLgPByejuItn4oxZSIE0buDeBihx73SXVXD6G6HtQElnprNBcqvZRyVyLoVxBfeRKa_BfDt5z9q5iBGMoZx38Yeomiq3jFsjwIlREeT8z99sqPMdDCMPMMAB0i2E97qCOf-ZKCbFw0AF7pWPNm3dNk8srelJnpTN6QQzAnfNJoWC7W8R0H-VcZtq-DfHnfHvFSN5aP9VS-CCmE7t97Had2kecVtkBWI_kGneMf7uXJ0HvhDqx0yLJzJuBiks13RLyxI6dwv9m1-XOLbZ0MJFKF1EMUHIXdff26ribAzERcgsYHuYuSkj33P0bo73r1jUIhO48UqfbyEP-bnllizVqQ6Bz9rGhDwdTxE59Qy-2Q",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Reino Animal La Molina",
+     "uri": "https://maps.google.com/maps/contrib/104997204819483994422",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1XpbHx-7Q5oWogd4p3p2hBdMnt2tjeNYxsPD8ElExBB5dSw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB3sZf3BTzXrmoX6lRUM5ki&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB3sZf3BTzXrmoX6lRUM5ki!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMZ7UEHsiR7TSEBPHaukaJyNlCF7FkUoNaU64L6sFch_z5ur4J9tlzFIc59A9sNM_BRv1hA9X3VDiJGT5zJdpzrx6mqZ3kYoT4HNAoqf7SOqCyxVjs4BBzyr37apDHLW2eHE5pvTBYBiOoOhMphAGOtJI-FGr5TSj6aaSP54zNAtebomp3P5H7ZR27WJO_hDriABSkis3XGi0i3u3QBTaAg5UVax4UyKCGaf3BWQpBngx7k7lM4ExTGjaItcvD8CfR2NPwoGV4an7YacDcvLJyDVDJGymf43DpdlupAbeA0Ih7NF2m7Z9U6eX7B1rfMqNrdgVpNs0VIBgXjo81z-78PzTGW0Vvz7D0lBLXFJW7oMdEmPyxoSlbgRJouaNVhfsvhh1lD-RGsqx3ZmK4V0p3iFGVfpd-SbSY3CTN1UENN8-g",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Reino Animal La Molina",
+     "uri": "https://maps.google.com/maps/contrib/104997204819483994422",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1XpbHx-7Q5oWogd4p3p2hBdMnt2tjeNYxsPD8ElExBB5dSw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDEkJQa7IfpAF4XnFIyEe1S&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDEkJQa7IfpAF4XnFIyEe1S!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMZk6BIm2mg07TYSN2VXRi46OHEP2u74PN-LHwzZllAopCoD8l5lIKsN_jm72K2ivrIsyktL6FW_WznpJ-C2NJzNXuIp9J9y5HP4e-xV6FjieDUs-Y9xQVMscq4fnu_836-1uICTNhxsSEh4FMkvQsjgX8A-VlO5DSEA_rNLWOWtjGASHI9HBCInE7LGwurm5CVKFnZ2MCn3JnVKUqYZcvx78LAOSYqDThuaH5fpEfJjtGayDWbUsON1_vxMTTVOHAOBWvt6Mjn4F1jF7sQwrzU9japaQatQd_TyWbfyKnDD620bVUq0pPRwaJrKc6KNfNK4Yb35sAMnd4Hp-3KSvCOhDOxmNpxfS8sivorpN2PVUsxGM99JquWiUQmX9yGiSS3LjfuXalsOHCVkTl-roFqho8KhycTyN70JWy9CrGlWZQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Reino Animal La Molina",
+     "uri": "https://maps.google.com/maps/contrib/104997204819483994422",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1XpbHx-7Q5oWogd4p3p2hBdMnt2tjeNYxsPD8ElExBB5dSw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB2nbIIeU9C2lDNC0cq2wzU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB2nbIIeU9C2lDNC0cq2wzU!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMY2rm16mgz87KxeK2XqZSvanRu6hnU5iCyPQ6Z1yfK7Syl-BGBjAF0T1Lgjvcj-1ymy0YO-0Hdp48_ibtn4S06eLcYWiQTmciWBQjGF1GYEmVTVt9xU-k2dyDEW43U5vvsNBPSmO8iSyKPQrlj1w_gr-zMyCrN42E4C1fuqHjkzLnc_4oQHQjbVqnEVFT67pVGOo7eT7q9KR8QicpejeB31eFhDsKdFd5FLexmkuzpJUkbCPpUiNC9eoz7PNcf3ikxrssW4XEF1OmxiJBe0OHzwijuBjt7-BrgFGoPRq41gzWfd3IXm_Cr0tM4_zcjtS1QA53KXi840KiZ5ZoTQg_7OcXG7oHoVykch2G-u29urDagNpFLxBvBtKlRrIam7Vnr050svVlEeolN4L3q4KbP8JXsLqwY",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Shana Luna",
+     "uri": "https://maps.google.com/maps/contrib/116701627578418024969",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtK20RFihNU8ot7udp480ufPadF7Zhm34ocOJhzmpzTvTGEnE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM1uysrQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM1uysrQE!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMYu6g6cgdiyFgULt-tGtkjBVgXumQS6dpwRM6Sp8H_xlih0dfcFB02I2GKKLW0RYcwEqXhR5PnVDNG4GpEOxHxC2rnV32fTZuynArkC8tFthBJ26OiYlDUdOZk2LUBc8jE6Y5-UT_Ylr9ntXn-uGlOReQ6vt7uFil8JAQKCC0PAyspRtDzihlKM7WocdTgYe-EvpPYiO5e3RHaaWXGOMZben0qnX2K0904OGr7o6CJSNzrkb96DMLeEq6H5JfbvsUE9CCpgZv6DE9YZYQtxkXumhWru5ffJ9wUJUihugLItDecMRf0bwDaYL3mQdGCoaxHSfCyxLV5HoRIQD0mB0LNkFfTxoBuZD1QLY2hnSBwyMG-S4ruj_uXATaauoASIGxkTcW2ZtIqpNK0yjfpo4kWqP2_2Oio",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge E. Trauco M.",
+     "uri": "https://maps.google.com/maps/contrib/111495225122357956842",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVp_eS5IEFOAgboSJ96t0NuwmF8hBOohCLzwHaSihC_bjLr58QU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4xtay0QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4xtay0QE!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  },
+  {
+   "name": "places/ChIJeQd0OSjHBZERju3zI-LIGDI/photos/Aa-ngMZ_ZnKd5sU8ytjLcUVRueNNoDBN_i84t3-n23N0kTubXPkyFamKmfO-tL9IhK3HDWghRhBxG3-SQPOkIY4LbIQ-ZX6YmTGuXk3UkZ0HdEwz3sVeBjterk9s7kP-vBoFuGPEA5r-lq1CaSru422FQOIL1j7n4J3-8Ps38ZbCeY2sMpld7sWOkGj0cfc_ijoiUaVyk7u00BqSVzkiRBZu4TXeW_sjJi8NPrkstAlbaNAwFCBRk5dX08zuIep4Ysr-V74jGywsenbwBkRVxF5hSKxGWAQtmfzMaK0IrCtLV98DdjOilXVIBP-gEduS01eHP-4QtZfoQTPNe09HmlqcV1ZUaHsfIrG20BWa217wg1mly6OeR_JZXHMG2QeaQvFNtqiOVbLPtWiwMItVjSti1WBCYd6T",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge E. Trauco M.",
+     "uri": "https://maps.google.com/maps/contrib/111495225122357956842",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVp_eS5IEFOAgboSJ96t0NuwmF8hBOohCLzwHaSihC_bjLr58QU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4xtay2QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4xtay2QE!2e10!4m2!3m1!1s0x9105c72839740779:0x3218c8e223f3ed8e"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ }
+}

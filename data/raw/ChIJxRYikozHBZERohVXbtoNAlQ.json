@@ -1,0 +1,624 @@
+{
+ "id": "ChIJxRYikozHBZERohVXbtoNAlQ",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "977 153 702",
+ "internationalPhoneNumber": "+51 977 153 702",
+ "formattedAddress": "Av. Circunvalación 2869, Ate 15022",
+ "addressComponents": [
+  {
+   "longText": "2869",
+   "shortText": "2869",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Recaudadores",
+   "shortText": "Recaudadores",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15022",
+   "shortText": "15022",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0813515,
+  "longitude": -76.9857232
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=6053416080944600482&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.conagrovet.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 159,
+ "displayName": {
+  "text": "CONAGROVET",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Circunvalación 2869, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeWVGODVhMjVLY1dRelRVTk1WbkJaUVVOeVMxRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Si tuvo los remedios que solicité y bien precio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Si tuvo los remedios que solicité y bien precio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "raul lima",
+    "uri": "https://www.google.com/maps/contrib/109859755072637867684/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAutM43DSn4SYzdApuaqN2znqEaM112IUjPpJ_tMlldndSr0E=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-05-14T12:35:38.135541034Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jeWVGODVhMjVLY1dRelRVTk1WbkJaUVVOeVMxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeWVGODVhMjVLY1dRelRVTk1WbkJaUVVOeVMxRRAB!2m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1SFRHdE1NSHBVUjJkWE5rUXdUR2hUV2s5bGJtYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 4,
+   "text": {
+    "text": "Buenos productos y a precios accesibles, recomendado para comprar vacunas, pastillas y demás:)",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos productos y a precios accesibles, recomendado para comprar vacunas, pastillas y demás:)",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "J Alonso",
+    "uri": "https://www.google.com/maps/contrib/115029983601171024994/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1ELGTaDxTg_Fk0uevMYzMs4s9gKCVd8Bha4Ztg7oSg6uHynQrnw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-02-11T04:31:48.425631846Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1SFRHdE1NSHBVUjJkWE5rUXdUR2hUV2s5bGJtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1SFRHdE1NSHBVUjJkWE5rUXdUR2hUV2s5bGJtYxAB!2m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/reviews/ChdDSUhNMG9nS0VJQ0FnTURJcGVEdm1RRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, tienen gran variedad de productos de calidad y recalco que la atención al cliente es excelente, saben que producto recomendar, aparte de tener precios muy buenos. ☺️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, tienen gran variedad de productos de calidad y recalco que la atención al cliente es excelente, saben que producto recomendar, aparte de tener precios muy buenos. ☺️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia Bravo",
+    "uri": "https://www.google.com/maps/contrib/102699402254131023858/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI19uWBugU8FQU1MbRlgjZmZPW4X-tnROHhG4XrT4B9XlVoiw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-11T16:30:29.062725Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJcGVEdm1RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJcGVEdm1RRRAB!2m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2cXMzQVFnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Tienen una gran variedad de productos para todo tipo de mascotas y ofrecen un muy buen servicio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen una gran variedad de productos para todo tipo de mascotas y ofrecen un muy buen servicio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jürgen Kroll",
+    "uri": "https://www.google.com/maps/contrib/103869107230752854921/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKTMLGc4wFTDGTLTtkDfRht2-qs6iRy5pn5pjPR_JlY8sQEnm=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-09-02T16:11:26.668092Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM2cXMzQVFnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2cXMzQVFnEAE!2m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbVkyNlBREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Buenos precios.\nBuena atención, cuenta con diversidad de productos y diversos medios de pago.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos precios.\nBuena atención, cuenta con diversidad de productos y diversos medios de pago.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cielo Bravo Mendoza",
+    "uri": "https://www.google.com/maps/contrib/103086099244713454912/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0fKwPHC59pLR_BXI-pMtcaFhlLeVuArN91RziOron_mCxfVo=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-07-19T23:25:20.569990Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKbVkyNlBREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKbVkyNlBREAE!2m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMb3Sn9_cb7pzAWx5F_FUHzBys_hFQ6lxzUM3yHpkU9D2iKeHxFjCZysJywAsHLViwMts9hLyogUWVFLgJAGTshEBOXnma7JQsDuFmhtU0LlCbJWSqXK3dkqm1xuatoxMzNImrSbN1f9aU1WMuaWSWjxX8gs-x3sZddLcBFKN2iC_8-Hdx82_lTgqmgIRV_-vwv122qtGiKwZzCTlJPou_b5ESrNwDUSAMH4VbRwlBNSu5O5wo62Gnh1X9CleuUbn3G1rx8xJZSX4FTifQHhH0f7mBitKc2VTEZeYWQlv0ZCghN2RjiK1ENxleNaUZ8j6VN5yZOWl6GvVPrVhtVZTXoVIz-GbJHyEln_HgcZH5xDutNTKwbACDJhktA2ZomBjHuwC15Y4bGSNFYLu_eKwTc2fY0SL9DHgDhKGedjJ1AY",
+   "widthPx": 858,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC9H3vgFl39N5_zMjVLLAF3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC9H3vgFl39N5_zMjVLLAF3!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMYKULoCcivi8NoUzeLOKJHZ0Vxc6IUSV3ssiKJ2S9XTK1b89DGS1hRabkORV2QJdqTycUpshWBtGWbupNrz7piPKS4az67r9UbVbdXNArjmwSVr6qzRa_TWWUQ2AY1wFTAQbgW7Xk-VUfzfz3arsxmX7UrEiYZIvR5QC0-yD2VEAxP5YH04v1NtyJ4zIAAFKalch0t2FgmxCistugxtzSscH9n-OxmuMO-fbcE39peEQJ7z1i00pFjVOGbYU-cqG0Oz8JvE8KKXasNLmpx39TMwgYssSR4FwwAGhpYXEQxo34uN4XT9yDeU7NWflm_CbJpRSbQUYr5I01tzANmIZWE5mzDAemVgtRQ11ja-Mkqzrpn5F-1tsJBNZoa6GtQj1YN1I8uVVwYVaRKJyv4pZK9_fs6ljMg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaxe63oAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaxe63oAE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMYyWrTKgTI-noqsO1u0ctiIi15G77MY8qlvj4BoUtlubMBXqLfeDLJLqTUr7I0MlzWMb2FyUDOwbQOMm2Ct6NOT0PlVoUpS-4EGsHPtrRw1lKHoT1VuEAlG5h1IVllrBlQp2PpRipaNsQspEwGZna264g5iFZ2Y19lQq1ZV5AKs69WkkYlt6U9HqnMpRH9XHMlP6KlkUhiVPFzKuVvThG1zeDrZes4t0zzgmmrrDPSxfzkjL_xV0sWUnmiHyvrPcJxztYdtVnrR5CjiOyPyXeiA5ELqr4YhPn2qlOLV5qEUK6ONEuS9ztL6WlekjgmG2BEIPtq-XRp6FDjxx__SWIacZyFSGDtKNW0JmaVvvo9NgZaG_UYWoIlEhbkZfoK19AFITnBYGylG5Bj3ZRUXjPMesfQ",
+   "widthPx": 800,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tKKGeA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tKKGeA!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMYxwhay1mz-PPi54MfJznrUxjgxLEP08h2wuxrS12-d6Rs-YL-7LT5ZsFeWh85suJage4vicczH3lg3gB-MlJQqtUwR-hoUO0GtpoZMXjLzZfT4NJqvmh8iaU975v3kbwcQ9bNlRehF1btrSe7BJOdeM8n4-Fbp7dT9KuHOy2bWwvh0u1r0ViJ3XkHfTsXov58R4o3CHv315OS4KbqaaVPlr7L9QKkARz7ozfpls_8flWXBmgcqP-ih1YvPjKe2ATVFeptKv2IPIqg5LPoHHVhZqyL0n2MIzl4sDgYKXwLODPtBAdEMUnMKk2m1YDhaeWrrQmAIdOPbhHPtAJPvHNDPRyQYyEmIoNWAlhtkgeoPgmGkWWujLUwZnC4pqfil-CQ9NH0AoWo5-ccFhSFLfZ3Wx4gDrPKvkbf9O_gPLU6xQg",
+   "widthPx": 1848,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCERFlWlOR_b6tmwetuH9zR&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCERFlWlOR_b6tmwetuH9zR!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMbEGEUlJbZ_vEmgczZd-djwTZ1sn4QDxZaP7q2w6g5doeFqsEs7L5fxfFQhxiQzJjv5k7YOCMsCejgnWL4g49FiLeK2R00GZVEGyw886uXqwU7p0l_4kWnvjiIcYV475XKrEQNlFJvLTC6LXjv8jXgrrz9uLW1XNCICQYguz4w8BYrJGVQI8MNR9BOjp9azXt9-hBHuRlFVcV187RkibCi0jaoy9XyzehSDIYW8lsMyU78ph3zTm68Cq35fNrxqlEoMmLsIpck8fPtQShcuTgriAR-VPjQBDbYjto2bhMADaYw4vQ9_vRc1OiXRzSyjpHoLW87csBVF1hjps6dRIVCZrYa1FZvT2AsCGzJmZjyo9sKnp1qmFrHARQqEPC26Ysyiuj9Un5Y7oZ6L2YPhpaRMbN_5JQo",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Jürgen Kroll",
+     "uri": "https://maps.google.com/maps/contrib/103869107230752854921",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKTMLGc4wFTDGTLTtkDfRht2-qs6iRy5pn5pjPR_JlY8sQEnm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6qs3AogE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6qs3AogE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMZQpKaftiZ0sqVCCkMMIcUClyx0_VUrKiMXRCz0svshKLrszXha6znaIgnv8c7n-HQndVGJV44s288mtzKhmV0V6E5N1q33EaN_V9NzMItx9NB2aNu1eaGhjzos4YBiiKA10SZ0CSmQ129C3xsmRohzwTm3loPWTVWIM_fCaMkGifQiKWdUjVpZsPGVy7ZpoHlOrakQ1DZbAE-MlwzlBAv984KaLNZpQgD8Ptb7JhTcqPNJGEmUYE7-Tam6EYVzkFLznbxlf8UemB-PDNVlcUxbINWGO6RqjcPfl3DIvBBWyPSxOVU3l-pDT_as5BbgQr2kbLdhpIysBGASrIvConPKUIHTLmwCpiYlk0tt9yAyG182vWQuFTIaeE8Y7fwNIoLXRh60NrkfNODIYFs2Dvd2UoyIR6I",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Cielo Bravo Mendoza",
+     "uri": "https://maps.google.com/maps/contrib/103086099244713454912",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0fKwPHC59pLR_BXI-pMtcaFhlLeVuArN91RziOron_mCxfVo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDJmY26_QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJmY26_QE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMarRntED8s-LZeDIwMDfo5dcAJ8WJwc92Awf57yKs42XijMwO2Et9U6wq6ZRQ9f8qIwppIhM_YnAkbxKwAqm2JGym1kTwZ9C-JrJI1B-u4fVKATZLTcigy9ClrO8xBh7DaW-Q__XNPcaPY1AP5eHhOaDgWSezFL7qTVRY4jOqKqOqQzWPhCe9sJIQbvl0AuWA7qT460Yj1g2QkdD6MVFppnsYGrJ8xVCnYcEe0iuyA32PdCbiPGjMt335JnxRyVmBQQoGocgtyrU5mjQYIaqkpIoNS2FKFf8T91feo-afSsrAo3yFhghc6YgaDD8NPCvKzz4WVpvx-KUlsQ1FKwabdkE_zamClucUnPj_8zxOBB1hYmI-X1Muo6oKH1_53sRFtKLA6StK9UChVaUHuAeLXXQtKfBqw",
+   "widthPx": 3468,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia Wong",
+     "uri": "https://maps.google.com/maps/contrib/110179485124965517040",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-NFL2rw03lnMkNZ2sMryPLGtx6Kx4ZXozaCLe-GXj0qJgqJ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDx3-bA0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDx3-bA0wE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMZsSmrzdFtLRgr4kDECD5aOtxrcny2RPIjltQg6e4R0Ndu9fUZQiBPdjGGEEP5gwM0r__jBZNDktYYGeyxCdvEixZbzJV-fKS9xkT_IY428WFUFKUQULLlyw7U154HzI-fOx2-PU3YiJIUw3KBD818olxDqfIRJEl7jBQDwQAXcUly0kWFZ7G49ALCr7GdLYvMyQRaWsYenxD3bBswVJLZ7y9rp2YnqjOog7uzOE-n6wJyzQgSk1I9kSYVYUPle2vf-zlsIKKbopK7cvk2IU03Vl2IeRwj3fUXLlp1GO-ATv1CkYHyli6Bkgm1swsosM22nOBs4FmMDdRLiqsareqN3qQODsxwPyhMcj20CnNfRG9HyHh6zwqryKA0rYIFInj_VR1zH5PHW1iNB4X_c8E9q_dsE",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa5YPwnAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa5YPwnAE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMbWclEaMZMAKh-gltg9KWgthQ0yw3jUSGpN_g7g2EmBg9oulZymN7h0IkvGcJoH4mUJRCxMWVBG9asZihNRYiFhv2s-X-CBtFkLiZ9qIUSWTXY9bOJDyUb77c5E2q9E2qhl3t49g-q7kJkvRKZWsM7Xxyf2MjkFCpVgAA9TNgepMwt9xMjnKI-JzPCLkTwpv85B1dUFKqP1smYLvrqADo4KJVGmM5JLIsQDn39NfKxdYZ5Fi4SNf9PZxxydegPT_v-ENnGfRjU6guVRH7p_2YqZsRhr8f-HfO5nniCNybmQoeGFOQJNami8P_TwrO1quXeyYOubE2W-ccRR_BuYXgtvfyN-_cb_XdC0uxQ_1kg1Nc-QBh4JcPkW4PB-WrZUjJPe_BtVADoWR8EAkhaLCsXeLi8hJGI",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDa2Py7rwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa2Py7rwE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  },
+  {
+   "name": "places/ChIJxRYikozHBZERohVXbtoNAlQ/photos/Aa-ngMaVJhucjkGKydkL1i86b-GFqvmoNykePO3xC48Ec61gk36yVPQJ8ziEE8bZmvBgbqEqLComFVhRzCUm3ZiRDXAa4lBrq6Ao5xdZUNjf8fW7dw7eI9LoTw55lC9P7Dnv6k3vATmMaV6dvRr2nfbY_yI4i83qlRw3ifHDor2Kitz3HxIvSgLMmEv1_64sYjIrH5im2WTR2ZOm-Yv7zv2ghLCPzemonhnBKK9yDG5WVTooF4rcL00dDzx4A9PU_9XMtKJFh8PakiiTZ4Vx1RrHMN9weImcIQErl2RUCPJx4otf3-Iu5AzDTrL3AUHcrLWw209fGm7E620AnmxsZ2OTEeEtLP06FF_wfunn5rUKENBqyZAUPh7A_Kazo_8rPgG58X4zkLr0Y5oApIWq8YgrBjOZK7xdV0Q",
+   "widthPx": 1280,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "CONAGROVET",
+     "uri": "https://maps.google.com/maps/contrib/105341333436038001034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyHWdbOHoS72AbLkasN4yXevwCDSvEYIDIP5agzjzz7lubwqR_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICWoonF0QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICWoonF0QE!2e10!4m2!3m1!1s0x9105c78c922216c5:0x54020dda6e5715a2"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

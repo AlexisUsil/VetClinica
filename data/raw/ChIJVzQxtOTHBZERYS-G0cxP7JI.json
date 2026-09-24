@@ -1,0 +1,857 @@
+{
+ "id": "ChIJVzQxtOTHBZERYS-G0cxP7JI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2684596",
+ "internationalPhoneNumber": "+51 1 2684596",
+ "formattedAddress": "Adam Smith 320, Lima 15038",
+ "addressComponents": [
+  {
+   "longText": "320",
+   "shortText": "320",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Adam Smith",
+   "shortText": "Adam Smith",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb la Calera de Monterrico",
+   "shortText": "Urb la Calera de Monterrico",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1174971,
+  "longitude": -77.0034064
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=10586924565148348257&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/valevetperu?mibextid=LQQJ4d",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–14:00, 15:00–19:00",
+   "martes: 9:00–14:00, 15:00–19:00",
+   "miércoles: 9:00–14:00, 15:00–19:00",
+   "jueves: 9:00–14:00, 15:00–19:00",
+   "viernes: 9:00–14:00, 15:00–19:00",
+   "sábado: 9:00–14:00, 15:00–19:00",
+   "domingo: 10:00–13:00, 14:00–16:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 581,
+ "displayName": {
+  "text": "Vale Vet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–14:00, 15:00–19:00",
+   "martes: 9:00–14:00, 15:00–19:00",
+   "miércoles: 9:00–14:00, 15:00–19:00",
+   "jueves: 9:00–14:00, 15:00–19:00",
+   "viernes: 9:00–14:00, 15:00–19:00",
+   "sábado: 9:00–14:00, 15:00–19:00",
+   "domingo: 10:00–13:00, 14:00–16:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Adam Smith 320, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIeXYtWGFnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Lugar es impecable, los doctores son muy buenas personas,, la atención es de 10 y te resuelven todas tus dudas. Lo recomiendo al 100",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lugar es impecable, los doctores son muy buenas personas,, la atención es de 10 y te resuelven todas tus dudas. Lo recomiendo al 100",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stef",
+    "uri": "https://www.google.com/maps/contrib/100198757215744212700/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9sflCQxLO8jddvCP6ECVaF3vkmLH9b-vO4OwALRWOWTTXv7d0=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-09-03T16:44:41.057543Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIeXYtWGFnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIeXYtWGFnEAE!2m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyaU1MUVh3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "He acudido en dos ocasiones a que le hagan su chequeo preventivo a mi eriza y en ambas ocasiones los profesionales veterinarios que la han atendido han demostrado su conocimiento en erizos africanos y también su amor por las mascotas. Los precios son muy asequibles para el trato tan bueno que se lleva mi pequeña mascota Kiwi. Recomiendo ampliamente esta veterinaria si tienen erizos africanos como mascotas no solo por la calidad de evaluación sino también por los consejos e incluso la asesoría para su mejor cuidado que te brindan sus veterinarios. Recomiendo abiertamente Vale Vet y volveré a ir para futuros cheques y/o incidencias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He acudido en dos ocasiones a que le hagan su chequeo preventivo a mi eriza y en ambas ocasiones los profesionales veterinarios que la han atendido han demostrado su conocimiento en erizos africanos y también su amor por las mascotas. Los precios son muy asequibles para el trato tan bueno que se lleva mi pequeña mascota Kiwi. Recomiendo ampliamente esta veterinaria si tienen erizos africanos como mascotas no solo por la calidad de evaluación sino también por los consejos e incluso la asesoría para su mejor cuidado que te brindan sus veterinarios. Recomiendo abiertamente Vale Vet y volveré a ir para futuros cheques y/o incidencias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Renan",
+    "uri": "https://www.google.com/maps/contrib/101100139419354151813/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKWB4eWcLLWwdbdO40XEl8uHI20n_2pbojua8OKNqwgab5nK2zgg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2024-07-03T13:33:37.450184Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyaU1MUVh3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyaU1MUVh3EAE!2m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVGF6SlZOR1ZCUW1keE5HRkVVM2h5Y1ZZMGEwRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente trato personal, a mi Gallinita le realizaron una extracción de rinolito, antes la habia llevado a otra veterinaria especialista en animales exóticos y no me dieron solución...así que estoy contenta con Vale Vet",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente trato personal, a mi Gallinita le realizaron una extracción de rinolito, antes la habia llevado a otra veterinaria especialista en animales exóticos y no me dieron solución...así que estoy contenta con Vale Vet",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carmen Tacsi",
+    "uri": "https://www.google.com/maps/contrib/106905805018464936848/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIznxyvKs0wPaHyPaz4Q3d_JbJmj1hfyTsJuyasoB8H1SQ8hw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-01-21T19:58:40.082753677Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCVGF6SlZOR1ZCUW1keE5HRkVVM2h5Y1ZZMGEwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCVGF6SlZOR1ZCUW1keE5HRkVVM2h5Y1ZZMGEwRRAB!2m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWck1qTkllWE5hVG5wdmJqbDVYM2cxZGxsTlRVRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi conejito es un consentido aquí. Lo cuidan mucho y lo atienden super bien.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi conejito es un consentido aquí. Lo cuidan mucho y lo atienden super bien.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angely Meza",
+    "uri": "https://www.google.com/maps/contrib/106712920158912308291/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW761s4D8ENExgw-Bf0Q4Er9hq-RegOGaEEIYjjjfltxmpaltOIFw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-16T16:39:33.098127348Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWck1qTkllWE5hVG5wdmJqbDVYM2cxZGxsTlRVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWck1qTkllWE5hVG5wdmJqbDVYM2cxZGxsTlRVRRAB!2m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Jd09EWTJVR05tT1c1eU1VdHhZMEYwTFdobU1IYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Son muy amables y muy profesionales",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son muy amables y muy profesionales",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marisol janeth Gevara",
+    "uri": "https://www.google.com/maps/contrib/117004668514198194293/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6BOkTPdFBBB0FKTmJu8RV703G_pMTN9aTGg8NOyTJotWMWg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-12T04:32:20.866800648Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Jd09EWTJVR05tT1c1eU1VdHhZMEYwTFdobU1IYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Jd09EWTJVR05tT1c1eU1VdHhZMEYwTFdobU1IYxAB!2m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMYaf_OnbSMpxS48vcztHzljPoNMTmRFCRV-_fhC1tWhfC6iB4QEWG7wnmg8QtNFpyfR-sgp0CvuHkURFXPMRaHORS1MK8ocxsYZHWfPfeUgF-VElQm836-OBt9Nm29Zu_OnTqtEGr5o_AcZqBTzx0MmiuJY5bouSXl4ND_3-kgr5oQZicNmnPk1eveYnR0pmyvhCh9-h75dRaK9f5uaKO342Hb8kZT3kO2m5MkfhAlumgTEwIjD_tPgPKGcNIy2X-Ler128Kx3IyWb2eLnX37P2citJFRhPSDZv_jL88jwlg-KViDGMjL2I8dGv6U8c6QAsEPY8YqftC8LnDKKhLczAvcSiT546UXVZJcxtUpeVSAdnkEwJt0In4r8-wi5dmY3yNS7zuxS-yipUa8Xr6pq021U",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Andrés Antonio",
+     "uri": "https://maps.google.com/maps/contrib/113449949054992244047",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFv2CWGoT-P3rBbC52NyKPVKGIu_Bp_PTFbkT2P52h1lYVi2TJ6g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDeh7OjJQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDeh7OjJQ!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMZ8qoPNx4hprpVm-7kl_v-o9YWp64_9zDq0gewVbL-q3FNM8OpyfTNbKBcNRpvPc66B51ASI8cXMcTgWugtAqXiW7A0Rp-NkN_bJcKa3uUrPdfKZNp1Eh4axtZ1k3U4Le342EG4a32fsPyDN-FYiPjsLdVUCrmO7GcZLNeyYarJpEZi0YwheIfVDunvzsFNOB2jNJdUcRU0vusfYa0xJvPUYV8AChLgIb1aNGs-oyrwQJhzNWCDjuaKD2e_AOxeF4iScvR2IXK4_5ppD9j9k78Jnm-2-Jh0qkE7FMGkFzk-d0XrZVdgKXlt4d91aCAfR4wnlwTlpL0-Y3rsnen-YmXUbUXye_N1k1rsN-l8cFcxm0OA9iZpj3SBpzJ5oaE7SG4oz5_L01fRhLI1hDlE1n85Ygg",
+   "widthPx": 4128,
+   "heightPx": 3096,
+   "authorAttributions": [
+    {
+     "displayName": "Sara Vidal",
+     "uri": "https://maps.google.com/maps/contrib/115102877816593292598",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpFjJxMHqA-qrNQYB9YnLSqvnEeWjgoeeJVDd_WHwvfpt8rcI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8m5z9VQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8m5z9VQ!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMYuHx97cU4R9OB-nrj5-ajY6BdzEIIeCexX1uoTiFP4R0rseZYLHoDq_2WtSQpemk0bP8nieikZhrKxoJPu0Rt8YVY11q07M2ePnCtjan1rjxafneVg3XXhfg1Mu_sr1HRhM_Y5NcfEtBUuRZs3CHhVxOnQuWFAZ_6BBMZrqZcR0Tl1y_6J43J7Mky7du-hAhbwyucDijuW7_1m9ygaG-Sw4Ro6KFyjtA_h-6NmsZERac5vCLrxYGm8foWpBDeARb5dILxviZTetbr418Z522u2HkndJrFnTHtSWvjP3__BLA509vda2h_RyTax6Ofh4dnvoYCDWDyk4NyO3PN75uj7KNd5WVlRsv1CexVU42NgicOXaeL8qrjbw7r9VfdAw122DHEpXJ3_KMgbMNEre25WgaNu",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Brenda Jasmireth Valdiglesias",
+     "uri": "https://maps.google.com/maps/contrib/110640176547218587559",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTI2w-T1ixovilEkJnP5cxVI0n3JScPLlmJU2lFJ0u06LZknhCig=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKxsLxyQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKxsLxyQE!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMZPW5lmah7uyTkcqtzZIiV5me3T11NICX6xCTzHMHBGMPMqXD2bn1O2-j0nx6BKU-pTNq2igbVbktoinTqbCq2k11xAwr4bVfMTqF2rB9rl_Wkeay0bWeUQbtuQLV98Q4l5NK57OuOH5_oeyzCt3KcI5Weld36iKQmDrP1NJMF-9ZwZhw0deHIcNk_HKRyB2aKN_P65bc8uDHrDOj_6qx9sX3wBnX3HRtzR5Z9JUMW2IvkVWWMqcM1vbUuNOkSlxiYRlSb_vq4a3gH6ER1z9uszi1N3jg3ykEoPG_LjEKbSgUMBFfxsMZl03a3HNHzouu9bTNijsRLizO8RL3OGDpFFzpa0NZcygdOfa_bXes8cru4s8u6WCabiPUF-_z72JFcLhJRHPiQOXp6OaqP8lZSwhNY",
+   "widthPx": 2340,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Garay",
+     "uri": "https://maps.google.com/maps/contrib/116694800761428162027",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJymRuPuwlAbT8CTY03cuxUdon1lSksIxClBKHXSE-rSmhy=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcxoCdMA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcxoCdMA!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMaQ5yXd-XknF3aCBJ3x7kZBPTbC1ea8MWxFoP8yKqDXkoRn9JDE5yP3qlFbtw_OA7-vCgqA_S1RPBlyHDVfc7IABcVwy1j2rJ0i1AYjFZzO_BHRfyqCcR_8l1zd2VJksPjQ0oQ3CgzkPrOvQEDwBqbLhJmKMd-5WBbue-uSaMgzlgX92KUHlwLIozyoDmxtFKG-kbgopoIX1dZ3Sj--ej9r12CGJeH6Nh_oVlpbZmuCQL1d7RfPWmD8qkm-Ealq8s0lJEDhs3B3hZHs9GlFcS6xpfLgF1MOaYK84zV9SID9kmuTu0oFZfdwhPMaCrQvfH4G2ESWW5NDCoy0Z2m_0lnifoZdhspajq_U6yLNcYEwtAll4vOVpml-FhyIkyy5dIKQruWnjMrAfS1OSisFvBViyWw",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Josué Munives",
+     "uri": "https://maps.google.com/maps/contrib/100260137515421522852",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXrSWD2uLYhPAYPLKg4Cm-eLJH9K1arjt89pYy2BKiFImd5w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4naOtUQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4naOtUQ!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMacuvpVzCW4UoJ-JxrjLYOhExmtF75pHHs9iTuwA8AStdrAjzGUTcxJdHH5E0J6UoIBq-ckGFFOA6gsjN1QdIWVjS3ZiqqkJixFb79rbRTb_c5fVK3m8QvtPjhuX6O-tEOWcwqNWCwObH6QnoLPtaVPORPVSR_TO4sEAVs6krU5ksLy7e0t8tZqSui9SaY3dO0WV8bakjUvWf7G4plfoJt-zQhr_yybMRr7HcmmQgJRbTuLGmTfrUDVi48de8YPvR3yNFKf6E2T-USQCuXAwmclpBzTNZQ17G1UnLFFj2PwKtUGgMtrJWuVGY90PsGbivVBcZIzsncXhenzsw7C4_dsHYE6W5mo5RdGWrtUzreAa46hfDp2XvyKVK_eJH6e2DSqqf2Sy2NJIgM-at4s189TTw",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ninfa gutierrez boza",
+     "uri": "https://maps.google.com/maps/contrib/106103694343352052977",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVISWwD-HyF_ovt3RLLLY54iRniKMYgL4I9x5k7h3WALmAPBYjG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcoo6WSw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcoo6WSw!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMap9mN48eHfufuwltrsoegTa-DscP719XRnzx8mA6MSFCeTrO6v57OtogKW26s_hcRgctiqJsxUcx14u_deArXuUTldE2dX9d7wV0gypz6wRur_4xRamwxrhBmvzfIozZjghpntE_-_egW9lHpet43vrsgOQFtl2OkjQ0iWi8rSZZMR9WTqphjvWqJpIzE2Rl0aYgUUFu5AdwXyaqIhrOnIJ9ghAB_0SHUV8U8Is5iJx9FuNVcGFugduXr8yEqDhnQA_jL_CoCgnPnxhDXZ7UwKyqv9-NeHiiNjU4gomBkdtSi77wWonog7Z5NyJ6ZXaHp0iEhEfsDxkCkGxW2zd1r8CzL4QQthhlIplS0QC_pvRyr0IBEt9pKy_UoLniUjQFaDAX1cTR5AgEYJwfpVyQfmBQE",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Laura alex Tesillo Blas",
+     "uri": "https://maps.google.com/maps/contrib/110218466173161887784",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvkN5z4SQKbncXav5h-3HCqNWQ790RvCeZrOBejWHn7mhYULtVZw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICK57bdfQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK57bdfQ!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMbSRdY2lM1H8Q36WKUbu2h8R6P3LP74tILZalfos6bDCw-8j2q3m9_DZQECdA9uhffffDs_HBJpRhqRCgDgXuhFr4NRIRRhRyfiEXio3oLLFyA_p_vKcsnpcocu3ioRE32jbhWKhjAnJxAKMUOHxXpRznh1BO-UKdl90pxdExtfRlVJ6KH4CTWxtlOwROyZZM22QIycuaUUbVKk6lHYIYrBma4l436yW6w2nwIGm_rDkxTkOabU9wnDtoLAHbbZETmn1R9XW_PJUYICsKzuJQpDvUwuz4dqQHvcoh8UIxD8pqUBpSN4z6odPDNwOG5WePoIikRE0UgVVzwzxADd07TuGME8J95RIoOE3OTTW1wXwkE_5CgYZ75sfBSN2cZrq8EsKGWUFx90WnXvpAXyJ2-w6E5f8aU",
+   "widthPx": 2592,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "QUASSER SOLUTION S.A.C.",
+     "uri": "https://maps.google.com/maps/contrib/103597460756776316723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPm0o0f5K77rN9xHTJSrCPuvftNSvPRjK6ASs0dBsPcXVNdTw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmvtPyxgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmvtPyxgE!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMaFkz3T5rOqN0uhaJvtPQ81ndupRKOdetsiIjGFHGefdWnSwRTwraafDkxByN-yWiD3shcvsHvXBhEif2oVZJw6JVf4LYlFU7Lu0XyOa2StmGh30dw9BF-TRnc6zOhM5PId4FASSYqlkP-dqxftZuc5S--UuiApTAAWK9O3OhTXpYN1LYEMNOWjBCqPzSRIib8FUWQE2TSp51xPhJl8pcXnwPWR09_u_1wsiv5U-56RRa2IWoooQ9OYn8Iy4nOXud7qAST4Rsgc-vu6q7CuvtcA8xEx2gigP4QxWxcDWJ9cZluSW5YP3RDADHoaZBxMZ67R4vWPGvUbVqEex3K6g0ZVdcwa1FXbOD_72DFbYazKNJ324T-oZ8VKXfcbvu6TPWD2r1vFA2-e_1xswvbOP13DbiU",
+   "widthPx": 4608,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "QUASSER SOLUTION S.A.C.",
+     "uri": "https://maps.google.com/maps/contrib/103597460756776316723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPm0o0f5K77rN9xHTJSrCPuvftNSvPRjK6ASs0dBsPcXVNdTw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmvtPyVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmvtPyVg!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  },
+  {
+   "name": "places/ChIJVzQxtOTHBZERYS-G0cxP7JI/photos/Aa-ngMa8z4sYWSTh9KOHzGhHVHc6C9M5t2ilJ4wlxTSz6NtiDFtf62XAnFEAHWCDtrfGDJARBxiIVpszpVK_7s29LRZZspjqUEQiaJyynweibdW1i-a5AsKyAxrh4x9Rnjq-bpT0w7VVVG6XWmTpUlciv-JUmBLPQ3hHglwryZcKTCf7I-bHtyUdxpBjyuqZGJOtvqnY14VsKiCgA877v52koXvWh_o8frRbE2c1tJK0Huk27i4tC_0UIWxRnkEMhV5mX6hiNACyDME8MxO_GfM7yodK6X5QDT5JZZWANJx23EpUhn0DSNFz7Jtlinvwds5CExNuzcgTPtaRERfwV-NkeGJjq--0Tuj2B58Xgs29Hj9LEkP8FFGgqoXecuTIT6298Qs47FzYCQlP44cyhJ01SULuqtJaxGU",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Stef",
+     "uri": "https://maps.google.com/maps/contrib/100198757215744212700",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9sflCQxLO8jddvCP6ECVaF3vkmLH9b-vO4OwALRWOWTTXv7d0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHyv-XmgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHyv-XmgE!2e10!4m2!3m1!1s0x9105c7e4b4313457:0x92ec4fccd1862f61"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

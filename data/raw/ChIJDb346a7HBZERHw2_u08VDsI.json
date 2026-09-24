@@ -1,0 +1,586 @@
+{
+ "id": "ChIJDb346a7HBZERHw2_u08VDsI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "992 362 375",
+ "internationalPhoneNumber": "+51 992 362 375",
+ "formattedAddress": "Av. José Gálvez Barrenechea 819, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "819",
+   "shortText": "819",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida José Gálvez Barrenechea",
+   "shortText": "Av. José Gálvez Barrenechea",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Corpac",
+   "shortText": "Urb Corpac",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.102183,
+  "longitude": -77.0113727
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=13983137325228428575&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://cuore.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–14:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1059,
+ "displayName": {
+  "text": "Cuore - Cardiologos veterinarios especialistas en Lima, Perú.",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–14:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. José Gálvez Barrenechea 819, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWclJXZE1VM296WkdoeFRGWXlkRTB0YVhWMFZWRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Quiero expresar mi sincero agradecimiento al Dr. Juan Ascencio por la atención que recibió mi pequeño Nato. 🐾❤️\n\nNato es un perrito geriátrico, de aproximadamente 15 años, y para mí es parte de mi familia y uno de los seres que más amo. Por eso, cuando necesitamos acudir a un especialista, encontrar a un médico que además de conocimiento tenga paciencia, empatía y sensibilidad significa muchísimo.\n\nDesde el primer momento, el Dr. Juan Ascencio nos brindó una atención muy profesional y humana. Se tomó el tiempo de evaluar a Nato, explicarme sus hallazgos y resolver mis dudas con claridad y paciencia, transmitiéndome mucha tranquilidad durante la consulta.\n\nAdemás, tuvo un gesto de apoyo y consideración con nosotros que agradezco profundamente y que demuestra que detrás del excelente profesional también existe una gran calidad humana.\n\nMe fui mucho más tranquila y, sobre todo, agradecida de saber que mi viejito fue atendido con el cuidado y respeto que merece.\n\nGracias, Dr. Juan Ascencio, por su profesionalismo, empatía y calidad humana, y por tratar a Nato con tanto cuidado. 🐶❤️ Profesionales que ejercen su vocación de esta manera hacen una enorme diferencia para quienes amamos profundamente a nuestros animales.\n\nLo recomiendo totalmente. ⭐️⭐️⭐️⭐️⭐️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quiero expresar mi sincero agradecimiento al Dr. Juan Ascencio por la atención que recibió mi pequeño Nato. 🐾❤️\n\nNato es un perrito geriátrico, de aproximadamente 15 años, y para mí es parte de mi familia y uno de los seres que más amo. Por eso, cuando necesitamos acudir a un especialista, encontrar a un médico que además de conocimiento tenga paciencia, empatía y sensibilidad significa muchísimo.\n\nDesde el primer momento, el Dr. Juan Ascencio nos brindó una atención muy profesional y humana. Se tomó el tiempo de evaluar a Nato, explicarme sus hallazgos y resolver mis dudas con claridad y paciencia, transmitiéndome mucha tranquilidad durante la consulta.\n\nAdemás, tuvo un gesto de apoyo y consideración con nosotros que agradezco profundamente y que demuestra que detrás del excelente profesional también existe una gran calidad humana.\n\nMe fui mucho más tranquila y, sobre todo, agradecida de saber que mi viejito fue atendido con el cuidado y respeto que merece.\n\nGracias, Dr. Juan Ascencio, por su profesionalismo, empatía y calidad humana, y por tratar a Nato con tanto cuidado. 🐶❤️ Profesionales que ejercen su vocación de esta manera hacen una enorme diferencia para quienes amamos profundamente a nuestros animales.\n\nLo recomiendo totalmente. ⭐️⭐️⭐️⭐️⭐️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Salomé Núñez",
+    "uri": "https://www.google.com/maps/contrib/100696266010430463705/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV4Zn8QkML0qy9MW-yMKn-flgZZ-VXZxW-aP0SbkZT95vnW2o=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-17T07:37:34.850380351Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWclJXZE1VM296WkdoeFRGWXlkRTB0YVhWMFZWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWclJXZE1VM296WkdoeFRGWXlkRTB0YVhWMFZWRRAB!2m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdmFtMU1ObGgwVDNvMk9IWjRSVjk0UWpkRmRIYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Recomiendo Cuore y al doctor Juan Diego Ascencios con mucha seriedad, es un gran profesional. Enserio ayudaron a mi perrita Negra Gala con mucho amor y diagnóstico acertado. Yo tengo 4 perros y un bebé en camino y tener la certeza que el veterinario va a ser super amable y sobretodo dar un diagnóstico confiable es demasiado importante para saber que se invierte bien en la salud de los perritos. Además, tienen un convenio con Wuf dónde si es que donas 15 kilos de comida te dan una cita cardiológica gratis.  Tienen tres sedes, a mí me atendieron en la de San Borja y cabe señalar que el doctor Fernando Ames estuvo apoyando y fue también increíble su servicio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Recomiendo Cuore y al doctor Juan Diego Ascencios con mucha seriedad, es un gran profesional. Enserio ayudaron a mi perrita Negra Gala con mucho amor y diagnóstico acertado. Yo tengo 4 perros y un bebé en camino y tener la certeza que el veterinario va a ser super amable y sobretodo dar un diagnóstico confiable es demasiado importante para saber que se invierte bien en la salud de los perritos. Además, tienen un convenio con Wuf dónde si es que donas 15 kilos de comida te dan una cita cardiológica gratis.  Tienen tres sedes, a mí me atendieron en la de San Borja y cabe señalar que el doctor Fernando Ames estuvo apoyando y fue también increíble su servicio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Laura Morales",
+    "uri": "https://www.google.com/maps/contrib/115516676135232272723/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVekCX90wk1pqJDfoh-lbfNJiU0ISoWFPO5a1fT-jyYPv4FGcDklg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-08-04T20:52:55.239890639Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdmFtMU1ObGgwVDNvMk9IWjRSVjk0UWpkRmRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdmFtMU1ObGgwVDNvMk9IWjRSVjk0UWpkRmRIYxAB!2m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWSU4yeFZMVUpHWjJ0QlNqWnVYMHBRTlhsYVJGRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi perrito para una evaluación cardiológica y la atención fue excelente. El personal fue muy amable, paciente y profesional. Me explicaron con claridad el estado de su corazón y respondieron todas mis dudas, lo que me dio mucha tranquilidad. Se nota el compromiso y el cariño con el que tratan a las mascotas. Sin duda, recomiendo este lugar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi perrito para una evaluación cardiológica y la atención fue excelente. El personal fue muy amable, paciente y profesional. Me explicaron con claridad el estado de su corazón y respondieron todas mis dudas, lo que me dio mucha tranquilidad. Se nota el compromiso y el cariño con el que tratan a las mascotas. Sin duda, recomiendo este lugar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alejandra Micaela Pachas Flórez",
+    "uri": "https://www.google.com/maps/contrib/117436464484680585765/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDo0GscLlaDYWPwKQ8K0eGVktoY79P2xe1rOnoDZqbyhLCMfw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-02T22:27:11.515608116Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWSU4yeFZMVUpHWjJ0QlNqWnVYMHBRTlhsYVJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSU4yeFZMVUpHWjJ0QlNqWnVYMHBRTlhsYVJGRRAB!2m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNM1VYUlpXbUk1V210ek4ySnlUVTV2YVhSTE1sRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención por parte del Dr. Juan Diego y su equipo. Se toma el tiempo necesario para hacerte comprender el diagnóstico de una manera muy didáctica y personalizada.\nEn general, se nota el profesionalismo y amabilidad de todos los doctores. Super recomendado! 😊",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención por parte del Dr. Juan Diego y su equipo. Se toma el tiempo necesario para hacerte comprender el diagnóstico de una manera muy didáctica y personalizada.\nEn general, se nota el profesionalismo y amabilidad de todos los doctores. Super recomendado! 😊",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diana",
+    "uri": "https://www.google.com/maps/contrib/114338749753899781467/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrQ2GtN4obfYBKV__U3TTYgErvVNlZ2Q3-Glle3wbejpnI9PGl=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-25T20:56:19.123117586Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNM1VYUlpXbUk1V210ek4ySnlUVTV2YVhSTE1sRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNM1VYUlpXbUk1V210ek4ySnlUVTV2YVhSTE1sRRAB!2m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCZmJEbEljVFJrTjFGWFlUWm1WMnhMTkc5dlJFRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención en el área de cardiología. Desde el primer momento, el trato fue muy profesional y empático. Se tomaron el tiempo de explicar cada procedimiento y resolver todas mis dudas con paciencia. Además, la evaluación fue muy completa.\n\nDefinitivamente recomiendo el servicio de cardiología por su calidad humana, profesionalismo y dedicación.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención en el área de cardiología. Desde el primer momento, el trato fue muy profesional y empático. Se tomaron el tiempo de explicar cada procedimiento y resolver todas mis dudas con paciencia. Además, la evaluación fue muy completa.\n\nDefinitivamente recomiendo el servicio de cardiología por su calidad humana, profesionalismo y dedicación.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorela León Córdova",
+    "uri": "https://www.google.com/maps/contrib/116433283484505772668/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpGLmFbDED5Ed5_AaNhkgM3cGByC8nhnLW7sJH2s8p7wB_b3Gd-w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-04T21:22:39.871614791Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCZmJEbEljVFJrTjFGWFlUWm1WMnhMTkc5dlJFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCZmJEbEljVFJrTjFGWFlUWm1WMnhMTkc5dlJFRRAB!2m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMZPE1lmqH8oMSoFTKMSDmSnhAYy8mPlC52W4N2ybKlxBW9lPASBBxQFPLMjOLGg5nIC9LuBlO-2LdDPqY1uFxivqzNx_Dd2YbyyLzsAZ91GZaEWzy7WeGANuaWxq1fdwk3FmDJ6YXbFhaLVCFEvuT7qnZ0vU5IlyTnc2KJ-1WVeHKkjORiISAQWNkWLVUeukLpChG9-J2VtwRI-ysYhiabKGMm3yQ3_chOSB20hpvacC_2M3LHMAX9DT-zDjFSeyxvTUWXaGQgz8uuwriJZBk01WLsLJxrxDZFHynY7-1DEArp7xharIADosCd6blvTvYk5jZAO-L6IefoIfcA1h-vrt_D27KKBwOyOPTxCTT-3nVjm1OSbuIqE3guV6aBYJr3Vdynm5xYodOOWBnxA0T729tgieJk",
+   "widthPx": 2852,
+   "heightPx": 1605,
+   "authorAttributions": [
+    {
+     "displayName": "Cuore - Cardiologos veterinarios especialistas en Lima, Perú.",
+     "uri": "https://maps.google.com/maps/contrib/106977183430670465883",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJevfiaPzFEeHqWffdmNxVnY5Jd8PAGO9h7Sr2Mc3LfW-g540=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC61PyfzAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC61PyfzAE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMbiwIrLR986qRUmQQtdWC8mxxhtPgjiEb--OL6Wx1h3qh8Xtlj1Dr4ab3zwIWcwk6OAHvpURoPFV0Yhm0lUYzLlBvgcEiMHZd7tcjJUXYXKpNS3-yNsHRB5nYM98nxEMaNEec05o3Vp3u3FIqzhAepd52SwkIS4g82wpiT-oxjfz-OcUNpmDWrlkfwTwjcOH7wC3zLSgFel-ApKOkqnDscrToB6zZ5PAJWnR6xrT0OhPKclnzYNK7PtYRknMZbOnanZS0kK0Owu5dw7V5V-d7cIB3o-pF6r-nw129X--7S7OtWGJGMgJwo4llnyudchZBBxkleOxRLb7osw8CT2xZKA3knNtF5p-5-Ln6UY9w6wWFAvcTLLWmpk3w1fdfPaWF7t9wev4VX5_w3MHJnco0mXxg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Tania Castaneda",
+     "uri": "https://maps.google.com/maps/contrib/109271895903873743694",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA6ZooBBk6Ew-H05w6Bqef_bN087XtnqPQKNyhZBUwfVPgJA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDJl-CfIg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDJl-CfIg!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMbJbooGUiyfy95Lu1uos7azkYzerJWMDpTqRGI2fuTDmx_q9nRIeT3NrmmTAU9I9bV54-_wpMQMxN-BYZAqxROlUR781dxdhcuYfHgit8n9l4kL5SfidbuW0zfagXJIVHADDDgoolyED5PvKddrXj0fbO3pU6mzxU8Y6zq_wyTawH9WHYx3knQmBmSFzNBCMmj6mbW829oV9J3fe8RINFysVn6VvnMLefyrqADnKu3e9kFMNnAILR6JcMWTIABgNsQ4jNjG666-oNLXm99zJmvk_uofd9pY_FGXQ5RfRd1V0B_htXd6t8k6VQHQnMnRjsoz6dRlUBI_fQ-S6Uqv51HZdD-J75ZRPTvxiRU6oYuTswHmTXUsvRulbWiB1nqt5JZAzw9zPyD5u5DQfNdOAVyvRK8RjfY",
+   "widthPx": 2316,
+   "heightPx": 3088,
+   "authorAttributions": [
+    {
+     "displayName": "Manuela Puicon Benvenuto",
+     "uri": "https://maps.google.com/maps/contrib/108113970237832751310",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnG9TY4Rc3WSdflDrGOlSS1FfikVSZxDMUPjSCEPt7gmvaEHllkw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICj7cmu1QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj7cmu1QE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMbdCQ692DDvJsg0HHtxib_sBSICh_oxBRkIRaAUaULqV5dOVTTpgn2cnvVuZwvpMwOkbFstIzWvvGCMNj1ulUEttYjuoEelkTQFxLdfQ2fqswZZdFzow0jroEef8WM86mxehEqko2opo7Ge1OpTC84Tpbw_G-Ri6QNNRdsjzEvQJaClkqz3WndD2celZBkc_vOeEAtkSazEDBpfdajnM99MFe3oiEH1zZsd_lnY6fDBIyoB6iMWIafI24FOjozhojXJa-hzJ34aEJAT9JbyMV-URjp_Nw-YXWjnxGFszY4fAu3gGzinsneTbSXiQecEiMamd8g15K5XJ5UzeS8i2aoL9XYJ6Fit0NvHrBpXYu_aC0uXvbTvd5ZEAFliGa6Ba_61t4sr7Xrm7jLQoFbPFrk5zjUtjgPnY1oOvLRvK2OQWw",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Catalina del Milagro Remón Gayoso",
+     "uri": "https://maps.google.com/maps/contrib/107733219202673116046",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfCrN9ZarIgOrlvlYYixef-miVckyX6xMZpzR5_Tugc80kBV5RWQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB8WDqcTHayfeWFSAWJO-nM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB8WDqcTHayfeWFSAWJO-nM!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMb0Lm1DEVDUK7hI-SBeh4bJw__ecdt14bAhKUZmfvT2n3ccnTTc-lih0zRATUoFa59JQIxjde-ilwkmOi2h4wwNhbrCVVHMnsqZcqL85I2dmMgkaj3koEX0Z7z64ncGSdCp_h6ytJWm66M3OTamsdsi6BKl3iA_ZHtIdclkMNCZFw15NcsTGNqR4iWzDV4hbDZRkrBSWbZFxXVua7AR7OWPRc_WdnsvPh4BlV2ttR06XWrR3jeKN_2yg2kDlmXDgPTY3m7lkoakkEiGBmuOlJDzk8EFjkSNgGxsDmoELY3cvhKzOa8Aq2iQXGzvGWxnmo_lyyErjwlL92IbATqh9D0qfPU3aVVsWW39YTAj3dszjhGUmrnUCvx-KFlLrPDvsxUEfNTFAEGAmfGzJKdhV7CeMTSVvtGpVnSlFPVqLZtp",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Kharla López",
+     "uri": "https://maps.google.com/maps/contrib/101369530094099204215",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXq4D7ys4Q07R9ruB7lZx_apf88r8vh00mjhAunZW1nzHK5Brdr0Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAoc0aWdANUHwWV2bCVNqrK&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAoc0aWdANUHwWV2bCVNqrK!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMZk_uu-qB1mv1LBPATi0SHILZkY7RD-Ld-JFSU-zkYDUEDK4MnNlBDYFkyU3jExu-xNiOoJn9sFuqJKme5WJFDz4ADAW0h01aZhNZ-CeBNLgmghp4T6tjCdUsVSJxqzj0rSA-Zw4AW9t6vTh50DZ2fnineU5JuAZAPo3RFod5BsnsAFlw7Ha9E5FD6vhdmTClaJ7w0_a5FgxPgBioz3lEfrJs9nrcZnHEj6ulteUQl-seaOyYxYvB3azk7t7098tUN8K1GNtD9BOCTcybE92o_tgPQOQyL5JfviwzennlXvlc9qMpzkiuhMRFaZW16o_G4rt1UvZyo4MP_Y0ygDUPq0s_413bOvj9w-i40KwlwqMFVFLDxL8ozflHVUgZY72CnnB_qF5Vhj7JPdzTCCqZa4Dg",
+   "widthPx": 1440,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "LORENA PATRICIA BULLÓN CAPCHA",
+     "uri": "https://maps.google.com/maps/contrib/113939159009149528424",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhAenx8JCS3lBFtSpWSCm4p9iaTNKzriZAhP574Xp4oZLHIsX2=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHqK-bDw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHqK-bDw!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMYiMgLJeBmeBsrZxBmp3LM1sW2PKBK_Vc8Ef8htCleSn1lKgx0Jvjb_qFL-VKvhHy6-KoZeiEDAHRiXKlMEvPHR_7JnwukhUos_CKx2Tp0rbfZFBPzxgFI_n9A3Zh9Xj5akoUVVigJghfsWOor43EruZXF5bsoLLwBIN0yHQ4naKQCye8fVp00evFFadFUgChJVsHHvpZTJKwtTucZr4GTbLMnv_gmDZvOac6pWF4PWPvSbFlJnUoq1iwxfJAZBYh5XKB6t6am-mAivydUd3NEy1ytz-nmhgW3pRKXfVpi-IV-5o8fRfFTldV_k3khAAhE2EK648tLeF0C-pi9Avj2ZFtOapFx6yqifYCj4XviUyCCDZKXjDEw2u7PFUSF_B5kl2J7T3b3dH6ukslaglin7xq6S",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Leslie Pineda",
+     "uri": "https://maps.google.com/maps/contrib/111283973263740314619",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0kLcOG2Qm3dubZyyaWb4xrjYMp8NYgTyJQ1Nzxd8jHrtoD90-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXxquqmAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXxquqmAE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMaDlSYe6qcBaib7YdxVP2R60Ka1PGhym2mKolUYZp-7jaT-7_KbAYS-9iGnHkBFoIKhnm29rvm7NJwsZArDhXmZIYM8XT6Tmeetsj1FLMOkTNq5kJ2sNBVZJQGt8TnQmRGC90r7SIwLdC2O7bk3OSkLdbAgWcALxWV_ri8k1-dkxqhA_y74zWCsG4mJPTBZWrQkltTgvdYY3fn_ngMjF_-KWRt8sZadi88XrJhnja4OAeKryjoJo3wg_o2-ixxeChh_aEzE8Lfj2WUbQW5MF6m2rWNT5BCQ4zFWCnDKtpqMJAtOPG2xBC5p2YMWmawson83QL5s46jeN2lf5lkW3MsRBZYwjjLkEr38dAUOZ_EuqcuxhL8Aa1vPxGhbc0RA6itbXI5KWd_YwWUaA-4NjC6ZJuml-q8",
+   "widthPx": 1034,
+   "heightPx": 707,
+   "authorAttributions": [
+    {
+     "displayName": "Carolina Perez",
+     "uri": "https://maps.google.com/maps/contrib/109318528652211777743",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2eqFiO-ZPgEh7-ZM1P7DVTufEXGj-iLKVtf1SEgOpZU1U5zk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk9rit-gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk9rit-gE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMZm-zFU_ztgIwETGkxRfXKk3QcggqzRfY_6Lcf2t6oIFwNGOWbHGfOpXwK_aRmocDmfZnwBfjZ8_2Go8fniEzmmWgaank5FploB24EGMZ7A56NodeiELt7qjdNgR0NIXsF-l9QMk9HgQIW7eXeYzmQvQUNwPGoC2y7aO6CIHrDTnD2RoKhweMnFK_fusx_Gve4hYMynEfDlyoE2sbM2BesUq9peK4Xg3q9PTYVrw42AkJCbQt3Dp_OnFzF4vV8cCjj8LOpxDykdah4IvB_Mzu6Og9Rds1okUA9W0_LWG6AFQfZ5cFl3Ef3N7x1itu1Vmj1QUuMLq-cqqSik70r7mju_8HONFJY3o7GPHVgH2lep8rqjQ_GWETNTJsqME8DBfs_lUKL2vksDS5Iog0M-2zUJq65h",
+   "widthPx": 2316,
+   "heightPx": 3088,
+   "authorAttributions": [
+    {
+     "displayName": "veronica oblitas",
+     "uri": "https://maps.google.com/maps/contrib/100278428480063684694",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgnYX_gaURWHie1ylnOS-5f8Rfh6jgE_dNLzq4dVnXtoNRtjc1Bg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfmaby7gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfmaby7gE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  },
+  {
+   "name": "places/ChIJDb346a7HBZERHw2_u08VDsI/photos/Aa-ngMZ7UUmFR8xCHf-GGB7MJqufe2qk6nTgmvrhYjSXYo_I54TG-SJISVFnLrlidWP1vozwUCBe5yb0ikxKZMhux_EvPNKCHCZEd292BEqb5IcigSMCIQMyio0hUqjdl6Dy8vZ3o7aFdzDDYRrZrcwRhHWR25lVmVs9WLn4yGMKrmvNBZEvmP6BRvN1fna1YV30_8fh3aJyc3ChEhf_Bbs5dtztTYsrvbhEubSbj62G2aSjJtEaIg3Ocp2M2pDXtGkamsAyMQcTu0svSH2it-EcfXExVL9rFzFWPXa214UY8lp5HUK2FBOj5Xy_v8qejxcXza13CGKrT87p2g89egku8_aBE1-mKd53Nv5HPWwCsz_aH9h1qMvc6w6YlZRkHpNupFPmUROIzVOVBfzTTjUN20fALTsC",
+   "widthPx": 2700,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Rojas",
+     "uri": "https://maps.google.com/maps/contrib/115600888463182543720",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9STuo2j6annkdzomNRXIoPbJPFIM43djSVI5OQtpsUSauQg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEKaekuDI5-aNogE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEKaekuDI5-aNogE!2e10!4m2!3m1!1s0x9105c7aee9f8bd0d:0xc20e154fbbbf0d1f"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

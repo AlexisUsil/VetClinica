@@ -1,0 +1,619 @@
+{
+ "id": "ChIJYVTHn93HBZERMqZUO-4UMac",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4761880",
+ "internationalPhoneNumber": "+51 1 4761880",
+ "formattedAddress": "Jirón Andreas Vesalio 481, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "481",
+   "shortText": "481",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Andreas Vesalio",
+   "shortText": "Jirón Andreas Vesalio",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb las Magnolias",
+   "shortText": "Urb las Magnolias",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.105104599999999,
+  "longitude": -77.001716
+ },
+ "rating": 3.2,
+ "googleMapsUri": "https://maps.google.com/?cid=12047433491622962738&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:30",
+   "martes: 8:00–20:30",
+   "miércoles: 8:00–20:30",
+   "jueves: 8:00–20:30",
+   "viernes: 8:00–20:30",
+   "sábado: 8:00–20:30",
+   "domingo: 8:00–20:30"
+  ],
+  "nextCloseTime": "2026-09-24T01:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 107,
+ "displayName": {
+  "text": "VON DER MEMBLIN",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:30",
+   "martes: 8:00–20:30",
+   "miércoles: 8:00–20:30",
+   "jueves: 8:00–20:30",
+   "viernes: 8:00–20:30",
+   "sábado: 8:00–20:30",
+   "domingo: 8:00–20:30"
+  ],
+  "nextCloseTime": "2026-09-24T01:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Andreas Vesalio 481, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jeE1HNUtOVk15T0Rod1pFdDRiR1k0TTFCd2NXYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hace años que llevo a mi perro a esta veterinaria. Hoy fui a dejarlo para su baño y la experiencia fue realmente desagradable.\n\nEl encargado de la tienda fue la persona más malcriada y déspota que he conocido. Al preguntarle a qué hora aproximadamente podría recoger a mi perro, me respondió de mala manera: “No sé a qué hora, te estoy diciendo”. Le pedí por favor un aproximado y, visiblemente amargado, volvió a responder: “No lo sé, te estoy diciendo, yo tengo que almorzar y después veré a qué hora lo baño”.\n\nAcepté la respuesta y vi cómo colocaba a mi perro en una jaula pequeña, donde permanecería varias horas hasta que él decidiera bañarlo, lo cual considero un abuso. Antes de irme, le pedí amablemente que no se olvidaran de lavarle los dientes, ya que ellos tenían su cepillo y pasta. Su respuesta fue: “Eso es costo aparte”. Sorprendida, le pregunté si entonces durante todo este tiempo nunca le habían lavado los dientes, y él, riéndose y haciendo gestos burlones, respondió: “No pues, muchas cosas han cambiado”.\n\nLe indiqué que deberían avisar previamente sobre esos costos adicionales, a lo que me contestó: “Te estoy avisando ahorita pues”. El trato fue una falta de respeto total. Y si así tratan a las personas, no quiero imaginar cómo han tratado a mi perro durante todo este tiempo.\n\nPor ello, exigí que me enviaran de inmediato a mi casa el cepillo de dientes, la pasta dental y la correa de mi perro que tenían en el local. No me respondieron y, posteriormente, me bloquearon, lo cual considero aún más grave.\n\nAdemás, llevé a mi perro a otra veterinaria, donde me indicaron que necesitaba una profilaxis dental de emergencia, ya que no se le habían estado lavando los dientes desde hace un buen tiempo, lo que confirma que nunca se los lavaron, a pesar de que yo confiaba en que ese servicio se realizaba. NO LLEVEN A SUS MASCOTAS NUNCA AHÍ.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace años que llevo a mi perro a esta veterinaria. Hoy fui a dejarlo para su baño y la experiencia fue realmente desagradable.\n\nEl encargado de la tienda fue la persona más malcriada y déspota que he conocido. Al preguntarle a qué hora aproximadamente podría recoger a mi perro, me respondió de mala manera: “No sé a qué hora, te estoy diciendo”. Le pedí por favor un aproximado y, visiblemente amargado, volvió a responder: “No lo sé, te estoy diciendo, yo tengo que almorzar y después veré a qué hora lo baño”.\n\nAcepté la respuesta y vi cómo colocaba a mi perro en una jaula pequeña, donde permanecería varias horas hasta que él decidiera bañarlo, lo cual considero un abuso. Antes de irme, le pedí amablemente que no se olvidaran de lavarle los dientes, ya que ellos tenían su cepillo y pasta. Su respuesta fue: “Eso es costo aparte”. Sorprendida, le pregunté si entonces durante todo este tiempo nunca le habían lavado los dientes, y él, riéndose y haciendo gestos burlones, respondió: “No pues, muchas cosas han cambiado”.\n\nLe indiqué que deberían avisar previamente sobre esos costos adicionales, a lo que me contestó: “Te estoy avisando ahorita pues”. El trato fue una falta de respeto total. Y si así tratan a las personas, no quiero imaginar cómo han tratado a mi perro durante todo este tiempo.\n\nPor ello, exigí que me enviaran de inmediato a mi casa el cepillo de dientes, la pasta dental y la correa de mi perro que tenían en el local. No me respondieron y, posteriormente, me bloquearon, lo cual considero aún más grave.\n\nAdemás, llevé a mi perro a otra veterinaria, donde me indicaron que necesitaba una profilaxis dental de emergencia, ya que no se le habían estado lavando los dientes desde hace un buen tiempo, lo que confirma que nunca se los lavaron, a pesar de que yo confiaba en que ese servicio se realizaba. NO LLEVEN A SUS MASCOTAS NUNCA AHÍ.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Isabella Angelats",
+    "uri": "https://www.google.com/maps/contrib/107800375510061983660/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMzlTDGecf3bqrjwAfEcxD_xX0fIWTDbEyFUL51L_UZ8U_-Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-09T21:02:07.977762719Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jeE1HNUtOVk15T0Rod1pFdDRiR1k0TTFCd2NXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jeE1HNUtOVk15T0Rod1pFdDRiR1k0TTFCd2NXYxAB!2m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/reviews/Ci9DQUlRQUNvZENodHljRjlvT25scFowTnZPVFZsTUhSclpIRllWVkY0YkdaRVprRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "No hay limpieza...No respetan la citas agendamos cita por WhatsApp...y nos hizo perder el tiempo...decía que nos podía atender porque no estaba groomer....",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No hay limpieza...No respetan la citas agendamos cita por WhatsApp...y nos hizo perder el tiempo...decía que nos podía atender porque no estaba groomer....",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Dolly Montalvo",
+    "uri": "https://www.google.com/maps/contrib/111676079085600561119/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwreSZj_x6x6jdi4wZ3zG5BsmdP8Zwz13OBk_wWsJW1F8GAA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-17T20:13:45.665877490Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25scFowTnZPVFZsTUhSclpIRllWVkY0YkdaRVprRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25scFowTnZPVFZsTUhSclpIRllWVkY0YkdaRVprRRAB!2m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvaWV1UE9REAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 4,
+   "text": {
+    "text": "Veterinaria grande. Puedes ver como bañan y le cortan el pelo a las mascotas porque una de las paredes es de vidrio. Tienen bastante variedad en cuanto a accesorios y alimento para perros y gatos. Hay camas en diferentes modelos y colores. La atención es rápida y muy amable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Veterinaria grande. Puedes ver como bañan y le cortan el pelo a las mascotas porque una de las paredes es de vidrio. Tienen bastante variedad en cuanto a accesorios y alimento para perros y gatos. Hay camas en diferentes modelos y colores. La atención es rápida y muy amable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sheyla Arango",
+    "uri": "https://www.google.com/maps/contrib/114431058160464185789/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUp98LrQOZ2Zk-We74-IVzpY5w0fwrgZVlhBTifHlvARpzU6au7=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2019-02-20T19:06:01.844302Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNvaWV1UE9REAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNvaWV1UE9REAE!2m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1NjlybG1nRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Mi perro le tiene miedo a la secadora y el chico que le tocó bañarlo no le puso algodones en las orejas para aminorar el ruido (que es excesivo) y no se le ocurrió mejor cosa que enjaularlo y ponerle la secadora. Mi perro se alteró demasiado. Le dije que lo saque y me lo llevé mojado. Inhumano y malcriado el chico. Lamentablemente ya me habían cobrado y no había nadie más que él a quien reclamar. Hay mucha rotación de personal y no sabes quien te va a tocar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi perro le tiene miedo a la secadora y el chico que le tocó bañarlo no le puso algodones en las orejas para aminorar el ruido (que es excesivo) y no se le ocurrió mejor cosa que enjaularlo y ponerle la secadora. Mi perro se alteró demasiado. Le dije que lo saque y me lo llevé mojado. Inhumano y malcriado el chico. Lamentablemente ya me habían cobrado y no había nadie más que él a quien reclamar. Hay mucha rotación de personal y no sabes quien te va a tocar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cecilia Espiche",
+    "uri": "https://www.google.com/maps/contrib/103302958021529825703/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGCUGIpeb8zwkGHpQamlWCgX_3k5xpZHUVP5z5rKplzLtfU_rG=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-08-06T18:02:11.093626Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1NjlybG1nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1NjlybG1nRRAB!2m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEcHBhZjJRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Un pésimo lugar para q sea una veterinaria no tienen  ningún sentimiento para las mascotas ,envié a mi perrita  para una curación de una herida y me dicen q se los  a perdido  y hasta ahora no me dan una respuesta  y lo peor esq no asen nada para ayudarte a encontrarla y siguen trabajando  como sin nada la municipalidad  no debería  dar licencia  a personas como esas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un pésimo lugar para q sea una veterinaria no tienen  ningún sentimiento para las mascotas ,envié a mi perrita  para una curación de una herida y me dicen q se los  a perdido  y hasta ahora no me dan una respuesta  y lo peor esq no asen nada para ayudarte a encontrarla y siguen trabajando  como sin nada la municipalidad  no debería  dar licencia  a personas como esas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabet Rodriguez Yopan",
+    "uri": "https://www.google.com/maps/contrib/112881478775699176331/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGMnl8GbTxGAwgPclDmM1Ycn1aINKk-7j0qxXsydLkhm0oIA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-03-27T17:05:21.617538Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNEcHBhZjJRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEcHBhZjJRRRAB!2m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMZyBuGZ1MNy_2e3Jbkz8-3b1K5EiI2t2iYnRNrE4pWPPt_wwJQSgRzlOZdp4dKzujW9GAlFr8RJlogErQZhYzigTORbye6-Gbe5AH3gyzQhHIn8xH9Q7aJN0hBEfReKRH2a5UouIDK5JRXdsaHilXgLlqwpBRRsdWZBpwGJ_vpTBuaG07sc3Q8V0BmXZc9gRXr_WMG8d7MDFMOxYfOW9zAfmFjH3IArwjR6_tNu_7Y4e782FD4jP-6M00kixAyE7QHoUHMzzr9BE4XksHKQJu0zZwluzscq8Q_8L_DPrw4tMa9F_zfCHTITU3BxqLBQTL871QhnFkgeMAR_1dfCpmq7phmpYWQBSwNDnDvgs2I2GDk2COcnmrfDz3BJOucR4hPpBkefD_jJWD4iTfKNtMidmZU",
+   "widthPx": 2560,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Vonder Memblin",
+     "uri": "https://maps.google.com/maps/contrib/115049202306504878170",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMgNZ3rFIML_8PngI3FwYXt51xTEAAJxOHytPT4xeDVywdQg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE19mEag&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE19mEag!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMa5XoAnsxcQQ807k4LItU-wXh-7WdY4n_4ZIOslJNuj7G8EAP-1x6JVdgYt627BKDClafJ_emvmuW1uuvNPxjLAF9K0mr3EHdYC0WUzZoeIyeWcoFInQe3pgeOSJYzkAb62Ys61veS_WCkBrQDFyxD63umtAuEr5G_Q04FqV_bYOTxEKd0hRIB4MFHbAik0sizQ4X2lB9wxbray2jrdxVdy13m_zq8m4xqK2TR_EKVG-6l4pjslwTAUmFFxxeU7tOaUswHeEJIHYyk6rvJd6iL2KWf6lRFPe3-vUM4bj1hSnY2Qb4NzguKJaUaulp41s4qhEZ7xoKQj2M-5msy_2Kbh_m_Qzthg2P2BR5p2KSzGQD7WCLuJ-n5x2m8LAMPs2USBoeq8ehuX5i4I1RuluOA0-g",
+   "widthPx": 4096,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Arias",
+     "uri": "https://maps.google.com/maps/contrib/110738177342877272071",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI58NJ80CxoG4Y6gEojgvrmdQNDiA6SYs7FpC4d0BXbVuiPpQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGjsr4Ng&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGjsr4Ng!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMaPGPm1wcqoxm0fFxhkNavpL2-7Y9vYt7yWwozgylJdRkuuXgQ1vXZkR63qxUF8tffXaRdTkj4LbdWpE1ei_duVm1l_ACtGfOsNftj8TX5fIWSbK99-vueTMFIqA8fcEtww-YjpzUgMAQxYmfHsPL8S4ZYLr-CVFZmNDLmmCASGAF9DGtsk8bla3wF59vrbMZBNTqZ4FFNE74J1tAe0MkwiUAQINidOVBQkYA_6AqpHBXfSuGqdZl4D5rOiT7y-TVZqLEfHTChyPnn24z7xrnRK_s9tGn5Jhy6q9KqyVdk7rr5Fz4MuPKCUCC_GtYvWexI7zz2FP5_vOcqzIRB1-EblSvpYDF9za8Upnm1c-KVA3W18-HVKygBiSje1Dq3UjDhWEIU6Yq23ILCu6ycBoz9NFQ",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Edu Pacheco Marroquin",
+     "uri": "https://maps.google.com/maps/contrib/101274833500097149257",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4RSD-vKO3iD4MAsz7ltYyyosN2-LIxGSvcFH8PujcslI2DUMwSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkrOarVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrOarVg!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMZCb34DKD_zHADhJ_hbVqHJAo5O-iS-MCGe9KUlj9B4Tn9Ao6Kmgb72E8hnrSPkIhZvNrG8RbA5ormqIT3xvZYRNfzW_STd3oJqCd_xsgy3H383BX21fLooxj9ICmQblyx7WS2f9L8UmtwHQPb_MD-1oguOhI7OgLBctq8ywKaYtzztfh0GnpH3nxAmQeUjJB_vlPh5eC88oZparczrhAFraK-Lh1zOtR7-y1QRSnTUzhe6TVZM9TBv-GvrmBZdb3pa7heIo6fKUvLJYAQKvij8Dvs8TPX-Jzdg144IO1gmFh8zN_8qGIwUC5BCd2OcwY6vTsRrH9EkedY9rWcgPv0sH5a-fAO_wdEIYp-ljn5Bc_r3Xmr7N0EUS2TjTJzlbtN2NZjpZkbtJdgR44CJXygnR6r8",
+   "widthPx": 2048,
+   "heightPx": 1152,
+   "authorAttributions": [
+    {
+     "displayName": "Paola Ayala",
+     "uri": "https://maps.google.com/maps/contrib/109537468511949654105",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwEji-LxygsgnekKYkCEJXyG0xAgMjVboFaP6GMZq-faclDHaUaA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID429KAwAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID429KAwAE!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMZP7M4JdiXi33aYlsxh4Sc-doCG7VFzbBMI4y0-xRGUVnJxmc9ME8Zg6jRpm9DywqLguO5paeqshIiTLWUt-lWjebQHC4yXhTjgo5vo-6bF8sS6d8bYODvQBk7PZ8XHniizcVoTzhx5NzJJ0S7Mhx-bHmqmZUPIdoeMZIMxwVj9tsS8h04ltNxgoC6jH8fmR1EqXNzKWWfUhLJLmII-da7uH00W6JKW7cR0wT1nlzP3CP-KTk6eNLrq2h41heR7hzfhu_sS-9nHp0HkNEierFZhjrw82f0EcOCLGGevn43uc4-a5ZWBRreOeN09D3ZRI6B2tAETepD8JcjSCnIegwo4cuVUqmPBhmNy1KaMIAi9HGA0ZXyJH5mrfRdClcy4ieQItt7hd8loOEYsmobULOgx06o",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4qrOCdw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4qrOCdw!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMZiM_xH8t62WSBL88KrzZXJPnGWsG5rsNnCyEbavdF-o1LqCbx5oviVkBwM6SdyIqBP__zmm4WUOSELIEfGxWYZV6MdB8E81exkH8TdgpXD2AAdB5PIDJNLcGfx-9YCFpxEJEiFnqiETVFTUNcp4Pl3SaUDXH2pEdjjog97wLjGu25HHHJ6pCOJEO67te-Z-njCF8_nKebUsKu7lZxvOrl0HmjPkbQlIjjwOH4xKbXRk4wQVr1BzP-D73zEkB9UcFhlelv8YDvzrHovSi4lYw-nkHmHh0TqsByaqFZixMzJ_hO0ZcPvbiR3nFYPLbVnQZYkYPltWF5pgPZp9Rogwx1U9LjP93apYSd-slQ9fNlSaWFZ_GG-nhlwd5KacjvktpnhtNb3HsqO1tYof9Uwn492D8o",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICklvDIfw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICklvDIfw!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMa2rk3zZ5VEwhZGFr1ZPpDy2UkqDWOk5HZhUcc6IsCINrk9yDsvwI2DSZYr3R86UE2jtqI6rcWrxiJVPKur7s24qbnGz1NdulbrQZMLqV0QrmWmdBHnB4mbTAQzAfvkjhH_Qdz0g4_IxcfxAah6SZs5DKFG3oYp4sGTE7z0WZ-LzkBPygH3ZsYPbOG5J7C4flFTzh_RcNDjtsAvwsJcI_CuxOG6E8PtacZUIj2iTIBIaHZYo_LmUBSwvc5wljaG6TtWKUT11yQ8qYVUuHHeLStspH6QEtldHQPbRzbeUNx6WyInP50Sl5bHvEMEBa6rZolfsZNA_zZpeu8HyONy_ZkgPX0SQxmhmmFFLWchoNQ5FergIXh4KDGnIk24Lwa95dalrYCAD-0q1lLHjJf7Xjox5M0-vj0",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICklvDI3wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICklvDI3wE!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMbdVzijY3U3pM4dkoO-HxtLQ1uETXoA_0MXMAdNchJ5Y1G-ZZb0PqXJJ_Qr8iVL4XboZuBEEgeJyDDkTwF0cNMCOtfZag-qhyMM-cH9IO00a-jq-SOpMvk-hxzWC2Dr0uZ34THMSe41fLm-zzBOzYcIFI3X9_oF1QcY5b2nf7RukShxFZnu9OJBzsqROyXlgY1Ap4WoRLc9L_ACLEUyWZ3Eryt-y2gosEqD-CefERfmi8j5fnFUUhsEWvOZiXOkKjK_WD7axVlNsYp4UnHp66XO0zKBksvLYvwfF1tZvEQ8Uydykca2kGK4Avo-0fPIs_6Rtpnjet0Zfm8esAHv54uJFiQ0yd15baUnG234dqxbti9UGzMh1OipRTmB4Gkn5hBlQVg647wvH-7JXHC7xyA_y6w8wSw",
+   "widthPx": 896,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4qtP7sgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4qtP7sgE!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMYDgV8WennLi0GkAVROesCrsaNMkoSdaVoOZ9REaM37wJ37cs41qntuiSEwx1Ez6uKGUvPErHF76AvaRgBDo1mrYE5na6Yp2h5Kd9sVmcPQ0Fz6qm6Tm2wAK1-tFx9UILxbCgUgheNPc4xJXqCYEc3qM8Lwk-9L0UkMMhVWz12aD_P-f6Y05o5vmZTE6T7rRj1HzLrPfXt2AWow9X7DeZ9dOLri8CFMgffVBGIEB_zUFCxT-pBfUsPUp6vo7_uT7vc1QEgN6sE3eyJctIzRObzzogP5001JJl7bfUaqNJagBNQzXa73jUq-ac4sV8LzPFT7DxjJVX-LZprPUIQhUMmM4-Eak7hOf2Eqt5-Jcr_wpzkj6iQfQPgC5TY_ownagzlmzaT_FN57id8EAi6YnRea5E1BuJU",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4qrOCnwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4qrOCnwE!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  },
+  {
+   "name": "places/ChIJYVTHn93HBZERMqZUO-4UMac/photos/Aa-ngMbA5m382xAe8MK7pts6mJ_BtHoVia2soHyxQ_QXWAbZrTZ4Fl2JWaOy8pqL2g3JnmBeTb20l5Zh56HSY3qUDNk6pwwBVUi8aibQcCR1Tl6kaBxcJEaQfeCe0ksWBRtUCHeDurqxosEBnUwJB4Myv-CnqIkRB20zo_Kg0RXuajLfBit78oAZT_DaOD0ggB8f4yxH6UMcbwcG0Jg2bLwujJ5eBOhp-xlZ3U_VysDLeLFSt9R_29hSqBSkeLJXckJ7l9FWiFOEIrye-pNSzLLtLul6PRe1JHLJ_hCO5RAQf-xFjTqXfwWFsQeLdsvD19fd71W6QesNd2uwkYHcLjcdKWDUBBSGPS6y5lEun0WD6Olx-MOJMFIYlaE88NZtR6tiTOWBwJVuG0tqzcrgpr_1sDRdLlHdeps",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Osvan Ruiz",
+     "uri": "https://maps.google.com/maps/contrib/101379395130726277502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYxOfk5QPMBC47g0txY7XBufJRO_55L4JzjODZzxLkWYpFLFHvKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4qrOCvwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4qrOCvwE!2e10!4m2!3m1!1s0x9105c7dd9fc75461:0xa73114ee3b54a632"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

@@ -1,0 +1,574 @@
+{
+ "id": "ChIJ56_LpNvJBZER9htn5AdNzQ8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "913 375 111",
+ "internationalPhoneNumber": "+51 913 375 111",
+ "formattedAddress": "C. Salaverry 157, Miraflores 15046",
+ "addressComponents": [
+  {
+   "longText": "157",
+   "shortText": "157",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Salaverry",
+   "shortText": "C. Salaverry",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.10943,
+  "longitude": -77.0298985
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=1138650977086675958&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 50,
+ "displayName": {
+  "text": "Clínica Veterinaria Walac Miraflores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. Salaverry 157, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nMk5tSTVPVGxsY0haRWF6VnVhVzV4UXpKU05IYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Luego de usar la veterinaria varias veces no recomiendo. La atención veterinaria solo busca venderte exámenes mas que en atender las necesidades.\n\nDicen tener groomers pero en ocasiones anteriores me han llamado luego de dejar a mi gata por no poder realizar cortes y lleve a mi perrita por un corte especifico y al no poder realizarlo, en vez de rebajarle el pelaje, han procedido a raparla.\n\nLa atención a cliente es buena en recepción y por mensaje pero no compensa las múltiples decepciones que sus servicios ocasionan",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Luego de usar la veterinaria varias veces no recomiendo. La atención veterinaria solo busca venderte exámenes mas que en atender las necesidades.\n\nDicen tener groomers pero en ocasiones anteriores me han llamado luego de dejar a mi gata por no poder realizar cortes y lleve a mi perrita por un corte especifico y al no poder realizarlo, en vez de rebajarle el pelaje, han procedido a raparla.\n\nLa atención a cliente es buena en recepción y por mensaje pero no compensa las múltiples decepciones que sus servicios ocasionan",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Anthony Medina",
+    "uri": "https://www.google.com/maps/contrib/111901022417373552342/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwqm1aVG8FSMFpAAwEr0TBGH5a-wcbbGIv_eWPgOsTUb5-jw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-06-12T16:40:22.042395730Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21nMk5tSTVPVGxsY0haRWF6VnVhVzV4UXpKU05IYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nMk5tSTVPVGxsY0haRWF6VnVhVzV4UXpKU05IYxAB!2m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CbGNucFRaSE5sZERZM1IwMUZOVkZaYUZZeWNHYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Súper contenta con la atención que recibió mi Drakito. Yo decidí esterilizarlo con esta veterinaria y realmente realizaron un buen trabajo y me brindaron mucha confianza en todo el proceso, recibió 2 consultas después de la operación y siempre fueron atentos y amables con el proceso de cicatrización. Sobre todo me resolvieron todas las dudas que tenía para el proceso pre y post operatorio para sentirme segura a lo que se enfrentaba Drakito y todo salió estupendo! 🙌🥹🐶",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper contenta con la atención que recibió mi Drakito. Yo decidí esterilizarlo con esta veterinaria y realmente realizaron un buen trabajo y me brindaron mucha confianza en todo el proceso, recibió 2 consultas después de la operación y siempre fueron atentos y amables con el proceso de cicatrización. Sobre todo me resolvieron todas las dudas que tenía para el proceso pre y post operatorio para sentirme segura a lo que se enfrentaba Drakito y todo salió estupendo! 🙌🥹🐶",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cynthia Espinoza",
+    "uri": "https://www.google.com/maps/contrib/117786599377133697541/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7plWeVMEVQ1wZKSTTCyxcsnNj1VOlbpflRKs2Ccn8AVkm6OiI=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-11-25T18:40:44.259503463Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CbGNucFRaSE5sZERZM1IwMUZOVkZaYUZZeWNHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CbGNucFRaSE5sZERZM1IwMUZOVkZaYUZZeWNHYxAB!2m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/reviews/ChZDSUhNMG9nS0VJQ0FnSURkd3J5WlNBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente.\nLlevé a mi gata por un tema de salud bucal y la han tratado muy bien.\nMe asesoraron desde un inicio, la consulta está en 50 soles lo cual no me parece costoso.\nLa doctora y el resto del personal trataron a mi Michi con mucho cuidado y cariño las 3 veces que ha ido.\nTienen exámenes de laboratorio, baños, peluquería y un montón de tratamientos más.\nTambién tienen una mini tienda que vende varias cosas.\nHacen seguimiento y recordatorio del cuidado de la gata.\nLa recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente.\nLlevé a mi gata por un tema de salud bucal y la han tratado muy bien.\nMe asesoraron desde un inicio, la consulta está en 50 soles lo cual no me parece costoso.\nLa doctora y el resto del personal trataron a mi Michi con mucho cuidado y cariño las 3 veces que ha ido.\nTienen exámenes de laboratorio, baños, peluquería y un montón de tratamientos más.\nTambién tienen una mini tienda que vende varias cosas.\nHacen seguimiento y recordatorio del cuidado de la gata.\nLa recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yei Vargas",
+    "uri": "https://www.google.com/maps/contrib/117023195071782418255/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2Dc7FqGVJsLVXTJbrgTWZrRLV_qmHeePb6pQh4CvRGQ0zy6YO=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2024-02-22T00:40:44.424380Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkd3J5WlNBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkd3J5WlNBEAE!2m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kQk5VdGliVVl6Y21oNU0wUk9ZVEZ4YkhNeE5uYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Me han ayudado con mi bebé muchas veces. Son muy amables y me dan la cantidad justa de evaluaciones para velar por su bienestar",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me han ayudado con mi bebé muchas veces. Son muy amables y me dan la cantidad justa de evaluaciones para velar por su bienestar",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alejandra Moreau",
+    "uri": "https://www.google.com/maps/contrib/116976033793504913858/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTMge6JTPgH1KzxhhqguO_-kwZ4bz-9YaeAYywvlNYev8Zmnxo=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-07-02T01:09:29.247218156Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kQk5VdGliVVl6Y21oNU0wUk9ZVEZ4YkhNeE5uYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kQk5VdGliVVl6Y21oNU0wUk9ZVEZ4YkhNeE5uYxAB!2m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzRhV0dREAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena y cordial atención de todos... Muy feliz por el cariño con mi perrihija Luna",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena y cordial atención de todos... Muy feliz por el cariño con mi perrihija Luna",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Martin Fernandez S (Good Vibes)",
+    "uri": "https://www.google.com/maps/contrib/102760796591686008711/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGoT1Zy_wNs6TWApKwhWHK_WAThciJCSMA8fOzCJfuv3v4xBOX6w=s128-c0x00000000-cc-rp-mo-ba7"
+   },
+   "publishTime": "2022-08-04T20:54:58.581895Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1dzRhV0dREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1dzRhV0dREAE!2m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMbRabjvQY7-Xe0VuBUciOXAhvfSM0mTDXJ9I6vzoi66Yj9YDr1uePMOPJWkL7A6yT8UpKSPXhASLxkvixIcTLGBBgro6PuECtnPu2InnofXXM8-q4fJX797iljEIIARc4wvRoXUexYfEk4eSt-SmPs7f45UMmC0c6rzG5lJSJl4TBJ47dAUdlLU4sP5TqUFvmVT73ySYtwbX18olAtscgyaRqF6_5yf2Yt3SuZlPxkKK4tpPuvc5tp8jjJ-THG9UfRbm4k-f8CWsQGBPxLs7RLlmWwnaLRHohZMoLLL7eTIGJGMqOFdNz3RPhSYJjRwdDBW7tJgfTyxEQtxQ2XTVY0VIuwrXEfAARl4swJVOMsEb7spI_U9hTOedBzC6xgSkzsF-dzeGO1BFbqvw5OfuJHb0qLU4aqSlxK5sODwnm7JyUg9",
+   "widthPx": 2048,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqtCXlQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqtCXlQE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMY3EjOcwxarnbbVdBku5Qd_8hoxrcgaeVhz_WnHoPcFved2GmQMj0YeX5BGcjliSWJhst_3plWJiXH1Hj8MimiEnigHbSS8XmnODtKbhRO-n2pvwKNlKfdjBjEuhVXT80u-PtgujbHcCCvZHn4YPvk3eWOBw8XJzpOIYnsR3r1nQoL1b5kKhZFaCVeNhSCipd5t5z9Jjf-RzvPVTCLnPncTMUHW0RRZ3PgY_5UbmJnzJqDUSgue3mlf96jD4ZzBvMYRahcBUeTufJZcQYPcTrzjS-zCVijafd7j4Kk6T9nnCG99KBz2WIoaEF0m9hOaOjtybA_dDfEleQpD6th3IFeN6mfRxNN4i-_KTqwH_aLSLGDkQjC_zkPW3BC_1miPy67YegUuF6lLjI_7HpKAOcSh8JdwC4r1zG0C0aeH7GO0doe3",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqrCfvQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqrCfvQE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMYTQKz5K-gbyLU3CB8EbQM2rFJPtHKzM05il8YCaRJggt2YuNycD6bCSwLQBvSuSb7WA6GExutUhM7x5qzxKp0i0MI4rpJ2ISea11vusoL6Tu1jFemEIKUom_zWrTaHcSgkMEGNmJBu-Xm4YqY8P43mVbgOj_LSpnNXw75Zl3HZrloJ1CV1TpJIEnKUiV-OFaJu6shBxiLLDiCMqtL7WUCR0FDkOnGpmekRr9tTXpSqds_oljdlEytsy8MYA39lWlkewJPGkbolGWounj7oilP_76jiqFxGfn7mGVOjBjWYIykaksWIxT5eubpgKNUSPJx90PCFMUXu4ZPC7HnGxYLk5dwteE4mJDhLjF6wOaehqSKnVPNovvR2XM93LOPogh1y2mqsx5ykPYcR0l-VSdxgwqATOGYbkQ3iuEqbilc35wlC",
+   "widthPx": 2048,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqtC3pAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqtC3pAE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMYt9FiNfQuKObcFUEyckMYElG_ZLWQhJ0P7YU8NyGE7rXHCYR4-wfAstvAzLfEpAsFscJHHoPbTGgzSRc-XkhUVGgaawtAc_nSFH-9BLjmEzA_9BZrAJidjDJbqe4Ol33dCAQWdeLTPqHPloqWDHMWuqlhdK936xzK7jn4SgV7BQLu675NvPOgGLZyllMx5qm2ZsBQmP8GLncy41yYtx2J-jcEgEjCXLuPveAmS1R6uXBYUxas28IkBW0eAqWsAgFRznPCPPBXcGaEWX309Jrx-y4uLVe50-rOdWD3RgzKC2xYtV4RmDfWZxs9beaZwkttGT21-g_pNv6Pu7Ps4Hi-hosCdGooGEracsMICiMuk2y2YtLKsapknt5Xrpsxs-_dd-V6-T1G0MaiDFfHwhjuEs-VTdizU8gmZDIn46X7BzsL5",
+   "widthPx": 688,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqtD34QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqtD34QE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMaVTsv8472Og6PD6wxKHeijiI9M7sxBFOu3gQsQja053aHHtLXn5bh0JOi2CtcI3edpkR39fui4HCl61y5RX8x3jNELgaPlHuyAvbHsD_BDNp_9RFEO97eKuWBxqhELKud-lAb0VU4QeNq-TLYY70ttmBMKBVFhYfd4fKf0ZV49ZzpzBIYv3JBUwl8qhsiIt22jOZClJg8IUh_aNY5iZm5zQ7A2V7KDCnWWGrCCjv-BDZD9ySQJmJye4_R3raVXyuYslLkiBIUzyN_fURJ8ZXAW4HoMnto0TQd6IhE1ukv_63Use-_CydDvncLzT_UvU936MMfAGeae3RruRF53fAamTsmxzzB-uWxjfeXqij1g1_N59s-ScUTpt7oIXM2VyW59q-QKVoGnZWuiPdsUq5mA_RHwopTvxIZM5YsHQdpRydc",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxwsuW7QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxwsuW7QE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMZ_qKI0HEnBCqySZrtR0eYaCy1mSw9j8tn1iqQV2CrbXeJjZvUxzJjcgD_fZbEjrdr_go0wgNZXSn8B7LfKNpYXYdLWIvaCl0UdflEye2CMUcADQXTDUYOYkPmqN1sVs1tdmVouYn19OMOXV5yIE0ybqKM4oX8TSjhT--7fyg7KIfCuyKKcER14a1Qce7MxXy56Qedblpkk4OaPGh_J3VzxMhf5gc18UCfuygrfTrRKnjx_krawh6qhoitDNF93PmWY6XxcawNDbNuU4xTrI3OR_yYBISe5eWhps9kb5pnvtW3t01azz4h7_aKRKZruCoidBcMykcLAlFu4E-T0RGCv6Rgyx4in5p4PHbI4GODSutGSUi3oC62zGRyjh6OeXnNab7DY6v5lf2gWIlQcJfHqQKFE_q3O5dm90ZI0aiwkQD-o",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Martin Fernandez S (Good Vibes)",
+     "uri": "https://maps.google.com/maps/contrib/102760796591686008711",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGoT1Zy_wNs6TWApKwhWHK_WAThciJCSMA8fOzCJfuv3v4xBOX6w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuw4bz9AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuw4bz9AE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMYVLY7rsbHmLaTBf1y9Xo5oslVCX-uEQicXqwDNizEa4stWnTVPIrEc9I2NYywrLqFbK8B0cQEMlTSiPETqqO3TX_KhWAkh6-KPlIpd93JD0cTuIsoojSZ3I4aB3pradZfuXVODME8mT5IMxZ75lcVj_mldan13eE8z_0tSRi0mx2fBwvZjy381wCNbvg2X7zrk47NGIEk3zr-kbFYRs_NS0WPYjBq7kjGRA_aBIr4NPcWXC6JvN3FhGgqwWWeNUYtVlJuLC1AydIqoTDTmS465RqiUyTdVdmmDoGLloW2WWKcMRA9FSq_BWQZmfHttfv1PHty7gXlkEqjHxdMbE1nwpZPgZ13P-D7tu8wKOvDPhI9wyJHYR6Vt0vszyo8tx-GfqWTgyDSe2ySN_py-rkQz_Iyn7Um7KzNrYoXHld6Hg7wx",
+   "widthPx": 2048,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqtC3hAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqtC3hAE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMZ7Ip0KooHqqh5rOziwrio0iVqx6pBi7Auh_6n8VrFAjzT1RQNjnOaQJZoTSQ0SDZCtHyDFdPHC1ibOLzH7hDPUEqGgfEZC62Kntg-DuNeQLk2gRpLCZ08_AO-PWaUM4Yk75v5LJl_nK7pB94qsaiOlq7ahhw3QfHuOXy6OkRYQsfQbw9G9X6OkQtv6A8xAkZFsrhSf8nUEbnOlZH1qHXFLezJD5QSiO9uFmo4THks_SvECSRN6Y1imiIguljuYMcDnPmMy2hTK-C8YEEW_6TIBnnE4Fk7JuhOOgrPeeBJHhoRnEtl67CZ-_AIyqnPqHaYe2SRogqqPTo8p6GlzaK2PIcZEwSDu1PXZxG0b2mvosux2qT4oPxjH_kiptUAIYRkToEqwCQ1RJMvHkmcAt6tv1ffu54JbK6siDUu3r0KmlOps",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxwsvaqAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxwsvaqAE!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMbXGlUqXrkRF-C0wbyNtBAqMphnvZwe02M2S5ukxFWT2ldLeoqYSzeZaoJ6Xil4L94KPQbwCthydrv_G3tY_FWViW0PNyiN3oqupHdfBtkKSbwKudCvz6Uq5cEYWcGkj3Rm6EGypHtsnnvTHzB2ctHrZ3yFIERzfZGpYyMIa_SMcbgeFMBUsr6Popy5QbcjgC0Y9WQIwK3XA5KuH7cwlqnMEG7kNKcW26QCrQyHBMeS3gdlRuHQVA_9tFznYg67QiQElqCncqGPMTudkkQdv5MIvWFIUrGbZ7r3aWsC6tq_orbw4VbQP8IGG8BKKg90-PC87qtA93IKICtFaspPNl3rHVpjXYEVbsuL5bsUf__CxsMrFQxLrh6zyzpxap9AbYkTm0rhrt_CM4w8-nRLU_EPw4B7wlxGgdw2XnvkVr6dvhRAvKsll4MtmmstkA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Cynthia Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/117786599377133697541",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7plWeVMEVQ1wZKSTTCyxcsnNj1VOlbpflRKs2Ccn8AVkm6OiI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD_-93Tyf-TdLTnXNXYZaXX&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD_-93Tyf-TdLTnXNXYZaXX!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  },
+  {
+   "name": "places/ChIJ56_LpNvJBZER9htn5AdNzQ8/photos/Aa-ngMZp75Hgyw9oEItWcWkcHOU-sUpp6m2RYD7e_Nm62eqLWWicY4tKUiI6wB6pgJEVcPcq0KZdL7uELmWIePEFh6DyEFOHHtQqlz8SyEuOd1NKFNsT2rZfr3xn7PDZEU2SptgGDNpy-J7BCGIgPSU0_3x1DuEOdFpsPpnFY9H7iI78Ifipece_hY1cnJr2rGsnlQdlgLSDCZJCSExqWC22CA9thTs9jYPq6-xgYGN7F52u1Z1meMu8yjGh-nsmVSgZSpZIgndUb7BB6ypHRCEMbylQg6fbQ66toJi4OYS9Ezly9uCUxKBXR3l8swEW5v3rAIstacIWsbTjXAO_LIB2sv9X0AxaViAjuXeeArDhzVDAJ10KcDnMz7xP0QVv8k_8KmT3-JdPLVdRaiYvkzlWzmqo5ULq2OmA3zdMxcSm_ZqY2g",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/104482939813249535078",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAii0Zl3sKKebQBqFIJ7sLLH4KCzCJLHUitD1p8_hWFuPSlg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWqtC7NA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWqtC7NA!2e10!4m2!3m1!1s0x9105c9dba4cbafe7:0xfcd4d07e4671bf6"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

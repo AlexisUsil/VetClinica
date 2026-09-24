@@ -1,0 +1,612 @@
+{
+ "id": "ChIJGyVjqfvHBZERIEMJabdFIGM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "955 271 722",
+ "internationalPhoneNumber": "+51 955 271 722",
+ "formattedAddress": "Pje. Villarán 192, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "192",
+   "shortText": "192",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Pasaje Villarán",
+   "shortText": "Pje. Villarán",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.120646599999999,
+  "longitude": -77.0019588
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=7142785663053153056&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/Veterinaria-Villar%C3%A1n-530828657085277/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–16:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 118,
+ "displayName": {
+  "text": "Veterinaria Villarán",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–16:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Pje. Villarán 192, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tneExXZGFXVFZKVlU1dVZYSmlhbk0yYmpCUGJXYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi perrita de 11 años para intervenirla por inicios de piometra, cualquier preocupación, temor o duda fue resuelta con la tranquilidad que me brindo el Dr.\nTodo el tiempo el staff se mantuvo en contacto conmigo y al pasar por ella, luego de su cirugía, encontré a mi perrita moviendo la cola y con la energía de siempre.\n\nMuchas gracias por el trato desde el primer momento! desde un baño hasta para una intervención 🫶 100% recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi perrita de 11 años para intervenirla por inicios de piometra, cualquier preocupación, temor o duda fue resuelta con la tranquilidad que me brindo el Dr.\nTodo el tiempo el staff se mantuvo en contacto conmigo y al pasar por ella, luego de su cirugía, encontré a mi perrita moviendo la cola y con la energía de siempre.\n\nMuchas gracias por el trato desde el primer momento! desde un baño hasta para una intervención 🫶 100% recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "kassandra rojas",
+    "uri": "https://www.google.com/maps/contrib/106031163007014769879/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUioffDxwmmt2FVK7v7XSIzo4kP4sfX2mcXF31B6nbNLNRC_9U=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-04T23:17:07.869508444Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tneExXZGFXVFZKVlU1dVZYSmlhbk0yYmpCUGJXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tneExXZGFXVFZKVlU1dVZYSmlhbk0yYmpCUGJXYxAB!2m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbVlWRmZWMXBNVXpjNGVsVlBibUV0VW1SS2JXYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "En todo el tiempo que tengo a Clhoe mi pequeña mascota, no había tenido el placer de conocer la calidad humana del Dr. Luis, la veterinaria VILLARAN, la calidez y profesionalismo de todo su equipo hoy y siempre tienen mi agradecimiento por haber tratado a Clhoe con cariño y salvaguardando que esté sanando.\nGracias Dr. Luis le estoy eternamente agradecida.\nSi tienes mascota y de verdad estás buscando una veterinaria que tenga el corazón de querer a los animales, cuidarlos y no verlos como productos, está veterinaria esta es tu mejor opción para saber que serán atendidos con amor.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En todo el tiempo que tengo a Clhoe mi pequeña mascota, no había tenido el placer de conocer la calidad humana del Dr. Luis, la veterinaria VILLARAN, la calidez y profesionalismo de todo su equipo hoy y siempre tienen mi agradecimiento por haber tratado a Clhoe con cariño y salvaguardando que esté sanando.\nGracias Dr. Luis le estoy eternamente agradecida.\nSi tienes mascota y de verdad estás buscando una veterinaria que tenga el corazón de querer a los animales, cuidarlos y no verlos como productos, está veterinaria esta es tu mejor opción para saber que serán atendidos con amor.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gavit Campos",
+    "uri": "https://www.google.com/maps/contrib/101979529569581045609/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjN2HVrtjqkPqvAVcKt0Vtpw7XgrnULmbE2snNNsGW1kG8OQdZWg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-08T16:17:48.763097617Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKbVlWRmZWMXBNVXpjNGVsVlBibUV0VW1SS2JXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKbVlWRmZWMXBNVXpjNGVsVlBibUV0VW1SS2JXYxAB!2m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUVF6TlBlVXcxUnpKVlNuVTNUVkI1T0ZOdWEzYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "El doctor Figari y su equipo le cambiaron la vida a mi pequeño Rocky. Ahora puede respirar y dormir con tranquilidad gracias a la operación que le realizaron.\nEstoy sumamente agradecida con todo el equipo de la Veterinaria Villaran ❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El doctor Figari y su equipo le cambiaron la vida a mi pequeño Rocky. Ahora puede respirar y dormir con tranquilidad gracias a la operación que le realizaron.\nEstoy sumamente agradecida con todo el equipo de la Veterinaria Villaran ❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Aliaga",
+    "uri": "https://www.google.com/maps/contrib/117598665274791116997/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlVPKJvIEY1_nhNTnt9-Tgw8RdvVU_UJhjmrE8l_HyNxeUFA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-27T16:48:45.213227220Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUVF6TlBlVXcxUnpKVlNuVTNUVkI1T0ZOdWEzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUVF6TlBlVXcxUnpKVlNuVTNUVkI1T0ZOdWEzYxAB!2m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twalZVWlhRVlpvVVhJeVUyNWtMVGd0U3pWS2FGRRAB",
+   "relativePublishTimeDescription": "Hace 4 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Los conozco años ! Y siempre tratan con el mismo amor a todos mis bebés 🖤 en esta oportunidad llevé a mi cachorro de 2 meses con Parvo, y todo el tiempo han estado pendientes, atentos a él, haciendo de todo para que se reponga y sobreviva y hoy poder estar con él jugando y llenándolo de amor. Agradezco el amor que cada doctor le da a los perritos que llegaban. Graciasssss !!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los conozco años ! Y siempre tratan con el mismo amor a todos mis bebés 🖤 en esta oportunidad llevé a mi cachorro de 2 meses con Parvo, y todo el tiempo han estado pendientes, atentos a él, haciendo de todo para que se reponga y sobreviva y hoy poder estar con él jugando y llenándolo de amor. Agradezco el amor que cada doctor le da a los perritos que llegaban. Graciasssss !!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Fernanda Llosa Muga",
+    "uri": "https://www.google.com/maps/contrib/111149377211935744894/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRsAtEGRnkK8ZsybHMPBtq48IF-2qVu46c7nttWrXqkbxQqA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-25T01:50:24.382676181Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twalZVWlhRVlpvVVhJeVUyNWtMVGd0U3pWS2FGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twalZVWlhRVlpvVVhJeVUyNWtMVGd0U3pWS2FGRRAB!2m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGclh6aHBRbFl6UTBkTE4xVndVRFpvVmxCVWJuYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Gracias al Dr. Figari y a todo su personal por darle un trato cálido, humano y de primer nivel a mi perrita que es un miembro más de mi familia. Los 10 años que tiene mi perrita pasamos por tantos veterinarios, dermatólogos que la sometieron a diversos tratamientos que seguimos al pie de la letra pero sólo calmaban por unos 4 meses sus problemas dérmicos para luego retornar más intensos hasta que en marzo del año pasado llegamos a la veterinaria villaran y a los meses dió con el diagnóstico exacto de mi perrita y por fin la pobre dejó de tomar tantas medicinas y hoy en día tiene una mejor calidad de vida; hace poco la operó exitosamente y la mejoría en su estado general de salud es notable. ¡ Gracias Dr. Figari y a todo su equipo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Gracias al Dr. Figari y a todo su personal por darle un trato cálido, humano y de primer nivel a mi perrita que es un miembro más de mi familia. Los 10 años que tiene mi perrita pasamos por tantos veterinarios, dermatólogos que la sometieron a diversos tratamientos que seguimos al pie de la letra pero sólo calmaban por unos 4 meses sus problemas dérmicos para luego retornar más intensos hasta que en marzo del año pasado llegamos a la veterinaria villaran y a los meses dió con el diagnóstico exacto de mi perrita y por fin la pobre dejó de tomar tantas medicinas y hoy en día tiene una mejor calidad de vida; hace poco la operó exitosamente y la mejoría en su estado general de salud es notable. ¡ Gracias Dr. Figari y a todo su equipo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Esmeralda Contreras",
+    "uri": "https://www.google.com/maps/contrib/111200868538623935537/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHVldFrBHSHM47h0QtV3WkaJxjoEdCmwzC0POeGw6uv0YHOg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-24T17:33:31.835968013Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGclh6aHBRbFl6UTBkTE4xVndVRFpvVmxCVWJuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGclh6aHBRbFl6UTBkTE4xVndVRFpvVmxCVWJuYxAB!2m1!1s0x9105c7fba963251b:0x632045b769094320"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMa3VNsl3kTiB_vouK6cwS61DDrPVZRqVw3bZxAJagDr8d-IRLy0a-dNp_QOgx7W95bZEAwTGIsux1cxwBUFbdEoq1nJnWx-VSMgdXTy4poH9DrC_CTxYLUlbn_JP-mpGBed-t4ZqTMAjH1xQFhH2sgWqeBDs3FmVYujSMzv6ORryQInQ7c9CuIFnSMnuPWYnepvAklhO81YHWBQog0L_ekEImTwcXsFgE5v3OU6CJPkoSFLMeglD73LCG2NYRhiDgmgHs2yFtKP1CYDfjw0V2EMN0vQjHFMDi2aOhfBXi7ZPjfxlID579nV4vNL_CW8bOTzauf2mqBvpEhmPhgA4bKnP2TDSrzaQODkGprKgkFNPnRBdSuDyoRBt1KFUGUH4MYm-pgE0lm5IhKI_w3x-7beLnL2rzGHCazv11JtTudqEA",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Jusety Janine Arana López",
+     "uri": "https://maps.google.com/maps/contrib/104486237626293177092",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSsuJoFKs_cnXyvPCge-wDZnZX-Iz_AaWJAD-GWo5BB5XSRlz3Jg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEPKXvfXM-6iQIw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEPKXvfXM-6iQIw!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMaPmqP7QtE1fBoKBvfdpEZoYMgq3ZCaUpGr-udqaoNw2CDEdFbxIlOX8yMTcYvh_4t0lBmcgytUGmy-Ryh_w0Od0445L4y2Y5_q6RiYcerjmO36sNrhdYEDA52AiIJx2zEP1v66fefp4-u3Hif0zToeIkupx1gPmpFaK-bFRN6LlXqOXVoAq3QyKIaimvN064VKFu4VcHYRa84EFEx4J7Ue01e2EiKE7wKGb2O-O0KwfUF0KFThJReOzWQeYBrI359qziprDxLMPqyy0eBgJqV0dgwak67Xfl559tr-2jdAhlkvZHo6eN3PGoHu2dXbHGOzFfmO2T-mYx3Y9ZQwVHilVdS44bzuDvu439_OkIm7QDCC6AWDZoT061xbsRwuOgpU2guJzmKJhN88Y0juP8afPaBKS48PhpXjkl6Hx6TAEeTS",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Villarán",
+     "uri": "https://maps.google.com/maps/contrib/115386688440534687522",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwWk1-KuEQaDiof43VSDLptAxRLLZ_HXxS5bPYtlb7twDR3Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuiN_mpgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuiN_mpgE!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMZ-nzM0cEbVoEYVoH11FcdR70KNcCBSi9jjckok7gxit_pmb25he2OvOt8rexpCkc81w8V1OG190eDL1afJopE31NXy7I_D7y-gPLsN9lZ3KRcUCNyxicsqLCDsKf6zTz3jmwO-B8UDpI-YypZ2KUQxheoFPDgbOvucmwm8cgQeXtL5w90py20Cqe0Edb2XVu-MaGODz10B6YUDLJ17INZSO09GpDI60C215RUOcOGtzYfu0OUT1S9L9JVTcbMHSSzBGpsLxVWf6dN2ShUoAtBoJZI4I4MjytLsZMnHgFwWvv7z2plPUmtlb0Y_jHrCB6TuSuM-xyoyaKoNITng6vckZnhBufgXBo2p2CR41YmjFFD9BJIvhtU5lo_G0oilrCxsCwsFy9coDXcXRHfRpz-sa4zYhA9tAQxE7amiQglSZ2Nb-NtrnHK3NDmD8r5i",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Esmeralda Contreras",
+     "uri": "https://maps.google.com/maps/contrib/111200868538623935537",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHVldFrBHSHM47h0QtV3WkaJxjoEdCmwzC0POeGw6uv0YHOg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBNQ91iroGmq2AjAWS4CEL6&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBNQ91iroGmq2AjAWS4CEL6!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMZhAO-CD1_raf22Qhcjg8x27JvtOa4clixYdfn-i2mAPENw0UI_30tN2Jdt-ZPiacs1VGQgFlacge0FLnC4jzimocsSi6sL4I4K3Ew6H1DMIqkLbSOTta9m7QfEUeo1LBY8w5P8bwPK-vlX0PcS1RpHCMekz-ibUkvKztRNfBfjassIQzuJD1W5qwfYL2a-DUfNMfWNeRjLOX5QlPQvcqAU97x-DQdpfFSx5UoXfwJtCGgY3U74WwGXmFf68ni2k-_LKKpfRuSIjRJ2MCDM6cvIrLbrBeFc5PQqfmT0QSrGzGO78icLapLTXCwegdDzA216v4cKmjD1gcnNTreOpGYdHwCSRleSD89Hq1iDXA5_xF6cN-UanSOxqbH0uFsF9v9RuMeIzEHQz4LF1aRvYJImRk8Kcq4ZHBuzzVH4JwVONhT7AI8bGLHtZvT81QXy",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "DORIS COPA MIRANDA",
+     "uri": "https://maps.google.com/maps/contrib/111468009455823920486",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB9aal6kPW5v0tDlXiATc3XWSyJ-SIH_5bWthtUuxkOr3-qBk5=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGObHLh1VCbwG6AsDhOEbC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGObHLh1VCbwG6AsDhOEbC!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMYu4qhajqgbGsXvRR0L8coh-5hULPpm9B88FwD19fnBiADYast8OPo3upGInznlgcQVjup9xjwf67-HIfpJP7jU_IXvMqrXm1ecuFc3Ei82bqnDzY6pVrXPFgcdRdgVdkaoH_LDJTg6n6Y7AtlLDkWodrtEv4B1PJpzhnOQyLaF1bJv_Mavy6N5UtOORk6KlxfnCkabisiHNkkg_wmAgKMhUrYkHCTNS2k6uIr1FNNeT0LimOPDuvLm706wqRW15WLoX8XX--_SYVTj1j9VduZZGQmai1ARsgX6qluG4OeFMvdP6K7u1L10WIxAnsfIQCYXHGeyxnzPHz7Rq-3SNKgEUVvrRvHPRoNXEUxtrU8MgF6FZ8VKnbsc0K1Xjjeao_-WGxkn_AMc2ZCFiTuXryTtosTLRTKNmXywDs4Zh1G27Rv4I75zYWDMyQUutKAS",
+   "widthPx": 3664,
+   "heightPx": 2062,
+   "authorAttributions": [
+    {
+     "displayName": "Patricia Aliaga",
+     "uri": "https://maps.google.com/maps/contrib/117598665274791116997",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlVPKJvIEY1_nhNTnt9-Tgw8RdvVU_UJhjmrE8l_HyNxeUFA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBu2O4J0dH770KQcBwZB49S&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBu2O4J0dH770KQcBwZB49S!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMYFijzGupuP9xtAELHj1ZMmHLnPKgoQMGWdMAXwZEMYCTAmd9D7BymrrUtLaqvXttvugIrYS-fvYMO03RP-b-AH8KWi8sa9KBJyrP8SpEvOstRwNWnt2-bVz2BMvD-V7Z8LOSnSOdLY5ejMWvYpie6F1Au0Ia9lU9LeRXFl3z9BOg1OKfYVsln-3whVv714FVXOzh1QYafPw6btANlcU6oEiMH6ZZhg_aFIVoN8VxXvpzNJfoR2_X8ELRnmNpJinGlJagQkjgS-vEyMwKgk6qu8txSD4FIjp1WgguFfDOKTKC4adRiJA35iVfuFwOeUqTrDq-NUC63N3SaZPNq99ycfNSko6ieiV8JBe1PYQrUfw8tH2uhQXg08Q5eGR4V-2Z0YsAs1Y5oJ1VqUgkIPXb7gGSYDHT0aKkoZkIXcD8aaMD_PNt2MqzAjnH3DczKD",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "DORIS COPA MIRANDA",
+     "uri": "https://maps.google.com/maps/contrib/111468009455823920486",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB9aal6kPW5v0tDlXiATc3XWSyJ-SIH_5bWthtUuxkOr3-qBk5=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhATkNR9_V4GOMZKyi43r7Mx&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATkNR9_V4GOMZKyi43r7Mx!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMYsRR55KozLlbZ5KnsIPfQpMtRPVoIO8zHd7P6BDzu_aiOvGc19eA889tIC_LDezkSAaO3onG8TDdxufEShPbAdjrid6-B3y8LjM1wbDK3Rd2jTE-By_sia_jGKwssKYugV1Zw2YRkR11q_Sm1pLFStUGnUM2LclrRepf7KZwXUU-foQL3aRd5D-_Pypi_XUwHCtif4V1ECederW4BVhlWL_kCwsqiyYNUgfRa2n8Vc5WMv9T2T4TWmfp_u7QtEqjBnTVhHShbTx9NUnIUfnTYWCuKrOcInHEfSWWUzn-3I2IwKqHnXPNmISldBncsqPiafZZybmok0EK3XqcQyQJnt66GSMxJTXG4jL-YzN5TI9kC4yvUPauJHRKNeCFFBPz6-X2DtVaaO5CV-dlv1J63TUEDAmgqno1sPJK41ln3q63OX",
+   "widthPx": 3024,
+   "heightPx": 3479,
+   "authorAttributions": [
+    {
+     "displayName": "karen zarate",
+     "uri": "https://maps.google.com/maps/contrib/112114993573149913706",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSIKImyFqDkrVHd7KuWjgFduP4ALPCs9kriiwO8JAFNdeFA3M=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID3xse1ugE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3xse1ugE!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMas68sQxJWpQ1ukgSgBdUs6eCUMTeq0i0XjC0CqshIjazNLBl_Cn6KC7x3kDLrlITdr2FniKwPjdOPenjrq-IwH-kg-tZi_UTwgwfihhnz2lKUpaFshv8asa3K2lVBFfDxtBQMHyXHf1-pkmwT2C2Q06U7U-jzfpb4iY4Zg3eJGmKT993_nxMVXwLjSC1JQlgya0gUHULx5dMNZ77W4RzWTneS6xaDYEUGXvAJvx2Ge9hMTmW-0d7VHGfmBmis6GmFEZhMq1RpAE33qPy-MQuOqHskFjA9gNb5jDXpyck2XI3nbAZAY6qK3uctzS8lB0e7xW2GtB0OyMyTpZUYpDAN93P226PSIKA6B6F5Nu_T2B3OFKf2jNiqa1crtaYMQtJNADFtj-8Myo7PMJQxzHIU3vf3RcJJPZ7sMjv0G2Lc",
+   "widthPx": 4096,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "David Grunfeld",
+     "uri": "https://maps.google.com/maps/contrib/111620474366787042689",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsy4a7w689PpSxuNOCiRpG50W1FsW31AMSIWfRMAi-VNcihQFaAw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzo-DBBQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzo-DBBQ!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMYc5Lvy1pU6fFo9yayw6hYHll7A_UyTLaFnlZLvogawGrTmXUMGnSlmN5DzHiqo-KiKAhgUGG7tw4Cc4FN4THAzpNCRoc-bTRjDTmPvYgCS1tuNTNdu2nLV5EaCiKgu7BLK0gzhTMyYEwR1dSc1liN9yqwcFMwjQya6WOcHJWFgZWQoNmzcz47qq-arvmIIyfAJPcFD5D4woS_jXujLX-WPAzhM5neUFj3IJOCptXtHzhck_Ahng53hoe3bNe-7yjiPFV3_LIo1KNwHQjmLlXLOhOzhka4V1oAcPwnsmoH4c5ocPzy8gmcR96i1dEfyDs6875j4U_zDOqSs9JipBvZeE_VMfGaObBllOPiSnAxvfGazXMhqq3WyxTpHs_glWgVkZ-znsKyz7Cq50_rIQWL3jzLmdFV9w4nbuhJ0nlU",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Danna Ponce",
+     "uri": "https://maps.google.com/maps/contrib/104657215210246000346",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPOe3NvRmFXgS69kP5ozsIHR2jB-SMfXNubZIfj3D2uQhipXvr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzv7jJWg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzv7jJWg!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  },
+  {
+   "name": "places/ChIJGyVjqfvHBZERIEMJabdFIGM/photos/Aa-ngMYs-otmph92fONRTV11badnU29GvYNK78T8ugDE0okPEyztaEbirYK_oQl7I-HHiQCc73yVtUky3WZ5ij3wXHHvJ0ezIchQFCO7az9w6XbT9qJ8_atIq5K-2dxrcdsWXEwvymV1gB_9WrJq8Ig0FLrK9iXnzv_KCLHjj3imt-Md0yJSsFBt7z7bOfQ4OkdX0P02VST6QiPJScgCbYhlU4ul07g-hIuBqw3xDRwQRaL4vE6UpnfpDcNkGMrFZ2-16pcmWYhl7aZnpBrsunhcpin5sRSzdsDAESwHSxnGp9L7YHK881C1iaLeh0_vDNN4JWAck-6mPYZLQDWoSN9jFlyQA5LnLjJ8uq0jvTR0884mHrKpo6kTltHdWKzErzt93TF5wfNfhvTvj-mcZ5n7qRFbFIbsQ_A9XiRvLvZAeTZKUVBChGAYz8fvAGFwwUVt",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Grace Conco",
+     "uri": "https://maps.google.com/maps/contrib/100618943862936449618",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4u_eod6jPnEZ5x8Xirr-Y7uLguxnDd1XAzducXCVVLDu8SA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCSd5eRnVTtE_G4fXsYj4_K&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCSd5eRnVTtE_G4fXsYj4_K!2e10!4m2!3m1!1s0x9105c7fba963251b:0x632045b769094320"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

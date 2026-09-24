@@ -1,0 +1,584 @@
+{
+ "id": "ChIJM_8kDmLGBZERXsgadZAdnD8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "doctor",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "998 786 199",
+ "internationalPhoneNumber": "+51 998 786 199",
+ "formattedAddress": "Av. Los Ruiseñores 240, Santa Anita 15009",
+ "addressComponents": [
+  {
+   "longText": "240",
+   "shortText": "240",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Ruiseñores",
+   "shortText": "Av. Los Ruiseñores",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15009",
+   "shortText": "15009",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0533887,
+  "longitude": -76.96506389999999
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=4583571027033507934&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:30–19:00",
+   "martes: 7:30–19:00",
+   "miércoles: 7:30–19:00",
+   "jueves: 7:30–19:00",
+   "viernes: 7:30–19:00",
+   "sábado: 7:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T12:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 56,
+ "displayName": {
+  "text": "Clínica Veterinaria Santa Anita",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:30–19:00",
+   "martes: 7:30–19:00",
+   "miércoles: 7:30–19:00",
+   "jueves: 7:30–19:00",
+   "viernes: 7:30–19:00",
+   "sábado: 7:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T12:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Ruiseñores 240, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkdFBpY1BnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy agradecida con el Dr. Gomero por la atención que le brinda a mi engreido Máximo.  Llegó a nosotros hace 7 meses y desde entonces acude mes a mes a consulta porque es un viejito de más de 12 años que requiere mayor cuidado. El doctor siempre me orienta en lo que es mejor para Máximo y gracias a eso en casa podemos darle una mejor calidad de vida. Gracias Clínica Veterinaria Santa Anita 🤗",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy agradecida con el Dr. Gomero por la atención que le brinda a mi engreido Máximo.  Llegó a nosotros hace 7 meses y desde entonces acude mes a mes a consulta porque es un viejito de más de 12 años que requiere mayor cuidado. El doctor siempre me orienta en lo que es mejor para Máximo y gracias a eso en casa podemos darle una mejor calidad de vida. Gracias Clínica Veterinaria Santa Anita 🤗",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daily Cespedes Rivera",
+    "uri": "https://www.google.com/maps/contrib/112262619327805820475/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWGczJ-diOemYs1HI-op2xBGlJUknt7wHuBmv72NDk8GIJ9g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-02-12T18:02:51.637948Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkdFBpY1BnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkdFBpY1BnEAE!2m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnOHNpMU1REAE",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 4,
+   "text": {
+    "text": "Buena atención, muy ordenado y sobre todo limpio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención, muy ordenado y sobre todo limpio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Dania Elizabeth Garcia",
+    "uri": "https://www.google.com/maps/contrib/106565527431372928441/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFRKD3HFRno0C3dzSdgAFTd3ACu5a69E_INCw5A9ltxnaO-Wt7=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2018-03-29T07:54:24.589Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnOHNpMU1REAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnOHNpMU1REAE!2m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMHNld09BEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "NO RECOMENDABLE IR\nEl lugar es cochino y huele mal\nLa atención es mala. Fui por una emergencia y lo primero que hacen es cobrarte.\nSe nota a leguas que el veterinario está desactualizado\nTe cobra y no te da un buen diagnóstico\nSu gancho es pedirte muchos exámenes, más de 1000 soles.\nLa medicina también es cara.\nFunciona a puertas cerradas. Sospechoso.\nCuando ingresas cierran las puertas con llave. Da miedo :D\n\nNo vayan.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "NO RECOMENDABLE IR\nEl lugar es cochino y huele mal\nLa atención es mala. Fui por una emergencia y lo primero que hacen es cobrarte.\nSe nota a leguas que el veterinario está desactualizado\nTe cobra y no te da un buen diagnóstico\nSu gancho es pedirte muchos exámenes, más de 1000 soles.\nLa medicina también es cara.\nFunciona a puertas cerradas. Sospechoso.\nCuando ingresas cierran las puertas con llave. Da miedo :D\n\nNo vayan.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lolo Perez",
+    "uri": "https://www.google.com/maps/contrib/102192280478864027279/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCB7zVgFJWZBUK_YeectZvA3deeSWmGkgN_FmCKK7HegTIAQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-11-25T21:03:36.342702Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtMHNld09BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtMHNld09BEAE!2m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpbmR1TW5nRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 4,
+   "text": {
+    "text": "Me gusta la confiabilidad de las medicinas y atencion que brindan. Pero hubiera sido mejor si ya no se cobrara comision por el uso de tarjetas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me gusta la confiabilidad de las medicinas y atencion que brindan. Pero hubiera sido mejor si ya no se cobrara comision por el uso de tarjetas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Frank Elliot Vila Huapaya",
+    "uri": "https://www.google.com/maps/contrib/112691728656543852659/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFbHloG-ItgCwisx5VZopx2KkgGl2_bM4m5xlDzpZiEHwyKcdt=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2020-11-12T06:44:24.197796Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpbmR1TW5nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpbmR1TW5nRRAB!2m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNdllTLVBBEAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 1,
+   "text": {
+    "text": "Lleve a mi cachorrita solo para vacunarla y me dijeron que tenía una infección pague la consulta y me dijeron que le haga análisis de todo tipo para dar con la enfermedad, pero no tenía síntomas de nada al final en otro lugar me la vacunaron sin problemas y hasta el día de hoy goza de buena salud",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi cachorrita solo para vacunarla y me dijeron que tenía una infección pague la consulta y me dijeron que le haga análisis de todo tipo para dar con la enfermedad, pero no tenía síntomas de nada al final en otro lugar me la vacunaron sin problemas y hasta el día de hoy goza de buena salud",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Clau Clyssh",
+    "uri": "https://www.google.com/maps/contrib/106792351666733159953/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdwei93VRoNSnRBzSyZtMGRMUA2vNkEAlNkVJPqj9iXOk5oA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2019-12-02T01:53:13.287364Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNNdllTLVBBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNNdllTLVBBEAE!2m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMaxcv7K3MqujcWFZX1DwNcpJr1KuhG6RsRfPuyplhCucsTN4MGsvST_RQJ8blCL4wDKn23A0R_wDr1IlvmaqXrYdGbw-EAzdtcFDV8CT4Q14WLAdplsYYUj9Sh48h_sxok9ZqHTyKRkWv9xvt0elavvq_TlVPzbDHStf5EzWwVb1qZFVheR7jcEH-OlHErRv27JX_hMk1I682TIa9nUvxtxPhYcT1m-2IRKYs9vmYNOLQfrlx9kwjMWZPBmw1bKxYkJRq3fdpx1jMNJ5ozXaMazUTMUHBtRODKhfw2nNLo69NC98v7BvUD2kcI6_n16tNkZC9K4g3NBoztre8ruFTjQ0zEtrmqD7X9wT0g2abvan-5gxMJtZc3MfDuXc9oi9jz6KLRzeKV8MIoAm5uzsc7CZ_MAUUZl21OpQ4gm8KZ_lBFQ",
+   "widthPx": 1080,
+   "heightPx": 1435,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Santa Anita",
+     "uri": "https://maps.google.com/maps/contrib/117849051656125285468",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzxq8B4SaGTqMbfzObF9WfmCFz5er_LxNZe5tiNrhfoI3b1J5x=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdnITtiAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdnITtiAE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMann47p72UzZVv0Pv7KV5eLAHySuR6-HXc4ZMP5QSOYOdBWuykCE1Hlgw0j0siAO9ohiQd6wGPfebyUvyEvcwWYoPDfYnmMCdHX8u-F8Jhhsy2f_bTF5nEyGA5d69QtnpmXv4Z7-f3dyhMo6S-IvsMmKfssbQCLmD7wX4RpnVhs0UcqdvWmpte8RMFnmOtn-A9Egvba9_yIzv3DzMQ2eae3CVt5KyFiwMKm0jjMlqykKpIf1Oqk0lEdKr4HGtoWbRJzge7qBe48O6IyXugTeTTzM83t-0iAa8CiV0jdKD97Y_avvVMNNDn9vDyJu6_uJ09j0yLfERcI_XaWQp5xogv0BNBk_K_4m1P7b0VSpYCRqEmGv_4pVLLeU_zqpwFcjK--WM-2HrFRWJFWnJjv7jxcnHVLUChnQ-hp3XRN9ETIpnVy",
+   "widthPx": 4080,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Santa Anita",
+     "uri": "https://maps.google.com/maps/contrib/117849051656125285468",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzxq8B4SaGTqMbfzObF9WfmCFz5er_LxNZe5tiNrhfoI3b1J5x=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICXupP18gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICXupP18gE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMYRfmRuTu-FjnNJ2us9tx7WZP0dfrOnsmoUmVyCqRqaaWtEDI4AC7BJaAvDsAd0gDQ_Ewv-Mgbtth1u1E1a4y_6GadLhHbQ6kjyNSZj-w9IqNuXQ0udRWQi127OGaPf27thyB1lIuhh6uWCwPRAmaSsglH_tSWi_ElOrs34xAFyetK6Yi8874Ma3ZyyhOUxYoy56jmPkkr9XoUQvtpNr4Eyi4PrYu25eantELXRam44A1Wn1xQUBqg5-AVMZ_xmJ-GWJy_Uycb82n9_9v_KJFnDK7oRKfBADdEvcy5WCdpcnRnViU3KWOyuQkfHrkwRw75Hw2NkfINcZRUEcY1IZ19eJnl1zMox4z9PD4CVxNw5qnFyXMxEW6fORLMG8oyAmWSw6V9UR-Jda0FaPsUsG2_1wfAR3LpCiR0OTZZp_33rEQ",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Daily Cespedes Rivera",
+     "uri": "https://maps.google.com/maps/contrib/112262619327805820475",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWGczJ-diOemYs1HI-op2xBGlJUknt7wHuBmv72NDk8GIJ9g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdtPicAQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdtPicAQ!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMbDJZYhBM82NEyqUSbTVVDHKKmVI2z0DhGPXbVn04Qwi334RNB0X2mr4fIjnSVvUuFRp8ccbOlK6vQgFmvARnPd_xY04C9OOuDGCPjdzz5t73tSnYoVhYVvjfb2uVFM24jzMV5Sb48bwM82HovayhkdCXNA7I4Fg7KrQrreD7aIN6gyGCbe_xpYJRQcYzYF0PZ_lOoumidsMuMOIXMOFmdXlFOhPv2LzzB0_5_iQeeagUERAgaU09r-RsRNE3fzwmFp3cBhOgIktaPMqr4VVjCt1X8QGAcH-pNGxc1loX3H80lzJKhDl3hLNjNjz4oPWdsV9X2ceg4y7rzPuxPDvAVDQTMBLPQNBi2ai0_Xra3R0c_rqVOzRVMly1cq829UIrfj9zT5B46dX3KRvsNLZB2WaTmEU7HTKttTKzXS5_dULw",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Santa Anita",
+     "uri": "https://maps.google.com/maps/contrib/117849051656125285468",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzxq8B4SaGTqMbfzObF9WfmCFz5er_LxNZe5tiNrhfoI3b1J5x=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdnMTGOA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdnMTGOA!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMZ8JvFLC1K5KuqKcqQclIK3xhSrA79djlAY2qd_vmDtuzQqDI7p1-Hj0T7zKfk9oCYXk6q6cC37SqI9GBXRUaARHbKR-_-hzhK9xpSiMhyx0-LGPIbFAnqABrPz36P2LCRFOGi1WxhB1Ki8dbJdWlHeQHQZAEaTXzAFNeQPRjd84M0SfahrxHVW8Ri5zXNA1mxcglH56-kQuUp4YQZlQp6LwQnkPXMbuGSMtHM5SvAEmmClvx-7a8KX2PtqjQVFRJXY2rIhOuIpGSWp-4eQbxIaGfOfsB9w4yW9svP6leYB10xwUQOu-A_xDb0cn2-03g0C9YLhYFHlGNuu2oA1iOxUM6Vg1xu3kCs3-dpwTQr7U6YahzGrn3hVlAIWArFsAvH2Ykj13cIcD_XNVUrloUNHwhex6abBsto_nRYiRDkIf3R9",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Dania Elizabeth Garcia",
+     "uri": "https://maps.google.com/maps/contrib/106565527431372928441",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFRKD3HFRno0C3dzSdgAFTd3ACu5a69E_INCw5A9ltxnaO-Wt7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4t-zmqwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4t-zmqwE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMb0CmZzCNd22nYVp-PvF6bVDe6tyljHFe27dz2LZNzM7ROGy2dGeim-ACYVd-in7FfVY-_dnf2OfuCY1D2CwIrMRt0KmfExroO7UvVtoKaAefQ7_AC5G43L19DbU697yNPlWb9-Yhn662ATnwB7JE5L2ejqSSmUa_YpBmgg0X6gV3jw-X2K6NYereUXbUN42naUWdR25CoSoXh2DoSb77bv2BhH7WF-oKm4DMnDXnZICH2FcNNZi3woLM0XkfkROhDRHKYAggfAJ4iZsRknPVZlq8vE7riXqGsNiL7N2BPB8mldJ0UpduKF-Q83XybO91n1ZnwCyqJQagvybpFv8zGaOUqBfzZongHNYp1lbZ530TBz3e-vNg2chn-hGT_yFwPsNKvWWeKyIRj_jVjuAx_zmKgaQo8W915JWA2JCAfW69c",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carmen Salazar",
+     "uri": "https://maps.google.com/maps/contrib/102708923065041474928",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3_VFQp-zVJ2zKk0oxaLFoiAf7HMMM8yqSt2CTwLFEvawGibjOQQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDElsXL4QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDElsXL4QE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMZYIKvNXy9b6Q7L9pB-_tGArZx9F8MRP4oYzpiI3LNVOvAdT62pGGfNXnvM6ajTIkjo0sdn8y3j26hXywXU4l8AJw3L8GL6IHEo7gLE7c4Tk1yyzWCBjMiAD8ykMeWT8esuk-OAQI3uyJIeUeC-9RMaJCdaT8lFHrnyyiXrbMm-BQrdAMIBULjDlqRbCllgX6cwFaUq6xW12WABC4Ra8LayT2Uim0bvgd3p-tf_ZmOkmYLLtkYUoPRyM7IR9J8xX6ZI4YzFIAVw8L9ZR9h9olf50IyzrtUHlRWnwy-1A-Dxnbjvt-AxWIyo4NjWF5ZqQVHEiI1EDWALuvszQsjsrYqzov7bBr8md_EgHs6PDdc3AgbKFreaUQ9x2vJe87mqwzlsCg_50DTX74t5LmN3C5lYX1QNhPrmzgGrq2VrNIgGtw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carmen Salazar",
+     "uri": "https://maps.google.com/maps/contrib/102708923065041474928",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3_VFQp-zVJ2zKk0oxaLFoiAf7HMMM8yqSt2CTwLFEvawGibjOQQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDElsXLQQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDElsXLQQ!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMZEULbFTeVBrzyyui2aKlI5hNtnS0_6kJCCXMeqK-t9jFGzphiiIlZlZZeu47oGYh_KB3NNHXrxy0k7zhBm7CgEkpyAZiuW1ysuhndoAbvydvMcUMxl6lyuumZf2ZZ0a0p0O2ADFs7dKxylIuNuOYtUKYujszkol5HeLV2d4ujQjMDbRRP1du1HGL8-mX3LmR7GHGX2WupeHs9eX7IFxqxyghJGVnPdBkqT4qGIe22HOhRXQGDB6cjTRj-Pm02U1nm5_4SSCXAkQ3fipqfkHc3i_t85Df02M5EqegKO9LLmFmp4oitO7RPqQa8SrkgTrt-ub-FdhfADiTviFiJ8XKsgtMYWrP6dO-GZtxAK-85lRdwpIzFLaAlZiSmt6WKDLuqnBTIIhYMkFT-oJre6gbA7QrTpu1Ts2DLWKT-SsgyjuaU",
+   "widthPx": 770,
+   "heightPx": 433,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Santa Anita",
+     "uri": "https://maps.google.com/maps/contrib/117849051656125285468",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzxq8B4SaGTqMbfzObF9WfmCFz5er_LxNZe5tiNrhfoI3b1J5x=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8vvaphQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8vvaphQE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMaS0-xaAPOclc5JbVgRE18DnWV10I8I1DA5JxSXXHFFH9jC6qiW11gkp2PKPfDpWbsY6wKnCwiUYR2oM7vo3rKKp27-_QlqsFG0pAJw9hk775VfMaeELMEPt_0NbIYpTIlXbVguLUXkLthnrHd7eBbSYRKjTFaprOrpB0tIDBDI3JS28CCCVP_zXzAlsDanFcMnnNwmWAzt2UaklMvX_GNozySR6FZmBFqepAFvGKynyEyXukyLDt5KNDNJWROV9AHCxSD4WJ10rYLxLPbfMqyATVBKmN3BpgtNK8xfbJQptZJRq--Q6OZBwLu_8ST4xU4zPhkVMxxGUH7TrWH0Kzia_4YDSyqj0LpikuPujRMz6Re5dPagMx3-86gLZ9-SrXXyyFmkqTfLSLh0TiwMDqVrfjWmUn1IYbpUFfspuxBbjHQx",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Daily Cespedes Rivera",
+     "uri": "https://maps.google.com/maps/contrib/112262619327805820475",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWGczJ-diOemYs1HI-op2xBGlJUknt7wHuBmv72NDk8GIJ9g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdtPic_gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdtPic_gE!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  },
+  {
+   "name": "places/ChIJM_8kDmLGBZERXsgadZAdnD8/photos/Aa-ngMZCELRSonSjTZfcVAUDT-IX23ojOSIv1zsV4vZVypkUioQeCCD74VyD4e8tBYvX4HC9KqCjaL9CbFtI7IAYZ5ck7k3xPwjl0HEGVQEF3tAqskPMP28SmlzuCprCJ3OlQSK8rLBWGDS-nnoksF6hlWI_qs02OftXDeh_ZE5JfirrpirnFAmhIP7nHrICNuFtb5oTFF6yS8kYF-XjqfMPghLQloZKikkmU9kgrWiX9ONm20hj90fJrDLByoTbm0KuDaAo__KUirADgJCFBcJJRpOhsnHIvg2qKXz-1MmVKsbpgH1mxeAE_tIMbRKXBgE-ec1wDeD_UX6TLvA5vh9h3bGPnP8viYpHmNGnUJmE695EHKrTRZDDd6gSX4H4iyOtpGAbgteqjwPJbWyzaUge-jsKdrgOcvqEHaHvY-fu4oNzkA",
+   "widthPx": 1204,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Santa Anita",
+     "uri": "https://maps.google.com/maps/contrib/117849051656125285468",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzxq8B4SaGTqMbfzObF9WfmCFz5er_LxNZe5tiNrhfoI3b1J5x=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh_pXBLQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh_pXBLQ!2e10!4m2!3m1!1s0x9105c6620e24ff33:0x3f9c1d90751ac85e"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": false,
+  "paidGarageParking": false
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleSeating": true
+ }
+}

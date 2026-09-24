@@ -1,0 +1,583 @@
+{
+ "id": "ChIJm4CdXwW5BZER5-Nm1722Nqw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "929 692 563",
+ "internationalPhoneNumber": "+51 929 692 563",
+ "formattedAddress": "Av. Caminos del Inca 3217, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "3217",
+   "shortText": "3217",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Caminos del Inca",
+   "shortText": "Av. Caminos del Inca",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Prolongacion Benavides 3 Etapa",
+   "shortText": "Prolongacion Benavides 3 Etapa",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.143708199999999,
+  "longitude": -76.9851363
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=12409306749744899047&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 59,
+ "displayName": {
+  "text": "PlazaVet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Caminos del Inca 3217, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxX1pDd09BEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Es la segunda vez que va mi Goliat para en servicio de baño y corte y lo tratan con mucho cariño y paciencia. Mi perrito al ser cachorro y su primera experiencia en baño en veterinaria estaba súper nervioso pero todo el equipo le puso mucha paciencia y dedicación a su corte, demoraron un poco pero entiendo es porque mi pequeño se mueve y se dificulta en hacerle el baño y corte.\nSe ha vuelto el punto fijo para mi perrito por la dedicación que le ponen.\nEspero continúen asi 😊👍🏻",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es la segunda vez que va mi Goliat para en servicio de baño y corte y lo tratan con mucho cariño y paciencia. Mi perrito al ser cachorro y su primera experiencia en baño en veterinaria estaba súper nervioso pero todo el equipo le puso mucha paciencia y dedicación a su corte, demoraron un poco pero entiendo es porque mi pequeño se mueve y se dificulta en hacerle el baño y corte.\nSe ha vuelto el punto fijo para mi perrito por la dedicación que le ponen.\nEspero continúen asi 😊👍🏻",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeria Alessandra Lazo Loncharich",
+    "uri": "https://www.google.com/maps/contrib/113271902991078217261/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjLrXlNL1_tcQbsHPnhr_emjikuLVpUHd4gA5-_Xl_fniw3js=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-01-09T15:09:39.153417Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxX1pDd09BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxX1pDd09BEAE!2m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeVFsRmZaazExYW5FMlpVSlpNekJ1TW1nd1FsRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy amables y empáticos con mi perrito",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy amables y empáticos con mi perrito",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Estefanía Lezameta Mino",
+    "uri": "https://www.google.com/maps/contrib/106450925495131177941/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZkAate2MXpKp2ilQvCyrYMkzg6hpkOMBTvhVMhzik3xkGFz_ClA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-03-19T00:52:42.503510518Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jeVFsRmZaazExYW5FMlpVSlpNekJ1TW1nd1FsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeVFsRmZaazExYW5FMlpVSlpNekJ1TW1nd1FsRRAB!2m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1bHEtTkxnEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Mi hijo sufrió un accidente con uno de los perros que salían de la veterinaria. El dueño cuando tomó conocimiento del hecho y se puso en contacto conmigo actuó de manera muy empática, acertada y comprensiva. Yo le agradezco mucho su atención y preocupación con mi hijito, mucho que decir de la mala dueña pero la veterinaria actuó a la altura de una empresa con una cultura centrada en sus clientes. Los accidentes son inevitables, siempre pueden pasar, lo importante es cómo actuamos ante un evento de ese tipo desde cada uno de nuestros frentes y Gerardo, es un ejemplo para su empresa. Muy contenta de a pesar del hecho que sufrió mi pequeño, haya servido para mejorar protocolos internos y evidenciar que esta veterinaria sí se preocupa por sus clientes y la sociedad en general.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi hijo sufrió un accidente con uno de los perros que salían de la veterinaria. El dueño cuando tomó conocimiento del hecho y se puso en contacto conmigo actuó de manera muy empática, acertada y comprensiva. Yo le agradezco mucho su atención y preocupación con mi hijito, mucho que decir de la mala dueña pero la veterinaria actuó a la altura de una empresa con una cultura centrada en sus clientes. Los accidentes son inevitables, siempre pueden pasar, lo importante es cómo actuamos ante un evento de ese tipo desde cada uno de nuestros frentes y Gerardo, es un ejemplo para su empresa. Muy contenta de a pesar del hecho que sufrió mi pequeño, haya servido para mejorar protocolos internos y evidenciar que esta veterinaria sí se preocupa por sus clientes y la sociedad en general.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Arroba",
+    "uri": "https://www.google.com/maps/contrib/106872448295163112329/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAZgwn3Kn0Dr1Vgj3dKPHa5FBObIgJm_sLIBjt6uflgKte0vs4IQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-07-27T16:59:14.946208Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1bHEtTkxnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1bHEtTkxnEAE!2m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/reviews/ChZDSUhNMG9nS0VJQ0FnSURHX3F1Wlh3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Súper buenos con maya al inicio ella sufría para irse porque es muy nerviosa y engreída pero como los ve cada 2 semanas (gracias por hacerme acordar porque me olvido) ya maya está súper más confiada ya se va nomás y viene súper feliz y relajadita de su baño",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper buenos con maya al inicio ella sufría para irse porque es muy nerviosa y engreída pero como los ve cada 2 semanas (gracias por hacerme acordar porque me olvido) ya maya está súper más confiada ya se va nomás y viene súper feliz y relajadita de su baño",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "mafer galindo",
+    "uri": "https://www.google.com/maps/contrib/109789135957834908212/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrlkR59FErIMilhJMa-y-yYm4JMDBQND3J0fT4iPGdv5-s70b_Kg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-11-29T21:30:29.718166Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHX3F1Wlh3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHX3F1Wlh3EAE!2m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/reviews/ChZDSUhNMG9nS0VJQ0FnSURHb2YtS2N3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Puntuales a la hora de recoger y regresar a mi mascota, buen servicio de corte y baño. Trato amable del personal. Todo muy bien",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Puntuales a la hora de recoger y regresar a mi mascota, buen servicio de corte y baño. Trato amable del personal. Todo muy bien",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Shawdian alfanose",
+    "uri": "https://www.google.com/maps/contrib/111853658784099309754/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIeZz4gcTEH5QpB_3uFHlu7qxbyFDnRoF2eemT9zsS3QjiFGw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-11-30T15:20:57.994622Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHb2YtS2N3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHb2YtS2N3EAE!2m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMasP6LUKKvt5v-N6K7zcYUgwPNPcT5HHPPQcJbzPayqnrEn-X1hPI26B6MPEtUClDSD7eFtSwq6QAMHMu_LDfbggk4S71KDuCSKcfbgVOw9w1m7f5eTYdcFtxyyC9bO3crjinR9DGozIqJVVxxNbWLxkWnSqTm-3jGX7-Ram0NW2oAVKCKLjap6AcAJoOydw7ldRwNdIuHwjxoMGTASwKnInF7vQLfT_SVKLN29ei8VSI43Z9qWnHfWU8YkAC5G2KGQsAzIA5GiKt40_jOYVYEDgimpT27PCgoCos5gC87_jmx7hSH1orx903evhjg8x_v2v94QN2q_T7hOh9rAXOdTwMc7hlPxEgEoVxvgknQBbzU7IXthITLPTA9JRPzTX5vxRFTLDf6G6SyhffssrzLpWfM",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGy4eeAw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGy4eeAw!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMY6t7Q-IX4cBbxRlCTtyn-SHHj2IM4uuKEhVJ1e8qnlraGHLspF8qfoq_obSkjEZrj68HtDouUK8wPoKqMzkRSXZASrYZ76REwQmN246ft62HlxVhSl2sGCUvyZtVEgShcDS6VHfteUKcu4ae9tkYpHXBijl52eHjjYbLgWMawP3xMTUNTXhwCemkfv_zJMmnIgVE0iyh1EpT4py6A5obIdW7616iDurhFztkSdxuAfaWUIndIXS8Hy11bI_-T7lEixf3CaOKMJ7Genu1THYv2H_qCkurutfD2F8dJL3i31RNEPOfIrHA8eiAKI3TVXnMnIFDcKwRQ63Tw2GFrlfgUaG3jSdHrta96YKLcfFQ_pA_UU3bz4zFyXGWsGbwUEb4JJ8dTkBf28i4lQIHZUBgBjNho",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGoNC6dA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGoNC6dA!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMZpV_lLXiWibRgzAGTeqT-r7VuU65JRxK5W2lnyNVXkqawIQVkixggIIxX3x1I6B0g-KHknAoqwuplKD3oL5BlVbixGxQY6MErNyI1jqA_UKdud7LU0x3aggvJv18wV77V21m7KZ4Xc0cOjJh42sKIgS4ezyo7vAL8VLtYggWVdP5oY8qFtI1_ekEHAa3G3cuFCn6MGSipXbt3u5wx3GAuPsiNe66GY572YTX_vjTz3H4o--lzwWoE_bf8l_G6h6452W76IvaQlQQ28DS8AmX_UeHyTHseIcCcyvXyOyNM3RGMTeV3bl2CozKGNu1xVY3ROKivF2EGQO2pJbBs7SJsjgN0RqN8w1ux7MHcqI-eoSCZImyh4W3OUH86vqA3aan-jXA5z5LKR5E8SO2c",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmrqgJ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmrqgJ!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMZEhpb-HTeqzfls_8YT_CFWeKs-y_XnFOqA_1ng3sUywbSJw_do3-gYKGZiyRPFtFV3fhbMrPSxpy5khIzNEG9t38wCW3AuruNp4S9_Xox9-iZ7kIWMFv63ntsKz0K8fJHo0ap-ARwZ9CHf5zFEkN_EHS8Vo59_0aZVDGZP2oHX7jO5PAFsEAiKrJC5A63JTlqZu-9KKwapiVNWegZ5p5wkProK5LVgZBjwkeJ2P31OiYjb2v2RvRyP1wnzHEBRbDwtbRJZwtZCzlclQpXxglnNDyux0A-hCrP-aO7QG_E1cISxIIM994YNpWcnDrsQus6uHfkLI9BwVfUtIVd9oLVcAxlk-0246fhb4Auf8lusZKavwzP-KYYrfkHN6OvDKbUZAm6UNsTeRMR0_WYhTJVlOf5kcxM",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGvaaY_gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGvaaY_gE!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMbXwhgKYuJUrjysYW9ne7llZhKxDhTVxx3iwlnlvT_17FKix-2VrvjXiAuf053kQ4Jwunq2BcqCWkTfV5U4Vs_DwuC7v5J5Mpq4R1ezDlSMiwIXSPeiCWLU4ixcC8A83ieeJqIXRb4Xnz80IxmT8TCxMp8ywwkhz6ePGo75dNDC1KZwbudzERbM1XSvshcRBsP0CUyeteNQ4afg7vg2LqoP9DbWbbfma2IICsxkzGkkCzXl-ptlUxzvVkI-ootEnJpp4cCuB1BLg_vDg83amHIKHYYxG-ClXl-vXZLMK4S0t5lt-j8l8FvEAqk0Je8-2cYy-G2qt4zhKprZFfo-zxDoxmvMEdkTzq4BdhKTLNLOkoNbBTVNq4_bKz50E8HcwqEIdZmQ4HA-9T-Q-xPBNVwZCw",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGwKW5NQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGwKW5NQ!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMbbH9D8gWKWuAAwzaNgdGoQgMjR3dVgUun7V6NgJ0sZkQR7fWZfPcMqJUot0ij81Ok7N1aB_KfIapuT6Yvl1PAmc5TVsxC4ciNSmGGGn9fSIRZEHQsiwdHT315AQvmVBmbYv3J4bccBRDf-qk5n7ryz9LSBPj7NGMeQupVS_-fA0PTAZj4C_FWvKR3DXrdhV4USHFUFjTK4jgzEWzK_0-T0IcEt5KLqSLK_7VpZiv93CMIZ5-YVVfcel78TCjwH7jJPF_rcJthBlP1QQv_nHzsbgryj4f5d-cxHCzksT7Ojt723aqV4XwrNmwUPX3DIz7aUXaS0rWeaTaNET26kSq-qu4YkWkhOoPgi-FTUKXAR0b99tBcJGDGGOE4-Gu0xK5zqhmFxw0TMYOKYkUyPVmzSDuCdmJo",
+   "widthPx": 1280,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm_cbkuQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm_cbkuQE!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMbrl0kGu5wtWkA_SVmyWiA-fYwCK4EZIpmVr67C9qh-O7zYmfGEgoF-XUmCpmoiKGP2qEg8rfvtIPpKLZmk6DNclVVwETqcnjKD_owNvOzS3CRR7IsJ-Ahu4MueIlwG6JDRh7DyszyxQufzmMBlK6LwVWoWJ0C776RYjtVNvkG34O-yuQtHMX8iRk_-etsbJ4h2Ivpw004VqAhpTHxYH62LJpeGwaP0AjAHd9YR2aDWLirhkLcsq0yuZBdPnj_mPId9WTnI6SL0s_kbJXo9BzK6rHv2cxP-6EOeXhB1t0ap02haDcJYpAicpum7S360j1dQGFM0IiFCVUkFkOnKBMDodZeQ-MxLzHI_M06tSleUI7OEhJ37jxTqSweBKnDaCgRqGWKyB-z0Vwu99r53ZBeysCo",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGnsHtSg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGnsHtSg!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMZckGl47U7KJ0DCHXzb1rqABlLyE33-oI9b0hclQOBHOlyymlq8RMlCRNH34PC3PY3tTDDCsZmuPS6tEUB6izJGR9ItMMoTGhbvoDQRZX0uJoFar_ZYg-RgiXgPk_OMihQNA5idKHHcUxTd6PfO3Mkf8oBUrU2diA-HY9VnmrwWvD7AmJF7M2B9ZgVVdnj4b41JBUF6B1aUx1u6IyvF6mvhLLUkBVA_TZQ0NMlRf6SaUF84VaG23TQzsTjF7bdd8_qsu6Yj9Xr-aSC_4j5CQ0y1AsyBRXy5i93cguN9SgscJlO1q6vz45msHD0mbQ3iXExMPIUuJt3Xw58YNBCvQhBR8W8KE53Fv5zO8F1cEs1D2LBsOe8HYnZfR4f-EaDC-Xf_Q3bIm_AKqEmZW6i7-PKPj10",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGwKWSZg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGwKWSZg!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMYLKxmJ5Ht0tZhkmqgH9oKdyYqTVWIKmWTIvEwA6zluyPPnWAGOoB2UcDYx07Vd6d0U1jJqryBdC_AsniJEZlUVC0usKcOl1pNac7-dE2EM8-IbNF9tbSxW5kj9bABplsIZ3hUb7pFN_iy7PPCPrrDwWicFOTps9lj93w-BpHw3X3AtRUHVJ9rBv6x7A8ayAul2j7Da6OvgoJZTU5oi033I9i0ZCcH9lOCoYtaBlf8DjfoIPEN_X1H8CL1IE5e11LBCYHMwZVSFitrp5Zx6PboC8-LTF_sJiieuhj8XwarLElfmiSBPbcosBW8SaBg0tAfCl5eLKrTdDILfJTHcRUKoyBGQWOJlOssAlguIHUTzNTy9zr65JKfs1a9N2f5sEoL2diWB9GpCxAJg6kx78Ff58Fvt48E",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm_YbvtwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm_YbvtwE!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  },
+  {
+   "name": "places/ChIJm4CdXwW5BZER5-Nm1722Nqw/photos/Aa-ngMbj8GulbINfk_DTrz3XVM8iJXIECl7aYFCZaczDUQV6KgeG5mbZeoOTGXtAdz-MkaEoQkkWB7ME2je5s1e8KN6lnYPtRU6YVoLvS6A9I46LuZFMZIOF2LvknmcxC6CEl6FWSwgo7wh81JUNz5mJXMBxdxfdKRgZ21TVJcAhFpOojNDL_4jB22h5hcfyJ-JSDVvLRZLNMsDo-PYCNpTgEMlNoxyiInyG8yf6_OeEzH8kGQfqYbzeaObStoBH04LMvm2pNIC2lhydlE5VcbvSBgQqiC3TxBqx51ATt6VZqG197XtLsfAlHc3QgktNmqfhpT1AWgHAS3w5qbLtgNyvWdjgKbqd5ov0Herd7I_9sKhGH7bbxU0upAex825G_kWgTbSvfxC-kzA5BRxDaMGBAuhLle4",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "PlazaVet",
+     "uri": "https://maps.google.com/maps/contrib/105519871978905625017",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsEV1By3ZBO1lzJV3EcFysjc3onncWAJ8BhbIaQGosXDezNewM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGpKO-SA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGpKO-SA!2e10!4m2!3m1!1s0x9105b9055f9d809b:0xac36b6bdd766e3e7"
+  }
+ ]
+}

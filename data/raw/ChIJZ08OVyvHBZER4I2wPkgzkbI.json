@@ -1,0 +1,580 @@
+{
+ "id": "ChIJZ08OVyvHBZER4I2wPkgzkbI",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "962 877 104",
+ "internationalPhoneNumber": "+51 962 877 104",
+ "formattedAddress": "Av. Angamos Este 2401, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "2401",
+   "shortText": "2401",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Angamos Este",
+   "shortText": "Av. Angamos Este",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1118112,
+  "longitude": -77.0059026
+ },
+ "rating": 2.7,
+ "googleMapsUri": "https://maps.google.com/?cid=12867121995756637664&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 16,
+ "displayName": {
+  "text": "Convet - San Borja",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Angamos Este 2401, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNlNEZDVSRmx1WVZSQ2VucFNkUzFDZG5sdVJGRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Todo mal. Dicen que abren a las 9am y me toco esperar 50min aque la señorita llegará. Y no es la primera vez",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Todo mal. Dicen que abren a las 9am y me toco esperar 50min aque la señorita llegará. Y no es la primera vez",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eugenio Medina",
+    "uri": "https://www.google.com/maps/contrib/112276616649739743250/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUmvxfEoQlPR3ESi8nu1QL8SdH5CnDfgIQiAIIzjwd0lLIKSOQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-25T14:59:47.333378634Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSNlNEZDVSRmx1WVZSQ2VucFNkUzFDZG5sdVJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSNlNEZDVSRmx1WVZSQ2VucFNkUzFDZG5sdVJGRRAB!2m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wRFQyaDBTVVJNTVd0TlZUaG1PSFpTVW1aa1VWRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio, fui dentro del horario y estaba cerrado, llamé al número indicado y te cuelgan las llamadas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio, fui dentro del horario y estaba cerrado, llamé al número indicado y te cuelgan las llamadas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Anabella Neyra",
+    "uri": "https://www.google.com/maps/contrib/109780901034111869691/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWawzlWZWyUmjxwMuaNy33jW8X-XTvgr11pUWb3fcEPlWKN78mDFg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-14T18:15:14.191628261Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wRFQyaDBTVVJNTVd0TlZUaG1PSFpTVW1aa1VWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wRFQyaDBTVVJNTVd0TlZUaG1PSFpTVW1aa1VWRRAB!2m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OMWJ6SnFkRTFJVDBGcFQxcGFjamROYlhWYU5HYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "La ubicacion es adecuada, el personal debe ser mas atento para el cliente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La ubicacion es adecuada, el personal debe ser mas atento para el cliente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Benjamin Boza",
+    "uri": "https://www.google.com/maps/contrib/102725581223065888713/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfjF40_xGYlqS_Bb_1VgX6wnskXGEF5t11qN0wdd7xyvAnBg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-10-15T01:13:46.249043663Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OMWJ6SnFkRTFJVDBGcFQxcGFjamROYlhWYU5HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OMWJ6SnFkRTFJVDBGcFQxcGFjamROYlhWYU5HYxAB!2m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UFZ6UTVjMFJ6UVhGa2VXTmpkR1V6TW1OSVNtYxAB",
+   "relativePublishTimeDescription": "Hace 12 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio, la persona que atiende lo h e de mal gusto , y depaso no le importa nada , no vallan a esa farmacia de Susan Borja pésimo servicio y la gerente que vea a quien contrata, es horrible te hace perder el tiempo.\nNo vallan esa farmacia\nPESIMO SERVICIO",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio, la persona que atiende lo h e de mal gusto , y depaso no le importa nada , no vallan a esa farmacia de Susan Borja pésimo servicio y la gerente que vea a quien contrata, es horrible te hace perder el tiempo.\nNo vallan esa farmacia\nPESIMO SERVICIO",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Héctor Fernández Fernández",
+    "uri": "https://www.google.com/maps/contrib/113186098973389427765/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIJQTVXUVM9atCzSr90GhZnaGByVlXeSV65kXPcF-OV7j4xjqJ5w=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-09-24T16:15:10.538887622Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1UFZ6UTVjMFJ6UVhGa2VXTmpkR1V6TW1OSVNtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UFZ6UTVjMFJ6UVhGa2VXTmpkR1V6TW1OSVNtYxAB!2m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBcHRuVF9nRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "HOY LLAMÉ A ESTA SEDE PARA CONSULTAR SOBRE LA DISPONIBILIDAD DE UN PRODUCTO Y PARA EMPEZAR NO SABEN NI RESPONDER UNA LLAMADA Y ME DIJO DE MANERA TAJANTE QUE NO TENÍA, NO CONTENTO CON ESO ME FUI A LA TIENDA PRESENCIALMENTE Y ME DOY CON LA SORPRESA QUE SI TENÍA EL PRODUCTO EL CUAL LO NECESITABA CON URGENCIA. EL TRATO DE LA SEÑORITA ES PÉSIMO, NI SIQUIERA SALUDA AL INGRESAR, NO TIENE MANERA DE HABLAR, ME SEGUÍA DICIENDO QUE NO TENÍA EL PRODUCTO CUANDO CLARAMENTE YO LO ESTABA VIENDO Y LUEGO ME DICE QUE NO ME LO PUEDE VENDER CUANDO ANTES DE MI VENDIÓ UN PRODUCTO A OTRO SEÑOR. ES LAMENTABLE EL TRATO QUE TIENE ESTA SEDE, UNO VA PORQUE CONFÍA EN ENCONTRAR LOS MEDICAMENTOS PARA NUESTRAS MASCOTAS, ESPERO NO VOLVERLA A ENCONTRAR O PROCEDERÉ A FIRMAR EL LIBRO DE RECLAMACIONES.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "HOY LLAMÉ A ESTA SEDE PARA CONSULTAR SOBRE LA DISPONIBILIDAD DE UN PRODUCTO Y PARA EMPEZAR NO SABEN NI RESPONDER UNA LLAMADA Y ME DIJO DE MANERA TAJANTE QUE NO TENÍA, NO CONTENTO CON ESO ME FUI A LA TIENDA PRESENCIALMENTE Y ME DOY CON LA SORPRESA QUE SI TENÍA EL PRODUCTO EL CUAL LO NECESITABA CON URGENCIA. EL TRATO DE LA SEÑORITA ES PÉSIMO, NI SIQUIERA SALUDA AL INGRESAR, NO TIENE MANERA DE HABLAR, ME SEGUÍA DICIENDO QUE NO TENÍA EL PRODUCTO CUANDO CLARAMENTE YO LO ESTABA VIENDO Y LUEGO ME DICE QUE NO ME LO PUEDE VENDER CUANDO ANTES DE MI VENDIÓ UN PRODUCTO A OTRO SEÑOR. ES LAMENTABLE EL TRATO QUE TIENE ESTA SEDE, UNO VA PORQUE CONFÍA EN ENCONTRAR LOS MEDICAMENTOS PARA NUESTRAS MASCOTAS, ESPERO NO VOLVERLA A ENCONTRAR O PROCEDERÉ A FIRMAR EL LIBRO DE RECLAMACIONES.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marcello Acosta Barreda",
+    "uri": "https://www.google.com/maps/contrib/102549292489339892535/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6U89sJipCznRMQY30UJJC2sFMJnhhAaF5hkI7ovyq3Oiaeh-1=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-08T15:59:12.017813Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBcHRuVF9nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBcHRuVF9nRRAB!2m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMb2h-NYX1iKj7TK7Zy03wreGc8Ey2dRSUzOxxWAEItEZBaRImomfRL3m0q_fdW0bf6sIJFjnoTBOV9hrI7NBZoMYVz02gLy0HLR1AvyDs_IB7GUsSnF5pI-xvGjxKxU5yy3BjR-v3X2wDNQdnF_kKVFq8eQYGYbwvuYvYPco3XFw_ewhRfPl-TCdEKFn_7gNkLoSb6iUKts0z4OuGQqhuyIbVHE3LXZht61gWddirNhYaYvyHQiXmaki74Bflp1i4y4E1Kjita2IUZh0UgbZTC04D4xXBMRn8z45jiLW48qh9-KaN0KfM52k7Y0jD8pGPoTdewqsCAX6TTiXyjnjdr9gt1R94uz1cqg1oUIeh_h5QpKz8kVJm9T7ORwG-wzlMOZrBEB51CwpUnxS6IPO9bIl_9b9CNCrvLY3QyO-NuC_7u0qImy_nxPCBcCJ700",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDL_1zi-EC5OnntWll-Qo2l&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDL_1zi-EC5OnntWll-Qo2l!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMZTJWmN9vdeZPOod_U5WWluy0yXWB1166JAlwMhlEufgYEVqoE5C7RYkdnDF9-AvD-PT5QynQn7B9EEBqQ7mPXQ2WGOHmxO_qBej8ePkECvSVH1ldx-qygKViFvDUX4Fw5j7zKuqSZ4ypAtobywneTRyTO1atf0lNNHuFU3aEU5ug8oDcFNU0t0zsUD4m5tV3nR7J_wn-8TP6bkCs5SV-5su6TWB9fwgZul3JF3iH3R4ZmpGq21-MukUKRnSSe4ltfJbrlFcXQARJ9UHNfhBdG6dDnSYiYuayXUTqd1WQ6V6_DCEU9xVlOl5FmKCoYcCZs-xubHSqVS_uIIzaXbI33kNGZozA-4vq3YxpnSizPuEzmdq2mbb_M0sbkBaI5eO0gIRGeo6FA9HpeJaxvTvWho8g5cXkewdGXbR4gqrzvInHR0",
+   "widthPx": 1296,
+   "heightPx": 905,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDj3N6m8AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj3N6m8AE!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMa6Cvzh2VzuoJraQSIkBzdPMWWKBL6w2ftOHRfMft1VQIERJ8hhIqrFQbknpQUuWroROmnMDpbgyk-afML1TvNfewpzvM_PRjhavUsttYZw0_YcZ8toqazKEpoYv4YT3A0BKt68fZ-wlSG7y01TI-HKmP7QdAdn2l8sG6cfmhaSt2uZ6WACs4uHBgFJThsnvo9hYJbo0yKUPfPYWGjM4rt5Iw40r75IyoFvlob6I_oaxC7Ub_YMu6AofI0c6D675kviI2q29h8pFXLh7mTKRIydRJC8vAPIM2pz3uv3PFOXwKBhqJ2At7DlQl7TsYmY_vVngOy3L5sB0BAVm8SpsqGLj243sOGcu0eoAQGSilzLTq_kwpF9Q4hw5yMMAnINHtuq_L0-B7NSb8NgMCVidBiOjv6Tl66cL5rrqBqXsvlz_ET6pZ6kOZQCkZVuSr6R",
+   "widthPx": 1599,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAA3jU3PSXmXGe49boABxlQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU3PSXmXGe49boABxlQ!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMYTJdmHtzoxy9FyYX6XeMoK6WCpZC6KSsTLVkF8eAQwrHfORyV7d7MDaEX6heTpbYXHPDSaTKYRAhy8ARunkgrnyIDm3p7BvA7AwmrirRhIlmc4wXXRcLTd_SIOtpOYGpTFm0-dIPZc-qZ98nfLcmKG1b34TXDaM5i2bRCzuuIAkYist_-ae0pwEeHA-EtyC-HqF-7eMs3r3WqXVqh0U2qPX4Ki6-XTz0bcxd9ZwIc6wXen9OToIT2a4s83y8DYhAl2aFwNgQB5SZPadY7pYbO2l2o4wEM6x5v5HKcu_XKww42oXdddRsUGJHYnfTz-GOxpRr7Fekm-NObhMKEcu32aQuJ9XuJOXJTTzS7Ai8adXcDUaRoY0Oeid2GQXGAvAXa99GUiz-FH4YsLVmx5wFZ_MtjDZsKRj6NxoSBppk4K-KJlsSACdN-bwPHYgFyk",
+   "widthPx": 1200,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAA3jU3PSXmXGe49bsACLDg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jU3PSXmXGe49bsACLDg!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMYNB4_KH-nfZ54-Db41v-qB63ewtfC73Mzea1VtdNqTMbyeQhxBvX_0OJI-7ndxfzgSoUb_Yv1OyDMcUL9Q_1oxp46zkkE0NDCmrpWFtqcjbnML7hMjcR3Ty3apPhWih2iJKZcT09pgZ66wqE19PlbUJ6JT0zYR0-IXLp8ZfWPf8nBAgWgLVdY0_lA1SCfDSg77tmIT71vOX4OKxuHregRNSc-H367P3f2nPEhiDy8QEq1_A5ToARdwz9UVrNWzYt7LPpQnab4uJSi0zqDfPZPGH2Q7CSCPur_ltOyZbJpkfrNnNkkka1cngEOcgEvALk1eelATE5ALIMfbstIvo3m8ACN2XfGBcKSGJt1m2UryViACZvTwV9M2d4fOn2x-4PChMfYzWY7QF3eup-VlGJG-5vpVdaBHalkChrqLYaL-jwd7gx8wQnvk-6uKcPmW",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Wendy Palma",
+     "uri": "https://maps.google.com/maps/contrib/100191336529605960090",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8fvEVLH13EThZGUbR0OGZmgVvO8_9Ep_JB-WQkvBUkR4OlmUh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCndy9OaXdN2xQqK6Fk37LQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCndy9OaXdN2xQqK6Fk37LQ!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMaXWoav1IgZXiB5FhkcCNG2-jRtbny0xrQzzIPFWG7ohC-X0UE4MGdw7qDvuCOSSY3P4PX3tIXzmsods7_1ylVxeNSgCa5gXlESTgfHvP-T-QYJHxXB2Y6SjZU_LOeKwL8SsF1YRyLSy-GtiZ20etCOTkEGQD2zt1wLFBtWLw7ZPRNc5OkeY6ZWvar4BU8nvX3Tu1aBuA9lgyGfR6R0a4Oeh7IZSbkF63Pza3pj0qj6OhnJMikg8GiBesHQw4WwfufCRF_HqShCqs1BFUauBbfGaTwPNIuR_PWJpjqok-_m8NNEIC9IkVTBiplLlTvhFguxQ-SlvCJbaEpT4ZiqJatNv1MJVY5IYLo45wy0vrZHGWBn5NrcYr6fe7pQCPh58r1_7BgJJM4OgBe1-KbPCVMoBSK1v8w9PJ-w0PHHIifn8kJNsWHLfVSYc8BWYA",
+   "widthPx": 1200,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADyc5Uvzdb8Ge49bYABpAl&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5Uvzdb8Ge49bYABpAl!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMY6P9g6rPdqI0U5eoMPpBtp6wrEgTd0Txnd9eCQmlDLfCs7mSYa-EwvXun7nihatD6Ng_5ttJWXjJddGn8wWscpXQ6AkAKVGcO2eboXHAg75ef91vMrlMRzNu0EFHaZECGvPCvbsXsxSirPbpkAk4lo05Ubl28PJsG6IPlmcQ9iyhqnn3r9v5XHNhf73_KAY9bznSUs3ZweqvuSIxpIklgZgxxBG7mkFqjdElwIHRo7B7fN9MJQSGhXJvhSm3_0r7mL-TWUP8BgfnKcLiYIsib-zjXYFpHZX8uDB53HpFyBQz6UruKe8BPBMRLR7evYrn4wQ5Odv51hPOxC_DANA6Mb_ePF3woD_lm9cS6i4_Wlj8HelYYrlNgtoB98kmYoy5JvwLKBBQsvA7pxiO_3CRrtE4zAmeYbd3unUNz7yuEh4BtnAEPWy_0dcXYFI2OV",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Wendy Palma",
+     "uri": "https://maps.google.com/maps/contrib/100191336529605960090",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8fvEVLH13EThZGUbR0OGZmgVvO8_9Ep_JB-WQkvBUkR4OlmUh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCHG7E5X1J8sAHcJhuSwPMN&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCHG7E5X1J8sAHcJhuSwPMN!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMaDA28UazGSDJRl2ElYHtn5b67qn8vvBiRw9RMZNcp51RhPxU4sFshyf-NuY7WtBrXBJjzD4ORqFcv5GIynRNTesTrJBwaiAJ3XoOo8PDkJIOaq9kWHP-CQQornt3EwjRh3FWxjg1ali76syxXzoySWD8uRm7JxlOD249jptmMmOtpyfG5zJkgv3OIOSwJKLpocju3dAjS7KSoHIEUWHiZPI3jEYz2qcER_IM8BL_xsUvwUkoQVlWxDvguOy7SeuxY6HNAlqfE_JYxIKBHitdoU-G8onI3lagWZxbT43UBw-WkW90hTq2X9LEDQbZLgDujHRe2gOJw0fWQ6BMZpr2GihQGe_U60kMQwNONB3Aq2TtswrHeowVv_2rQn99B8cFXU-tE8KmF5yByMrpa1nZKjlZMm2pi7Fy5D_zybsbKiiAd2nkPCv9P8sje8tKB7",
+   "widthPx": 1200,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAA3jqzeBW8K2e49boACKXR&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3jqzeBW8K2e49boACKXR!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMY0PgpCpKwwV4GktiDAAk572hp5OBzNhHUcWuaoE7sJEC7Gdtt2Sge9_pQHQnlpKTwFHxtMRSvshRIvQSFhjRqmhgd_Jdjlz3zRXBujhVak27DUv5spdnYht1t4rX8Zk16ToU1LGx2OxNn-9GxxP5B3OqsuVOMqv0RliSG2JQqyJE5CNXfDUTIULihC5tbTWh3rfh-mZVbZAORlna_WKHFuqAL59hQV7XA5opbYd7ga5yLH4a-wOL4Rby3VESLlkplnkCZjtBqerx6BAKenraiSYILsSioc38cdlarGf1w2glpa0kciKIZRYmzqk4tsAd_49DiaON5hO24CBSe8Njuh9YZR2foqk4R6Cc9MJL4DWffHykK2l20ec6NykSA_SMIYNlOgkosZg0aYnQkyXaxAnwmypN5-kuHPqI4zyT-znXCy",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Julio Barreto",
+     "uri": "https://maps.google.com/maps/contrib/102316954641876828530",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxCfYMCyypuUwq157gcgQWOo6lrTPiqtPtR_Dlnil7lXw9Fr-O=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICn4MqS3AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn4MqS3AE!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  },
+  {
+   "name": "places/ChIJZ08OVyvHBZER4I2wPkgzkbI/photos/Aa-ngMY2uWTS0fiT85ehQR5vw_6tfTLcFZgAF6nQQLBYpjqvCK4bzokf6qLP2Az7GiK9_yY746ug3YZQA5aKQgj7esgW2jRGQQp_rB1H8BidpPvops91QPsq4YOQ-K2MkuTMlWPLzNs6N7Ygi3kPfEDfQ8TvOmAHjGCx19Su-ZkwAkxki_rzuhgs3_0tKAqZ0wlnSozeiJS4JqUohX_OyIzUMiM8yDnm2nLgxIjhwbsPLmArIx1ulO59jfqE2630dsVCRDp0IkDl62bqeXM6u9Gx_wyjwDCwhF9LlDwgWRWr4TJ__F9pyy9ZVHdwzED_A3GMhipC4SL3_rrBJ6r4KUwSHaUwAOxzpw0LuR1yfivrNV5B5rveV25sqKADH07sNInk4cKuMbsUp60MhHdhHkbqaOZd7B58-ooOHBPbU7z5ZzKlSg",
+   "widthPx": 1448,
+   "heightPx": 1086,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/107461994755512834267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmvttZksLkqF9dLKT5KyrFW28ccOL2X0sVcawKUfeyvzJgmGI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDj3N6maA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDj3N6maA!2e10!4m2!3m1!1s0x9105c72b570e4f67:0xb29133483eb08de0"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

@@ -1,0 +1,571 @@
+{
+ "id": "ChIJ4U7T9GjIBZERgbQKkhY8g-w",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "942 444 325",
+ "internationalPhoneNumber": "+51 942 444 325",
+ "formattedAddress": "Ca. Manuel A.Fuentes 440, San Isidro 15046",
+ "addressComponents": [
+  {
+   "longText": "440",
+   "shortText": "440",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Manuel A.Fuentes",
+   "shortText": "Calle Manuel A.Fuentes",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Isidro",
+   "shortText": "San Isidro",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.098066999999999,
+  "longitude": -77.03056149999999
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=17042531482537211009&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 33,
+ "displayName": {
+  "text": "Veterinaria Groom Room",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Ca. Manuel Atanasio Fuentes 440, San Isidro",
+ "reviews": [
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiejRUY0JBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención y precios, así como lo profesionales que son sus médicos veterinarios. Atendieron muy bien a mi perro, me explicaron y resolvieron las preguntas que tuve. Confiable para dejar a tu mascota para un baño.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención y precios, así como lo profesionales que son sus médicos veterinarios. Atendieron muy bien a mi perro, me explicaron y resolvieron las preguntas que tuve. Confiable para dejar a tu mascota para un baño.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sebastian Alvizuri",
+    "uri": "https://www.google.com/maps/contrib/102036131947430170615/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfJMv0u_HUNaTs8FfoVqcgNu4ilJ0Rhvj-ZCDVrSB-1mZli5-Z=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-30T15:31:29.990977Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiejRUY0JBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiejRUY0JBEAE!2m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPNXNhMjBBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Lo que más me gusta es que la veterinaria te explica con manzanitas lo que tiene tu mascota!!! Sales entendiendo que pasa y como contribuir a qué en caso de dolencias tu mascota se recupere lo más rápido posible, la atención es 100 de 100!!! Los precios acordes así que no hay excusa para ir...",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lo que más me gusta es que la veterinaria te explica con manzanitas lo que tiene tu mascota!!! Sales entendiendo que pasa y como contribuir a qué en caso de dolencias tu mascota se recupere lo más rápido posible, la atención es 100 de 100!!! Los precios acordes así que no hay excusa para ir...",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Moises Loreto",
+    "uri": "https://www.google.com/maps/contrib/112603623925072372323/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnKOu3MiMyfpCoh7uWb_ys31ros0rVZU6H5IdQBm3VgXb_UaXT=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-06-08T22:01:28.222605Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPNXNhMjBBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPNXNhMjBBRRAB!2m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gc1RWcDNSRXhzUmpoNVpsVmthWEI1YVRCMGMyYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "No cuenta con aviso para ubicar más fácil",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No cuenta con aviso para ubicar más fácil",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "luisana daza suarez",
+    "uri": "https://www.google.com/maps/contrib/103098111179525006433/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlbtMK175D4NIIHwhSxE72APKK3MhrYIwG0369UkiXm4TiORA1=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-09-09T17:03:05.923888065Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gc1RWcDNSRXhzUmpoNVpsVmthWEI1YVRCMGMyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gc1RWcDNSRXhzUmpoNVpsVmthWEI1YVRCMGMyYxAB!2m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvbmVtNnVBRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atencion son amables y buenos profesionales le salvaron la vida a mi perro y estoy muy agradecida con ellos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atencion son amables y buenos profesionales le salvaron la vida a mi perro y estoy muy agradecida con ellos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mavely Carmelo",
+    "uri": "https://www.google.com/maps/contrib/115655060124972601046/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfC7EnK9PSOW6MPLuQKmk-Sq91lLra3mDMdiqy2YrzyH9OrA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2019-02-24T02:40:13.516106Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvbmVtNnVBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvbmVtNnVBRRAB!2m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5aGN6cDZ3RRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "The best !\nMi bb perruño es feliz con su baño y corte🐶\nCuidado\nResponsabilidad\nEmpatía\n\nSUPER !!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "The best !\nMi bb perruño es feliz con su baño y corte🐶\nCuidado\nResponsabilidad\nEmpatía\n\nSUPER !!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marlene Mulhollen",
+    "uri": "https://www.google.com/maps/contrib/114996452262275554916/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGtMu6WI5rDITqFRGvVtyB0AmHzpl9dJ_v0kicH-6dPZzrHQ63=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-02-06T02:31:16.173499Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5aGN6cDZ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5aGN6cDZ3RRAB!2m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMZY4MOmbl43edbtZ_rIM3BUsZPsW-X2LgQ7eJmAUjPzKjhEPLwbH75mqyqiOZH_3WBYmYrWhl-vogF0CI6JGR_ZxpRpMD-k-UAb7sd_g70U1Rf8iT_nUdKpelY3YQjNNpRMQrBvuv1tiP-BnNNz0vIkzn8MEkNks6FRD0LQVHJwco9XkQ_YGq6NuvwkSeN6UVlJxc4DcDlUKY13Jo60ADCybQFGyy3PXCJ10_UsNRkXg-0EDrAidKZLrROOwD8dgXh1jptmBdznDcDcGN5HsqasfbbXmcvqoYeQHVah2ABf13f4bYobCY8eH6Hey-vCtszW2yhUvn0qSKm7rTqxDxQ53FuTp6UritZlnkbfiPiJnrcsc1xz0FtoV7YlQegJB5omkZHeJ4qOYueXGlbNugmGu_osWy7Tjcp06hHDPiNSeQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Groom Room - Geriatría Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/100423424999764799033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJqcEmo4r3LUKwnG-Aie3rBLfx4M-bPwZhpO-X5jaScQyCJe8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID_0O6fZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID_0O6fZA!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMaKgHnHXWoFI1RPJ-HzZ_G5sMAlRXQvGDC4iboFfar7soLpSp5XelIDSHwzM2Nr-tqVGnJkx8BARfo60Agcrt5EFBsgocpjrIswcWT2u2sEM76ovP3vL_GADq2W9qAt-VrTfsFrNbnVXUWwew0nXcSZskyVxhoQ3ml0pmHLkCwA4F6Zeks1FaasTMHd9k1RMjcsAblHo4OLGl84ntcYQ57-7OV36OobbRH7r0Ows11PMyGfEBXEslsCBRMM7h5Mn_Ui0j72RiQZ-I7OIrJmwmqFoQ4hYYmm4hYRnyjtgvVZd3i7ogRgwnCpGxM1l18M9Z5iMlAS_JyOvtR6Dc1bMnY2W4nlBwyRTBHu8NVG5w_CUcU9xDw5VicXfSFIBmZW3wctkDc6LHG5aoUtkoZ7XImPr3aCmMyFHbc1sw9GxujO64aL",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Groom Room - Geriatría Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/100423424999764799033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJqcEmo4r3LUKwnG-Aie3rBLfx4M-bPwZhpO-X5jaScQyCJe8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-p_gkgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-p_gkgE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMaMmD1pXDvEIx2CXArRRAgF133sFHmJ62umsXyjVF-HkNvb5crKjsM3386dCvKGFSEjql1Dom1JIH5PV-c0dof1v1SIGv0dlgM-NWQ53aHmUGv2luer8RMpyJncbZPlfXyWVZJmBT6dY0oTaDtfPk49e1BuM-mxUKgkfEYEJrH7RRrAh2MhEj3P2ejv2UoBKFme3nNSZ3oM4hj88zrIZJzGnow75DBLVcYahFpxQnrfY6ZL67eecYMaGH_PYPvrYbANFxu8LTFuPiVSC1-1b3PL5v-mCY6ab3OXpgAn6u5j-hADUW76eYf5xpDHffWuMLBVlUfF-Hf9iwgtP-fzIEGksA4tUqFQTeWuLWBGYBTyH1VCqHWW_jtuhn90QUPVmLXi05uvC8XNOz9MLdb8-z7_wBb3gKBowyOtG87F9DjYJVQ",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Giacomo y Grecia Schettini (Los Schettini)",
+     "uri": "https://maps.google.com/maps/contrib/104214411274806963043",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDDXZ3uiKjhWidGYNJz_ZHKjx5SqHHNOmv5doRw5FRpsjyWaEQ2w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE39OQrgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE39OQrgE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMZSNAZrlkibKZHdltVOGf9tgUQ3WyzF35tbe9TVZx0nXIFmiu2C-gMo3MPgJnTDmJlrDyeOTn3mTHVz-FGXJ2HXP4hvror2e1wy0U58cu6BaDSlwxd9raTaxKFrwmD7j0Yb22EPs7m-XMwul9Aqe4ngj688uw0Wv3Ie1R6K3amgq74QhJ7yfAsLAY3kfwuToU1goSuhZahi9b8w1IqSNBboWHan9Bm0cwNEIX43cGzAdew4wlchPiWqM5pLeqkQUYpl2Pjpx0ycOPXIdp-YWLxk7np2bbjf-NGKODGRb2FxxRyTQpjTwESqazpBnWLOksh0Rd2nJoZVD7_xhbe15fEoZXe02E2Xer9rQuPEmdzoNJkqkjGOFFH7GAAiIed-fBU3Ul_aP5nim2MHp2Lcp1hv2BSgSfMfN0lfg5dHrFY",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Giacomo y Grecia Schettini (Los Schettini)",
+     "uri": "https://maps.google.com/maps/contrib/104214411274806963043",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDDXZ3uiKjhWidGYNJz_ZHKjx5SqHHNOmv5doRw5FRpsjyWaEQ2w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE3-OeGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE3-OeGw!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMbJdHh_LX4g6GjhFv_Us1GqaJiBoQ2wfvIJPYVdLC2lplCZPCNuJGfYC-8V2J2IrvalOwU6-a7i86eL3tXsh5vF0BlC6dJmEkIHEjHvgMEGRSixyym5KMIpGTQEqDYWXZRDRLAUGP0v5grU-wxATUmnC0YY4-wNokA4_TZOxEDx11Om2_jDLIaP5wViliMrN7d9yGcwbtTvcdCy0CYdCQsh-OI1jJzZXmusquW0C6ole5TtAlbggJMYriEM_sf_i_-jErc6ppo7_gwtXWRLsqR7LaAX3mpG6xs9BgZDGshsJhs5C_VPkQt7ucm1-vfhS7iGLtaOBSbJD_AAt9UKnF6CcuQmfqaXq8ljMJvrDuZjhSolBn4NCmlG_NZ27SfphVA9d-n2t4PjNFmqa7C0mPbJidjP8raNEy0SV64lrpKCCVAF",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Giacomo y Grecia Schettini (Los Schettini)",
+     "uri": "https://maps.google.com/maps/contrib/104214411274806963043",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDDXZ3uiKjhWidGYNJz_ZHKjx5SqHHNOmv5doRw5FRpsjyWaEQ2w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE3-Oe6wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE3-Oe6wE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMb5e4kaj-RuKeU_uzf8m62YiEb8A1BdY3T-Kh3KQS9PQ_VutrlNu20ler25E1VSVxOhysEeveSMJDtdb9yVg9z6pDkjpAg1CFlYCa0M0LaY2qAF3zNkEJpEDJF8tfZ_5J5gCLiCS8A6b04NWzxoUZin4AjouC4DPVNQgwYhUduh6LIgtx0alfl6E2dH6B24koEi-oTvDzoYpNvnBi5jbxrdSZzZtisnPocX5-eiA22zKBDQHekBXsfkiPBG2Ed-51M8vIw2zq3fCJssuXxK3UwmRWcxPxxkEFZ5hnPSROyxIwqI2rAVC5q0XNREYOAEtuODZpp1_8JxM7oXoq3iYadwRB459WrOFisGcemmAChiBXijM1DlgSk1waHgmTkeARLWo8bqzpVLyfv1BYI3R9r1eC2ajEcj7VOLDsxHOkQlHKk9",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "aluarts",
+     "uri": "https://maps.google.com/maps/contrib/104679053890985941864",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCawTv4396zbsfOvCbu_TOfkclHERRoF7F1LyL-ES1pKdyf72TKw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE0tnWnQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE0tnWnQE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMb9cyu-2rs8mXsAMPq4k7Bq4Gd6odI9CVMl2WXB45D6XTKrsbxNMncf5NMtfE9vojrjH9kVS55aiJlwAJO2SWqsRBD5CPRUbGyxRcNS7Avj7Yoz0GORBCU9bmrwRnr56j8_SZz7UhgG1H5UyffyybWDNrnEp9EzQ4nWEexq5uQStO7ORhyK4qbs1oXIr_gSn8Tm479vUzwJWBWTl75i26TwS5iGSaQ3o3Mt--JTylmkPPNXIqk7HZJRI7tU8b2V-5Aodivq_rUX9O28OqzdxNH-NmlfzWLZmazgqA7dxheElU_BVEB0c3Jw7Q0UBbtbLm1hLn9S4TEe27om2gY-IYArZa5UcURPDUfVeX68Tk876zKMh_QwPNUemKNqsjeA4R_bRxos5Fsbkv9gni7EN7wzYqNRnEcxCCDDIvEpcad3N7zi",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "aluarts",
+     "uri": "https://maps.google.com/maps/contrib/104679053890985941864",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCawTv4396zbsfOvCbu_TOfkclHERRoF7F1LyL-ES1pKdyf72TKw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE0pn4mAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE0pn4mAE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMbNAhHq3jttnMri0guufOCEyTyGIyXhwW3vOQzWv-ZKZGEgzaNf6kNDtRDyLqahNFJrdTqO5Qn5OqnCZgYL41XElz7p9bQ7a1122gf2iCpaukqIqWU9Zr8ScZnwoP7ugb5mOX9glciw8X8eWUyxsVLZwI8l-D9efOLbdz1aPihzIa8wsptuIlSIYcJUn_o2r7UqbbumhgkXGJSK67CG2wyshWHBcYgnvba5s8A244nTcFVdjFW0h6kkoh5g2tOkg1QdKPyR9QIMEePSLKo5gLykV8-aHqw4MVZttefki5kB1_MzTcLKXpznmrN8Onzu081sXTGryzTBCpvWGzEoMmR_bUSamy8jY9_9ILxBSUgHS-5s99GKx_aUc4ThIWgmWpoov3hFrKZmkN5gVBDT05nLHz_vaB0oUsMKdWm4Bcdvjg",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Groom Room - Geriatría Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/100423424999764799033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJqcEmo4r3LUKwnG-Aie3rBLfx4M-bPwZhpO-X5jaScQyCJe8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-q_sZw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-q_sZw!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMZuZGtCnfEgNj1bHciOdAXQNd54BhdMLuhvm4eRq6qj9NoZISbqH13h6z6r6LMDyArVodsmGZuaW-QEfvgSiz5vUdm71pTuJaQXeUe-VgsXF3ONl95akqadJlrKmJXVbt7Ter54VemMK1p9tuWAXADXOW80kNp8_sSnz7yvsVNB8sutN-rW3kp2PD5sOvmqTQO93hR802aCysH5JUBRpjQM_GmWJKpxelSBy6mQZS3yni8hnwTtfKn7CMbb0_BCeHme-M3FfVjboGGfRVz_EcHOYIxC6B9HEcFSik3nt1Nre7Y9E-w7VEg8An_605qZmj6utGr5XOONoXwDAtViOlPslPjueLNuZBIfeXVD6mTJcQH6W9EqEkVJn-VOBAouh4tbPXqHafqFaARiDZkbWabEoprxIhdk7bTUkmPxCEEL3767",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Groom Room - Geriatría Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/100423424999764799033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJqcEmo4r3LUKwnG-Aie3rBLfx4M-bPwZhpO-X5jaScQyCJe8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-q_spwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-q_spwE!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  },
+  {
+   "name": "places/ChIJ4U7T9GjIBZERgbQKkhY8g-w/photos/Aa-ngMauvUEdt2iq7E6OB-GzNCw_AHBP0a13TLLnXt0DIGZwrD-Af73gIicWfGc5z_d18YT3729vMTWqj2MD4_jd_6Yw85HD26U3WEHID79F38gvjWb6IO0bjBQeaWxOlw64YmD46CvrHuPkOPJBwB03E1GREeN2U_I-Gn6U8VTijDmNk5f3yxiP041_Syhi4vcEkKoRdJamZpIqMlrHGaUMBbAEbD20lKxV7b0gAEV6-JKAwbAnf9E6eLDVbx_c-8aD9scq8yk8o1QojWPcIvDzhkqsP1sagrAkC1V8J8puVO2GbIrjUwN97T2DRn1ry1HafxlBp7rR7jdatd4qCgV2JUZ3DFCiwp7fYjK3lg0Peqz1eTM5zuH0Tv7yemPV242q5UjI5gaJ5pzJRjfqK57RxmM9Vrelk-tpFnG1viK1odKVtA",
+   "widthPx": 1836,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Groom Room - Geriatría Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/100423424999764799033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJqcEmo4r3LUKwnG-Aie3rBLfx4M-bPwZhpO-X5jaScQyCJe8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-p_gUg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-p_gUg!2e10!4m2!3m1!1s0x9105c868f4d34ee1:0xec833c16920ab481"
+  }
+ ]
+}

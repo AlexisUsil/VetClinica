@@ -1,0 +1,586 @@
+{
+ "id": "ChIJ03-zhiy5BZERx56Lx8A1m2w",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "7483737",
+ "internationalPhoneNumber": "+51 7483737",
+ "formattedAddress": "Av Surco 764, Santiago de Surco LIMA 33",
+ "addressComponents": [
+  {
+   "longText": "764",
+   "shortText": "764",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Surco",
+   "shortText": "Av Surco",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Potrero Chama",
+   "shortText": "Urb Potrero Chama",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "LIMA 33",
+   "shortText": "LIMA 33",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1398926,
+  "longitude": -76.99403699999999
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=7825907879584177863&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://doctoravanevet.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 46,
+ "displayName": {
+  "text": "Dra Vane Veterinaria Integrativa",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Surco 764, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OamVWSTFSM1J0V2tSVVYzVjVZVXhJUzJ4UlVHYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes profesionales, he tenido muy buenas experiencias con la doctora Vanessa, tiene paciencia y mucho amor por las mascotas. Me siento muy confiada cuando acudo a ella, y muy agradecida por su buen trabajo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes profesionales, he tenido muy buenas experiencias con la doctora Vanessa, tiene paciencia y mucho amor por las mascotas. Me siento muy confiada cuando acudo a ella, y muy agradecida por su buen trabajo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Oriana Cruz",
+    "uri": "https://www.google.com/maps/contrib/115264831036430953962/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWjLxmYX-rj096oFBSXr5EQD1BT4cej8vrdn2ROp_5fDDFXJkM=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-08-19T01:36:09.228778625Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OamVWSTFSM1J0V2tSVVYzVjVZVXhJUzJ4UlVHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OamVWSTFSM1J0V2tSVVYzVjVZVXhJUzJ4UlVHYxAB!2m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/reviews/ChZDSUhNMG9nS0VJQ0FnTURRNFlQbUFnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La mejor veterinaria de Lima. Atención de primera, profesionales que aman su trabajo, local hermoso y limpio.  Trataron a mis niñas como propias. Gracias Dra. Vane.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor veterinaria de Lima. Atención de primera, profesionales que aman su trabajo, local hermoso y limpio.  Trataron a mis niñas como propias. Gracias Dra. Vane.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fabiola Flores",
+    "uri": "https://www.google.com/maps/contrib/113940383310887827967/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDiuk0qcwz6W3acqI2igE4V45O6LPCoPdAHyriHqOkrHOgvwK6=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-03-11T15:46:39.613342Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRNFlQbUFnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRNFlQbUFnEAE!2m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSmFuWjNlRmRrVVZaMVNIQmpOM0ZxVlhWTlpFRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención fue muy linda, la veterinaria Vanessa fue muy dulce y trató a mi gato gordo como un rey. Super recomendado 💖",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención fue muy linda, la veterinaria Vanessa fue muy dulce y trató a mi gato gordo como un rey. Super recomendado 💖",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fer",
+    "uri": "https://www.google.com/maps/contrib/108730407286877902167/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXN3lckucd6yuKDkz72xagIyyaU0NscjzZH-AzhXpYoFLQjKCcU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-21T22:26:08.928639796Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGSmFuWjNlRmRrVVZaMVNIQmpOM0ZxVlhWTlpFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGSmFuWjNlRmRrVVZaMVNIQmpOM0ZxVlhWTlpFRRAB!2m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOWNmWTBnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Operaron a mi perrito Orejitas hace un mes y ya está caminando cada vez mejor, el post operatorio fue súper delicado pero tuve todo el tiempo soporte de parte de la Dra. Vane y su equipo, de verdad súper recomendado, muy profesionales y empáticos con mi orejitas y conmigo que estaba súper nerviosa. Muchas gracias 🙌",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Operaron a mi perrito Orejitas hace un mes y ya está caminando cada vez mejor, el post operatorio fue súper delicado pero tuve todo el tiempo soporte de parte de la Dra. Vane y su equipo, de verdad súper recomendado, muy profesionales y empáticos con mi orejitas y conmigo que estaba súper nerviosa. Muchas gracias 🙌",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "karen Vasquez",
+    "uri": "https://www.google.com/maps/contrib/106751000771258755648/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5Sg_XDnLWrADTwTTozUlzyjvCugJOxJ6DCw_4JE9sl5R8TA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-11-10T02:27:24.317426Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtOWNmWTBnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtOWNmWTBnRRAB!2m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/reviews/ChZDSUhNMG9nS0VLMmc4dUxkOXZMRkNREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Increíble ! Tratan con mucho amor a tus mascotas ! De verdad que me genero toda la confianza del planeta. La doctora muy amorosa",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Increíble ! Tratan con mucho amor a tus mascotas ! De verdad que me genero toda la confianza del planeta. La doctora muy amorosa",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carolina Fernández",
+    "uri": "https://www.google.com/maps/contrib/109639974371990026498/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtfYH8J0XD6l0bnG4LWoEHwFgMuTKfPlb4kuQ4g9vLhWJ1Ag=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-19T23:21:56.917662Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLMmc4dUxkOXZMRkNREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLMmc4dUxkOXZMRkNREAE!2m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMbDI8b4lze89yadL-NqHkYyGuJvyi8g-zd-Q7qkYtDgmXlsJs65vQhuDG562WNMweHqsLuYi7pdJT-NEYAGIgQh6A_t1sHZgtVg9wXwbf7sFgv0OAdQxh-0dz7mAnjeUQdEpjIhK7goUqNYwH7zTxz_WFGbBHhXXKL9h94nHi8DmTKdv8M2HmRxr314eCv8G4eCRbMv1qcWlUgltJvE9XaC-rbOUZeLjQUl7jajQhMz_55-UVPlhn0ShltvBdjfrW9iWK6cKJenSuigGRxU4xvUH6gQXXDd1DqFyeKaEEy_EtPG3V0gylG7mwTxbE5uLhUY3Bt4g4SE4yBn_4zY5IpuOfxeYlOJgnoBcPDZNFsDEYEEEbpC2RjiCS0c69Af19lpotWKTEJ6TV2hO2xOqjrb5N0TzrPJm-4hw6pL2cIF",
+   "widthPx": 1080,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBGuLiipvV7k7Sa5oXRYEuR&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBGuLiipvV7k7Sa5oXRYEuR!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMZNLirr8OjQSRW66FYM7YeJ--TGUA5f4MrgAI6n5jOMZH1GGGyN8lj1Tud_r_6JXrF7Bh6dg7ryY-q9fN8MaM1XZ4bWcWwlvdKYzstZZhjfVAw0OD2w871K_kkYpD_LkEVUtxAf2ODmV6xSMTLv0SdS4Kr3D4fvHr6gFYGH22x0t-16sXewezV7YLisNRlOK3cHoo9s0YpJ6vzEfINdBZRZ_WRnj_8tEU0fSuQUkvmc_iwZ0nUvWFhiBnPSFnY0Pecys7wFAg1lSYmCgBeKGn7BxdOcnXiJrjfU_TlyS5DDw5oTlXVQB9PEJpLzoMqF-NJ1WZn2pgIh9xIgNt0h4d0hLpt-QYW1fKEvBgYK8szJ9gmYjJMFTFMj8wjNPhBEonhLHmafWKm6irdeJbswqHVI8lhx9hCEEqUx2f3TzAuDaQ",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAFPdsb8Z7cBeo2O_dUvDpt&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAFPdsb8Z7cBeo2O_dUvDpt!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMZmJJwlkehahOxRvfAwue6mM9FJYbMcFesscFUAxy5l4tc_Hu6x24yeQmQgx1TCeIbDYwt63tfnWVQrap0A19LJZwCotJHzRbpiPj1jg5wwdGIGaaisVD9U1bmF5GCt5RpjxdSr6Gin9NPrxZsaMephX8ZPOsdwlKH_sO7-HQG5OFP3tb4X2jfZU3-zL_fgT8ddQbAOs0-cqvNFJ6Kh5Snx7wLgc96I6Ix0kk02gwN81jG-RjiLUxXxnuWtGKztsTm_VEwGuzWvjQhX9xYMkteNRP5euBJqzc6rb_IQ_X9USErEmRua0Jl6pe5au2z0SibUfPsPQNQZDbvGb_NBpwyv7SYIwv4xWGuZBQqqPFGVl12EJfVSJhtHBnoj67CfsB-uvckMBZVIongSCt0TU01rMFIWnz852YqKsURgAw0Q",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCV4yjKQXZukAyd3ejhouv_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCV4yjKQXZukAyd3ejhouv_!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMYjhSPAYm-MdZ0Azze4UDkd8p1EeUgfIDLSle_xRlC0UlEZoFdIkXfyos7MYPWZiAuAGjr2sYG9KVcUEViR6osPFgYf9LX91uunEpJtTR1N0H4anReRZYtuMCdNWZ1c3jJdBpu0SZGsYUs-YxjzawSQTyzcQEq-VLSqx0efO38kiX4AgiqkJUr0LzPJMXJwO0Z8YDnbvglJdkVkb-46zWdswZAc-_dE78D9aLFke0axGp_oT4A1W8xcR6qxuWW-CLq0DXzw-qAyfSfE5YZGfpmYKOh4zanMgSdSG3D6xSkOqqtbT9g566OnrcFpClXP58xvdsNyCyuLSoJeY3yQX9jC94uWiI1Eqnch_sI-AqHEM6FUml6af148ENAMt7zGUeeehdYmmcil3abO8bEzRJMF1VGj",
+   "widthPx": 2048,
+   "heightPx": 1365,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuurrn6gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuurrn6gE!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMbGkN44FUBFIT5jO6FI0FtbrO0LbzWwA82tVK1Nbq9qw5bNPDvnGgAW8Gm_OmxQyqly8iKjPm8kQAY--sSIXf3PxH4l0b3Ivz_iYSWe6Lb9mbWtBKAxCZkaeLfsos3CTzTthdc-DEVIHAOKokW0hur-7ttcDXRf-Dz_xBGClUCQvrT3nB9l2M_TZ9Guz5jPXjtI9UTZbaMbO6wHE9NReVZpswGu5deAvCNDwBT-Tr9VEQ1ugPp1ir3YfYFcxJD7Katzy7NQpQUYhwsJojpesbyEG0T1zDv3bdvtgcq0pP7xIMQ2fKASmE32RAJEJZmU8SOjuILvUAPFlKf2YztiQFdqztjZAxA1Ghz9JCp4edhclH0fZaV7x9VJ9qg_bpY_I0P_Io-xynCRJgP-VA4UZsIsRIEOd-jfdoxPYZf0emmG_g",
+   "widthPx": 4800,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCW4q1U01sZ3PlFGuPUhvzI&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCW4q1U01sZ3PlFGuPUhvzI!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMZ0wXm0uiH8WBlBo6dLOtxxWdVNT5XMJooxxuTQdjJc4ZewRHJL4aMZitCgg7F7ygSi5TGtwPPQPXViZa2fpv-yWuhKQIdH8ALDsYO3tNCbzUjc5LOc0Nu2yqNA8E4TcTEiwPtYNOcugudwb2d6Yq4CFK9ug1XOspLA8D2wnNBjQUHXt7qD6prmvuXkkpfUJ0fS5aDGxia9gQnf8AOo4JTCeJpTmw9y13fHwFOMpjzfNiqW_WOmjz3EBF537eRAwsssbjrJ-VsZ-OnXWT7Mhyky6YOBKebh2iKDhwjMPVU6Hkt1O6UqJpaJPJuhjJ-YddQlWO5ug7DeQ4IeroA4jWQOXE3-np2vFJH5cjBk_xW9lBE8TBHNqygGwbogeTyI8EYhWQf3fS0jRAZIPXPZLAvy9Eja2PT8E3RyGyjW3PdbLA",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAxB6JQm_3r-DC4gHOlxzLt&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAxB6JQm_3r-DC4gHOlxzLt!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMbglyG-QYLrVx6WySx-3BdM32VpJ5hFnkoKJry0vUant9tv0LIMFN4uV917IjWubi5dQVtfTB3ovSZ3FPayqZ-AG-yV4cHyrV-ImtRp3HJqlPC3sMN1uO1lV4lLCoRXGXsIZ97F7zX9H8DATA89CEL8KL6Pz7VEMXXl4jqMsRy0fkqq_jItSl-TAebJ9jCVavCNj9nXMcFditl3pSUKXCjTxC4Jik9tI7Mk7H6K5behKs5HrrcBZwIDAsma_lKlPDhxEOgVdBMJJK5glPOAXCf3fgoNdEP_9B41Gz-MqAWGEMmCxFxKR8dvPpN5s4aoZScUOjPiItKcc-1wmLRgLT8HKzqT7rX8noUAv6fX9tNmzBrrkhAtgIegW-6ZXpBcaGeyKj4uJ1FLO2eaeFj6j9jY5URPq_vwuBcKAqrPnSmM",
+   "widthPx": 3396,
+   "heightPx": 4528,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB3eaRRv-7NBpq3v6ouEuLY&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB3eaRRv-7NBpq3v6ouEuLY!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMYttnol67eCc_85Dv7CNv2zZ6GLmGZSADJNc8xnVwDWlihUa0o-5z4jMWWXjuqvwtno_Dp98sFjwfOlO_hvXxtuMQ-cIZ-dnPROpLMTG24hhqX6rcWoCXSmcpS3s654bftlnQCJDFc6sPiuXEMN65P2aVi19Sqe_GUIdrJHuws-kF7S7-iRBgP-kiT4UdMJkTaeOOWMgpXBSE72eFFOgV60bIr-U3w27LRLtHhQ8qojSIIXruiHyZZdNt4GsIv0_E3P23IOpTQr0UKHCQRA3zOLOh6cuMBtex8s20-CjsGgU2bTm2he3Ck1l_8L3zf5e3Swc3dVPCZZO6rh-duyXkxtzzLo4AfUY_BMZ93e843UpoBVod6t_bwvbX0FmtpJQz16qwonYGJ6CmZoFgQmwS3conH-BqI",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabiola Flores",
+     "uri": "https://maps.google.com/maps/contrib/113940383310887827967",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDiuk0qcwz6W3acqI2igE4V45O6LPCoPdAHyriHqOkrHOgvwK6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDQ4YPmwgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ4YPmwgE!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMaF25nqTRIZoTRzlZxwPg7hQKFbVlcGYzCn4F0PlC_cEyMkumRTD8s2tPidTsqFhWdq1BiWPHGFIlZvCgDdkPV4UICkdzp19JccX2M1UZSPvUdT01c7ci6JnPHluXmkQTTznQEH6XJjAecR_gy9jq4vY4Z9dsSJsxQV-VtAVVXCN9_9TVrgmdc3gzjkW3-Xv7nX3KyGvbJ5d0NI7LZ5wTXtN3ZopHDnXAXNCWKdE3RMJhC4uvqqQx_ekoTERHT1rZWWPwowA70gXWraCpR0PBn9hVcvPZdkgXPFLf9pzODAJiX0_aZx7ILdS-G2MUzvv5RpwvCN1kMfV17hojGnsFRH3ii9zBN6hrZX67s7vvgLfHrGvHbJMb8pj26Bx1K7uOVgEX9u-k2nZNPExZOFK6gjLl_40xTfNxi8jVgyz4QAJg",
+   "widthPx": 1189,
+   "heightPx": 1585,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCMiuiLKWXyudvefflLjWEQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCMiuiLKWXyudvefflLjWEQ!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  },
+  {
+   "name": "places/ChIJ03-zhiy5BZERx56Lx8A1m2w/photos/Aa-ngMb5998tFXNJHVBhC0kE8gtzXi_LRlyTEvySQgUMrrq8yP_8_3cJE4H1YA1lSIPNkHRO0j5ULbbN3NXtetO3c1K4nHhHAtc0-eEcRh8m22VDQfxufW46N48o8l4YJxrTJTNzquYb2ERSX1wrBre_l2rRDBUazYFd6TFlUSU7kDHoMnNEgu_oVS8FaPRZkXyHEM-S9-oq3An8br2Ej9hdQQ3yWTjOGcXNBQ3jLNnBs0eiZ3-Jbf6bFsKi8hyHLmXRfzy2hWq5k3_Lx0E87XfAwO_gI_lnD7bM1ieyNXLUjD1gCZsENATPDJ16ovZxnrDa-40dPuPmMZA04gKW-WOkanpuK5YR3J8aW0Qp2x2fYfw0KCoFZeUywsbhxymph4H1_Lu4tvUmnMY_DEr7AL95TPy-FouucKSNmxvfxZhMtvtm",
+   "widthPx": 1155,
+   "heightPx": 1540,
+   "authorAttributions": [
+    {
+     "displayName": "Dra Vane Veterinaria Integrativa",
+     "uri": "https://maps.google.com/maps/contrib/103633795964189726406",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUi1BI-E2qGJps4f-BDsX2a8SvZFsz3YAtPBc3dEoENz19HLEn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDexmSqfmh6yrkppjD9xpWc&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDexmSqfmh6yrkppjD9xpWc!2e10!4m2!3m1!1s0x9105b92c86b37fd3:0x6c9b35c0c78b9ec7"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

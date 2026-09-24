@@ -1,0 +1,576 @@
+{
+ "id": "ChIJawk37M7JBZERZPtB5eEfcoM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "service",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "988 472 718",
+ "internationalPhoneNumber": "+51 988 472 718",
+ "formattedAddress": "Av. Petit Thouars 4373, Miraflores 15046",
+ "addressComponents": [
+  {
+   "longText": "4373",
+   "shortText": "4373",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Petit Thouars",
+   "shortText": "Av. Petit Thouars",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.106079500000002,
+  "longitude": -77.0299112
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=9471668021387983716&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.elpetshop.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 101,
+ "displayName": {
+  "text": "El Pet Shop Veterinaria en Miraflores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Petit Thouars 4373, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GeWNsa3pPRWN5VWpSc1pWZzVXRXRSVmpsQ1MxRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! Siempre los llamo para el baño de mi Benito y lo dejan como nuevo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! Siempre los llamo para el baño de mi Benito y lo dejan como nuevo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Katherine Polo",
+    "uri": "https://www.google.com/maps/contrib/107168914363412420726/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3VzK-tBB5gSIjB1sMKaa39_quOFWwtRdRF-YNUYcT8F20RbtL=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-07-08T21:26:41.059725256Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GeWNsa3pPRWN5VWpSc1pWZzVXRXRSVmpsQ1MxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeWNsa3pPRWN5VWpSc1pWZzVXRXRSVmpsQ1MxRRAB!2m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vMGFVOHRNM0JVYzA1eWQxbElkMnB3ZERKYVYxRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, tratan a tus pequeños con paciencia y cuidado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, tratan a tus pequeños con paciencia y cuidado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María Fernanda Araujo ruiz",
+    "uri": "https://www.google.com/maps/contrib/108572019335345408072/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb5gI_K_-s4FaxCh0xMMkDY_MSN6Moqw8_opp8A-RkEkAh8LeB=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-09T17:46:12.318020574Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vMGFVOHRNM0JVYzA1eWQxbElkMnB3ZERKYVYxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vMGFVOHRNM0JVYzA1eWQxbElkMnB3ZERKYVYxRRAB!2m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2Ml82NkR3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, atienden feriados siempre con cita, tienda con muchos artículos para gatos y perros, atención personalizada, no hay estacionamiento, tienen medios de pagos con yape, o transferencia de cuenta.\nBrindan asesoría para el cuidado de su mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, atienden feriados siempre con cita, tienda con muchos artículos para gatos y perros, atención personalizada, no hay estacionamiento, tienen medios de pagos con yape, o transferencia de cuenta.\nBrindan asesoría para el cuidado de su mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Nelson Balarezo Aponte",
+    "uri": "https://www.google.com/maps/contrib/107319008579517311263/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzc2pNTAufdEp8TNTZjhm4Ap5koTUqhVQUhFIdOVqNZDRdlzo=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2021-10-12T10:32:49.296716Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2Ml82NkR3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2Ml82NkR3EAE!2m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/reviews/ChZDSUhNMG9nS0VJQ0FnSURkNWQyR0h3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "El viernes por la tarde fui a recoger a mi mascota de su baño y la encargada (tiene tatuajes en los brazos) tuvo un pésimo trato, me habló como si llamara la atención a su hijo de 10años, me levantó la voz, quedé en shock, es como si estuviera harta del trabajo.. capaciten mejor a su personal.. conozco a varios venezolanos muy amables pero en este caso si que fue pésimo el trato...",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El viernes por la tarde fui a recoger a mi mascota de su baño y la encargada (tiene tatuajes en los brazos) tuvo un pésimo trato, me habló como si llamara la atención a su hijo de 10años, me levantó la voz, quedé en shock, es como si estuviera harta del trabajo.. capaciten mejor a su personal.. conozco a varios venezolanos muy amables pero en este caso si que fue pésimo el trato...",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eliza",
+    "uri": "https://www.google.com/maps/contrib/117895287036455034303/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXl8JiEtcoLK72kwOJfUsOtVmbERr-ruY2-fiq_zpjygjLp-rIn=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-02-25T16:00:08.404115Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkNWQyR0h3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkNWQyR0h3EAE!2m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNdlpQVWx3RRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 4,
+   "text": {
+    "text": "Muy buen servicio... Mascota feliz... 🐕🐕",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen servicio... Mascota feliz... 🐕🐕",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Abelardo Falconí Bernal",
+    "uri": "https://www.google.com/maps/contrib/114833237735508416798/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ2aPJMxVr1SwnOBaMHYR3YMvbirJ5MBpY1B99t_kO0y2x3Onc=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2019-12-02T05:24:36.188516Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNNdlpQVWx3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNNdlpQVWx3RRAB!2m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMZvIxrBgAOD1QbqJqv902BLNkY65rVtcNT1uCq7UAKsOJDiNxQw9WMorsCdGiz38n2HaVgkrKEJXVPDeF20IswrdsPFeQQdQIvt5aCpnH3seLMCXKT7hwrgI3d2HBtYVjvu7GwETxlzwmS88UmQzEH4l3tsRVQZh-hV0Xi98juh3zmnZdN6FWtEBJBLoOQ7NDgyZigrNau-7SpLX91_OdTYIDfTpSF7PgRpNuz_p30MEAPfllaCAPGecTGf66Vu_kAzhCmFGmmLbG9EeeFwKyN9-1LmA4Np8ilgvbeBRhP5a2ZLW0M1-KJ4SkNCLKH7j72DrgCElyP04aG1_w-iq2smKU2I7z3GXMXIK0wRmNbPslNN4clcqVClqJ3W4HE-mLN6LTcht4Cl17vUaI5q1vOh92wXYkodKbmq4Mgk00FY",
+   "widthPx": 3044,
+   "heightPx": 3873,
+   "authorAttributions": [
+    {
+     "displayName": "María Fernanda Araujo ruiz",
+     "uri": "https://maps.google.com/maps/contrib/108572019335345408072",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb5gI_K_-s4FaxCh0xMMkDY_MSN6Moqw8_opp8A-RkEkAh8LeB=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCI24s96FlhqJCwmBGXA2o9&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCI24s96FlhqJCwmBGXA2o9!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMZYKxrPLwZ_pblAWJZdiR2NGQx-70vR87MiK4Pu_9gAxq9W3e3lWX7XHygU4WzrWeMCWZ9kNZtqYCympY8hpnYf-FwOMcHqV2xDuof99dCnI437jmdXt34NyMqWWCrrmWpGcKK1pr0LGuLMH3dZgAXzFiwEOrtqGEqUlDE3ZkqBuIGRk5un_S-5EtzTmSPPZcKCusFrn0QXIvV5i4TdOoyjmfFV2SE2krvH6-HVS0624MUwnvXjcw0x8xYyL50oB_UCxmDBB1TBy6sLozKF08hQ_iocylEDVcbt9bR39driiZXAc_1C7xUYsYySU3wdmiNB1u46HPPNQBy9Gjlg0XOV9Il-oc2bB4ZRilwBx94uuTJLpbpsUI_W5YOiF2rF_MzeZCep_HwOzQVxkgZyh1RamRB8Y98",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Abelardo Falconí Bernal",
+     "uri": "https://maps.google.com/maps/contrib/114833237735508416798",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ2aPJMxVr1SwnOBaMHYR3YMvbirJ5MBpY1B99t_kO0y2x3Onc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICciLqn-gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICciLqn-gE!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMZVnrPW4RuVDGmpH3L19apog9jD7FdGA-26hOlIDxfG2zuaD0riwCSi6SYYoPAutyYj6lLLzA5RCwF326Slw23LFIHhOWqKyoPrSCzGGGiZzV8RJV1YSVlZcq83h3dpie6F23DBs0jj9XZxaziiLAJZFdTxULuwlm3gQJPnbYB1VW4JldGngQtoWdGH3j-nlxr_f_kJNa7k2mqR0DFTgrn2BX_h8PhFiAa3qI9EbcM5psb0sL6WEDqjHc2y7yH-6sM83T96eQWZLevFfBgvIojBipEpAiFx4pI262g4IIrrn1z2Oi1xoWo5MyackbopC0KxQsnfD1obEskhH2smFPO3a1IzsSe8o8VMgdEV18YWgOvdCgp2Z1ZKCCdMi-mQWlYVhaAKUrUfJUNf_v-YpBF-3Kp29tc",
+   "widthPx": 3794,
+   "heightPx": 2833,
+   "authorAttributions": [
+    {
+     "displayName": "Dara T.",
+     "uri": "https://maps.google.com/maps/contrib/103166640136864475061",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhPyQ5QMyAJ8zIOV9VMILcRcDGszcvrApp1NmGWPa_OiQFrXrV=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkpqPaxAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkpqPaxAE!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMZn5srA67-V9ll-DYsmx5B98kAWxhsvo9nMZAZf_TWdY2qGsHMDz8yBpL9bsATDmwDE2SoFxQrAsw4oasK153pXxlCw65IttsTpLjx_UJVxpliMNBB5rp3hruAR2br902PhqfFGdnYqx4QIWqLsTiTtpcUEBekDsyEMkY0T7Zac4_ERWLrIqGk_FrRSO91uY4zrrIMVKU0UWHrVoEKYEYObY6hNrlOYEy5LKZalk0VAc9ldiEWTFI5C_sKMHgRJQE1YhgNybTZkjtWq7uVqc862Cjr-ajmnns6X61btFfXXPwqjjfnrjNkkGpLpApGuXEJkxhLhWzd1Rck6kxxBIadOPq7Dhawt-SJk5z6uXHndYmYzYmlURMwj4PaCjz4HYVtjNn-v_6Kx6flR3rxD2Iwww9IhC8zvny0Cwpso-6uqFw",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Katherine Polo",
+     "uri": "https://maps.google.com/maps/contrib/107168914363412420726",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3VzK-tBB5gSIjB1sMKaa39_quOFWwtRdRF-YNUYcT8F20RbtL=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAkNZWfNL7xCOf71Ft_r5b8&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAkNZWfNL7xCOf71Ft_r5b8!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMbv46l5NwZOGzee0U9ykp7dbPbloxDHp_Al5YGbWzBvjYqrxU73hhdPna_33uNahtvbyKVV6uB9dbbzUAH939uoXL8lCsKKY2lIHIgoCQu0Gdbkk1ky6IKLJJoV-Ir6FXFUZqucp4Dc1MgfO7yUE7ZMkHUyc8tEff9wuv2ZPUPFElM3gu1RuGbxXSe6Knyru_OWPPw87D9bkBZM0qaxPbLee-3qh4GX9nJqJJl7fp4r6YvlgdnhlheWUWlpxojZQ5xYxpvS3WrRXhNrx62v9GnuUGpYaFI7W7Vzql1qfRJQ38rzJxQ5GzQsvWLpOUNDmnsfqivonpeq6WcOIj10RIuHlSYf_iUD9gCO1hbJKN9l7Mi83t9mBv-vOPSQdphJryzf4P8Szj5pDnTKOFs732HMcw",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Rázuri",
+     "uri": "https://maps.google.com/maps/contrib/117133649785857507124",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzZ1Wc6tAszyKwnkdd4YocfPDZ7uQIVpsZmFp0JBa5aF2RavGRiQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDsnr6nFA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsnr6nFA!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMZNLMpRWl7xdd5zClJ-8f8IhVxEbbq6gqtxqxauD1SvHU3cf6xgTfMrYHpxM1KBpEt0fgmYqumVaQ1mrrQ4pTrOSZCEHjB6oveAMHunGIHQKSBxNBR21_94lge4-WtM5LfcQ9NfQ5WphscWeabxoCvXg5SbCcBY-iLwky3FjJVs41a12bfFSAlRg1ZRdthKLnmdY_t-S59ZJkU88FZck03pWe0Zv4TImB0J1ChbBqaeNSpGjDUvFyUwB-rBXKlFAT4FmInuL8KJuivR_cnsvLVRSAux8IkPMu_bs51sqdOlmg4pyRFS_nEnFfVMKFCmIj30ogoF6GRazHXYTSFaAkLvlNvgDp1Syhv2nNiZ7stJKzqrHYO55la6MW3uWr_Y5dH5z_G4xMz6TkMs-6_VTxKhyb8",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Abelardo Falconí Bernal",
+     "uri": "https://maps.google.com/maps/contrib/114833237735508416798",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ2aPJMxVr1SwnOBaMHYR3YMvbirJ5MBpY1B99t_kO0y2x3Onc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICciLqnBg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICciLqnBg!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMby6t0kYL3QqEwngC-e3mjD3vVzQRtZGNbAMF0zp8XqkVogy8mRqf1lSU_xgZhTz2R9lZ2zUt172wqkXwtn-jMzmpbtTf14QDrrcf7dlVHdATRmqgWO-Jbyo4uFLxDWal8t_eMvusLNza1KHD3Bj5a-sRXHIieAt4PCmbBiq1aZAATxyDiHWo9SGOnZtEZqywJ67E6uHJVsh2DCZIZTRVk39owsdzcZkkSnkVL9jlv_bPeC3wWNOQaLe3lCbsQWtyxbSyLnR55Ii9Bu0HN6SnZisNrQvQph16r0ESAK37IQb6lxEbLJvK3hnmYCZLOfjEZz7H_lynOOPlXwyIP3SUFkbhDYwKmyDgxm4a5qzNvzurJUuzdOGTuGd_YpZ0wZAMh4M5yFmArsh5o2Q_4px5z6Ww",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Ullilen",
+     "uri": "https://maps.google.com/maps/contrib/117287727781001919127",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHdCkn72BSPdSIkvdrs59LZDkKwAb45rJtrvV4Hyv3xTOz8lUn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEhrP0Sw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhrP0Sw!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMY3RZ3skTy3MfzJKMUPqXMz51aFCK0cmarNc2KUSzatg_8r5jYrsN6slZoCN2DVfuDJipvuo9j4654nBDaIarDdr_iEW37WUfTGjjYpiH987lgeF5SxT4GBaiv-49qwK4PKNHjDKVLbKKlbyeFkbnk-Ttmg1Ug3Ge34sNGuXTiozhO-7T2cgAOmwsFotw7iQuW-g4k2jhm-X83gT0WVYiKWEFowK7vTxVGQHcpljoRWDJdW3fd7-d6uo_QRXGezqbB1luKYjg0Nq4k0-6nW49hVZshr9bYLQ7RTo-rNwQZJ6LnuWipWA42fenQ8nwLOcm_tZG95C7ngTkCeeSryXo-IEYbmtCmJAwWz5hsdwFvDd8bX0hPC8OMZqKvxMq0wAzvQYmxG00OD0WuyXN3hSoUNqnR26wt-BBhTiJwbvnOZwA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Enrique Gindick",
+     "uri": "https://maps.google.com/maps/contrib/106008642282400219659",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiInStAsqPZ5h9-JLEFu3yZQYIKlaBgAYXGTqMucAANY6H2clexA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCgDnJwNdq0FUACHQBjYpjn&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCgDnJwNdq0FUACHQBjYpjn!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMbDKVj6iLdY7v0uzc0bgP4RQ-p75m_FzrWpbXDAZLvOhB4Cq3d6y3S0iFy9vI-MKrAHxdb_2v2PgQvSEiuVbi0dmW5pw5c3li9EOWlhvCqu8Yjo7sRQjd13Z-IUMRoh1H8VQSWzU-YiyxO4DErhEX5kDRymyeJuIdsj_6bRK8H0R_gkxRgEO_fLgGK8pClXFMHGf6ronyMTzY4YSQ23DZFRE-G8FDL_nd84LcpQUWu1RJWEZIlIzLb_OV28qN_Njf-tqkXQb0NdNId5i_MYRyHLBLsAHhgPml5aMFdwrzHjn8bprh7PjgoW_ihfpDXexti8zx1RjVsNeD9n2Wqz361bsqHIZK0sb5IRrbImDO6InL4E_qONOQxWyn_D5oYT74wC-_OXUANJsoQ47E7AOKBLN9ANKgQ",
+   "widthPx": 720,
+   "heightPx": 540,
+   "authorAttributions": [
+    {
+     "displayName": "Alexandra Borja",
+     "uri": "https://maps.google.com/maps/contrib/111201133197579576272",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKusEpnq-b5XW1SWzRybRAV6wD4OvnH-IMfEbP_V4zQXpzGTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk4KCD0gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk4KCD0gE!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  },
+  {
+   "name": "places/ChIJawk37M7JBZERZPtB5eEfcoM/photos/Aa-ngMYDzBze60o_4oz9lclrT5YpiVNvJeiBGyF9Tr4pqhNhES5dh2Smm-_Su61ioGukH0omfrJSfnx87LYq2X3TYyy2y9yV3omw4XjRdumZ564JVqt8fr711QPIWOXxyp4QWbzDBwzJwmf4RIqZcMoGNo1_F7nQhOJSlmMq0WFiEzprO7SeptBNrtHsvTpl8W1Euhe7NS1dkSYkLkkWUmTWfxIZtvNK2KAeE__N5L-xEibks5TZWZiIWxQN1kImXrIqjN1jZY3Bny9luASXKhZRi2rAiN0leyJTeco-x4s8HJp0B9toKDxP9TjJMV5DSrHFUnFUQ2G_vOHae42OdTkoRXluSDeVSxsJkunpi2RX31ABq236QgBvuzANb8mr-EK4pRVCMRJyFauKj_qUrHH1lLRoAig",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Nelson Balarezo Aponte",
+     "uri": "https://maps.google.com/maps/contrib/107319008579517311263",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzc2pNTAufdEp8TNTZjhm4Ap5koTUqhVQUhFIdOVqNZDRdlzo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID62_6GVw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID62_6GVw!2e10!4m2!3m1!1s0x9105c9ceec37096b:0x83721fe1e541fb64"
+  }
+ ]
+}

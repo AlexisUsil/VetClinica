@@ -1,0 +1,584 @@
+{
+ "id": "ChIJY3cwMJXGBZERoTCqmpu3lWQ",
+ "types": [
+  "pet_store",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3493597",
+ "internationalPhoneNumber": "+51 1 3493597",
+ "formattedAddress": "Av. Huarochiri 747, Lima 15012",
+ "addressComponents": [
+  {
+   "longText": "747",
+   "shortText": "747",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Huarochiri",
+   "shortText": "Av. Huarochiri",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Covima",
+   "shortText": "Covima",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.057537199999999,
+  "longitude": -76.9443795
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=7247901054265340065&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.mimitosveterinary.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 82,
+ "displayName": {
+  "text": "Veterinary Mimitos",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Huarochiri 747, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDb2NtRzlnRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Trataron a Kiwicha con mucho amor, la persona que vino a recogerla para su baño sabía mucho de perros, tipos de pelo y cuidados y nos hizo muchas recomendaciones. Se nota que quiere mucho a los perritos. Kiwi vino contenta de su baño, con un corte lindo, y a buen precio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Trataron a Kiwicha con mucho amor, la persona que vino a recogerla para su baño sabía mucho de perros, tipos de pelo y cuidados y nos hizo muchas recomendaciones. Se nota que quiere mucho a los perritos. Kiwi vino contenta de su baño, con un corte lindo, y a buen precio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Padilla Jáuregui",
+    "uri": "https://www.google.com/maps/contrib/100952502131298522775/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_kYXL0vS-l24ZTD5jHnIQ8pjKqDymGVSz2zbX3OTxMP1r8mhX=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-08-25T17:28:02.873664Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDb2NtRzlnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDb2NtRzlnRRAB!2m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURBLXJEZ1l3EAE",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 3,
+   "text": {
+    "text": "Son amables y se siente confianza al hablar pero sus productos no son tan variados en cuanto a la variación del costo que si he visto en otras veterinarias:productos novedosos y no tan caro.El ambiente de consulta es reducido y cerca a donde se colocan a orros animales como gatos.:(..mejorar en ese aspecto..que no permitan q se junten con otros animales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son amables y se siente confianza al hablar pero sus productos no son tan variados en cuanto a la variación del costo que si he visto en otras veterinarias:productos novedosos y no tan caro.El ambiente de consulta es reducido y cerca a donde se colocan a orros animales como gatos.:(..mejorar en ese aspecto..que no permitan q se junten con otros animales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella Ibarra",
+    "uri": "https://www.google.com/maps/contrib/101863401026356014592/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkW6I0zlrzKjFmc_uM_YjHH6qA_NQJpff1su3nSyHJQRf7QUlaag=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2018-06-10T03:33:00.179Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBLXJEZ1l3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBLXJEZ1l3EAE!2m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsc012djRBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Un buen lugar para llevar a mi mascota para que sea atendido, atención A1 y sobre todo, su asistente de la veterinaria muy linda y brinda confianza para dejar a mi mascota en su cuidado, recomendable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un buen lugar para llevar a mi mascota para que sea atendido, atención A1 y sobre todo, su asistente de la veterinaria muy linda y brinda confianza para dejar a mi mascota en su cuidado, recomendable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "José Luis López Aguilar",
+    "uri": "https://www.google.com/maps/contrib/116802158964195598030/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAs7arGILsI1YUzaIKQ2nJbv_3pzUl-P4qz2n3ZREjh7NxNQyk=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-11-13T05:24:13.880349Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsc012djRBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsc012djRBRRAB!2m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURMOXFydUd3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, amable con el dueño y con los animales. Y, ayuda a los animales rescatados apoyando con costo social\nServicio A1",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, amable con el dueño y con los animales. Y, ayuda a los animales rescatados apoyando con costo social\nServicio A1",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ursula Moreno",
+    "uri": "https://www.google.com/maps/contrib/102977613480636012005/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2wwl5819-nnd1O07V7GObieh6nh2oveYFfOqNwS_aTK88Wg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-06-27T16:52:08.984984Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMOXFydUd3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMOXFydUd3EAE!2m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMjUtbWx3RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Atención excelente para nuestras mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención excelente para nuestras mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rosa Virginia Martínez Castañeda",
+    "uri": "https://www.google.com/maps/contrib/115803114597485793348/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxalxB-WW2ljSJncVZT0devTS0IgFPL75BGMeOmh69O-S6rb2jXA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-01-29T18:20:03.105885Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCMjUtbWx3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCMjUtbWx3RRAB!2m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMbxOa5gRCbKkNJlSyNYX9MlQ4j918Yk67FeMbh4PvxyKUdlT7YXlk72A_azZZlyUwPBwscE-_TN95RAYX2uYHX4EfsUXtHt48xbyETzRjMTCWThbM5Moxs2MSlgNTFszK2s9e73E3nZHUp3XH2EtXayytoIrjtTBV_v6NClcuH7tXBFeKkxpK4Gw6fjrxVjBn4mI5twxGHLX0VXCfjFfkaZxAQmnB-5mVW0si5lUwq9AinmPI2toAnHjb9RZccL6rd9uJYeYNI9sS-D5PHFNODrMD1c3C4R9d3QlbEIw72RxOAg1hQz70BdaQK2DVOZ11xANbsJt6wT0r3dCBxmlhRkup4PR6DJmZdcwXWAcDyZ_JNVO-6-xmqmCpAJnQzeBiS-XOtMS3BMnYWGAQzzmkeO6BA",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThL2DfQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThL2DfQ!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMZ_fy_z__J8PIVP05SLCTuN-IY17WGcrn8E9feNT4edmVryRfQUmkFcHIHl9AGaG4DJaMuOnJWvunMJCmU7TP1nTu5fzVMmbuhI9SJmndsCHCrEHhhTUMzN5nvxJFYcBlNtYSG_RX-scag8UIGCP-vjP1nsWMdBWVA05R5oo6vlPM_2F0nK8FcvLHbPtEGWFX16s-ri3K95uff4rRUh11Xlauy0IW2LKYvM6G788sag0crAh1IU2oaVWI182SRemu9xazmpaph56h5xrRdWy2nOt6whCUmz8sxZeds98vw8b6f2dalVNmx7IMF3IeaWYRZvyCBk8_f3MGtCu2ya9Q7ZPfVcqNs4XxlPvgKS0PzLkP3DdiR1D5UQFQaIyRboAEC880OxfhKpJkv5ZfpKkpO52HU",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThO2haw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThO2haw!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMbikvp_1ROOIRfVlw3zIJCtspeR5sGEvVkebSDddFuEwT0EtpbNGBnzdVC_HfUIF-W7egz0RzV270KCN2j2trlRvZZ7AjbZb3L4nEpIsOcz_q_zHdguPQuXRFyyTKV7CxbQ7TkfDCg2khsI8_QU1iF0e9pbhkkDXeCN4CsEVIe5BXTwphVMLfHlICvlxGCM6uBH_ULosqnF1WU3uLPOdJ6t61jTMTkMuF8PwxOcVWepq01IdNgmRY06sjkKpIOCSvx0YzddeKtdrCRdo_K6vonuAynjUpCHxIpgKR6M0LuxjqmJrEXHV-S2dwZ7XyNiWCa6DbX6HyP_JqVlcQz5VJ7TcSR6zMXIDkAQ458oPrmRbYeD9Ui6Xvkjm2uOM4RpR9e4kvuFzGjdeMf3MG2WyUI0zAk",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThO2JaA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThO2JaA!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMZr7UeOj9cwd0bNAPZEL8E_Wa9J6WdHe1irtlTJUPenfzmoO13T2CLxplbCH-X-HXSQ-NZMFjqTsyCqho0iNhNFm1HolkCHVriSbeDV18QYJ78G2e-SI-YNMQz1zgEfbTbCcKI9oD6aFEjHceyt_vpJR37F1hq5LdKu9c2f4SbO9poQbIHx3hOKA2fJaTU96U2lr8ETtnYWfNt95oY4uaA1KHFVpVu-b3yjnqi8a4ZA8r74pPHWav-BvlKXoB9rVJlEMhCgw7FclaxYgPyq2-tTjqtqKVZHTKo4g86G3X5A29U06IPKVrqIh_qyGmAiNxDXbYwG9p7z9EcW8ypMPCzUAGlmgd1po0WDq_tfoaY0hZk85qEdsocJH9kWphA-r2mEMfwq10GQe85USlMxcJtVw78",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThO3pTg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThO3pTg!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMYsKJ_tQC2gXMxIP3OI5RcNPYVkJLDBVgyWzH3ASoy_A6p0NGI_0gIHHGt4pLnHVnCXiK0X-HREyCpB-ylU3rB7iv7hDlV7IBrPLsqI-ebPGfw9vqXaUx7iEnqHUfykkmMh3VEqFa9duIvJo-8KBdKdbsWgEOFrv9n9-J3vIOCDEKloZfS7aGxixBAm3WBdHLEVXSqLZED3mLeI-5aGOXx3XtIGt87EAx9AxMZYZObnJtuJpYdOOWz_2_A7ubfjmUIUJZjTy4QjZDqx-L_HPbAGp-DTBkNjWhQd5Y_Fxrs6OVpv8fza7-LBF68SqKXokfyKoXsNpe4n3k_pYXIs7Ure2dWuv_lw3bZU08BQgmVAooqJDq5y8K6MMIe-mgIFN4QuruSm-I1PSw7EBYRj_y7qWnc",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThO2hTg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThO2hTg!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMY9PhB0EMRI7AS7nlfgI2hMwo9E7Gxx8jdod3dNA9AmPtg3U36i5gNgaYYOwXzZ0O_5W-PizOK-GqYs_WD-fneRVn9XSUqQxQPhLr8BozMdm6LVMZ54pRoDXMh3Z0xuQfl9qmue_jQAeByQqjPQIuV4kkJDxTbrcbUe_qApX8ucX9r951PdJMcu1jku2ih7dlqUA5hgqGO3cO0ko3oEDhSk6Guf9wzTwyohlPzUJFrSFJncCotimJRgcBRWiMtohm5JJSVgCJBQJtoNvfueEMykRGoYmyK66RXMrMTD3j8bRGfED2EtfRzs5_OlK0zfEnZ1057Me_kq1QBTHBN71X6wpSbAPVbZOu1cj_cN9W9stMi_4AjnXVf8JH0s2XK5aumtOJNSkrg9AzFvk-3S4Ur71Zc",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICThO3lCw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICThO3lCw!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMbcehVNPKXSJV0sYdYzEbAIRWhOSMPvGtEWcjYdj7V02UtMYgzQzDwuZs5KP6fC0XR2T71QnhHKGRwLk0AXqcqJRhK_AP-PlFAF2o4I1B4sPnOKcXXn-EXOYmYoDC23BrOrVff877eEVhatIlKkpWqbA6u4hpb3YaDrOnXYTD7LoTgqRDLEFgaWEl13a4gbh-R2kwkjDltKkkv7Y8Z5ijjh40498Qa-7PX5OeKM7ucZ1t3Y-93LXDxZeOLNIEHtzJ2l8yup1GlOEsVU57LV9LrwR3Lx88wWdDno1KSh5hEqYgOok6rBfVv_8inRtigoGFRISxOjmTwTHj-Xa-0dhFlKQr5eCv7791o_Kt4e8cQICqxNaFTqjHoEkpuREXRyzl_fUZcZ4gmAWq-PIcu0Y2Zfhw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Erika Ara",
+     "uri": "https://maps.google.com/maps/contrib/114843883506359462987",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjBWc7LoyEtvK3Ia7cgLiE7uRgUNtMSX-sTlNODlwzcXAS35FS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyhILxPg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyhILxPg!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMYIlOcorOFT19APb-ErscHOhwQRIAyEDuvwjRL4hh4Hrp8FaunbP2IvgNxE4q0k2xhaNcbOxeI3cASZajezNe29FV7JCdqDvm4pRQOcFTjrxS8jROjTP7ajzmD6VmHsCIJSDnL5lDZhJl_wKnmjTiJIcsae79P5fk2Jib-mG3j_n-htDGWPj-7vej_noYCuhSRtiOS5klaJj_0DcEJFD5wa5GdDx74plAoTOxplVKJ1ZMVfOwTk2tDHffNuv2eYrZY7Bdu-Y24YfYf-W1AcpOpv3ef_dRyPpIi24FStIFr-JRr1vxsB2q0RYuEG7g9TIvQ4OIWDfyCXtcTQ7rHfs51u3vfZwcMPwClX0-eon64AfcLnyT-RaVmtBEHF6pY1VI5fdtIx_GpPKNkfuBBbW63Gf0lLXmI",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Erika Ara",
+     "uri": "https://maps.google.com/maps/contrib/114843883506359462987",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjBWc7LoyEtvK3Ia7cgLiE7uRgUNtMSX-sTlNODlwzcXAS35FS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyhILx3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyhILx3gE!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMZeoJT9mZjQu2tDGKc1XrPsyUvfh9V0YNe4nJEMiG_wDie7A327XVKpT83yHoo_V9Qh8I3pIVXF2Db8cMd-0g0wShgAzeabF5Z_crkrCC5lCCT2ja7USf_gfcLosjcQIMw3gX38ehhH_aJhiw79bOoqiooi7cnhwDi8GdAziBsPB_5rK3lXq6tJ2lO4pkP7PMhLrt0c8qFnpjwE16Zobsi63n_xBM7_Mfc54EcmPWWrQ0GMFbf64Nbt8IymkDAMz9rB-Ry_6aQhEDVr4fCbqv5zsad9urC7nQUi4S_zPQu9a2hGi5sYuRqhHYsOIb0whi1EvF_iFcVp1jD13qU3PgrWgUNrL4AI8z-5K8b2P0mGTUEaepOvsQ7rxwKcEmdRNZkO1uiQRCxp8IRf_s2DuelkoHM",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Erika Ara",
+     "uri": "https://maps.google.com/maps/contrib/114843883506359462987",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjBWc7LoyEtvK3Ia7cgLiE7uRgUNtMSX-sTlNODlwzcXAS35FS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyhILxXg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyhILxXg!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  },
+  {
+   "name": "places/ChIJY3cwMJXGBZERoTCqmpu3lWQ/photos/Aa-ngMbwQrS4FA9Pq5cvgCT_ttOTt_Ga5BAySA6O6W-p1XD41I4rRRSM_dDyXNyZSjlgp_N3iIYc8GwbbUihcNDlfKNbhON-F2Te2wN-2_8OQchxEKfe8jnK5izgj8dgdTMw9lgWkG56N8Il0DLa5LWOkedoZkZblfZzRipy_K8HewHzvQzoT_VetGg5GVqIs945MfQKUR645BQqE83x0CLa8mhbomPjRNPK3eaHtd92F7n0-Q9lyB0a3lm7yUrqm-0aRtde02OGmY5buIpD7W9gdFQJhWJ-Km4jwCplWT113bFztb5uV_oJ9eQDZ65Ipr6ptGIDs65ApbWja8b_psBTIhLlqv1MsoA9l1-jeoisboKYW7VjuAh_ZSe2cUt6AU8EyPAUrWiKy_pHnd2uQEAMxc21yg",
+   "widthPx": 1280,
+   "heightPx": 1144,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary Mimitos",
+     "uri": "https://maps.google.com/maps/contrib/109635103930839191934",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWq17QhnvuuYQd3ugk24mcnkOsJsjvCQNMLOMGZdE9vZVOmTsY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICTmM-3Mw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTmM-3Mw!2e10!4m2!3m1!1s0x9105c69530307763:0x6495b79b9aaa30a1"
+  }
+ ]
+}

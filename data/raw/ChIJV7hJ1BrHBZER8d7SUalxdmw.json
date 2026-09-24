@@ -1,0 +1,585 @@
+{
+ "id": "ChIJV7hJ1BrHBZER8d7SUalxdmw",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "998 363 782",
+ "internationalPhoneNumber": "+51 998 363 782",
+ "formattedAddress": "Ca. Mercaderes 114, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "114",
+   "shortText": "114",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Mercaderes",
+   "shortText": "Ca. Mercaderes",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Gardenias",
+   "shortText": "Las Gardenias",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1293414,
+  "longitude": -76.9842841
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=7815559175384260337&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://web.facebook.com/centroquirurgicoveterinarioperu",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 7:00–16:30",
+   "miércoles: 7:00–16:30",
+   "jueves: 7:00–16:30",
+   "viernes: 7:00–16:30",
+   "sábado: 9:30–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T12:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 20,
+ "displayName": {
+  "text": "CEQUIVET - Centro Quirúrgico Veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 7:00–16:30",
+   "miércoles: 7:00–16:30",
+   "jueves: 7:00–16:30",
+   "viernes: 7:00–16:30",
+   "sábado: 9:30–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T12:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Ca. Mercaderes 114, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tablRVVktRVmM1VVVsTVJGbHBNelpHY2taS2IyYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente todo!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente todo!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ivonne ZA",
+    "uri": "https://www.google.com/maps/contrib/116765981207676532803/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXv0BBD91L1KBsPamB6O7NnSRqz-Ki9vQENGgGrBkmHhcX5TBZf=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-07-03T00:01:38.417336224Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tablRVVktRVmM1VVVsTVJGbHBNelpHY2taS2IyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tablRVVktRVmM1VVVsTVJGbHBNelpHY2taS2IyYxAB!2m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTFJYTnlXSE5uVEdSWFRtZEVkREZFWVRWMU1tYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María Celeste Sánchez Portales",
+    "uri": "https://www.google.com/maps/contrib/115220161782143936337/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1sB70z35QTTM-B5tCoDLv61Gm7bSpkwAErKm13D41EPcOaQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-02T03:26:54.822418005Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTFJYTnlXSE5uVEdSWFRtZEVkREZFWVRWMU1tYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTFJYTnlXSE5uVEdSWFRtZEVkREZFWVRWMU1tYxAB!2m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKaFFTMDVOMU5UTFRBM1VUSlVTSGxsWms5aGNsRRAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, especialistas en problemas óseos para mascotas pequeñas y medianas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, especialistas en problemas óseos para mascotas pequeñas y medianas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alberto Barrera",
+    "uri": "https://www.google.com/maps/contrib/110988740441709280705/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuv-4YQTafl--_hFu4ozNQgLUUB-dho403VcxDV_VIEeZMMWjs=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-10-24T15:06:05.346455367Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKaFFTMDVOMU5UTFRBM1VUSlVTSGxsWms5aGNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKaFFTMDVOMU5UTFRBM1VUSlVTSGxsWms5aGNsRRAB!2m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfcG9IZ2V3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buen lugar, han tratado a mi pequeño muy bien atentos y serviciales un excelente Doctor.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen lugar, han tratado a mi pequeño muy bien atentos y serviciales un excelente Doctor.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Laura Zamudio",
+    "uri": "https://www.google.com/maps/contrib/118369327192844796899/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkzwdAtBSWF1esPyIIZwKjiHO_ovwX4ltKyeH49gRwX6Pprg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-15T18:14:16.413648Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfcG9IZ2V3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcG9IZ2V3EAE!2m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxakp2WkVnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Dr. Ricardo me ha dado confianza ante diagnósticos complejos y apoyo durante el tratamiento.\nBuena atención y excelentes profesionales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Dr. Ricardo me ha dado confianza ante diagnósticos complejos y apoyo durante el tratamiento.\nBuena atención y excelentes profesionales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ZAIDA HUANACO MONTALVO",
+    "uri": "https://www.google.com/maps/contrib/108351917982931889880/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7AWWytWAiDbfzN7ftTUWHxSThD8WXGwvTJmOof4WP678WVoq6=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-01-05T17:36:07.051607Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQxakp2WkVnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQxakp2WkVnEAE!2m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMYfaauYMYY0lf2DQJzdpk0rJoZvfwXIk9Maflm-oVAn7HVys8d3h11brH2VY8gNI1uZkBBw_sO-zAfV6aYzG03h1knGOgsage1AHNi_g2OpY9vtOm-LJHtkC47MiDH4nVuw6OgZQ7bYsKST6oy5PzsXQLzcvaakZJqLRfQWgjpycvIlLz4Wz3aX5d-jEwVurLhZO2f0KDoVvt-mFd-ARlN7trpYNXq6yOQYAm6hcfL5w_zsU1UkP0LUOsyB1BqbYdU4G0ECppbfov_FxewQPikdOPIhR6MwxY_lb8YoXIZQHeC1k299opUDkv34FwHS_XepdGso3OoNN9I4uMk0K45oXgkoe0T9amayaJh19HyZOcq86JQgLbMHxWBIy5YKP_VmjF_WzEC0Qe4x0SLsmwK2-rI",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "CEQUIVET- Centro Quirúrgico Veterinario Dr. Ricardo Villa",
+     "uri": "https://maps.google.com/maps/contrib/114736112690235712615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5BdaatRJItxYijwgzgz6IvBSrVpbgzRE-aovfmkjR4qBCO88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmqPbwRw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmqPbwRw!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMau7QhyRMmAjymlAfor2QBaGCh71Qx4cAS4COWxy2SRCc8JwGgZTXeeKHQYbTJRfcNC7r9U84yv_EFctmpEF6PZqduDK_ez-k3FFvp3LfVLV8Ff7EGKP7qUK_NBGptdOcGlQGHK3l3YKvnCRqC2P4-u5F_8D-DemTBhb2xN9DVgYhOj6kPdLmRMqpg06ZpUzjDzPq06r-ZjyczhJi5qEp4qn0R99LdhAXzQJ8yUQA5LfREqEPFpb3Ee4bFMj5CwXxHTSk78TevwClCc4iydglRynaTde_oTKpMC8-A7jveuIzMwjnFJvxQUUAUXKwCCS6BzehIOuk0PHQRgW1mgaOz9wYePL2ai70A-cfhYo8CFuXdvXgOoPMagqd5qmyYwQYlcaLVYcb1rA6SPV8TiZwVYQ-JnQ4k",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "CEQUIVET- Centro Quirúrgico Veterinario Dr. Ricardo Villa",
+     "uri": "https://maps.google.com/maps/contrib/114736112690235712615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5BdaatRJItxYijwgzgz6IvBSrVpbgzRE-aovfmkjR4qBCO88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICZ7eDaogE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZ7eDaogE!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMY5QNRCFjVzWn7YjyJjTcskibET3kVptpk8eOiBzEMkQJki0VcItVj5SLypvy4fTxjN_1ZVivpbsuaKsH5fqHtagtWpb5MsSCiHPdjQcPh3h4jYjWu8WOaeuKFEX4XKSLkrQzJNEN9zEII7QmARQH021NRRLdQi8PRme_CqlQ__UcU7lxKbhhHEsIqZI7qGZiU2FehSv6GoEuVKSs7PQlekKhNB4rIej1sXhwvaS-4fhqjAYfB0NGm7nLYjg_uJvIm2ZjjSLPnYpTf1VqIB7rkyJCG9LbcNJpegbjrMUMl0SKmVm7kVNA4MfWFJ_b2vWQnBaiWPv2mfWUOeD0eDM5VC6l3raiqGjLsE45id7FnXlSvdJNwZngqyDlDPxxO7hwaKDFHqc5hEKjE_iJo3TWVW2DxmgB_rQLbBatL6JYQ0zw",
+   "widthPx": 4080,
+   "heightPx": 3060,
+   "authorAttributions": [
+    {
+     "displayName": "Ivonne ZA",
+     "uri": "https://maps.google.com/maps/contrib/116765981207676532803",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXv0BBD91L1KBsPamB6O7NnSRqz-Ki9vQENGgGrBkmHhcX5TBZf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA0sXuR816ReoupXThjRPts&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA0sXuR816ReoupXThjRPts!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMYh0h17dbWMloCfh2o_ndlTiFKLsXf1jo3reWYhNmBOqh8Flu-s9Aui3z2Cfm4JmAtcLgdaF5RL6WPAl21a3bZ7-HxdfcdIeLNylHrwj9N1XjOknG3yybmi5O3cJ-C3dBvmcNnd-s45FdV0y4Hw_ZADCVKAkLPpKiloD7cB4obVMfeyMLrR6un1kY9m3cenyaXUz6Y1PaHprTd03o-WTJmAaJt9DkF7Zy_edFJM0JC99SZVWET0wEresPq--gO9Z0AGZSCSEVlRtUMVgLhDA_KRmn_jV7vvrntjmC3aLlgsdCYIRnpp0MB4EITjStSZb5DkJzzpyY1QETo87AxaVJe-dMg6aXeCcvsZDmzbf2dQek6QjwRo7-Qj6nWMhI5tLqsnhkebuluE5eO7Gqdf1y7IqlKxCtH1WgZTlhBXiuUkqg",
+   "widthPx": 3060,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Ivonne ZA",
+     "uri": "https://maps.google.com/maps/contrib/116765981207676532803",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXv0BBD91L1KBsPamB6O7NnSRqz-Ki9vQENGgGrBkmHhcX5TBZf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADXH0vFeAEsvImcv6gKT34&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADXH0vFeAEsvImcv6gKT34!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMZCAiPdGTEPfhuUKVgWi4OBGUKW4fIfJ5fKUxMBK22xSGzkCMrkAZC3T7sPfdvaxeANbWXu-r5tEtzABEJdyfHyRwv4_jo9XrzJRALdu2W5LJQmN1fSyjyQqXQBkLeMJOA4aLNe7TxVNZUCP4CTzP8mHDqO0ShU964pfly_lKS3SCy2sV3qa970tpIbqbVVyriOHMnN8osPlPBn9f1PDOTkq39QPvTkLl7kVMT2GaHOCXr4hIYt0tmvYNQSkBtjOF12zIKeM3LBcIXws8eWmBQGJYi-6EHvUIJHqDCGsFCuwgG-PGgOrZsa-ME0fzG4iYOcjUWZCOOlQjkakq4LwW5TcS7bvKyIfOweHiauHuyt6-ATUed4BCw4DAvab0LcLI2gXoCCOg7g1m_l6IUjcopBrcFsXM1raYJ1Gpb0FnWLyw",
+   "widthPx": 2381,
+   "heightPx": 3320,
+   "authorAttributions": [
+    {
+     "displayName": "Ivonne ZA",
+     "uri": "https://maps.google.com/maps/contrib/116765981207676532803",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXv0BBD91L1KBsPamB6O7NnSRqz-Ki9vQENGgGrBkmHhcX5TBZf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCc8i7lmQ2YdZXgQkkRODgC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCc8i7lmQ2YdZXgQkkRODgC!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMbR-1lMcVTr1jgrFlMvJ6emOat6-wVlVsxrAN4iazgE4uKv-V1TMy3SmZ_ZV4Rb8-1HpSyHzdUwwgRgHKJ8rWv3Mo5XSqBDDPcoWT7xkmExKdqefVkh3oTbQ4QN16ndruceISSRS9uSaGUuQUmf0n2gBe6R-OLOadOOC-Jnl8e6yHw0oePbi79A9JiJfbnsIa5svUbv8o9g-ZRgldgjbMN1dS4DJbP_UtHutNP1GF0notlvCktYlNh-OwTUbT3n165Yy7LqVZUf9lt-lD5siTd4HDkrDDbYDsMkuXAdhBgZEpqyhf8x4vUnNAOSYGE6RRxVh95RMyEcBdsYtstC2UX8TtpYSVc9pwcBzGFp9UAdfod4H36uxOYEYD-DjYjaeoytM3FOLy9ENhTjfexyFSLxFf0",
+   "widthPx": 1204,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Jeysson Huamán",
+     "uri": "https://maps.google.com/maps/contrib/108153004278622896290",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXI-G3Zhdb2ysInwtrSCwOWAbhwg7hLc2Ylqhz0l43E_-W0N4qY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC7-vPJEQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7-vPJEQ!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMZyczPSvANX1yrjdi5Bq5hvV5oiOoXLjpwDL_WMK1jTtqoLcRaskHVB53Hf69A-0AHq-0aHxYrIlR8ZtiBOHe43MvQLXqAaPGQCI4hoLba1IzCrJZTmhBaK1ka_okCBIKiRfXtJz0zdZDKXgTjd3Z04_lqWf47nFd8xhvkk9JchEtV5P3xXcoQZH9UFKLFcKi2SD3Wai9x93eBTokNUOeZWm_mcOYMFaZeDjQnk_Hz3QURk4_cwcMmy8U4V_akImymb31fMYIfRB2SM4jPtG5dfN-NJnS-1QL7H0EnvAuZ5kIU-KjYh9qxxBhNj0BMqdH0sVYYAe4J2c2ysVkHvLAtsbfEUAINW00r9GmdyYxxXjEVEkTkqxAO6MjaHBKORozXVkep8inglgkcv5YeTHVqqknsI",
+   "widthPx": 853,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "CEQUIVET- Centro Quirúrgico Veterinario Dr. Ricardo Villa",
+     "uri": "https://maps.google.com/maps/contrib/114736112690235712615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5BdaatRJItxYijwgzgz6IvBSrVpbgzRE-aovfmkjR4qBCO88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmsPj99QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmsPj99QE!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMZOuwFQEH623EsoSlz07p5ycV9bGecGcwfdJA64c3rzEQwAMYdsHxBgpRPNDeXGAuypIR8natikg8H9hhWNfEnuTs5hiBJAJLcWyANeS1uJrr0b9qoH7YNzmeQtmRNu4zeH1H9TPwXsomE1jD3xQviQk-LOpAraqhItjqsv0WDJvOqNGMhaiGSSR8LG0pmktIEQEUvrYogvhv5K0HDtH9C7LTayJIBfwe3LU89LA5lDNEAOBX1QLXlZQ90oVXPg9ecp3asFRsavsbTGSRW_kvfzoThRuDY0fVQF3VdHA2fZM4BkXKnELVMKZ0OlXaKVePzNG4GqvXmT_bDvVKE6XMWeSv6ErJwAh10BVOWdwWm_C4HYkjOdhktJ1I0vBmoXVjCEAC-U_P0HkJQzY68caud9QyQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Miguel Angel Rios Gomez",
+     "uri": "https://maps.google.com/maps/contrib/112344444240066580442",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVDTY1rjsurq9DdYJPgMShP6taOop0Lmzy5nG0Mh4RP6TRXGxtMw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDd097QaA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDd097QaA!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMYolwdjl39UbW_p7rGGJmHb3FhqW8hu-y0AC3tjp45hyR_TgWLNSrNK5MUE42Xv0mrXOqb5MSP2SyHeOR3-qwri35t5bRfH8EDVImHkMmn1V0EVxwkPXac-F8DLRm0tc6Xe3wMp-YAWY-BWj_BaYneahhf9GLhJEiHVQmeoRBb2yK5-iNP6Iph8KnJNr7T4dFrQOWYSRXoX8bjNhgEXvD5_4lKSuIJrJuHW6Sr0DahwjLbsqJzLbaUArTo3Jen1OGR4DtdvzKuZ1cMlDZAJPGF_e9QfJKbmJLHPZzghfKZQB2y8rd5S9BqjnVtISRZIz5lyz7Vb6bb7Za0dnTJoxbNCXa5aFgFa3Ec6ZJGh891DWMyjy3JNDnl6DOMVic8Pf4k59B4zV4512-PNQve2dRc97NY",
+   "widthPx": 1563,
+   "heightPx": 1563,
+   "authorAttributions": [
+    {
+     "displayName": "CEQUIVET- Centro Quirúrgico Veterinario Dr. Ricardo Villa",
+     "uri": "https://maps.google.com/maps/contrib/114736112690235712615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5BdaatRJItxYijwgzgz6IvBSrVpbgzRE-aovfmkjR4qBCO88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICR79jhRg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR79jhRg!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  },
+  {
+   "name": "places/ChIJV7hJ1BrHBZER8d7SUalxdmw/photos/Aa-ngMZkDovoXl_sAAHNmL1kuMLZusdXAm14RtqTsoWZxz8h27NdYcKCzsEEo53QHvwDWXWGi4WlOk542Q1kLqSK5JpqurzwacItSweHH0HlMli02bvJM_cpYIc5iYS0atw36SvN98L998p-a2T82UOdzoTihvB4UKwq7jPmUa_CS82jUZDiN1alL9sRUxMiamFntFV517lwJwiBfMiDqQMJS3ybxJwFKvmzK-d6y67cKQYHnEnuKR9DPmXtssgUDZO9GrHaV4P8JBMgRrW0JBofGRD-0I_FK6xJ-MTfoihfur_GkVXXDbw2HpEJ9NjWVn9i5bPpJCI9GNQ3wPHTdmg_1I4SQaMHt88McCq4UJIrbBXnL8KXsdOhWIZi2CZ2tdztAWj803rDcmrAyR7YzQ7qAHNll4JspkY",
+   "widthPx": 1500,
+   "heightPx": 1500,
+   "authorAttributions": [
+    {
+     "displayName": "CEQUIVET- Centro Quirúrgico Veterinario Dr. Ricardo Villa",
+     "uri": "https://maps.google.com/maps/contrib/114736112690235712615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5BdaatRJItxYijwgzgz6IvBSrVpbgzRE-aovfmkjR4qBCO88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmsPiJ1AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmsPiJ1AE!2e10!4m2!3m1!1s0x9105c71ad449b857:0x6c7671a951d2def1"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

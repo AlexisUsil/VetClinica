@@ -1,0 +1,451 @@
+{
+ "id": "ChIJI57mLA7IBZERpEROes-H8PE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4025705",
+ "internationalPhoneNumber": "+51 1 4025705",
+ "formattedAddress": "Bolognesi 180, Miraflores 15074",
+ "addressComponents": [
+  {
+   "longText": "180",
+   "shortText": "180",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Bolognesi",
+   "shortText": "Bolognesi",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Jose Balta",
+   "shortText": "Urb Jose Balta",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15074",
+   "shortText": "15074",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1197828,
+  "longitude": -77.0360674
+ },
+ "rating": 3.8,
+ "googleMapsUri": "https://maps.google.com/?cid=17433583482731119780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.andeanvet.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 6,
+ "displayName": {
+  "text": "ANDEANVET",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Bolognesi 180, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/reviews/ChZDSUhNMG9nS0VJQ0FnSURYc3FfREN3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Por si acaso, hay que pedir cita, cosa que no se aclara en la web. Llegué a la \"farmacia veterinaria\" y no pude entrar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Por si acaso, hay que pedir cita, cosa que no se aclara en la web. Llegué a la \"farmacia veterinaria\" y no pude entrar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ana lucia saavedra",
+    "uri": "https://www.google.com/maps/contrib/104111272500704588940/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDVNNyXS4c-9quhjIbiV2DhCwD3NrId30up29b-R5KvNh_l9Mr=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-10-25T20:49:22.552491Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYc3FfREN3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYc3FfREN3EAE!2m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBdGNPdDNnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Buenazoooo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenazoooo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Josef Essenwanger Ballesteros",
+    "uri": "https://www.google.com/maps/contrib/104757595205673231832/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPcjknB5r4WGZ6C7Q0XEIsKmDhxnXQa0Mmf5PSQlX0IwP37vRxcw=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2018-10-14T23:13:41.463509Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBdGNPdDNnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBdGNPdDNnRRAB!2m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdU1HOURTMkY0U0d0eVdtNTRMV1ZoTkVWWlNYYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Jose Vicentelo",
+    "uri": "https://www.google.com/maps/contrib/113592985506734307298/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUAwlnFh6T-sgU7Q7hnzRGUySgGeuvq0tTad7PwQTEcZldrg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-13T16:11:41.396881055Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOdU1HOURTMkY0U0d0eVdtNTRMV1ZoTkVWWlNYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdU1HOURTMkY0U0d0eVdtNTRMV1ZoTkVWWlNYYxAB!2m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsLWJMZmZBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Luisa Lafaix Raffo",
+    "uri": "https://www.google.com/maps/contrib/118126804287913073374/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNkwWqZ6jP-vSoo_rSDHXlM8Gkmto0yMb50o1r4ifCpbMLX9o=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-11-22T12:02:14.791748Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsLWJMZmZBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsLWJMZmZBEAE!2m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMUlYX3dBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "JORGE RAMIREZ",
+    "uri": "https://www.google.com/maps/contrib/110416921473533915067/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5HWrtDluQG67lcEtkciqUKfpxPJCfdb3L4BfMXcWurnHbPQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-06-28T15:22:42.234225Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPMUlYX3dBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPMUlYX3dBRRAB!2m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/photos/Aa-ngMaGG-GItcR6HuDOQGnCHzibmYENswbXxBt4O1DFzs5ITaOrEqlMJwXrv13Znf-tat4hU7f01R2FjtFnAqe_t9nFMO1vBagh3rIFiSjXlFWPyzc-6f0tq3qGYnMWa4nea40DK1u2-35hFRV1In2lt46lgPfQ0Rxczns0-c0PsnbrA-o6onbVSLBL7rnE0ZGR_q_bdB55tklUWMHxnKHIcWHnU9-LvDOzHwQ4mYu4MZO8k4azr7lVuhD8kOsU0CqgTe8qPx9dlUGZVDpE_EJrKnSEHx2lTXh0ugW81uhNIC55YHNgvUJ5-5iPPxuMNFvmGxqf-p_UupXPFMVv3BHA5NNorB7Y8qV0SfPQJJ-T_0Rg-28yMndo23wt0piBJjEWng5qUxbDIHbTFYd4byC8mFgeenBJj8w",
+   "widthPx": 1600,
+   "heightPx": 339,
+   "authorAttributions": [
+    {
+     "displayName": "ANDEANVET",
+     "uri": "https://maps.google.com/maps/contrib/113640223946944933382",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtblu9v1r9h93hIKZDe1xY0iL8I2AkdkHoGTT9C1eJRJgKu1cN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDfqdC3mQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfqdC3mQE!2e10!4m2!3m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/photos/Aa-ngMbcCT35HKadIqlMfOMtJqmcJYgFO14E_obRMdQ-eOrBMjeg2ELrLnC8Ngn_BdUtvGjZ7lQT64vKhtgKOMYrIKWlGOHJB_vLsXiWW3oMwGbdJjTSxXEoMk7rXJaF3nbpIRFJVt7H0wbPkdoiOtVKFYVQWanr3FVsEl_fUirXkDvgvHKIFSe1SWXSzHx6F4hipUW8IsLfQf7cP9oli8GvBZaMVNgOI4-MOYDLnYuTdOhEENmaVSwtHJOvQ4F9yCpkq7lzkL1Buy5qhgOOEi3vdRgVxPJ7SdFVdI8TBue1Sd0mwhK3mZuspg7w7pzEh4suuPe5hV7Y4HctvCY8ZjHYBa4ZkMh-a3U0Zccx7iOPzTSpKzuk8E1ECa2rTx63_dvWVz2GgrMZS_Gw28jtzKB30EZ57Z0",
+   "widthPx": 3648,
+   "heightPx": 2432,
+   "authorAttributions": [
+    {
+     "displayName": "ANDEANVET",
+     "uri": "https://maps.google.com/maps/contrib/113640223946944933382",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtblu9v1r9h93hIKZDe1xY0iL8I2AkdkHoGTT9C1eJRJgKu1cN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8o9aCbg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8o9aCbg!2e10!4m2!3m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/photos/Aa-ngMb4-4roKSeXXI0kDzxpQu-QrQ7E1TxFxWbTzxNhbJqQfPYE43sgPb1gZqX8h09xdNJV60J0Cv7jmMmFl1sFkd83PhfIstzwBSu7dYe4Cukirzt7RvWI4L0DjUDKUvxvGsR-biuPj8sK8-f-yS4MqMXiPQ9DjqmzUMB_YQDBfaSDQkwKqV1Je4KjWUoz-1fxoSDn7w3X-zCN5am3oKnmkqYM9JOeX5UjdkZtMJ9NzBu8dPBl3tmw-ZE4sWOm0LzjW2bIVq3La8XEolbjfTfOlpmm3rtZJqOfU5gtyCC9IsMhO9cHU-LPZp_450n1IhtRx35yi3S8zPG8vvKF0Oh1bgl4H3awndq9WvmUFZe7pAx_xdUg4w_be2a_2ZJih-ufsRMFJuiHR8L7lBpcmNfeM9yua0Q",
+   "widthPx": 4160,
+   "heightPx": 2336,
+   "authorAttributions": [
+    {
+     "displayName": "Josef Essenwanger Ballesteros",
+     "uri": "https://maps.google.com/maps/contrib/104757595205673231832",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPcjknB5r4WGZ6C7Q0XEIsKmDhxnXQa0Mmf5PSQlX0IwP37vRxcw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcqbu3Zg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcqbu3Zg!2e10!4m2!3m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  },
+  {
+   "name": "places/ChIJI57mLA7IBZERpEROes-H8PE/photos/Aa-ngMY77arjNNx_bn3qFsMbXT7TCCC9An2TShToaaFLHVKnl9wyHdcfzG2Lo4CSIYyiC3dE3OrL1sPuQuHnlr64nFoGnUk7LyDxqv2w-bE0e960TftClr4fOQjeSXjsUTOpQeiZg1hP5OZYUSXRIs4zXK9qrFmD0TFwWDQq8ZykEH1qOSMSnoTE2Z2tdHE1Wn-GO1FA3MtuSbEw6uGFtGBD6OyuuXipBHFDXJOBDLPzpqjLPAOV4WRjNdJW-PSpJMITvzkydOaSzdKpmgJ8BZYK8eQZ9N-NyRkoqPecsI6T11y06_6L7DnNnGNn3Htm4y-HiI86MGW3kI8HU8XyCjOEjzylOfMlO-J0jaVQYyTpi-SpM4F6r5cSQBFgJp6FaUtq8D-_TiSYR1uB03VKZwwnjU7N03bdb2w",
+   "widthPx": 1240,
+   "heightPx": 700,
+   "authorAttributions": [
+    {
+     "displayName": "ANDEANVET",
+     "uri": "https://maps.google.com/maps/contrib/113640223946944933382",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtblu9v1r9h93hIKZDe1xY0iL8I2AkdkHoGTT9C1eJRJgKu1cN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6ncu3qgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6ncu3qgE!2e10!4m2!3m1!1s0x9105c80e2ce69e23:0xf1f087cf7a4e44a4"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

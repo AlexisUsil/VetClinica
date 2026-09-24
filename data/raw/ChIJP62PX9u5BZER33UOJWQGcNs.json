@@ -1,0 +1,561 @@
+{
+ "id": "ChIJP62PX9u5BZER33UOJWQGcNs",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "991 423 096",
+ "internationalPhoneNumber": "+51 991 423 096",
+ "formattedAddress": "Calle Jose Baquijano y Carrillo 255, Santiago de Surco 15056",
+ "addressComponents": [
+  {
+   "longText": "255",
+   "shortText": "255",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Jose Baquijano y Carrillo",
+   "shortText": "Calle Jose Baquijano y Carrillo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Precursores",
+   "shortText": "Los Precursores",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15056",
+   "shortText": "15056",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1553533,
+  "longitude": -76.98905719999999
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=15812145318886012383&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 54,
+ "displayName": {
+  "text": "DermiVet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Calle Jose Baquijano y Carrillo 255, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pob1JYVllaMDVIVVd0UVQweFJaa2RDVjFkTGFIYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Veterinarios y personal con experiencia y sobre todo, buen trato.\nYa me han ayudado en un par de ocasiones con mi querida Chicky. Ah también los precios son más económicos en comparación con otras veterinarias.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Veterinarios y personal con experiencia y sobre todo, buen trato.\nYa me han ayudado en un par de ocasiones con mi querida Chicky. Ah también los precios son más económicos en comparación con otras veterinarias.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ricardo NG",
+    "uri": "https://www.google.com/maps/contrib/116967304498530629979/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUUMnIZKv84bGUav6vy7S-JMjpoKx4sKZfB90vIYcisDxrXb_kzg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-05-10T05:29:03.043473913Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pob1JYVllaMDVIVVd0UVQweFJaa2RDVjFkTGFIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pob1JYVllaMDVIVVd0UVQweFJaa2RDVjFkTGFIYxAB!2m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MU0xOXZTbU5RYzFNdGNUaHVORXQyUldkRVdrRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y atención del doctor. ✨️🙌🏻",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y atención del doctor. ✨️🙌🏻",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Nicole Carrascal",
+    "uri": "https://www.google.com/maps/contrib/103038257465763177926/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRgJqjNKV_hgIEz9ePKTLkYTSOar49JAEhefWedqUaBxgOKmDR=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-16T03:34:33.045064260Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MU0xOXZTbU5RYzFNdGNUaHVORXQyUldkRVdrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MU0xOXZTbU5RYzFNdGNUaHVORXQyUldkRVdrRRAB!2m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwcWVGSTRUQzFoUlhKd1gwSmxUVmR1WlcxaWFrRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente staff de médicos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente staff de médicos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ada Marvicned",
+    "uri": "https://www.google.com/maps/contrib/105218586020696582401/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZUJ6bllgP0Aof1tYeaJjYsKe4Z9lHmTG8B8oo6L6KXA0s_5OE=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-26T21:47:52.103737851Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwcWVGSTRUQzFoUlhKd1gwSmxUVmR1WlcxaWFrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwcWVGSTRUQzFoUlhKd1gwSmxUVmR1WlcxaWFrRRAB!2m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/reviews/ChZDSUhNMG9nS0VJQ0FnSURkd1BMN0h3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Los doctores son unos capos y amables. Mi perrito es alérgico ambiental y venía sufriendo y gastando en vano con varias veterinarias que no me daban un diagnóstico certero. Gracias a la dra especialista pude tratar a mi bb y por fin se sintió aliviado después de muchos años.\n\nLos recomiendo! sobretodo en dermatología.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los doctores son unos capos y amables. Mi perrito es alérgico ambiental y venía sufriendo y gastando en vano con varias veterinarias que no me daban un diagnóstico certero. Gracias a la dra especialista pude tratar a mi bb y por fin se sintió aliviado después de muchos años.\n\nLos recomiendo! sobretodo en dermatología.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexandra Romero",
+    "uri": "https://www.google.com/maps/contrib/110730790264580719386/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEm92DBrQ-Ay0448Wo9vgK3ujU-W9QvU0rIMiEGXV3UTZYetQ0=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-02-20T02:31:52.178981Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkd1BMN0h3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkd1BMN0h3EAE!2m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4aTY3WGVBEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "El medico muy bueno, con una receta sano a mi mascota, son  amables  tratan a los animales con cariño, precio justo, es limpio, la señorita de recepción  muy atenta, recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El medico muy bueno, con una receta sano a mi mascota, son  amables  tratan a los animales con cariño, precio justo, es limpio, la señorita de recepción  muy atenta, recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lakshmi",
+    "uri": "https://www.google.com/maps/contrib/106274076942524465321/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKidCV-fdezNj76UmAYLTiXXiQ0bwX_hxeN3VOWyNMdSSK7iA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-05-25T23:37:21.547511Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4aTY3WGVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4aTY3WGVBEAE!2m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMZIov7GfYp6hCFlpbGI8Y2e-owhZ3wHkAVat7jX4wTBa1u1CSei8-ERkGKLjsz4fwfujJlr_rcg33n4BE1kHBEiJ0vy_0pqr1BFWnEt5xGHGHx_FZ9_6gq2lp3HMicp1JvUFKjArbWH2Y4iHFfPUKsTugy72-_-RyISo2Cj4HonRe-6k3i9PTAGfs3f88yAVDKxpuFWvH0XFK6r-RwKCeDdC56Rn8jYwa-8gYFjot0MMXOjhEw2lzXZNsalPsZCoeoe0Iiubq_qPDu9D3NCAsLUMN5lxuUz0EDbyjHDkyY087foWkHusaud9LlfKJcrbiXV8tXqd-0Jbo6lgUey_taKg1MlJbQgrHgU1FnI7qG2RZ4pozD7OFakrOCE8YadGiapwLHrHZSW5HUiyQEB3b19gtjl3WHMpVVKYQ_j8naQo0pd",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Gloria Barbieri",
+     "uri": "https://maps.google.com/maps/contrib/108351283202897069957",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwFfTLmyUPUqVQL0vkTkJJABRIQvTTzpuTP_SGWr9LN-UFIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID0v7_U4AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0v7_U4AE!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMYLymEcrxg-qFWB0AwzJZR-aP01DOGed_K55KJaThNvrSvLbo1Cede_JyAdnaj7-eoFE0DfPxaYjNozIxf7k5L5my8ZsQ2kSfr9Q4YzzAfeAtqyRuzV9B9sO_0_hzHGvbGphkiF9zX_jbMr5E_qcCUHrOroNXTfGN7ddVmbtwxDr8HoS5ld6-oBzHMbbcQ_Pjv1PI-dXwsmN1vR1Zo7K_Cy6AFKSDR5TA9vOS8T4OkOmbDWCEgAi099qFVdjfbvuHlrffkzrJvAn_G4dQ6l7tqDRx3tnlJK-BPoRfXXRwOEiMhYCqSNFDzpjXrObPN3KDmi-4mJaYOCt2G5aqLce4F5lZDROs6LxtPCiLUag0rZllRi1LrDrKWnwGSEIC6ChWjqsPfPtw8mxtJ59IIT1D9cJdOCXmAEXa4Lz9tiB-jMpw",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Ita Basilica Espinoza Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/105929834596152841413",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN-251nur_exrYa3k0_iJC8fA5S5s2TOTfdRjoW277YHhNvQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID027S7CQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID027S7CQ!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMb0BmhO1yWZwZhgBGQuJP6wr9vK5iOh-Xh8V6ZE40-T-6EyqmUWca29mReyHpJP75IY-r11gz7QDvewM178Ddo7lETLYzeaCNh8IZgpn3h9gJQXihDsXKfBLEwxTNHMzEozM4SHhPefFrRYJ-7PGsWvkC-xrku9qaWcjYSAZk6rT5BLTjXM3amMMfGhtbs4E6zv4Vo6RJdyQJbkUXdRotG1W1g9bEoCe3IrG7F29QcYTYoj7vTip-FgLK_MWrp5r1ohkvpWkfDNFxq6E6loCeOe6zDaLUDQdOm9_VBxo3xj6HnlPU5-DVUSGes4UKzejHCAH0mTb63_TMUejJCu_CXz-43hQisRcsyI9-KkqO10q1RdhJEBWZXjrh1n92QPOHAjUs2TmmzwQBilxbwrCi_ft1xsACm5jN5f2pQflnWdtbvE",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Ita Basilica Espinoza Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/105929834596152841413",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN-251nur_exrYa3k0_iJC8fA5S5s2TOTfdRjoW277YHhNvQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID027S78QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID027S78QE!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMYvY0jRPCzARBTOsJXCbs1ASoPwxw93jv6rGelr9bZ43OyERZOTsz9BquM9UBkdrffBw3ujXfvLZ1F8fTHKFe6c2rD_FKEBybT50VvsNA7PTBR0-oDbg7EpXH27W0BpCYHjir3lRW-fmlNXpTtxfYIt6acsQeNzjbtM_GiaWN01fodoU-qSASeuTpoc3WYEOr3l_hUEZGA9Z_1tiYKKmJcgKv0DeT-Vlv0rKNhdK1__6zWeQDG1bML3Nn4UMWcFJSZY5Q2cT2Nv--dcUXwgGqJ-Y8tg4sNA2nwFfMl82SiS4Wd6Al4Kc34hgA_uO39veIedYc-FN72JqtTbYhe598Zu-D22n2B-xC1_3ZEWlmIMmbw4OUpZWGd2MvBVC6Ag_9Oe_423mrKAvK1h1tiSyFCImBpaJVN4w0SFb_NJKOioFg",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Gloria Barbieri",
+     "uri": "https://maps.google.com/maps/contrib/108351283202897069957",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwFfTLmyUPUqVQL0vkTkJJABRIQvTTzpuTP_SGWr9LN-UFIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID0v7_UIA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0v7_UIA!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMarSHf83FIPTF6tGIfOZKeh-_0Tm_NikEhGwUlm_DZ-eL-dEEsglFTb-y_1po7E7xOmAEeXAJT8vmtDPg-LUPKD4D-oRR3HrGWaSsfDLIXtAqEly7Ff_NKXvqNObhv-vY3v6QM0I3QgloaH8BVA0ucXEQFwE5nQwpznD_kjmVexbhQ6MMIMERM8aQyylccV-NvdCm8oHYZBEvNZLKDSN-IsOkO0L79pjp6NPb-3ebcj5HlaU2zgSVouuvHdakzIJeUnkF4v_c2M5rT-nz1WmSHdlHHajch9JZKcdLyCrpF7tc2FzyJ8XUbBmpYbstS9DOfIJNBjtkmNPjABQL2pgTLb_0WximJGm-K-IhEK8WkZVbTy_SOW8gwUEO62t6laodtma75Oo5ftczP_9W0OSaLF6DFI6BMUhykiKQ8ArYbmmohK",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Gloria Barbieri",
+     "uri": "https://maps.google.com/maps/contrib/108351283202897069957",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwFfTLmyUPUqVQL0vkTkJJABRIQvTTzpuTP_SGWr9LN-UFIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID0v7_UoAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0v7_UoAE!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMZ-ILMcNcXGgdM2_sfbgstERekcsvPeROeJLgNPTphPSKtlEv4UoR5as1S4SX5FR4atQtF-U-4-Fg5qt35pEhYlT_jUBh90Oy0GwjtADeBNZ6jNAAxXonzLHwNz68JnEURMYyH6PNMh054mZITSqp4kvOJqEMzY8Uy-oGWVYr1A4P3QJQVcDBMWYNQfQYowbS77zq6zJsPKwysZl7B-TKvnqW78k4oVYn-pNXGTYBJwDWZtwyLMjOh_hiTA1RaCD7iyRFfd-SHzViyufQA35uIvo-pK2uVhspdYlgPeQbl4UWlQ10HwQVqo5lcP0MlXYYcEbzeEG5aBZxeK7RXYQgfahxwzxMptlP4K1ly_yL22yCuWGYKnlNTA3xpEW-IiBcVfLWvnbUA8ed_VK2_tj6cUay2orGmZgmf_YTFrwNdiDQ",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Jose Pablo Martinez",
+     "uri": "https://maps.google.com/maps/contrib/118190918170878684193",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt9NbKos3jYJTxLLjMvJaff6aeAlh1b9uWziGwOhTsQHB6U099=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDS0o7hEA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDS0o7hEA!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMbWprqDpcxsEIPXH93QO-Ly3KwZtzNP1U2lFvZ5h3lvXVAkFIcAf95ZagHEsp3hpzd-N_mUiila-Ze8J0S-OnSNdXBQQRCwRtftsm0WYdOdPtwoeFZhLH-ZYQjbic8RW2kfIcsdVK6sH0oFAYTJHLeBA7VmPapACxzSzIZZvQJbgNj_yMl60pEk-Q1ABeJcINIk_RTdIac94A_PEWdWxYiwlLOxBnE9d_V2lzRcxishE0dCLG3q2iMPeSX3mh5Qm2cV8bRMD_YvWr4ob-7lKMi5Clh9e_xovCbIrgqwkOCF4Vsj88uS2Jr4P-zTWyOGBFiDsbBFev6oULCfbgk1k2wjNb4z0I-7Poj2AwOiNttM2lNqrVCftC6MkrG-V6SgAjkKSEwxTCHkwFxs-kzTU7TWfpR4I6X2TzwCY7-ba8cN8g",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Gloria Barbieri",
+     "uri": "https://maps.google.com/maps/contrib/108351283202897069957",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwFfTLmyUPUqVQL0vkTkJJABRIQvTTzpuTP_SGWr9LN-UFIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID0v7_UQA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0v7_UQA!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  },
+  {
+   "name": "places/ChIJP62PX9u5BZER33UOJWQGcNs/photos/Aa-ngMZXDbY9T0XtBom7-tBgV5mA_jTbnrQXQV-1ZIFJVV664tKjjzhsk7DUbMvDwtDzhg0vj-Y1MqB3Uwu9tl1ZFhuuO51r37scBwQMdzHaNri8W341SkwC5PpeJFfOmL-9-TcnWNsV24C2nuGhfIWqAxoNTeWl7DGpLBCJWdi7-tCRH0BbqCU2WZmvRqM4bygH8ovlNGJDm5rZCDAJVJATTW0rL-Kh3JEOtwpOYW0Rad_fo9mbg39-hhEQy-B93z-jzlBodCF0h-S67n3QE-9ZluNi2YKeMw_pGydrbG2o8Q7XNWdft0PoxkdivusX5GnRPM0RKLyk-AGC4vQU4FX_UpPUP1a4H3WOhTUKa0tqH0M4kcOhjoZbePoo_SSd6K2FFNd43Aa8cVC9bNX5MdaTKQBYBxxXFrOmLByvytW7iohlYD3x8OkC754peYJfKFG9",
+   "widthPx": 3072,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Kiara Pinchi",
+     "uri": "https://maps.google.com/maps/contrib/106132052441314320434",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKn4L1fs8Px6CAtIu3tkmMyj4078Iu3JLteyc4MaDLdYBFoA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDuXVUHYzwIWP5y02jAw0RL&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDuXVUHYzwIWP5y02jAw0RL!2e10!4m2!3m1!1s0x9105b9db5f8fad3f:0xdb700664250e75df"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

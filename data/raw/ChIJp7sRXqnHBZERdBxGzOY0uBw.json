@@ -1,0 +1,405 @@
+{
+ "id": "ChIJp7sRXqnHBZERdBxGzOY0uBw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "982 184 486",
+ "internationalPhoneNumber": "+51 982 184 486",
+ "formattedAddress": "Alameda de los Cóndores 486, La Molina 15024",
+ "addressComponents": [
+  {
+   "longText": "486",
+   "shortText": "486",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Alameda de los Cóndores",
+   "shortText": "Alameda de los Cóndores",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb la Capilla Smz.u2",
+   "shortText": "Urb la Capilla Smz.u2",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.102690899999999,
+  "longitude": -76.9461104
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=2069462194651012212&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Animal Hospital Condores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Alameda de los Cóndores 486, La Molina",
+ "photos": [
+  {
+   "name": "places/ChIJp7sRXqnHBZERdBxGzOY0uBw/photos/Aa-ngMZW9N8kdPcdDqpATdUeqOHZ5o-qJi_Zmb8mS_WqeWSuyiG4tsL-_ihOJmdOHwnHuIuxngoruDHYAAzifVorqLMS8oHCiudspl6D9zpsiSvGF0PpvGOTLsbgb7uB9xtyKNYlxK1NsQcD0ZJiwy9j9iKMpk_GacLbKYgBIOx7cA_eLv0QQF4oGivqz1tzEfRaly8LXKnalcO9O9mjWaizxCBQpLbd7vO_vcvNvaex-v_n9QrtnlJFh04tpCP88tL4Nh8RK8WgVKHzj4oZyXmCXMQZu8AJhkyXHBQpePFN0wAkuKQkLMu7hDq6aYa1-SbFeKxdG94yc5sslt392KmUs0k632NiJqKgrcIGgXDI3sgbCnedZI_ZWCjuX2fSKi9ZuMs58NLZ_j5ctE2Us8GJmmdqKb57QDZ8lqapa7wAQ-6rdg",
+   "widthPx": 1032,
+   "heightPx": 1564,
+   "authorAttributions": [
+    {
+     "displayName": "Animal Hospital Condores",
+     "uri": "https://maps.google.com/maps/contrib/104144183935631947246",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK07vFooEekpWWHgfriLrTbS6zn3F7tQaUfB8zPIvGhGHcVVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAeLSRwrZTDB_3_yhADal7L&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAeLSRwrZTDB_3_yhADal7L!2e10!4m2!3m1!1s0x9105c7a95e11bba7:0x1cb834e6cc461c74"
+  },
+  {
+   "name": "places/ChIJp7sRXqnHBZERdBxGzOY0uBw/photos/Aa-ngMbebZdqOl2gwdrTELpAM6EM0rKkBcHoGfTWmimdVuU0XgDnoCcm5nrDmTxlyEd3c2-lXDXCpkcobkMvt3O80FWTZHSRQrx0gWNOg49Ww4XgGLJOCK9rony9f9-dI1Ys2rRP6l3wR_l1NOzAE6qx9A-Xc0YO2RP6763LWm6m5SiQ9i95Rm5-ce9q7GRDTrbvUruqY5cHE8-IRPpAW2n-YaAs4PvaTMC0z4LQyw2Jz_p5Y_U6aNqMHsTZae2ejmb7gwT4h6JKm5NiQtAv2MMYbUBxOx4YM7K4CJBTBvOGmhWjm4YmHi977jqKnyRMmk-BnJz6bRLBg70dQnIHmpjlCeOEbEFDQrz0kUoI6bH0G2xulQ0z3Tb7KUpbopSY2rPJXFm1h048tOtvmmm9S1UsXKlv4GC_SseSQnJ0junGUtF30A",
+   "widthPx": 429,
+   "heightPx": 295,
+   "authorAttributions": [
+    {
+     "displayName": "Animal Hospital Condores",
+     "uri": "https://maps.google.com/maps/contrib/104144183935631947246",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK07vFooEekpWWHgfriLrTbS6zn3F7tQaUfB8zPIvGhGHcVVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCLFEboQ81Zzz0qqSs4utea&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLFEboQ81Zzz0qqSs4utea!2e10!4m2!3m1!1s0x9105c7a95e11bba7:0x1cb834e6cc461c74"
+  },
+  {
+   "name": "places/ChIJp7sRXqnHBZERdBxGzOY0uBw/photos/Aa-ngMayYpkVSE9cxgfpL_Nc8pH1xuCASgW9CCRnGKMRTYZppL8C2cWpL3b0tNv1gO6v_vfwSVUqL4KT5qTxmVZae6sfxlHXJn4ZI0wj_GZAb8NcC3kZdwU1IJxdjVz9WbwNic2TuPp9hGhNYKsRG7aNe0KGP29piTZ4MuCRLb7v3nGGsUIfAHVgshSG_Sz3xE1mLv7WfXjHrWMk26kZ_DdhUqyMxZsf0nXa_SkLeAxSSBaumps4HqNkfqpNlkubZnn896XZIf7nAZO-aul77nRwlpjW7O9jOxqC8um7mGe9kGCs1STnogR3ERA81VaNz3MFX6OTzPi0o9PNlotW0xZlDxa-pFuAAOslY0y0iW_Ezm7LLQpi1ysCdrTjY3wtFoTxUPa0_WLBGPrMJVHGyhti8wXC5MwzolOi_GS7IMTEED2G1Q",
+   "widthPx": 537,
+   "heightPx": 527,
+   "authorAttributions": [
+    {
+     "displayName": "Animal Hospital Condores",
+     "uri": "https://maps.google.com/maps/contrib/104144183935631947246",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK07vFooEekpWWHgfriLrTbS6zn3F7tQaUfB8zPIvGhGHcVVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAX9S5Ivi8F4LW7Oj5Q0LYN&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAX9S5Ivi8F4LW7Oj5Q0LYN!2e10!4m2!3m1!1s0x9105c7a95e11bba7:0x1cb834e6cc461c74"
+  },
+  {
+   "name": "places/ChIJp7sRXqnHBZERdBxGzOY0uBw/photos/Aa-ngMbcs20HdTuS_WApS3HywqffYZaz53QRZDkeXVR41XsX7eQ3M6AXaNasQVtxC6roFQ3-5b2NXMxjNeEQUG4KBa6Q20YBUrMyYCPz0agskjdHN9vDkEvJBrkUaHNVS0350qg2rgDhd-nTrxZguevLPQ1TfSGQi2uzyV2APD6r2zkfdST6W1cbOV37LOwjAExJ7w7FKvFhZnqwBTAGefu-qjRtMDOYke6cxPJwQTGF1ffixw1ZSKzEWHaAYdxjNqR1hn6cj1UFUWop2oMrSFCIVViTCO8i1BTh6-L30UoqlzPW-8GeTrA9nGgl8sVU3ShfDN2vUQwpR6eIrHK80idB8DwIyYLs9vjN9tZHTOFlHPzTxNWNhcbTnIzVDtzG0Wll73QeTGZ-h4lAd9Zqi5CerNPqbhFN0qi7KMaRzQK_ktmYGg",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Animal Hospital Condores",
+     "uri": "https://maps.google.com/maps/contrib/104144183935631947246",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK07vFooEekpWWHgfriLrTbS6zn3F7tQaUfB8zPIvGhGHcVVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBevHwBh0plEyS2cTNjxIxG&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBevHwBh0plEyS2cTNjxIxG!2e10!4m2!3m1!1s0x9105c7a95e11bba7:0x1cb834e6cc461c74"
+  },
+  {
+   "name": "places/ChIJp7sRXqnHBZERdBxGzOY0uBw/photos/Aa-ngMZMFFC8PuC-Xr-gwp0xhiin6CWV1n00ULxjAZOdnTR0F6_H_GZz7jvRFWP6Aq7RGwLrXFngn1cdAtT0MN_pA4TPFNIgd-Gjq1ud4shuNUu4gvGt3XOCEJR_7UXtk-SiodmKroWBbj4jysBQXquFXK-8vysUfNfHIR81i15bQcR7Sz_FABThRRLI_Ed411oZ_HyDc92M9gg4BTnCyRBqH_j0Z3w9T46leM98syleoYVsTiDwgJiYE7pD1yU7IIrMWa8cqxDDLbgAzl-bSyL8G70knXDY8WdDfNYaS4mP62YSx8lf9nJL9U004tNpruicMCBbgjZldc2fDp2cTOUKDm-gydi10XtvYj3np47481HdRIXrccMFOMjMoWy4A6fZBIf5LWFS5vTEXBOXjuHe83iguot5feU0OZbQbPkljJaY",
+   "widthPx": 617,
+   "heightPx": 458,
+   "authorAttributions": [
+    {
+     "displayName": "Animal Hospital Condores",
+     "uri": "https://maps.google.com/maps/contrib/104144183935631947246",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK07vFooEekpWWHgfriLrTbS6zn3F7tQaUfB8zPIvGhGHcVVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD6p1kW5Qidlft8CZTdJGFE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD6p1kW5Qidlft8CZTdJGFE!2e10!4m2!3m1!1s0x9105c7a95e11bba7:0x1cb834e6cc461c74"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true
+ }
+}

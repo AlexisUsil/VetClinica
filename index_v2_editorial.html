@@ -1,0 +1,2021 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dónde abrir una clínica veterinaria en Lima</title>
+<meta name="description" content="Informe de ubicación para una clínica veterinaria en Miraflores, San Isidro, San Borja, Santiago de Surco y La Molina.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.css">
+<style>
+/* ---- Tokens ---- */
+:root{
+  --paper:#FFFFFF; --ink:#1B1B1B; --ink-2:#4A4A4A; --ink-3:#767676;
+  --rule:#D6D6D6; --grid:#EBEBEB; --mute-data:#B8B8B8;
+  --accent:#0B6B63; --accent-wash:#E6F0EF; --risk:#B3261E;
+  --serif:'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sans:'Libre Franklin', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --measure:42rem; --wide:1100px; --head-h:104px;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:calc(var(--head-h) + 16px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 var(--sans);-webkit-font-smoothing:antialiased}
+.num,table,figcaption,.seg,output,.legend{font-variant-numeric:tabular-nums lining-nums}
+a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+a:hover{text-decoration-thickness:2px}
+button{font:inherit;color:inherit}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* ---- Cabecera sticky ---- */
+.masthead{position:sticky;top:0;z-index:1000;background:var(--paper);border-bottom:1px solid var(--rule)}
+.bar{max-width:var(--wide);margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:20px;min-height:52px}
+.brand{font:600 15px var(--serif);color:var(--ink);text-decoration:none;white-space:nowrap;min-height:44px;display:inline-flex;align-items:center}
+.toc{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
+.toc::-webkit-scrollbar{display:none}
+.toc a{font:500 14px var(--sans);color:var(--ink-3);text-decoration:none;white-space:nowrap;padding:0 8px;min-height:44px;display:inline-flex;align-items:center;border-bottom:2px solid transparent}
+.toc a:hover{color:var(--ink)}
+.toc a[aria-current="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.toc a .n{color:var(--ink-3);margin-right:4px}
+.plain-btn{background:none;border:0;padding:0 4px;min-height:44px;min-width:44px;font:500 14px var(--sans);color:var(--accent);cursor:pointer;text-decoration:underline;text-underline-offset:3px;white-space:nowrap}
+.plain-btn:hover{text-decoration-thickness:2px}
+.bar2{border-top:1px solid var(--grid);min-height:48px}
+.bar2 .lbl{font:500 13px var(--sans);color:var(--ink-3);white-space:nowrap}
+
+/* ---- Controles sobrios ---- */
+.seg{display:flex;gap:20px;border-bottom:1px solid var(--rule);overflow-x:auto;scrollbar-width:none}
+.seg::-webkit-scrollbar{display:none}
+.seg button{background:none;border:0;padding:10px 0;min-height:44px;font:500 14px var(--sans);color:var(--ink-3);border-bottom:2px solid transparent;margin-bottom:-1px;cursor:pointer;white-space:nowrap}
+.seg button:hover{color:var(--ink)}
+.seg button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.bar2 .seg{border-bottom:0;flex:1;min-width:0}
+.bar2 .seg button{margin-bottom:0}
+
+/* ---- Layout ---- */
+.page{max-width:var(--wide);margin:0 auto;padding:0 24px}
+.opening{padding-top:56px}
+.chapter{border-top:1px solid var(--rule);margin-top:80px;padding-top:48px}
+.chapter > p, .chapter > h2, .chapter > .dek, .prose, .opening > *{max-width:var(--measure)}
+.prose p{margin:0 0 1em}
+.prose p:last-child{margin-bottom:0}
+
+/* ---- Tipografía ---- */
+h1,h2,h3,h4{font-family:var(--serif);font-weight:600;color:var(--ink);margin:0;letter-spacing:-.005em;text-wrap:balance}
+h1{font-size:clamp(32px,4.2vw,44px);line-height:1.1;margin-bottom:24px}
+h2{font-size:clamp(24px,2.8vw,30px);line-height:1.18;margin-bottom:14px}
+h3{font-size:19px;line-height:1.25}
+h4{font-size:16px;line-height:1.3}
+.kicker{font:500 13px/1.4 var(--sans);color:var(--ink-3);margin:0 0 8px}
+.dek{font:400 18px/1.5 var(--serif);color:var(--ink-2);margin:0 0 28px}
+.prose{font:400 17px/1.6 var(--serif);color:var(--ink);margin-bottom:32px}
+.lede p{font:400 19px/1.6 var(--serif);margin:0 0 1em;max-width:var(--measure)}
+.lede b,.dek b,.prose b{font-weight:600;color:var(--ink)}
+.scope-note{font:400 15px/1.5 var(--sans);color:var(--ink-2);margin:8px 0 0}
+blockquote{margin:0 0 24px;font:italic 400 17px/1.5 var(--serif);color:var(--ink);max-width:var(--measure)}
+blockquote p{margin:0}
+blockquote cite{display:block;margin-top:6px;font:normal 12px/1.4 var(--sans);color:var(--ink-3)}
+.muted{color:var(--ink-3)}
+.risk{color:var(--risk);font-weight:600}
+.note{font-size:13px;line-height:1.5;color:var(--ink-3);max-width:var(--measure)}
+.est{color:var(--ink-3)}
+sup.fn{font-size:.72em;line-height:0;color:var(--ink-3);margin-left:1px}
+sup.fn a{color:inherit;text-decoration:none}
+
+/* ---- Figuras ---- */
+figure{margin:0 0 48px}
+figure.wide{max-width:var(--wide)}
+figure.col{max-width:var(--measure)}
+figure > h3,.fig-h{margin-bottom:4px}
+.fig-dek{font-size:14px;line-height:1.5;color:var(--ink-2);margin:0 0 14px;max-width:var(--measure)}
+.chart-box{position:relative;height:300px}
+.chart-box.h-s{height:220px}
+.chart-box.h-l{height:380px}
+.chart-box.h-xl{height:440px}
+.chart-box .empty,.empty{font-size:14px;color:var(--ink-3);margin:8px 0}
+figcaption{margin-top:10px;font-size:12px;line-height:1.45;color:var(--ink-3);max-width:var(--measure)}
+figcaption .src::before{content:"Fuente: ";font-weight:600}
+figcaption p{margin:0 0 4px}
+.multiples{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px}
+.multiples h4{font:600 13px/1.3 var(--sans);margin:0 0 2px}
+.multiples .sub{font-size:12px;color:var(--ink-3);margin:0 0 6px;min-height:2.6em}
+.multiples .is-pick h4{color:var(--accent)}
+.multiples .chart-box{height:150px}
+.two{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:40px;align-items:start}
+.key{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--ink-2);margin:0 0 10px}
+.key i{display:inline-block;width:18px;height:0;border-top:2px solid;vertical-align:middle;margin-right:6px}
+.key i.box{height:10px;border:0;width:12px}
+.key i.dash{border-top-style:dashed}
+
+/* ---- Tablas ---- */
+.table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 0 12px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+thead th{font:600 12px/1.3 var(--sans);color:var(--ink-3);text-align:left;padding:0 12px 8px 0;border-bottom:1px solid var(--ink);vertical-align:bottom}
+tbody td,tbody th{padding:10px 12px 10px 0;border-bottom:1px solid var(--grid);text-align:left;font-weight:400;vertical-align:top}
+td.n,th.n{text-align:right;white-space:nowrap}
+tbody tr.pick{background:var(--accent-wash)}
+tbody tr.pick th{font-weight:600}
+tbody tr:last-child td,tbody tr:last-child th{border-bottom:1px solid var(--rule)}
+th small,td small{display:block;font-size:12px;color:var(--ink-3);font-weight:400}
+td.pickcol,th.pickcol{background:var(--accent-wash)}
+table caption{caption-side:top;text-align:left;font:600 16px/1.3 var(--serif);padding:0 0 10px}
+.tbl-note{font-size:12px;color:var(--ink-3);margin:6px 0 0;max-width:var(--measure)}
+.bar-in{display:inline-block;height:6px;background:var(--mute-data);vertical-align:middle;margin-right:8px}
+.pick .bar-in,.bar-in.acc{background:var(--accent)}
+.linkish{background:none;border:0;padding:0;color:var(--accent);text-decoration:underline;text-underline-offset:2px;cursor:pointer;font:inherit;text-align:left;min-height:44px}
+thead .linkish{font:600 12px/1.3 var(--sans);color:var(--ink-3);text-decoration:none;min-height:32px}
+thead .linkish:hover{color:var(--ink)}
+
+/* ---- Heatmaps ---- */
+.heat-wrap{overflow-x:auto}
+.heat{display:grid;grid-template-columns:40px repeat(24,minmax(20px,1fr));gap:1px;min-width:600px;font-size:11px}
+.heat .hd{text-align:center;color:var(--ink-3);padding-bottom:4px}
+.heat .dl{color:var(--ink-2);align-self:center}
+.heat .c{height:26px;display:flex;align-items:center;justify-content:center;font-variant-numeric:tabular-nums}
+.heat .c.low{outline:1px solid var(--ink);outline-offset:-1px}
+table.hm td.v{text-align:center;font-variant-numeric:tabular-nums;min-width:64px;border-left:2px solid #fff}
+table.hm td.v.opp{outline:1.5px solid var(--ink);outline-offset:-3px}
+table.hm td.v.pickcol{border-left:2px solid #fff}
+table.hm th.pickcol{background:none;color:var(--accent)}
+
+/* ---- Mapa ---- */
+.maptools{display:flex;flex-wrap:wrap;align-items:center;gap:4px 18px;margin:0 0 10px}
+.toggles{display:flex;flex-wrap:wrap;gap:0 16px}
+.toggle{display:inline-flex;align-items:center;gap:6px;min-height:44px;font:500 14px var(--sans);color:var(--ink-3);background:none;border:0;padding:0;cursor:pointer}
+.toggle .bx{width:14px;height:14px;border:1.5px solid var(--ink-3);display:inline-flex;align-items:center;justify-content:center}
+.toggle[aria-pressed="true"]{color:var(--ink)}
+.toggle[aria-pressed="true"] .bx{background:var(--ink);border-color:var(--ink)}
+.toggle[aria-pressed="true"] .bx::after{content:"";width:6px;height:3px;border:solid #fff;border-width:0 0 1.5px 1.5px;transform:rotate(-45deg) translate(1px,-1px)}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 16px;background:var(--paper);border:1px solid var(--ink);color:var(--ink);font:500 14px var(--sans);cursor:pointer}
+.btn:hover{background:var(--grid)}
+.btn[aria-pressed="true"],.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn:disabled{opacity:.45;cursor:default}
+.mapgrid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:0;border-top:1px solid var(--ink);border-bottom:1px solid var(--rule)}
+#map{height:min(70vh,640px);min-height:360px;background:#EDEDED;z-index:1}
+#map.exploring{cursor:crosshair}
+#map.exploring .leaflet-interactive{cursor:crosshair}
+.side{padding:16px 0 16px 20px;border-left:1px solid var(--rule);font-size:14px;max-height:min(70vh,640px);min-height:360px;overflow-y:auto}
+.side h3{font-size:17px;margin-bottom:2px}
+.side .coords{font-size:12px;color:var(--ink-3);margin:0 0 10px}
+.side table{font-size:13px}
+.side tbody th{color:var(--ink-2);padding-right:8px}
+.side tbody td{text-align:right;white-space:nowrap;padding-right:0}
+.side .seg{margin:4px 0 12px;gap:16px}
+.side ul{margin:0;padding-left:18px}
+.side li{margin:0 0 6px}
+.side .close{float:right;margin:-10px -4px 0 0}
+.side p{margin:0 0 10px}
+.share-row{display:grid;grid-template-columns:minmax(0,1fr) 48px;gap:8px;align-items:center;font-size:13px;padding:3px 0}
+.share-row .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.share-row .b{display:block;height:4px;background:var(--mute-data);margin-top:3px}
+.hint{font-size:13px;color:var(--ink-2);min-height:20px;margin:6px 0 0}
+.legend{display:flex;flex-wrap:wrap;gap:6px 20px;font-size:13px;color:var(--ink-2);margin:10px 0 0;align-items:center}
+.legend .sw{display:inline-block;vertical-align:middle;margin-right:6px}
+.sw.dot{width:10px;height:10px;border-radius:50%}
+.sw.sq{width:14px;height:14px}
+.sw.ln{width:18px;height:0;border-top:1.5px solid var(--ink)}
+.sw.dia{width:9px;height:9px;transform:rotate(45deg);border:1.5px solid var(--ink);background:#fff}
+.leaflet-container{font-family:var(--sans)}
+.leaflet-tooltip.tt{background:#fff;border:1px solid var(--rule);border-radius:0;box-shadow:none;color:var(--ink);font:13px/1.4 var(--sans);padding:4px 8px}
+.leaflet-tooltip.tt::before{display:none}
+.leaflet-tooltip.map-label{background:rgba(255,255,255,.85);border:0;box-shadow:none;color:var(--ink);font:600 12px var(--sans);padding:1px 4px}
+.leaflet-popup-content-wrapper{border-radius:0;box-shadow:0 1px 3px rgba(0,0,0,.18);border:1px solid var(--rule)}
+.leaflet-popup-tip{box-shadow:none}
+.leaflet-popup-content{margin:12px 14px;font:13px/1.45 var(--sans);color:var(--ink);min-width:200px}
+.card-pop h4{font:600 15px/1.25 var(--serif);margin:0 0 4px}
+.card-pop p{margin:0 0 4px}
+.card-pop .acts{display:flex;flex-wrap:wrap;gap:0 14px;margin-top:6px}
+.card-pop .acts a,.card-pop .acts button{min-height:36px;display:inline-flex;align-items:center}
+.star-ic{background:none;border:0}
+.star-ic svg{display:block}
+.pin-ic{background:none;border:0}
+.poi-sq{width:7px;height:7px;background:#4A4A4A;border:1px solid #fff}
+.poi-dia{width:8px;height:8px;background:#fff;border:1.5px solid #1B1B1B;transform:rotate(45deg)}
+
+/* ---- Simulador ---- */
+.sim{display:grid;grid-template-columns:280px minmax(0,1fr);gap:40px;align-items:start}
+.inputs{display:flex;flex-direction:column;gap:14px}
+.inputs label{display:flex;flex-direction:column;gap:4px;font:500 14px var(--sans);color:var(--ink)}
+.inputs label small{font-weight:400;color:var(--ink-3);font-size:12px}
+.inputs select,.inputs input[type=number],.filters input[type=search],.filters select{font:15px var(--sans);min-height:44px;padding:0 10px;border:1px solid var(--ink-3);background:#fff;color:var(--ink);border-radius:0;width:100%}
+.inputs input[type=range],.filters input[type=range]{width:100%;accent-color:var(--accent);min-height:44px}
+.inputs .row{display:flex;align-items:center;gap:10px}
+.inputs .row output{min-width:48px;text-align:right;font-weight:600}
+.check{display:flex !important;flex-direction:row !important;align-items:center;gap:10px;min-height:44px;font-weight:400 !important;cursor:pointer}
+.check input{width:20px;height:20px;accent-color:var(--accent);margin:0}
+.result{font:400 19px/1.55 var(--serif);max-width:var(--measure);margin:0 0 18px}
+.result b{font-weight:600}
+.big{font:600 34px/1.1 var(--serif);display:block;margin:0 0 6px;color:var(--ink)}
+
+/* ---- Directorio ---- */
+.filters{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:center;margin:0 0 16px}
+.filters .grow{flex:1 1 260px}
+.filters label{display:inline-flex;align-items:center;gap:8px;font-size:14px;min-height:44px}
+.filters .rng{min-width:200px}
+.filters .rng input{width:120px}
+table.dir{font-size:14px;min-width:980px}
+table.dir td{vertical-align:middle}
+table.dir tr.row{cursor:pointer}
+table.dir tr.row:hover td{background:#F7F7F7}
+table.dir tr.open td{background:var(--accent-wash)}
+.xbtn{background:none;border:0;width:44px;min-height:44px;cursor:pointer;color:var(--ink-3);font-size:18px;line-height:1;padding:0}
+.xbtn[aria-expanded="true"]{color:var(--ink)}
+.sortbtn{background:none;border:0;padding:0;font:600 12px/1.3 var(--sans);color:var(--ink-3);cursor:pointer;min-height:36px;text-align:left}
+.sortbtn:hover,th[aria-sort] .sortbtn{color:var(--ink)}
+.soc{display:inline-flex;gap:0}
+.soc a{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;color:var(--ink-2)}
+.soc a:hover{color:var(--accent)}
+.soc svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.detail td{padding:16px 12px 20px 44px !important;background:#FAFAFA;cursor:default}
+.detail-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px;font-size:14px}
+.detail-grid h4{font:600 12px var(--sans);color:var(--ink-3);margin:0 0 4px}
+.detail-grid p{margin:0 0 12px}
+.detail-grid .rv{margin:0 0 10px;font-family:var(--serif);font-style:italic}
+.pager{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px;font-size:14px;color:var(--ink-2)}
+.pager .btns{display:flex;gap:12px;align-items:center}
+
+/* ---- Listas y notas ---- */
+ol.recs{padding-left:1.6em;margin:0 0 32px;max-width:var(--measure)}
+ol.recs li{font:400 17px/1.55 var(--serif);margin:0 0 14px;padding-left:4px}
+ol.recs li::marker{font:600 17px var(--serif);color:var(--ink-3)}
+ol.recs li b{font-weight:600}
+dl.qa{max-width:var(--measure);margin:0 0 32px}
+dl.qa dt{font:600 17px/1.35 var(--serif);margin:18px 0 4px}
+dl.qa dd{margin:0;font-size:15px;color:var(--ink-2)}
+.regblock{border-top:1px solid var(--rule);padding:24px 0 8px;display:grid;grid-template-columns:220px minmax(0,1fr);gap:24px}
+.regblock:first-of-type{border-top:1px solid var(--ink)}
+.regblock.pick h3{color:var(--accent)}
+.regblock dl{display:grid;grid-template-columns:200px minmax(0,1fr);gap:6px 16px;margin:0 0 12px;font-size:14px}
+.regblock dt{color:var(--ink-3)}
+.regblock dd{margin:0}
+.regblock p{margin:0 0 10px;font-size:14px;max-width:var(--measure)}
+.method ul{padding-left:1.2em;max-width:var(--measure);font-size:15px;color:var(--ink-2)}
+.method li{margin:0 0 10px}
+.footnotes{font-size:12px;color:var(--ink-3);max-width:var(--measure);padding-left:1.4em;margin:8px 0 0}
+.footnotes li{margin:0 0 3px}
+footer{max-width:var(--wide);margin:80px auto 0;padding:24px 24px 48px;border-top:1px solid var(--rule);font-size:12px;color:var(--ink-3)}
+.status-si{color:var(--ink);font-weight:600}
+.status-parcial{color:var(--ink-2)}
+.status-no{color:var(--risk);font-weight:600}
+table.qs td:first-child{color:var(--ink-3);width:32px}
+table.qs td.st{white-space:nowrap}
+
+.sim > *,.two > *,.mapgrid > *,.multiples > *{min-width:0}
+.chart-box canvas{max-width:100%}
+.filters input[type=checkbox]{width:20px;height:20px;accent-color:var(--accent);margin:0}
+/* ---- Responsive ---- */
+@media (max-width:1023px){
+  .mapgrid{grid-template-columns:minmax(0,1fr)}
+  .side{border-left:0;border-top:1px solid var(--rule);padding:16px 0;max-height:none;min-height:0}
+  .sim{grid-template-columns:minmax(0,1fr)}
+  .two{grid-template-columns:minmax(0,1fr)}
+  .multiples{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width:767px){
+  :root{--head-h:100px}
+  .page,.bar{padding:0 16px}
+  .bar{gap:10px}
+  .brand{display:none}
+  .chapter{margin-top:56px;padding-top:32px}
+  .opening{padding-top:32px}
+  .multiples{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+  .regblock{grid-template-columns:1fr;gap:8px}
+  .regblock dl{grid-template-columns:1fr;gap:0 0}
+  .regblock dd{margin-bottom:8px}
+  .detail-grid{grid-template-columns:1fr}
+  .lede p{font-size:18px}
+  .big{font-size:28px}
+}
+@media (prefers-reduced-motion: reduce){
+  *{scroll-behavior:auto !important;transition:none !important;animation:none !important}
+}
+@media print{
+  @page{margin:12mm}
+  .masthead,.maptools,.filters,.pager,.xbtn,.leaflet-control-zoom,.side .close,.inputs,.plain-btn{display:none !important}
+  .chapter{margin-top:24px;padding-top:16px;break-before:auto}
+  h2,h3{break-after:avoid}
+  figure,tr,.regblock{break-inside:avoid}
+  #map{height:420px !important}
+  .mapgrid,.sim,.two{grid-template-columns:1fr !important}
+  .side{max-height:none;border:0}
+  .table-wrap,.heat-wrap{overflow:visible !important}
+  table.dir{min-width:0;font-size:10px}
+  *{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  a{text-decoration:none;color:var(--ink)}
+}
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="bar">
+    <a class="brand" href="#top" data-nav="top">VetClínica</a>
+    <nav class="toc" id="toc" aria-label="Capítulos">
+      <a href="#mapa" data-nav="mapa"><span class="n">1</span>Mapa</a>
+      <a href="#distrito" data-nav="distrito"><span class="n">2</span>Distrito</a>
+      <a href="#competencia" data-nav="competencia"><span class="n">3</span>Competencia</a>
+      <a href="#horarios" data-nav="horarios"><span class="n">4</span>Horarios</a>
+      <a href="#clientes" data-nav="clientes"><span class="n">5</span>Clientes</a>
+      <a href="#municipio" data-nav="municipio"><span class="n">6</span>Municipio</a>
+      <a href="#numeros" data-nav="numeros"><span class="n">7</span>Números</a>
+      <a href="#preguntas" data-nav="preguntas"><span class="n">8</span>Preguntas</a>
+      <a href="#directorio" data-nav="directorio"><span class="n">9</span>Directorio</a>
+      <a href="#metodo" data-nav="metodo"><span class="n">10</span>Método</a>
+    </nav>
+    <button type="button" class="plain-btn" id="btn-print">Imprimir</button>
+  </div>
+  <div class="bar bar2">
+    <span class="lbl" id="dsel-lbl">Distrito</span>
+    <div class="seg" id="dsel" role="group" aria-labelledby="dsel-lbl"></div>
+  </div>
+</header>
+
+<main id="top" class="page">
+  <header class="opening">
+    <p class="kicker" id="dateline"></p>
+    <h1 id="h1"></h1>
+    <div class="lede" id="lede"></div>
+    <p class="scope-note" id="scope-note"></p>
+  </header>
+
+  <!-- 1 -->
+  <section class="chapter" id="mapa" aria-labelledby="h-mapa">
+    <p class="kicker">1 · Dónde está la competencia</p>
+    <h2 id="h-mapa"></h2>
+    <div class="prose" id="p-mapa"></div>
+    <figure class="wide">
+      <div class="maptools">
+        <div class="toggles" id="layers" role="group" aria-label="Capas del mapa"></div>
+        <button type="button" class="btn" id="btn-explore" aria-pressed="false">Explorar una ubicación</button>
+      </div>
+      <div class="mapgrid">
+        <div id="map" role="region" aria-label="Mapa de clínicas veterinarias y zonas de oportunidad"></div>
+        <aside class="side" id="side" aria-live="polite"></aside>
+      </div>
+      <p class="hint" id="map-hint"></p>
+      <div class="legend" id="map-legend"></div>
+      <figcaption><span class="src" id="src-map"></span></figcaption>
+    </figure>
+    <h3 id="h-best"></h3>
+    <p class="fig-dek" id="d-best"></p>
+    <div class="table-wrap"><table id="best"></table></div>
+    <p class="tbl-note" id="n-best"></p>
+    <figure class="wide" style="margin-top:40px">
+      <h3 id="h-g1"></h3>
+      <p class="fig-dek" id="d-g1"></p>
+      <div class="multiples" id="mult-24"></div>
+      <figcaption><span class="src">cálculo propio sobre la grilla de 400 m y la ubicación de las clínicas 24 h confirmadas (Google Places e investigación web, sep. 2026).</span></figcaption>
+    </figure>
+  </section>
+
+  <!-- 2 -->
+  <section class="chapter" id="distrito" aria-labelledby="h-distrito">
+    <p class="kicker">2 · Qué distrito conviene</p>
+    <h2 id="h-distrito"></h2>
+    <div class="prose" id="p-distrito"></div>
+    <figure class="col">
+      <h3>Puntaje de oportunidad, de 0 a 100</h3>
+      <p class="fig-dek">Promedio ponderado de seis factores. Haz click en una barra para ver ese distrito en toda la página.</p>
+      <div class="chart-box h-s"><canvas id="c-score" role="img" aria-label="Ranking de distritos por puntaje de oportunidad"></canvas><p class="empty" hidden></p></div>
+      <figcaption><span class="src">cálculo propio con CPI 2025, INEI, InfoCasas, Google Places y municipalidades.</span></figcaption>
+    </figure>
+    <figure class="wide">
+      <h3>De dónde sale cada puntaje</h3>
+      <p class="fig-dek" id="d-comp"></p>
+      <div class="table-wrap"><table id="t-comp"></table></div>
+      <p class="tbl-note" id="n-comp"></p>
+    </figure>
+    <figure class="wide">
+      <h3>Los cinco distritos, indicador por indicador</h3>
+      <p class="fig-dek">En negrita, el mejor valor de cada fila. Los valores con asterisco son estimados.</p>
+      <div class="table-wrap"><table id="t-cmp"></table></div>
+      <ol class="footnotes" id="fn-cmp"></ol>
+    </figure>
+    <figure class="wide">
+      <h3 id="h-legal"></h3>
+      <p class="fig-dek">Según el índice de usos de cada municipalidad. Pedir el Certificado de Zonificación y Vías del local antes de firmar.</p>
+      <div class="table-wrap"><table id="t-legal"></table></div>
+      <figcaption><span class="src">índices de usos (ordenanzas MML) y TUPA de cada municipalidad; detalle y enlaces en el capítulo 6.</span></figcaption>
+    </figure>
+  </section>
+
+  <!-- 3 -->
+  <section class="chapter" id="competencia" aria-labelledby="h-comp">
+    <p class="kicker">3 · Qué tan fuerte es la competencia</p>
+    <h2 id="h-comp"></h2>
+    <div class="prose" id="p-comp"></div>
+    <figure class="wide">
+      <h3 id="h-g2"></h3>
+      <p class="fig-dek" id="d-g2"></p>
+      <div class="chart-box h-xl"><canvas id="c-g2" role="img" aria-label="Clínicas según rating y número de reseñas"></canvas><p class="empty" hidden></p></div>
+      <figcaption><p>Cada círculo es una clínica. Tamaño: ticket estimado. Relleno tenue: ticket asignado por segmento, no observado. Borde negro: atiende 24 horas. Rating con un leve desplazamiento horizontal para separar puntos.</p><span class="src">Google Places (rating y reseñas, sep. 2026); ticket de webs, reseñas y segmento.</span></figcaption>
+    </figure>
+    <div class="table-wrap"><table id="t-vuln"></table></div>
+    <p class="tbl-note" id="n-vuln"></p>
+
+    <figure class="wide" style="margin-top:40px">
+      <h3 id="h-g3"></h3>
+      <p class="fig-dek" id="d-g3"></p>
+      <div class="two">
+        <div class="chart-box"><canvas id="c-g3" role="img" aria-label="Curvas de Lorenz de reseñas por distrito"></canvas><p class="empty" hidden></p></div>
+        <div class="table-wrap"><table id="t-hhi"></table></div>
+      </div>
+      <figcaption><p>Curva de Lorenz: clínicas ordenadas de menos a más reseñas. Cuanto más se aleja de la diagonal, más concentradas están las opiniones. HHI: suma de cuotas al cuadrado (0 a 10.000). Umbrales de las guías de fusiones de EE. UU. de 2010: menos de 1.500, no concentrado; más de 2.500, muy concentrado.</p><span class="src">Google Places, número de reseñas por clínica.</span></figcaption>
+    </figure>
+
+    <figure class="wide">
+      <h3 id="h-top"></h3>
+      <p class="fig-dek" id="d-top"></p>
+      <div class="table-wrap"><table id="t-top"></table></div>
+    </figure>
+
+    <div class="two">
+      <figure>
+        <h3 id="h-chains"></h3>
+        <div id="chains"></div>
+      </figure>
+      <figure>
+        <h3 id="h-ticket"></h3>
+        <p class="fig-dek" id="d-ticket"></p>
+        <div class="chart-box h-s"><canvas id="c-ticket" role="img" aria-label="Distribución del ticket estimado"></canvas><p class="empty" hidden></p></div>
+        <figcaption id="n-ticket"></figcaption>
+      </figure>
+    </div>
+
+    <figure class="wide" id="servicios">
+      <h3 id="h-g4"></h3>
+      <p class="fig-dek" id="d-g4"></p>
+      <div class="table-wrap"><table class="hm" id="t-g4"></table></div>
+      <figcaption><p>Porcentaje sobre las clínicas con servicios identificados. Más oscuro, más clínicas lo ofrecen. Con contorno: las tres celdas de cada distrito donde un servicio de margen alto o medio tiene menos oferta. Que un servicio no aparezca no prueba que la clínica no lo ofrezca.</p><span class="src">webs y redes de cada clínica (investigación sep. 2026). Margen típico: BizMetricsHQ, referencia de EE. UU. de baja confiabilidad.</span></figcaption>
+    </figure>
+  </section>
+
+  <!-- 4 -->
+  <section class="chapter" id="horarios" aria-labelledby="h-hours">
+    <p class="kicker">4 · Cuándo atienden y cuándo se necesita</p>
+    <h2 id="h-hours"></h2>
+    <div class="prose" id="p-hours"></div>
+    <figure class="wide">
+      <h3>Porcentaje de clínicas abiertas a cada hora, promedio de la semana</h3>
+      <p class="fig-dek">Misma escala en los cinco distritos. La banda gris marca la franja con menos oferta.</p>
+      <div class="multiples" id="mult-cov"></div>
+      <figcaption><span class="src">horarios de Google Places, corregidos con la web de cada clínica cuando se confirmó 24 horas.</span></figcaption>
+    </figure>
+    <figure class="wide">
+      <h3 id="h-heat"></h3>
+      <p class="fig-dek" id="d-heat"></p>
+      <div class="heat-wrap"><div class="heat" id="heat" role="img"></div></div>
+      <figcaption><span class="src">horarios de Google Places e investigación web.</span></figcaption>
+    </figure>
+    <figure class="col">
+      <h3 id="h-f24"></h3>
+      <div class="prose" id="p-f24" style="font-size:16px"></div>
+      <div class="table-wrap"><table id="t-f24"></table></div>
+    </figure>
+    <figure class="wide">
+      <h3 id="h-g6"></h3>
+      <p class="fig-dek" id="d-g6"></p>
+      <div class="key" id="k-g6"></div>
+      <div class="chart-box h-l"><canvas id="c-g6" role="img" aria-label="Demanda y oferta por hora del día"></canvas><p class="empty" hidden></p></div>
+      <figcaption><p>Demanda aproximada con la hora de publicación de las reseñas de Google (hora de Lima). La hora de una reseña no es la hora de la visita: mucha gente escribe de noche. Hay que validarlo con llamadas o datos de reservas.</p><span class="src">Google Places (reseñas con fecha y horarios).</span></figcaption>
+    </figure>
+  </section>
+
+  <!-- 5 -->
+  <section class="chapter" id="clientes" aria-labelledby="h-social">
+    <p class="kicker">5 · Qué dicen los clientes</p>
+    <h2 id="h-social"></h2>
+    <div class="prose" id="p-social"></div>
+    <figure class="wide">
+      <h3>Menciones por tema en las reseñas</h3>
+      <p class="fig-dek">A la izquierda, menciones en reseñas negativas; a la derecha, en positivas.</p>
+      <div class="chart-box h-l"><canvas id="c-themes" role="img" aria-label="Temas mencionados en reseñas"></canvas><p class="empty" hidden></p></div>
+      <figcaption id="n-themes"></figcaption>
+    </figure>
+    <div class="two">
+      <figure>
+        <h3 id="h-digital"></h3>
+        <div class="table-wrap"><table id="t-digital"></table></div>
+        <figcaption><span class="src">Google Places (web) e investigación de redes sociales, sep. 2026.</span></figcaption>
+      </figure>
+      <figure>
+        <h3>En palabras de los clientes</h3>
+        <p class="fig-dek">Reseñas recientes de una o dos estrellas.</p>
+        <div id="quotes"></div>
+      </figure>
+    </div>
+  </section>
+
+  <!-- 6 -->
+  <section class="chapter" id="municipio" aria-labelledby="h-reg">
+    <p class="kicker">6 · Qué exige el municipio</p>
+    <h2 id="h-reg"></h2>
+    <div class="prose" id="p-reg"></div>
+    <div id="reg"></div>
+  </section>
+
+  <!-- 7 -->
+  <section class="chapter" id="numeros" aria-labelledby="h-be">
+    <p class="kicker">7 · ¿Cierran los números?</p>
+    <h2 id="h-be"></h2>
+    <div class="prose" id="p-be"></div>
+    <div class="sim">
+      <form class="inputs" id="sim-form" onsubmit="return false">
+        <label>Distrito
+          <select id="s-d"></select>
+        </label>
+        <label>Tamaño del local
+          <span class="row"><input type="range" id="s-m2" min="40" max="300" step="10"><output id="o-m2"></output></span>
+          <small id="s-m2-note"></small>
+        </label>
+        <label>Ticket promedio con IGV (S/)
+          <input type="number" id="s-t" min="30" max="600" step="5" inputmode="numeric">
+        </label>
+        <label class="check"><input type="checkbox" id="s-tdist"> <span id="s-tdist-l">Usar el ticket del distrito</span></label>
+        <label>Visitas por día
+          <span class="row"><input type="range" id="s-v" min="1" max="40" step="1"><output id="o-v"></output></span>
+          <small id="s-v-note"></small>
+        </label>
+      </form>
+      <div>
+        <div id="sim-out"></div>
+        <figure>
+          <h3 id="h-g5"></h3>
+          <p class="fig-dek">Utilidad operativa mensual antes de impuestos según las visitas diarias. En color, el distrito elegido; en gris, los otros cuatro con los mismos supuestos.</p>
+          <div class="chart-box"><canvas id="c-g5" role="img" aria-label="Utilidad mensual según visitas por día"></canvas><p class="empty" hidden></p></div>
+        </figure>
+      </div>
+    </div>
+    <figure class="wide">
+      <h3>Qué mueve el punto de equilibrio</h3>
+      <p class="fig-dek" id="d-sens"></p>
+      <div class="table-wrap"><table id="t-sens"></table></div>
+    </figure>
+    <figure class="wide">
+      <h3 id="h-fair"></h3>
+      <p class="fig-dek" id="d-fair"></p>
+      <div class="table-wrap"><table id="t-fair"></table></div>
+    </figure>
+    <figure class="wide">
+      <h3>Supuestos del simulador</h3>
+      <p class="fig-dek">Fijos en esta versión. Cambian el resultado tanto como los cuatro controles de arriba.</p>
+      <div class="table-wrap"><table id="t-assump"></table></div>
+    </figure>
+  </section>
+
+  <!-- 8 -->
+  <section class="chapter" id="preguntas" aria-labelledby="h-qs">
+    <p class="kicker">8 · Las preguntas que importan</p>
+    <h2 id="h-qs"></h2>
+    <div class="prose" id="p-qs"></div>
+    <div class="table-wrap"><table class="qs" id="t-qs"></table></div>
+    <p class="tbl-note">Nivel: D, distrito; L, local o cuadra; N, negocio. Prioridad: A bloquea la decisión, B la afina, C es deseable.</p>
+  </section>
+
+  <!-- 9 -->
+  <section class="chapter" id="directorio" aria-labelledby="h-dir">
+    <p class="kicker">9 · Directorio</p>
+    <h2 id="h-dir"></h2>
+    <div class="prose" id="p-dir"></div>
+    <div class="filters" id="filters">
+      <label class="grow"><span class="sr-only">Buscar por nombre</span><input type="search" id="f-q" placeholder="Buscar clínica por nombre"></label>
+      <label><input type="checkbox" id="f-24" class="cb"> Solo 24 h confirmado</label>
+      <label><input type="checkbox" id="f-em" class="cb"> Con emergencias</label>
+      <label id="f-nc-wrap"><input type="checkbox" id="f-nc" class="cb"> Incluir lugares que no son clínicas</label>
+      <label>Tipo <select id="f-chain" aria-label="Cadena o independiente" style="width:auto"><option value="all">Todas</option><option value="chain">Cadena</option><option value="indep">Independiente</option></select></label>
+      <label class="rng">Rating mínimo <input type="range" id="f-r" min="0" max="5" step="0.1" value="0" aria-label="Rating mínimo"><output id="f-r-out" class="num">0.0</output></label>
+      <button class="btn" id="btn-csv" type="button">Descargar CSV</button>
+    </div>
+    <div class="table-wrap"><table class="dir" id="dir"></table></div>
+    <div class="pager" id="pager"></div>
+  </section>
+
+  <!-- 10 -->
+  <section class="chapter" id="metodo" aria-labelledby="h-recs">
+    <p class="kicker">10 · Huecos, recomendaciones y método</p>
+    <h2 id="h-recs"></h2>
+    <div class="prose" id="p-recs"></div>
+    <ol class="recs" id="recs"></ol>
+    <h3 style="margin:0 0 4px">Preguntas de negocio, con la respuesta de los datos</h3>
+    <dl class="qa" id="qa"></dl>
+    <h3 style="margin:0 0 10px">Próximos pasos</h3>
+    <ol class="recs" id="steps"></ol>
+    <div class="method" id="method"></div>
+  </section>
+</main>
+<footer id="footer"></footer>
+
+<script src="data/dashboard.js" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet-gesture-handling@1.2.2/dist/leaflet-gesture-handling.min.js"></script>
+<script>
+'use strict';
+/* =========================================================
+   DATOS
+   ========================================================= */
+const DASH = window.DASH || {};
+const G = DASH.global || {};
+const DIST = Array.isArray(DASH.districts) ? DASH.districts : [];
+const WEIGHTS = Object.assign({}, DASH.weights || {});
+const DNAMES = DIST.map(d => d.district);
+const RAW_PLACES = Array.isArray(DASH.places) ? DASH.places : [];
+const ALL_PLACES = RAW_PLACES.filter(p => DNAMES.includes(p.district));
+const PLACES = ALL_PLACES.filter(p => p.is_clinic !== false);
+const GEO_PLACES = PLACES.filter(p => isFinite(p.lat) && isFinite(p.lng) && p.lat !== null && p.lng !== null);
+const NON_CLINICS = typeof G.excluded_not_clinic === 'number' ? G.excluded_not_clinic : ALL_PLACES.length - PLACES.length;
+const byName = n => DIST.find(d => d.district === n) || null;
+const RANK = ((Array.isArray(DASH.ranking) && DASH.ranking.length) ? DASH.ranking
+  : DIST.slice().sort((a, b) => (b.score || 0) - (a.score || 0)).map(d => d.district)).filter(n => byName(n));
+const rankOf = n => RANK.indexOf(n) + 1;
+const BE = ((DASH.breakeven || {}).breakeven_assumptions) || {};
+const GRID = DASH.grid || {};
+const GEO = (DASH.districts_geojson && Array.isArray(DASH.districts_geojson.features)) ? DASH.districts_geojson.features : [];
+const POIS = Array.isArray(DASH.pois) ? DASH.pois.filter(q => isFinite(q.lat) && isFinite(q.lng)) : [];
+const ALL_CELLS = [];
+Object.keys(GRID).forEach(d => (Array.isArray(GRID[d]) ? GRID[d] : []).forEach(c => { if (isFinite(c.lat) && isFinite(c.lng)) ALL_CELLS.push(Object.assign({ district: d }, c)); }));
+
+const C = { ink:'#1B1B1B', ink2:'#4A4A4A', ink3:'#767676', rule:'#D6D6D6', grid:'#EBEBEB', mute:'#B8B8B8', accent:'#0B6B63', wash:'#E6F0EF', risk:'#B3261E', pin:'#8C8C8C' };
+const COMP = {
+  demand:     { name:'Demanda potencial',     desc:'hogares × % NSE A/B × % hogares con mascota' },
+  saturation: { name:'Baja saturación',       desc:'menos clínicas por cada 10 mil habitantes' },
+  quality_gap:{ name:'Competencia mejorable', desc:'rating promedio más bajo' },
+  gap_24h:    { name:'Hueco 24 h',            desc:'menor % de clínicas 24 horas' },
+  rent:       { name:'Alquiler accesible',    desc:'menor USD por m²' },
+  regulation: { name:'Trámite municipal',     desc:'menor fricción de licencia y zonificación' }
+};
+const COMP_KEYS = Object.keys(COMP).filter(k => k in WEIGHTS);
+const FRIC_SCORE = { 'Baja':100, 'Media':60, 'Alta':20 };
+const DAY_G = ['Domingo','Lunes','Martes','Miércoles','Jueves','Viernes','Sábado'];
+const HEAT_ORDER = [1,2,3,4,5,6,0];
+
+const state = {
+  district: 'all',
+  dir: { q:'', only24:false, onlyEm:false, inclNon:false, chain:'all', minRating:0, sort:{ key:'reviews_count', dir:'desc' }, page:1, pageSize:25, open:new Set() }
+};
+const charts = {};
+const reduceMotion = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+/* =========================================================
+   UTILIDADES
+   ========================================================= */
+function isNum(v) { return typeof v === 'number' && isFinite(v); }
+const nums = arr => (arr || []).filter(isNum);
+const sum = arr => nums(arr).reduce((a, b) => a + b, 0);
+const mean = arr => { const x = nums(arr); return x.length ? sum(x) / x.length : null; };
+const median = arr => { const x = nums(arr).sort((a, b) => a - b); if (!x.length) return null; const m = Math.floor(x.length / 2); return x.length % 2 ? x[m] : (x[m - 1] + x[m]) / 2; };
+const pct = (a, b) => (isNum(a) && isNum(b) && b > 0) ? 100 * a / b : null;
+function fmtN(v, dec = 0) { return isNum(v) ? v.toLocaleString('es-PE', { minimumFractionDigits: dec, maximumFractionDigits: dec }) : '—'; }
+function fmtPct(v, dec = 0) { return isNum(v) ? fmtN(v, dec) + '%' : '—'; }
+function fmtSoles(v) { return isNum(v) ? 'S/ ' + fmtN(Math.round(v)) : '—'; }
+function fmtKm(v) { return isNum(v) ? fmtN(v, v < 10 ? 1 : 0) + ' km' : '—'; }
+function fmtX(v) { return isNum(v) ? fmtN(v, 1) + '×' : '—'; }
+function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;' }[c])); }
+function slug(s) { return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+function districtFromSlug(sl) { if (!sl) return null; if (sl === 'todos') return 'all'; return DNAMES.find(d => slug(d) === sl || slug(d).endsWith('-' + sl)) || null; }
+function hexA(hex, a) { const h = hex.replace('#', ''); const n = parseInt(h, 16); return `rgba(${n >> 16 & 255},${n >> 8 & 255},${n & 255},${a})`; }
+function hh(h) { return String(h).padStart(2, '0') + ':00'; }
+function shortChain(c) { return c ? String(c).split(' (')[0].trim() : null; }
+function shortD(n) { return n === 'Santiago de Surco' ? 'Surco' : (n || ''); }
+function trunc(s, n) { s = String(s || '').replace(/\s+/g, ' ').trim(); return s.length > n ? s.slice(0, n - 1).trimEnd() + '…' : s; }
+function $(id) { return document.getElementById(id); }
+function setHTML(id, html) { const el = $(id); if (el) el.innerHTML = html; }
+function minBy(arr, f) { let best = null, bv = Infinity; (arr || []).forEach(x => { const v = f(x); if (isNum(v) && v < bv) { bv = v; best = x; } }); return best; }
+function maxBy(arr, f) { let best = null, bv = -Infinity; (arr || []).forEach(x => { const v = f(x); if (isNum(v) && v > bv) { bv = v; best = x; } }); return best; }
+function joinY(a) { a = (a || []).filter(Boolean); return a.length <= 1 ? (a[0] || '') : a.slice(0, -1).join(', ') + ' y ' + a[a.length - 1]; }
+function plural(n, s, p) { return n === 1 ? s : (p || s + 's'); }
+function cap1(s) { s = String(s || ''); return s.charAt(0).toUpperCase() + s.slice(1); }
+function numWord(n) { const W = ['ninguna','una','dos','tres','cuatro','cinco','seis','siete','ocho','nueve','diez']; return (Number.isInteger(n) && n >= 0 && n <= 10) ? W[n] : fmtN(n); }
+function oneIn(part, total) { if (!isNum(part) || !isNum(total) || part <= 0) return null; const k = Math.round(total / part); return k >= 2 ? `una de cada ${numWord(k)} clínicas` : null; }
+function isEnriched(p) { return !!((p.social_reputation && p.social_reputation !== 'Sin datos') || p.segment || (p.services || []).length || (p.sources || []).length); }
+function isEstTicket(p) { return /segment/i.test(String(p.ticket_basis || '')); }
+function hav(lat1, lng1, lat2, lng2) {
+  const R = 6371.0088, r = Math.PI / 180;
+  const dp = (lat2 - lat1) * r, dl = (lng2 - lng1) * r;
+  const a = Math.sin(dp / 2) ** 2 + Math.cos(lat1 * r) * Math.cos(lat2 * r) * Math.sin(dl / 2) ** 2;
+  return 2 * R * Math.asin(Math.min(1, Math.sqrt(a)));
+}
+function pipRing(x, y, ring) { let inside = false; for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) { const xi = ring[i][0], yi = ring[i][1], xj = ring[j][0], yj = ring[j][1]; if ((yi > y) !== (yj > y) && x < (xj - xi) * (y - yi) / (yj - yi) + xi) inside = !inside; } return inside; }
+function districtAt(lat, lng) {
+  for (const f of GEO) {
+    const g = f.geometry || {}; const polys = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+    if (polys.some(poly => pipRing(lng, lat, poly[0]) && !poly.slice(1).some(h => pipRing(lng, lat, h)))) return (f.properties || {}).district || null;
+  }
+  return null;
+}
+function pctRank(v, arr) { const x = nums(arr); if (!x.length || !isNum(v)) return null; return 100 * x.filter(a => a <= v).length / x.length; }
+function quantile(arr, q) { const x = nums(arr).sort((a, b) => a - b); if (!x.length) return null; const i = (x.length - 1) * q; const lo = Math.floor(i), hi = Math.ceil(i); return x[lo] + (x[hi] - x[lo]) * (i - lo); }
+
+/* ---------- viabilidad legal ---------- */
+function legalStatus(d) {
+  const r = (d && d.regulation) || {};
+  if (!Object.keys(r).length) return { lvl:'na', short:'Sin investigar', txt:'zonificación sin investigar', zones:null };
+  const z = Array.isArray(r.zoning_allowed) ? r.zoning_allowed.filter(Boolean) : [];
+  if (r.cap_exists === true) return { lvl:'bad', short:'No', txt:'no se pueden abrir clínicas nuevas', zones:0 };
+  if (r.cap_exists === 'unknown') return { lvl:'mid', short:'Sin verificar', txt:'zonificación sin verificar', zones:null };
+  if (!z.length) return { lvl:'bad', short:'No', txt:'solo se permite consultorio', zones:0 };
+  if (z.length === 1) return { lvl:'mid', short:'Solo en un eje', txt:`la clínica solo es conforme en ${z[0]}`, zones:1 };
+  return { lvl:'good', short:'Sí', txt:`la clínica es conforme en ${z.length} tipos de zona`, zones:z.length };
+}
+function legalAnswer(d) {
+  const L = legalStatus(d), r = (d && d.regulation) || {}; const z = (r.zoning_allowed || []).filter(Boolean);
+  if (L.lvl === 'good') return `Sí, en ${fmtN(z.length)} tipos de zona`;
+  if (L.lvl === 'mid' && L.zones === 1) return `Solo en un eje: ${z[0]}`;
+  if (L.lvl === 'mid') return 'Sin verificar';
+  if (L.lvl === 'bad' && r.cap_exists === true) return `No: ${z.length ? z[0].charAt(0).toLowerCase() + z[0].slice(1) : 'tope de hecho'}`;
+  if (L.lvl === 'bad') return 'No, solo consultorio';
+  return 'Sin investigar';
+}
+function normas(d) {
+  const r = (d && d.regulation) || {};
+  const txt = [r.cap_note, r.zoning_allowed_note].filter(Boolean).join(' ');
+  const m = txt.match(/Ord\.\s*[\d-]+(?:-MML)?/g) || [];
+  return [...new Set(m.map(s => s.replace(/\s+/, ' ')))];
+}
+const goodDistricts = () => DIST.filter(d => legalStatus(d).lvl === 'good').map(d => d.district);
+const badDistricts = () => DIST.filter(d => legalStatus(d).lvl === 'bad').map(d => d.district);
+
+/* =========================================================
+   ALCANCE
+   ========================================================= */
+function validGrid(g) { return Array.isArray(g) && g.length === 7 && g.every(r => Array.isArray(r) && r.length === 24); }
+function scope() {
+  const all = state.district === 'all';
+  const d = all ? null : byName(state.district);
+  const P = all ? PLACES : PLACES.filter(p => p.district === state.district);
+  const Pall = all ? ALL_PLACES : ALL_PLACES.filter(p => p.district === state.district);
+  const ratings = nums(P.map(p => p.rating));
+  const tickets = nums(P.map(p => p.ticket));
+  const n24 = P.filter(p => p.is_24h).length;
+  const totalRev = sum(P.map(p => p.reviews_count || 0));
+  const top = P.slice().sort((a, b) => (b.reviews_count || 0) - (a.reviews_count || 0)).slice(0, 8)
+    .map(p => ({ p, name:p.name, rating:p.rating, reviews:p.reviews_count || 0, share: totalRev ? 100 * (p.reviews_count || 0) / totalRev : null, is_24h:p.is_24h, chain:shortChain(p.chain) }));
+  const src = all ? G : (d || {});
+  return {
+    all, d, P, Pall, name: all ? 'los cinco distritos' : state.district, label: all ? 'los cinco distritos' : state.district,
+    count: P.length, n24, pct24: pct(n24, P.length), avgRating: mean(ratings), ratings, totalRev,
+    tickets, avgTicket: mean(tickets), lowRated: ratings.filter(r => r < 4).length, top,
+    themes: src.themes || {}, coverage: validGrid(src.coverage) ? src.coverage : null, activity: src.activity || {}
+  };
+}
+const focusName = () => state.district !== 'all' ? state.district : RANK[0];
+const isFocus = n => n === focusName();
+
+/* ---------- métricas derivadas ---------- */
+function lorenz(P) {
+  const r = P.map(p => p.reviews_count || 0).sort((a, b) => a - b); const T = sum(r);
+  if (!r.length || !T) return null;
+  let cum = 0; const pts = [{ x:0, y:0 }];
+  r.forEach((v, i) => { cum += v; pts.push({ x: (i + 1) / r.length * 100, y: cum / T * 100 }); });
+  let area = 0; for (let i = 1; i < pts.length; i++) area += (pts[i].x - pts[i - 1].x) * (pts[i].y + pts[i - 1].y) / 2;
+  const hhi = sum(r.map(v => (v / T * 100) ** 2));
+  const top3 = sum(r.slice(-3)) / T * 100;
+  return { pts, hhi, top3, gini: 1 - area / 5000, n: r.length };
+}
+function hhiLabel(h) { return !isNum(h) ? '—' : h > 2500 ? 'muy concentrado' : h >= 1500 ? 'moderadamente concentrado' : 'no concentrado'; }
+const VULN_R = 4.3, VULN_N = 50;
+const isVuln = p => isNum(p.rating) && p.rating < VULN_R && (p.reviews_count || 0) >= VULN_N;
+function topNegThemes(p, n = 2) {
+  return Object.entries(p.themes || {}).map(([k, v]) => ({ k, neg: (v && v.neg) || 0 })).filter(t => t.neg > 0).sort((a, b) => b.neg - a.neg).slice(0, n).map(t => t.k);
+}
+function coverageAnalysis(grid, total) {
+  if (!grid) return null;
+  const flat = grid.flat(); const mn = Math.min(...flat), mx = Math.max(...flat);
+  const thr = mn + 0.1 * (mx - mn);
+  const avgH = Array.from({ length:24 }, (_, h) => mean(grid.map(r => r[h])));
+  const lowH = avgH.map((v, h) => v <= thr + 0.5 ? h : -1).filter(h => h >= 0);
+  const ranges = []; lowH.forEach(h => { const last = ranges[ranges.length - 1]; if (last && last[1] === h - 1) last[1] = h; else ranges.push([h, h]); });
+  if (ranges.length > 1 && ranges[0][0] === 0 && ranges[ranges.length - 1][1] === 23) { const l = ranges.pop(); ranges[0] = [l[0], ranges[0][1]]; }
+  const main = ranges.slice().sort((a, b) => ((b[1] - b[0] + 24) % 24) - ((a[1] - a[0] + 24) % 24))[0];
+  const rangeTxt = main ? `${hh(main[0])} y las ${hh((main[1] + 1) % 24)}` : null;
+  const lowAvg = lowH.length ? mean(lowH.map(h => avgH[h])) : mn;
+  const dayTot = grid.map(r => sum(r)); const wd = dayTot.indexOf(Math.min(...dayTot));
+  let peakH = 0; avgH.forEach((v, h) => { if (v > avgH[peakH]) peakH = h; });
+  return { mn, mx, thr, lowH, main, rangeTxt, lowAvg, lowPct: pct(lowAvg, total), weakDay: DAY_G[wd], peakH, peakV: avgH[peakH], avgH };
+}
+function themeStats(themes) {
+  return Object.entries(themes || {}).map(([name, v]) => ({ name, pos: (v && v.pos) || 0, neg: (v && v.neg) || 0 }))
+    .map(t => ({ ...t, total: t.pos + t.neg, negPct: pct(t.neg, t.pos + t.neg) })).filter(t => t.total > 0).sort((a, b) => b.total - a.total);
+}
+function worstTheme(themes) {
+  const T = themeStats(themes); if (!T.length) return null;
+  const minVol = Math.max(5, 0.03 * sum(T.map(t => t.total)));
+  return maxBy(T.filter(t => t.total >= minVol), t => t.negPct) || maxBy(T, t => t.negPct);
+}
+function demandSupply(src, P) {
+  const A = (src.activity || {}).by_hour; const cov = validGrid(src.coverage) ? src.coverage : null;
+  if (!Array.isArray(A) || A.length !== 24 || !sum(A) || !cov) return null;
+  let a = A.slice(); const nRev = sum(A);
+  const smooth = nRev < 100;
+  if (smooth) a = a.map((v, h) => (A[(h + 23) % 24] + v + A[(h + 1) % 24]) / 3);
+  const Cs = Array.from({ length:24 }, (_, h) => sum(cov.map(r => r[h])));
+  const sa = sum(a), sc = sum(Cs);
+  const dem = a.map(v => 100 * v / sa), sup = Cs.map(v => sc ? 100 * v / sc : null);
+  const idx = dem.map((v, h) => isNum(sup[h]) && sup[h] > 0 ? v / sup[h] : null);
+  return { dem, sup, idx, nRev, smooth };
+}
+function peakRun(idx, thr) {
+  let best = null, cur = null;
+  idx.forEach((v, h) => { if (isNum(v) && v >= thr) { if (cur && cur.e === h - 1) cur.e = h; else { cur = { s:h, e:h }; } if (!best || (cur.e - cur.s) > (best.e - best.s) || ((cur.e - cur.s) === (best.e - best.s) && cur !== best && mean(idx.slice(cur.s, cur.e + 1)) > mean(idx.slice(best.s, best.e + 1)))) best = { s:cur.s, e:cur.e }; } else cur = null; });
+  return best ? { s:best.s, e:best.e, avg: mean(idx.slice(best.s, best.e + 1)), max: Math.max(...nums(idx.slice(best.s, best.e + 1))) } : null;
+}
+
+/* ---------- simulador ---------- */
+function staffMonthly(o = {}) {
+  const s = BE.staff || {};
+  const vets = isNum(o.vets) ? o.vets : s.vets, ov = isNum(o.overhead) ? o.overhead : s.labor_overhead_pct;
+  if ([vets, s.vet_gross_soles, s.assistants, s.assistant_gross_soles, ov].every(isNum))
+    return (vets * s.vet_gross_soles + s.assistants * s.assistant_gross_soles) * (1 + ov / 100);
+  return isNum(BE.staff_monthly_soles) ? BE.staff_monthly_soles : null;
+}
+function simulate(d, o = {}) {
+  if (!d) return null;
+  const m2 = isNum(o.m2) ? o.m2 : BE.local_m2;
+  const usd = BE.usd_pen, days = BE.working_days_month;
+  const rentM2 = isNum(d.rent_usd_m2) ? d.rent_usd_m2 * (isNum(o.rentMul) ? o.rentMul : 1) : null;
+  const ticket = isNum(o.ticket) ? o.ticket : BE.ticket_default_soles;
+  const sup = (isNum(o.supplies) ? o.supplies : BE.supplies_pct) / 100;
+  const igv = BE.ticket_includes_igv === false ? 0 : (BE.igv_pct || 0) / 100;
+  const staff = staffMonthly(o);
+  const vets = isNum(o.vets) ? o.vets : (BE.staff || {}).vets;
+  if (![m2, usd, days, rentM2, ticket, staff].every(isNum) || !isNum(BE.other_fixed_monthly_soles)) return null;
+  const rent = rentM2 * m2 * usd;
+  const fixed = rent + staff + BE.other_fixed_monthly_soles;
+  const net = ticket / (1 + igv);
+  const contrib = net * (1 - sup);
+  const be = contrib > 0 ? fixed / contrib / days : null;
+  const mt = (BE.margin_target_pct || 0) / 100;
+  const target = net * (1 - sup - mt) > 0 ? fixed / (net * (1 - sup - mt)) / days : null;
+  const capex = isNum(BE.capex_usd_100m2) ? BE.capex_usd_100m2 * (BE.capex_scale_with_m2 === false ? 1 : m2 / 100) * usd : null;
+  const profit = v => v * days * contrib - fixed;
+  const capacity = isNum(vets) && isNum(BE.visits_per_vet_day_capacity) ? vets * BE.visits_per_vet_day_capacity : null;
+  const res = { d, m2, ticket, rent, staff, fixed, net, contrib, be, target, capex, profit, capacity, days,
+    rentPct: v => v > 0 ? 100 * rent / (v * days * net) : null,
+    payback: v => { const p = profit(v); return p > 0 && isNum(capex) ? capex / p : null; } };
+  const fs = BE.fair_share || {};
+  if ([d.households, fs.pet_households_pct, fs.vet_visit_rate, fs.visits_per_household_year, fs.open_days_year, d.count].every(isNum)) {
+    res.fair = d.households * fs.pet_households_pct / 100 * fs.vet_visit_rate * fs.visits_per_household_year / (d.count + 1) / fs.open_days_year;
+    res.multiple = isNum(be) && res.fair > 0 ? be / res.fair : null;
+  }
+  return res;
+}
+const simAll = o => DIST.map(d => simulate(d, typeof o === 'function' ? o(d) : o)).filter(Boolean);
+
+/* =========================================================
+   CHART HELPERS
+   ========================================================= */
+const hasChart = typeof window.Chart !== 'undefined';
+const valueLabels = {
+  id:'valueLabels',
+  afterDatasetsDraw(chart, args, opts) {
+    if (!opts || !opts.enabled) return;
+    const ctx = chart.ctx; ctx.save();
+    ctx.font = "500 12px 'Libre Franklin', sans-serif"; ctx.textBaseline = 'middle';
+    const horiz = chart.options.indexAxis === 'y';
+    chart.data.datasets.forEach((ds, di) => {
+      if (opts.datasetIndex != null && opts.datasetIndex !== di) return;
+      const meta = chart.getDatasetMeta(di); if (meta.hidden) return;
+      meta.data.forEach((el, i) => {
+        const v = ds.data[i]; if (!isNum(v)) return;
+        const txt = opts.fmt ? opts.fmt(v, i) : String(v); if (!txt) return;
+        ctx.fillStyle = opts.color ? (typeof opts.color === 'function' ? opts.color(i) : opts.color) : C.ink;
+        if (horiz) { ctx.textAlign = v < 0 ? 'right' : 'left'; ctx.fillText(txt, el.x + (v < 0 ? -6 : 6), el.y); }
+        else { ctx.textAlign = 'center'; ctx.fillText(txt, el.x, el.y - 9); }
+      });
+    });
+    ctx.restore();
+  }
+};
+if (hasChart) {
+  Chart.register(valueLabels);
+  if (window['chartjs-plugin-annotation']) { try { Chart.register(window['chartjs-plugin-annotation']); } catch (e) { /* ya registrado */ } }
+  Chart.defaults.font.family = "'Libre Franklin', sans-serif";
+  Chart.defaults.font.size = 12;
+  Chart.defaults.color = C.ink3;
+  Chart.defaults.borderColor = C.grid;
+  Chart.defaults.maintainAspectRatio = false;
+  Chart.defaults.plugins.legend.display = false;
+  Object.assign(Chart.defaults.plugins.tooltip, { backgroundColor:'#FFFFFF', titleColor:C.ink, bodyColor:C.ink, borderColor:C.rule, borderWidth:1, cornerRadius:0, padding:8, displayColors:false, titleFont:{ weight:'600' } });
+  Chart.defaults.elements.bar.borderRadius = 0;
+  Chart.defaults.animation = reduceMotion ? false : { duration: 300 };
+}
+function setEmpty(id, msg) {
+  const cv = $(id); if (!cv) return;
+  const em = cv.parentElement.querySelector('.empty');
+  if (msg) { if (charts[id]) { charts[id].destroy(); delete charts[id]; } cv.style.display = 'none'; if (em) { em.hidden = false; em.textContent = msg; } }
+  else { cv.style.display = ''; if (em) em.hidden = true; }
+}
+function mkChart(id, cfg) {
+  const el = $(id); if (!el) return null;
+  if (charts[id]) { charts[id].destroy(); delete charts[id]; }
+  if (!hasChart) { setEmpty(id, 'No se pudo cargar la librería de gráficos (requiere conexión a internet).'); return null; }
+  setEmpty(id, null);
+  try { charts[id] = new Chart(el, cfg); } catch (e) { console.error('[chart]', id, e); setEmpty(id, 'No se pudo dibujar este gráfico.'); return null; }
+  return charts[id];
+}
+const yGrid = { color: C.grid }, noGrid = { display:false };
+const soles0 = v => 'S/ ' + fmtN(v);
+
+/* =========================================================
+   SELECCIÓN GLOBAL
+   ========================================================= */
+function select(d, opts = {}) {
+  state.district = (d && DNAMES.includes(d)) ? d : 'all';
+  state.dir.page = 1; state.dir.open.clear();
+  const h = state.district === 'all' ? '#todos' : '#' + slug(state.district);
+  if (location.hash !== h) history.replaceState(null, '', h);
+  renderAll(opts);
+}
+function renderAll(opts = {}) {
+  const steps = [renderSelector, renderOpening, () => renderMap(opts), renderDistrict, renderCompetition, renderHours, renderSocial, renderRegulation, renderSimulator, renderQuestions, renderDirectory, renderRecs];
+  steps.forEach(fn => { try { fn(); } catch (e) { console.error('[render]', fn.name || 'renderMap', e); } });
+}
+function renderSelector() {
+  const items = [{ v:'all', t:'Todos' }].concat(RANK.map(n => ({ v:n, t:`${shortD(n)}` })));
+  setHTML('dsel', items.map(it => `<button type="button" data-d="${esc(it.v)}" aria-pressed="${state.district === it.v}">${esc(it.t)}</button>`).join(''));
+}
+
+/* =========================================================
+   APERTURA: TITULAR Y LEDE
+   ========================================================= */
+function renderOpening() {
+  const top = byName(RANK[0]), second = byName(RANK[1]);
+  const N = PLACES.length;
+  setHTML('dateline', `Informe de ubicación · Lima, cinco distritos · datos al ${esc(DASH.generated_at || '—')}`);
+  if (!top) { setHTML('h1', 'Todavía no hay datos suficientes para recomendar un distrito'); setHTML('lede', ''); return; }
+  const goods = goodDistricts(), bads = badDistricts();
+  const Lt = legalStatus(top);
+  const onlyGood = Lt.lvl === 'good' && goods.length === 1;
+  setHTML('h1', onlyGood
+    ? `${esc(shortD(top.district))} es el distrito donde conviene abrir la clínica, y el único de los cinco donde la norma lo permite con claridad`
+    : `${esc(shortD(top.district))} es el distrito donde conviene abrir la clínica veterinaria`);
+  const hhMax = maxBy(DIST, d => d.households);
+  const legalP = Lt.lvl === 'good' ? (onlyGood ? `es el único de los cinco donde la zonificación permite una clínica veterinaria con hospitalización (en ${fmtN(Lt.zones)} tipos de zona)` : `la zonificación permite la clínica en ${fmtN(Lt.zones)} tipos de zona`)
+    : `aunque allí ${esc(Lt.txt)}`;
+  const hhP = hhMax && hhMax.district === top.district ? ` Es también el que tiene más hogares por atender: unos ${fmtN(top.households)}.` : (isNum(top.households) ? ` Tiene unos ${fmtN(top.households)} hogares.` : '');
+  const p1 = `Recomendamos abrir en <b>${esc(top.district)}</b>. Obtiene ${fmtN(top.score)} de 100 puntos${second ? `, ${fmtN(top.score - second.score)} más que ${esc(second.district)}, el segundo,` : ''} y ${legalP}.${hhP}`;
+  // competencia del distrito recomendado
+  const Pt = PLACES.filter(p => p.district === top.district); const Lz = lorenz(Pt);
+  const lowT = Pt.filter(p => isNum(p.rating) && p.rating < 4).length;
+  const cov = coverageAnalysis(validGrid(G.coverage) ? G.coverage : null, N);
+  const f24 = PLACES.filter(p => p.is_24h_google === true && p.is_24h === false).length;
+  let p2 = `Contamos ${fmtN(N)} clínicas en los cinco distritos. ${esc(shortD(top.district))} tiene ${fmtN(Pt.length)} (${fmtPct(pct(Pt.length, N))} del total)`;
+  p2 += Lz ? `, pero la competencia está ${Lz.top3 < 40 ? 'dispersa' : 'concentrada'}: las tres más reseñadas suman ${fmtPct(Lz.top3)} de las opiniones y ${fmtN(lowT)} tienen rating por debajo de 4,0.` : '.';
+  if (cov && cov.rangeTxt) p2 += ` La noche es la franja con menos oferta: entre las ${cov.rangeTxt} abren en promedio ${fmtN(cov.lowAvg)} de ${fmtN(N)} clínicas${f24 ? `, y ${numWord(f24)} de las que Google marca como "24 horas" no lo son` : ''}.`;
+  const sims = simAll({}); const bes = nums(sims.map(s => s.be)); const mults = nums(sims.map(s => s.multiple));
+  let p3 = '';
+  if (bes.length) p3 += `Los números dependen más del volumen que del alquiler. Con un local de ${fmtN(BE.local_m2)} m² y ${fmtN((BE.staff || {}).vets)} veterinarios, el punto de equilibrio va de ${fmtN(Math.min(...bes), 1)} a ${fmtN(Math.max(...bes), 1)} visitas al día según el distrito${mults.length ? `, entre ${fmtN(Math.min(...mults), 1)} y ${fmtN(Math.max(...mults), 1)} veces lo que le tocaría a cada clínica si la demanda se repartiera por igual` : ''}. `;
+  if (bads.length) p3 += `En ${esc(joinY(bads))} la norma no permite una clínica nueva. `;
+  p3 += 'Antes de firmar un alquiler en cualquier distrito hay que pedir el Certificado de Zonificación y Vías del local.';
+  setHTML('lede', `<p>${p1}</p><p>${p2}</p><p>${p3}</p>`);
+  const S = scope();
+  setHTML('scope-note', S.all ? `La página muestra los cinco distritos. Elige uno en la barra superior para ver sus cifras; el enlace de la página cambia y se puede compartir.`
+    : `Estás viendo <b>${esc(S.d.district)}</b>: puesto ${fmtN(rankOf(S.d.district))} de ${fmtN(RANK.length)} en el ranking, con ${fmtN(S.d.score)} de 100 puntos. <button type="button" class="linkish" data-d="all">Ver los cinco distritos</button>`);
+}
+
+/* =========================================================
+   1. MAPA
+   ========================================================= */
+const hasL = typeof window.L !== 'undefined';
+let map = null, canvasR = null;
+const LYR = {};
+const LAYER_DEF = [
+  { k:'pins', l:'Clínicas', on:true },
+  { k:'h24', l:'Clínicas 24 h', on:true },
+  { k:'grid', l:'Celdas de oportunidad', on:true },
+  { k:'stars', l:'Zonas sugeridas', on:true },
+  { k:'park', l:'Parques', on:false },
+  { k:'pet_shop', l:'Petshops', on:false },
+  { k:'supermarket', l:'Supermercados', on:false },
+  { k:'poly', l:'Límites de distrito', on:true }
+];
+const layerOn = {}; LAYER_DEF.forEach(x => { layerOn[x.k] = x.on; });
+const pinMarkers = [];     // {m, p}
+const cellRects = [];      // {r, c}
+const polyLayers = {};     // district -> layer
+const EX = { on:false, lat:null, lng:null, radius:1, marker:null, c1:null, c2:null, line:null, lineLbl:null };
+const CELL_KM = 0.4;
+const maxRev = Math.max(1, ...GEO_PLACES.map(p => p.reviews_count || 0));
+const cellHigh = {};       // district -> umbral del 20% superior
+Object.keys(GRID).forEach(d => { cellHigh[d] = quantile((GRID[d] || []).map(c => c.score), 0.8); });
+
+function starSVG(n, size = 26) {
+  return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" aria-hidden="true"><polygon points="12 1.5 15.2 8.1 22.4 9.1 17.2 14.1 18.5 21.3 12 17.9 5.5 21.3 6.8 14.1 1.6 9.1 8.8 8.1" fill="${C.accent}" stroke="#fff" stroke-width="1.4"/><text x="12" y="15.6" text-anchor="middle" font-size="8.5" font-weight="700" font-family="Libre Franklin, sans-serif" fill="#fff">${n}</text></svg>`;
+}
+function pinStyle(p, active) {
+  if (p.is_24h) return { radius: 5.5, fillColor: C.accent, fillOpacity: active ? 1 : .25, color:'#fff', weight: 1.5, opacity: active ? 1 : .3 };
+  return { radius: 3 + 5 * Math.sqrt((p.reviews_count || 0) / maxRev), fillColor: C.pin, fillOpacity: active ? .85 : .18, color:'#fff', weight: .6, opacity: active ? .9 : .2 };
+}
+function cellStyle(c) {
+  const thr = cellHigh[c.district];
+  const hi = isNum(thr) && isNum(c.score) && c.score >= thr;
+  const mx = Math.max(...nums((GRID[c.district] || []).map(x => x.score)));
+  if (hi) return { stroke:true, color:'#fff', weight:.4, fillColor: C.accent, fillOpacity: .22 + .33 * (mx > thr ? (c.score - thr) / (mx - thr) : 1) };
+  return { stroke:true, color:'#fff', weight:.4, fillColor: C.ink3, fillOpacity: .04 + .1 * (isNum(c.score) ? c.score / 100 : 0) };
+}
+function cellTip(c) {
+  return `Celda de 400 m · score ${fmtN(c.score)}<br>${fmtN(c.clinics_1km)} ${plural(c.clinics_1km, 'clínica')} a 1 km · 24 h a ${fmtKm(c.nearest_24h_km)}<br>${fmtN(c.pois_500m)} parques, petshops o supermercados cerca · ~${fmtN(c.households_est)} hogares`;
+}
+function pinCard(p) {
+  const st = p.is_24h ? 'Atiende 24 horas' : p.is_24h_google ? '<span class="risk">Google dice 24 h; sus canales, no</span>' : 'Horario regular';
+  return `<div class="card-pop"><h4>${esc(p.name)}</h4>
+    <p>${isNum(p.rating) ? fmtN(p.rating, 1) : '—'} de 5 · ${fmtN(p.reviews_count)} reseñas · ${esc(p.district)}</p>
+    <p>${st}${p.segment ? ' · ' + esc(p.segment) : ''}</p>
+    <p>Ticket ${fmtSoles(p.ticket)}${isNum(p.ticket) && isEstTicket(p) ? '*' : ''}${isNum(p.consult_price) ? ` · consulta ${fmtSoles(p.consult_price)}` : ''}</p>
+    <p class="muted">${fmtN(p.competitors_1km)} competidores a 1 km · 24 h más cercano a ${fmtKm(p.nearest_24h_km)}</p>
+    <div class="acts">${p.maps_url ? `<a href="${esc(p.maps_url)}" target="_blank" rel="noopener">Google Maps</a>` : ''}
+      <button type="button" class="linkish" data-dirq="${esc(p.name)}">Ver en el directorio</button>
+      <button type="button" class="linkish" data-explore="${p.lat},${p.lng}">Explorar desde aquí</button></div>
+    ${isNum(p.ticket) && isEstTicket(p) ? '<p class="muted" style="margin-top:4px">* Ticket estimado por segmento.</p>' : ''}</div>`;
+}
+function initMap() {
+  if (!hasL) { setHTML('map', '<p class="empty" style="padding:16px">No se pudo cargar el mapa (requiere conexión a internet).</p>'); return; }
+  const gh = !!(window.leafletGestureHandling || (L.Map && L.Map.GestureHandling));
+  map = L.map('map', { zoomControl:true, preferCanvas:true, gestureHandling: gh, scrollWheelZoom: gh, attributionControl:true }).setView([-12.1, -77.0], 12);
+  canvasR = L.canvas({ tolerance: 6 });
+  const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
+  L.tileLayer(ESRI + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', { maxZoom:16, attribution:'Mapa base &copy; Esri, HERE, Garmin, &copy; colaboradores de OpenStreetMap' }).addTo(map);
+  L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom:16, opacity:.5 }).addTo(map);
+  // polígonos
+  LYR.poly = L.layerGroup();
+  GEO.forEach(f => {
+    const n = (f.properties || {}).district; if (!n) return;
+    const lay = L.geoJSON(f, { interactive:false, style:{ color:C.ink3, weight:1, fill:false } });
+    polyLayers[n] = lay; LYR.poly.addLayer(lay);
+  });
+  // grilla
+  LYR.grid = L.layerGroup();
+  ALL_CELLS.forEach(c => {
+    const dlat = CELL_KM / 110.57 / 2, dlng = CELL_KM / (111.32 * Math.cos(c.lat * Math.PI / 180)) / 2;
+    const r = L.rectangle([[c.lat - dlat, c.lng - dlng], [c.lat + dlat, c.lng + dlng]], Object.assign({ renderer: canvasR }, cellStyle(c)));
+    r.bindTooltip(cellTip(c), { sticky:true, className:'tt', direction:'top' });
+    cellRects.push({ r, c });
+  });
+  // POIs
+  LYR.park = L.layerGroup(); LYR.pet_shop = L.layerGroup(); LYR.supermarket = L.layerGroup();
+  POIS.forEach(q => {
+    let m;
+    if (q.kind === 'park' || q.kind === 'dog_park') m = L.circleMarker([q.lat, q.lng], { renderer: canvasR, radius: q.kind === 'dog_park' ? 4 : 2.5, fillColor:'#A9A9A9', fillOpacity:.7, color: q.kind === 'dog_park' ? C.ink : '#A9A9A9', weight: q.kind === 'dog_park' ? 1.5 : 0, bubblingMouseEvents:true });
+    else if (q.kind === 'pet_shop') m = L.marker([q.lat, q.lng], { icon: L.divIcon({ className:'', html:'<div class="poi-dia"></div>', iconSize:[10, 10], iconAnchor:[5, 5] }), keyboard:false });
+    else if (q.kind === 'supermarket') m = L.marker([q.lat, q.lng], { icon: L.divIcon({ className:'', html:'<div class="poi-sq"></div>', iconSize:[9, 9], iconAnchor:[4, 4] }), keyboard:false });
+    if (!m) return;
+    const lbl = { park:'Parque', dog_park:'Parque canino', pet_shop:'Petshop', supermarket:'Supermercado' }[q.kind];
+    m.bindTooltip(`${lbl}${q.name ? ': ' + esc(q.name) : ''}`, { className:'tt', direction:'top' });
+    LYR[q.kind === 'dog_park' ? 'park' : q.kind].addLayer(m);
+  });
+  // clínicas (grandes primero para que las chicas queden encima)
+  LYR.pins = L.layerGroup(); LYR.h24 = L.layerGroup();
+  GEO_PLACES.slice().sort((a, b) => (b.reviews_count || 0) - (a.reviews_count || 0)).forEach(p => {
+    const m = L.circleMarker([p.lat, p.lng], Object.assign({ renderer: canvasR, bubblingMouseEvents:false }, pinStyle(p, true)));
+    m.bindTooltip(`${esc(p.name)} · ${isNum(p.rating) ? fmtN(p.rating, 1) : '—'} (${fmtN(p.reviews_count)} reseñas)${p.is_24h ? ' · 24 h' : ''}`, { className:'tt', direction:'top', offset:[0, -4] });
+    m.bindPopup(() => pinCard(p), { maxWidth: 260 });
+    (p.is_24h ? LYR.h24 : LYR.pins).addLayer(m); pinMarkers.push({ m, p });
+  });
+  LYR.stars = L.layerGroup();
+  ['poly', 'grid', 'park', 'pet_shop', 'supermarket', 'pins', 'h24', 'stars'].forEach(k => { if (layerOn[k]) LYR[k].addTo(map); });
+  map.on('click', e => { if (EX.on) placePin(e.latlng.lat, e.latlng.lng); });
+  renderLayerToggles();
+}
+function renderLayerToggles() {
+  setHTML('layers', LAYER_DEF.map(x => `<button type="button" class="toggle" data-layer="${x.k}" aria-pressed="${!!layerOn[x.k]}"><span class="bx" aria-hidden="true"></span>${esc(x.l)}</button>`).join(''));
+}
+function setLayer(k, on) {
+  layerOn[k] = on;
+  if (map && LYR[k]) { if (on) LYR[k].addTo(map); else map.removeLayer(LYR[k]); }
+  if (map && on) { pinMarkers.forEach(({ m, p }) => { if (!p.is_24h && m._map) m.bringToFront(); }); pinMarkers.forEach(({ m, p }) => { if (p.is_24h && m._map) m.bringToFront(); }); }
+  renderLayerToggles(); renderLegend();
+}
+function renderLegend() {
+  const it = [];
+  if (layerOn.pins) it.push(`<span><i class="sw dot" style="background:${C.pin}"></i>Clínica (tamaño según reseñas)</span>`);
+  if (layerOn.h24) it.push(`<span><i class="sw dot" style="background:${C.accent};box-shadow:0 0 0 1.5px #fff,0 0 0 2.5px ${C.accent}"></i>Atiende 24 h (confirmado)</span>`);
+  if (layerOn.grid) it.push(`<span><i class="sw sq" style="background:${hexA(C.accent, .45)}"></i>Celda de 400 m entre el 20% con mejor score de su distrito</span><span><i class="sw sq" style="background:${hexA(C.ink3, .12)}"></i>Resto de celdas (más oscura, mejor score)</span>`);
+  if (layerOn.stars) it.push(`<span><span class="sw" style="display:inline-block">${starSVG('', 16)}</span>Zona sugerida, 3 por distrito</span>`);
+  if (layerOn.park) it.push(`<span><i class="sw dot" style="background:#A9A9A9"></i>Parque</span><span><i class="sw dot" style="background:#A9A9A9;box-shadow:0 0 0 1.5px ${C.ink}"></i>Parque canino</span>`);
+  if (layerOn.pet_shop) it.push(`<span><i class="sw dia"></i>Petshop</span>`);
+  if (layerOn.supermarket) it.push(`<span><i class="sw sq" style="width:9px;height:9px;background:#4A4A4A"></i>Supermercado</span>`);
+  if (layerOn.poly) it.push(`<span><i class="sw ln"></i>Límite distrital</span>`);
+  if (EX.marker) it.push(`<span><i class="sw ln" style="border-color:${C.accent}"></i>Tu ubicación: radio de 1 km (continuo) y 2 km (punteado)</span>`);
+  setHTML('map-legend', it.join('') || '<span class="muted">Todas las capas están apagadas.</span>');
+}
+function renderMap(opts = {}) {
+  const S = scope();
+  const cellsIn = S.all ? ALL_CELLS : ALL_CELLS.filter(c => c.district === S.d.district);
+  // titular y prosa
+  if (S.all) {
+    const most = maxBy(DIST, d => d.count);
+    const below = most ? DIST.filter(d => d !== most && isNum(d.households_per_clinic) && d.households_per_clinic < most.households_per_clinic).map(d => shortD(d.district)) : [];
+    setHTML('h-mapa', most ? (below.length
+      ? `${esc(shortD(most.district))} reúne ${fmtN(most.count)} de las ${fmtN(PLACES.length)} clínicas y aun así tiene más hogares por clínica que ${esc(joinY(below))}`
+      : `${esc(shortD(most.district))} reúne ${fmtN(most.count)} de las ${fmtN(PLACES.length)} clínicas y tiene el menor número de hogares por clínica`) : 'Sin datos de clínicas');
+    const least = minBy(DIST, d => d.count);
+    const far = cellsIn.filter(c => isNum(c.nearest_24h_km) && c.nearest_24h_km > 2);
+    const farBy = {}; far.forEach(c => { farBy[c.district] = (farBy[c.district] || 0) + 1; });
+    const farTop = Object.entries(farBy).sort((a, b) => b[1] - a[1])[0];
+    setHTML('p-mapa', `<p>Contamos ${fmtN(PLACES.length)} clínicas en los cinco distritos. ${least ? `${esc(least.district)} es el que tiene menos: ${fmtN(least.count)}, ${fmtN(least.count_24h)} de ellas abiertas las 24 horas.` : ''} ${most && isNum(most.households_per_clinic) ? `En ${esc(shortD(most.district))} hay ${fmtN(most.households_per_clinic)} hogares por clínica.` : ''}</p>
+      <p>Dividimos cada distrito en celdas de 400 m. En color aparecen las que tienen pocas clínicas a 1 km, quedan lejos de un 24 h y están cerca de parques, petshops o supermercados. ${far.length ? `Solo ${fmtN(far.length)} de ${fmtN(cellsIn.length)} celdas quedan a más de 2 km de una clínica 24 h${farTop ? `, y ${fmtN(farTop[1])} de ellas están en ${esc(farTop[0])}` : ''}.` : 'Ninguna celda queda a más de 2 km de una clínica 24 h.'} Con el botón «Explorar una ubicación» puedes marcar un local candidato y ver qué hay a su alrededor.</p>`);
+  } else {
+    const d = S.d; const b = (d.best_cells || [])[0];
+    setHTML('h-mapa', b ? `En ${esc(shortD(d.district))}, la zona con mejor puntaje tiene ${fmtN(b.clinics_1km)} ${plural(b.clinics_1km, 'clínica')} a 1 km y el 24 h más cercano a ${fmtKm(b.nearest_24h_km)}`
+      : `${esc(d.district)} tiene ${fmtN(S.count)} clínicas`);
+    setHTML('p-mapa', `<p>${esc(d.district)} tiene ${fmtN(S.count)} clínicas, ${fmtN(S.n24)} de ellas abiertas las 24 horas. Cada clínica tiene en promedio ${fmtN(d.avg_competitors_1km, 1)} competidores a menos de 1 km, y la mediana de distancia al 24 h más cercano es ${fmtKm(d.median_nearest_24h_km)}.</p>
+      <p>El mapa muestra solo las celdas de ${esc(d.district)}. Las de color son el 20% con mejor puntaje del distrito; las estrellas marcan las tres mejores, separadas al menos 1 km entre sí.</p>`);
+  }
+  setHTML('src-map', `Google Places y web de cada clínica (sep. 2026); límites distritales de OpenStreetMap; parques, petshops y supermercados de OpenStreetMap vía Overpass; hogares por celda repartidos de forma uniforme a partir de CPI 2025. Mapa base © Esri.`);
+  renderBest(S);
+  renderG1(S);
+  if (!map) { renderSide(); return; }
+  // pines
+  pinMarkers.forEach(({ m, p }) => {
+    const inScope = S.all || p.district === S.d.district;
+    const inR = EX.marker ? hav(EX.lat, EX.lng, p.lat, p.lng) <= EX.radius : true;
+    m.setStyle(pinStyle(p, inScope && inR));
+  });
+  // celdas
+  LYR.grid.clearLayers();
+  cellRects.forEach(({ r, c }) => { if (S.all || c.district === S.d.district) LYR.grid.addLayer(r); });
+  if (layerOn.pins || layerOn.h24) { pinMarkers.forEach(({ m, p }) => { if (!p.is_24h && m._map) m.bringToFront(); }); pinMarkers.forEach(({ m, p }) => { if (p.is_24h && m._map) m.bringToFront(); }); }
+  // polígonos
+  Object.entries(polyLayers).forEach(([n, lay]) => lay.setStyle(S.all ? { color:C.ink3, weight:1, fill:false } : n === S.d.district ? { color:C.ink, weight:1.8, fill:false } : { color:C.mute, weight:.75, fill:false }));
+  // estrellas
+  LYR.stars.clearLayers();
+  (S.all ? DIST : [S.d]).forEach(d => (d.best_cells || []).forEach((b, i) => {
+    if (!isNum(b.lat) || !isNum(b.lng)) return;
+    const m = L.marker([b.lat, b.lng], { icon: L.divIcon({ className:'star-ic', html: starSVG(i + 1), iconSize:[26, 26], iconAnchor:[13, 13] }), zIndexOffset:1000, title:`Zona sugerida ${i + 1} de ${d.district}` });
+    m.bindTooltip(`Zona sugerida ${i + 1} de ${esc(shortD(d.district))} · score ${fmtN(b.score)}<br>${fmtN(b.clinics_1km)} ${plural(b.clinics_1km, 'clínica')} a 1 km · 24 h a ${fmtKm(b.nearest_24h_km)}`, { className:'tt', direction:'top' });
+    m.on('click', () => { setExplore(true); placePin(b.lat, b.lng); });
+    LYR.stars.addLayer(m);
+  }));
+  if (!opts.fromMap) {
+    let bounds = null;
+    const lays = S.all ? Object.values(polyLayers) : [polyLayers[S.d.district]].filter(Boolean);
+    lays.forEach(l => { const b = l.getBounds(); if (b.isValid()) bounds = bounds ? bounds.extend(b) : L.latLngBounds(b.getSouthWest(), b.getNorthEast()); });
+    if (!bounds) { const pts = S.P.filter(p => isNum(p.lat)).map(p => [p.lat, p.lng]); if (pts.length) bounds = L.latLngBounds(pts); }
+    if (bounds) map.fitBounds(bounds, { padding:[16, 16], maxZoom:15, animate: !reduceMotion });
+  }
+  renderLegend();
+  if (EX.marker) analyzeAndShow(); else renderSide();
+}
+function renderSide() {
+  const S = scope();
+  if (S.all) {
+    setHTML('side', `<h3>Los cinco distritos</h3><p class="coords">${fmtN(S.count)} clínicas · ${fmtN(S.n24)} abiertas 24 h · rating promedio ${fmtN(S.avgRating, 2)}</p>
+      <table><tbody>${RANK.map(n => { const d = byName(n); return `<tr${isFocus(n) ? ' class="pick"' : ''}><th scope="row"><button type="button" class="linkish" data-d="${esc(n)}">${esc(shortD(n))}</button></th><td>${fmtN(d.count)} clínicas</td></tr>`; }).join('')}</tbody></table>
+      <p style="margin-top:14px">Pulsa «Explorar una ubicación» y haz click en el mapa para ver la competencia, el 24 h más cercano y el puntaje de la zona alrededor de un local candidato.</p>`);
+    return;
+  }
+  const d = S.d;
+  setHTML('side', `<h3>${esc(d.district)}</h3><p class="coords">Puesto ${fmtN(rankOf(d.district))} de ${fmtN(RANK.length)} · ${fmtN(d.score)} de 100 puntos</p>
+    <table><tbody>
+      <tr><th scope="row">Clínicas</th><td>${fmtN(S.count)}</td></tr>
+      <tr><th scope="row">Abiertas 24 h</th><td>${fmtN(S.n24)} (${fmtPct(S.pct24)})</td></tr>
+      <tr><th scope="row">Rating promedio</th><td>${fmtN(S.avgRating, 2)}</td></tr>
+      <tr><th scope="row">Hogares por clínica</th><td>${fmtN(d.households_per_clinic)}</td></tr>
+      <tr><th scope="row">Competidores a 1 km</th><td>${fmtN(d.avg_competitors_1km, 1)} en promedio</td></tr>
+      <tr><th scope="row">Alquiler</th><td>US$ ${fmtN(d.rent_usd_m2, 1)}/m²*</td></tr>
+      <tr><th scope="row">¿Clínica nueva?</th><td class="${legalStatus(d).lvl === 'bad' ? 'risk' : ''}">${esc(legalStatus(d).short)}</td></tr>
+    </tbody></table>
+    <p class="muted" style="font-size:12px;margin-top:6px">* Mediana de avisos, estimado.</p>
+    <p style="margin-top:10px">Pulsa «Explorar una ubicación» y haz click en el mapa para analizar un local candidato.</p>`);
+}
+
+/* ---------- modo Explorar ---------- */
+function setExplore(on) {
+  EX.on = on;
+  const b = $('btn-explore'); if (b) { b.setAttribute('aria-pressed', String(on)); b.textContent = on ? 'Salir de Explorar' : 'Explorar una ubicación'; }
+  const m = $('map'); if (m) m.classList.toggle('exploring', on);
+  setHTML('map-hint', on ? 'Haz click donde abrirías el local. Puedes arrastrar el pin. Esc para salir.' : '');
+}
+function placePin(lat, lng) {
+  if (!map || !isNum(lat) || !isNum(lng)) return;
+  EX.lat = lat; EX.lng = lng;
+  if (!EX.marker) {
+    EX.marker = L.marker([lat, lng], { draggable:true, zIndexOffset:2000, keyboard:true, title:'Ubicación candidata (arrastrable)',
+      icon: L.divIcon({ className:'pin-ic', html:`<svg width="28" height="36" viewBox="0 0 28 36" aria-hidden="true"><path d="M14 1C7 1 1.5 6.4 1.5 13.3 1.5 22.5 14 35 14 35s12.5-12.5 12.5-21.7C26.5 6.4 21 1 14 1z" fill="${C.accent}" stroke="#fff" stroke-width="2"/><circle cx="14" cy="13" r="4.5" fill="#fff"/></svg>`, iconSize:[28, 36], iconAnchor:[14, 35] }) }).addTo(map);
+    EX.c1 = L.circle([lat, lng], { radius:1000, color:C.accent, weight:1.5, fill:true, fillOpacity:.04, interactive:false }).addTo(map);
+    EX.c2 = L.circle([lat, lng], { radius:2000, color:C.accent, weight:1.2, dashArray:'5 5', fill:false, interactive:false }).addTo(map);
+    let raf = 0;
+    EX.marker.on('drag', e => { const ll = e.target.getLatLng(); EX.c1.setLatLng(ll); EX.c2.setLatLng(ll); cancelAnimationFrame(raf); raf = requestAnimationFrame(() => { EX.lat = ll.lat; EX.lng = ll.lng; analyzeAndShow(); }); });
+    EX.marker.on('dragend', e => { const ll = e.target.getLatLng(); EX.lat = ll.lat; EX.lng = ll.lng; analyzeAndShow(); });
+  } else { EX.marker.setLatLng([lat, lng]); EX.c1.setLatLng([lat, lng]); EX.c2.setLatLng([lat, lng]); }
+  analyzeAndShow(); renderLegend();
+}
+function clearPin() {
+  ['marker', 'c1', 'c2', 'line'].forEach(k => { if (EX[k] && map) map.removeLayer(EX[k]); EX[k] = null; });
+  setExplore(false); renderMap({ fromMap:true });
+}
+function analyze(lat, lng, rkm) {
+  const withD = GEO_PLACES.map(p => ({ p, d: hav(lat, lng, p.lat, p.lng) }));
+  const inR = withD.filter(x => x.d <= rkm);
+  const other = rkm === 1 ? 2 : 1;
+  const nOther = withD.filter(x => x.d <= other).length;
+  const revR = sum(inR.map(x => x.p.reviews_count || 0));
+  const near24 = withD.filter(x => x.p.is_24h).sort((a, b) => a.d - b.d)[0] || null;
+  const nearClinic = withD.slice().sort((a, b) => a.d - b.d)[0] || null;
+  const tk = inR.filter(x => isNum(x.p.ticket));
+  const poiCount = k => POIS.filter(q => (k === 'park' ? (q.kind === 'park' || q.kind === 'dog_park') : q.kind === k) && hav(lat, lng, q.lat, q.lng) <= 0.5).length;
+  let cell = null, cd = Infinity; ALL_CELLS.forEach(c => { const dd = hav(lat, lng, c.lat, c.lng); if (dd < cd) { cd = dd; cell = c; } });
+  if (cd > 0.35) cell = null;
+  const district = districtAt(lat, lng);
+  const hhR = sum(ALL_CELLS.filter(c => hav(lat, lng, c.lat, c.lng) <= rkm).map(c => c.households_est));
+  return {
+    n: inR.length, nOther, other, rkm, district, cell,
+    cellPct: cell ? pctRank(cell.score, (GRID[cell.district] || []).map(c => c.score)) : null,
+    avgRating: mean(inR.map(x => x.p.rating)), weak: inR.filter(x => isNum(x.p.rating) && x.p.rating < 4).length,
+    vuln: inR.filter(x => isVuln(x.p)).length, n24: inR.filter(x => x.p.is_24h).length,
+    near24, nearClinic, revR, hhR,
+    share: inR.map(x => ({ name:x.p.name, rating:x.p.rating, is24:x.p.is_24h, pct: revR ? 100 * (x.p.reviews_count || 0) / revR : 0 })).sort((a, b) => b.pct - a.pct).slice(0, 5),
+    avgTicket: mean(tk.map(x => x.p.ticket)), tEst: tk.filter(x => isEstTicket(x.p)).length, tN: tk.length,
+    parks: poiCount('park'), pets: poiCount('pet_shop'), sups: poiCount('supermarket'),
+    chains: [...new Set(inR.map(x => shortChain(x.p.chain)).filter(Boolean))],
+    inSet: new Set(inR.map(x => x.p))
+  };
+}
+function analyzeAndShow() {
+  if (!EX.marker) return;
+  const A = analyze(EX.lat, EX.lng, EX.radius);
+  pinMarkers.forEach(({ m, p }) => m.setStyle(pinStyle(p, A.inSet.has(p))));
+  if (EX.line) { map.removeLayer(EX.line); EX.line = null; }
+  if (A.near24) {
+    EX.line = L.polyline([[EX.lat, EX.lng], [A.near24.p.lat, A.near24.p.lng]], { color:C.ink, weight:1, dashArray:'3 4', interactive:false }).addTo(map);
+    EX.line.bindTooltip(fmtKm(A.near24.d), { permanent:true, direction:'center', className:'map-label' });
+  }
+  const d = byName(A.district);
+  const L0 = d ? legalStatus(d) : null;
+  const reads = [];
+  if (A.n === 0) reads.push(`No hay clínicas a ${fmtN(A.rkm)} km. Conviene revisar si la zona es residencial o si es un parque o un cerro.`);
+  else if (A.n <= 3) reads.push(`Poca competencia directa: ${fmtN(A.n)} ${plural(A.n, 'clínica')} a ${fmtN(A.rkm)} km.`);
+  else reads.push(`Zona con competencia: ${fmtN(A.n)} clínicas a ${fmtN(A.rkm)} km.`);
+  if (A.near24) reads.push(A.near24.d > 1.5 ? `El 24 h más cercano está a ${fmtKm(A.near24.d)}: hay espacio para urgencias o un horario extendido.` : `Hay un 24 h a ${fmtKm(A.near24.d)}; competir en urgencias sería difícil.`);
+  if (A.vuln) reads.push(`${fmtN(A.vuln)} ${plural(A.vuln, 'competidor')} con mucho volumen y rating bajo 4,3, cuyos clientes se pueden captar.`);
+  if (L0) reads.push(L0.lvl === 'good' ? `En ${esc(d.district)} ${esc(L0.txt)}. Confirmar la zonificación del lote exacto.` : `<span class="risk">En ${esc(d.district)} ${esc(L0.txt)}.</span> Revisar la zonificación antes de alquilar.`);
+  else reads.push('El punto está fuera de los cinco distritos estudiados.');
+  setHTML('side', `<button type="button" class="plain-btn close" id="ex-close" aria-label="Quitar la ubicación candidata">Quitar</button>
+    <h3>Ubicación candidata</h3>
+    <p class="coords">${esc(A.district || 'Fuera de los 5 distritos')} · ${fmtN(EX.lat, 4)}, ${fmtN(EX.lng, 4)}</p>
+    <div class="seg" role="group" aria-label="Radio de análisis">${[1, 2].map(r => `<button type="button" data-radius="${r}" aria-pressed="${EX.radius === r}">Radio de ${r} km</button>`).join('')}</div>
+    <table><tbody>
+      <tr><th scope="row">Score de la celda</th><td>${A.cell ? `${fmtN(A.cell.score)} de 100` : '—'}</td></tr>
+      ${A.cell && isNum(A.cellPct) ? `<tr><th scope="row">Frente al resto del distrito</th><td>supera o iguala al ${fmtPct(A.cellPct)} de sus celdas</td></tr>` : ''}
+      <tr><th scope="row">Competidores a ${fmtN(A.rkm)} km</th><td>${fmtN(A.n)}</td></tr>
+      <tr><th scope="row">Competidores a ${fmtN(A.other)} km</th><td>${fmtN(A.nOther)}</td></tr>
+      <tr><th scope="row">Rating promedio en el radio</th><td>${isNum(A.avgRating) ? fmtN(A.avgRating, 2) : '—'}</td></tr>
+      <tr><th scope="row">Con rating bajo 4,0</th><td>${fmtN(A.weak)}</td></tr>
+      <tr><th scope="row">Clínica más cercana</th><td>${A.nearClinic ? fmtKm(A.nearClinic.d) : '—'}</td></tr>
+      <tr><th scope="row">24 h más cercano</th><td>${A.near24 ? fmtKm(A.near24.d) : '—'}</td></tr>
+      <tr><th scope="row" colspan="2" style="text-align:left;padding-top:0;color:var(--ink-3);font-size:12px">${A.near24 ? esc(A.near24.p.name) : ''}</th></tr>
+      <tr><th scope="row">Ticket promedio</th><td>${isNum(A.avgTicket) ? fmtSoles(A.avgTicket) + (A.tEst ? '*' : '') : '—'}</td></tr>
+      <tr><th scope="row">Parques a 500 m</th><td>${fmtN(A.parks)}</td></tr>
+      <tr><th scope="row">Petshops a 500 m</th><td>${fmtN(A.pets)}</td></tr>
+      <tr><th scope="row">Supermercados a 500 m</th><td>${fmtN(A.sups)}</td></tr>
+      <tr><th scope="row">Hogares en el radio</th><td>~${fmtN(Math.round(A.hhR / 100) * 100)}</td></tr>
+    </tbody></table>
+    ${A.share.length ? `<h4 style="font:600 13px var(--sans);margin:14px 0 4px">Reparto de reseñas en ${fmtN(A.rkm)} km (${fmtN(A.revR)} en total)</h4>
+      ${A.share.map(s => `<div class="share-row"><span class="nm" title="${esc(s.name)}">${esc(s.name)}${s.is24 ? ' · 24 h' : ''}<span class="b" style="width:${Math.max(2, s.pct)}%"></span></span><span class="num" style="text-align:right">${fmtPct(s.pct)}</span></div>`).join('')}` : ''}
+    ${A.chains.length ? `<p style="margin-top:10px">Cadenas en el radio: ${esc(joinY(A.chains))}.</p>` : ''}
+    <h4 style="font:600 13px var(--sans);margin:14px 0 6px">Lectura</h4>
+    <ul>${reads.map(r => `<li>${r}</li>`).join('')}</ul>
+    <p class="muted" style="font-size:12px">Distancias en línea recta. Hogares repartidos de forma uniforme dentro de cada distrito.${A.tEst ? ' * Incluye tickets estimados por segmento.' : ''}</p>`);
+}
+
+/* ---------- zonas sugeridas y G1 ---------- */
+function renderBest(S) {
+  const ds = S.all ? RANK.map(byName) : [S.d];
+  const rows = [];
+  ds.forEach(d => (d.best_cells || []).forEach((b, i) => rows.push({ d, b, i })));
+  setHTML('h-best', S.all ? 'Las tres mejores zonas de cada distrito' : `Las tres mejores zonas de ${esc(S.d.district)}`);
+  setHTML('d-best', 'Celdas de 400 m con el mejor puntaje, con al menos una clínica a 1,5 km (para descartar cerros y parques) y separadas entre sí por más de 1 km. Es una zona, no una dirección.');
+  if (!rows.length) { setHTML('best', '<tbody><tr><td class="muted">Sin zonas calculadas para este alcance.</td></tr></tbody>'); return; }
+  setHTML('best', `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">Zona</th><th scope="col" class="n">Score</th><th scope="col" class="n">Clínicas a 1 km</th><th scope="col" class="n">24 h más cercano</th><th scope="col" class="n">Actividad cerca</th><th scope="col"></th></tr></thead>
+    <tbody>${rows.map(({ d, b, i }) => `<tr${isFocus(d.district) && S.all ? ' class="pick"' : ''}><th scope="row">${esc(shortD(d.district))}</th><td class="n">${i + 1}</td><td class="n">${fmtN(b.score)}</td><td class="n">${fmtN(b.clinics_1km)}</td><td class="n">${fmtKm(b.nearest_24h_km)}</td><td class="n">${fmtN(b.pois_500m)}</td>
+      <td><button type="button" class="linkish" data-explore="${b.lat},${b.lng}">Explorar aquí</button></td></tr>`).join('')}</tbody>`);
+  setHTML('n-best', 'Actividad cerca: parques a 300 m más petshops y supermercados a 500 m. Score de celda: 50% pocas clínicas a 1 km, 25% distancia al 24 h y 25% actividad cercana, normalizados dentro de cada distrito.');
+}
+function renderG1(S) {
+  const BINS = [[0, .5, '<0,5'], [.5, 1, '0,5–1'], [1, 1.5, '1–1,5'], [1.5, 2, '1,5–2'], [2, Infinity, '>2']];
+  const data = RANK.map(n => { const cs = (GRID[n] || []).filter(c => isNum(c.nearest_24h_km)); return { n, total: cs.length, cnt: BINS.map(([a, b]) => cs.filter(c => c.nearest_24h_km >= a && c.nearest_24h_km < b).length) }; });
+  const far = data.map(x => ({ n:x.n, p: pct(x.cnt[4] + x.cnt[3], x.total) }));
+  const worst = maxBy(far, x => x.p);
+  setHTML('h-g1', worst && isNum(worst.p) && worst.p > 0 ? `${esc(shortD(worst.n))} es el distrito con más territorio lejos de un 24 h: ${fmtPct(worst.p)} de sus celdas quedan a más de 1,5 km` : 'Casi ningún punto de los cinco distritos queda a más de 1,5 km de un 24 h');
+  setHTML('d-g1', 'Porcentaje de celdas de 400 m según la distancia a la clínica 24 h más cercana, en km.');
+  const host = $('mult-24'); if (!host) return;
+  host.innerHTML = data.map((x, i) => `<div class="${isFocus(x.n) ? 'is-pick' : ''}"><h4>${esc(shortD(x.n))}</h4><p class="sub">${fmtN(x.total)} celdas · a más de 2 km: ${fmtPct(pct(x.cnt[4], x.total))}</p><div class="chart-box"><canvas id="g1-${i}" role="img" aria-label="Distancia al 24 h en ${esc(x.n)}"></canvas><p class="empty" hidden></p></div></div>`).join('');
+  data.forEach((x, i) => {
+    const vals = x.cnt.map(v => x.total ? Math.round(1000 * v / x.total) / 10 : 0);
+    mkChart('g1-' + i, { type:'bar', data:{ labels: BINS.map(b => b[2]), datasets:[{ data: vals, backgroundColor: isFocus(x.n) ? C.accent : C.mute }] },
+      options:{ layout:{ padding:{ top:16 } }, scales:{ y:{ min:0, max:100, ticks:{ stepSize:50, callback:v => v + '%' }, grid:yGrid, border:{ display:false } }, x:{ grid:noGrid, ticks:{ font:{ size:10 }, maxRotation:0, autoSkip:false } } },
+        plugins:{ valueLabels:{ enabled:true, fmt:v => v >= 1 ? fmtN(v) : '' }, tooltip:{ callbacks:{ title:c => `${c[0].label} km`, label:c => `${fmtN(c.raw, 1)}% de las celdas (${fmtN(x.cnt[c.dataIndex])})` } } } } });
+  });
+}
+
+/* =========================================================
+   2. QUÉ DISTRITO CONVIENE
+   ========================================================= */
+function strengths(d) {
+  const sc = d.score_components || {}; const t = sum(Object.values(WEIGHTS)) || 1;
+  return COMP_KEYS.filter(k => isNum(sc[k])).map(k => ({ k, raw: sc[k], pts: sc[k] * WEIGHTS[k] / t, loss: (100 - sc[k]) * WEIGHTS[k] / t })).sort((a, b) => b.pts - a.pts);
+}
+function renderDistrict() {
+  const ds = RANK.map(byName); const top = ds[0], second = ds[1], last = ds[ds.length - 1];
+  if (!top) { setHTML('h-distrito', 'Sin datos de ranking'); return; }
+  const lastWhy = last ? strengths(last).sort((a, b) => b.loss - a.loss)[0] : null;
+  const lastLegal = last && legalStatus(last).lvl === 'bad';
+  setHTML('h-distrito', `${esc(shortD(top.district))} saca ${fmtN(top.score - (second ? second.score : 0))} puntos de ventaja al segundo distrito; ${esc(shortD(last.district))} queda último${lastWhy ? `, sobre todo por ${esc(COMP[lastWhy.k].name.toLowerCase())}` : ''}${lastLegal ? ' y su zonificación' : ''}`);
+  const st = strengths(top).slice(0, 2);
+  setHTML('p-distrito', `<p>${esc(top.district)} obtiene ${fmtN(top.score)} de 100 puntos, sobre todo por ${esc(joinY(st.map(s => `${COMP[s.k].name.toLowerCase()} (${fmtN(s.raw)} de 100)`)))}. Le siguen ${esc(joinY(ds.slice(1).map(d => `${shortD(d.district)} (${fmtN(d.score)})`)))}.</p>
+    <p>Cada factor se escala de 20 (peor distrito) a 100 (mejor) y se pondera con pesos fijos: ${esc(joinY(COMP_KEYS.map(k => `${COMP[k].name.toLowerCase()} ${fmtN(WEIGHTS[k] * 100)}%`)))}. No incluimos controles para moverlos porque el orden de los tres primeros factores es el que usa el negocio para decidir; cambiar pesos para que gane otro distrito sería forzar la respuesta.</p>`);
+  mkChart('c-score', {
+    type:'bar',
+    data:{ labels: ds.map(d => shortD(d.district)), datasets:[{ data: ds.map(d => d.score), barThickness: 22, backgroundColor: ds.map(d => isFocus(d.district) ? C.accent : C.mute) }] },
+    options:{ indexAxis:'y', layout:{ padding:{ right: 40 } },
+      scales:{ x:{ min:0, max:100, grid:yGrid, border:{ display:false } }, y:{ grid:noGrid, ticks:{ color:C.ink, font:{ size:13 } } } },
+      plugins:{ valueLabels:{ enabled:true, fmt:v => fmtN(v) }, tooltip:{ callbacks:{ label:c => `${fmtN(c.raw)} de 100 · ${ds[c.dataIndex].score_label || ''}` } } },
+      onClick:(e, els) => { if (els.length) select(ds[els[0].index].district); },
+      onHover:(e, els) => { if (e.native && e.native.target) e.native.target.style.cursor = els.length ? 'pointer' : 'default'; } }
+  });
+  // componentes
+  setHTML('d-comp', 'Valor de cada factor de 20 a 100 y, entre paréntesis, su peso. La barra muestra el valor.');
+  setHTML('t-comp', `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">Puntaje</th>${COMP_KEYS.map(k => `<th scope="col">${esc(COMP[k].name)} <span style="font-weight:400">(${fmtN(WEIGHTS[k] * 100)}%)</span></th>`).join('')}</tr></thead>
+    <tbody>${ds.map(d => `<tr class="${isFocus(d.district) ? 'pick' : ''}"><th scope="row"><button type="button" class="linkish" data-d="${esc(d.district)}">${esc(shortD(d.district))}</button></th><td class="n"><b>${fmtN(d.score)}</b></td>${COMP_KEYS.map(k => { const v = (d.score_components || {})[k]; return `<td style="white-space:nowrap">${isNum(v) ? `<span class="bar-in" style="width:${Math.round(v * .5)}px"></span>${fmtN(v)}` : '—'}</td>`; }).join('')}</tr>`).join('')}</tbody>`);
+  setHTML('n-comp', COMP_KEYS.map(k => `${esc(COMP[k].name)}: ${esc(COMP[k].desc)}`).join('. ') + '. Regulación: fricción baja 100, media 60, alta 20.');
+  // comparativa con fuentes
+  const fns = []; const fnIdx = src => { if (!src) return null; let i = fns.indexOf(src); if (i < 0) { fns.push(src); i = fns.length - 1; } return i + 1; };
+  const mark = (d, f) => { const s = (d.stats_sources || {})[f]; const est = (d.stats_estimated || {})[f] === true; const i = fnIdx(s); return `${est ? '*' : ''}${i ? `<sup class="fn"><a href="#fn-${i}" data-nav="fn-${i}">${i}</a></sup>` : ''}`; };
+  const rows = [
+    { l:'Población', n:'habitantes 2025', g:d => d.population, f:v => fmtN(v), src:'population' },
+    { l:'Hogares', n:'2025', g:d => d.households, f:v => fmtN(v), src:'households', better:'high' },
+    { l:'Clínicas', n:'mapeadas', g:d => d.count, f:v => fmtN(v), better:'low' },
+    { l:'Clínicas por 10 mil hab.', n:'densidad de oferta', g:d => d.clinics_per_10k, f:v => fmtN(v, 2), better:'low' },
+    { l:'Hogares por clínica', n:'demanda por competidor', g:d => d.households_per_clinic, f:v => fmtN(v), better:'high' },
+    { l:'Competidores a 1 km', n:'promedio por clínica', g:d => d.avg_competitors_1km, f:v => fmtN(v, 1), better:'low' },
+    { l:'Clínicas 24 h', n:'% del distrito', g:d => d.pct_24h, f:v => fmtPct(v), better:'low' },
+    { l:'Distancia al 24 h', n:'mediana, desde cada clínica', g:d => d.median_nearest_24h_km, f:v => fmtKm(v), better:'high' },
+    { l:'Rating promedio', n:'más bajo, competencia más débil', g:d => d.avg_rating, f:v => fmtN(v, 2), better:'low' },
+    { l:'Ticket promedio', n:'estimado', g:d => d.avg_ticket, f:(v, d) => fmtSoles(v) + '*' + (d.ticket_n ? ` <small>n=${fmtN(d.ticket_n)}</small>` : ''), better:'high' },
+    { l:'Alquiler', n:'USD por m² al mes', g:d => d.rent_usd_m2, f:v => 'US$ ' + fmtN(v, 1), src:'rent_usd_m2', better:'low' },
+    { l:'NSE A/B', n:'% de hogares', g:d => d.nse_ab_pct, f:v => fmtPct(v), src:'nse_ab_pct', better:'high' },
+    { l:'Hogares con mascota', n:'% (valor de Lima)', g:d => d.pet_households_pct, f:v => fmtPct(v, 1), src:'pet_households_pct' },
+    { l:'Área', n:'km²', g:d => d.area_km2, f:v => fmtN(v, 1) }
+  ];
+  setHTML('t-cmp', `<caption class="sr-only">Indicadores por distrito</caption><thead><tr><th scope="col">Indicador</th>${ds.map(d => `<th scope="col" class="n${isFocus(d.district) ? ' pickcol' : ''}"><button type="button" class="linkish" data-d="${esc(d.district)}">${esc(shortD(d.district))}</button></th>`).join('')}</tr></thead>
+    <tbody>${rows.map(r => { const vals = ds.map(r.g); const v2 = nums(vals); const can = r.better && v2.length > 1 && Math.max(...v2) !== Math.min(...v2); const best = can ? (r.better === 'high' ? Math.max(...v2) : Math.min(...v2)) : null;
+      return `<tr><th scope="row">${esc(r.l)}<small>${esc(r.n)}</small></th>${ds.map((d, i) => { const v = vals[i]; const cls = `n${isFocus(d.district) ? ' pickcol' : ''}`; if (!isNum(v)) return `<td class="${cls}">—</td>`; const t = r.f(v, d) + (r.src ? mark(d, r.src) : ''); return `<td class="${cls}">${v === best ? `<b>${t}</b>` : t}</td>`; }).join('')}</tr>`; }).join('')}</tbody>`);
+  setHTML('fn-cmp', fns.map((s, i) => { const m = String(s).match(/https?:\/\/\S+/); const t = esc(String(s).replace(/\s*-\s*https?:\/\/\S+/, '')); return `<li id="fn-${i + 1}">${m ? `<a href="${esc(m[0])}" target="_blank" rel="noopener">${t}</a>` : t}</li>`; }).join('') + '<li style="list-style:none;margin-left:-1.4em">* Valor estimado. Clínicas, 24 h, ratings y distancias: Google Places e investigación web, sep. 2026.</li>');
+  // viabilidad legal
+  const goods = goodDistricts();
+  setHTML('h-legal', goods.length === 1 ? `Solo ${esc(shortD(goods[0]))} permite abrir una clínica nueva sin restricciones de zona` : goods.length ? `${esc(joinY(goods.map(shortD)))} permiten abrir una clínica nueva` : 'Ningún distrito tiene una vía legal clara para una clínica nueva');
+  setHTML('t-legal', `<thead><tr><th scope="col">Distrito</th><th scope="col">¿Clínica nueva?</th><th scope="col">Consultorio permitido en</th><th scope="col" class="n">Licencia riesgo medio / alto</th><th scope="col">Norma</th></tr></thead>
+    <tbody>${ds.map(d => { const r = d.regulation || {}; const L0 = legalStatus(d);
+      return `<tr class="${isFocus(d.district) ? 'pick' : ''}"><th scope="row">${esc(d.district)}</th><td class="${L0.lvl === 'bad' ? 'risk' : ''}"${L0.lvl === 'mid' ? ' style="font-style:italic"' : ''}>${esc(legalAnswer(d))}</td>
+        <td>${(r.zoning_allowed_consultorio || []).filter(Boolean).length ? esc(r.zoning_allowed_consultorio.join('; ')) : '<span class="muted">—</span>'}</td>
+        <td class="n">${fmtSoles(r.license_cost_soles)} / ${fmtSoles(r.license_cost_high_risk_soles)}</td><td>${esc(normas(d).join(', ') || '—')}</td></tr>`; }).join('')}</tbody>`);
+}
+
+/* =========================================================
+   3. COMPETENCIA
+   ========================================================= */
+const MARGIN = { 'laboratorio':'Alto', 'ecografía':'Alto', 'rayos X':'Alto', 'cirugía':'Alto', 'hospitalización':'Medio', 'vacunas':'Medio', 'farmacia':'Bajo', 'petshop':'Bajo', 'grooming':'Bajo' };
+const MARGIN_W = { 'Alto':3, 'Medio':2, 'Bajo':1, 'Sin dato':1 };
+function renderCompetition() {
+  const S = scope(); const Lz = lorenz(S.P);
+  const shortS = S.all ? 'los cinco distritos' : shortD(S.d.district);
+  setHTML('h-comp', !Lz ? 'Sin datos de reseñas en este alcance' : Lz.top3 < 40
+    ? `Ninguna clínica domina ${S.all ? 'el mercado' : 'en ' + esc(shortS)}: las tres más reseñadas suman solo ${fmtPct(Lz.top3)} de las opiniones`
+    : `En ${esc(shortS)}, tres clínicas concentran ${fmtPct(Lz.top3)} de las reseñas`);
+  const V = S.P.filter(isVuln); const vRev = sum(V.map(p => p.reviews_count || 0));
+  const TB = { pub:0, rev:0, seg:0 }; S.P.forEach(p => { if (!isNum(p.ticket)) return; const b = String(p.ticket_basis || '').toLowerCase(); if (b.includes('public')) TB.pub++; else if (b.includes('rese')) TB.rev++; else if (b.includes('segment')) TB.seg++; });
+  setHTML('p-comp', `<p>En ${esc(S.label)} hay ${fmtN(S.count)} clínicas con ${fmtN(S.totalRev)} reseñas en Google y un rating promedio de ${fmtN(S.avgRating, 2)}. ${fmtN(S.lowRated)} tienen menos de 4 estrellas.</p>
+    <p>${V.length ? `${cap1(numWord(V.length))} ${plural(V.length, 'clínica tiene', 'clínicas tienen')} mucho volumen y un rating por debajo de ${fmtN(VULN_R, 1)}: suman ${fmtPct(pct(vRev, S.totalRev))} de las reseñas. Son las que tienen clientes que se pueden captar.` : `Ninguna clínica combina mucho volumen con un rating bajo ${fmtN(VULN_R, 1)}.`} El ticket promedio es ${fmtSoles(S.avgTicket)}, pero es una estimación: solo ${fmtN(TB.pub)} ${plural(TB.pub, 'precio viene', 'precios vienen')} de listas publicadas.</p>`);
+  // G2 burbujas
+  const pts = S.P.filter(p => isNum(p.rating)).map((p, i) => ({ x: p.rating + (((i * 37) % 7) - 3) * 0.012, y: Math.max(p.reviews_count || 0, 1), r: Math.sqrt(isNum(p.ticket) ? p.ticket : (BE.ticket_default_soles || 120)) / 2, p }));
+  setHTML('h-g2', V.length ? `${cap1(numWord(V.length))} ${plural(V.length, 'competidor tiene', 'competidores tienen')} mucho volumen y clientes poco satisfechos` : 'Los competidores con más volumen tienen buen rating');
+  setHTML('d-g2', `Rating (eje horizontal) frente a número de reseñas (eje vertical, escala logarítmica). Cuadrante superior izquierdo: rating menor a ${fmtN(VULN_R, 1)} y ${fmtN(VULN_N)} reseñas o más.`);
+  const ymax = Math.max(10, ...pts.map(q => q.y));
+  const xmin = Math.min(3, Math.floor(Math.min(...pts.map(q => q.x), 5) * 2) / 2);
+  if (!pts.length) setEmpty('c-g2', 'Sin clínicas con rating en este alcance.');
+  else mkChart('c-g2', {
+    type:'bubble',
+    data:{ datasets:[{ data: pts,
+      backgroundColor: pts.map(q => hexA(isVuln(q.p) ? C.accent : C.ink3, isEstTicket(q.p) || !isNum(q.p.ticket) ? .22 : .7)),
+      borderColor: pts.map(q => q.p.is_24h ? C.ink : hexA(isVuln(q.p) ? C.accent : C.ink3, .6)),
+      borderWidth: pts.map(q => q.p.is_24h ? 1.6 : .6) }] },
+    options:{ scales:{
+        x:{ min:xmin, max:5.05, grid:yGrid, title:{ display:true, text:'Rating en Google' }, ticks:{ callback:v => fmtN(v, 1) } },
+        y:{ type:'logarithmic', min:1, max: ymax * 1.6, grid:yGrid, border:{ display:false }, title:{ display:true, text:'Reseñas (escala log)' }, ticks:{ callback:v => [1, 10, 100, 1000, 10000].includes(v) ? fmtN(v) : '' } } },
+      plugins:{ tooltip:{ callbacks:{ title:c => c[0].raw.p.name, label:c => { const p = c.raw.p; const neg = topNegThemes(p); return [`${fmtN(p.rating, 1)} de 5 · ${fmtN(p.reviews_count)} reseñas${p.is_24h ? ' · 24 h' : ''}`, `Ticket ${fmtSoles(p.ticket)}${isEstTicket(p) ? ' (estimado por segmento)' : ''}`, `${esc(shortD(p.district))}${neg.length ? ' · quejas: ' + neg.join(', ') : ''}`]; } } },
+        annotation:{ annotations:{
+          vx:{ type:'line', xMin:VULN_R, xMax:VULN_R, borderColor:C.ink, borderWidth:1, borderDash:[4, 4] },
+          hy:{ type:'line', yMin:VULN_N, yMax:VULN_N, borderColor:C.ink, borderWidth:1, borderDash:[4, 4] },
+          lv:{ type:'label', xValue:(xmin + VULN_R) / 2, yValue: ymax * 1.15, content:[`Vulnerables: ${fmtN(V.length)}`, `rating < ${fmtN(VULN_R, 1)}, ${fmtN(VULN_N)}+ reseñas`], color:C.accent, font:{ size:12, weight:'600' } },
+          ll:{ type:'label', xValue:(VULN_R + 5) / 2, yValue: ymax * 1.15, content:['Líderes'], color:C.ink2, font:{ size:12, weight:'600' } }
+        } } } }
+  });
+  const Vs = V.slice().sort((a, b) => (b.reviews_count || 0) - (a.reviews_count || 0)).slice(0, 8);
+  setHTML('t-vuln', Vs.length ? `<caption>Las clínicas vulnerables con más reseñas</caption><thead><tr><th scope="col">Clínica</th><th scope="col">Distrito</th><th scope="col" class="n">Rating</th><th scope="col" class="n">Reseñas</th><th scope="col">De qué se quejan</th></tr></thead>
+    <tbody>${Vs.map(p => `<tr><th scope="row">${esc(p.name)}</th><td>${esc(shortD(p.district))}</td><td class="n">${fmtN(p.rating, 1)}</td><td class="n">${fmtN(p.reviews_count)}</td><td>${esc(topNegThemes(p).join(', ').toLowerCase() || '—')}</td></tr>`).join('')}</tbody>` : '');
+  setHTML('n-vuln', Vs.length ? 'Temas: los dos más repetidos en las reseñas negativas de muestra de cada clínica (Google entrega hasta cinco reseñas por lugar).' : '');
+  // G3 Lorenz
+  const LZ = RANK.map(n => ({ n, L: lorenz(PLACES.filter(p => p.district === n)) })).filter(x => x.L);
+  const most = maxBy(LZ, x => x.L.hhi), least = minBy(LZ, x => x.L.hhi);
+  setHTML('h-g3', most && least ? `${esc(shortD(most.n))} es el mercado más concentrado (HHI ${fmtN(most.L.hhi)}); ${esc(shortD(least.n))}, el más repartido (${fmtN(least.L.hhi)})` : 'Concentración de reseñas por distrito');
+  setHTML('d-g3', most ? `En ${esc(most.n)}, las tres clínicas más reseñadas tienen ${fmtPct(most.L.top3)} de las opiniones. En un mercado repartido nadie bloquea la entrada y la reputación se construye más rápido.` : '');
+  const ann = {};
+  LZ.forEach(x => { if (!isFocus(x.n) && x !== most) return; const p = x.L.pts[Math.floor(x.L.pts.length * .75)]; ann['l' + x.n.length + x.n.charAt(0)] = { type:'label', xValue:p.x, yValue:p.y, xAdjust:-10, yAdjust:-14, content:`${shortD(x.n)} · HHI ${fmtN(x.L.hhi)}`, color: isFocus(x.n) ? C.accent : C.ink2, font:{ size:12, weight:'600' }, textAlign:'right', position:'end' }; });
+  mkChart('c-g3', { type:'line',
+    data:{ datasets:[{ data:[{ x:0, y:0 }, { x:100, y:100 }], borderColor:C.rule, borderDash:[4, 4], borderWidth:1, pointRadius:0 }]
+      .concat(LZ.map(x => ({ label:x.n, data:x.L.pts, borderColor: isFocus(x.n) ? C.accent : C.mute, borderWidth: isFocus(x.n) ? 2.5 : 1.3, pointRadius:0, tension:0, order: isFocus(x.n) ? 0 : 1 }))) },
+    options:{ parsing:true, scales:{ x:{ type:'linear', min:0, max:100, grid:yGrid, title:{ display:true, text:'% acumulado de clínicas' }, ticks:{ callback:v => v + '%' } }, y:{ min:0, max:100, grid:yGrid, border:{ display:false }, title:{ display:true, text:'% acumulado de reseñas' }, ticks:{ callback:v => v + '%' } } },
+      plugins:{ tooltip:{ filter:c => c.datasetIndex > 0, callbacks:{ title:c => c[0].dataset.label, label:c => `${fmtN(c.raw.x, 0)}% de las clínicas tiene ${fmtN(c.raw.y, 0)}% de las reseñas` } }, annotation:{ annotations: ann } } } });
+  setHTML('t-hhi', `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">HHI</th><th scope="col" class="n">Top 3</th><th scope="col">Lectura</th></tr></thead>
+    <tbody>${LZ.map(x => `<tr class="${isFocus(x.n) ? 'pick' : ''}"><th scope="row">${esc(shortD(x.n))}</th><td class="n">${fmtN(x.L.hhi)}</td><td class="n">${fmtPct(x.L.top3)}</td><td>${esc(hhiLabel(x.L.hhi))}</td></tr>`).join('')}</tbody>`);
+  // top players
+  setHTML('h-top', S.top[0] ? `${esc(S.top[0].name.length > 40 ? S.top[0].name.split(/ [-–|] /)[0] : S.top[0].name)} es la clínica más reseñada de ${esc(S.label)}, con ${fmtPct(S.top[0].share, 1)} de las opiniones` : 'Clínicas con más reseñas');
+  setHTML('d-top', 'Las ocho clínicas con más reseñas. La cuota se calcula sobre todas las reseñas del alcance elegido.');
+  const mxs = Math.max(1, ...S.top.map(t => t.share || 0));
+  setHTML('t-top', S.top.length ? `<thead><tr><th scope="col">Clínica</th>${S.all ? '<th scope="col">Distrito</th>' : ''}<th scope="col" class="n">Rating</th><th scope="col" class="n">Reseñas</th><th scope="col">Cuota de reseñas</th><th scope="col">24 h</th><th scope="col">Cadena</th></tr></thead>
+    <tbody>${S.top.map(t => `<tr><th scope="row">${esc(t.name)}</th>${S.all ? `<td>${esc(shortD(t.p.district))}</td>` : ''}<td class="n">${fmtN(t.rating, 1)}</td><td class="n">${fmtN(t.reviews)}</td><td style="white-space:nowrap"><span class="bar-in" style="width:${Math.round(90 * (t.share || 0) / mxs)}px"></span>${fmtPct(t.share, 1)}</td><td>${t.is_24h ? 'Sí' : '—'}</td><td>${esc(t.chain || '—')}</td></tr>`).join('')}</tbody>` : '<tbody><tr><td class="muted">Sin clínicas.</td></tr></tbody>');
+  // cadenas
+  const cc = {}; S.P.forEach(p => { const c = shortChain(p.chain); if (c) cc[c] = (cc[c] || 0) + 1; });
+  const list = Object.entries(cc).sort((a, b) => b[1] - a[1]);
+  const inChains = sum(list.map(x => x[1]));
+  const multi = list.filter(x => x[1] >= 2);
+  setHTML('h-chains', list.length ? `${fmtN(S.P.length - inChains)} de ${fmtN(S.P.length)} clínicas son independientes${multi[0] ? `; la cadena con más sedes es ${esc(multi[0][0])}` : ''}` : 'No identificamos cadenas en este alcance');
+  setHTML('chains', list.length ? `<div class="table-wrap"><table><thead><tr><th scope="col">Cadena o red</th><th scope="col" class="n">Sedes</th></tr></thead><tbody>${(multi.length ? multi : list).slice(0, 10).map(([n, c]) => `<tr><th scope="row">${esc(n)}</th><td class="n">${fmtN(c)}</td></tr>`).join('')}</tbody></table></div>
+    ${list.length > multi.length && multi.length ? `<p class="note">Además, ${fmtN(list.length - multi.length)} marcas con una sola sede en ${esc(S.label)}.</p>` : ''}
+    <p class="note">Sedes dentro de ${esc(S.label)} según la web de cada clínica. Cadenas que anunciaron llegar a Lima (LatamVet, Pancho Cavero) no figuran si aún no abrieron.</p>` : '<p class="note">Ninguna de las clínicas investigadas declara pertenecer a una cadena.</p>');
+  // ticket
+  const T = S.tickets;
+  setHTML('h-ticket', T.length ? `La mitad de las clínicas cobra menos de ${fmtSoles(median(T))}* por visita` : 'Sin tickets estimados');
+  setHTML('d-ticket', T.length ? `Ticket estimado por clínica, en soles. Promedio ${fmtSoles(mean(T))}*, n = ${fmtN(T.length)}.` : '');
+  if (!T.length) setEmpty('c-ticket', `Sin tickets para ${S.label}.`);
+  else {
+    const bins = [[0, 50], [50, 100], [100, 150], [150, 200], [200, 300], [300, Infinity]];
+    const cnt = bins.map(([a, b]) => T.filter(v => v >= a && v < b).length);
+    mkChart('c-ticket', { type:'bar', data:{ labels: bins.map(([a, b]) => b === Infinity ? `${a}+` : `${a}–${b - 1}`), datasets:[{ data: cnt, backgroundColor: C.mute }] },
+      options:{ layout:{ padding:{ top:18 } }, scales:{ y:{ beginAtZero:true, ticks:{ precision:0 }, grid:yGrid, border:{ display:false } }, x:{ grid:noGrid, title:{ display:true, text:'S/ por visita' } } },
+        plugins:{ valueLabels:{ enabled:true, fmt:v => v ? String(v) : '' }, tooltip:{ callbacks:{ label:c => `${c.raw} ${plural(c.raw, 'clínica')}` } } } } });
+  }
+  setHTML('n-ticket', T.length ? `* Estimado. De ${fmtN(T.length)} tickets, ${fmtN(TB.pub)} vienen de precios publicados, ${fmtN(TB.rev)} de precios citados en reseñas y ${fmtN(TB.seg)} se asignaron según el segmento de la clínica.` : '');
+  // G4 servicios × distrito
+  const svc = {}; PLACES.forEach(p => (p.services || []).forEach(s => { svc[s] = (svc[s] || 0) + 1; }));
+  const SERV = Object.keys(svc).filter(s => s !== 'consulta').sort((a, b) => (MARGIN_W[MARGIN[b] || 'Sin dato'] - MARGIN_W[MARGIN[a] || 'Sin dato']) || svc[b] - svc[a]);
+  const spec = {}; PLACES.forEach(p => new Set((p.specialties || []).map(s => String(s).split(' (')[0].toLowerCase().trim())).forEach(s => { spec[s] = (spec[s] || 0) + 1; }));
+  const SPEC = Object.entries(spec).filter(([s]) => !SERV.includes(s)).sort((a, b) => b[1] - a[1]).slice(0, 5).map(x => x[0]);
+  const cols = RANK.map(n => { const ps = PLACES.filter(p => p.district === n); return { n, ps, known: ps.filter(p => (p.services || []).length) }; });
+  const val = (col, s, isSpec) => { const base = isSpec ? col.ps : col.known; if (!base.length) return null; return 100 * base.filter(p => (isSpec ? (p.specialties || []).map(x => String(x).split(' (')[0].toLowerCase().trim()) : (p.services || [])).includes(s)).length / base.length; };
+  const opp = {}; cols.forEach(col => { opp[col.n] = SERV.filter(s => MARGIN[s] === 'Alto' || MARGIN[s] === 'Medio').map(s => ({ s, o: MARGIN_W[MARGIN[s]] * (1 - (val(col, s) || 0) / 100) })).sort((a, b) => b.o - a.o).slice(0, 3).map(x => x.s); });
+  const fcol = cols.find(c => isFocus(c.n));
+  const gapS = fcol ? SERV.filter(s => MARGIN[s] === 'Alto').map(s => ({ s, v: val(fcol, s) })).filter(x => isNum(x.v)).sort((a, b) => a.v - b.v)[0] : null;
+  setHTML('h-g4', gapS ? `En ${esc(shortD(fcol.n))}, solo ${fmtPct(gapS.v)} de las clínicas ofrece ${esc(gapS.s)}, un servicio de margen alto` : 'Servicios ofrecidos por distrito');
+  setHTML('d-g4', 'Porcentaje de clínicas que ofrece cada servicio. Filas ordenadas por margen típico: alto, medio y bajo.');
+  const cellBg = v => { if (!isNum(v)) return ''; const t = Math.min(1, v / 100); const a = [242, 242, 242], b = [11, 107, 99]; return `background:rgb(${a.map((x, i) => Math.round(x + (b[i] - x) * t)).join(',')});color:${t > .45 ? '#fff' : C.ink}`; };
+  const row = (s, isSpec) => `<tr><th scope="row">${esc(cap1(s))}</th><td>${isSpec ? 'Especialidad' : esc(MARGIN[s] || 'Sin dato')}</td>${cols.map(col => { const v = val(col, s, isSpec); return `<td class="v${!isSpec && opp[col.n].includes(s) ? ' opp' : ''}" style="${cellBg(v)}">${isNum(v) ? fmtN(v) : '—'}</td>`; }).join('')}</tr>`;
+  setHTML('t-g4', `<thead><tr><th scope="col">Servicio</th><th scope="col">Margen</th>${cols.map(c => `<th scope="col" class="n${isFocus(c.n) ? ' pickcol' : ''}" style="text-align:center">${esc(shortD(c.n))}<small>n=${fmtN(c.known.length)}</small></th>`).join('')}</tr></thead>
+    <tbody>${SERV.map(s => row(s, false)).join('')}${SPEC.map(s => row(s, true)).join('')}</tbody>`);
+}
+
+/* =========================================================
+   4. HORARIOS
+   ========================================================= */
+function renderHours() {
+  const S = scope(); const A = coverageAnalysis(S.coverage, S.count);
+  const f24 = S.P.filter(p => p.is_24h_google === true && p.is_24h === false);
+  const c24 = S.P.filter(p => p.is_24h === true && p.is_24h_google === false);
+  const one = A ? oneIn(A.lowAvg, S.count) : null;
+  setHTML('h-hours', A ? `De noche abre ${one || `${fmtPct(A.lowPct)} de las clínicas`}${S.all ? '' : ' en ' + esc(shortD(S.d.district))}${f24.length ? `, y ${numWord(f24.length)} de las que dicen ser 24 horas no lo ${f24.length === 1 ? 'es' : 'son'}` : ''}` : 'Sin datos de horarios');
+  setHTML('p-hours', A ? `<p>Entre las ${A.rangeTxt || '—'} hay en promedio ${fmtN(A.lowAvg)} clínicas abiertas en ${esc(S.label)}, frente a ${fmtN(A.peakV)} a las ${hh(A.peakH)}. El ${A.weakDay.toLowerCase()} es el día con menos clínicas abiertas.</p>` : '<p>No hay horarios publicados para este alcance.</p>');
+  // small multiples de cobertura
+  const G0 = coverageAnalysis(validGrid(G.coverage) ? G.coverage : null, G.count || PLACES.length);
+  const band = G0 && G0.main ? G0.main : null;
+  const host = $('mult-cov');
+  if (host) {
+    host.innerHTML = RANK.map((n, i) => { const d = byName(n); const a = coverageAnalysis(validGrid(d.coverage) ? d.coverage : null, d.count); return `<div class="${isFocus(n) ? 'is-pick' : ''}"><h4>${esc(shortD(n))}</h4><p class="sub">${a ? `de noche, ${fmtPct(a.lowPct)} abiertas; a las ${hh(a.peakH)}, ${fmtPct(pct(a.peakV, d.count))}` : 'sin horarios'}</p><div class="chart-box"><canvas id="cov-${i}" role="img" aria-label="Clínicas abiertas por hora en ${esc(n)}"></canvas><p class="empty" hidden></p></div></div>`; }).join('');
+    RANK.forEach((n, i) => {
+      const d = byName(n); const a = coverageAnalysis(validGrid(d.coverage) ? d.coverage : null, d.count);
+      if (!a) { setEmpty('cov-' + i, 'Sin horarios.'); return; }
+      const ys = a.avgH.map(v => pct(v, d.count));
+      const boxes = {};
+      if (band) { if (band[0] > band[1]) { boxes.b1 = { type:'box', xMin:band[0] - .5, xMax:23.5, backgroundColor:'rgba(0,0,0,.06)', borderWidth:0 }; boxes.b2 = { type:'box', xMin:-.5, xMax:band[1] + .5, backgroundColor:'rgba(0,0,0,.06)', borderWidth:0 }; } else boxes.b1 = { type:'box', xMin:band[0] - .5, xMax:band[1] + .5, backgroundColor:'rgba(0,0,0,.06)', borderWidth:0 }; }
+      mkChart('cov-' + i, { type:'line', data:{ labels: ys.map((_, h) => h), datasets:[{ data: ys, borderColor: isFocus(n) ? C.accent : C.ink3, borderWidth: isFocus(n) ? 2.2 : 1.4, pointRadius:0, tension:.2 }] },
+        options:{ scales:{ x:{ type:'linear', min:-.5, max:23.5, grid:noGrid, ticks:{ stepSize:6, callback:v => Number.isInteger(v) && v % 6 === 0 ? v + 'h' : '' } }, y:{ min:0, max:100, grid:yGrid, border:{ display:false }, ticks:{ stepSize:50, callback:v => v + '%' } } },
+          plugins:{ tooltip:{ callbacks:{ title:c => `${hh(c[0].parsed.x)}`, label:c => `${fmtN(c.raw, 0)}% abiertas` } }, annotation:{ annotations: boxes } } } });
+    });
+  }
+  // heatmap 7x24
+  const heat = $('heat');
+  setHTML('h-heat', A ? `En ${esc(S.label)}, el mínimo es ${fmtN(A.mn)} ${plural(A.mn, 'clínica abierta', 'clínicas abiertas')} y el máximo ${fmtN(A.mx)}` : 'Cobertura por día y hora');
+  setHTML('d-heat', 'Clínicas abiertas por día de la semana y hora. Con contorno, las horas con menos oferta.');
+  if (heat) {
+    if (!A) heat.innerHTML = '<p class="empty">Sin horarios publicados.</p>';
+    else {
+      let html = '<div></div>' + Array.from({ length:24 }, (_, h) => `<div class="hd">${h}</div>`).join('');
+      HEAT_ORDER.forEach(d => { html += `<div class="dl">${DAY_G[d].slice(0, 3)}</div>`; for (let h = 0; h < 24; h++) { const v = S.coverage[d][h]; const t = A.mx > A.mn ? (v - A.mn) / (A.mx - A.mn) : .5; const bg = [242, 242, 242].map((x, i) => Math.round(x + ([11, 107, 99][i] - x) * t)).join(','); html += `<div class="c${v <= A.thr ? ' low' : ''}" style="background:rgb(${bg});color:${t > .5 ? '#fff' : C.ink}" title="${DAY_G[d]} ${hh(h)}: ${v} abiertas">${v}</div>`; } });
+      heat.innerHTML = html;
+      heat.setAttribute('aria-label', `Clínicas abiertas por día y hora en ${S.label}: mínimo ${A.mn}, máximo ${A.mx}.`);
+    }
+  }
+  // falsos 24h
+  setHTML('h-f24', f24.length ? `${cap1(numWord(f24.length))} ${f24.length === 1 ? 'clínica figura' : 'clínicas figuran'} como 24 horas en Google, pero sus propios canales publican otro horario` : `En ${esc(S.label)} ninguna clínica figura como 24 horas en Google sin serlo`);
+  setHTML('p-f24', `<p>La oferta nocturna real en ${esc(S.label)} es de ${fmtN(S.n24)} ${plural(S.n24, 'clínica')}${f24.length ? `, no ${fmtN(S.n24 + f24.length - c24.length)} como sugiere Google` : ''}.${c24.length ? ` Además, ${fmtN(c24.length)} ${c24.length === 1 ? 'atiende' : 'atienden'} 24 horas aunque Google no lo muestre.` : ''}</p>`);
+  setHTML('t-f24', f24.length ? `<thead><tr><th scope="col">Clínica</th><th scope="col">Distrito</th><th scope="col" class="n">Reseñas</th></tr></thead><tbody>${f24.map(p => `<tr><th scope="row">${esc(p.name)}</th><td>${esc(shortD(p.district))}</td><td class="n">${fmtN(p.reviews_count)}</td></tr>`).join('')}</tbody>` : '');
+  // G6 demanda vs oferta
+  const src = S.all ? G : S.d; const DS = demandSupply(src, S.P);
+  if (!DS) { setHTML('h-g6', 'Sin datos para comparar demanda y oferta por hora'); setEmpty('c-g6', 'Sin reseñas con hora o sin horarios en este alcance.'); setHTML('k-g6', ''); setHTML('d-g6', ''); return; }
+  const run = peakRun(DS.idx, 2) || peakRun(DS.idx, 1.5);
+  setHTML('h-g6', run ? `Entre las ${hh(run.s)} y las ${hh((run.e + 1) % 24)} hay ${fmtN(run.avg, 1)} veces más demanda que oferta` : 'La demanda y la oferta van juntas a lo largo del día');
+  setHTML('d-g6', `Porcentaje de las reseñas publicadas a cada hora (demanda) frente al porcentaje de horas-clínica abiertas (oferta). Las barras muestran el cociente: por encima de 1, hay más demanda que oferta. Base: ${fmtN(DS.nRev)} reseñas${DS.smooth ? ', suavizadas con media móvil de 3 horas por ser pocas' : ''}.`);
+  setHTML('k-g6', `<span><i style="border-color:${C.accent}"></i>% de reseñas (demanda)</span><span><i class="dash" style="border-color:${C.ink3}"></i>% de clínicas abiertas (oferta)</span><span><i class="box" style="background:${C.mute}"></i>Índice demanda / oferta (eje derecho)</span>`);
+  const imax = Math.max(3, ...nums(DS.idx));
+  const annG6 = { one:{ type:'line', yScaleID:'y2', yMin:1, yMax:1, borderColor:C.ink, borderWidth:1, label:{ display:true, content:'Índice 1,0', position:'start', backgroundColor:'rgba(255,255,255,.85)', color:C.ink2, font:{ size:11 } } } };
+  if (run) annG6.run = { type:'label', xValue: (run.s + run.e) / 2, yValue: Math.min(imax * .95, run.max + .4), yScaleID:'y2', content:[`${hh(run.s)}–${hh((run.e + 1) % 24)}`, `${fmtN(run.avg, 1)}× más demanda`], color:C.ink, font:{ size:12, weight:'600' } };
+  mkChart('c-g6', { type:'bar',
+    data:{ labels: DS.idx.map((_, h) => h), datasets:[
+      { type:'bar', data: DS.idx.map(v => isNum(v) ? Math.round(v * 100) / 100 : null), yAxisID:'y2', backgroundColor: DS.idx.map(v => isNum(v) && v >= 2 ? hexA(C.accent, .35) : hexA(C.ink3, .22)), order:3 },
+      { type:'line', data: DS.dem, yAxisID:'y', borderColor:C.accent, borderWidth:2.2, pointRadius:0, tension:.25, order:1 },
+      { type:'line', data: DS.sup, yAxisID:'y', borderColor:C.ink3, borderWidth:1.6, borderDash:[5, 4], pointRadius:0, tension:.25, order:2 } ] },
+    options:{ interaction:{ mode:'index', intersect:false },
+      scales:{ x:{ grid:noGrid, ticks:{ callback:(v, i) => i % 3 === 0 ? hh(i) : '' } }, y:{ position:'left', beginAtZero:true, grid:yGrid, border:{ display:false }, ticks:{ callback:v => v + '%' } }, y2:{ position:'right', beginAtZero:true, max: Math.ceil(imax), grid:noGrid, border:{ display:false }, ticks:{ callback:v => fmtN(v, Number.isInteger(v) ? 0 : 1) + '×' } } },
+      plugins:{ tooltip:{ callbacks:{ title:c => hh(c[0].dataIndex), label:c => c.datasetIndex === 0 ? `Índice ${fmtN(c.raw, 2)}` : c.datasetIndex === 1 ? `Demanda ${fmtN(c.raw, 1)}%` : `Oferta ${fmtN(c.raw, 1)}%` } }, annotation:{ annotations: annG6 } } } });
+}
+
+/* =========================================================
+   5. CLIENTES
+   ========================================================= */
+function renderSocial() {
+  const S = scope(); const T = themeStats(S.themes); const w = worstTheme(S.themes);
+  const big = T[0];
+  const tenths = w ? Math.round(w.negPct / 10) : null;
+  setHTML('h-social', w ? `El tema con más quejas${S.all ? '' : ' en ' + esc(shortD(S.d.district))} es «${esc(w.name)}»: ${tenths >= 1 ? `${fmtN(tenths)} de cada 10` : fmtPct(w.negPct)} menciones son negativas` : 'Todavía no hay suficientes reseñas para detectar temas');
+  setHTML('p-social', w ? `<p>De las ${fmtN(w.total)} menciones de «${esc(w.name.toLowerCase())}» en ${esc(S.label)}, ${fmtN(w.neg)} están en reseñas negativas (${fmtPct(w.negPct)}).${big && big !== w ? ` En «${esc(big.name.toLowerCase())}», el tema más citado, pasa lo contrario: ${fmtN(big.pos)} menciones positivas contra ${fmtN(big.neg)} negativas.` : ''} El buen trato ya es lo esperado; donde una clínica nueva puede ganar es en los temas con peor balance.</p>` : '');
+  if (!T.length) setEmpty('c-themes', 'Sin menciones de temas.');
+  else mkChart('c-themes', { type:'bar',
+    data:{ labels: T.map(t => t.name), datasets:[
+      { label:'Negativas', data: T.map(t => -t.neg), backgroundColor: T.map(t => w && t.name === w.name ? C.risk : C.ink3) },
+      { label:'Positivas', data: T.map(t => t.pos), backgroundColor: C.mute } ] },
+    options:{ indexAxis:'y', layout:{ padding:{ left:10, right:40 } }, scales:{ x:{ stacked:true, grid:yGrid, ticks:{ callback:v => fmtN(Math.abs(v)) }, title:{ display:true, text:'← negativas · positivas →' } }, y:{ stacked:true, grid:noGrid, ticks:{ color:C.ink, font:c => ({ weight: w && T[c.index] && T[c.index].name === w.name ? '600' : '400' }) } } },
+      plugins:{ valueLabels:{ enabled:true, fmt:v => fmtN(Math.abs(v)), color:C.ink2 }, tooltip:{ callbacks:{ label:c => { const t = T[c.dataIndex]; return `${c.dataset.label}: ${fmtN(Math.abs(c.raw))} (${fmtPct(c.datasetIndex === 0 ? t.negPct : 100 - t.negPct)})`; } } } } } });
+  const nRev = sum(S.P.map(p => (p.reviews || []).length));
+  setHTML('n-themes', `<p>Clasificación por palabras clave sobre ${fmtN(nRev)} reseñas de muestra (Google entrega hasta cinco por clínica). Positiva: 4 o 5 estrellas.${w ? ` En rojo, el tema con mayor proporción de menciones negativas.` : ''}</p><span class="src">Google Places, sep. 2026.</span>`);
+  // presencia digital
+  const n = S.P.length; const enr = S.P.filter(isEnriched); const ne = enr.length;
+  const web = S.P.filter(p => p.website).length, ig = enr.filter(p => p.instagram).length, fb = enr.filter(p => p.facebook).length, tk = enr.filter(p => p.tiktok).length;
+  setHTML('h-digital', ne ? `${fmtPct(pct(ig, ne))} de las clínicas investigadas tiene Instagram; solo ${fmtPct(pct(tk, ne))}, TikTok` : 'Presencia digital en investigación');
+  const rc = {}; enr.forEach(p => { const r = p.social_reputation; if (r && r !== 'Sin datos') rc[r] = (rc[r] || 0) + 1; });
+  setHTML('t-digital', `<thead><tr><th scope="col">Canal</th><th scope="col" class="n">Clínicas</th><th scope="col" class="n">%</th></tr></thead><tbody>
+    <tr><th scope="row">Sitio web</th><td class="n">${fmtN(web)} de ${fmtN(n)}</td><td class="n">${fmtPct(pct(web, n))}</td></tr>
+    <tr><th scope="row">Instagram</th><td class="n">${fmtN(ig)} de ${fmtN(ne)}</td><td class="n">${fmtPct(pct(ig, ne))}</td></tr>
+    <tr><th scope="row">Facebook</th><td class="n">${fmtN(fb)} de ${fmtN(ne)}</td><td class="n">${fmtPct(pct(fb, ne))}</td></tr>
+    <tr><th scope="row">TikTok</th><td class="n">${fmtN(tk)} de ${fmtN(ne)}</td><td class="n">${fmtPct(pct(tk, ne))}</td></tr>
+    ${['Alta', 'Media', 'Baja', 'Sin presencia'].filter(k => rc[k]).map(k => `<tr><th scope="row">Reputación en redes: ${esc(k.toLowerCase())}</th><td class="n">${fmtN(rc[k])}</td><td class="n">${fmtPct(pct(rc[k], sum(Object.values(rc))))}</td></tr>`).join('')}</tbody>`);
+  // citas
+  const cand = [];
+  S.P.forEach(p => (p.reviews || []).forEach(r => { const t = String(r.text || '').replace(/\s+/g, ' ').trim(); if (isNum(r.rating) && r.rating <= 2 && t.length >= 40 && t.length <= 220) cand.push({ p, r, t }); }));
+  cand.sort((a, b) => String(b.r.time || '').localeCompare(String(a.r.time || '')));
+  const seen = new Set(); const pick = [];
+  for (const c of cand) { if (seen.has(c.p.id)) continue; seen.add(c.p.id); pick.push(c); if (pick.length === 4) break; }
+  setHTML('quotes', pick.length ? pick.map(c => `<blockquote><p>«${esc(c.t)}»</p><cite>${fmtN(c.r.rating)} ${plural(c.r.rating, 'estrella')} · sobre ${esc(c.p.name)}, ${esc(shortD(c.p.district))}${c.r.relative ? ' · ' + esc(c.r.relative) : ''}</cite></blockquote>`).join('') : '<p class="empty">No hay reseñas negativas cortas en este alcance.</p>');
+}
+
+/* =========================================================
+   6. MUNICIPIO
+   ========================================================= */
+function renderRegulation() {
+  const bads = badDistricts(), goods = goodDistricts();
+  const mids = DIST.filter(d => legalStatus(d).lvl === 'mid').map(d => d.district);
+  const anyCap = DIST.some(d => (d.regulation || {}).cap_exists === true);
+  setHTML('h-reg', bads.length ? `En ${esc(joinY(bads.map(shortD)))} no se puede abrir una clínica nueva; el límite no es un tope sino la zonificación` : 'Ningún distrito prohíbe abrir una clínica nueva');
+  const byBad = DIST.filter(d => legalStatus(d).lvl === 'bad').map(d => `en ${d.district} ${legalStatus(d).txt}`);
+  const cheapest = minBy(DIST, d => (d.regulation || {}).license_cost_soles), dearest = maxBy(DIST, d => (d.regulation || {}).license_cost_soles);
+  setHTML('p-reg', `<p>Ningún distrito fija un número máximo de veterinarias ni una distancia mínima entre ellas${anyCap ? ', salvo el tope de hecho que implica permitir solo las existentes' : ''}. Lo que manda es el índice de usos: ${esc(joinY(byBad))}.${goods.length ? ` ${esc(joinY(goods))} ${goods.length > 1 ? 'la permiten' : 'la permite'} en ${goods.map(g => fmtN(legalStatus(byName(g)).zones)).join(' y ')} tipos de zona.` : ''}${mids.length ? ` En ${esc(joinY(mids))} es posible pero restringido o sin verificar.` : ''}</p>
+    <p>La licencia cuesta poco frente al resto de la inversión: de ${fmtSoles((cheapest.regulation || {}).license_cost_soles)} en ${esc(cheapest.district)} a ${fmtSoles((dearest.regulation || {}).license_cost_soles)} en ${esc(dearest.district)} para riesgo medio. Operar un quirófano con licencia de consultorio expone a multa y clausura.</p>`);
+  const host = u => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return 'fuente'; } };
+  const order = state.district === 'all' ? RANK : [state.district].concat(RANK.filter(n => n !== state.district));
+  setHTML('reg', order.map(n => { const d = byName(n); const r = d.regulation || {}; const L0 = legalStatus(d);
+    const srcs = (r.sources || []).filter(Boolean);
+    const cap = r.cap_exists === true ? '<span class="risk">Sí, de hecho</span>' : r.cap_exists === false ? 'No' : r.cap_exists === 'unknown' ? '<i>Sin verificar</i>' : '—';
+    const yn = v => v === true ? 'Sí' : v === false ? 'No' : '—';
+    return `<div class="regblock${isFocus(n) ? ' pick' : ''}"><div><h3>${esc(d.district)}</h3><p class="muted" style="font-size:13px">Fricción ${esc(String(r.friction || 'sin dato').toLowerCase())}</p></div><div>
+      <dl>
+        <dt>¿Clínica nueva?</dt><dd class="${L0.lvl === 'bad' ? 'risk' : ''}">${esc(legalAnswer(d))}</dd>
+        <dt>Clínica conforme en</dt><dd>${(r.zoning_allowed || []).filter(Boolean).length ? esc(r.zoning_allowed.join('; ')) : '<span class="risk">Ninguna zona</span>'}${r.zoning_allowed_note ? `<br><span class="muted">${esc(r.zoning_allowed_note)}</span>` : ''}</dd>
+        <dt>Consultorio conforme en</dt><dd>${(r.zoning_allowed_consultorio || []).filter(Boolean).length ? esc(r.zoning_allowed_consultorio.join('; ')) : '—'}</dd>
+        <dt>Licencia riesgo medio</dt><dd class="num">${fmtSoles(r.license_cost_soles)}</dd>
+        <dt>Licencia riesgo alto</dt><dd class="num">${fmtSoles(r.license_cost_high_risk_soles)}</dd>
+        <dt>Plazo</dt><dd>${isNum(r.license_days) ? fmtN(r.license_days) + ' días hábiles' : '—'}</dd>
+        <dt>Tope de clínicas</dt><dd>${cap}</dd>
+        <dt>Registro municipal de mascotas</dt><dd>${yn(r.pet_registry)}</dd>
+        <dt>Parques caninos municipales</dt><dd>${isNum(r.dog_parks) ? fmtN(r.dog_parks) : 'Sin dato'}</dd>
+      </dl>
+      ${r.cap_note ? `<p>${esc(r.cap_note)}</p>` : ''}
+      ${srcs.length ? `<p class="note">Fuentes: ${srcs.map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">${i + 1}. ${esc(host(u))}</a>`).join(' · ')}</p>` : ''}
+    </div></div>`; }).join(''));
+}
+
+/* =========================================================
+   7. ¿CIERRAN LOS NÚMEROS? (G5)
+   ========================================================= */
+const sim = { d:null, m2:null, ticket:null, useDist:false, visits:20, touched:false };
+function simOpts(extra = {}) { return Object.assign({ m2: sim.m2, ticket: sim.useDist ? null : sim.ticket }, extra); }
+function simFor(d, extra = {}) { const o = simOpts(extra); if (sim.useDist && isNum(d.avg_ticket)) o.ticket = d.avg_ticket * (extra.ticketMul || 1); else if (extra.ticketMul) o.ticket = (sim.ticket || BE.ticket_default_soles) * extra.ticketMul; return simulate(d, o); }
+function initSimInputs() {
+  if (!isNum(sim.m2)) sim.m2 = BE.local_m2 || 120;
+  if (!isNum(sim.ticket)) sim.ticket = BE.ticket_default_soles || 120;
+  const sel = $('s-d'); if (!sel) return;
+  sel.innerHTML = RANK.map(n => `<option value="${esc(n)}">${esc(n)}</option>`).join('');
+  $('s-m2').value = sim.m2; $('s-t').value = sim.ticket; $('s-v').value = sim.visits;
+}
+function renderSimulator() {
+  if (!sim.touched || !sim.d) sim.d = focusName();
+  if (state.district !== 'all') sim.d = state.district;
+  const d = byName(sim.d); if (!d) return;
+  $('s-d').value = d.district;
+  $('o-m2').textContent = fmtN(sim.m2) + ' m²';
+  $('o-v').textContent = fmtN(sim.visits);
+  $('s-t').disabled = sim.useDist;
+  $('s-tdist').checked = sim.useDist;
+  $('s-tdist-l').textContent = `Usar el ticket promedio de ${shortD(d.district)} (${fmtSoles(d.avg_ticket)}*)`;
+  $('s-m2-note').textContent = `Supuesto base: ${fmtN(BE.local_m2)} m². Alquiler de ${shortD(d.district)}: US$ ${fmtN(d.rent_usd_m2, 1)}/m²*.`;
+  const R = simFor(d);
+  $('s-v-note').textContent = R && isNum(R.capacity) ? `Capacidad de ${fmtN((BE.staff || {}).vets)} veterinarios: ${fmtN(R.capacity)} visitas al día.` : '';
+  // titular desde los cinco distritos con supuestos base
+  const base = simAll({}); const bes = nums(base.map(s => s.be)); const mults = nums(base.map(s => s.multiple));
+  setHTML('h-be', bes.length ? `Con ${fmtN(BE.local_m2)} m² y ${fmtN((BE.staff || {}).vets)} veterinarios, una clínica necesita entre ${fmtN(Math.round(Math.min(...bes)))} y ${fmtN(Math.round(Math.max(...bes)))} visitas al día para cubrir costos en cualquier distrito` : 'Sin supuestos para el punto de equilibrio');
+  const rentSpread = base.length ? Math.max(...base.map(s => s.rent)) - Math.min(...base.map(s => s.rent)) : null;
+  const mid = base.find(s => s.d.district === RANK[0]) || base[0];
+  const beRentDiff = mid && isNum(rentSpread) ? rentSpread / mid.contrib / mid.days : null;
+  setHTML('p-be', bes.length ? `<p>Con el ticket base de ${fmtSoles(BE.ticket_default_soles)} y una planilla de ${fmtN((BE.staff || {}).vets)} veterinarios y ${fmtN((BE.staff || {}).assistants)} asistentes, el alquiler mueve el equilibrio en apenas ${fmtN(beRentDiff, 1)} visitas al día entre el distrito más caro y el más barato. Lo que decide es si la clínica puede captar esas visitas: ${mults.length ? `son entre ${fmtN(Math.min(...mults), 1)} y ${fmtN(Math.max(...mults), 1)} veces lo que le tocaría si la demanda del distrito se repartiera por igual entre todas las clínicas` : 'la cuota de mercado necesaria es alta'}.</p><p>Mueve los controles para probar otro local, otro ticket u otro volumen. Los cálculos son antes de impuestos y sin curva de arranque.</p>` : '');
+  if (!R) { setHTML('sim-out', '<p class="empty">Faltan datos para simular este distrito.</p>'); return; }
+  const v = sim.visits; const prof = R.profit(v); const pb = R.payback(v);
+  const util = isNum(R.capacity) ? pct(R.be, R.capacity) : null;
+  setHTML('sim-out', `<p class="result"><span class="big">${fmtN(R.be, 1)} visitas al día</span>para cubrir costos en ${esc(d.district)}${isNum(util) ? `, el ${fmtPct(util)} de la capacidad` : ''}. Para un margen de ${fmtN(BE.margin_target_pct)}% hacen falta ${fmtN(R.target, 1)}.</p>
+    <div class="table-wrap"><table><tbody>
+      <tr><th scope="row">Costos fijos al mes</th><td class="n">${fmtSoles(R.fixed)}</td></tr>
+      <tr><th scope="row">Alquiler al mes (${fmtN(R.m2)} m²)</th><td class="n">${fmtSoles(R.rent)}</td></tr>
+      <tr><th scope="row">Ticket usado</th><td class="n">${fmtSoles(R.ticket)}${sim.useDist ? '*' : ''} (${fmtSoles(R.net)} sin IGV)</td></tr>
+      <tr><th scope="row">Utilidad al mes con ${fmtN(v)} visitas al día</th><td class="n${prof < 0 ? ' risk' : ''}">${prof < 0 ? '−' : ''}${fmtSoles(Math.abs(prof))}</td></tr>
+      <tr><th scope="row">Alquiler como % de los ingresos</th><td class="n">${fmtPct(R.rentPct(v), 1)}</td></tr>
+      <tr><th scope="row">Recuperación de la inversión (${fmtSoles(R.capex)})</th><td class="n">${isNum(pb) ? fmtN(pb, 1) + ' meses' : '<span class="risk">no se recupera</span>'}</td></tr>
+    </tbody></table></div>
+    <p class="note">La referencia de alquiler sano es 4–6% de los ingresos (Today's Veterinary Business). En el equilibrio, el alquiler pesa ${fmtPct(R.rentPct(R.be), 1)}.</p>`);
+  // gráfico
+  const X = Array.from({ length:36 }, (_, i) => i);
+  const sims = DIST.map(dd => simFor(dd)).filter(Boolean);
+  setHTML('h-g5', `En ${esc(shortD(d.district))}, cada visita diaria adicional suma ${fmtSoles(R.contrib * R.days)} al mes`);
+  mkChart('c-g5', { type:'line',
+    data:{ datasets: sims.map(s => ({ label:s.d.district, data: X.map(x => ({ x, y: Math.round(s.profit(x)) })), borderColor: s.d.district === d.district ? C.accent : C.mute, borderWidth: s.d.district === d.district ? 2.5 : 1.2, pointRadius:0, order: s.d.district === d.district ? 0 : 1 })) },
+    options:{ scales:{ x:{ type:'linear', min:0, max:35, grid:noGrid, title:{ display:true, text:'Visitas por día' } }, y:{ grid:yGrid, border:{ display:false }, ticks:{ callback:v => (v < 0 ? '−' : '') + 'S/ ' + fmtN(Math.abs(v) / 1000) + ' mil' } } },
+      plugins:{ tooltip:{ callbacks:{ title:c => `${c[0].raw.x} visitas al día`, label:c => `${shortD(c.dataset.label)}: ${c.raw.y < 0 ? '−' : ''}${fmtSoles(Math.abs(c.raw.y))}` } },
+        annotation:{ annotations:{
+          zero:{ type:'line', yMin:0, yMax:0, borderColor:C.ink, borderWidth:1 },
+          now:{ type:'line', xMin:v, xMax:v, borderColor:C.ink3, borderWidth:1, borderDash:[4, 4], label:{ display:true, content:`${fmtN(v)} visitas`, position:'end', backgroundColor:'rgba(255,255,255,.9)', color:C.ink2, font:{ size:11 } } },
+          be:{ type:'point', xValue:R.be, yValue:0, radius:5, backgroundColor:C.accent, borderColor:'#fff', borderWidth:1.5 },
+          beL:{ type:'label', xValue:R.be, yValue:0, yAdjust:-22, content:`Equilibrio: ${fmtN(R.be, 1)}`, color:C.accent, font:{ size:12, weight:'600' } }
+        } } } } });
+  // sensibilidad
+  const s = BE.staff || {};
+  const scen = [
+    { l:'Supuestos actuales', o:{} },
+    { l:'Régimen MYPE: sobrecosto laboral de 10% en vez de ' + fmtN(s.labor_overhead_pct) + '%', o:{ overhead:10 } },
+    { l:`${fmtN((s.vets || 0) + 1)} veterinarios en vez de ${fmtN(s.vets)}`, o:{ vets:(s.vets || 0) + 1 } },
+    { l:`Insumos al ${fmtN((BE.supplies_pct || 0) - 4)}% en vez de ${fmtN(BE.supplies_pct)}%`, o:{ supplies:(BE.supplies_pct || 0) - 4 } },
+    { l:`Local 25% más chico (${fmtN(Math.round(sim.m2 * .75))} m²)`, o:{ m2: Math.round(sim.m2 * .75) } },
+    { l:'Ticket 15% más alto', o:{ ticketMul:1.15 } },
+    { l:'Ticket 15% más bajo', o:{ ticketMul:.85 } },
+    { l:'Alquiler 20% más caro', o:{ rentMul:1.2 } }
+  ].map(x => ({ l:x.l, r: simFor(d, x.o) }));
+  const b0 = scen[0].r ? scen[0].r.be : null;
+  setHTML('d-sens', `Visitas al día necesarias en ${esc(d.district)} con los valores de los controles, cambiando un supuesto a la vez.`);
+  setHTML('t-sens', `<thead><tr><th scope="col">Escenario</th><th scope="col" class="n">Equilibrio</th><th scope="col" class="n">Cambio</th><th scope="col" class="n">Recuperación con ${fmtN(v)} visitas</th></tr></thead>
+    <tbody>${scen.map((x, i) => `<tr${i === 0 ? ' class="pick"' : ''}><th scope="row">${esc(x.l)}</th><td class="n">${x.r ? fmtN(x.r.be, 1) : '—'}</td><td class="n">${i && x.r && isNum(b0) ? (x.r.be - b0 >= 0 ? '+' : '−') + fmtN(Math.abs(x.r.be - b0), 1) : ''}</td><td class="n">${x.r && isNum(x.r.payback(v)) ? fmtN(x.r.payback(v), 1) + ' meses' : '—'}</td></tr>`).join('')}</tbody>`);
+  // cuota justa
+  const fs = BE.fair_share || {};
+  const fair = RANK.map(n => simFor(byName(n))).filter(Boolean);
+  const mn = minBy(fair, x => x.multiple);
+  setHTML('h-fair', mn && isNum(mn.multiple) ? `Ninguna clínica nueva llega al equilibrio con una cuota promedio; en ${esc(shortD(mn.d.district))} le falta menos, ${fmtN(mn.multiple, 1)} veces esa cuota` : 'Cuota de mercado necesaria');
+  setHTML('d-fair', `Cuota justa: visitas al año del distrito (hogares × ${fmtN(fs.pet_households_pct, 1)}% con mascota × ${fmtN((fs.vet_visit_rate || 0) * 100)}% que va al veterinario × ${fmtN(fs.visits_per_household_year)} visitas${fs.visits_per_household_year_is_estimate ? ', estimado' : ''}) repartidas entre las clínicas existentes más la nueva, en ${fmtN(fs.open_days_year)} días. No cuenta clientes de otros distritos.`);
+  setHTML('t-fair', `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">Cuota justa (visitas/día)</th><th scope="col" class="n">Equilibrio</th><th scope="col" class="n">Veces la cuota</th><th scope="col">¿Clínica nueva?</th></tr></thead>
+    <tbody>${fair.map(x => `<tr class="${x.d.district === d.district ? 'pick' : ''}"><th scope="row">${esc(x.d.district)}</th><td class="n">${fmtN(x.fair, 1)}</td><td class="n">${fmtN(x.be, 1)}</td><td class="n">${fmtX(x.multiple)}</td><td class="${legalStatus(x.d).lvl === 'bad' ? 'risk' : ''}">${esc(legalAnswer(x.d))}</td></tr>`).join('')}</tbody>`);
+  // supuestos con fuentes
+  const srcOf = f => (BE.sources || []).filter(x => x.field === f || String(x.field).startsWith(f + '.'));
+  const link = arr => arr.map(x => { const u = String(x.url || ''); const lab = /^https?:/.test(u) ? (() => { try { return new URL(u).hostname.replace(/^www\./, ''); } catch (e) { return 'fuente'; } })() : u; return /^https?:/.test(u) ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(lab)}</a>${x.note ? ` <span class="muted">(${esc(x.note)})</span>` : ''}` : `${esc(lab)}${x.note ? ` (${esc(x.note)})` : ''}`; }).join('; ');
+  const A = [
+    ['Local', `${fmtN(BE.local_m2)} m²`, 'local_m2'],
+    ['Inversión inicial', `US$ ${fmtN(BE.capex_usd_100m2)} por 100 m²`, 'capex_usd_100m2'],
+    ['Veterinarios', `${fmtN(s.vets)} × S/ ${fmtN(s.vet_gross_soles)} brutos`, 'staff.vet_gross_soles'],
+    ['Asistentes', `${fmtN(s.assistants)} × S/ ${fmtN(s.assistant_gross_soles)} brutos`, 'staff.assistant_gross_soles'],
+    ['Sobrecosto laboral', `${fmtN(s.labor_overhead_pct)}%`, 'staff.labor_overhead_pct'],
+    ['Planilla total', fmtSoles(staffMonthly()) + ' al mes', null],
+    ['Insumos', `${fmtN(BE.supplies_pct)}% de los ingresos sin IGV`, 'supplies_pct'],
+    ['Otros fijos', `${fmtSoles(BE.other_fixed_monthly_soles)} al mes${BE.other_fixed_is_estimate ? ' (estimado, sin fuente peruana)' : ''}`, null],
+    ['Ticket base', `${fmtSoles(BE.ticket_default_soles)} con IGV (${fmtN(BE.igv_pct)}%)`, 'ticket_default_soles'],
+    ['Margen objetivo', `${fmtN(BE.margin_target_pct)}%`, 'margin_target_pct'],
+    ['Tipo de cambio', `S/ ${fmtN(BE.usd_pen, 2)} por US$`, 'usd_pen'],
+    ['Días de atención', `${fmtN(BE.working_days_month)} al mes`, null],
+    ['Capacidad', `${fmtN(BE.visits_per_vet_day_capacity)} visitas por veterinario al día`, 'visits_per_vet_day_capacity'],
+    ['Visitas al veterinario', `${fmtN((fs.vet_visit_rate || 0) * 100)}% de los hogares con mascota`, 'fair_share.vet_visit_rate'],
+    ['Referencia de alquiler', '4–6% de los ingresos', 'rent_benchmark_pct_revenue']
+  ];
+  setHTML('t-assump', `<thead><tr><th scope="col">Supuesto</th><th scope="col">Valor</th><th scope="col">Fuente</th></tr></thead><tbody>${A.map(([l, v, f]) => `<tr><th scope="row">${esc(l)}</th><td>${v}</td><td>${f ? link(srcOf(f)) || '—' : '<span class="muted">cálculo o estimado propio</span>'}</td></tr>`).join('')}</tbody>`);
+}
+
+/* =========================================================
+   8. LAS PREGUNTAS QUE IMPORTAN
+   ========================================================= */
+function questions() {
+  const hpMax = maxBy(DIST, d => d.households_per_clinic), hpMin = minBy(DIST, d => d.households_per_clinic);
+  const cMax = maxBy(DIST, d => d.avg_competitors_1km), cMin = minBy(DIST, d => d.avg_competitors_1km);
+  const n24Max = maxBy(DIST, d => d.median_nearest_24h_km), n24Min = minBy(DIST, d => d.median_nearest_24h_km);
+  const farCell = maxBy(ALL_CELLS, c => c.nearest_24h_km);
+  const LZ = DIST.map(d => ({ d, L: lorenz(PLACES.filter(p => p.district === d.district)) })).filter(x => x.L);
+  const hMax = maxBy(LZ, x => x.L.hhi), hMin = minBy(LZ, x => x.L.hhi);
+  const base = simAll({}); const bes = nums(base.map(s => s.be)); const rp = nums(base.map(s => s.rentPct(s.be)));
+  const pb = nums(base.map(s => s.payback(20)));
+  const TB = { n:0, seg:0 }; PLACES.forEach(p => { if (isNum(p.ticket)) { TB.n++; if (isEstTicket(p)) TB.seg++; } });
+  const DS = demandSupply(G, PLACES); const run = DS ? (peakRun(DS.idx, 2) || peakRun(DS.idx, 1.5)) : null;
+  const vulnBy = RANK.map(n => `${shortD(n)} ${fmtN(PLACES.filter(p => p.district === n && isVuln(p)).length)}`);
+  const pk = k => POIS.filter(q => k.includes(q.kind)).length;
+  const enr = PLACES.filter(isEnriched); const ig = pct(enr.filter(p => p.instagram).length, enr.length);
+  const founded = PLACES.filter(p => isNum(p.founded_year)).length;
+  const chains = new Set(PLACES.map(p => shortChain(p.chain)).filter(Boolean)).size;
+  const park = G.themes && G.themes['Estacionamiento / acceso'];
+  const fcol = focusName(); const fps = PLACES.filter(p => p.district === fcol && (p.services || []).length);
+  const lowSvc = ['laboratorio', 'ecografía', 'rayos X', 'cirugía'].map(s => ({ s, v: pct(fps.filter(p => p.services.includes(s)).length, fps.length) })).filter(x => isNum(x.v)).sort((a, b) => a.v - b.v)[0];
+  const byMonth = Object.keys((G.activity || {}).by_month || {}).length;
+  const s = BE.staff || {};
+  return [
+    { n:1, lv:'D/L', q:'¿Cuántos hogares con mascota hay a 1–2 km del local?', pr:'A', st:'Parcial', sec:'mapa', a:`Solo por distrito (de ${fmtN(Math.min(...nums(DIST.map(d => d.households))))} a ${fmtN(Math.max(...nums(DIST.map(d => d.households))))} hogares). El modo Explorar suma hogares por radio con reparto uniforme.`, miss:'Hogares por manzana (INEI).' },
+    { n:2, lv:'D/L', q:'¿Tienen poder adquisitivo para pagar el ticket?', pr:'B', st:'Parcial', sec:'distrito', a:`NSE A/B por distrito: ${DIST.map(d => `${shortD(d.district)} ${fmtPct(d.nse_ab_pct)}`).join(', ')}.`, miss:'NSE por manzana.' },
+    { n:3, lv:'D', q:'¿Cuántas clínicas compiten por hogar?', pr:'A', st:'Sí', sec:'distrito', a: hpMax ? `${shortD(hpMax.district)} tiene más hogares por clínica (${fmtN(hpMax.households_per_clinic)}); ${shortD(hpMin.district)}, menos (${fmtN(hpMin.households_per_clinic)}).` : '—' },
+    { n:4, lv:'L', q:'¿Cuántos competidores hay a 1 km y qué tan cerca está el más próximo?', pr:'A', st:'Sí', sec:'mapa', a: cMax ? `De ${fmtN(cMin.avg_competitors_1km, 1)} (${shortD(cMin.district)}) a ${fmtN(cMax.avg_competitors_1km, 1)} (${shortD(cMax.district)}) competidores a 1 km por clínica. Por celda en el mapa y por punto en Explorar.` : '—' },
+    { n:5, lv:'L', q:'¿A qué distancia está el 24 h más cercano?', pr:'A', st:'Sí', sec:'mapa', a: n24Max ? `Mediana de ${fmtKm(n24Min.median_nearest_24h_km)} (${shortD(n24Min.district)}) a ${fmtKm(n24Max.median_nearest_24h_km)} (${shortD(n24Max.district)}).${farCell ? ` La celda más alejada está a ${fmtKm(farCell.nearest_24h_km)}, en ${shortD(farCell.district)}.` : ''}` : '—' },
+    { n:6, lv:'D/L', q:'¿Hay líderes débiles que se puedan desplazar?', pr:'A', st:'Sí', sec:'competencia', a:`Clínicas con rating bajo ${fmtN(VULN_R, 1)} y ${fmtN(VULN_N)}+ reseñas: ${vulnBy.join(', ')}.` },
+    { n:7, lv:'D', q:'¿Algún competidor domina el mercado?', pr:'B', st:'Sí', sec:'competencia', a: hMax ? `${shortD(hMax.d.district)} es el más concentrado (HHI ${fmtN(hMax.L.hhi)}); ${shortD(hMin.d.district)}, el más repartido (${fmtN(hMin.L.hhi)}).` : '—' },
+    { n:8, lv:'L', q:'¿Canibalizo una sede propia o de la cadena con la que compito?', pr:'C', st:'No', a:'', miss:'Áreas de influencia (Voronoi) por clínica.' },
+    { n:9, lv:'L', q:'¿Cuánto cuesta el m² y cuánto pesa en el P&L?', pr:'A', st:'Parcial', sec:'numeros', a: rp.length ? `En el equilibrio, el alquiler es ${fmtPct(Math.min(...rp))}–${fmtPct(Math.max(...rp))} de los ingresos (referencia: 4–6%).` : '—', miss:'Avisos de alquiler por cuadra.' },
+    { n:10, lv:'L', q:'¿Tiene visibilidad, frente a avenida y estacionamiento?', pr:'B', st:'Parcial', sec:'clientes', a: park ? `Solo como tema de reseñas: ${fmtN(park.pos)} menciones positivas y ${fmtN(park.neg)} negativas de estacionamiento.` : '—', miss:'Tipo de vía, tráfico y estacionamiento.' },
+    { n:11, lv:'L', q:'¿Hay generadores de tráfico cerca?', pr:'B', st:'Parcial', sec:'mapa', a:`En el mapa: ${fmtN(pk(['park']))} parques, ${fmtN(pk(['dog_park']))} parques caninos, ${fmtN(pk(['pet_shop']))} petshops y ${fmtN(pk(['supermarket']))} supermercados; cada celda cuenta los cercanos.`, miss:'Colegios y centros comerciales.' },
+    { n:12, lv:'L', q:'¿Hay edificios nuevos que traerán demanda?', pr:'C', st:'No', a:'', miss:'Licencias de edificación y proyectos inmobiliarios.' },
+    { n:13, lv:'L', q:'¿La zona es segura para operar de noche?', pr:'C', st:'No', a:'', miss:'Mapa del delito (PNP u observatorios municipales).' },
+    { n:14, lv:'L', q:'¿La zonificación permite clínica y no solo consultorio?', pr:'A', st:'Sí', sec:'municipio', a:`Por distrito: sí en ${joinY(goodDistricts().map(shortD)) || 'ninguno'}; no en ${joinY(badDistricts().map(shortD)) || 'ninguno'}.`, miss:'Capa de zonificación por cuadra.' },
+    { n:15, lv:'N', q:'¿Cuántas visitas al día necesito para cubrir costos?', pr:'A', st:'Sí', sec:'numeros', a: bes.length ? `Entre ${fmtN(Math.min(...bes), 1)} y ${fmtN(Math.max(...bes), 1)} con los supuestos base.` : '—' },
+    { n:16, lv:'N', q:'¿Cuánto capex necesito y en cuánto lo recupero?', pr:'A', st:'Sí', sec:'numeros', a: pb.length ? `Con 20 visitas al día, entre ${fmtN(Math.min(...pb), 1)} y ${fmtN(Math.max(...pb), 1)} meses, sin curva de arranque.` : '—' },
+    { n:17, lv:'N', q:'¿Qué mix de servicios deja más margen?', pr:'A', st:'Parcial', sec:'servicios', a: lowSvc ? `Oferta por distrito, sin precios. En ${shortD(fcol)}, ${lowSvc.s} es el servicio de margen alto con menos oferta (${fmtPct(lowSvc.v)}).` : '—', miss:'Precios por servicio.' },
+    { n:18, lv:'N', q:'¿Qué ticket puedo cobrar?', pr:'A', st:'Parcial', sec:'competencia', a:`Promedio ${fmtSoles(G.avg_ticket)}, pero ${fmtN(TB.seg)} de ${fmtN(TB.n)} tickets están estimados por segmento.`, miss:'Mystery shopping de precios.' },
+    { n:19, lv:'N', q:'¿En qué horario hay demanda sin oferta?', pr:'B', st:'Sí', sec:'horarios', a: run ? `${hh(run.s)}–${hh((run.e + 1) % 24)}: ${fmtN(run.avg, 1)} veces más demanda que oferta (con reseñas como proxy).` : '—' },
+    { n:20, lv:'N', q:'¿Hay estacionalidad?', pr:'C', st:'Parcial', a: byMonth ? `Hay ${fmtN(byMonth)} meses de reseñas, pero crecen con el uso de Google; no los graficamos.` : '—', miss:'Visitas o ventas mensuales reales.' },
+    { n:21, lv:'D', q:'¿Qué cadenas están o llegarán?', pr:'B', st:'Parcial', sec:'competencia', a:`${fmtN(chains)} cadenas o redes con sede en los cinco distritos. Las que anunciaron llegada no figuran.`, miss:'Seguimiento de aperturas anunciadas.' },
+    { n:22, lv:'N', q:'¿Qué tan fuerte es la marca digital de los competidores?', pr:'C', st:'Parcial', sec:'clientes', a:`${fmtPct(ig)} de las ${fmtN(enr.length)} clínicas investigadas tiene Instagram.`, miss:'Seguidores y actividad (dato solo en pocas clínicas).' },
+    { n:23, lv:'N', q:'¿La antigüedad protege al incumbente?', pr:'C', st:'No', a:`Solo ${fmtN(founded)} de ${fmtN(PLACES.length)} clínicas tienen año de fundación.`, miss:'Año de fundación de más clínicas.' },
+    { n:24, lv:'N', q:'¿Cuánto cuestan los veterinarios?', pr:'B', st:'Parcial', sec:'numeros', a:`Supuesto del simulador: S/ ${fmtN(s.vet_gross_soles)} brutos más ${fmtN(s.labor_overhead_pct)}% de sobrecosto.`, miss:'Cotizaciones de sueldos en la zona.' },
+    { n:25, lv:'N', q:'¿Qué tan rápido llego a la madurez?', pr:'B', st:'No', a:'', miss:'Curva de arranque de clínicas locales.' }
+  ];
+}
+function renderQuestions() {
+  const Q = questions(); const n = st => Q.filter(q => q.st === st).length;
+  const SEC = { mapa:'cap. 1', distrito:'cap. 2', competencia:'cap. 3', servicios:'cap. 3', horarios:'cap. 4', clientes:'cap. 5', municipio:'cap. 6', numeros:'cap. 7' };
+  setHTML('h-qs', `El informe responde ${fmtN(n('Sí'))} de las ${fmtN(Q.length)} preguntas decisivas; ${fmtN(n('Parcial'))} quedan a medias y ${fmtN(n('No'))} necesitan datos que no tenemos`);
+  const pendA = Q.filter(q => q.st !== 'Sí' && q.pr === 'A');
+  setHTML('p-qs', `<p>Antes de alquilar un local hay que poder contestar estas preguntas. Las de prioridad A bloquean la decisión. De esas, ${fmtN(pendA.length)} siguen incompletas: ${esc(joinY(pendA.map(q => 'la ' + q.n)))}. La más valiosa de cerrar es el ticket real, porque mueve el equilibrio más que el alquiler.</p>`);
+  const order = { 'Sí':0, 'Parcial':1, 'No':2 };
+  setHTML('t-qs', `<thead><tr><th scope="col">#</th><th scope="col">Pregunta</th><th scope="col">Nivel</th><th scope="col">Prioridad</th><th scope="col">¿Responde?</th><th scope="col">Qué dato la responde hoy</th><th scope="col">Qué falta</th></tr></thead>
+    <tbody>${Q.slice().sort((a, b) => (order[a.st] - order[b.st]) || a.pr.localeCompare(b.pr) || a.n - b.n).map(q => `<tr><td>${q.n}</td><th scope="row">${esc(q.q)}</th><td>${esc(q.lv)}</td><td>${esc(q.pr)}</td><td class="st status-${q.st === 'Sí' ? 'si' : q.st === 'Parcial' ? 'parcial' : 'no'}">${q.st === 'No' ? 'Pendiente' : esc(q.st)}</td><td>${q.a ? esc(q.a) : '<span class="muted">—</span>'}${q.sec ? ` <a href="#${q.sec}" data-nav="${q.sec}">Ver ${SEC[q.sec]}</a>` : ''}</td><td>${q.miss ? esc(q.miss) : '<span class="muted">—</span>'}</td></tr>`).join('')}</tbody>`);
+}
+
+/* =========================================================
+   9. DIRECTORIO
+   ========================================================= */
+const REP_ORDER = { 'Alta':4, 'Media':3, 'Baja':2, 'Sin presencia':1 };
+const SEG_ORDER = { 'Premium':3, 'Medio':2, 'Económico':1 };
+const DIR_COLS = [
+  { k:'name', l:'Nombre', sort:p => (p.name || '').toLowerCase() },
+  { k:'district', l:'Distrito', sort:p => p.district || '' },
+  { k:'rating', l:'Rating', sort:p => p.rating, n:true },
+  { k:'reviews_count', l:'Reseñas', sort:p => p.reviews_count, n:true },
+  { k:'is_24h', l:'24 h', sort:p => (p.is_24h ? 2 : 0) + (p.is_24h_google ? 1 : 0) },
+  { k:'ticket', l:'Ticket S/', sort:p => p.ticket, n:true },
+  { k:'consult_price', l:'Consulta S/', sort:p => p.consult_price, n:true },
+  { k:'social', l:'Canales', sort:null },
+  { k:'social_reputation', l:'Reputación', sort:p => REP_ORDER[p.social_reputation] },
+  { k:'segment', l:'Segmento', sort:p => SEG_ORDER[p.segment] },
+  { k:'services', l:'Servicios', sort:p => (p.services || []).length || null }
+];
+const SVG = {
+  instagram:'<rect x="2" y="2" width="20" height="20" rx="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>',
+  facebook:'<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>',
+  tiktok:'<path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/>',
+  globe:'<circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>'
+};
+const ico = k => `<svg viewBox="0 0 24 24" aria-hidden="true">${SVG[k]}</svg>`;
+function filteredPlaces() {
+  const f = state.dir; const q = f.q.trim().toLowerCase(); const S0 = scope();
+  let P = (f.inclNon ? S0.Pall : S0.P).filter(p =>
+    (!q || String(p.name || '').toLowerCase().includes(q)) && (!f.only24 || p.is_24h) &&
+    (!f.onlyEm || p.emergency === true || (p.is_24h === true && p.emergency !== false)) &&
+    (f.chain === 'all' || (f.chain === 'chain' ? !!p.chain : !p.chain)) && (f.minRating <= 0 || (isNum(p.rating) && p.rating >= f.minRating)));
+  const col = DIR_COLS.find(c => c.k === f.sort.key);
+  if (col && col.sort) { const dir = f.sort.dir === 'asc' ? 1 : -1; P = P.slice().sort((a, b) => { const va = col.sort(a), vb = col.sort(b); const na = va == null || va === '', nb = vb == null || vb === ''; if (na && nb) return 0; if (na) return 1; if (nb) return -1; return (va > vb ? 1 : va < vb ? -1 : 0) * dir; }); }
+  return P;
+}
+function text24(p) { if (p.is_24h) return p.is_24h_google ? 'Sí' : 'Sí<small>no figura en Google</small>'; if (p.is_24h_google) return '<span class="risk">Solo en Google</span>'; return '<span class="muted">No</span>'; }
+function socialLinks(p) {
+  const L0 = [];
+  if (p.instagram) L0.push(`<a href="${esc(p.instagram)}" target="_blank" rel="noopener" aria-label="Instagram de ${esc(p.name)}">${ico('instagram')}</a>`);
+  if (p.facebook) L0.push(`<a href="${esc(p.facebook)}" target="_blank" rel="noopener" aria-label="Facebook de ${esc(p.name)}">${ico('facebook')}</a>`);
+  if (p.tiktok) L0.push(`<a href="${esc(p.tiktok)}" target="_blank" rel="noopener" aria-label="TikTok de ${esc(p.name)}">${ico('tiktok')}</a>`);
+  if (p.website) L0.push(`<a href="${esc(p.website)}" target="_blank" rel="noopener" aria-label="Sitio web de ${esc(p.name)}">${ico('globe')}</a>`);
+  return L0.length ? `<span class="soc">${L0.join('')}</span>` : '<span class="muted">—</span>';
+}
+function detailHTML(p) {
+  const revs = (p.reviews || []).filter(r => r.text).slice(0, 2);
+  const serv = (p.services || []).concat(p.specialties || []);
+  return `<div class="detail-grid"><div>
+      <h4>Notas</h4><p>${p.notes ? esc(p.notes) : '<span class="muted">Sin notas de investigación.</span>'}</p>
+      ${p.price_notes ? `<h4>Precios</h4><p>${esc(p.price_notes)}</p>` : ''}
+      <h4>Contacto</h4><p>${esc(p.address || '—')}${p.phone ? ` · <a href="tel:${esc(String(p.phone).replace(/\s+/g, ''))}">${esc(p.phone)}</a>` : ''}${isNum(p.founded_year) ? ` · fundada en ${p.founded_year}` : ''}</p>
+      ${serv.length ? `<h4>Servicios y especialidades</h4><p>${esc(serv.join(', '))}</p>` : ''}
+      <h4>Entorno</h4><p>${fmtN(p.competitors_1km)} competidores a 1 km · clínica más cercana a ${fmtKm(p.nearest_clinic_km)} · 24 h más cercano a ${fmtKm(p.nearest_24h_km)}</p>
+      ${(p.hours || []).length ? `<h4>Horario</h4><p class="muted" style="font-size:13px">${p.hours.map(esc).join('<br>')}</p>` : ''}
+    </div><div><h4>Reseñas recientes</h4>${revs.length ? revs.map(r => `<p class="rv">«${esc(trunc(r.text, 320))}»<br><span class="muted" style="font-style:normal;font-family:var(--sans);font-size:12px">${fmtN(r.rating)} ${plural(r.rating, 'estrella')}${r.relative ? ' · ' + esc(r.relative) : ''}</span></p>`).join('') : '<p class="muted">Sin reseñas con texto.</p>'}</div></div>`;
+}
+function renderDirectory() {
+  const S = scope(); const all = filteredPlaces(); const f = state.dir;
+  const pages = Math.max(1, Math.ceil(all.length / f.pageSize)); f.page = Math.min(Math.max(1, f.page), pages);
+  const rows = all.slice((f.page - 1) * f.pageSize, f.page * f.pageSize);
+  const weakBig = S.P.filter(p => isNum(p.rating) && p.rating < 4 && (p.reviews_count || 0) >= 100).sort((a, b) => b.reviews_count - a.reviews_count);
+  setHTML('h-dir', S.lowRated === 0 ? `Ninguna clínica de ${esc(S.label)} tiene menos de 4 estrellas` : `${fmtN(S.lowRated)} ${plural(S.lowRated, 'clínica tiene', 'clínicas tienen')} menos de 4 estrellas${weakBig.length ? `; ${numWord(weakBig.length)} de ellas con cien reseñas o más` : ''}`);
+  const hi = S.P.filter(p => isNum(p.rating) && p.rating >= 4.5).length;
+  setHTML('p-dir', `<p>${fmtN(S.P.length)} clínicas en ${esc(S.label)}; ${fmtN(hi)} con 4,5 estrellas o más. ${weakBig.length ? `Algunas clínicas grandes tienen clientes descontentos: ${esc(weakBig[0].name)} suma ${fmtN(weakBig[0].reviews_count)} reseñas y un ${fmtN(weakBig[0].rating, 1)} de promedio.` : ''} Haz click en una fila para ver notas, horario y reseñas.</p>`);
+  const head = `<thead><tr><th scope="col" style="width:44px"><span class="sr-only">Detalle</span></th>${DIR_COLS.map(c => { const act = f.sort.key === c.k; const aria = act ? ` aria-sort="${f.sort.dir === 'asc' ? 'ascending' : 'descending'}"` : ''; if (!c.sort) return `<th scope="col">${c.l}</th>`; return `<th scope="col"${aria}${c.n ? ' class="n"' : ''}><button type="button" class="sortbtn" data-sort="${c.k}">${c.l}${act ? (f.sort.dir === 'asc' ? ' ↑' : ' ↓') : ''}</button></th>`; }).join('')}</tr></thead>`;
+  const body = rows.length ? rows.map(p => { const open = f.open.has(p.id);
+    return `<tr class="row${open ? ' open' : ''}" data-id="${esc(p.id)}"><td><button type="button" class="xbtn" aria-expanded="${open}" aria-label="${open ? 'Ocultar' : 'Ver'} detalle de ${esc(p.name)}">${open ? '−' : '+'}</button></td>
+      <td>${p.maps_url ? `<a href="${esc(p.maps_url)}" target="_blank" rel="noopener">${esc(p.name)}</a>` : esc(p.name)}${p.chain ? `<small>${esc(shortChain(p.chain))}</small>` : ''}${p.is_clinic === false ? '<small class="risk">No es clínica</small>' : ''}</td>
+      <td style="white-space:nowrap">${esc(shortD(p.district))}</td><td class="n">${isNum(p.rating) ? fmtN(p.rating, 1) : '—'}</td><td class="n">${fmtN(p.reviews_count)}</td><td>${text24(p)}</td>
+      <td class="n">${isNum(p.ticket) ? fmtN(p.ticket) + (isEstTicket(p) ? '*' : '') : '—'}</td><td class="n">${isNum(p.consult_price) ? fmtN(p.consult_price) : '—'}</td><td>${socialLinks(p)}</td>
+      <td>${p.social_reputation && p.social_reputation !== 'Sin datos' ? esc(p.social_reputation) : '<span class="muted">—</span>'}</td><td>${p.segment ? esc(p.segment) : '<span class="muted">—</span>'}</td>
+      <td style="font-size:13px;color:var(--ink-2)">${(p.services || []).length ? esc(trunc(p.services.join(', '), 60)) : '<span class="muted">—</span>'}</td></tr>${open ? `<tr class="detail"><td colspan="${DIR_COLS.length + 1}">${detailHTML(p)}</td></tr>` : ''}`; }).join('')
+    : `<tr><td colspan="${DIR_COLS.length + 1}" class="muted">Ninguna clínica cumple los filtros.</td></tr>`;
+  setHTML('dir', `<caption class="sr-only">Directorio de clínicas veterinarias</caption>${head}<tbody>${body}</tbody>`);
+  const from = all.length ? (f.page - 1) * f.pageSize + 1 : 0, to = Math.min(all.length, f.page * f.pageSize);
+  const base = (f.inclNon ? S.Pall : S.P).length;
+  setHTML('pager', `<span>${fmtN(from)}–${fmtN(to)} de ${fmtN(all.length)} lugares${all.length !== base ? ` (filtrados de ${fmtN(base)})` : ''}. * Ticket estimado por segmento.</span>
+    <div class="btns"><button type="button" class="btn" data-page="-1" ${f.page <= 1 ? 'disabled' : ''}>Anterior</button><span class="num">Página ${fmtN(f.page)} de ${fmtN(pages)}</span><button type="button" class="btn" data-page="1" ${f.page >= pages ? 'disabled' : ''}>Siguiente</button></div>`);
+}
+function exportCSV() {
+  const P = filteredPlaces();
+  const cols = [['Nombre', p => p.name], ['Distrito', p => p.district], ['Es clínica', p => p.is_clinic === false ? 'No' : 'Sí'], ['Dirección', p => p.address], ['Rating', p => p.rating], ['Reseñas', p => p.reviews_count],
+    ['24h confirmado', p => p.is_24h ? 'Sí' : 'No'], ['24h según Google', p => p.is_24h_google ? 'Sí' : 'No'], ['Emergencias', p => p.emergency === true ? 'Sí' : p.emergency === false ? 'No' : ''], ['Ticket S/', p => p.ticket], ['Base ticket', p => p.ticket_basis],
+    ['Consulta S/', p => p.consult_price], ['Segmento', p => p.segment], ['Cadena', p => p.chain], ['Reputación social', p => p.social_reputation === 'Sin datos' ? '' : p.social_reputation],
+    ['Competidores 1 km', p => p.competitors_1km], ['24h más cercano km', p => p.nearest_24h_km], ['Clínica más cercana km', p => p.nearest_clinic_km],
+    ['Teléfono', p => p.phone], ['Web', p => p.website], ['Instagram', p => p.instagram], ['Facebook', p => p.facebook], ['TikTok', p => p.tiktok],
+    ['Servicios', p => (p.services || []).join('; ')], ['Especialidades', p => (p.specialties || []).join('; ')], ['Notas', p => p.notes], ['Google Maps', p => p.maps_url], ['Lat', p => p.lat], ['Lng', p => p.lng]];
+  const cell = v => { if (v == null || (typeof v === 'number' && !isFinite(v))) return ''; const s = String(v); return /[",;\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
+  const csv = '﻿' + [cols.map(c => c[0]).join(',')].concat(P.map(p => cols.map(c => cell(c[1](p))).join(','))).join('\r\n');
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([csv], { type:'text/csv;charset=utf-8' }));
+  a.download = `vetclinica_${state.district === 'all' ? 'todos' : slug(state.district)}_${DASH.generated_at || 'datos'}.csv`;
+  document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 500);
+}
+
+/* =========================================================
+   10. HUECOS, RECOMENDACIONES Y MÉTODO
+   ========================================================= */
+function renderRecs() {
+  const top = byName(RANK[0]); const goods = goodDistricts(), bads = badDistricts();
+  const cov = coverageAnalysis(validGrid(G.coverage) ? G.coverage : null, G.count || PLACES.length);
+  const w = worstTheme(G.themes);
+  const farBy = {}; ALL_CELLS.filter(c => isNum(c.nearest_24h_km) && c.nearest_24h_km > 2).forEach(c => { farBy[c.district] = (farBy[c.district] || 0) + 1; });
+  const farD = Object.entries(farBy).sort((a, b) => b[1] - a[1])[0];
+  const gaps = [cov && cov.main ? `la franja de ${hh(cov.main[0])} a ${hh((cov.main[1] + 1) % 24)}` : null, w ? `las quejas por «${w.name.toLowerCase()}»` : null, farD ? `las zonas de ${shortD(farD[0])} lejos de un 24 h` : null].filter(Boolean);
+  setHTML('h-recs', gaps.length ? `Los huecos más claros son ${esc(joinY(gaps))}` : 'Recomendaciones');
+  setHTML('p-recs', top ? `<p>Recomendamos ${esc(top.district)}. Obtiene ${fmtN(top.score)} de 100 puntos y ${legalStatus(top).lvl === 'good' ? `${goods.length === 1 ? 'es el único distrito con vía legal clara para una clínica' : 'tiene vía legal para una clínica'}` : esc(legalStatus(top).txt)}. Estas son las acciones que se desprenden de los datos, en orden de importancia.</p>` : '');
+  const R = [];
+  if (bads.length) R.push(`<b>Dimensionar según la norma.</b> En ${esc(joinY(bads))} solo cabe un consultorio, sin hospitalización ni quirófano. Operar un quirófano con licencia de consultorio expone a multa y clausura.`);
+  if (top) { const b = (top.best_cells || [])[0]; R.push(`<b>Buscar local en las zonas sugeridas de ${esc(shortD(top.district))}.</b> ${b ? `La mejor tiene ${fmtN(b.clinics_1km)} ${plural(b.clinics_1km, 'clínica')} a 1 km y el 24 h más cercano a ${fmtKm(b.nearest_24h_km)}.` : ''} Verificar en campo que sea zona comercial con frente a avenida.`); }
+  if (cov && cov.main) { const DS = demandSupply(G, PLACES); const run = DS ? (peakRun(DS.idx, 2) || peakRun(DS.idx, 1.5)) : null; R.push(`<b>Evaluar un horario extendido antes que un 24 h.</b> Entre las ${cov.rangeTxt} abren en promedio ${fmtN(cov.lowAvg)} de ${fmtN(G.count || PLACES.length)} clínicas${run ? `, y entre las ${hh(run.s)} y las ${hh((run.e + 1) % 24)} la demanda aproximada supera ${fmtN(run.avg, 1)} veces a la oferta` : ''}. Abrir hasta las 23:00 cuesta un turno, no tres.`); }
+  if (w) R.push(`<b>Convertir «${esc(w.name.toLowerCase())}» en una promesa medible.</b> Es el tema con peor balance en las reseñas: ${fmtPct(w.negPct)} de ${fmtN(w.total)} menciones son negativas.`);
+  const vt = PLACES.filter(p => p.district === (top || {}).district && isVuln(p)).sort((a, b) => b.reviews_count - a.reviews_count);
+  if (vt.length) R.push(`<b>Apuntar a los clientes de las clínicas vulnerables.</b> En ${esc(shortD(top.district))} hay ${fmtN(vt.length)} con mucho volumen y rating bajo ${fmtN(VULN_R, 1)}; la mayor es ${esc(vt[0].name)} (${fmtN(vt[0].reviews_count)} reseñas, ${fmtN(vt[0].rating, 1)}).`);
+  const fps = PLACES.filter(p => p.district === (top || {}).district && (p.services || []).length);
+  const ls = ['laboratorio', 'ecografía', 'rayos X'].map(s => ({ s, v: pct(fps.filter(p => p.services.includes(s)).length, fps.length) })).filter(x => isNum(x.v)).sort((a, b) => a.v - b.v)[0];
+  if (ls) R.push(`<b>Incluir ${esc(ls.s)} en el equipamiento.</b> Solo ${fmtPct(ls.v)} de las clínicas de ${esc(shortD(top.district))} lo ofrece y es un servicio de margen alto.`);
+  R.push('<b>Validar el ticket antes de invertir.</b> La mayoría de los tickets son estimados por segmento, y el ticket mueve el equilibrio más que el alquiler.');
+  setHTML('recs', R.map(r => `<li>${r}</li>`).join(''));
+  // preguntas de negocio
+  const hp = maxBy(DIST, d => d.households_per_clinic), d24 = minBy(DIST, d => d.pct_24h), wr = minBy(DIST, d => d.avg_rating), rent = minBy(DIST, d => d.rent_usd_m2);
+  const lead = PLACES.slice().sort((a, b) => (b.reviews_count || 0) - (a.reviews_count || 0))[0]; const leadD = lead ? byName(lead.district) : null;
+  const viable = DIST.filter(d => ['good', 'mid'].includes(legalStatus(d).lvl)); const bestV = maxBy(viable, d => d.households_per_clinic);
+  const QA = [
+    ['¿Qué distrito tiene menos competencia por hogar?', hp ? `${hp.district}, con ${fmtN(hp.households_per_clinic)} hogares por clínica.${legalStatus(hp).lvl === 'bad' ? ` Pero allí ${legalStatus(hp).txt}.` : ''}` : '—'],
+    ['¿Dónde hay menos oferta 24 horas?', d24 ? `${d24.district}: ${fmtN(d24.count_24h)} de ${fmtN(d24.count)} clínicas (${fmtPct(d24.pct_24h)}).` : '—'],
+    ['¿Dónde está peor calificada la competencia?', wr ? `${wr.district}, con un rating promedio de ${fmtN(wr.avg_rating, 2)} y ${fmtN(wr.low_rated)} clínicas bajo 4,0.` : '—'],
+    ['¿Quién tiene más reseñas?', lead ? `${lead.name} (${lead.district}), con ${fmtN(lead.reviews_count)} reseñas, ${fmtPct(pct(lead.reviews_count, leadD && leadD.total_reviews), 1)} de su distrito, y rating ${fmtN(lead.rating, 1)}.` : '—'],
+    ['¿Cuánto gasta un cliente por visita?', `Unos ${fmtSoles(G.avg_ticket)} en promedio (estimado): ${DIST.map(d => `${shortD(d.district)} ${fmtSoles(d.avg_ticket)}`).join(', ')}.`],
+    ['¿Dónde se puede abrir legalmente una clínica?', `${goods.length ? `${joinY(goods)}: ${legalStatus(byName(goods[0])).txt}.` : 'En ningún distrito hay vía clara.'}${bads.length ? ` En ${joinY(bads)}, no.` : ''}`],
+    ['¿Qué distrito con vía legal tiene más demanda por clínica?', bestV ? `${bestV.district}, con ${fmtN(bestV.households_per_clinic)} hogares por clínica entre los distritos donde es posible abrir (${joinY(viable.map(d => shortD(d.district)))}).` : '—'],
+    ['¿Dónde es más barato el alquiler?', rent ? `${rent.district}, con US$ ${fmtN(rent.rent_usd_m2, 1)} por m² (mediana de avisos).` : '—']
+  ];
+  setHTML('qa', QA.map(([q, a]) => `<dt>${esc(q)}</dt><dd>${esc(a)}</dd>`).join(''));
+  const t3 = top ? PLACES.filter(p => p.district === top.district).sort((a, b) => (b.reviews_count || 0) - (a.reviews_count || 0)).slice(0, 3).map(p => p.name) : [];
+  setHTML('steps', [
+    'Pedir el <b>Certificado de Zonificación y Vías</b> del predio exacto antes de firmar. Los índices de usos vigentes son de 2006 a 2013 y la municipalidad puede interpretarlos distinto.',
+    `Hacer mystery shopping en las clínicas más fuertes de ${esc(top ? shortD(top.district) : 'el distrito elegido')}${t3.length ? ` (${esc(joinY(t3))})` : ''}: precio de consulta, tiempo de espera y servicios.`,
+    'Visitar de tres a cinco locales en las zonas sugeridas y negociar meses de gracia en el alquiler: a bajo volumen, el alquiler pesa varias veces más que la referencia de 4–6% de los ingresos.',
+    'Presupuestar la licencia de riesgo alto si habrá rayos X o cirugía (costos en el capítulo 6).',
+    'Encuestar a 50–100 dueños de mascotas de la zona para validar la demanda nocturna y el ticket.'
+  ].map(s => `<li>${s}</li>`).join(''));
+  // método
+  const nRev = sum(PLACES.map(p => (p.reviews || []).length));
+  const TB = { n:0, pub:0, rev:0, seg:0 }; PLACES.forEach(p => { if (!isNum(p.ticket)) return; TB.n++; const b = String(p.ticket_basis || '').toLowerCase(); if (b.includes('public')) TB.pub++; else if (b.includes('rese')) TB.rev++; else if (b.includes('segment')) TB.seg++; });
+  setHTML('method', `<h3 style="margin:32px 0 10px">Método y limitaciones</h3><ul>
+    <li><b>Clínicas.</b> ${fmtN(PLACES.length)} clínicas de Google Places buscadas por distrito.${isNum(G.raw_places) ? ` La búsqueda devolvió ${fmtN(G.raw_places)} lugares; se excluyeron ${fmtN(G.excluded_neighbors)} de distritos vecinos y ${fmtN(NON_CLINICS)} que no son clínicas (visibles en el directorio con su filtro).` : ''} ${esc(G.search_cap_note || '')}</li>
+    <li><b>24 horas.</b> «Confirmado» usa la web y las redes de cada clínica; «solo en Google» es lo que dice su ficha sin confirmación.</li>
+    <li><b>Demografía y alquiler.</b> Población y hogares de CPI 2025; NSE A/B aproximado con los estratos de ingreso del INEI (2020); alquiler, mediana de avisos de InfoCasas; hogares con mascota, ${fmtPct((BE.fair_share || {}).pet_households_pct, 1)} de Lima aplicado a todos los distritos. Los valores con asterisco son estimados.</li>
+    <li><b>Puntaje de distrito.</b> Seis factores escalados de 20 a 100 entre los cinco distritos y ponderados con pesos fijos (${esc(COMP_KEYS.map(k => `${COMP[k].name.toLowerCase()} ${fmtN(WEIGHTS[k] * 100)}%`).join(', '))}). La regulación usa la fricción municipal: baja ${FRIC_SCORE.Baja}, media ${FRIC_SCORE.Media}, alta ${FRIC_SCORE.Alta}.</li>
+    <li><b>Grilla y zonas sugeridas.</b> Celdas de 400 m dentro de los límites de OpenStreetMap. Score de celda: 50% pocas clínicas a 1 km, 25% distancia al 24 h y 25% parques, petshops y supermercados cercanos, normalizado dentro de cada distrito. Los hogares se reparten de forma uniforme, lo que sobreestima cerros y parques grandes.</li>
+    <li><b>Explorar.</b> Distancias en línea recta (haversine) calculadas en el navegador. No considera tiempos de viaje.</li>
+    <li><b>Ticket.</b> De ${fmtN(TB.n)} tickets, ${fmtN(TB.pub)} vienen de precios publicados, ${fmtN(TB.rev)} de reseñas y ${fmtN(TB.seg)} se asignaron por segmento.</li>
+    <li><b>Reseñas.</b> Temas y citas sobre ${fmtN(nRev)} reseñas de muestra (hasta cinco por clínica). La demanda por hora usa la hora de publicación, que no es la hora de la visita.</li>
+    <li><b>Simulador.</b> Supuestos del capítulo 7, antes de impuestos y sin curva de arranque. Referencias de EE. UU. y España donde no hay datos peruanos.</li>
+    <li>Datos generados el ${esc(DASH.generated_at || '—')}. Este informe no es asesoría legal ni financiera; las cifras críticas deben validarse en campo antes de invertir.</li></ul>`);
+  setHTML('footer', `VetClínica · Informe de ubicación · Datos al ${esc(DASH.generated_at || '—')} · Google Places, CPI, INEI, InfoCasas, municipalidades y OpenStreetMap · Mapa base © Esri`);
+}
+
+/* =========================================================
+   EVENTOS E INICIO
+   ========================================================= */
+function scrollToId(id) { const t = id === 'top' ? document.body : $(id); if (t) t.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block:'start' }); }
+function bindEvents() {
+  document.addEventListener('click', e => {
+    const nav = e.target.closest('[data-nav]');
+    if (nav) { e.preventDefault(); scrollToId(nav.getAttribute('data-nav')); return; }
+    if (e.target.closest('a[href^="http"], a[href^="tel:"]')) return;
+    const lay = e.target.closest('[data-layer]'); if (lay) { const k = lay.getAttribute('data-layer'); setLayer(k, !layerOn[k]); return; }
+    const ex = e.target.closest('[data-explore]');
+    if (ex) { const [la, ln] = ex.getAttribute('data-explore').split(',').map(Number); if (map) { map.closePopup(); setExplore(true); placePin(la, ln); map.setView([la, ln], Math.max(map.getZoom(), 14), { animate: !reduceMotion }); scrollToId('mapa'); } return; }
+    const dq = e.target.closest('[data-dirq]');
+    if (dq) { const q = dq.getAttribute('data-dirq'); state.dir.q = q; $('f-q').value = q; state.dir.page = 1; renderDirectory(); scrollToId('directorio'); return; }
+    const rad = e.target.closest('[data-radius]'); if (rad) { EX.radius = Number(rad.getAttribute('data-radius')) || 1; analyzeAndShow(); return; }
+    if (e.target.closest('#ex-close')) { clearPin(); return; }
+    const b = e.target.closest('[data-d]'); if (b) { select(b.getAttribute('data-d')); return; }
+  });
+  $('btn-explore').addEventListener('click', () => { if (EX.on || EX.marker) clearPin(); else setExplore(true); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && (EX.on || EX.marker)) clearPin(); });
+  // simulador
+  $('s-d').addEventListener('change', e => { sim.d = e.target.value; sim.touched = true; renderSimulator(); });
+  $('s-m2').addEventListener('input', e => { sim.m2 = Number(e.target.value); renderSimulator(); });
+  $('s-t').addEventListener('input', e => { const v = Number(e.target.value); if (isNum(v) && v > 0) { sim.ticket = v; renderSimulator(); } });
+  $('s-tdist').addEventListener('change', e => { sim.useDist = e.target.checked; renderSimulator(); });
+  $('s-v').addEventListener('input', e => { sim.visits = Number(e.target.value); renderSimulator(); });
+  // directorio
+  const f = state.dir;
+  $('f-q').addEventListener('input', e => { f.q = e.target.value; f.page = 1; renderDirectory(); });
+  $('f-24').addEventListener('change', e => { f.only24 = e.target.checked; f.page = 1; renderDirectory(); });
+  $('f-em').addEventListener('change', e => { f.onlyEm = e.target.checked; f.page = 1; renderDirectory(); });
+  $('f-nc').addEventListener('change', e => { f.inclNon = e.target.checked; f.page = 1; renderDirectory(); });
+  if (!NON_CLINICS) $('f-nc-wrap').hidden = true;
+  $('f-chain').addEventListener('change', e => { f.chain = e.target.value; f.page = 1; renderDirectory(); });
+  $('f-r').addEventListener('input', e => { f.minRating = parseFloat(e.target.value) || 0; $('f-r-out').textContent = fmtN(f.minRating, 1); f.page = 1; renderDirectory(); });
+  $('btn-csv').addEventListener('click', exportCSV);
+  $('btn-print').addEventListener('click', () => window.print());
+  let prevPS = null;
+  window.addEventListener('beforeprint', () => { prevPS = f.pageSize; f.pageSize = 100000; f.page = 1; renderDirectory(); if (map) map.invalidateSize(); });
+  window.addEventListener('afterprint', () => { if (prevPS) { f.pageSize = prevPS; prevPS = null; renderDirectory(); } if (map) map.invalidateSize(); });
+  $('dir').addEventListener('click', e => {
+    const s = e.target.closest('button.sortbtn');
+    if (s) { const k = s.getAttribute('data-sort'); f.sort = { key:k, dir: f.sort.key === k ? (f.sort.dir === 'desc' ? 'asc' : 'desc') : (k === 'name' || k === 'district' ? 'asc' : 'desc') }; renderDirectory(); return; }
+    if (e.target.closest('a')) return;
+    const tr = e.target.closest('tr.row'); if (!tr) return;
+    const id = tr.getAttribute('data-id'); f.open.has(id) ? f.open.delete(id) : f.open.add(id); renderDirectory();
+  });
+  $('pager').addEventListener('click', e => { const b = e.target.closest('[data-page]'); if (!b || b.disabled) return; f.page += parseInt(b.getAttribute('data-page'), 10); renderDirectory(); scrollToId('directorio'); });
+  window.addEventListener('hashchange', () => { const d = districtFromSlug(location.hash.slice(1)); if (d && d !== state.district) select(d); });
+}
+function setupNavObserver() {
+  const ids = ['mapa', 'distrito', 'competencia', 'horarios', 'clientes', 'municipio', 'numeros', 'preguntas', 'directorio', 'metodo'];
+  const links = [...document.querySelectorAll('#toc a')];
+  if (!('IntersectionObserver' in window)) return;
+  const io = new IntersectionObserver(ents => ents.forEach(en => {
+    if (!en.isIntersecting) return;
+    links.forEach(a => a.setAttribute('aria-current', a.getAttribute('data-nav') === en.target.id ? 'true' : 'false'));
+    const act = links.find(a => a.getAttribute('data-nav') === en.target.id), bar = $('toc');
+    if (act && bar && bar.scrollWidth > bar.clientWidth) bar.scrollTo({ left: Math.max(0, act.offsetLeft - bar.offsetLeft - 16), behavior: reduceMotion ? 'auto' : 'smooth' });
+  }), { rootMargin:'-35% 0px -60% 0px' });
+  ids.map($).filter(Boolean).forEach(s => io.observe(s));
+}
+function init() {
+  if (!PLACES.length) { setHTML('h1', 'No se encontró data/dashboard.js. Ejecuta build_data.py para generarlo.'); return; }
+  const d = districtFromSlug(location.hash.slice(1));
+  state.district = d && d !== 'all' ? d : 'all';
+  initSimInputs();
+  bindEvents();
+  try { initMap(); } catch (e) { console.error('[map]', e); }
+  renderAll();
+  setupNavObserver();
+  if (map && 'ResizeObserver' in window) new ResizeObserver(() => map.invalidateSize()).observe($('map'));
+}
+document.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>

@@ -1,0 +1,449 @@
+{
+ "id": "ChIJp4XNjnTHBZERKmHx3lKBCMI",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "959 874 004",
+ "internationalPhoneNumber": "+51 959 874 004",
+ "formattedAddress": "Av. Angamos Este 2549, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "2549",
+   "shortText": "2549",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Angamos Este",
+   "shortText": "Av. Angamos Este",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1115079,
+  "longitude": -77.0043223
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=13981567236099367210&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 3,
+ "displayName": {
+  "text": "Galco Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Angamos Este 2549, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVmNFeFNNSEZYT0dOTWFFaHdkMEo0YkhwdGVsRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Daniel Sebastián Ore Jara",
+    "uri": "https://www.google.com/maps/contrib/104171339474262423840/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVgbT_pN58ws51R82C8ESw2jF0YOgwiiPJfaMnlQp6XkqmOA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-25T22:38:53.371564406Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVmNFeFNNSEZYT0dOTWFFaHdkMEo0YkhwdGVsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVmNFeFNNSEZYT0dOTWFFaHdkMEo0YkhwdGVsRRAB!2m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poeFVIQkNSVU5sYTJSalowMVlNSEJRZDBSeVZIYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "jahaira victoria valencia calero",
+    "uri": "https://www.google.com/maps/contrib/109387510051156517674/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7yRxbQc7o_pdXkkYyK8tSoO_HrXiC4wWTpUpeBZflRGVAkQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-02T18:19:30.814175053Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poeFVIQkNSVU5sYTJSalowMVlNSEJRZDBSeVZIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poeFVIQkNSVU5sYTJSalowMVlNSEJRZDBSeVZIYxAB!2m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzNDQtYTZ3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "martin tasayco",
+    "uri": "https://www.google.com/maps/contrib/110747868991526321076/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsRgpCywjLvY4WhhwojPNSbr-F3Ysx9vWTOKmBVooFZ0xiTw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-11-08T20:07:23.138605Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNDQtYTZ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNDQtYTZ3RRAB!2m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMaii5ybfhHgyt-_o9YZf6UVIDo0IAzYcXheSQDCPOG5IYlvIrKlvzkThaqjncp7pv3-4p2aLYYql8R-ak7_Y0nuv7h9WsOFsqAYCvUbpBVwpIdT90cHfo1rvKGvPXnHesdPCezEcKhZy9MuujehdW65nW7_RGigS2ed2Rt5-cdMoHHWyriuFelaKerU6MjGwmSWGy3qS_ud4ank0JRQNXhM3fC29QtlIfoY58IMbQXwjMcps0ymTeC_e7NQA0gKsGROvZ6u-XwUgD24BIJJ4Qb9wVLiDELrqiCSPDZ-noNrHwj-uElFGaFQgoA-ljGdcs8BsP6YDcSzWzgA-7ois9-b2QKc4Y9pmtmUD6IQo5R_KoQUy0J38jr1lXb_JnunXy0gD7hZu3mxnHarFbvumxnCX4k",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Galco Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/106869602992537784434",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbUI7oLi2p75VTsOhYg7Pwah8Hh-9bWWZtHNb5FZRaSCeofw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTic7oXQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTic7oXQ!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMY62h5JK-lOIi17BTc_jqyoEfYICWusB5XHhyNzjl_URiRy7AWL9O-sATiZqE4g-luHpW4SNhG8a8Amn8uRY8izuLLGCzp5VojDG4eOIgJz4bCnMrR2qDVWIdvbKTb0AO8Nj9WTI7b04R4ws4TWGYKUiBWAVcQ4bIJahey4LRgm-ump_l1_Td1pEuZYyhsaNZooFucCrHjLVlhPc-lwlUXmNvLfTRV4Ngqb_LwQNFphmwFNgBKhuv5ToU1BUfXA_tHooF0uWcM2qM5W3hKcAQ-1XDIvTykgG_nOWGAgqxleb8J9R3XQ_2M2G9e1aePUkZwVDC1BvFIgV0IRu9Z4xtHv3-5Xr6utmka9eQ0dp73eR624jV0hEgy1GWH_YKUfklWlwxwsEitNN4XrT2nm14ZuDrs",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Galarreta",
+     "uri": "https://maps.google.com/maps/contrib/102642975645650372786",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mRUgtrqj-0cwPd3JQlauAuaxibfikW87MmqZhvXCdj9Bqbcm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTuaL6DQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTuaL6DQ!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMaqcPqrGX7RtdL5dFEYoCi6pw_aEfFy_6iwmax0BHFjvfUtGlZTjwoJfEccjwn-L0w6VSaHO4tEkHeXPKnLez33hbVySqltredjzNgDky9M0q979Vo_pxqHrF-lDRA5VJWhICogjU6Akv1WlVvlUXE7FnFbZmzlck1fBuvgS46mFDh_Oi1fEGiuL_o0xzexhT8-2h1iTu9B0MVyYr9jhs9gIkX_E4cej_w3Xd4yge6k5Dy3cYsnwZecjM4hCK9bs-5-dbtPupk-wqYmS2t_dvYYPMXh0zViN7K4UpLp0Jz1DKB03Pjpl9EJ1PFKMMyILltigxGga6DmvVsuE4R2HyQjfvnR6TtKq_ZTWAEa5eazVVKTG8IHrNlhpdVFw0iVNklxk0Ql5Q-zuMixBrSSTr2Jpl56grc",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Galarreta",
+     "uri": "https://maps.google.com/maps/contrib/102642975645650372786",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mRUgtrqj-0cwPd3JQlauAuaxibfikW87MmqZhvXCdj9Bqbcm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTucL54gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTucL54gE!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMYmLo-QVKjt9vatX3FS7xgfqpotV3O5UU3XkGO_qc0HD0NuZO1-v1Yyv048H0b6Jk_iI7vIh1jaUudMOoUKmTDG6TixT41-O6Nm1M5WgAzBpiGgEk0oErUS2NV7OJENW21E3_aiNUS8E0piGj6H5Pp5CByOeyMmPzUIXttW5ugN7puQoPcnvA5wni7dMXbYx3kgMm4UWr9qBijNWEdPV3S0-0Na8Y60IEu0qev9OT5phk9XgUFQPSXGNGU2COkmAzS6rSLdKBt7Eutd_iV092y6EOxxP5TlWNARB0spOFstqktDG9a2HLJ4Z5VBTRWCKK42zfO9PjpsEnd9zbioYD3duSrxB7K4ajnZ6Qr3_S9D2u21IYJJnIHTLO9Qz6EDUT73fufvyOiYyfc58VR3LLjIBbs",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Galarreta",
+     "uri": "https://maps.google.com/maps/contrib/102642975645650372786",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mRUgtrqj-0cwPd3JQlauAuaxibfikW87MmqZhvXCdj9Bqbcm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTuaLiLg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTuaLiLg!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMYMH50tGOJVAYxqlBLTjON5V8NN5k7rclD_m7YckMrtjLlfRFhlcMp6oipFpscyp-v15mLYI3rdz8LDQLp9-xZlOgDBGp0WsG-svypmIqhSRI4puhuw6-2CUulNmSXAS0_Xpb7rN9IEweF9R2uHaTzI8Os1YclNdZsVvbxeDEXNbiSP9-qEl4jiERkEHOh9K7-M_rB3AoKglXdqoWnM57ri70kHM5vygSVVU7oC-JctBU73LQfCoc0a8XR8YtFBXSfJO8qAFOtTKSi53lcGgafrZGiWzhZTR3Hk4VBiYAa_lWTfX0sLMgUE4IBZzz_4m6pPxHDH8OZiuILY2l-z7lyFG1J59QEGaR3BoWE_0b425O5WZLo81smo0rxaBdmAbkUnB40gu81bTH4q1bxvIG7Kswc",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Galarreta",
+     "uri": "https://maps.google.com/maps/contrib/102642975645650372786",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mRUgtrqj-0cwPd3JQlauAuaxibfikW87MmqZhvXCdj9Bqbcm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTuaKOcQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTuaKOcQ!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  },
+  {
+   "name": "places/ChIJp4XNjnTHBZERKmHx3lKBCMI/photos/Aa-ngMZ6niEhxpvJiJDe2c4ZmoHLDYDQb4-NsRuT1O3hWadNeKuz-QJEApzEyrfNYkJDB_tQ1n0Mf08zYrR7MiVTpSYUYyq0rOo4C6C11KR-TCtoKkY4W0h-FqkA757mKfNgyjL2oqH296CmC58IgELUmwRkjzQ1ZX1yxYNv-oG2znIM1i_5O8U_pFtE-mpHB7sGX2hgy52PZVogLuQjsdyBLXr9GNvgURQLMu174k6qKG6gGjhgSbmzZhv_a4pHZcHiP19Nhq0Mw73LaLNBAWV7xqB6wuF9rfYklszFrHNSO0ROfRTU92Gk_Fgr7ZYfWlPi_JhYrsUuYIY-KGOGWzS-7PqngEO_pJ5IsHOtc5C5e8SoaPPQthMY7WN1ZHpTw79g3XZ2w0reknkabrQTOgTx_A2hRrc",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Galarreta",
+     "uri": "https://maps.google.com/maps/contrib/102642975645650372786",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9mRUgtrqj-0cwPd3JQlauAuaxibfikW87MmqZhvXCdj9Bqbcm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTucKqSw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTucKqSw!2e10!4m2!3m1!1s0x9105c7748ecd85a7:0xc2088152def1612a"
+  }
+ ]
+}

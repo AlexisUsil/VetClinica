@@ -1,0 +1,615 @@
+{
+ "id": "ChIJM46fTZvHBZEREhfulJS5-BM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 064 294",
+ "internationalPhoneNumber": "+51 999 064 294",
+ "formattedAddress": "Verrocchio 317, Lima 15037",
+ "addressComponents": [
+  {
+   "longText": "317",
+   "shortText": "317",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Verrocchio",
+   "shortText": "Verrocchio",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Borja",
+   "shortText": "Urb San Borja",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0900533,
+  "longitude": -76.9901831
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=1439104128749803282&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:30",
+   "martes: 9:30–19:30",
+   "miércoles: 9:30–19:30",
+   "jueves: 9:30–19:30",
+   "viernes: 9:30–19:30",
+   "sábado: 9:30–19:30",
+   "domingo: 9:30–19:30"
+  ],
+  "nextCloseTime": "2026-09-24T00:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 18,
+ "displayName": {
+  "text": "The Center for Avian Medicine",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:30",
+   "martes: 9:30–19:30",
+   "miércoles: 9:30–19:30",
+   "jueves: 9:30–19:30",
+   "viernes: 9:30–19:30",
+   "sábado: 9:30–19:30",
+   "domingo: 9:30–19:30"
+  ],
+  "nextCloseTime": "2026-09-24T00:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Verrocchio 317, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5OWRmVk5BEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Recomendado al 100%. Mi agaporni Paquita estuvo internada por dos operaciones en la patita(amputación de dedos por necrosis) aproximadamente estuvo por un mes y con los cuidados y tratamiento del doctor Álvaro Ponce, mi ave se recuperó totalmente, hace su vida normal, también ha dado tratamiento y desparasitado a todas mis aves. Lo recomiendo totalmente. Gracias Álvaro y que sigan los éxitos!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Recomendado al 100%. Mi agaporni Paquita estuvo internada por dos operaciones en la patita(amputación de dedos por necrosis) aproximadamente estuvo por un mes y con los cuidados y tratamiento del doctor Álvaro Ponce, mi ave se recuperó totalmente, hace su vida normal, también ha dado tratamiento y desparasitado a todas mis aves. Lo recomiendo totalmente. Gracias Álvaro y que sigan los éxitos!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Verónica Cruz",
+    "uri": "https://www.google.com/maps/contrib/107372607138702118566/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYtbdRW0l7w5HcN1_q8MIYJlKP7Rhgi3jawXJmFPu5R6terA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-03-15T17:55:21.956777Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5OWRmVk5BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5OWRmVk5BEAE!2m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5OWVxZWpnRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Una buena persona siempre será un buen profesional.\nEstoy agradecida Dr. Álvaro por el amor con que trata a los animales, yo lo recomiendo por que nuestras aves son bien atendidas con amor y muy minuciosamente. Mis aves al fin tienen su doctor de cabecera.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una buena persona siempre será un buen profesional.\nEstoy agradecida Dr. Álvaro por el amor con que trata a los animales, yo lo recomiendo por que nuestras aves son bien atendidas con amor y muy minuciosamente. Mis aves al fin tienen su doctor de cabecera.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marleny Zagaceta Serván",
+    "uri": "https://www.google.com/maps/contrib/115983453011405377147/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdYHdLXOo5h7SSy7pmFq105nXBgQB1Z_ulVNRE_l03zW6_u3g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-03-15T15:03:13.482440Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5OWVxZWpnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5OWVxZWpnRRAB!2m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLdDVlNUFREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "El mejor doctor especialista en aves, gracias Álvaro por el seguimiento q le dio a mis agapornis, una excelente atención, con conocimientos e información muy completos. Definitivamente lo recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El mejor doctor especialista en aves, gracias Álvaro por el seguimiento q le dio a mis agapornis, una excelente atención, con conocimientos e información muy completos. Definitivamente lo recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gianmarco Javier",
+    "uri": "https://www.google.com/maps/contrib/106591719291455197936/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYvRJtTs-evBDhMFbOWSiieiYcSDGabQrS2VZzLPDLQh31YBQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-04-22T21:23:04.376530Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNLdDVlNUFREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLdDVlNUFREAE!2m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5N1pDZlpnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "La mejor veterinaria de aves que existe en Lima. Gracias Alvaro por la dedicación y tus altos conocimientos en medicina aviaria. Mi Aviario y yo estamos muy contentos con los servicios recibidos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor veterinaria de aves que existe en Lima. Gracias Alvaro por la dedicación y tus altos conocimientos en medicina aviaria. Mi Aviario y yo estamos muy contentos con los servicios recibidos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea D",
+    "uri": "https://www.google.com/maps/contrib/101200428147768333794/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWYnd8tjojRaeR2vk2ZMZGXCib0t3iysCqvJmwQAFPFLqrMOja=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-03-15T23:24:44.155496Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5N1pDZlpnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5N1pDZlpnEAE!2m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5OWJLZ1hBEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención.\nEl doctor Álvaro es un excelente veterinario y persona, te absuelve todas tus dudas mis pajaritos están muy seguros en sus manos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención.\nEl doctor Álvaro es un excelente veterinario y persona, te absuelve todas tus dudas mis pajaritos están muy seguros en sus manos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ale Millones",
+    "uri": "https://www.google.com/maps/contrib/107701539352162911640/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6AmFQNneM4i73Exbh9gItHdC6UuZpqXDLN6TLIgSscAu01Fcl=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-03-15T14:51:17.803313Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5OWJLZ1hBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5OWJLZ1hBEAE!2m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMY0Vlxcrco7VMUkhuhm7rd3U3tTSR0BwjcBcJL_NNrii19-PcS9JjqEXIn5r5QCVltVs-tIplcEVcE7Zfv7V03JHD8uuRS_J8ON_pM9_xKnQw9U2-wEypSEsDpaXKqtp2B1MrvQz8d17YcfHUM6UG3vux_qS6h-9UAff0P9OB5SWVNvgfYpOTEvTYaoxFcvVaSBTebzZ_1Z1p8lrRaXGg3Ya8KayD3U3EmdiWGOfGOobQpR5cGP7PIAvTzsV3mtXH9zMZcRWcwSpUaWr1Im8ag9dAbULfMALS2Y86dixdOLmhNFRUyA2ebRkaSnJlRLM0Mdk6GE6EZqe-T-qdbhNGO8ybVoODJ8DRuC1XQmlWTFcuxXNmL-ogt8vp5lRq8hgIr_WaNeaLmWxkqQOkcdJbxQHGuyHTTjrudoJAyFps_3ryfp",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "carol gutierrez",
+     "uri": "https://maps.google.com/maps/contrib/108495227555297293165",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVo8X-Jyzk1fWH6z75OjYI4iwDJy4xz3sD4X01Smhuxlve7iy0b=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICNrNz8mAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNrNz8mAE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMaBdxJYQxwl7TmTRmTHNjPHbKp3CdS8z28snLxS76IkKVeQYz4fhWuikPonckhAshU4bCG_HqmgixzztULiFDuDgBXFK3QTGLzxTmAb-sSm3lbmrto2DqxS6s1H1yY5ijjq_VYww2FXVOcE1NjN-snzDiBRpJ4aeqWkm7HBLoxBftv_5blkbvU-rp68Rj50Nq-oE80rwsA1mxgq0gbSn2nu9Ghn7QhNcQ83_UizI5eZ59IIt8jDBjWDjxgcMnBdHsprcxyY_73LBvwv-kM0zk86Z5TcUizY8X10K_gDOoHNQ1zmynXu28O8v9w9dzfIaGhJ_-3XvvuaTzxsyBuaHa-nb2lCgsjcvrrcdSWnWXgTJyn2y_yjXaKdzKuhr21tuq3OMlBdfFHlBTSjx9SEfeKKISbujp0gfze7ubFB_FSlE8T1",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1ZvzvAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1ZvzvAE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMbEvRe7ExTTWtuZi1YHnVaMBIWGM9BtAaz26rOhu1MXJqtOI-iyKh4gTMsiiDpjs41JYxnVrxGG1baDbQusjSkOSZMakeUBCv6WvMTwyViKTaGCItCAElQ3zUfmgwA77hVJwYygvAlUZcYqtYLqGbJ3rzDwSZR3IvQRxJCD8GGIORi8Kn9GQaGH6HgITRiLknPcuzU9UUN2JcKLWJnyKeA_NSMzw2cI6WUjWpGfwI1XYbtt-IaJuyrNhqpy-wTWbEmbLkx8_0MGrwNpfErYmy0qMrFhaxpnHaoog9MqlrI9PJr2E4BAsjs4MLF0fRlwjPwBbW00Drb6KNdikF1lC1_89a2M2V57V-PUQdxiTIdVc9A2bffz384EgQF4wQxsUY1Vsk8NWkXyPwGK4kOh9c0YLmrJ9XkSyQQlgepqmUixLPw",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Verónica Cruz",
+     "uri": "https://maps.google.com/maps/contrib/107372607138702118566",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYtbdRW0l7w5HcN1_q8MIYJlKP7Rhgi3jawXJmFPu5R6terA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy9efV7QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy9efV7QE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMbB9CopZ_coz-kxY0YKPhpGCXvfJ40tYA1x0zBOC88PN5pFB0ghrOC7BXStPs1agUxpafsq2w_EkZCMrsMt_27a8Q5ylu5pngaHIoAz1ZCYQqMNc5DeDy2YT0sBzAD8kxmUbbe0HNVjCsXfnDtR_7p9RpbmMuoywqxMnmJMRA9ILsgcmkCTH_QxyXo4o_nlUby5Emf7tLw2iRXHhayZAnwIoeyCFsk1JpHh4VLkzkLnrnhQGDXjxUHHvfGzA1TCc5bICPMS0I3C5zFMnqLF-Z-mPbVo0rxAOriMlDQVli_VTsdtnOfJ1HNhvrAl9Thk5OfqXWc8y1gGJi4ZpT-zoLowYijIPvtBNm0Glcj5oUjdF5SrU-mNs30sjZApgarNAIHK0Wv6RxwGBuR-ZIiXHFUfLIU5MzNc1b_Y-dEzJq3EAA",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1fPrfw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1fPrfw!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMblUO2CRM90edDEgVHxB1sB5UBp472liPD0yWghho9wEXYGN5UMkJkrWzFJuzr6WumXH9qVnYiLQCAXR_PHSHPQV9SjL6SFvhcdkN_9CpG0XC2NfPFDxbZBqJBlIlHYuMnAjU0iganvwcRvhknw6-gBi1PzJWwXnkOAiEzngP-37VcYJt7nn8kZ0TeDbBUgdZue0AlIcLq4gRTvUMbIYWF6pYGMy6Pc4KcHROx0D9Fupo7LXRMHCEINPIVTZDL5LLTABVRqLs-muAsFeWKxE5mb7WXoW353izNn8hXFbFSJ1zeAGoC49xeV_Ub1EGixowVP8bty7cqOmxdYqfbSaT8m9Bw-9fUQgPgf3AtfaYJHJbP2psi8BuhatgHuxX8Y2f7KSD2YPTBm6c0litfmylMvZ8PETqV7eUmf_K2kBvVZp0pf",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1evInQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1evInQE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMb6flkOf3yaL_tas2HsifnLY5BxhDAZL3MmQ3OV76p0hiBbResyQQ2_81HSbAxd5DGWXAm_E_T83dTiYuNTCqJg3R5Oz_yRY_Zev5o4m98HpM3njQRPNrvyYcNRKrWzw-gOnFuXoXybx3nHX2b0vzw1b7rgxnaq4nO23ka2lBIKULlqpHGju5iehwGjOWJYx2XMg0ldsI3KSXhSFZgWOvGxGqnjlRERnqDhcBd6VPv4PFI4UpoE2y3pCNgtZ0HrbpNpZQ3LtmoriuwnwAZx0meKRjEIGQSGSYids6Yno8ZpBgLGZz31I2CZKay5QzpNab8U7Wjj6rfZsIKNZMW7sPswujhVTOoWJaoIe0ar5SD4bjg1hcxoSZvBFAGg3h-EhepgI7s7UeaZued6cJAHna9BpA2-XNj4Rmz4aYhwyP7OouPl",
+   "widthPx": 2048,
+   "heightPx": 1366,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1ev4kQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1ev4kQE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMb_6K3cWPaLeJor-SFuB2w3ej6U0TjIFgEzY7DjciBfsmYGdVUJ1tInHhJeiVSNO455BvaOF_vrQhK0jo9D_sccecOlpHLP8gy0Wyeqolqn7ytufChmLlLT2QGTvrUmQCNf7qiwpaBdkZn8IMUyV2n9OrpoZgSGB0-gfr_LswzE0J2ODocFOd1mblh99_MOruWpiXh9hvWIc-Bc5Ov1UlS9qBbT0eMtSrUnyDfp8IVhTTwjWfA3Qwfpk77ZGz4995Kk4r1UwwyaIbGyCk43NHmF2GvJs4-gXdTr8eK8V-wXsW8JAxCaoDeBnOepKFrIO2PPde705GSkWkabIL6hgdAwiSHpUgCQmmIfWg4_e2AuS6T9Hm30PBhHKP6qNzhy-PiUdphuP8Njrs-8_oqnqRN9r2Q3-P0wWdUH_zVM2noWMQ",
+   "widthPx": 2048,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1YvqKA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1YvqKA!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMYRiOS_aaB8qcDbfej9rIKASg1ZpZgp5U48PfI7NWGRHGCzJwCRWpa3_7eF3IRd3cYoJuSc_1f9AG36q1-Wq6eSP3SVnjfh81XD7BkB27mAGuj-2lWBNntA0xtZH-idYzWIOAW2LChiQS3ja5VTYdmgfR9kpLRCbzT1RKCSTpI9Z_E9pwI1lGcjxdf-4tYbHqkv7iLcz94o-yUBx8SqTt1QsxXCE8Js4FK5yyFx31hdIQi9fTNaiyKAIh3p5aX6l5B7lGQIBWNNxI5TJLYnBBAHUgeUgEFY-GfovToTtZkFD6CfyaPH72bXL_HWtx0xQ7jAxorgbsAN9fcqeMQTP-wnGbw6EvNl5TSQttDMcTTttq0Bqhyo_zu67Xvt7gkbyNVcbCgNGvCdSqIDFIcTilaCb7rwpa4zMZxBv0IXRjLBmw",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1ZvzKA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1ZvzKA!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMZdLgzjt2EvyL5ZlxCYwU5HPzUdVtRaT5k_i19tqAhW30JdIEFt9g3vUvjzcnDSLZqEy07UXA07wfQVFc2qpEas2lGOM2q2dGEtNxzC2Q7iqTl-eiGe49-jZ7NDAOvCjhWPQCH7Wp6yKil0sBaBQ0QFT89caXdFAv-vJkPn7jzP5T9qAnrJLhAJHQMn_L0IVcOpA_yeHfnXY5E5jiaNKGhimYm7L2Z94H_plfFNY6TJCuHi_1NTmkQX4tU1sskPCFaV9y4oQqewr6yjnsZqFj_ppXlBJGKVeasMh6_0XaaeFYrxF86jL5q57bb64HhOWqZBoCAMLoiAbMFrbQPJePUDHjPM-CQhdazkiFei1V4ICzUMkPp-JuOtdl5KrrbpAZHlnVSL0n8mKm_6trFGB4tEQUt9n7NI3pgaitVTEOv2HT1W",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1ZvLiAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1ZvLiAE!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  },
+  {
+   "name": "places/ChIJM46fTZvHBZEREhfulJS5-BM/photos/Aa-ngMZTf7Cj-KZ8DacjuKtEh49wtT_iKpPljDBD9I0Bi5KmkPvyQjV2MruIFzOuKwl39_4_uJOAlTluUYwr5hW9g0SIq_BDyAxjEg5HVQrhQOyJnBEhQoffzH5FzVQ1UeJvq9RklAFkOMD_y2zLowaH6g4b-PyWJfn7Eg59klLSg552ZBQ1LFX0sJC56BKyDXsvElZRA7vfeLVVAv-uIZHOWemlaWHFhe_7dieeJs3RAy4U1LjE597HlH9lIHa_mfwdJrlxMTlBuCNOmssGXs7IRKra2bC04uWyran7pOr1L7xnOJ0PQMeFGouqm9zZ7eYU2cEKkWQJC4ldbyp8uid3UlT3VA1C3nanG-aFjpC-Rvlf9wlFP-FrTzz4ohiNkXupQ7LWIdfyQgDb1X4QsHsrUo3oMsOaa_5TPs_77M2PXYR0rw",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Eduardo Ponce Cosio",
+     "uri": "https://maps.google.com/maps/contrib/102637575884526223620",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIum3ir9magr8YvGiLpSu3aXY5t8wyAkMYMj3o8MKcJd0ppDg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy1eucEA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy1eucEA!2e10!4m2!3m1!1s0x9105c79b4d9f8e33:0x13f8b99494ee1712"
+  }
+ ]
+}

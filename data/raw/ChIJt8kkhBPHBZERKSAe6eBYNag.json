@@ -1,0 +1,584 @@
+{
+ "id": "ChIJt8kkhBPHBZERKSAe6eBYNag",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4953756",
+ "internationalPhoneNumber": "+51 1 4953756",
+ "formattedAddress": "Las Cascadas 363, Lima 15024",
+ "addressComponents": [
+  {
+   "longText": "363",
+   "shortText": "363",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Cascadas",
+   "shortText": "Las Cascadas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Cascadas Las Vinas De La Molina",
+   "shortText": "Las Cascadas Las Vinas De La Molina",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1005462,
+  "longitude": -76.94750789999999
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=12120691695144542249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 109,
+ "displayName": {
+  "text": "Vekavet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Las Cascadas 363, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwc1ptSkdOMWhhWDNGUVFXUnhWR2xaYVd4dGNXYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y diagnóstico acertado. Los doctores son muy profesionales, empaticos, y siempre tratan con mucho cariño a mis perritas. Cuando tuve una urgencia con una de ellas me esperaron para atenderla aunque ya estaban fuera del horario de atención y hacen seguimiento a sus pacientes. ¡Super recomendable! 💯",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y diagnóstico acertado. Los doctores son muy profesionales, empaticos, y siempre tratan con mucho cariño a mis perritas. Cuando tuve una urgencia con una de ellas me esperaron para atenderla aunque ya estaban fuera del horario de atención y hacen seguimiento a sus pacientes. ¡Super recomendable! 💯",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Connie Marquez",
+    "uri": "https://www.google.com/maps/contrib/100594830481550952538/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBwHcECyFPpJHqns9xN7Unp9lRm9nnnVM_CQI9cy1fCv4XiA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-13T22:43:38.607051471Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwc1ptSkdOMWhhWDNGUVFXUnhWR2xaYVd4dGNXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwc1ptSkdOMWhhWDNGUVFXUnhWR2xaYVd4dGNXYxAB!2m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmczRhZWhBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, son acertados y tienen un excelente trato con las mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, son acertados y tienen un excelente trato con las mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gunther Venegas",
+    "uri": "https://www.google.com/maps/contrib/118078491403367125443/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDxMrovnTjqOR0Sqy8nwQiIitI_CGCCeCo6fiDtQrMJCRm8U4g6g=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-01-01T11:12:00.347138Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmczRhZWhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmczRhZWhBRRAB!2m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoeXBucVBnEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "100% recomendado. El Dr Israel es muy profesional y siempre atinado en sus diagnósticos, he llevado a muchos gatos ahí y siempre ha sido la mejor opción. Los precios son acorde al mercado y se debe sacar cita previamente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "100% recomendado. El Dr Israel es muy profesional y siempre atinado en sus diagnósticos, he llevado a muchos gatos ahí y siempre ha sido la mejor opción. Los precios son acorde al mercado y se debe sacar cita previamente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carolina Duran",
+    "uri": "https://www.google.com/maps/contrib/100480601520430430675/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVC_mg83thJuHnhHPEduSjNcwkXS2XjSW1MyTBlBSJaOb8aKDiM=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-02-10T04:19:08.377184Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoeXBucVBnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoeXBucVBnEAE!2m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBdW9iVC1nRRAB",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 5,
+   "text": {
+    "text": "Son muy buenos doctores, con bastante años de experiencia. El trato tanto de los doctores dueños como de los doctores contratados es bastante amigable, confiable y acertado. Se preocupan de verdad por tus hijos de 4 patas.La dra. Renata es lo máximo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son muy buenos doctores, con bastante años de experiencia. El trato tanto de los doctores dueños como de los doctores contratados es bastante amigable, confiable y acertado. Se preocupan de verdad por tus hijos de 4 patas.La dra. Renata es lo máximo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ada M. Rueda (Admeru)",
+    "uri": "https://www.google.com/maps/contrib/102703192529654127729/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhGc3sqdbXn3bi37wArqP-plVSt4Jasovgh0ay40qsRLZAhycByA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2018-05-23T20:06:59.143Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBdW9iVC1nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBdW9iVC1nRRAB!2m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLX3AzemhBRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 4,
+   "text": {
+    "text": "Los veterinarios tienen mucha paciencia, tienen promociones de descuento y cumplen los protocolos de seguridad del covid. Se preocupan mucho de programar las citas de forma que no se crucen perros con gatos y eso me parece muy importante. Me encanto como atendieron a mi gato.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los veterinarios tienen mucha paciencia, tienen promociones de descuento y cumplen los protocolos de seguridad del covid. Se preocupan mucho de programar las citas de forma que no se crucen perros con gatos y eso me parece muy importante. Me encanto como atendieron a mi gato.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leisl Vargas",
+    "uri": "https://www.google.com/maps/contrib/114378002401154906968/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVY2wR2foC1bJm7UFGYVVgfSWoZK0B4wxB0h-kF6034tHx__cBhvQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-04-10T13:35:30.923738Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNLX3AzemhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLX3AzemhBRRAB!2m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMYolA6LDj5AglS6GitNGMezKeHIXtqM21KPxFPkIOoHHLbteN6xR1l81CQ81hEYKJtYR3ihnGv7QJR0HGDsT0XTptm9GRLzxO8DbOoCGf286GneD7XUf-ZmkhU0p8EHR6EfnVb85L79L80SqMWtN4mMcIe_MlUfZPs6DIaKHjH1vnaLOCVjhekfCnceBpdGifsKEg9V1NQ7DRyujU-leZCGmAakdrHEKGh4-s-92o1SgR9aQQQ05_7cwvgzTwXwcEUVLJvbvRWXqkMxFmqywnpBLSgdQBluJV-mKdATrFxJQLIyhmD-TFTvATAzfpxhNnu24DYOv-GZ8B8wYFeMEOCKqSuusqLmieWAYlIPNCNAOMN4JwgUD6mF8rBrDLlt7Hqnr4KomboTXcXD-CU8O6uwrcwpO2uL5AfYKtMZPNpF1LeT",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4ZeuuQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4ZeuuQE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMZNlJfgIV7zMKO9U73o_FXuinqeh45vjux1QgZpsds-FDUu8J9hMvsMfT7a9nW8dktZAJ1lHOOxr4HFr4mD34kl5t3P03FFmn2uKZiAk5c8D1nyHEmLiP8W_qomKIJpktoBQYl9t3WqtoHetuKUq1TXBJpboo5_mwIYbxgluPhPwh4bXOcsQyyea4EehH4Xat0P1lqsTxA0vILPwZkDyZnte8SOuSOfi5-kF3L6URDTHPkQwR1fgyKkmAs3QArvPZ3M8oYnNyTZHHZzR7DORGc8TYKRyCF46st-fiPEnGjKlAnxGrrfIKktPSYSoGQbvrLnZxnvtcXYhFUd6-ou_CvNOiUtGqKDca1bkGaoLjB3kG2mk4iYjgzS35FSSRPdAz-N6j0nT8rmdfWuwnv2N9XBFhcAIQT3IqI5xb2lz9JjNOM",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Antuanette Nima",
+     "uri": "https://maps.google.com/maps/contrib/117611644012963602586",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0m8MeDNmHdmhKcHdvBYrJy40wyegwAwkOoptGnIUkPPYK6MhVow=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBgf-liwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBgf-liwE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMYlS302StpWoeKINIbGqprIFG_-DqA-AXSTJasj2Ykn7bHW2WI6a3tf3DDOBXACeqxyKtvZ7NuCO65k_yzkyRIgw1UkapxepDSyNPJYz8WvN0ryam77Gu3cDAQuG8USMpAruPNX6D5DZsWD4TvtdcREwypRX4iPoeXN9FTzuIKwdlh6A7fmMzTmd6zpaiZzH8dAH4aItU3FRbXOwKQedK5FD1EpNAF_S0z-oOQv3psrS9oMLUNn5S46Vs4mnqU41C2iihMbNjuXHZ3KPZzkqkBGbaMrNKHSUfcEuWqjDxtVdw3NSgrVNEiVWzMhiWG_c8NdAKYmlNArAfAErQpTrs4pswL_q4ei7DjAQNqvcB5-COtKpN4nAeY6XPFw-eaPWw_BUmW7ZhKAraAfKVW9BwNhOUXBRu49p-ei5jAXbFB49j92",
+   "widthPx": 1440,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "Yulissa Navarro",
+     "uri": "https://maps.google.com/maps/contrib/104248664311936824524",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuovpb9VL_T8LXQzvVHCepW30bfiwjDqQiLhNKIH4ejbkJBizD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICswciF_QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICswciF_QE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMZCAJpn13EWDInkPPIKYNsaNjiMV1JJWidu9J6YzRAoplyHLs8wPRMrONGPy7843BBOvf96z5dKNmqg-Nw4Jg0MXciP03C4xkMeiTc7AYIXyGDP9jF-DBUSA1eHbtzeLPFzeQQ-4UWoV0qLVCQ0bIX0YsbGp5RljDkDSEib7xPMJ7g-gVe1m29fN2s4BEDr-NGenrd0M9PRGcERGQ4_joKnQXiDubuus0-xJn-CJUTw0OSqR2HYAJ-XuWFQVwwIvdF8j7XIMBBdVZhYAtWFpKAlGTLdGlRUca5kaZYX0fep4brNmngtO_xwTsHQH5fxTMRRxzhSbNXpExo2BCvGEpcBsN1_XpuRCLrIhJ8BOnV8Pn7E3KsSNhKmRFFfWgaFWTRFjzEM_fQ0IELDUJ17JpVKdV6g1c-m2YMRjt_cWPoDDL2o",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4ZfW_QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4ZfW_QE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMYH33WkTXzcmR02oitTAfH9c7gyToO7Mu2_KK7ZaAxgGmlwsnahO0w1JYm-MNOEkKD9TkkX4cgstqqEAHFQiOdYsKpfRrEwVl0s1kWxLsiFbuKk7WEdCrIBoZgYLKVX4LAEidLSrpCXtH56R1jrjZ3nSzh0phm-Ju6YAvoot8MQwOIlZWxw8bPA_EWQi7qs1hPudwGK6EgmtMpyjh2e5FoCHwcGIfDNC24A5EZ33geHrD4nZDPtFcxhCwzCcr-IjpZygpBKPkkPw4dNTtA9Gmm4rqwaHz8w2DnozW0bjIuTxrX2STtJ1gN-pF68H5rdZpQW194gW-z4koCaIK0tuD1lCTTuH-NEJWyQPr5Rbn_PhL-DW8EPgLBRfc2kQsC7HE5QF5HQenvLPv1poyqcViWmo3TobHMfHWLuVCERft8rwng",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4ZfB9AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4ZfB9AE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMaMY3BWysPcntk9G-F7FC2CSRjpfCr5ZDA5kVs4tipxA3BXrVwP3laXeXOv9DWpi-AStIfL3x65bUV6fsDjgIJs-bn3_qFGn_zoE-_S3iw6Z-LN3SqEbUU7UvsXxIIxS4UqqZi9j9BVsZA2xagpUwkL3kY7e7uML108dBYrhZLqs5RJCFeZ03b1hXaI5jHTN6n2oalYHZKjpDI1ABEZ7_VeZsdsv_5UFk_gY9jBKcaATsHpQt_XtnXLpU9-DQiCz9MHLHH0YsZVBMXrdQihT3z5I8b6rr0Jj_KMJgfoG4sRio-r8qSBB2EQRnSPvNmM64ub9Q-u68rlco-_KXfiYLLWF2j50dh2QAkbPpoZs_2zFsuROR2tTc-zaO_w7F-fYOeK16YCL_nSHqWFVcxhYvITeXciKydJir9TfXqLfQnoU9Ak",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4ZfmiQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4ZfmiQE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMYSdE7ehg_ff-9zaOerDJQoNCptfg8C5z6gUDglfML0TmrzcupwMgogIPszubGI6sM9P-LyweGjRUwmjD0vJtLFGxQzQqC_teQqtQWEWqziTttLNEKZCfVT4Qw9A3sb7qLRaOr_DKiFUEnhmlTLKCAN_azEZzjjK4bnRxU9VaJBbr1D7S7dHksCPb7XfBp2WBB5QQuvlmT07SkPuBUXASNhfF31ifcN5gC2y-phoh3fj-RQrk5RqB9L2kIA3aegS0YiQiTa2AFCK5Aa6W9uhG6O7tR3cpwUvBXPwWMFKUxzHYi4YdswXieh4b_A7F1S8MMSUmmJ2URUxXYXAZT-0vFqhmvn8mQTrSeOdLfdGDp0C_ZiPOcAP7v_SD1HmSA0ClXa6Dw1eebBSgL4wouNx-xVYT0fyWAWuME2B14yRyc3IhpU",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4Ze2oAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4Ze2oAE!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMZFCYNXmqku1lg0KsIEiYwdmHfDVE_w0niNNp_esG2qgyHtI3aQWs3oGHpgqfK848VrPNKeYkiyixto2kvj0Gkr0TJAHVW6dENoxBopmPsWyh8yl9d1wyQ4-AhdlQZLt-g2wybBECNOnKOmnlgoXlVQNXjM5qm_6pR3HKq92Zx3yvRKatziw2I9pzWibt56gZN09Hjo0c7cRQ8S-u8P26DnehY6op1QfevhBheCjFLTDqWtp3PtAPK_WwnWoovnCgvwhpS1yTyw_ZqQ8IrYr6UJKWrSuZYAptL4ZYZZdHEVduDKEoPWZ8On_TfMLpt0tNVydZMjp-VSsdQWsdyrMDSnl8OSGA6lep2OI2yt6qCkJe8nsg9IsDUy1sCSp036Pt4rFsi1_5UfoX_1_lW7XeP2vFXSQDZ2t_jyzlYUpJWPjQ",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Nelly Lopez Cordova",
+     "uri": "https://maps.google.com/maps/contrib/104292132261070606873",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNypbA2PW39gSv98v_pvMWiE8xV74HVovC3SgY7_lxUCFKpQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEpoHCcg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEpoHCcg!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMZPw81UeTJHdSb4WfVBnofDqhlDPaSPaV2FyXX7oegXvriJZNJw84LzXbz8YNbL52HJhKKADANfXZlk54l5BANNLqoUxmdqAqTI7-grN7pfzpwQJn2v9KDdQ9a2xynVaNV4VdaxooP3p55wCnGfDL7q3YpBEuQk0CdDyuMABJjwGSF1JteWA5qXcDmebwzoD3v0dkdwtrAszxRto-Crvbd6JPK8pOHZvfTN_txRUSetajOnV9nhnzZtYl_8Tl0aYE8Te7awFR1cn3SJXmh9CopUMADH9NlkPWu_NqfNU8ASKb00SPVO3n0Y-qxYyl7_sAcwoI8iIjQHP9CvA3T6iQ8_W-1CZ3prV2HYQXXh_yhSPDIP7LrvrQOa3CIrhCeaajkZ_fy6OVls3QroX8dOS9N42_eQNfHU_KiCelJFgJgxzw",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4Zf2PA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4Zf2PA!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  },
+  {
+   "name": "places/ChIJt8kkhBPHBZERKSAe6eBYNag/photos/Aa-ngMYsfsaVdr1y5QUQqUOcicab1DqdgHSQ_qiMb_EqWeO6kxVhjeWPX0Uy4GM6hRYq-9mH4rGzgNoNMcFRU4yyIuhbyAn3_sr2rbm0N7W6B2RufAmJns7ep3uMD3naZcRLvzOnThTw9imQHN0CUK783RzMASIOfosg3QdAr9xsqZtkx0WA77cUHE6xyIB1VV8PN2f9akqQfhjq2suBkjKOCnF839ip38Pu_k2Vl2LWAqj0pvrxP5Q-hGe7M8-HPBxXVzFCTA8jJ34PwpokWH2VH0wViL830WXQVOK5wHeDvfyHCVmDAF_Mxkg6R9HC1UGy5gkBqBZshwaC_CawJ9MqV2ti1sE0mNnmebmMA2to6CDgStcrzCsBG_3rshHQVw5WpjwLv2MplSXcCfUNwbGBxrmtuyXr1Ox7xYm8NCsOIcmDMg",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDh4Ze6fA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDh4Ze6fA!2e10!4m2!3m1!1s0x9105c7138424c9b7:0xa83558e0e91e2029"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

@@ -1,0 +1,547 @@
+{
+ "id": "ChIJ9bV4KgDHBZERXMBq_pKHPY8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "991 978 260",
+ "internationalPhoneNumber": "+51 991 978 260",
+ "formattedAddress": "Claudio Galeno 148, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "148",
+   "shortText": "148",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Claudio Galeno",
+   "shortText": "Claudio Galeno",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res las Artes",
+   "shortText": "Res las Artes",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1065992,
+  "longitude": -77.0066162
+ },
+ "rating": 3.4,
+ "googleMapsUri": "https://maps.google.com/?cid=10321554986406428764&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–17:00",
+   "martes: 8:30–17:00",
+   "miércoles: 8:30–17:00",
+   "jueves: 8:30–17:00",
+   "viernes: 8:30–17:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 20,
+ "displayName": {
+  "text": "Veterinaria. Servicio de Medicina Veterinaria. Municipalidad de San Borja.",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–17:00",
+   "martes: 8:30–17:00",
+   "miércoles: 8:30–17:00",
+   "jueves: 8:30–17:00",
+   "viernes: 8:30–17:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Claudio Galeno 148, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkRlZrNWZRV2cwUW1Sc1JIWnBVbFZtYmtsd1VIYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Son un chiste. Les escribo a WhatsApp y no contestan, los llamo y me cuelgan, les vuelvo a escribir y, a pesar de que miran el mensaje, no lo contestan. Tómense en serio esto. Llevo dos meses escribiéndoles y nada. Perdida de tiempo. Pésimo servicio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son un chiste. Les escribo a WhatsApp y no contestan, los llamo y me cuelgan, les vuelvo a escribir y, a pesar de que miran el mensaje, no lo contestan. Tómense en serio esto. Llevo dos meses escribiéndoles y nada. Perdida de tiempo. Pésimo servicio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luciana Linares",
+    "uri": "https://www.google.com/maps/contrib/104390790555815189263/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfTTeUML9ttR8tBXfzF6r2QHVJPl5azrgb8HEghn5pJeQ3FA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-15T00:18:51.588171044Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkRlZrNWZRV2cwUW1Sc1JIWnBVbFZtYmtsd1VIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkRlZrNWZRV2cwUW1Sc1JIWnBVbFZtYmtsd1VIYxAB!2m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWFRVZE5Tbk5vZEdaa2JUWkZXazFNWldsU2FtYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Terrible todo es pura fachada, no hacen esterilizaciones ni colocan vacunas. Tampoco responden nunca el teléfono.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Terrible todo es pura fachada, no hacen esterilizaciones ni colocan vacunas. Tampoco responden nunca el teléfono.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "julio alejandro vergara zanabria",
+    "uri": "https://www.google.com/maps/contrib/111153715166435684770/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXar3Sf_kmnrJk_ACErcMyKiAF0Sbt89rA0g40pqme1nv6Ubse9Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-29T22:19:39.871549333Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOWFRVZE5Tbk5vZEdaa2JUWkZXazFNWldsU2FtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOWFRVZE5Tbk5vZEdaa2JUWkZXazFNWldsU2FtYxAB!2m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMWQxcGlURmhTUmw5dWEzaEZOVFk0YUZCMU1IYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Ahórrense el viaje! Muy bien con la fachada y todo pero no ponen vacunas ni esterilizan 😀, solo ponen anti pulgas y revisiones súper generales (hay que sacar cita para eso)… o sea no hacen nada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Ahórrense el viaje! Muy bien con la fachada y todo pero no ponen vacunas ni esterilizan 😀, solo ponen anti pulgas y revisiones súper generales (hay que sacar cita para eso)… o sea no hacen nada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marialba Delgado",
+    "uri": "https://www.google.com/maps/contrib/116340156348262135392/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrajr7OV-ATTGqC2BUkw7Sz8dXGI5MmvxHM_r9rCAeSIuK-Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-29T22:18:28.989566006Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMWQxcGlURmhTUmw5dWEzaEZOVFk0YUZCMU1IYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMWQxcGlURmhTUmw5dWEzaEZOVFk0YUZCMU1IYxAB!2m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6LU5yX0dnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 3,
+   "text": {
+    "text": "Le voy a darle esta puntuación a la veterinaria municipal de san Borja. Las doctoras atienden bien tiene paciencia pero creo que a mi perrita la primera vez la curo de unas heridas en la espalda y la segunda vez por falta de negligencia no acertó con esas indecisiones mi perrita se murió hoy ya demasiado tarde y nada.\nLo bueno: si es enfermedades simples si aciertan\nLo malo: si es una enfermedad que compromete como que no puede dar solución y deriva para otro lado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Le voy a darle esta puntuación a la veterinaria municipal de san Borja. Las doctoras atienden bien tiene paciencia pero creo que a mi perrita la primera vez la curo de unas heridas en la espalda y la segunda vez por falta de negligencia no acertó con esas indecisiones mi perrita se murió hoy ya demasiado tarde y nada.\nLo bueno: si es enfermedades simples si aciertan\nLo malo: si es una enfermedad que compromete como que no puede dar solución y deriva para otro lado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gustavo Francisco Guizado Melendez",
+    "uri": "https://www.google.com/maps/contrib/112468362307735643203/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI33qLNWxJKLNRB4VjbV6RfS7Ay5fzDfv6Q-MxheOy8GM-8Ffk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-05-30T19:44:41.264830Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6LU5yX0dnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6LU5yX0dnEAE!2m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/reviews/ChZDSUhNMG9nS0VJQ0FnSURNellMMUl3EAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Cuentan con personal calificado y brindan un excelente servicio. Así que si desean una veterinaria les recomiendo ésta.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Cuentan con personal calificado y brindan un excelente servicio. Así que si desean una veterinaria les recomiendo ésta.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cesar Adolfo Flores Valle",
+    "uri": "https://www.google.com/maps/contrib/108984963612109503334/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s128-c0x00000000-cc-rp-mo-ba7"
+   },
+   "publishTime": "2020-01-07T20:52:07.043358Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNellMMUl3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNellMMUl3EAE!2m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMbfUKuBbfd5nr2QYyA-ZrBavvjSCD2ndWWXF2hZikhQjsDxfvzvI5ximUjDz46gI1Ezk7EUXSsDkqOpESePDrv4_iB9LOPvjMMmUL8wMa42GuFyHep-xlTw-C_AqStqgre34taT2DVEYI1rIZsq4KtHGTp9icrheiTDZ499k9qP9faDuacRNgi1vbXtFwsdbMkLXvYAufgubcTGg7FxYY_J2EdKha4nNTgpRGGEqNgF9jGKue5EdLPynT_yek6eQ2sc8VIgkJxOsMHAyPwEfD0vG7PzQaQfYPFwunCUzgpYCtRDTVtRevNlKT1jE1NRiEaC2-byCNFHNCGpPLdPBfPFBuKqqXRSraikeZ0h5vrV0OqRYWqiO_wgmAkdE_suPHJEwZEiYT_-bnocrc9oBPA_7jOD-EVkqthsQHyBLdPVyg",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Wendy Palma",
+     "uri": "https://maps.google.com/maps/contrib/100191336529605960090",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8fvEVLH13EThZGUbR0OGZmgVvO8_9Ep_JB-WQkvBUkR4OlmUh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICG0oj0WA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG0oj0WA!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMaqW9S8EiU75t6202TdJJKQ3sftZJE7eblhVfVBfhUJG77VGYlKRk4-9sUCx5xfxHYjL5TgL5UTE7ZLLDfOxGs0D3ijfnGcD4SJFrkEBoi9flTGh5EKtQL69yDgPBk5rk2upZUydJ9GA9fmmBDa6rLzNr5ZO-QlphtmLh1LlUqhks8a2ZRCvi8TeEgk2pEPYGTHv9cl-2LNM0M3YKo9H6QrmssVdYvM43TqpEqXhAglVR7MiYPzHpF3vtONGBohHCiZDXMepPI8o0-IQsMu7rrvhH4i1OwTPwNJ4sKxOpSk8izJzWE9IY6T4pG6KJNchgu5myxKhKZNrVMK4G-43iNrnX-ZDGoTftLGw1mfeNejuylUD-sOTnGf4wD44ULH8I0rcju8D2pciHNlBLceygqLskBgR09fxcFcLuGfv7iA8rpyLgAWzfLn6kwCgO8i",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Cordova Benites",
+     "uri": "https://maps.google.com/maps/contrib/109394666595261114511",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUObm_QEEJEqmaTTNhBincld0GrY_Va8nyPXE8qzvGLR0lxfmwSPg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBR2RTRi2wRLgj1-kMpWQP7&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBR2RTRi2wRLgj1-kMpWQP7!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMYPgm5xoTkJcVNVSHdBE3b_Y01J9y9O-Rw-BTsrESmmT9s0Lqn6abTvMTgII3goF858RxmWvOv2H-s1jx_8RHuvXL0xnU5cvl0xWU01q4iUdEXJZ6Dd2jF1EKOjY-CC6U3C7ImFs-jk5Bmch_36egTeJ9C0k5818zpf31RjipfH2Qs-7zS6F8tlbPBFAol4cyUixuVm1ykZey3yyZpnSj2Mjo77El7tzkJRqpir0r6LYEvljESTFjj6KtNwS4JX5Fb3_2IifsDP9yBWs7PooauyrfXhf7_cM4yfqmzzkH-jQLLRrJHwaP8B1hA4nValR1cMIkQ6GKMBK1wFZxUkRkchT5JEoyPEC7Zt3bhSj9md29Dfp24aiplSek5uixqfmDz_KLgB8ciXUVqMKVbvS689CCDzNAP6omAoXYcgkYHULKc_",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcpvqD4AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpvqD4AE!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMYB0YkJ9xVdff7-EIE7Q3eIhPRP_4DTP4xnx_gFEdaTHFWLlELBCJiQxtnK9GL3GaBLXBxeMTa8ZH8R-GjmdCzDyZLJHUp3GqFY3tKDmXS2obvUqXGKas85YVN038QJV1DTD6mVwksx0lDzhnSb4wN_BMOxdZdcmSXlhot7pKB-yu8_huxi39_FC0l9a2g_xKnSzvnhPyLi6TzVKAli-QP-QoXyzy3bBN7aaCgsuOQkvXGJIjPkedH08ZHDk93k_m_PzAGSLLrdWIdIKOPqCzbQjZrm4aEcDmPQFbTPVTQVWMKsZHBqbeIK5ydw-mYyDvHSzRCGBvNKCNXuQrViuUr3zCbeQ0RXh9cOP6HdWuARousZgKhL4HoX_vLrEY3NHJMm_PkNmzQZAMuh5LqIxPesTG2pZXipOo2ynO-7L_YWmL99tfG0x94ADPQooDKh",
+   "widthPx": 1440,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Cordova Benites",
+     "uri": "https://maps.google.com/maps/contrib/109394666595261114511",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUObm_QEEJEqmaTTNhBincld0GrY_Va8nyPXE8qzvGLR0lxfmwSPg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAlMaNYmCdhuNgeVQapz1OA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAlMaNYmCdhuNgeVQapz1OA!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMY0kS2dQlWzRpwMk_o5_YB7CKlFmgdOuTINcTlBN7mjUS3t7BFCGs8ih15-hhE19vuRTbJh7-Zz-SY8CZwEVqUziODuyWYxnbMOi-2IIMA5i1ut_1-f_UPsfcdO_kclk01Bi_pRn6SlTJBcy63HTwKBjJtAPL0C1WfHvheI9-xY4Ij8IgDxaq1ESAwOU5pxNM95dmncDai0woIxdRq8Edz6vbAKgN-xGibIbmThmNoi7r8rFuK1WzqfkWdFN4UiOHEePy_a6YTODCiNgOetyptmOV5Du-KOJoP0mw9WiSmupv-LCXwh1U_n7SSte7idFVXaDzKO6PLgDGAgh0KBl_OO-y6qlLjhA7H6HaakvvQjR5abH-u3lU8d4_ucb9WrvXUT2x94qZ86XeF71Tyl1yk4tuaHODoU4DT5OcCduweRLA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcpoaYFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpoaYFg!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMYtZVvYPIUkzTSrzskIQ9ayaPCdzlruSW4e0t3tvBuUOWlp5uyHc6cHR18c8MutIs5dsBtAJp9eEEKadaGA0Rhz0_yCWE-GtCUj-W6K-3IGwvQ86z3gy3VzLbBS69jrazqoWQ3VG-9IRruaNly_DzoVNGiqL-DB2EfuGZWLRODAwY4vJEm6ZlWUaU2F7Y6Vsvcal4ab11C99eHWcGLvf5fRfgFXKLTwtO-4caxjot6QVptngY4frd3W5Zz6No_o3a_D233WGgC3qGQdaO3fDVEoEbD00tnCh4dCOSCEyCSyctxqXMJwQXsD55NRM-geIbVNo4Q2dgaufhU3j-6HxMn5eWPRY073TGXU43WGBz-E2bYCHZjOMaWm2nXZBtwnDv7_qtI58SAFl8kaq-QB3ou0IZnNGNOWNOwza1K0CluhDw",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcpoaYEg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpoaYEg!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMYP1hXlml_7Y6cp4fjXv2xBAIWFmdx4Qztg36N6t587EX_esCUHtcL66KGl1J7d0nJcIJuELGhOy4PNYU8SuhQ6HF0e_DA1520RHjsrNPp6mHKtLs21tOQVhXMD9fKFq4ZUXZLYOkzGDgoKcwRivUH9hvV6wfvb5rR7JA8MOvsmQw_9b2bG4_6SGszCi1Q6LikXf_yuos4Dj2HfpvOu7QnwCJ5v8-ZNEgzwUkZ66LdMhnjCR4T-Ug7XfikMAoUT4JzsSffYbXfuBYbSV17xwmdebolJ6lb1D19mYYj_tZHQg4LV_Gaxr0Sa-mU2IdypurrLxYRYyz00xGVXWYpg3cIa-5Oxp2Rj3g-2LyjDIshVFzmsxMphuIOGOMP0I1OUivpD3_DG-P6Fv8XTKDXNZAlWaRSgwpeiZ1-nnZm9Uz-YnGA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcppqUoQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcppqUoQE!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMant0KvWinr3Hy2EXyrpBIFWOUkfNJEv0nzPCIAbnWN77BqC3_SJNleb5pVF1rRC2OiFmFng13WMGyilCkbEf8hui5_EJMvIy4WMKTU0sZP6uxYnTz0MeWub-40jNTDQkhqpzTlQLGzL8ZT9dxTHB8qDjh58LWifiuQVw0GUEt6fwtrYuQ8DlvyEu9qdqwOAiI_3RP7SsLpI2PX9p2es9_uJTI2T6EcWHiXHLpUn3o1Y3VmYyNq9A4eAfYFLQX1WEEmRq1GclI-ZEP_6xt5T5C-1awt3iJNzzMd_GGAfX6bbcwiA2cNPWNA4gaZvypE87kAoLx6aRga8rCYpP6s7lT0inLNMlCtZ3vBiNdSkeO5B0lw6VqLI-HEdwuIaClZAU0tFbyc9TUE2QpRBJBkyFSPyaT8ZyDxiyodunuqmygV4pn8",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcprqsjAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcprqsjAE!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMaNrKXMqFJSRNEizcQIRsQYJtUpB9gyFOqteKHYPRU7JVASuO74vOoqAGlRww1LBEt9ZZaGHKcdUW63SjGSC8sZRlDZs9BAgIL2kiZgGK7gLzTt8mbY1asQiVNEp0HuA6Eh5wCOoW27g4AAhecs64yHNKIcnISbsDw3arhZtzaj9RCxtwLtG7zCrvsbcCCC8PsyTP-Ah0YdcgEkT47XyYDO1_QWPynptihbUsE5Mo9ptA6lC1HpkzYWFpF4OgFIGs0F9T4c5IAMHWY0SXQL0ubdWBbPkuqUGGOYnESAvEi7q1QNTVDBliEKAVjq4ppOjQi_cDVMFBtL-yvzQmXG89xV8Y2NwYpmt_g3lwgfYAJ_FLZMmWK5xomjcMSZxT4_ghhv0pHOZJhNaRPMyFeyhyjlYVAy2no2Vtj7RQ2j7Lw",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcpoaAaw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpoaAaw!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  },
+  {
+   "name": "places/ChIJ9bV4KgDHBZERXMBq_pKHPY8/photos/Aa-ngMbUEG1fdoJpWNQC-60nTZzWX0BmXtfWNdAR-IixmhRLk1-yLZDyyiTxA-yLi6iiqKb3dSTKXtePuwgy9C3xJFkXMYzQd08qpMoAK7Z1B5IQ_mMvabVHmfAj4Fx7QWArU7v3nmXlDaCqwbnt4ZGNyLi4b0v3WtRQ1VfJLWsA5TKLImICgTth3mSjFxz2V8oy7sSMASIgYCS90_kugUgiKwSg8ax0zpg4nxUodDlOFmEIEoTbJ8m69YPeQEYvNs-IpmlDiy_c0x0VdS5dMxHO8i0H_KAGasGUfs70ihKdpGng72HD1VFLyxzzDIeV1nkQwth37W-kR-2Fo-zViJJTKpIR7WTydVmb16RrM3mLT8JQ8wcFMJhZwhEw1JWu-7CGFSHK_s09HJJzWC8x3xomoR6N5-2o2N5FZag0kwdGP9Y",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Adolfo Flores Valle",
+     "uri": "https://maps.google.com/maps/contrib/108984963612109503334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6wYVQTn0DOa-51Y7VlT2t-BqgTrkSwrUzoHwlIfxJdlecbsfd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcppq3JQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcppq3JQ!2e10!4m2!3m1!1s0x9105c7002a78b5f5:0x8f3d8792fe6ac05c"
+  }
+ ]
+}

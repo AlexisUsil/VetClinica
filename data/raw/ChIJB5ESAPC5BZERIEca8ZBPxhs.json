@@ -1,0 +1,619 @@
+{
+ "id": "ChIJB5ESAPC5BZERIEca8ZBPxhs",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "935 126 981",
+ "internationalPhoneNumber": "+51 935 126 981",
+ "formattedAddress": "Jr. Doña Delmira 400, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "400",
+   "shortText": "400",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Doña Delmira",
+   "shortText": "Jr. Doña Delmira",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Rosales",
+   "shortText": "Los Rosales",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.144746600000001,
+  "longitude": -77.0008154
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=2001374568351680288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 24,
+ "displayName": {
+  "text": "Veterinaria Vet Society",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. Doña Delmira 400, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/reviews/ChdDSUhNMG9nS0VJQ0FnSURWaFpTbHZRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Cinco estrellas para la doctora, muy amable, paciente y cuidadosa en su atención y trato con mi mascota. Muy recomendable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Cinco estrellas para la doctora, muy amable, paciente y cuidadosa en su atención y trato con mi mascota. Muy recomendable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "James Jesús Mariano Zeppilli",
+    "uri": "https://www.google.com/maps/contrib/116302014538834706602/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3AWVqVqu-tCIAhJImP5026GrlSCX4GWotYEGHBEK1_rEkxA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-12-14T04:50:19.421766Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWaFpTbHZRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWaFpTbHZRRRAB!2m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqb0o2UTR3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Personas dedicadas a qué tus mascotas tengan una excelente vida junto a ti, los conocen y ellos van felices a sus baños",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Personas dedicadas a qué tus mascotas tengan una excelente vida junto a ti, los conocen y ellos van felices a sus baños",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Miguel Gutiérrez",
+    "uri": "https://www.google.com/maps/contrib/106846771224125706173/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTx5EdRC4HYko8ywSq64EiE97NDAOlMT8M6Zc6DedRXBo6Sg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-04-16T16:44:59.214011Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqb0o2UTR3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqb0o2UTR3RRAB!2m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1NGI2OU1nEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Un lugar donde se preocupa mucho por la salud de tu engreído, su personal siempre atento y de primera.....!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un lugar donde se preocupa mucho por la salud de tu engreído, su personal siempre atento y de primera.....!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Macsog 75",
+    "uri": "https://www.google.com/maps/contrib/104499630793720869889/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRhkHkxjFk1NyYHkA30lj_XB8mfvzlvy3VuH050RIkYhP3U6c=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-07-30T11:11:40.518861Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1NGI2OU1nEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1NGI2OU1nEAE!2m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsbDRieVhBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "El baño hydra dejo hermosa a mi peludita. Muy recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El baño hydra dejo hermosa a mi peludita. Muy recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mayra Vila",
+    "uri": "https://www.google.com/maps/contrib/106678551011606160990/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVi2yrgJinUrffshb0F7Q5XZBoNroZ9qEd5At8zc7PZ6-c7Pam2LA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-28T16:12:06.989682Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsbDRieVhBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsbDRieVhBEAE!2m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/reviews/ChZDSUhNMG9nS0VJQ0FnSUROeXRLNk9REAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Llevar a mis mascotas ahí fue la salvación, gracias a la dra Claudia y a todo el el equipo de la veterinaria, son los mejores 🤩👏🏻\n⭐️⭐️⭐️⭐️⭐️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevar a mis mascotas ahí fue la salvación, gracias a la dra Claudia y a todo el el equipo de la veterinaria, son los mejores 🤩👏🏻\n⭐️⭐️⭐️⭐️⭐️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Katherine Zapata C.",
+    "uri": "https://www.google.com/maps/contrib/108296070208726069295/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLzOCGmjmUIrMfEGa95kc1rtdX4R96kmP1La43xXI53o3_fPA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-01-21T14:04:58.718908Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUROeXRLNk9REAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUROeXRLNk9REAE!2m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMaap0pfNl0bFTC8DLTresE4tOO7cA9XF_8Z6jX26vIjEjT4R49jloH9Xan2vAbTZAu9a7G3hl3o5eBZqwqOKypnIAEZVQNBB5tJd1IGsE2Ea10aZd60yhs-tCu-O7NKFAzZuL5k5hLPgL84fT120ZjB8TPc6elgLpQXKPrjGnDBEWajCM6lY4eqoRX9Cip_Uu-K9yshisaoLdMHvlk0GVp6yIHMukRgff2G6tDA5an1psTAJ8FZXuYsfFtU7cUR8Zvobcp2ItaXwqrDbFuG4byltlI4-y1OsYg47-wN-78LowO6TC0JakmY90cAGl1EwcLEgV-FCty4otiblfpQaCDscAR9txuqQDwCeDZSP-8b3A4QEoz5s99sDfPVpmzG9vBCQl-OqlUrBnSanmEYn2pOyZI",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/109840011223750905718",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfnzEKxzvgYlsJUUEQ_ozVJDVXChI8eBWpbyEW4HNJpKCK_7c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzppvfNQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzppvfNQ!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMYgI-WPuaFK5iy0KBhK549m6lL-fHguLrRwt_aL7APMQX1QCHUz6f5wB0xtdfseu4NeuxkTIP7Zxnj7iH_ExfL20Kc0wqAeXvMY1CwPPxpT6bwFcvCfjXalpf5QP_qHKwX0_CNimtejlCQzVPpJuLw7OCUG9rxQIt0I6VNmjg83djy-7HMx5oMdYdQYU-osi8zvyD8yAm29JmgsPh5jo52GFXPyfEKmfCgwDfntjDLPLc1p1c-bNHFZgDAT3bsjOQIXJ0X2Z9RNvdAWpe6CowaO8nwZe9XJc2W_VYlbEwSN5zcoZ5kmUsValpGgbAPTqTdqsNSFbuaBlO_7P37bcAUzr1DG3erERCDJclRItTvDH6VC1GRDQPHfaD6OC0-CNvLggYV7sKYbl-6erDYA14omCCmT_H0",
+   "widthPx": 1065,
+   "heightPx": 1022,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDNh4zs_gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNh4zs_gE!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMbt6vQUGc38oL1hz4eSKzxsAsPqN1Z3UiwddOAZosONFZt22EK12pHKqissaO3UgTVhw99xlfYcxZHOHGxn0kG0vLOeZXn04xlTnXAJeWJwUqvFYP2BRxBXucqBOa1fSermE2if8YjxSorV7dR4wK5aAHZQHSwpIniGCL424emnYj5hueFwo8vKSTydK30ENRcpzBhT7_kgYcBhxBJGb-OnUwXLesEfz7AzWFpJTamDYZuHE11cf3yez2Qdp29SegMUag6eNZOqFrPdrz5mtDSpxwLc6oLBJdChUoHnrzJhqNXG-135ZdbBNMQaiQmGXR8pYpcH8Of4GAeNSQ3xHnZzlCmh4hlWG3ypm2mtYqU1PUwUkFnjMzrEdoJk5fuqsc7re7hXa3cxznBTdiTkhkYb_Ds",
+   "widthPx": 1028,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhzsbCaQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhzsbCaQ!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMZrK02VcwsYz1qRHFMRlW1__8kj5NEXHeQaWGP9-DlnS1G6zDLd-O4qKVOLQ2nn9_N--8I-oT7nDZ6swQSIkRmcXBi7BLy1IDibUClfXhcmZ2kE0Ydww4721w4KNbm_wu8IYhESZiJNnTpFEcMfT394o0hfoaD6b7hxiUCeW8HmZ9rvRSJUOYbBlpcvzaQDNMsoL4xWYLwOhTCQqT3ZqfyQ5JCQ0-Pt_R3KAxgwszMiuKzLQRQfsITJQhwFEC2lEOkkHeHgO3Iv0lU4J945s_aQxruI1b3qDlsvipQqSbHN8_-dqrBeG-HTKLQ6BKxZNBjMsL-BQx95cQ916uPpCEosoCbkwpAsBQgS_vbenDtVsQPSMVy-jLsnNQ0pMwZmQS0bDPUURShH7o7P_gz3_fTWVeMHH8M",
+   "widthPx": 1152,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICx6fGrvgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx6fGrvgE!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMZx8VSs1CXCHmBVcsQp6_EYsQpWs-yKPreJyVPSfpfpkJcg8JBLHZWiZitWhLC4GKxbKX9wbNlePt6V-waBjB3jJdIE9OoC-ePYV44kxlmPE4OAqoM3bBdDiNNtG1aTkCVFc0EpQCu1A11iCy9yV3BH57MFbewmrgteP62TPpd0GROkPlutYdLCcMztzrL_sO7sI42iFCGKEeLM8EJrfPioQt4zle3AgcO9u7g_5o02EWMw-lkxyL2O2WkYUGcu6jJH4WDEzhZZzMch5z6WcOGfmCmIpz6Hqf-PmYvLlP6bPvzaIS8QKnTV40tBegJBbOiO12S9a3pAsw7MjJUUGer7YBueaIzEoZZsriXTI_Sb7RvTKhl94ThEB6XyrBCaJeUSmqmBWk7QewB2fLO0V4gZzgg",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpyMy1CQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpyMy1CQ!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMYCWvCHtYxsHCTo8G0aWlbM2obnfZvTL8fbGGKbjvsvf4Dscns1XNjNFWInHyXlxRXg6LYufvOl0aG0_PeDEtYleiwIiwr_oRp2ug5VyxV1SBrgNz5Aae2xT-XdFYFfSLLZ8CiBFfVOM8deZ2Ef910NkAVOtPu5WBva6uM5geLpFekh4ea2LZne8DJk3uDyicTsD1oDjIDTqs90XpGJG4r1Bo2uPyl3Egq3Iq5qyb4ND9z711NJ8_CFvo_YI0QVYq7Vue5ll5PWI9VsOjqtTpE3sQYNgBEE9UxBtwM963vSmyfWWsABz0-uVXwSv5CE9Az6y-Apjf-m9Pi2owO_o26wny8LlnhkSfhBkd_5a4P6d79ROH_9u4x5J6O9paNX4clAeEYJKohs0fTdL8loYJtE55ECKSyrlK6QaRQQzf4fdw",
+   "widthPx": 1314,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCII_kEOxT6_AQWpTf4LepU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCII_kEOxT6_AQWpTf4LepU!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMYI_AIHIEQi2-6bpZS04XhWrf3gvAAAguHnQvvcGUczHegsBVtGabQKyWgabIhH7-h0uYHQdDl6zZ3WbS7CLGw8Z4akCJYJGbKAn-C7oADVwCXtLRi1iQ83obIvCPtagh6os1ShbcBEP-KFg7OMmFjNrtWYtuRpilv7j1to8VGJemb8YtYkYcJyoJW5r7ah0yIE_l7uSzgMEbou3TW_QiDYRM6MCZY4jjWOeEScZ_QXmCddgVG9NwXhsr1P5QSKKHEoXgcw3KpUIo9bF8fD4D78me8a8DVX_b4blSmgQh0pSLtkI8qfR3_qH49-6a8krFIeGE-t-67ujoN7V8NbnPW6jc0cwDRUgI52_iWWwp9omYtvHZKVANzWkS1DK1icbQCgoU0E-ZWNKRe5Htau-0LU0WvCnGWJwn278Mze8Y9jtw",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCQ20nPrJFNHCtrjnFL6zDf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQ20nPrJFNHCtrjnFL6zDf!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMaES2lGyrDb_q21QCxqxDWAxWNEY2G861qW5tWINDYHSiP_XhNBCYJuouHOtWm3Z1V-OeMrcfOkh5GEh0D3tEzJhGou5TODu0F0OluQhkZZqk9wpEqA_YeA3heB1lhjIQWvOsk_ghyZlu5ZOTPgRodl-NO9XmIZt0fvrNyVEUKBHQO6ukgJKS4tWWNMuMBLmlrSu6pkMEzJIg5B6sYvxv3CvAeWhfYkUYvV0Chlc5zGCbk7MOMMoZxjRJLI6GpUn332OzTzKsK3v5Acx8v9l4L7utOZOi62_haY5QX9ayEGFhyV30m8JXtttMJFzrSZKPleA2JO7yodtZaiVplbMP6BTzhbb1s4JwCVNfGNahuoh5BLKYDAYjsWEkRsc-899kVNW4Gnp8qIUDFCbtcdDB0B3OE",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCzb2sVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCzb2sVg!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMZpFiUAEgwhVt9YF-n0cxyTQNbX1G-We_YOYLnsnliIUN2mCViAEzpjZC9Kt2nWVC9_sD55ovlbiPcDhKZI6StWKDmVNSbmJ2ZqOhge9xiRFgQTqhnPuL2fEoq8UZKgQ1o9I_H1f6CxxXynhMKLM_rLWHCazkiQ39OpvWDdviNoDAYrCRUlmmOBsm2TC8Zavch9YOpDhtaxpt93_1_odbn0yJTi0hjDws-jKyuZ1cTkNIK-1ipBxh0Yb2jYa1GmO9FLl-0ZeWNWH1UW7J8XLA-FWLw5mLUwxwduPFZv2ndAvr0xfw6pN5VHA8uG4LdVinS_M0uZtgvw6l1lW2EQiHcOlnsJTAZKJJfgQOPeGGM-444ym63SkTYanT_RDY0nRqeCiYXtkKsTtl1_JDw9bU6hvFnCQOI",
+   "widthPx": 746,
+   "heightPx": 420,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa3rnlwAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa3rnlwAE!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  },
+  {
+   "name": "places/ChIJB5ESAPC5BZERIEca8ZBPxhs/photos/Aa-ngMZv5QshxuUm8bfdPY5AtwvNEIdWhmlpugxms7lOeBGbiLXK86kSpiAG7jkT0WaCZpPMrXmZkoTzSo0cvN4GWrKLeiAbaxuAl4dFhTxKpK3fOis55KCmjRs3h7byOg-scv6S81qYe_HfdqgpX1DPyNpG9dov3V58i9r2l04JcekaghHCIK8y9eqVzpC8RYZQY2egqlnT3TZPWn7llvL1NQW7j0n036jUiPvIavjRBnu1JtbMWDGHWbk3pF5Y1-NXu4ZKoZYrq9ZkNRL2IG26dhxYHHxTrh8o3_Q8jlFyJ1KLaEVJt4vsiY5Yk64Cbz-GBJrvdt94cUvSGDULp3nO-Prs-bxXo8rwiIz4WhWjHyZPZQhSzhecPIAKE1jvhK5hgE89uC89TVQb3gUYUrhDfWvBc06VHUmJyMN1ru7F-QnSlg",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet Society",
+     "uri": "https://maps.google.com/maps/contrib/116886580010857039646",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAr1uJ-S6GCWhHScuW18pagYOWszY5zk3w4fKIzoZfHPHlunCr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC_BImCGdxEPOWADKBR520f&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC_BImCGdxEPOWADKBR520f!2e10!4m2!3m1!1s0x9105b9f000129107:0x1bc64f90f11a4720"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

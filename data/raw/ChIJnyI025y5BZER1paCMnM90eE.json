@@ -1,0 +1,633 @@
+{
+ "id": "ChIJnyI025y5BZER1paCMnM90eE",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "904 770 924",
+ "internationalPhoneNumber": "+51 904 770 924",
+ "formattedAddress": "lote 6, Jirón Vista Alegre Mz. A, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "lote 6",
+   "shortText": "lote 6",
+   "types": [
+    "subpremise"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mz. A",
+   "shortText": "Mz. A",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Vista Alegre",
+   "shortText": "Jirón Vista Alegre",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Villa Alegre",
+   "shortText": "Villa Alegre",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1658586,
+  "longitude": -76.9913321
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=16271854493644265174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://api.whatsapp.com/send?phone=51904770924",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 12,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–22:00",
+   "martes: 10:00–22:00",
+   "miércoles: 10:00–22:00",
+   "jueves: 10:00–22:00",
+   "viernes: 10:00–22:00",
+   "sábado: 10:00–22:00",
+   "domingo: 12:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-24T03:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 17,
+ "displayName": {
+  "text": "Clinica veterinaria Salvador Vet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 12,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–22:00",
+   "martes: 10:00–22:00",
+   "miércoles: 10:00–22:00",
+   "jueves: 10:00–22:00",
+   "viernes: 10:00–22:00",
+   "sábado: 10:00–22:00",
+   "domingo: 12:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-24T03:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Vista Alegre Mz. A, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tabFZIQlpVVnA1VUU1YVdHaFlWblk0ZFdFd1RIYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "En Salvador Vet encontré la atención que siempre buscaba, buen trato con Vitto, seguimiento real y la atención de calidad.\nMe gusta mucho que él ya no tenga miedo a entrar a una veterinaria porque se siente súper cómodo.\nLa doctora tiene una paciencia y sobre todo te explica cada procedimiento que hacen a tu mascota. Recomiendo mucho la vet!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En Salvador Vet encontré la atención que siempre buscaba, buen trato con Vitto, seguimiento real y la atención de calidad.\nMe gusta mucho que él ya no tenga miedo a entrar a una veterinaria porque se siente súper cómodo.\nLa doctora tiene una paciencia y sobre todo te explica cada procedimiento que hacen a tu mascota. Recomiendo mucho la vet!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ana Lozano",
+    "uri": "https://www.google.com/maps/contrib/109369993340319447647/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVieWtuRqEijWbJkQlW8VF74LH3bpqxknQX03VejH0eOfIf4CCa=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-10T01:21:30.948846866Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tabFZIQlpVVnA1VUU1YVdHaFlWblk0ZFdFd1RIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tabFZIQlpVVnA1VUU1YVdHaFlWblk0ZFdFd1RIYxAB!2m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOYVgyVkpaRlJoVDA5cmNFUlNNRlJGZDBWVGFWRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi perrito se atiende ahi, ya que la atención es muy buena, te explican a detalle, son muy pacientes con las mascotitas, asi que sí lo recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi perrito se atiende ahi, ya que la atención es muy buena, te explican a detalle, son muy pacientes con las mascotitas, asi que sí lo recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Susana Santi de la Cruz",
+    "uri": "https://www.google.com/maps/contrib/115783062266328676857/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAa1N0LTB58GQmNWXjpJ60tKbPKnIq9p4V_6VhwfdYl-8C9g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-30T02:12:05.831197155Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOYVgyVkpaRlJoVDA5cmNFUlNNRlJGZDBWVGFWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOYVgyVkpaRlJoVDA5cmNFUlNNRlJGZDBWVGFWRRAB!2m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWNlkwbzVWVzlwYjI1Nk0wdGhhWFI2U2tOTFgzYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y atención. Desde que llegué me trataron con mucha amabilidad y profesionalismo. Respondieron todas mis dudas, explicaron cada procedimiento con claridad y se notaba que realmente se preocupan por el bienestar de las mascotas. El lugar es limpio, organizado y brinda mucha confianza. Mi experiencia fue muy buena y definitivamente lo recomendaría.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y atención. Desde que llegué me trataron con mucha amabilidad y profesionalismo. Respondieron todas mis dudas, explicaron cada procedimiento con claridad y se notaba que realmente se preocupan por el bienestar de las mascotas. El lugar es limpio, organizado y brinda mucha confianza. Mi experiencia fue muy buena y definitivamente lo recomendaría.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adrian Escate",
+    "uri": "https://www.google.com/maps/contrib/105773874047983909280/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRX7h0Z7icuowsKsZy5Ob8ZXvc83UKwlANygkRqCJ4h1lH6Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-20T22:28:09.668394696Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWNlkwbzVWVzlwYjI1Nk0wdGhhWFI2U2tOTFgzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWNlkwbzVWVzlwYjI1Nk0wdGhhWFI2U2tOTFgzYxAB!2m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNmJsVXlTaTFyUVc5RlducGhaMEpuWVU1dWMyYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio. A mi perrita Bailey siempre la atienden con mucha paciencia y cuidado en su baño y corte, algo que agradezco mucho porque ella es muy nerviosa.\n\nRecientemente estuvo delicada de salud y me dio mucha tranquilidad que la veterinaria sea tan completa: obtuvieron los resultados de sus análisis en pocas horas, lo que permitió iniciar el tratamiento de inmediato. Tienen instalaciones excelentes con áreas separadas para aplicar sueros y vitaminas; además, me enviaban videos cada vez que los pedía para ver cómo seguía durante sus procedimientos. Ver a Bailey sonreír y caminar de nuevo no tiene precio. ¡Muchas gracias al doctor por sus indicaciones y por salvar a mi pequeña!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio. A mi perrita Bailey siempre la atienden con mucha paciencia y cuidado en su baño y corte, algo que agradezco mucho porque ella es muy nerviosa.\n\nRecientemente estuvo delicada de salud y me dio mucha tranquilidad que la veterinaria sea tan completa: obtuvieron los resultados de sus análisis en pocas horas, lo que permitió iniciar el tratamiento de inmediato. Tienen instalaciones excelentes con áreas separadas para aplicar sueros y vitaminas; además, me enviaban videos cada vez que los pedía para ver cómo seguía durante sus procedimientos. Ver a Bailey sonreír y caminar de nuevo no tiene precio. ¡Muchas gracias al doctor por sus indicaciones y por salvar a mi pequeña!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yamille Castañeda Daga",
+    "uri": "https://www.google.com/maps/contrib/104231540311255637459/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaP24prW81xYY6RYbo61ivFp7fKRP-RD8fKfeWtXSdBmwITdyc=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-23T15:00:21.274670334Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CNmJsVXlTaTFyUVc5RlducGhaMEpuWVU1dWMyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNmJsVXlTaTFyUVc5RlducGhaMEpuWVU1dWMyYxAB!2m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sU1pFVlllVGsxZEdnMWFqRlFhbG94ZG14VlQxRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención en Salvador Vet. El equipo es súper profesional, pacientes y muy cariñosos con las mascotas. Explican todo con claridad, trabajan con mucho cuidado y realmente se nota que aman lo que hacen. Mi engreído siempre sale limpio, feliz y bien atendido. Súper recomendados para baños, consultas y emergencias.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención en Salvador Vet. El equipo es súper profesional, pacientes y muy cariñosos con las mascotas. Explican todo con claridad, trabajan con mucho cuidado y realmente se nota que aman lo que hacen. Mi engreído siempre sale limpio, feliz y bien atendido. Súper recomendados para baños, consultas y emergencias.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Areli Gimena Espichan",
+    "uri": "https://www.google.com/maps/contrib/113444507994077170598/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKp9TiCB4hawx0m02ai3BAqXx-4MIWAAMN9YGDC0WRwa4aoRbw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-20T22:46:45.632464821Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sU1pFVlllVGsxZEdnMWFqRlFhbG94ZG14VlQxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sU1pFVlllVGsxZEdnMWFqRlFhbG94ZG14VlQxRRAB!2m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMYwJaEJrTxL4-9rpPl3L3q1UQRJD44n4bbqdsfFrlRIU0MkZusvC0-KWFs2vnvJXcIYAS3JSYVSVy77U4VDbHUI8oB9tFVR1ucB-WUcYOdPFoKR9Qv-vbu_p0K2JsK2QSq4e_mIQB3V6GtxdwERI8BIaa8lYgZIdOdI0k9DyQhADw5hlckQUtl9nFdgLzNz9rPsE7jWUVaKVM_a6lDI3tj-7Zud3THgXga-hLFT8LwcaypVRPQEEUolMBylWCCpEZGxgwQ95gWyh3Sn4ysLslk3FRM11UwTauTNJ4D_C01zF7ju6KAhiT5QNL1nwXagvMNy2FppRs9A_g2BV_r0xse5ULFwmZVQxjAdODQ99cY9aTq0GnnAIhIr5dgeN3EcGb399h7sJr_w-_uH83frdI4SrFDKx2NUJR7eKC5Hv_6_0VVP05AfgC6-f-IuUw",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBmngsoQZrv_Ayz_2R62Tc2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBmngsoQZrv_Ayz_2R62Tc2!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMZDjyyTdDFGwv_yR3EzXAl71M76W3Z-Q3RoPNo5YrzemBTv_5W383iZ8f1X7zWDALuAkcMqis1rNCYaWsLT2SSk-R_DdWezxUgbB-PGHLiK8Fo0N-MN3akEKRPH0EbYeIRWInN5379YFK_B1qS5cOxQZM12g0MEcZk2r15bOcNSClCBn5uzmPJcUZmgcT0S_wkCM5zn7aNbMhxQnmpUHDA0KjenHiTf4uFCAyZPE_-W_NgginAwzzmrFcW7OYhIXQNPkpMfF-zZcqn2nfcbNe6lsZeZ9mjmHHDoHDEEWTMOxxBq9-R5GQUwJkkPjQWeP-Y-vdqkWJCeALj7iaWgTS9IdkdJPueVq31stwQpbMZGcYSZrGCvK8vsjWeby47MEFhV4hSkUaOeZmO6Q-0aNJY5pkvu-XG9azHmo395HTmPKqUwQZZQbAv_fV6LJ166",
+   "widthPx": 1041,
+   "heightPx": 1339,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCn_kWvV8vcr0g52umOgR2v&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCn_kWvV8vcr0g52umOgR2v!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMYmk6lw4ZP0oWUcla10LnZSKmWP948y3KXmBiWP-AWJYywp_WRRvJE4f_n-XLX3R3QZNbtp_NBJT7quqa3GF6gaazkzKYIdQ_QYtt4buEdsPUm6K5l377tcYkU8i2bCMlx48hZH1wd1NP-eeZsSZUPDhUv3lcdwU5yhQLZY-3wQ4c14WEDR4k1fDMDDRDkVELHe39OVSCJsdMmY1PvqmdZmGsdPAwqFpeQOl55koOnd1Fv0kYCbz6lYyOf7dXaur1gIxPnQ5xs7u07cat4lBb3x-vtR94zr2Oi8RZmuftT_jIw05wpSk8zy2Bcus-qT3jOH8Y5k6q6eA9cj6AD9KpfpvwUUYqFBQLHSi2btzIm8NrrzeRg3cUepu_lN56t5OMkyjBbl9YKLJsjB49zfmzolPrgtGc4tY9JHtH3Oj-OvSchLFUF2Px2d5SDYiQ",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBcneG_bWblJQFpvEw9yXjE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBcneG_bWblJQFpvEw9yXjE!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMZS-MpP99QXtp6BJ8i-6ZEOQMbIXUvXczq5uHMQAltMBnn8QbG6tlXH87qaNONrAgnZ-GRX4-SsOf3gTh7fZDSEU3kPJoU2RgNcenXKqExZg5QmeaO5StkNJ6VjPSGcrmHWWAxA9AKoX6S4vqf6F0CU0YU9LLeHJO6EiI8N_sV0K-vBu0mO7OrJE_ErHS31qc0ucpGctoAelc5Z0bgqWna3up80OaJuNHdPoMaprgPjWdVJkt1tLPz8d01icyYGr65FTwrFHhh5D9j60PFRf7SvWbMb7D2yjeTQXB5ikJXr7BzLRObuxT_JumePDhnkMB0oyWriKW10Vpw9X8bANXmc896p18cgJpA-YBySxOcOXl54oSxOEUNtlj9tSnB42_cCLyic40Feo1YKYekG2HHI2lthA6o_wxknsFICoXqkIks3Egm7F7mr02Mf91sc",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBoeZt2wQzvGRRvvc7MHQcZ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBoeZt2wQzvGRRvvc7MHQcZ!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMa2vQEaxN5D4ygFsU5s0DYPBOilOioUTfsfE0RqXRLuXH8_lAu4da4acV876SFd_EVcFoQZPntPJgpW9JN5lsKCpAQmRorhMQYI9PqBFhO25vvQILu2OS23RG04aahoqDHix-LX1CgJW8jb3RWJyRPG9MW774tCIAdvbvH9gT5fwKF1zjBxkK6zbUQnH_hMZb5BcjxnZpiXEwTu1dSjxHiDxLeAGjv-PGOchvsjS3rOKlu5umFsy47Rgt1N4nB0B9D7dskU_qcwQF6XkcQ7wk89jhlR0p6a486pnisKn0y3pClJ3zn5_7zTCl72KBfih3wEPK1qW62ZbPXdT236JWXue8HLVYZtCNk-wOmMoJOWijI7_15LI7SBRIKa0HtrLd6znQpyFtJF6HLy_FokbBI6TN43LTITCh8uW1qtz4eUFTQb4uoRTUfSdkkkNGKt",
+   "widthPx": 4000,
+   "heightPx": 1800,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAsvZKgM1zbGTy4IKQZP_eU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAsvZKgM1zbGTy4IKQZP_eU!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMYtQuyHcFKAE-bvplZKd2HeGl_5h-kooUFYO0i04bFLePqNi9lFeTCCadro2-cUfJOcyW6Rp8nwildUdey4i1p4C8Er9mgSpaqvaYYXC6XxeKNvedWAD6xTuUWYlBvjOmspUXnTCvtp7QVu4v330NHELEuOF96UnC0fFT8U1dIKvqyuiG6trYkGN4O6EC68OS3KcY6_yL1SySgKr0-t6bsxWpstuXB6nJF9ogy5fcVVEbedGXIv4NySABZdPzi01ohTafV_aZ9vAtccdvI9DgCZBdwEf7YpGBWPx0oXP_xppiHwTohlaxrFal2SIVcbfgKu5LqR2Ax1DY6nTBUtpkHoNvZwAq8U73X_hLfcrZXAKYjFcJ37up8UUbjBXc4BuRC1fhUsAHouoWxhRXUkq428HxphX8dxLwRx3Lxj597Pdei7nbhHM8Zg9r8h_Bzo",
+   "widthPx": 1944,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBEqHXO3aKUQGsrQoamE5ek&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBEqHXO3aKUQGsrQoamE5ek!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMantvaIyysqNLQCk9Q1rrp3NF4WqOiPy71eCWUAI7Ui9UZcqR7terk5yJHERjd9etopSTdxYHwPSP73snpe6yjm38n6MOm0FcynyS7hXzcCuWxlUTuZr8fJ0vfk3-S6y5U7qmsbJH5KEWTTdUh30NpEWPAooI4nDWUYv2iHJWTd-znfptuAC06BauZjnlArP-qdmSUWFQ7aMMg16e5dPN7vJcPWSIilMQuprp2NwcvYrFPzffYvEiPAW3xo9m8dzeaAgKvJjQCY5MW3eSK574k5ZAexfP42920knMFXpiiGu2pVNWKfDHnlUBvJ2cYgqrINihqjeKV_23mahBwc3cJr9-rgOc5YDDC5gBDqw4LQZn5WpND6hPVf4FQ4j98q6rec8q6x9DNHWF1wkRXBOunM60zqOoUbtXF9EXWbm2XRRdp11QufM6KiI_BZVjYI",
+   "widthPx": 740,
+   "heightPx": 415,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD8zlW3nFBT994UO9zkfGVP&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8zlW3nFBT994UO9zkfGVP!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMbuvbGzvS1E-Ddhn_P7CjmdNlZo766H06gCfqJ2R1C3tcc42qdRvHjqc4Ff1mMNld-WYYjn_F9FZ6GVy5KUrhXmhs3FC85Gvu1XxZcr61V1gy4n0w92NqgoJh06v5_lBBUSoZ7B-o0fFHcTQaoXCqLLJpfOhYyRU_6C1wDSNSOs9fhPrboALdFwKZ4HiZZtCLmHezE203IJx0z4mB8fIosKVuQrCRtrMwV7s6OCM1FIyyOROKd7UOYZfVkUxtyBpalgEEZuY8s5agbDCSBa2Ogn6-Qxz4IXG51Fp1aOIyMpf0vtlMpQwklkMbte4Lx5ZTQzNKODHA0rQm_vxaMe-Mrobvis3UGfgWZOyxACfnS6op_8gVnEM9pCvqo855jZnGjTt09U7Um5j1SvRHyOUogj-nLWODC6-k8JBqkWei2D85HHUJ-d1rljoN4ShicP",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCQCTVrESleR_a9blzNyNw3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCQCTVrESleR_a9blzNyNw3!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMZ30opTmalgSKQdXSpXRSQd9oE-JiMvxgOcS0ry_L8PIB8LH7c_tkCYRgMLrIN-ihFTjfGsz2NYXjfUCf3u5oQtBqefe1lJT9qiJ6i1fOTskKuCYnAtFd6NKV8aWtzubpmtM0yP-JJsDJHXjdFr98OKZKky3qBD6PujI-2s__XO4maXMphWBlXF-jkI7pLkvxqqo0XHuwXPWDl-TOnRSS7HQ2KRkSo3ehNcmSefLB6r3Ylaouo2IBw4WOMM5Kz_lHEI2kXpDOJfRpHhYKyZE6EbtotEsyj3I7tqQeHgteDa0-lM6ChF6PBdsyTOtvuYzJOcq7bpwpMC2x8DWMf32V2nO_tYDfLHrmiBBX1De7DkGtFtlX1s0sUi7h17lDYe--qrBl9HKsFCSlGDem86YHEHDWGBSyKOw756F2Lw28YI8UStTywZhUeBuNU6SF9N",
+   "widthPx": 2592,
+   "heightPx": 1944,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDytlHh6GEMXo88Q-i-LgeA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDytlHh6GEMXo88Q-i-LgeA!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  },
+  {
+   "name": "places/ChIJnyI025y5BZER1paCMnM90eE/photos/Aa-ngMbr_h1e9sXDJ5MkEWh46yrNQoo7iqKBINCFC9KJCSkLGuK_9sK2ab4rI9XyjnAudUSHy-bHXVFk-468mRt0XOxJE-X9BQtSeu8b0JosDXWihaE6lupacHeWEt28DS-yZaP-Ui6ng4Uc9-eJiDNHMYlPjw7BwgsZZc2q3T_S8LZ-xxA20njbdijS2PjK85At1mNsTe_c3g6onWhd65CzZlOX91mE_DmIS9uxNuiEOWFTEsvv64AlaW48u5H8K8NbczQfqOTZErY6lzu0T_uEk9bxUHxymZkxY4fkn__sDzA2z-rCVytXIZA0ZqjHCl7pTojmHoDEqGKNsYodfc5ztId9mIw6eSYPFjbmlHh7MyJgKcahNVUbhk9IvZtRTYMZQVqGMvhIHmybR4k5P4RIDb901A6NpxSnjLjijN0_D_xvH3DIXdS7eJxF7kXB05hG",
+   "widthPx": 1476,
+   "heightPx": 3280,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica veterinaria Salvador Vet",
+     "uri": "https://maps.google.com/maps/contrib/113377208286762701485",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUg85cUd48NrVTXKyZxDNrcSoeOIFAcTSV1nhuQJQU9KvLpA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCAAstp9lQVCiPE48hGhlae&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCAAstp9lQVCiPE48hGhlae!2e10!4m2!3m1!1s0x9105b99cdb34229f:0xe1d13d73328296d6"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

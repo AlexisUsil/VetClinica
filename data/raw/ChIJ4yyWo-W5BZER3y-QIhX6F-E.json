@@ -1,0 +1,590 @@
+{
+ "id": "ChIJ4yyWo-W5BZER3y-QIhX6F-E",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "983 560 141",
+ "internationalPhoneNumber": "+51 983 560 141",
+ "formattedAddress": "Jr. San Juan 600, Santiago de Surco 15049",
+ "addressComponents": [
+  {
+   "longText": "600",
+   "shortText": "600",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón San Juan",
+   "shortText": "Jr. San Juan",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "A.h la Huaca",
+   "shortText": "A.h la Huaca",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15049",
+   "shortText": "15049",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.146026599999999,
+  "longitude": -77.00043040000001
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=16219707551679262687&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/dogtor_mushu_veterinaria/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 23,
+ "displayName": {
+  "text": "Veterinaria Dogtor Mushu",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. San Juan 600, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMVJFdEJWRkJaVFdKR2FrUlpVRUpxUWtGMFdsRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, muy amables con mis mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, muy amables con mis mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ariel RO",
+    "uri": "https://www.google.com/maps/contrib/106898975797222123729/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1xxCCWUIPUl7pDzGOijJeh1FRJ0dfv2aGEun49R0urPU6IQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-15T21:45:25.612066026Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNMVJFdEJWRkJaVFdKR2FrUlpVRUpxUWtGMFdsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMVJFdEJWRkJaVFdKR2FrUlpVRUpxUWtGMFdsRRAB!2m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMVkyOWhZVlkxY1ZocmEzVmZXRkp4VjJjdE1VRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio de baño y atención. Dusky vuelve a casa linda y feliz.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio de baño y atención. Dusky vuelve a casa linda y feliz.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Brenda Huamani",
+    "uri": "https://www.google.com/maps/contrib/117309236111394718533/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXxc6ENxpE0uBTf3IoOy6SkelveB1O0tP8HFFOTL0c-rw7JDZ6Uw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-08-24T16:28:49.448129686Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMVkyOWhZVlkxY1ZocmEzVmZXRkp4VjJjdE1VRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMVkyOWhZVlkxY1ZocmEzVmZXRkp4VjJjdE1VRRAB!2m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWFVtbDVjM2h5TTJKdlZrTnRWVXR4Vm1RNGFHYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención a mi Cookie, tienen recojo a domicilio que facilita mucho. ☺️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención a mi Cookie, tienen recojo a domicilio que facilita mucho. ☺️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Antonio",
+    "uri": "https://www.google.com/maps/contrib/118270941487035788170/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXqOzD3oYRHRkl1HOEyRsON7Av1K9Vccflx3pmo3dL8RwaNPpH2A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-19T17:26:00.076699963Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWFVtbDVjM2h5TTJKdlZrTnRWVXR4Vm1RNGFHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWFVtbDVjM2h5TTJKdlZrTnRWVXR4Vm1RNGFHYxAB!2m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kR1puUlNUelJKZURoa2JEVjBhbWcyYWs1eGVWRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente, llevo a mis 3 mascotas y muy contenta con su servicio y trato hacia ellas, muy completo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente, llevo a mis 3 mascotas y muy contenta con su servicio y trato hacia ellas, muy completo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cecilia Medina",
+    "uri": "https://www.google.com/maps/contrib/107121704850356645551/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUG6QPey5I3maNP1TnmpIHKeDtQpRG0qfv4wPYaJlZbyjOI10Qx=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-03T20:35:25.319445789Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kR1puUlNUelJKZURoa2JEVjBhbWcyYWs1eGVWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kR1puUlNUelJKZURoa2JEVjBhbWcyYWs1eGVWRRAB!2m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/reviews/ChZDSUhNMG9nS0VOandtWXJSaGVtYUZREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Realmente un muy buen servicio y atención amable. Recomendable en todo sentido y bien organizada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Realmente un muy buen servicio y atención amable. Recomendable en todo sentido y bien organizada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ANTONIO ALONSO ROSAS CARRASCO",
+    "uri": "https://www.google.com/maps/contrib/102587221217270950488/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-AQ8aYnukec84EHCHL5PB_wOv9eiC1Mrhk7Hd6M2jRJ0o0Loz=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-19T22:31:32.286291Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VOandtWXJSaGVtYUZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOandtWXJSaGVtYUZREAE!2m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMYXo_tQ57kFjP6nBCAuPL7mwQlG6ytPMujM2SoSh_x6SIi9jSHn6J4dTZnl5Slz41PnfvPdt9jhv8UVHhNsTH33oBYVF7NEHHifiTEM3HYuciaXz1JElrtvMGczmz642OzPO-qFbPj10rbzx_9Hs8KQEJwjAUTVkMRQR760UXvKnrBquJ8jNeMzEHvexRNDZ0ckU0qav5dvV9CNGgpeaOZGr0w2m2dm61muj_qcH-UTFqMe76SDztOEhLa6qmZA6jJ0mMb6KamnhMyzVvHl3Zl0V4CzEq2Nm0h5ydMp7ohk9k8VS3Obo6ki8m5EfTPKhDwtuDJ7tTCsXSaD7ui7uM0eOg-MT_pRmW-RBqEYen1xib9EtMQCe5C031ogY2-cbDXZ2t6ALqIUBZXsQAryjkOvkIDG-HH6axCyZKZqwXiUWAI-dysHfMQychfr4g",
+   "widthPx": 1127,
+   "heightPx": 1507,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/116843634362758755649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXeocpKQRQRpm8q1y0GcfU52Gy4HT97kSWuMHXAi3OkfxZDMs9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBiWiG8FcX1KL4wiPZtsGI9&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBiWiG8FcX1KL4wiPZtsGI9!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMb0BKAp3V_sWXMGBVNf43TmWRh61NAlJv0pXqQ-P2GZPa_iykr8khCdteXVey1_Wv0WgICVhfsrUM0-SbK-I2Dx4oQWaC-_VS-Us33i4I9E8cM7w8iwiq4UNJUxN2uTXzUWFziU5JwRstECjDraflvRvtgDESpcIKsGN6ctAh1P-YpfDZPQ3AX7czSkYwWFywkWVwgyYJLwh0GLgNS2He0oGy8sK9pa3sN0yGES7Zi2R4ovBaZMpQco-LH748v1yUYCq6oNPlzMzGNKZ7hodS_TKQU13H1bLKdhGCjSr_NRhD8tmYObbT1VqWNpiW7f8KGX_ZO7V7YGKckukPLzf1FSJ1uCdEJceCsVXiPO5MNwFn8u46OqCoa028nVQfltOjjNBZUMmp9xauzEpJPDPy8Ll-tCrVefMZZ2cYHSiPM",
+   "widthPx": 1490,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Dogtor Mushu",
+     "uri": "https://maps.google.com/maps/contrib/118074738351339008892",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrgy-idt9c-YdEWIqGOzJQ9qoMKjGvdn-aH-u_OJltg4pEzA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7m8miRQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7m8miRQ!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMYcZQ-zrYLp3ePgxtmvm9SPCYJkY_MceOqViPSq30f9Su5Pzz4YOmLZ2hT2YjD13Gpjrlj4t7c0ecT2nZB4H2ODSGUNvFWA-EOPa6Y2fLkuh0jHxMgATDP70fUrsJgqwh7b0qtWT9prz_-c7g2Hv2L5CC60Sv6Ibcy7fWHD_VkOUWiGrZxVhtpm003QDLqsFyiQjF-RaLdzdNb73zHg1kIJnmJSu0n6ZJHr69kd3UEPLqHxoaDxSX7oE32Fa-DnUZzWZmROz2A5wsEyARUYp9NCfXcqARBss-grcextbBdCo7NHupJO5cf9QqW9vi9pxnASesOJAWxblAg8vzuMtZTmMyWc6RfLaEIdafu5j_EGsfIl-QdvW2U5KW5434gRIt1FEN-O9E7R5J4-2Uk8hlbt9b-U_g1_Ydsh6V8zI8UK4f3SEYTYI4M3YH9AhoMR",
+   "widthPx": 1076,
+   "heightPx": 1439,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/116843634362758755649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXeocpKQRQRpm8q1y0GcfU52Gy4HT97kSWuMHXAi3OkfxZDMs9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAh2xF4A9MAvOPi5y_pSOS3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAh2xF4A9MAvOPi5y_pSOS3!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMbw8wUT4Pl05l9R9aUBQEAJl6o5DOgQobOK7xlXTqxnz4EWaQmIer53XUFXaMoiPRe6oCjN4al62rCKa2TmNHl2yTdjQ3AZeYQsOc18SFIgwE-nYeKH4YPAOqiY4sWGIAsffWH-Bhce1sIPGpmcWJV2DYeuzXv-wn-zbO9SMSQPVjjwBr2m4mAIoQVMGo0shsAx7lrTRX15-5yh82z7LWO1B59-rCDLwJ2wW5zYU_Ze8Ssg3eVpWnu07MbFwHuAGDQZsdqW_pUPglZv11Zy-PCaLYg5KQHRN1-hBWfeKEiy8vGKYkt3Drja1WiGZgv2HKThBisgsozfaA45VihyIsanDwyt7zSoEOnBu5hF_5NPyiDmJTcRWvzov9FPpFV5CU-mzy5je1P85W9kMM1qCwg22-f75eL501S1ClQ-gdvLneqRJn2RgtrwCAhi7J7P",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/116843634362758755649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXeocpKQRQRpm8q1y0GcfU52Gy4HT97kSWuMHXAi3OkfxZDMs9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC_nTD_9P8ceS6m8tgLFqn3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC_nTD_9P8ceS6m8tgLFqn3!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMZftnXB7g05LYui4chiid-geJK85-Pj0tqtd9xThK4njCr_eocb-At_z4Ugll2rQt2JDeva-O0E865u3_v7xIhVmN07Zxwkvq3pxH9vvpAFmKaIzLyNXLVeKEof9nSVC0hONhftzTulLFfQ8bE-jL2jYV7qDPho45gowuF9nP61io-KSkowTfX0cziFMtni51a8ap_6qtJZv5dMKXwgFk9jW71m8fOii5DSjuGiNwRqUbh_JOk48Rgk6d6U5g9keie4Duk4C9aOTnnCJK5la3TJnuD789Ut8u0g9LLBhkR6xmSZ-KUKeRYejAuruG7fyZOyXNMeG92QZWuSWO2-1rSwCBmfF0zavBB_82UkMQhpwnxjanY7yLI2e-sMjZyKVxEHXwBr3uShhkK_Cr6O1O3VNpjPTs8eEjd-l2d9vn6Ls2rt8n0ggAOUigqljg",
+   "widthPx": 941,
+   "heightPx": 1258,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/116843634362758755649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXeocpKQRQRpm8q1y0GcfU52Gy4HT97kSWuMHXAi3OkfxZDMs9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCC9_OokrxS4GkixO9A0ZVl&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCC9_OokrxS4GkixO9A0ZVl!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMbX3Fbh2Eu2CmlrhQjCNx6ycMc705VeH17iKt_tLLNeIj2vMeA1A76jCJycx5X6GyAz4PWWbCWsDjg_ZJf90InlX6fBWr82TCWywS0Mz1cIvOJxPSZ6ulLfg5P4VeT7mzr4dbzxocOzXW5ZH8OPYl65o5BrJb7D47iktsBrCBkxaBWi1uGZDXpw0ZZYgit7TOSGAx9W_jPXGK0IQgTztLJbqW-fZ9HLpoRoNWX5Fiw9429iSWJQn9Lw6cPXFhEIu0QI3UkYGI0vXDmW-6kIdP93CczwQeY9M5EfHFNnU87IVvb58V94ja-T-RbqPJ4pvJMCaoxca8Tdv5yvgMLwIcjDw-nLQjFB28hO3j05Nx0s5YiWQa1hUYlrWegxgkF6ZxrJ85dnXyj7fssuvTz8nwCOsjhNUYt5BQePo1U3sYU6MaNgUWb5dZaKr13pjg",
+   "widthPx": 1197,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Brenda Huamani",
+     "uri": "https://maps.google.com/maps/contrib/117309236111394718533",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXxc6ENxpE0uBTf3IoOy6SkelveB1O0tP8HFFOTL0c-rw7JDZ6Uw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD9twR7hwUtBRsOPwmEab5o&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD9twR7hwUtBRsOPwmEab5o!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMYhi4jweQr4SJ8CrErUl0SVidWkBdNFZl5nNQrB3li7T4b3stkrRTzSWVxLh805Y6Jcu2xUIQskgXNlFvqujcT9kflXrk218YFFJBA_wTpMgVClRfwKZEaxj3GU4s48xk3Ce6PAhOCS4CCNtwamsK-79Qeb93qzDYKQseB9_4MEi3KTcA30cwqqmznURF-gMu7bhuJqCW2zkYgHtnjOofGfK0TLqMD2GrVAY3q5lUCgjKd137zpX6KSZGsB6qM42xAJVmaFTS8-XEkY1QpiaFzvXnCqjyVfqZVpqpqL5EKZENQ_4FGUS0cc06GQdnxmfUa-7PmfMYEbB143TR9D1tsBowoXLm6HA4U7lklPyHX3qSwHsABsoHjCcL80yfp9mVAhG3ZxiosUfqt4QoXdH0gKT_I5LFGHWTcfMprNqjnYx44SMZH3YfWFFofs4vwU",
+   "widthPx": 1080,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "Ariel RO",
+     "uri": "https://maps.google.com/maps/contrib/106898975797222123729",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1xxCCWUIPUl7pDzGOijJeh1FRJ0dfv2aGEun49R0urPU6IQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBY7aLnjzf7-8XrwbDOnf9-&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBY7aLnjzf7-8XrwbDOnf9-!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMYiXRsr7NbGfU6lOwO2yt172oxL2pMUMUJauzVyrylz86Sly5_CT5PjRCxj-DtY4Ttm8ou5Q3HkWgnSr_HWmb6NnNzmBOKoMV7lnfsYByOtX-u-bte-K4JYMFnpqHn7cdsIGmIwa-hwVd_2HABpuCCraDl_UqWY5q6hJWBsuB_3oC39MA_ts-O_Uh-XgU1141tdWOE8hdoYnO3yXK8QZTFE2opxEs_iLUa-h3PMuQFq9-vc0TEtaD743varwMIN0Dbl8W-72sZf74xSDMqmKBhFbT0T3wxXKD06hSOqSgLujSBa0NBX5BSa8YHhbKo70ZK5gUwSJ_SL7sDV-DpkoEgSBKb5UVDmtPVDd42ZaGlllXqQinwt4K0x91QHYAXG56MjP1mESoLRKfxejLwe6JbiRq9hWzv5DQo95rQx22xv0ATYpvGCsr3xS7BbCDei",
+   "widthPx": 1179,
+   "heightPx": 1577,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandra Velasquez",
+     "uri": "https://maps.google.com/maps/contrib/116843634362758755649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXeocpKQRQRpm8q1y0GcfU52Gy4HT97kSWuMHXAi3OkfxZDMs9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDxAXbSHGBivr7kxWxQEsrg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDxAXbSHGBivr7kxWxQEsrg!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMZLmUQ-KJjG_2BMgJ7LWM7lXvSNercCjM5yiVtBWIYPRRricIL38j_-vAHPPYqQSbllQP2JD31gv3svCB2xfFIndSRoTnSFTLWbbbUjiE800ExyxGkbPxjtpuwr_vfIBH0IJu3jP16jCmXKMCmE7cb88kE_Me0oLpJcK341kB2eXgggGjz5COffgqVBpQ5s5BNj56aP4uN8yBGJY7GAPPMX5kz9e3rgO40QfgQWXC-PL2nE-8DBkMzURjNJj96hfWyfZ4Zm2RBQ0ORGf3AGouqk_HAhG8AdIusQAxG6fHpQ7DqR00LBi0G6PUT7gQVXA67kvTvS5JmpkQ11ADbiB7JxYCqlZ-WSC-cU3GxSEbryRZ6tb5kk5Ppuu0_dWwNH3HtprCUAGDaQDpnmpUp1g5qcN-lCWRlQwDAevDV2SBFXzWY",
+   "widthPx": 1414,
+   "heightPx": 2000,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Dogtor Mushu",
+     "uri": "https://maps.google.com/maps/contrib/118074738351339008892",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrgy-idt9c-YdEWIqGOzJQ9qoMKjGvdn-aH-u_OJltg4pEzA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7zfLqkgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7zfLqkgE!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  },
+  {
+   "name": "places/ChIJ4yyWo-W5BZER3y-QIhX6F-E/photos/Aa-ngMbxNNy5_4vmMCne_se27dps-SPvCIXrSIybyjoypTHGZducpJAyp8pPb4byceNiFajoMPNzzQ9CwMBlN7Jlgr_ytGL7T4K3sWD5MaoNIBnJF6IdgG9lY8K1RwROWmM05zE96KoREoP-Osfy4ckwSDavpN3UBXbCa7Qh6m2olT3nVSck2wh4uhCIpFhg77T52aapii081lHddiQ2lIO1r0C5esT-KRUm-MO2yQS280_elIqMOWHoDl-IWt-JujiySxIm04xiwsczj0PLHYYOShBgMXnkLaIdT_MzMGaDB963MXaMChzCigt6gIFtgP4qIaRiHPxyclJiJ0MgAgu5_MwIrB8QQwc8HrYdbu7NpsmtnAchIwJb_nfrAZaeCw2ZY3DdLU9eIRA-iozvcza1opKt0RUWp_pE1OYywtNX9x6gvzCJ0Ix__8Rzy8hjiQ",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Elizabeth Antonio",
+     "uri": "https://maps.google.com/maps/contrib/118270941487035788170",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXqOzD3oYRHRkl1HOEyRsON7Av1K9Vccflx3pmo3dL8RwaNPpH2A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDIaDphX4SVtW5wj1JYTbk6&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDIaDphX4SVtW5wj1JYTbk6!2e10!4m2!3m1!1s0x9105b9e5a3962ce3:0xe117fa1522902fdf"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": true,
+  "paidGarageParking": false
+ }
+}

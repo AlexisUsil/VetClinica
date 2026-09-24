@@ -1,0 +1,470 @@
+{
+ "id": "ChIJg28o5ZrHBZERdElmNOrqJkI",
+ "types": [
+  "barber_shop",
+  "pharmacy",
+  "hair_care",
+  "veterinary_care",
+  "pet_care",
+  "lodging",
+  "supplier",
+  "health",
+  "store",
+  "food",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3445000",
+ "internationalPhoneNumber": "+51 1 3445000",
+ "formattedAddress": "Av. Las Casuarinas 271, Santiago de Surco 15023",
+ "addressComponents": [
+  {
+   "longText": "271",
+   "shortText": "271",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Las Casuarinas",
+   "shortText": "Av. Las Casuarinas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Huertos de San Antonio",
+   "shortText": "Urb Huertos de San Antonio",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15023",
+   "shortText": "15023",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1143173,
+  "longitude": -76.9734955
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=4766755547240614260&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 26,
+ "displayName": {
+  "text": "Clínica Veterinaria Pet Center - Casuarinas",
+  "languageCode": "en"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "store",
+ "shortFormattedAddress": "Av. Las Casuarinas 271, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/reviews/ChRDSUhNMG9nS0VJQ0FnSUQzNTRkdBAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena la atención  👌 los recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena la atención  👌 los recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "yenny carolina romero guiñan",
+    "uri": "https://www.google.com/maps/contrib/102641540294498032190/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcSCPoBuogsKhD5FolJZOrVlLaPglGilyPkyG4yu5lkLJRf1Pd=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-19T18:26:54.056357Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUQzNTRkdBAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUQzNTRkdBAB!2m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  },
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcTRmVXNRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y buena atención, recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y buena atención, recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Teran Johel",
+    "uri": "https://www.google.com/maps/contrib/117994499590661576924/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqt6hT3hcCrtZ8RDElr60sqrIhqnUTx00xtOHioA5XpzOWGHRpyw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-19T02:05:32.632618Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcTRmVXNRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcTRmVXNRRRAB!2m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  },
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbHZPcUF3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención 👏",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención 👏",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mely Ldg C.",
+    "uri": "https://www.google.com/maps/contrib/118088995654388236997/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgUbrwx0bEoV25CgBI0_Y1ja2Ktajki2zBqNRLpGSVEvja2Eq1=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-24T03:12:28.627906Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQbHZPcUF3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQbHZPcUF3EAE!2m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  },
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcThQTTlRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención.  Atención rápida y profesional .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención.  Atención rápida y profesional .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Guido Javier Cuba",
+    "uri": "https://www.google.com/maps/contrib/104163872286107350147/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrO2Zd-9pHWucZXDmOnanCDerKk1GHt_5XS0-z_9-igpko1vFF=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-11-19T01:49:17.464746Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcThQTTlRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcThQTTlRRRAB!2m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  },
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzcTdmYkZREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, solucionaron un problema con mi mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, solucionaron un problema con mi mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gaby Ayzanoa vigil",
+    "uri": "https://www.google.com/maps/contrib/112879531184791717489/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuGRf7quIOOstt0DSwEZ0bWI54oX5Q2RMtkyM7Au-w6ntUJg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-19T02:12:45.381304Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzcTdmYkZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzcTdmYkZREAE!2m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJg28o5ZrHBZERdElmNOrqJkI/photos/Aa-ngMZfSrnEqDIMnO3vEKoWTYvZt4kE6rLyesIgu7PaXFzmVJi5OwXarPrzc-Odu18NClDuWePQI30x2nll5ZuEWljpbHEbZO1xDfCX2ZjhWdbucjJrMc-yAFpJ8pLFrQYnmPW4IiXIr2ozIK0ApIffLkwwAoqlb37JDG_H5BPi8KijGsxcrOJ9y6hwFbsETjNrFMq_Tv_tgceb6b3O0pCX1cg43-a4b_2ttFx2bI0avFg38TXnnPjWmL4gHtOEGSK0Sf9axwWGeQXuiiai19aMB6F2yq2TS9k1jqxvFYoCXEQim_lUEm4eMEl6fq6_prRd3Nkv-0gi4pmQgo8uk-c6N4dwSqSK_ORBhplzQ2jrGWBhVhOZknnIW9M5curwe3jRaRSuLCzWtzZupPQNL56WSXByyVhhPyA",
+   "widthPx": 2304,
+   "heightPx": 1843,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - CASUARINAS",
+     "uri": "https://maps.google.com/maps/contrib/101040525635363895900",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJDvxAjGec8t6b-IhLaZWxex8uBqyPxPWTr6NNluwZRfAbOA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-J2q1gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-J2q1gE!2e10!4m2!3m1!1s0x9105c79ae5286f83:0x4226eaea34664974"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

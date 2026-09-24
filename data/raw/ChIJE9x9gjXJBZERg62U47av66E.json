@@ -1,0 +1,573 @@
+{
+ "id": "ChIJE9x9gjXJBZERg62U47av66E",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "920 371 211",
+ "internationalPhoneNumber": "+51 920 371 211",
+ "formattedAddress": "Av. Andrés Avelino Cáceres 521, Surquillo 15047",
+ "addressComponents": [
+  {
+   "longText": "521",
+   "shortText": "521",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Andrés Avelino Cáceres",
+   "shortText": "Av. Andrés Avelino Cáceres",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15047",
+   "shortText": "15047",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1193758,
+  "longitude": -77.0200644
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=11667612459670482307&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.puntovet.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–17:30",
+   "martes: 8:30–17:30",
+   "miércoles: 8:30–17:30",
+   "jueves: 8:30–17:30",
+   "viernes: 8:30–17:30",
+   "sábado: 8:30–17:30",
+   "domingo: 8:30–15:30"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 101,
+ "displayName": {
+  "text": "Clínica Veterinaria puntovet.",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–17:30",
+   "martes: 8:30–17:30",
+   "miércoles: 8:30–17:30",
+   "jueves: 8:30–17:30",
+   "viernes: 8:30–17:30",
+   "sábado: 8:30–17:30",
+   "domingo: 8:30–15:30"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Andrés Avelino Cáceres 521, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRVEyUkZUVk5HVmxKQmIyRTFlVXgyTmpBd2JHYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es el único lugar donde me perritas pueden bañarse de manera tranquila porque las chicas son muy amables y atienden rápidamente de manera oportuna. Gracias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es el único lugar donde me perritas pueden bañarse de manera tranquila porque las chicas son muy amables y atienden rápidamente de manera oportuna. Gracias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexander Delfín",
+    "uri": "https://www.google.com/maps/contrib/111056429205256853938/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg5YPeamWUJa0WlryQPy-fL4PVkDj3xkwVpWWi3EpweEGTAxgR=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-06-04T21:15:42.333163204Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRVEyUkZUVk5HVmxKQmIyRTFlVXgyTmpBd2JHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRVEyUkZUVk5HVmxKQmIyRTFlVXgyTmpBd2JHYxAB!2m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUlpGSTNlazVDUzJReFJteEdXbVE0ZEhCa1RVRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Voy varios años viniendo a esta Veterinaria. Tengo dos gatos y la Dr Tavara y Dr Melanie siempre son muy atentas! 100% recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Voy varios años viniendo a esta Veterinaria. Tengo dos gatos y la Dr Tavara y Dr Melanie siempre son muy atentas! 100% recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Albert John",
+    "uri": "https://www.google.com/maps/contrib/116376947645822193601/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmH79EyoFqggKAuCM_6b2r_-bL_Crg2Eo-WYvnISXern63Xneo=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-04T00:03:29.418982969Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUlpGSTNlazVDUzJReFJteEdXbVE0ZEhCa1RVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUlpGSTNlazVDUzJReFJteEdXbVE0ZEhCa1RVRRAB!2m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjeVJVNUZZVTlHVW5sTlFsSXRRMW81YkU5TE1WRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención cuidado e información de mi mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención cuidado e información de mi mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "JuanXhetto Calderón",
+    "uri": "https://www.google.com/maps/contrib/118149344971838321651/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW93SaX1SFz2qq5na3RSi0tHOj8NpPXME_ktjXIW6Q3keT37F4d=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-08-19T16:11:02.509215767Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjeVJVNUZZVTlHVW5sTlFsSXRRMW81YkU5TE1WRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjeVJVNUZZVTlHVW5sTlFsSXRRMW81YkU5TE1WRRAB!2m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/reviews/ChdDSUhNMG9nS0VJQ0FnSURsX1A3RC1RRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Simba siempre feliz de ir a PuntoVet! Y nosotros felices y tranquilos con la atención que le dan a nuestro gordo 🐶",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Simba siempre feliz de ir a PuntoVet! Y nosotros felices y tranquilos con la atención que le dan a nuestro gordo 🐶",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Taisia Hoempler",
+    "uri": "https://www.google.com/maps/contrib/100350832594853618094/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICsPdhs3dSdRAcFalI6Q6mC4QsuAZwDxFfUhxBSPSVn11hTJ-d=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-30T22:08:39.561632Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURsX1A3RC1RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURsX1A3RC1RRRAB!2m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/reviews/ChZDSUhNMG9nS0VJQ0FnTURBcjZUNlZ3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y cuidado para las mascotas. El equipo de Puntovet es muy profesional, amable y realmente se preocupa por el bienestar de los animalitos. Explican todo con paciencia y brindan un servicio de calidad. ¡Totalmente recomendado para quienes buscan una veterinaria confiable y con un trato cariñoso hacia sus mascotas!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y cuidado para las mascotas. El equipo de Puntovet es muy profesional, amable y realmente se preocupa por el bienestar de los animalitos. Explican todo con paciencia y brindan un servicio de calidad. ¡Totalmente recomendado para quienes buscan una veterinaria confiable y con un trato cariñoso hacia sus mascotas!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karina Ocampo",
+    "uri": "https://www.google.com/maps/contrib/104731111979222012700/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxio3gLug-MUL9tTivNNImGeqimGHwU_NGH41iHFoovSlKnLW_=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-12T19:13:47.550306Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBcjZUNlZ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBcjZUNlZ3EAE!2m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMaRbXQu6lusdGPkyxo5FTbeX6186NZsyNrDHl-0W3TEOFPEVk7SVkZygiZ_GhoYtJj6M5Tggv0gUkUraGDuRMhVYqq8Pj_svI2oFNYiAlZMVxszF_TR7G8_2JcrY6zTh2Uy1lBlnrS9SWhNa6DduIOYvxglGgu1yvHwfWWtBqRwEOsOZb5Y7Nwx1z_JlCegVKWQYPdyyB7YolA45l5LcKumh0T2YPmc4Uif4O3TqLkcKd2aGXdiAAXxoAxFXawxmIpv07PuFiwZuvPmeYolizNaoAPfsms3DR6asksPh_y1BvOBNtMliSiOvb6E_TtFT-vhIvzU2-5_Xe1FqQz1776_8aUg-QQUR7qiH3ILO-c4rV1sG7gpsx5tVqNbACwi1dzk-Zi9RUBP8Vyq4Jda5Lp5mDGu8Bd3Wb8u26Ur26Jatjr-",
+   "widthPx": 1600,
+   "heightPx": 1362,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria puntovet.",
+     "uri": "https://maps.google.com/maps/contrib/104040391894144867439",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8sLaLvfInyU8IZh_JLsd3rYZOhcdchhhjok5znuYiX5PEGgM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6tOKZ9wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6tOKZ9wE!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMaxwQkCgDTQNaRlfUn30IpT-5c3Yd63-XujFPOqWpMd7T4MIty1igVEAK_ra1a-FS0ZWbM1TCdAQafD9gvuPjcj4QioarFTryel53wqREhJapganFmhYdtZRfFpa7s312HKAHd9mzJw504_jSGp4L0v_XtpfWBkKO8nM8VMXAvXQ41X7RFWIbMapNa52JHcWkhE0DqCUfrOVq8RMJAG0YAmRyx4OewF_6vGUFpwFix0x7CT-h4OzuaaZDq1TqJ0kg-8YwWiMWtETHLWc_JEyh48CyNJojXlS2Eoind_a7TEm-KJOeNWX4coqyFs__g6KQGd95qvzEtaEaHKuCCo3v3Lb23Xm1rbLf95KpuNd4hiKlGi4fn-an7Fa2vIxLEVTXxO2K2ebwXVV0oFm8AOa0N5xcbwDwHVM_dPtvWiZpJ9sg",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Elsa Arana",
+     "uri": "https://maps.google.com/maps/contrib/110351002335375443335",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIey0hJYwRwdGNS3NN_1_B9JZ7sgMnQTokt2b-SHUYE1Yd5_q9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC3ouefw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC3ouefw!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMbQhqzD6FdY0Mke5lY2DQL1w-TVi_Ut-88ph_Ms1V442R8-7nRamWpcYYQP3AIHIE-_eaXjct9oF8R_wKsFhXCEBV6YqwBI_q6TG4R8yqG-3HPbblw1UXaWZl4AVTdyc0UwgYNA37uCRYn0dG4q2Jt11wm8wo1uQvd6l0ldgm8Frno3IzFwx3bmneDmffwYVjqzT60FtcETMRUQwDAgPf7SO27gZn1LAYRxyQjlaMDtNQAZV3tPMsTPKRrVygAUB0MuUjRBJLyPACul-EePXtA2mNnX3AY5unrdSLQMuTvHsUmBkMwwT2mRCY-NVi3-mVi8MVpmHP1IkEv39w9rvwxrz57nsnoFge4oMjNNYYy_MESmRm3Yhgl_nEp7o8qc4KLaYoFGVk4PVwJOaRUHVYsrrIh0FSJXiQ5TuTxpHjY",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Taisia Hoempler",
+     "uri": "https://maps.google.com/maps/contrib/100350832594853618094",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICsPdhs3dSdRAcFalI6Q6mC4QsuAZwDxFfUhxBSPSVn11hTJ-d=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDl_P7DRQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDl_P7DRQ!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMY6Yhtq8aJkGAAf-m_59lXDM2SvY8gy4q5jLy1oKn6k2asxVFejNiVo3m7VeRBeZXDgQnjYniCXbwc-QKfE6KgBQtrjC0eNWhCgi5I0Vo1ti1LXkEXGR3AAtpkhFzUyrDGPQmQ-IROmd6Tkl2VzMX_mztZTiqs_pCiGxq2emOB8KI7I3m1vAFE4q-Kjmpb_8YBU4F12y56RWk3bqwqmu60zLLkA_SQjX8yjrB5ROZr5AoZ_Nlg69r8U1l27OIhMBb6XOMC_SAz6pDEfjG9H88u9U726sDg-jeysnAJuSEZl39YmdK6eGMjrkLAt7CD2LEBf8XTaGHpxyvCT0Njr_jxJYhrXCmYlvlI8DmbFNL2n-6ybDc2wyZoNcQgwsUVi5eu4THZkgg3D87o3q0Mawa5DFVLFeIIrpVe6lCCgvFtpbg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Marco C.",
+     "uri": "https://maps.google.com/maps/contrib/100634606394743825700",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlrV6lh5mNub3uD0TwGvhvQ5mb0JbLg0E-QpKflwBsby6qkg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCodGEVw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCodGEVw!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMbpNwSPBp5Wb90oH0E1Wi6Mhz4SpQXos73SNHDsMMWcM2cZVtCsYBN9Ymy7vXdJO_D71ixJmlXqDJfjwqWmTvsuch32mJ4dy52OMtWviSu0b8hlhllSWTsrPS-7WaesHsQ7uTdvWk0ioOh8PwTRm4_lrWjpoVXhjcT8RWHMtKKjtrwJGTEtJw3iyOnz1XlbQv_COdqkUBhVdP-VpAf5jElfPR2mpFw7i-McsreaemdHVIxjT8PrPp2IXGQWLOBv4YNGgQXDplH2RLCdLqrE90vr4MJdYRqJQIxXgxfJTrknVYw0OofP3-BwywcaZY5mqU8HK_9PJyiD6A2_WZnYXvLtGTE2c2JlWozHLXJA1RrhZcsXoeuoLhOTmGtN_aD9PrkdnDjwxCp1lgG57rz5Up5NzZSjlikV0f9HA3u5ZXZLbBc",
+   "widthPx": 1200,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Angeles",
+     "uri": "https://maps.google.com/maps/contrib/101776744807812209057",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLz2W-m_MubuH4EW8RZBHSLqF0srtOaz8kfGFzZ7Xhfs90kmw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWm8TKhwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWm8TKhwE!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMZY9VodB03ju0XIqOj0MLgH8nYMl6HsFYvyb7s92xYTFMB8keKBjsdAziE2de4yP_F8qVhsGCCfRVGMbiD4k5LNoiH42rmMLrTlcklRR5Y7_rsfHRaYPt5Pt3ZBoqXhouKEKl6HuL3vAqaOWkULMwa9xklkZRXMyWxPvCeQf893FTekK0J4ggnL2OlS1j9C8IjFyIeCG-AY7cKMlBSlg5TtNq1-nY3wOiAx75DOmNwGnOB-1nqd3oA8pEuc_qutlhF_BgSt7qAEDG8M2Qis6bmhS9H5GmF2kyhlKRq6UiNH-0PZQ4vCbwoVgsSbazyCbhJlQlQONcMDiWF9vt-SzcQ7HeHdClRgFRncnvSm_-vMevpXAvFGO4BAr26H6-GWVJVeisZM7GYcBKC5UKJDqnMlp_Qzen5A4CrV31Xn0Fd0wis",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Elsa Arana",
+     "uri": "https://maps.google.com/maps/contrib/110351002335375443335",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIey0hJYwRwdGNS3NN_1_B9JZ7sgMnQTokt2b-SHUYE1Yd5_q9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC3oue_wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC3oue_wE!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  },
+  {
+   "name": "places/ChIJE9x9gjXJBZERg62U47av66E/photos/Aa-ngMZt7Izl1Nf_3JhZbT9CE5URpSxSjrKaXjoxJxTD5MowZr7ABJmQJxJVEVJ7eVt9Xx9YFWqpO4UXaIufonlG8iT42zbWIQ9QfZTeXgzhc_kFPY8Vhdm4CRBEaJrLv3l-nNXuBzQwej8N8rOJPp-0Ch4kzNO234GQW2r2BPcKrUWIn4zf7EnnlST5DDjNSIrkfyD5J2YjB7GtfRRFOVMQQaFaF4sdN6zI14IOtStNp8YJYOsB6xKx_5Mmmx1xrQO1KzN0y-rUkrfneJ3hpIAinsdgDO0kl5Dyr4VEuxXjpclpieVHoiAFqpwXCepflY7QyvY3v3me6oGTRRdhTeHFRMDpqe3p-b-tt_8IEXfWncKVA4m3DeKuLgb2MLxSn0MIqgodQ0qwHHfoaHqJUqUKxgxSmzdHNA4h7hmC9T7IrfKCjg",
+   "widthPx": 1080,
+   "heightPx": 473,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria puntovet.",
+     "uri": "https://maps.google.com/maps/contrib/104040391894144867439",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8sLaLvfInyU8IZh_JLsd3rYZOhcdchhhjok5znuYiX5PEGgM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8gsjmRw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8gsjmRw!2e10!4m2!3m1!1s0x9105c935827ddc13:0xa1ebafb6e394ad83"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": true,
+  "freeStreetParking": true,
+  "paidStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

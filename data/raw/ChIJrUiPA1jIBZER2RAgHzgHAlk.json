@@ -1,0 +1,576 @@
+{
+ "id": "ChIJrUiPA1jIBZER2RAgHzgHAlk",
+ "types": [
+  "pet_boarding_service",
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "934 505 088",
+ "internationalPhoneNumber": "+51 934 505 088",
+ "formattedAddress": "Calle Baltazar La Torre 1115, San Isidro 15076",
+ "addressComponents": [
+  {
+   "longText": "1115",
+   "shortText": "1115",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Baltazar La Torre",
+   "shortText": "Calle Baltazar La Torre",
+   "types": [
+    "route"
+   ],
+   "languageCode": "en"
+  },
+  {
+   "longText": "San Isidro",
+   "shortText": "San Isidro",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1043422,
+  "longitude": -77.0573921
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=6413696756950765785&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.gatuario.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 566,
+ "displayName": {
+  "text": "Gatuario San isidro",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Calle Baltazar La Torre 1115, San Isidro",
+ "reviews": [
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OUWVrWjVZbkpYWW1wNlpERTJjbGRtYWs1TVRYYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, muy amables, especialistas de calidad profesional y humana, me acompañan día y noche durante el tratamiento renal de mi gatita. Ya que estuvo internada por más de una semana, puedo consultar con el sector de internamiento a cualquier hora y me responden, lo cual me tranquiliza. Mi gatita que no le gusta salir de casa, ya se acostumbró a ir ❤️.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, muy amables, especialistas de calidad profesional y humana, me acompañan día y noche durante el tratamiento renal de mi gatita. Ya que estuvo internada por más de una semana, puedo consultar con el sector de internamiento a cualquier hora y me responden, lo cual me tranquiliza. Mi gatita que no le gusta salir de casa, ya se acostumbró a ir ❤️.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fresia Mejía Prieto",
+    "uri": "https://www.google.com/maps/contrib/116564041774758656220/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZpRBFsKWal43-D-CVsHuCFJ_LHcn4RrIzoBsOJWBwvqL9BlqQWA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-18T19:40:38.525003947Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OUWVrWjVZbkpYWW1wNlpERTJjbGRtYWs1TVRYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OUWVrWjVZbkpYWW1wNlpERTJjbGRtYWs1TVRYYxAB!2m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nek5sOUpOV0pQVnprME4zZFBiMmxXWjNSRWRYYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 4,
+   "text": {
+    "text": "El Nukhan catsure lo encontré a buen precio y venden otros productos mas para gatos y perros además de ser veterinaria.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Nukhan catsure lo encontré a buen precio y venden otros productos mas para gatos y perros además de ser veterinaria.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "July S",
+    "uri": "https://www.google.com/maps/contrib/116667147476731987326/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtLFO4gDwdj2Iyep_CrWHE53XEB1s3xgX3cyKIjqw-4LnFWdq3=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-17T13:01:33.054306458Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25nek5sOUpOV0pQVnprME4zZFBiMmxXWjNSRWRYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25nek5sOUpOV0pQVnprME4zZFBiMmxXWjNSRWRYYxAB!2m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OdmRWbGxiWEJNTm5Sc01URTNWVUk0UnkxMFVtYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "Gatuario San Isidro el mejor lugar del Perú para a tender a tu michi, Toto es un gatito sin dientes y sin visión de un ojito, por eso es muy tímido y temeroso, sin embargo en Gatuario se siente seguro y adora a las doctoras y a las gatitas (y gallina) anfitrionas. Le salvaron la vida a mi bebé en 2 ocasiones, súper acertadas, asertivas, amorosas y profesionales",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Gatuario San Isidro el mejor lugar del Perú para a tender a tu michi, Toto es un gatito sin dientes y sin visión de un ojito, por eso es muy tímido y temeroso, sin embargo en Gatuario se siente seguro y adora a las doctoras y a las gatitas (y gallina) anfitrionas. Le salvaron la vida a mi bebé en 2 ocasiones, súper acertadas, asertivas, amorosas y profesionales",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ligia Lena Tapia Cano",
+    "uri": "https://www.google.com/maps/contrib/102148203782939074784/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9tFlviDrhO4n1PobGkBirIIGHoHzmJrEsa0YgaqKO20DnRxCl=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-10-02T22:34:51.944268044Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OdmRWbGxiWEJNTm5Sc01URTNWVUk0UnkxMFVtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OdmRWbGxiWEJNTm5Sc01URTNWVUk0UnkxMFVtYxAB!2m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUWNFRlRkblpvTmpOME1IRk1TMGhyWm5ZemRWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Hoy fui por primera vez con mi gatito para hacerle un control, se nota demasiado la diferencia entre una veterinaria regular y una especializada en gatos, y sobre todo rescato muchísimo la constante explicación de la doctora, explicando qué es lo que estaba revisando y lo que encontraba, ha sido una revisión muy completa y me voy muy contenta con la atención, vale completamente lo pagado, ahora soy Gatuario lover y no llevaré a mi gato a ninguna otra veterinaria más que ahí.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy fui por primera vez con mi gatito para hacerle un control, se nota demasiado la diferencia entre una veterinaria regular y una especializada en gatos, y sobre todo rescato muchísimo la constante explicación de la doctora, explicando qué es lo que estaba revisando y lo que encontraba, ha sido una revisión muy completa y me voy muy contenta con la atención, vale completamente lo pagado, ahora soy Gatuario lover y no llevaré a mi gato a ninguna otra veterinaria más que ahí.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Brenda Paola Goljevscek",
+    "uri": "https://www.google.com/maps/contrib/106536122113296211079/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZ9OnswWs9aZoiF51TtiLKDJvxokaOzq4o6_LCaUf39MxKkz2N=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-03T01:07:41.175090779Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUWNFRlRkblpvTmpOME1IRk1TMGhyWm5ZemRWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUWNFRlRkblpvTmpOME1IRk1TMGhyWm5ZemRWRRAB!2m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNjRyQl9BRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hoy 25/01/26:\nEl amor y la estabilidad emocional son tan vitales como la medicina. Hanna vivió 6 años más de lo previsto gracias a una vida sin estrés, rutinas claras y un vínculo inquebrantable.\n\nSi tienes un gatito en una situación difícil, aquí te comparto lo que nos permitió ganar 6 años de vida:\n\nAmor y presencia: Háblales mucho. No necesitan cosas materiales, necesitan que estés ahí.\n\nCero estrés: Los ruidos y el caos los afectan. Un ambiente tranquilo es medicina pura.\n\nRutina sagrada: Cepillado diario, juegos y alimentación siempre a la misma hora. La predictibilidad les da seguridad.\n\nBásicos impecables: Agua fresca constante, arena limpia y, por supuesto, el privilegio de dormir contigo.\n————————————————————\nComentarios antes del 2026:\nSin comentarios, es mejor. 😿y si pudiera colocar -5000 estrellas, lo haría! Farsantes! Encima bloquearon mi cuenta en Instagram! Eso no se hace! Y mi gata sigue muy bien de salud! Casi la operan! sólo quieren operar y lucrar con ello! Luego de 2 años de mi último comment escribo pues pensé pasaría y le dieron 3 meses de vida! Se les revierta! Como pueden ser tan inescrupulosos! engañan y lucran con las mascotas! Acabo de leer todos los comentarios y la verdad ya es hora de hablar claro y fuerte! Son un pet shop pero Veterinaria jamás! Y si me bloquean la cuenta aquí, voy a Indecopi!\nY han pasado dos años más! Y mi Hanna sigue conmigo! La verdad que aprovechan con la vida de las mascotas a quienes queremos muchísimo! Y damos todo por ellas! En Noviembre 2019 me dijeron le quedaba meses de vida, ya pasó la pandemia y seguimos aquí con vida y sanitos con mucha FE! 💕🙏🏼\nEn el momento que crecieron como empresas dejaron de ser la razón por la que en un inicio abrió, salvar vidas de gatitos! Ahora es puro y exclusivo negocio con la salud felina 😣 y se puede ver y leer en los diversos comments de otras personas que estuvieron con Gatuario desde sus inicios. Mal muy mal! El dinero está bien pero a cuesta de la salud de los michis? No! Eso no va! 😡",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy 25/01/26:\nEl amor y la estabilidad emocional son tan vitales como la medicina. Hanna vivió 6 años más de lo previsto gracias a una vida sin estrés, rutinas claras y un vínculo inquebrantable.\n\nSi tienes un gatito en una situación difícil, aquí te comparto lo que nos permitió ganar 6 años de vida:\n\nAmor y presencia: Háblales mucho. No necesitan cosas materiales, necesitan que estés ahí.\n\nCero estrés: Los ruidos y el caos los afectan. Un ambiente tranquilo es medicina pura.\n\nRutina sagrada: Cepillado diario, juegos y alimentación siempre a la misma hora. La predictibilidad les da seguridad.\n\nBásicos impecables: Agua fresca constante, arena limpia y, por supuesto, el privilegio de dormir contigo.\n————————————————————\nComentarios antes del 2026:\nSin comentarios, es mejor. 😿y si pudiera colocar -5000 estrellas, lo haría! Farsantes! Encima bloquearon mi cuenta en Instagram! Eso no se hace! Y mi gata sigue muy bien de salud! Casi la operan! sólo quieren operar y lucrar con ello! Luego de 2 años de mi último comment escribo pues pensé pasaría y le dieron 3 meses de vida! Se les revierta! Como pueden ser tan inescrupulosos! engañan y lucran con las mascotas! Acabo de leer todos los comentarios y la verdad ya es hora de hablar claro y fuerte! Son un pet shop pero Veterinaria jamás! Y si me bloquean la cuenta aquí, voy a Indecopi!\nY han pasado dos años más! Y mi Hanna sigue conmigo! La verdad que aprovechan con la vida de las mascotas a quienes queremos muchísimo! Y damos todo por ellas! En Noviembre 2019 me dijeron le quedaba meses de vida, ya pasó la pandemia y seguimos aquí con vida y sanitos con mucha FE! 💕🙏🏼\nEn el momento que crecieron como empresas dejaron de ser la razón por la que en un inicio abrió, salvar vidas de gatitos! Ahora es puro y exclusivo negocio con la salud felina 😣 y se puede ver y leer en los diversos comments de otras personas que estuvieron con Gatuario desde sus inicios. Mal muy mal! El dinero está bien pero a cuesta de la salud de los michis? No! Eso no va! 😡",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Moái",
+    "uri": "https://www.google.com/maps/contrib/112081901033970404714/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4-xAM3nCgNCm2XolvHrrx8nt90cJm_aO5myPUlr_2D_ebEw=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-01-25T23:30:19.732864872Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwNjRyQl9BRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwNjRyQl9BRRAB!2m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMZ4uyE_wxlymNmXEl8xJGY_QW2Tu7yjWZq0Pi2uQ4DpJxWDs7AqcY9bEce_UNLZK48vT_hnDng5TI1CkTqdJAg2D4oWCPq15_lFYxVizWxqNYyYQhJHYBOFevBtj51GortuYqA7Pq2ePU3NTd2tWgX8eay4joYZWnJir6Nuw4mltkCHXhJAJIEfan8QGu2ZdMKZhL4qyeqPUxkeUIV8F8MdC8x3ScmlFcoCyhKA7TSkc_y-7Rn9Gj5s5LtPYBq-SPtRN2E01iKAH6WTPZKiIx6HyEQ5uswYWEWSmUlgP9UCGduUkPrflQIJX4SRbU_1ajg8fDZjJhWro0ADDTImfr8t6ksTozHESCA968I7LL8i6FatiPjWB_ANYQXLuhhsZNAnxB_raMBJ4Tw1sw6GoDGFXvYddEM",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi7LCKkAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi7LCKkAE!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMZkOTagGro8JM2nZJXogaeICM3scnbkyHPw2L_1wE6CBC52XbApcUubf7EGBx99VpGfZNodasDm-uYZ0UbsXvpNAxMAFMGFwQfaBPjiOIGPEwK-jbuQ6TzTl5H1VxkoL0Y1Il0CuLR5pXtAmuMTzQlqPNS-k6t0PkVbpH5sxibWqtcKZ1Qxg9FhoPbO52Dtrv1a65nkhQws-pi6FVoyNg-DF7-BXlHaKzADehwYIH-gVvugLSkFvqixTdiUo9m3EQayvKgB7_u_kBZZo-ae3gI7R7HPX6z3ALjQ_LGD3Z-pgK7xiWe75XTRPdTLvFoDWXOZ56samLXjdBJCVLH0A-QHJzGzoQ6RuPvDivAFFfu0XDPy2vmn90VYWh5_iI6Rq4LY2VtOt3VH2vQo1Ef1GkVOVsk",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDimKyYCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDimKyYCg!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMZOGLx9vXCXAKSNZjUwKxXEE8lLqkPFBxMRP-Z0HPp1TK31QAADvOodz6TlvQ37U2gUx7UP1O5hAy2XuiC0Kb0b2mQnm1C8R6UZ7M_eb441Kf1x13wq8z25-P5ymLp0Qw5pDazDfedSGm1EKgLouHXpgeDKeXetiWPmAPQVebRYaLsP86nD2gvBOd--jWP2VLZwPUbNFnO2sVMSy7w_PRPKiBhwEIzEZcqhM6paeaBzh6nfCuR48xoxqRGMFaJ6zRzw22UP7aU4pj4r6RTvRtqYOQADNZCSNMq6waMaYftCIxrCDwpPEOLYvSHYLvN6cdICn9InJ9_M5UR38fLHfmp9fbUV6uS563JXWsvnYODXj-oOzDX52TWht2gTV6IPVGM85EqplnDGF6BQRtjNWqGBZ1Nu",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDimKy-pwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDimKy-pwE!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMZaZUCj2jf908qmaFIQ7-K1pcLPUEa5UrGzpq_FIoPEgaB9poC3osXEx7ZlJ1E2tzWjD1wZKvWD9uu_Mmi5tbyjnBrGd0FPtyqCCIzZmJBDifd5NxIrqy6OnSmxxSoXJIekV5T2Pp1WTI4dUjGCjv8m6j7OcV4RnKK_gfbfJX2eQtStcT-7w8XBuseJhO3XkaMLQqgphXZumQoP_60R9LHnUsZA3V8c1txtTGXtXJl_XsXMCGM7GgRl3JA9dkvpg067EsnrGNzJiTeE2Hq-Mbq9yMx-n-7v-dXGXwYUqbPQwtu6N6W0F7SbjHuZzdGhBc4fTVrqo5Qc7sYHIuhxhh5TF_30dEdodjxlEHb5rfZUdt2Zh_vYsQO8TbuKGONYc5Li45ZobrOpREFRrOizQFu6QTCpoYc",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDimKyF0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDimKyF0wE!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMa1lr2M9xyBa-9D2Sbl-lJh70Lni1a6IxarynZ48TcaWtIGgJh5AsETpPy6APz6Chl4hFQrllebDwRMQ0KHsTCbQN0jmNFQ7RhN5dPoWIaelmDEyKrTsdpKF4MWoQLWk2vz_MLOUH3vBhOWA0udD8pm2DyyZwkZE5v0y6N7tDoZQZGVIYk58TOG6xNjsdfATDJ0bISYs1zrZyLuujcVz8wrwJhmIHt2oCO-9D81rg9Kgcuo3d4AYiO32l_HWBtSPM5tOCeAKJoYi6IH08NEImN7bkgCW2FHRh8KAAexc2rbAMqqIAGEu086QxrXCtJKrYsHoheMuVISuBVK3fYJp8gbMgUMcPmIZkI7QgUgV_2gWYjkb0sOFNrmlOmk7xh4WWjyJtWjfAqu2FAVFHKpw2Ubd8Rc",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Rubén Chinguel",
+     "uri": "https://maps.google.com/maps/contrib/117963214493753190507",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-WWV41er_mK-J64QTNNpPLNcS-Llx_DbVlIDopmlafhNQxA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqlquNywE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqlquNywE!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMaaFHDPUNXDR6OBQEzsZl_BgTm4flXMzBEQE52u8yHGyTIUqs-Z7LQZh3IeQq6sx3tO1HyBQ4UyjlJwYpLy2zdhUmxF1xAOYPjLkB70IHRj_s8-mANAUZC_nGKx9EfVn6fdOt9muE1KSyLq3hSc3n6iHVQkqbyQn5_quubB2Lipj-lz59NeHdZsATl3LzAZm5Q-vAmv0vJ3ZQZYwNIB5fEsa6p8m3bDqMz74pvX_RVNnVydi7FrlDbNARbvmazMbBNjLw1DXawpiI-npLpXrTPfHafmoh0bb6SSl3XM_E8zPKzqHyAMAqtQNvFHni7ZmzJUAG6ZZA7RW2fP7uKbT1l57Yj7LKoq6k8vfr9qNmSvTcbr7ol2UKI2oNxkmgz4u0NwzLoyPBHouRl-ohj8q_NqX8w",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Marcos Morales",
+     "uri": "https://maps.google.com/maps/contrib/116057485847537718215",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmq6PA7RKRuylfCFUSGixw1fKhRhnzzIb--mJ3XNaOCV4qUg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEyJGLOQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEyJGLOQ!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMaKMQj2kswReE2VwMAwDL8WwTPONdS27ilDEkpujgupP6Gm7fQEiorZGJh7Tcb-kk8ARRxH4nn3S2vKwIQJM1yNLhTz0Hqmk9dtew2oUzhY2LSqFzZv0e-w2WgUhMk-TMQKufl0FfrxG6Q3pPn60xAF87tEp50Pk2vZkdGD-yzLSahgcf_4IKQyA2SRazrc_kKysZwmyETRcru5r23yOLlnJT9llayqq560dj2gaOZQVloG-xMD7p1wMfZ6m2Efl2Xhk10L7Y1pUWCkFc2JVFVDavJlKRI6DuBMejlc4eXs7mhOJ256mbLhD5siC5vbsuxKVbTm1jQNajmO3pC-dnCV-xrvC_uaV-S0qgq_JhgraErEqMiNe3M-IAoIdgugSt9gINxLrD2OC1ovtBa-ocvTSTI",
+   "widthPx": 3153,
+   "heightPx": 1732,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDimKywQw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDimKywQw!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMbNXXskHtiH-ZKvzOAEYgtUzgCqZZpaiTArgoSzRd_uzc4LfmtBnO5pMx9X2bhwo6b_K3hiy9nZV3ELK7OO9jZt-BzKi1uaGtRvKHTwl2Z4hzHsDovvXzs16oAoJvV9heaAdAC2M6BMwZUoOJQDJvoY5x6QbYMKqqvBQpkjrBvYlfHuQvZuz5gGDXNznitKcWsWte6fBZs_PEjmyg2uEJQdMy5sf1PY17nSmLP2MKnbZIjettdpSTaM56iazafDvzozMuJpTtXenDo0muryPxd3l-T9r39hOEqy_VHqhP04Dbb3xJMltEkExO3xLH-yJS55yiNldc_7Ty_-2SOU0cAyjUHnn9--2I3kKKDUquYYTs_I3--Fsr6tHbuGHTKcPzG-OmWbNZKML6HLY4GFU3h-Ulo",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "César Augusto Carpio Saavedra",
+     "uri": "https://maps.google.com/maps/contrib/112881789087965332415",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnSFkc6_Ms17jJRttdDFF3Q1qNSRWCnI3o0NThdTwjShXwlAcG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICK39-gOQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK39-gOQ!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMZIRYxQf2JPsZ6I6qkre8LjRkwkcAEzsHUmWdcToN1CBbq_J_zJsoku-1RD81MIRlCazPJVWh1Zv9aClN5mD6x4BXXmcA7tbLlgHwQB88qzYQVuquGmp6gJXfXo10ZDuqdkOpcrdabKMP0ZczUsy7iBxGfqTNnzvQA1tZQPkGCfdvmGC75vR85xIQHJ1snhl66IKjfSF52tLOmilfTDIVmvPZ68SDZeAb2n0_SwP1zoN_BK5rjBq3i99cENqDoEjpzNHC2GFrDwF4fSE-zxmEUInNe24zNE8CeBUv-u-kkGpjhbmZZjj9Yi4FEC_fIJ_OSm5wBOwD2v3Y9J9D5foCo6M1XlfGU5ok2AHmLw-FUyRXiRivSUZm2Vb-mvw_iRha2b_WZpZGiOlFCXJUxERXvHQg",
+   "widthPx": 1216,
+   "heightPx": 800,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi7LCtZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi7LCtZA!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  },
+  {
+   "name": "places/ChIJrUiPA1jIBZER2RAgHzgHAlk/photos/Aa-ngMbx4hNRKwyiNlQAi3OHbZ1HoNGdXiptB24Zcuwf5tBqZzSWqUyfudy7EJM_T1S8NWoZuyG2jVTuH9uOzb-ewxZoPm1dk0A7elvRLMb77nzXuDE329I7QJ1Jg6ivJNGyRW3vDSeqcnQ8RPovUA3sbqGg6RKIGW3SljfVnOSbEFFeo92CIRiNZJtnE4cBp7w8XdUI2QhVTBR54LUKucW7pvoqdRW6BwgfNqUQ-uSkSYZJc1j75GEbtfYECJ_HA559kBdtVxhHEHn_xK283XYpYtT38lnJqQMnAowzk8fMbmka8UhWsXwJcHK7NwkCDMNRcWJM454mq8tvYe9VPvZ-UGz8wqbwCb2Gn7-JinIaOFZ0dhgmHMc5Ys-mALw5wLIewa-QRwkS8U020whB10fckgYw-Pc",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Gatuario San isidro",
+     "uri": "https://maps.google.com/maps/contrib/110905064219180680188",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUK-jeSgZE9CUdCyDQrLUHeh8I_UhXqz63x86s8-7YeHb0X0no=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi7LCuAQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi7LCuAQ!2e10!4m2!3m1!1s0x9105c858038f48ad:0x590207381f2010d9"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleRestroom": true
+ }
+}

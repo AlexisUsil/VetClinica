@@ -1,0 +1,524 @@
+{
+ "id": "ChIJUYQgolHHBZERPS83ArlAD6k",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "987 426 887",
+ "internationalPhoneNumber": "+51 987 426 887",
+ "formattedAddress": "Av. Angamos Este 2589, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "2589",
+   "shortText": "2589",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Angamos Este",
+   "shortText": "Av. Angamos Este",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1115856,
+  "longitude": -77.0037059
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=12182026680410779453&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://pharmivet.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 45,
+ "displayName": {
+  "text": "PharMiVet Torres de Limatambo",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Angamos Este 2589, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsc1ZVeDVWakpmZURkc2JtVTFOM2MzYVRoS1JsRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tienen variedad de medicamentos y ofrecen buenos precios, la atención que más uso es por Whatsapp y me va super bien, son amables, diligentes y mis pedidos los tienen siempre listos cuando paso a recogerlos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen variedad de medicamentos y ofrecen buenos precios, la atención que más uso es por Whatsapp y me va super bien, son amables, diligentes y mis pedidos los tienen siempre listos cuando paso a recogerlos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "mabel pilco",
+    "uri": "https://www.google.com/maps/contrib/116964798315595484243/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc5U36JU19BAgCq6Ed8newWEFjL4G2ciaeb0GRHavrkmRXsrdm=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-01-27T13:41:26.942229697Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsc1ZVeDVWakpmZURkc2JtVTFOM2MzYVRoS1JsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsc1ZVeDVWakpmZURkc2JtVTFOM2MzYVRoS1JsRRAB!2m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaeVV6SmlXbWQyTW5SaGVVRndUR1puVmxsa2FIYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente! Buena atención en persona y por WhatsApp. Hacen delivery y siempre tienen los medicamentos que busco, hasta con mejores precios que en veterinarias!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente! Buena atención en persona y por WhatsApp. Hacen delivery y siempre tienen los medicamentos que busco, hasta con mejores precios que en veterinarias!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariella Costa",
+    "uri": "https://www.google.com/maps/contrib/110006193439249896649/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaONUfCJ58WyJ393bjz7cGXrSL95hAbiACH4r0P0jqFkfKpQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-17T22:08:29.470037903Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaeVV6SmlXbWQyTW5SaGVVRndUR1puVmxsa2FIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaeVV6SmlXbWQyTW5SaGVVRndUR1puVmxsa2FIYxAB!2m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OQ2FsbFZXamd4WDJvNFNIUjBjWGhUZEd0MmRIYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Atención rápida para adquirir productos de uso veterinario",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención rápida para adquirir productos de uso veterinario",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "krizely Mazuelos",
+    "uri": "https://www.google.com/maps/contrib/102147608534291725263/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGNbV8wV4wR-qOoQqgnNO5Z6QxQiNDYiYXIDaVfFwmBIaXP9WAAg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-07-13T01:27:29.056609223Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OQ2FsbFZXamd4WDJvNFNIUjBjWGhUZEd0MmRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OQ2FsbFZXamd4WDJvNFNIUjBjWGhUZEd0MmRIYxAB!2m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRlNsUlFWRVJ6WTJRMk1uVkNhbTU2V1dsNlVsRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tienen buenos precios, son bastante atentos y tienen variedad de productos médicos para las mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen buenos precios, son bastante atentos y tienen variedad de productos médicos para las mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexis Quezada (Alexisqc92)",
+    "uri": "https://www.google.com/maps/contrib/115580407846801792731/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsZutw7RtHgVMfLJuIIVxXz2KDiziHl38xbkqOKVx0tsCQCo4=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-05T03:16:36.297553615Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsRlNsUlFWRVJ6WTJRMk1uVkNhbTU2V1dsNlVsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRlNsUlFWRVJ6WTJRMk1uVkNhbTU2V1dsNlVsRRAB!2m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twTVNtUllkMVprUkZaVlNrUTBkbFZFTVd0NGNrRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 2,
+   "text": {
+    "text": "Es una buena tienda de medicinas de mascotas pero cierran muy temprano (7pm) por lo que yo que salgo de, trabajo tipo 6pm siempre la encuentro cerrada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es una buena tienda de medicinas de mascotas pero cierran muy temprano (7pm) por lo que yo que salgo de, trabajo tipo 6pm siempre la encuentro cerrada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Valdespino",
+    "uri": "https://www.google.com/maps/contrib/107803946889031088542/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLW1jjTxhuIyhMKmg46koXkrLSNw3Ey6enEkR-t5bq7Qwi5oA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-30T23:17:54.952389992Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twTVNtUllkMVprUkZaVlNrUTBkbFZFTVd0NGNrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twTVNtUllkMVprUkZaVlNrUTBkbFZFTVd0NGNrRRAB!2m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMapG4BW3wfixosPQN57ezjDgqOMQ_D4l4dhzEZz9AaB7RzKM-gaAQQlAC7eT9dBEdWhxJy_cTqnZdItB-05-ZRuh6DoVYYjmNKXTUkjjsExqZB10WxLaqvXWfk_2_KcQ-oo4HfuCF-ZzBbRRHp6Z4yE7yPxgl8yCztCsPH7okHkzz2HqEtqK_ov08y9j42qWbP_xHBQZaNGwDdGuHkC4vDGEXp2SaFXeLWLsbRmTZhIPXXbqdN_Bx9rmA2ys4CWWalImfiKtKcLYDeYWMxEr8LUSzra6KYb5satKlphc0uUAWgNLGxXUBwxhlUSZ4n-jrh1VBV-2ICFlKSldp7nz7qfoSF481iojj06oMHwCGSIKVWE1J2uGCrU2z-iBtsb_WPWunkkdy4iJbI25MXc-o26J0xrSqHdhnrzdVBpEsc",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "PharMiVet Online Delivery",
+     "uri": "https://maps.google.com/maps/contrib/101293855848480858597",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWsMSdCbY_Mx2pPEHavHo3iEMZeMc7uACof-DOBPw9Slsgk-s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC69JK9Jw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC69JK9Jw!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMYHaqDRwwdwjBLLyRb2kQuuzcNolgQ_7GOd7pgdFT73ZJI4lk7nSr6zWNYyc3oF0LjlndmbRKZlCZRA72xay1GV3gzzNzdUM2W2rWObT6Gh-IxaexFuxuKRtkPRuqKxCXcagCHRJ-fAcib3PZjvpY71ny3KJoUAay0am2vqmjLDVoKP154MXp4li57RTriKrqLF-ZtO-KDrAzpd67o6xgO8rA_3pnEqF8wl06kt9rINjZIQ9JbFDklM2Uxl-8IspOj2dlpuXCMRqO02YZ_YXMTz_fVC3kgqitVKjAUc6GrG6lnV3pq1hwQ46Yaku5GzVnAzNVzpnKpEosZsCRd2m0VkVx_LTsJeRKj-AHntlxfPxG8q1IYbzvKFXFVPAqoUfUT_qubvpOyTwWi122_7A0ZhFJKZhnkzgYeMW47JUhw",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "yuyulines tv",
+     "uri": "https://maps.google.com/maps/contrib/113167282169015859482",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWoAEuKqLabJHq2VOiS5tOePtA4sf-IPIInNCVRj99Vx7F6vk0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-kMyceA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-kMyceA!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMYX8zHMMWWVatkOodI62B4MklAs1gxlDTvb0xjkOd4aQEwg5a7GKaLu8UiykwKLJl02DreA3g3XEHyA4wgxbyCgc1-vzwZ_clfPUEM6QUKSIAX6iJEmTriREZtbUrvbO6CQ3b__bqETLxt0efW-mzjwMeul6hcznMBIbItGlNmEo6_UVOsSdKpYAZgsxmFtR4D_3WzcsPSgB8LO5fcB0qIPX0j3ATSdJJbz6I3nPlm_0O2RKWYAQBqf9KnNtDdFpEDnuRlVVOMWxSo6iqSPtg-Dkj_GYduTX3iwAqdyBpBLw5bh1OW4NFR3hRSeU693he3tQuWKZxMi9fxsV_k8PWVSrUZbeBjSNocOgwftjUg-DfMUcI_ziIiG-d5QNb3FofbNUvz3kID66-FcorZxmPk-4XH_ATRKrvajHJtvEC5AUQ",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Felix Contreras",
+     "uri": "https://maps.google.com/maps/contrib/117838837014110821243",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFuky-AutBu_Neaijsc4FOSTsXOdgDA95qfiNOHwsf7NKxA9V94g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDkl-mIRA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkl-mIRA!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMYbW__yg_43OTaYo7o551HL-ObNEcpqUIj0Imt1q35IoDK_-xSyk9pCwiD5I8yhGs2vMeRLiaexJHODPfsFSuSalm8fUUjjieDDqPJfvdK7Khr_eb6yrM9y3vj2HVajfm-OMXReImXK7keqfNyrmlm5OBtbXSFT_XQ15w1KA7e3ijLHUQTyGGI7Kz0Kkjc17K6L29Fu4i2r_lB8k3v7bI0dEkfAFgqUsrbxPgjCjaV6zbPEdjERgLtj_4HNCxkYhYFPOiW7KP9uFLNKKA1w5pvAQs_XetULr5n8RrGkLb5mYqZ_HQaprwuakwF3JGqxQJABlA1vZVJvkwkauP56_T-SYLPaumGB3AMaaeIO9teeOxc2HL6DqXcLJIBNzbgg2Fo4fZ-gtCdhbhoSixYLsqEf3V485IQtDiV_jtKU0mo",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Felix Contreras",
+     "uri": "https://maps.google.com/maps/contrib/117838837014110821243",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFuky-AutBu_Neaijsc4FOSTsXOdgDA95qfiNOHwsf7NKxA9V94g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDkl6mfXQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkl6mfXQ!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMbHOuoOTj0r9etf6UKGKfS8Ygr1ObrdOyhKu-8BBW7xWN4dxiJ7MnakBn_M6xbccyI0LXiGjWXNCKKhIFbF5m7ZvEEZBdqKlxKshAsIFneS2T0zB1ze9jFXJNzjwrHThPZsFfR13zLOBYgTJgh1WmSrU2CMCbWFeTyTUMcsP6VWsgqynEaKV-kPU_FPI_qlWZw8Ef6ar9pQHa7teGzG9qaWW4DqOwIZQnlLN4U5hheBHJy9WMrf8vU4dSILfI7TldrPkLqaYKpeih7qtaQRBFUAUzYAz3XbQZ57bLGfs84YiDxbewJ86X6L8m-iFlN0lbt9bEQscBb6O2tDWnlixtoia3tiumFZTHrseeCE3Lvmcn8aN7pETiplnBz39G6Lax8O5KvSkR_4oivHu5MoR8X1XKRYikQv0f-GD1zn0Yj64IfU",
+   "widthPx": 780,
+   "heightPx": 1040,
+   "authorAttributions": [
+    {
+     "displayName": "Felix Contreras",
+     "uri": "https://maps.google.com/maps/contrib/117838837014110821243",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFuky-AutBu_Neaijsc4FOSTsXOdgDA95qfiNOHwsf7NKxA9V94g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDkl-mAygE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDkl-mAygE!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  },
+  {
+   "name": "places/ChIJUYQgolHHBZERPS83ArlAD6k/photos/Aa-ngMarrpRHOsjoANVY5mw08CSxJcrrfMdrHRRa5Oj6oJtAlpBU8fWfcmWJTNe7-xDLGjTWmUBUZmH4WhSsUpWJK_dqo2LNr-2vcvD6WkS1ohWKYOKiFSJ_3v16p-0So14WgUTq7WQJF4bkwQu0XyQwe6Niu6CWjorT5o8HZazTFjQRqLKg5r1UtlP9obYS35G0jfSMRr_zF159PY0kTR7juwKYN2CIOv_eq6f-m56mPpdKbha9pae9Uv_Bps_Qoum6IhIk11BgT8qJUV99CF2PXYsyN318UcnZ0eNGNC9TQT7oyMsCyHTpSGERlYSnJj3SKjrQtGhPfw72yNdmM_PiNKPFU3EWYpCvxjNBsVQz2yULiawUOaLuXXbth9KrwakhM1zr-JRvTqASZK5a8no2MTOi1Vc_LFXRlCvH9--ExNsQXke6",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "PharMiVet Torres de Limatambo",
+     "uri": "https://maps.google.com/maps/contrib/107245565689991587499",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUH83XOIXSmkWOe2MxBYdAhaC_Iq3-Lew1MNrDhAR2egLtbcSr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6nMf01QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6nMf01QE!2e10!4m2!3m1!1s0x9105c751a2208451:0xa90f40b902372f3d"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

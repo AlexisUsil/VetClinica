@@ -1,0 +1,511 @@
+{
+ "id": "ChIJdcKvj-HHBZERQPRT_Ozk_Y4",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3403094",
+ "internationalPhoneNumber": "+51 1 3403094",
+ "formattedAddress": "Jr. Daniel Alcides Carrión 102-B, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "102-B",
+   "shortText": "102-B",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Daniel Alcides Carrión",
+   "shortText": "Jr. Daniel Alcides Carrión",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Primavera de Monterrico",
+   "shortText": "Primavera de Monterrico",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.11187,
+  "longitude": -77.0081666
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=10303643228990338112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:00",
+   "martes: 10:00–20:00",
+   "miércoles: 10:00–20:00",
+   "jueves: 10:00–20:00",
+   "viernes: 10:00–20:00",
+   "sábado: 10:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 30,
+ "displayName": {
+  "text": "Cat & dog",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:00",
+   "martes: 10:00–20:00",
+   "miércoles: 10:00–20:00",
+   "jueves: 10:00–20:00",
+   "viernes: 10:00–20:00",
+   "sábado: 10:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. Daniel Alcides Carrión 102-B, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpMFBhc3h3RRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Mi gato \"Zambito\" es cliente de \"Cat & Dog\", lo que resalto es el trato familiar con el que lo tratan cuando va a hacerse sus baños periódicos... se preocupan por su salud e insisten en que tiene que estar con las vacunas al día para prevenir que se enferme...!!!  Execelente servicio... \"Zambito\" se los agradece y nosotros sus padres, también...!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi gato \"Zambito\" es cliente de \"Cat & Dog\", lo que resalto es el trato familiar con el que lo tratan cuando va a hacerse sus baños periódicos... se preocupan por su salud e insisten en que tiene que estar con las vacunas al día para prevenir que se enferme...!!!  Execelente servicio... \"Zambito\" se los agradece y nosotros sus padres, también...!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "os ja carto",
+    "uri": "https://www.google.com/maps/contrib/109621751679716870259/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQhAOKxNrWA_9SFOP2EeoIerrWUmxWthnfOwwJTImjjGeHYUUl=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2020-10-18T18:58:32.654937Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpMFBhc3h3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpMFBhc3h3RRAB!2m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTZ05mUzdBRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima experiencia La persona que atiende es capaz de cualquier cosa por dinero operó a mi mascota sin brindarme control post operatorio, por esos motivos falleció y en el momento de la emergencia tenía el celular apagado. No lo recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima experiencia La persona que atiende es capaz de cualquier cosa por dinero operó a mi mascota sin brindarme control post operatorio, por esos motivos falleció y en el momento de la emergencia tenía el celular apagado. No lo recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "katherine aranya",
+    "uri": "https://www.google.com/maps/contrib/102517478969446027148/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWddziwX0-hNB5gxFIc3E_I0X8g_VOMsOBtwj4d060inXs_wMKNHg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2020-12-11T08:38:16.419624Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNTZ05mUzdBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNTZ05mUzdBRRAB!2m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxa3ZmUFBBEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención. Se siguen los protocolos de bioseguridad. La Dra. excelente en su diagnóstico y tratamiento. Recomendable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención. Se siguen los protocolos de bioseguridad. La Dra. excelente en su diagnóstico y tratamiento. Recomendable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Miguel Angelo Forno Castro-Pozo",
+    "uri": "https://www.google.com/maps/contrib/104599206182898550667/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0_nNDiLhsUJom_zIRC4rmJ8x6WWFhg2AFoD9OViyZwEuFPiiR=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-06-01T14:48:05.896563Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxa3ZmUFBBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxa3ZmUFBBEAE!2m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZdU1Pa0ZBEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 4,
+   "text": {
+    "text": "Me gustó la atención a mi perrita en el baño y sobre todo el corte. Es un poco pequeña, pero la atención de corte es la mejor",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me gustó la atención a mi perrita en el baño y sobre todo el corte. Es un poco pequeña, pero la atención de corte es la mejor",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carmen Victoria Agapito (_CarmenVictoria)",
+    "uri": "https://www.google.com/maps/contrib/106772161246772679408/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNXrfn7Xf4BvxSjAu80R6cJsBvEr2uEBobsb2s_p-2rWA_IzbGgA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-04-02T01:22:26.691758Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNZdU1Pa0ZBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZdU1Pa0ZBEAE!2m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/reviews/ChZDSUhNMG9nS0VJQ0FnSURHNHVYR0dREAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 4,
+   "text": {
+    "text": "Muy buena atención, hay confianza con el veterinario, solo falta más espacio para la veterinaria.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, hay confianza con el veterinario, solo falta más espacio para la veterinaria.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sarah Millan",
+    "uri": "https://www.google.com/maps/contrib/115716599473214521460/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMxBL1Dg7YThJFbB-SWhHbgKBHZ4M4uGWBZVPXuF7FV6juucmbmA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-11-22T22:21:30.920622Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHNHVYR0dREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHNHVYR0dREAE!2m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/photos/Aa-ngMafG6qDERM8fiDLDeBY18JqMdpYuqvAkz0BsdJz9-rtB9EHVePdwgASdwU4YJTlp4hXpmK2ttfvzfR1XFo8lK0gAxwQn3kx7q-t1P9rlLjxMxZ2IB1TAMfCM9CRWFWvR6V_uBe_T32Zj2Hqe5IHGeUPb_TEJLOUGB3lC-4KvtARJw2ghyZ5wR8dQA3Ml_B4S18vohXy7_5vwvgG7-2fdQGLYXrXyqdS9c64vTNmEnohggN__58uOar6JP7o12Bln1kazJkiONnOXXGaSIqRl_9Vr55cr9-aOu86QOgs3OZk06GUT5gmRUE8kMetZYN6COysq3wHkR-rnrPtHLyOBejEan4sZsEspT97uyZ2PrtPoxKtWLCwtpx-xQRTUy33hsFWBzdiqdaWKWeTf4VBj_iHDzsZaXdokFgsyzwSYss",
+   "widthPx": 1192,
+   "heightPx": 671,
+   "authorAttributions": [
+    {
+     "displayName": "Cat & dog",
+     "uri": "https://maps.google.com/maps/contrib/110496938236364356414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOjvDVXcj2YYGaQDmKZd4KwiDoVl3MgE8T_Kxrk98cDmXjY8xz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqjYqxLg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqjYqxLg!2e10!4m2!3m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/photos/Aa-ngMYUgTDZfCF1u32_u6GAMTCThI3fjyv8shUeXW6FaxszdtQSeFb7esnFHmHbHRSovlNiBqcN8YT37xC8V0g1yLsa2bgiM4Eu75aDkArSn_aiZHel8sY_uHcar9UI74l8uoXt4t9dnyo__U0UQpgIA5WA5f606mH3JX9SuXBJ8w7dgXw2b4-sUb5Z8xy9_UYju2qWpI1asaDFgFGl-Q1_Xppl5dnOLsKovHbxhwZC8_VQWoOX05QCs55zNte2CepCGBznsvOyPTQ7LixUR_mlkRwLPK2mZd2USZDgFaotvpacP6IeRMVBhZlFVmsvfwWhPZXJwtaCE8KqhNvloJPEhHY71M3kNcz7X0eHY62GVP1eZEraINN_NTCl1ZBk0k2Slcwh0Iel5UZ7r-X-CGzTgrIS4UQ1UavsLZNGXTgZ2eUFaElm",
+   "widthPx": 3120,
+   "heightPx": 3548,
+   "authorAttributions": [
+    {
+     "displayName": "Cat & dog",
+     "uri": "https://maps.google.com/maps/contrib/110496938236364356414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOjvDVXcj2YYGaQDmKZd4KwiDoVl3MgE8T_Kxrk98cDmXjY8xz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC85_6chgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85_6chgE!2e10!4m2!3m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/photos/Aa-ngMYvyXxcXk3pzE49bG6m9aWOwnENgWS1JGB3pdQ0f4ZJYrhk69IcvZbtHmJneJEVdTZN7NS6A5JIpkxTYyzsi1OjhFgTSdaDZUYAKRBvFPL_xOD7yIPA5njSK4p80tzyk80WmicbvjPE7faTGRSvXOvdQlbK7mmWkuKJMx8GNHG_067T2n0mySRW4ZWeYMtjKkAmVoFGH5Ae3NeBMyb7Ok4XqGUAOoc_L7Edwm0r94lLQ8quzprDd-lYndL11kjg_4_CiU10U6SMoE-ttG8MaXTxQW0NLbn6LxNknIL2YTwg1cFKwb3zPKDrl2gfYtyRf6RsQlc7UV1DUv6N5B9caefuDqvQjTfnS9anrwuo6ZdCprwKK3RxIpYguwwUVzSkJqXX8oGG863FkzfquUuB0grcRr370tFp5XsrJgHHOQ-ntRc",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "carlos ivan juipa ruiz",
+     "uri": "https://maps.google.com/maps/contrib/108136919469856162411",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX45741RchNLJ-MqWu1DsV3P7EVLW2-S3mrfqVF7l0NK7jIkC1Hiw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEivLYswE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEivLYswE!2e10!4m2!3m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/photos/Aa-ngMZBQypyXCi9VJVOcDeT1Jyx6-RjHS_GifBXrsXHp-snr0TWxk0qx3VJaZtS8mhcAwl30vabF8ZvpTlir7FGJ5MC3wjV90Q7pRE4gHUczeBxkBxUuIb8nw-fNsWfhgdduWVvYOP7O3VeQ_OfxGxQsvTrw0wD503goSIuVa3tRXzS-463S3V7VnNn-VeAJpp-2XN-YwCTEMERl6v3yjurY6p4RuEV5wAeEqewficNlxW61pYhguz5sVeRldA3UwMciz-l3xnU-WesANi7w1KzFonAh8UBWNVVYHJrqv-XA-vxD8qcgvnFgtwice6bO706FrgxpsYaLT9ZbMAmMfGff74K3zZHhnTI9ODdc3pjP1eQEzoGZMBjwB_q2bclaYjE26dCXDXtWxgCXZvOxF84Je388eSP7nP5wZi5HjcvqCzG9UPO",
+   "widthPx": 3200,
+   "heightPx": 2368,
+   "authorAttributions": [
+    {
+     "displayName": "Cat & dog",
+     "uri": "https://maps.google.com/maps/contrib/110496938236364356414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOjvDVXcj2YYGaQDmKZd4KwiDoVl3MgE8T_Kxrk98cDmXjY8xz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC85_6c-gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85_6c-gE!2e10!4m2!3m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  },
+  {
+   "name": "places/ChIJdcKvj-HHBZERQPRT_Ozk_Y4/photos/Aa-ngMbKaVBscYZZug_8fpTucVIxKt99btXeLo9kPrmR96MoZDdyK0gf6XO_muQKsQX1TL4-CVEUAmQt8jWaO0lo3H5wIb3NULkbFkrNu3JLwyJaU0paUDNuL_XT7kI6TbyH1vt6YLE0keELrymYGF9Ax93cj75bOsMPhjksTNyaJe1vH-QU_5vw-4SyEuu1Kxprdh-kY7KNLpRME0UGxQg0G1lIlPd9paWW9U9mgHwvQMXwAUtwLmg9QLFfwrG2aN0HQdJdP_oxUEIRDyDsMA5RaKBIpV-v5RmZRULpgNd_tG0btF3c_f6zjdXN44btPpb3qi1MqBSjs67QbJY-BO2ySlEO1yVPlwMsJSrrBJwHSbUfWLta4jjQtNoZ4vuMicXyaI5XCsUdw8limVx6UIRVpYq9eyBTN8Gel_X8O2bv4ns",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Cat & dog",
+     "uri": "https://maps.google.com/maps/contrib/110496938236364356414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOjvDVXcj2YYGaQDmKZd4KwiDoVl3MgE8T_Kxrk98cDmXjY8xz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC85_6cBg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC85_6cBg!2e10!4m2!3m1!1s0x9105c7e18fafc275:0x8efde4ecfc53f440"
+  }
+ ]
+}

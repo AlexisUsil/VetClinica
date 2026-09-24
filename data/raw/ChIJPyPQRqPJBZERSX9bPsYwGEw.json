@@ -1,0 +1,624 @@
+{
+ "id": "ChIJPyPQRqPJBZERSX9bPsYwGEw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "981 549 121",
+ "internationalPhoneNumber": "+51 981 549 121",
+ "formattedAddress": "Ca. José Toribio Polo 327, Miraflores 15045",
+ "addressComponents": [
+  {
+   "longText": "327",
+   "shortText": "327",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle José Toribio Polo",
+   "shortText": "Ca. José Toribio Polo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Santa Cruz",
+   "shortText": "Urb Santa Cruz",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15045",
+   "shortText": "15045",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1137131,
+  "longitude": -77.04773709999999
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=5483186174331420489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://woofspawperu.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:30–17:30"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 116,
+ "displayName": {
+  "text": "Woof Spaw - Miraflores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:30–17:30"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Ca. José Toribio Polo 327, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veWVWSmlOVVoyVDJOQ1IxUnJZWFZxVVMxNVpHYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Llevamos atendiendo a mi perrita en Woof Spa desde el primer año y no podría estar más agradecida. 💛\n\nCuando llegó tenía una dermatitis seborreica bastante fuerte y muchísima caspa. Gracias a sus baños, tratamientos y al seguimiento del equipo, su piel mejoró muchísimo. Sí, fue una inversión importante, pero volvería a hacerlo una y mil veces por los resultados y el cariño con el que la trataron.\n\nAdemás de la excelente atención, hay un detalle que amo: en cada baño le toman fotos hermosas y súper profesionales. Gracias a eso hoy tengo muchísimos recuerdos preciosos de ella que incluso he podido enmarcar en casa.\n\nSiempre la dejan impecable, perfumada, con sus moñitos y se nota el cariño con el que trabajan. También me da mucha tranquilidad que antes de atenderla siempre hay una revisión con la doctora veterinaria, lo que demuestra el compromiso que tienen con la salud de nuestras mascotas.\n\nGracias a todo el equipo de Woof Spa por cuidar tan bien de mi engreída. ¡Los recomiendo totalmente! 🐶✨",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevamos atendiendo a mi perrita en Woof Spa desde el primer año y no podría estar más agradecida. 💛\n\nCuando llegó tenía una dermatitis seborreica bastante fuerte y muchísima caspa. Gracias a sus baños, tratamientos y al seguimiento del equipo, su piel mejoró muchísimo. Sí, fue una inversión importante, pero volvería a hacerlo una y mil veces por los resultados y el cariño con el que la trataron.\n\nAdemás de la excelente atención, hay un detalle que amo: en cada baño le toman fotos hermosas y súper profesionales. Gracias a eso hoy tengo muchísimos recuerdos preciosos de ella que incluso he podido enmarcar en casa.\n\nSiempre la dejan impecable, perfumada, con sus moñitos y se nota el cariño con el que trabajan. También me da mucha tranquilidad que antes de atenderla siempre hay una revisión con la doctora veterinaria, lo que demuestra el compromiso que tienen con la salud de nuestras mascotas.\n\nGracias a todo el equipo de Woof Spa por cuidar tan bien de mi engreída. ¡Los recomiendo totalmente! 🐶✨",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexandra Denegri",
+    "uri": "https://www.google.com/maps/contrib/117462241295512874840/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJn9Ku4V-vsHuJLaFsUxa9TyfUD6StkL448IkfzJSBnJ_drfw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-05T23:02:50.017491527Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21veWVWSmlOVVoyVDJOQ1IxUnJZWFZxVVMxNVpHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21veWVWSmlOVVoyVDJOQ1IxUnJZWFZxVVMxNVpHYxAB!2m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1cUlhdFR3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, dejaron hermoso a mi ashlam. Lo recomiendo. Precio alto, pero para el servicio y la zona es perfecto. Adicional, hay café y pequeños bocadillos para que vayas picando mientras esperas. También incluye una foto profesional ❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, dejaron hermoso a mi ashlam. Lo recomiendo. Precio alto, pero para el servicio y la zona es perfecto. Adicional, hay café y pequeños bocadillos para que vayas picando mientras esperas. También incluye una foto profesional ❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrés Ibáñez",
+    "uri": "https://www.google.com/maps/contrib/112116635188483078391/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiZV7Gn6zV4vTWv24cC-6r4AlWlkqCSxkunCRhCt8NzzLcnurL=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2023-10-09T22:05:11.513029Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1cUlhdFR3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1cUlhdFR3EAE!2m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1MUpMbkdBEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "súper encantados mi enano la pasó genial en el espacio personal por lo ansioso que es pero se adaptó rápido más con los masajitos de la srta. Gladys Que lo trato con amor 🥰 mi enano se dejó hacer de todo,  todito lo que no se deja conmigo en casa 🫣 y la Dra kris todo un amor nos dio unos tips para trabajar en su comportamiento,  y después de su espectacular baño llega solo a dormir me alegra haberlos encontrado Gracias.🫶🏻",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "súper encantados mi enano la pasó genial en el espacio personal por lo ansioso que es pero se adaptó rápido más con los masajitos de la srta. Gladys Que lo trato con amor 🥰 mi enano se dejó hacer de todo,  todito lo que no se deja conmigo en casa 🫣 y la Dra kris todo un amor nos dio unos tips para trabajar en su comportamiento,  y después de su espectacular baño llega solo a dormir me alegra haberlos encontrado Gracias.🫶🏻",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marisol Kimberly Castro Perez",
+    "uri": "https://www.google.com/maps/contrib/103977924527279540719/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQfeexuXj9w2oAX-IgyApTMcVodQfMXgKP_PVPZWQnXXeflLo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-16T21:28:42.705840Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1MUpMbkdBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1MUpMbkdBEAE!2m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUlRUUnBiV2g2WW5sT2RGSnNNVFJoUWtGWlZFRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 1,
+   "text": {
+    "text": "La llevé para un corte a mi mini Schnauzer, y me la devolvieron casi igual. Muy descontenta con el corte que le dieron que no fue ni corte de pelo. Y encima que cobran Super caro.\nPensé que eran más profesionales por sus precios, pero gran engaño.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La llevé para un corte a mi mini Schnauzer, y me la devolvieron casi igual. Muy descontenta con el corte que le dieron que no fue ni corte de pelo. Y encima que cobran Super caro.\nPensé que eran más profesionales por sus precios, pero gran engaño.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gini",
+    "uri": "https://www.google.com/maps/contrib/109404621711681509000/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAoid_elX5x_U4efL87LseoVZM6lKo84bY1tP_33MoVZ3u8w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-22T18:18:50.032115129Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKUlRUUnBiV2g2WW5sT2RGSnNNVFJoUWtGWlZFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUlRUUnBiV2g2WW5sT2RGSnNNVFJoUWtGWlZFRRAB!2m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/reviews/ChdDSUhNMG9nS0VJdmV2T3Zoa3VfTTNnRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Le dieron a mi perro un baño perfecto, y también encontré un perro perdido en la calle y la empresa fue muy amable al hacer una publicación solicitando ayuda en Instagram. Recomiendo mucho esta empresa.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Le dieron a mi perro un baño perfecto, y también encontré un perro perdido en la calle y la empresa fue muy amable al hacer una publicación solicitando ayuda en Instagram. Recomiendo mucho esta empresa.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "A Syla",
+    "uri": "https://www.google.com/maps/contrib/118323639103297067486/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4_SV5OQ-NJOTwMPpPpVZhAnGzlKs7RjtI_3rUdMcteFAbbjwx=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-06-06T01:11:04.977479Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJdmV2T3Zoa3VfTTNnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJdmV2T3Zoa3VfTTNnRRAB!2m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMbFZXq13XAiDy0qD5KI1VudB5tbPFlNQiGY9tE51BpiDzLZn7RFcJUvhDcYPGIKRRfzm1SNc0ZNgXcnGZW2rm1nNbYwxrY0D0Np1Fn3nd-5Cmpbwk1VqEtmhLAp5WNzAg7ZqKdaxZfWrzgui_UmY7Ne6T2InhT-u4estinuPKuogn1uA2Pag14UQHG3Z-0FHxduGgACpw92LhZEoRlOxt44SY5E9Sq9cywBrLsNELyY5OclQ2SaLUHXNkRsNglIor6aOjPqZ5-VRuPVDh53CRsjculoqeeFMA_sWmRtRcBiP2VYMIKuNwaIuy8OveftUt0MzGX6dQJE1prCpx2E1yT0HLZTCo6UYPDfGs9DBOpePZLi9mZIotAmemT4TWveKcjt-vrcgqKvmdtDdAy0HXjPu44",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Marisol Kimberly Castro Perez",
+     "uri": "https://maps.google.com/maps/contrib/103977924527279540719",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQfeexuXj9w2oAX-IgyApTMcVodQfMXgKP_PVPZWQnXXeflLo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxt4ndFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxt4ndFg!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMb-DRpxUWN3p9WC50KGj6DTG13UhpgW3YgEyXe5q78wwOHw_v5iC-Es4wA9k_7zQDLzqeitiwD28steyNNKRmPZu9vIkxgBLuYxKvxGqGEARLliVjqJzzjkAHucqDIoz1aUQbtWEYF8cZU0Ze5omB9DXE3YMeKWqGVVlvl4qamrqDTPjNB9eYtnhPtkhSNP4qJZz_USLG-Xot5kNDgu3XrclGIaZZk8VIdn70jJuUYGYMq5xzqHgtkW4r44RXG2GK7jsy_aDbsUTZCVIKVZaPkU44EZBgv-XPlOyTE2nF02QIkJ7SM-GAJmsWOKqP21CS8-hWRIlwDEHevDw-G6gMd7FRAriw_tA2oPbwAVNU1a5oU-182ZE8KlyN81s94z1rEWzgIjzjocKLNu1jhu17kyTr9Yzmk",
+   "widthPx": 720,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Woof Spaw - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117578209978069255051",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxzkbC_Gi3dafqXnQ36D_G4Gs8aINZUKFjkv2z0rtndf2Ghgo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu1JDhvgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu1JDhvgE!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMbsTdpmJAJaeTTCYwCsEjaPKMGqmXU49G_h-lLFl0M5rG21IEZXTrEoxzPglMb6NnO9PnJrFaBtXP8I_02wqjdkLu_sDETiBobOdpfBFsTRU8_VPVfYBmH57mLC1axr2MvYh7lSdCByQIAdTpJ7pD-G4zWyI2HwZ1FOZbsh5-2sMPZTBM0eet5MRYsiNMjoVLnUU2XjBkExzS8tdyZTsuuDBWG-7icXApctO3as5yDZzxl5bM-Yu6tVpmz7b_kSgBw6XP8CaU03JrAgGLM5euxe1O9jLimdcfw-oiOjWdcU9FsNrn4YzPWq7efioQs85QV_Vb1MoJv-833Yl8f1rtCtzkE8NCu3LwSCGeg4_wDQnQXyUXSKM1O4S-fw3rAyhpcEWSD71QSoGJf9hoaCoJDoEo8EbssdaJZwFAUQHFnvdw",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Woof Spaw - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117578209978069255051",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxzkbC_Gi3dafqXnQ36D_G4Gs8aINZUKFjkv2z0rtndf2Ghgo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDTmBdxM_wceqcaL04GhPD3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDTmBdxM_wceqcaL04GhPD3!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMYVu18ehUeyeeuZR9146AIYU5sWr4exk0ppNlTY4XfOJ0tIcFxOgcob3D4JfnO2FynqN3AlI2ZwO73oof-vCq9TzDyCso8L3ZfLrdTCWO4CPkeoD8Y_IgXR7QL2xzpmfmn2zLqTgNoZTn1n5x7aacGc5m0PBaVOHfz-OcjhRsbJodIOmwmE3_2XMDldDsYoK_-0m6nCeXqvv6ws-8beoxHYng7sHuSYLyF838ElNVb4bdQHnUUWBCCljZyBork-2LyTmdmiBARWjYoz-E0vRNAQWEQA_pw4tSrVedoa6vAb1cl1k9L9M2MaoiIYdRTGimvHV_t35PZ1vafRL_aFi35ri81-FFR7-1BnkC1LWYGbvfo2aYh3gk3qfkX7tWc9GaNOaJFn1C7xqiFZPkuYC6DUJaw",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Mónica",
+     "uri": "https://maps.google.com/maps/contrib/102744650315078369220",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ-h1mXJR6RIHF7rlrlh1SMZzL7V15BcEtzx83_uFeBbP0vgJlTA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmnPyCIw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmnPyCIw!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMaudRn52N6CRpN-QCSYJ50IfDqKBN7IRs7tL0SrM-f2XW5dAYlxQtxT_ANdqGWpUwkOj-1oE4m_GkmuxjLRVHMWylDOYfLvDiGKZMMy91F46EvK3Utq8HJdpkhO9YOERx-enrg8QVpFFgi0sVW6qdUcbQ2cpHEK8JCiRNofrJUYh2D8Y9AVGUFvFK5wjJMpbU16vsNpV5n6T1vfxtgHzT1mG7ppRShbJf3XbPzhqzarMut7X9y2QHKOMQO2FYvgE6HX1T2PPsdvjRBj0y0eNcfoqcPNwUJ-8wsflU-gS7FK5ItAKBQyzvRLPga5FK2k_2zfqFDEnkQFbildIJN0i8DUPhlmihvvY7TFjRh1UZsy1sy5cdSugly_k7lnCf2U2IhipG4gWUP7PjRBuEt7D6EZJSI",
+   "widthPx": 1848,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "A Syla",
+     "uri": "https://maps.google.com/maps/contrib/118323639103297067486",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4_SV5OQ-NJOTwMPpPpVZhAnGzlKs7RjtI_3rUdMcteFAbbjwx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEOTU042FktWYcg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOTU042FktWYcg!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMZWV5YHmaLn_j3R7tqYyrXoY3ZCx6oSi10ItSq4AoNrhOKgl9qNOC8iUDRnejUgdnb75CI82XDIVmmQR29_naUddAM-K4XXQw5u-famRUH2caWcaWXLXs5H-Nc-RK8zCo5mmfjQu6CRIgfUAmcNTtqdu2XkFd8zMIC9Ews_shKhR1okqf79ggKNDVE5KA9iZEk_2IYWlh36KsVw7Anr25XmeSkABvoGc61sQ5EXebrEpgKwcehNz_W8yUsVuVYXoJRbaFuI0y_8whHw189my6_5O55sZudGUCRaC3XegJEIqx1kJd8DhiZ6k2WekQPDKtcTG0b4cpuSS7NiWVfCWGNKuBJ6YmRgIV81rP4VoAFpPEM3LOutYXVRcDvfb0lt_fptVayPVtwcJO_hYWXShpVL5ceUwISbo6XGpwABWWPGvA",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Woof Spaw - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117578209978069255051",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxzkbC_Gi3dafqXnQ36D_G4Gs8aINZUKFjkv2z0rtndf2Ghgo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBd6QjWotPECay-o0ZPS_mR&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBd6QjWotPECay-o0ZPS_mR!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMZa3z6AYtYCpGWOr5BA99RtkSiMBsY3ky9earWivcRFWnML2tBqW2HUsSkPsES_8kKdUNYmDtd6sdTMKKrFzQ9xg0ONZhC6D9VxgmuA8S_cPtCl0UTtmhFMjgJbR795B1MuDeLJVMJzWbNh25bMrtzUgxLvg8Kv2w2X-cILMzhGK1PWsIe7XT75fVM1DYiV-EerE8uN6rSRyv4mp02cOS_-205Y5IzTxN0hd2xjw1kUpdSbXTCY7LhO2YhQizn2N5PZfYPdOVyuyA3DCJOEkrE9zcPcqPzReY9gtDikxk0y8yLz93TzLwe5iMpWvF-q6ajXGPfinQey2bAq8BZlsgO1Mb6acU_ZioRuj4GOtYd7FRvv6Evn6r6NO4AjfanFhWQNuO1e9oD0txIAO1D_2z2K6Q",
+   "widthPx": 2604,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Andrés Ibáñez",
+     "uri": "https://maps.google.com/maps/contrib/112116635188483078391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiZV7Gn6zV4vTWv24cC-6r4AlWlkqCSxkunCRhCt8NzzLcnurL=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC5qPacAw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC5qPacAw!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMY-kwP7MTzcF0nDPJ_NApaJWKpv3p6XVhPpaeICeE-XniZgi_vpwMDgA6rPLkoQ8puUeGozavOQiLt-fDkdXNsusIB9ajsRXm74P3IykE5pqx1gcIsmESslW0VYTXsJ0w7yTMaomWbVMzmvyhFeFEfonG1hDoIY24lfZLDeMjx_iKGNl_hQJFYkBtkB6t2fzkOhDWxT6jCOaD_tLGaSk0d_xK-gRX5IPzr-U8mzbKAwHTbfkfS_NXxG921PvDXo1CZjta0rz-5iq3JHNIE_7caleDOHvWw9U179FqA-16JLWk9iurXwed09JY-cEW47F_grEtcl6MjHxV17SPF0-XFbNkv6xZ1EDsMX62Acyt8QN6inz9fGjM6F2AK6eOmqiL-AadzW2tDQwP4x4Mm9GNZwIQv7LvY",
+   "widthPx": 3648,
+   "heightPx": 2736,
+   "authorAttributions": [
+    {
+     "displayName": "Gennaro Scarano",
+     "uri": "https://maps.google.com/maps/contrib/111307951056583914733",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMAjVPTeUNXv0JpfbVvS_AI8lgr84PpaRFgI22rSZoLK-mFXQO0g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa98iMqQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa98iMqQE!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMZbii-2-NhtCPE9Ydg1m3om_c1ba1x868qZPYBHcfe7_iJxotZ0gJcv6IZfD2Tkpe-3T9LAqZ5FqtIfFWaqY95pfhELLnD5EO4tUG9BwU5da1sbjtvX7XoNlHh7NRXnDBv-Id93HmsdzDFe_Ks_yVW1IVDGyO7qkiX3y5qmEKHzXX8Kh54N8u8eDKdLhGzpIkRMiX2O26YG8PbNz64SdGj9KBKs8kDP7_sX68DzviRMNnbuQqY60RkAqHuQb-h06ywi1kaaXhJwZIbb-m1Vc8WIoBtv6KPUgS5vlEY2vYLX23rV8kk2Z1QrilR7e-hK2z8DaoyX_NGCL5k4C7pCNEFwnAPi41y1xbUfbB19C3xVllNX5ZpWd4jkKd1XJzEuoho7kMXIEH63Wd45sQXLG4yfW-Au",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Camila Soria Márquez",
+     "uri": "https://maps.google.com/maps/contrib/118360959407579333350",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-DmzeP0gTkhrfI-oOt3GEOq1-OXvIBTDTv6Zr1QwEE86KFQA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJqPHMmAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJqPHMmAE!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  },
+  {
+   "name": "places/ChIJPyPQRqPJBZERSX9bPsYwGEw/photos/Aa-ngMZXEl6yz6bajcFMxMQ1qTJKYtXtazgD3L1pWd6DFWv8h60kfqoZE1tJw2J1ce1MOUEE5l_Xs8grrNDwRb9Mt9sM4DZy7QpH_lO4LSF3Xvx_5olsk0OcAD1CZTqCa0lRjBsnh47NPXc9PJGD5MFbhF6ur8oBWpQ7Qq7OiztvtwxrUPCpICLSZfleSQaphftPK_n1JI7ECGcs2GDKIkB4gRfvDRrQ4KoXofYB1FZSBcOwNpWUmo4W4ay_jxX32mKPMbWA5CL95VQm5U9fXCTX8vY9LZD-Bfg2F9R6lZY1ySbN_IUlOlRoGx8rJrDa8SXi9pOAwYsaoVpFN-65DOsL-pawDuLOjsXeEFu2upradPaT6sPskwkKWCPEaRJ-UyHfzi1YGWXQ3rZplmUHDwF2DqXE-4E",
+   "widthPx": 4800,
+   "heightPx": 3200,
+   "authorAttributions": [
+    {
+     "displayName": "Woof Spaw - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/117578209978069255051",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxzkbC_Gi3dafqXnQ36D_G4Gs8aINZUKFjkv2z0rtndf2Ghgo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuxODTJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuxODTJw!2e10!4m2!3m1!1s0x9105c9a346d0233f:0x4c1830c63e5b7f49"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

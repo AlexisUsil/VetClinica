@@ -1,0 +1,614 @@
+{
+ "id": "ChIJi3brW-HHBZERPYGqizEZN24",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "store",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "992 676 904",
+ "internationalPhoneNumber": "+51 992 676 904",
+ "formattedAddress": "Av. Angamos Este 2455, San Borja 15036",
+ "addressComponents": [
+  {
+   "longText": "2455",
+   "shortText": "2455",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Angamos Este",
+   "shortText": "Av. Angamos Este",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15036",
+   "shortText": "15036",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1118965,
+  "longitude": -77.0054007
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=7941844168478458173&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.pettime.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:30–19:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 204,
+ "displayName": {
+  "text": "Pet Time Veterinaria - San Borja",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:30–19:00"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Angamos Este 2455, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUFFWQk1RMTh5TFVSaldEYzBSMEY1ZW1WSmEwRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "El viernes 07.11.2025 dejamos a Canela (bichón maltes) en el Pet Time de San Borja y desde que llegamos nos dimos cuenta que ere el lugar indicado. La trataron super bien y la entregaron limpia, perfumada, con lazos y corbatita.....muy elegante. El precio de los servicios son totalmente justificados. Lo recomendamos!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El viernes 07.11.2025 dejamos a Canela (bichón maltes) en el Pet Time de San Borja y desde que llegamos nos dimos cuenta que ere el lugar indicado. La trataron super bien y la entregaron limpia, perfumada, con lazos y corbatita.....muy elegante. El precio de los servicios son totalmente justificados. Lo recomendamos!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge La Torre",
+    "uri": "https://www.google.com/maps/contrib/113730820683048411586/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIc_znqEEfbdiV_xQSAZDQuvKBBi7A43wD5aXn2LWf_ivNDXQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-11-12T01:03:19.937763460Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkUFFWQk1RMTh5TFVSaldEYzBSMEY1ZW1WSmEwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUFFWQk1RMTh5TFVSaldEYzBSMEY1ZW1WSmEwRRAB!2m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGbExYSTJUR1o2YTFSTFJEbDNXVW8xWTFGVFdFRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "He llevado a mi perrito Max a baño y lo han atendido muy bien, el sale feliz y relajado .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He llevado a mi perrito Max a baño y lo han atendido muy bien, el sale feliz y relajado .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Doris Stella Rios Rodas",
+    "uri": "https://www.google.com/maps/contrib/109119637398525997594/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_5TKZYmZ8t8RIQe0KuConba0CfaShVsl4WFsSSbvz9sql=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-15T16:10:27.471249286Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGbExYSTJUR1o2YTFSTFJEbDNXVW8xWTFGVFdFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGbExYSTJUR1o2YTFSTFJEbDNXVW8xWTFGVFdFRRAB!2m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KTWFsaHVSVWxUUTJZM1ptcHpOMnhMTkZVMmVVRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Quería atender a mi gata en su sucursal de san borja, pero no había ningún doctor en el consultorio y eso que era un viernes a las 4 pm. No era horario de emergencia, disque el doctor había salido a atender un domicilio, pero entonces porque no hay un doctor de guardia y uno para domicilio? Ese lugar es sólo para baños de mascotas. NO PARA ATENDER CONSULTAS.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quería atender a mi gata en su sucursal de san borja, pero no había ningún doctor en el consultorio y eso que era un viernes a las 4 pm. No era horario de emergencia, disque el doctor había salido a atender un domicilio, pero entonces porque no hay un doctor de guardia y uno para domicilio? Ese lugar es sólo para baños de mascotas. NO PARA ATENDER CONSULTAS.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lily Huang Hu",
+    "uri": "https://www.google.com/maps/contrib/109086488850976573083/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa_clZ7T5GSxLA2UTnoc6fXIbTOpBgBhMYy3TTY0cb94K-jWA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-27T21:10:45.031376233Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KTWFsaHVSVWxUUTJZM1ptcHpOMnhMTkZVMmVVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KTWFsaHVSVWxUUTJZM1ptcHpOMnhMTkZVMmVVRRAB!2m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aQmNXdFBVVTVGT1Vab0xVRkZUMlZzZG1aSFgwRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Avisé que tenía una emergecia, que estaba en camino y llegué 5.50 pm y ya estaba cerrada cuando su horario es hasta las 6 pm.\nLa \" doctora\" ya se había ido, no quisieron darme libro de reclamaciones, la admiistradora ponía excusas y la de recepción igual. Tuvimos que esperar  mas de 40 min. Mientras mi gatita empeoraba.\nPésimo.\nEn respuesta, era una emergencia, no una urgencia. Yo era cliente de ahí, por eso la confianza en Uds.\nFalta de empatía, consideración y profesionalismo. Toda la historia de mis mascotas, vacunas etc. están con Uds. Hace años, incluso mi perrita que es paciente oncològico fue operada con Uds.\nLa recepcionista llamó a la \"doctora\" que se fué mucho antes de las 6 pm. La recepcionista mintió con las horas y obvió que cerraron mucho antes de las 6pm.\nMientras buscaba otra veterinaria, recomendada, ya eran màs de las 6.30pm y no me daban el.libro de reclamaciones. Les comenté que por la hora íbamos a demorar en llegar a San Isidro. Les comenté que si me decían que NO la iban a atender buscaba otra cerca de mi domicilio u otra opción. Demoramos mas de una hora en llegar a la.otra veterinaria en San Borja.\nMi gatita estaba muy grave, tuvo que ser internada por tres días y aún está en observación.\nSer veterinario, tener una veterinaria es un servicio que implica salvar vidas y ninguno de Uds. Tiene esa vocación, ni la \"doctora\" ni la administradora ni la recepcionista... y por lo que veo ni los dueños.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Avisé que tenía una emergecia, que estaba en camino y llegué 5.50 pm y ya estaba cerrada cuando su horario es hasta las 6 pm.\nLa \" doctora\" ya se había ido, no quisieron darme libro de reclamaciones, la admiistradora ponía excusas y la de recepción igual. Tuvimos que esperar  mas de 40 min. Mientras mi gatita empeoraba.\nPésimo.\nEn respuesta, era una emergencia, no una urgencia. Yo era cliente de ahí, por eso la confianza en Uds.\nFalta de empatía, consideración y profesionalismo. Toda la historia de mis mascotas, vacunas etc. están con Uds. Hace años, incluso mi perrita que es paciente oncològico fue operada con Uds.\nLa recepcionista llamó a la \"doctora\" que se fué mucho antes de las 6 pm. La recepcionista mintió con las horas y obvió que cerraron mucho antes de las 6pm.\nMientras buscaba otra veterinaria, recomendada, ya eran màs de las 6.30pm y no me daban el.libro de reclamaciones. Les comenté que por la hora íbamos a demorar en llegar a San Isidro. Les comenté que si me decían que NO la iban a atender buscaba otra cerca de mi domicilio u otra opción. Demoramos mas de una hora en llegar a la.otra veterinaria en San Borja.\nMi gatita estaba muy grave, tuvo que ser internada por tres días y aún está en observación.\nSer veterinario, tener una veterinaria es un servicio que implica salvar vidas y ninguno de Uds. Tiene esa vocación, ni la \"doctora\" ni la administradora ni la recepcionista... y por lo que veo ni los dueños.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gi S",
+    "uri": "https://www.google.com/maps/contrib/116090715638038015705/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSDYFYUF_HidxRsQWxA9Sf9cMfvf2MmiL9qOhqqxhFY4jMQhyrkQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-31T20:30:30.498644773Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aQmNXdFBVVTVGT1Vab0xVRkZUMlZzZG1aSFgwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aQmNXdFBVVTVGT1Vab0xVRkZUMlZzZG1aSFgwRRAB!2m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MVdIZ3RRazFLUkRoVWFVWndhM2xRTW5KVFNsRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi gato por una lesión en el labio, me hicieron tomar análisis me pidieron interconsultas con oncólogo y dermatólogo (cada una a 250)  y nadie me daba un diagnóstico en más de una semana perdí tiempo y dinero. Tuve que ir a otra veterinaria y mi gato se sanó",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi gato por una lesión en el labio, me hicieron tomar análisis me pidieron interconsultas con oncólogo y dermatólogo (cada una a 250)  y nadie me daba un diagnóstico en más de una semana perdí tiempo y dinero. Tuve que ir a otra veterinaria y mi gato se sanó",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Morelia De La Cruz",
+    "uri": "https://www.google.com/maps/contrib/111529346340511755450/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCSOHP5PDkBVuNgEEYxTsmK9o22de-qYp9cg0pOnsYqD2tnCT-=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-18T19:36:19.989961528Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214MVdIZ3RRazFLUkRoVWFVWndhM2xRTW5KVFNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214MVdIZ3RRazFLUkRoVWFVWndhM2xRTW5KVFNsRRAB!2m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMY5uetxQwh1KdaU-G7t3FzWdc4ltSZgBBdeobkLenLg2moJCvbT38JCLjDli5LOyCtHpli2-iY6cMrYf5yfL0CIZo-RisgFIf6u_CsNy-TJF20bXbbt-hehsvyzU1k52WSGyXc74-UlI8bfa8NBfZ7bLsCaVTWzuIPNnY5bBeIRIT25ZV1ef4TabPPBysOXmHcnbOqZ3GgxZd7jiMpYJIcs2lAjzlhP89C4yqjzxxZiUxB1NWdvq7lj5s--RpoyD7nvlNDexGWSkR-kjKiP4k7waAC4vlF6R_ztFu0gbku0tgByiXbXogg5ne0vxNXiiWrcCwXMsbmGs1Xm1TYsvSicay87XHjFewC-6EQdT1SuJqe_NE7CQ4Ydc2eYuyiMezZH0-iX0sf_UsOHXuZ1yOchQLI",
+   "widthPx": 828,
+   "heightPx": 1424,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Time Veterinaria - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/112363768637296723397",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8zrkMPgP9uBzgJ3RqPayTgiNPensg8VycXUvdu1RKC1n8MVuX=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRscyaZQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRscyaZQ!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMZfY2VkM7q7fDmyutqfQyqq80Aa71TvKgoTi4edFnV44tt8S9076baEwtYvjnjN88VJoj-YlfN4VF2ixbGT4QN4L7o-gxI9IA9FGjS-I0oKOs7ixFozySelcX_XV0RNAMKQCJg_wrcKLaod-9Q8K32R62PoOcg4kRBVMfXbb2FYYaWDda61kAq8Opjv-1ReKBxG_Pk5XPyQ-t5YaWFxO6kRdQlYP9wRR5sl5WttHJPTW5t2FIbsoL6lTxhMt8i81Udi_j6NuzbSfJUWeuGl1yca5xqhz0R0ZAbA5NZPjm_XRMlr9jmNM6etngqF5AGlnWjqZZNBqrGGnCTFLlknOMj4GdJdyGFXxTuCZ597X90KuSYayf1DrKPQ6QwW--y2CgEDVl7OUGOxc_835x1xZyYkYbyDOf1gcSsmGN49ugAD",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Time Veterinaria - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/112363768637296723397",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8zrkMPgP9uBzgJ3RqPayTgiNPensg8VycXUvdu1RKC1n8MVuX=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhATr4n1lZDll-0nKtDJRBIm&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhATr4n1lZDll-0nKtDJRBIm!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMY9emgGXdF-xmANoLj-qiY7SxIfEH-2f9mS7Dp0-gdDojsQ-GJPLeLepb2R-I2w87MZhU5lDmCLpmwW-jpPiAhR9pykqtaVw6k3DhlneecFLxSe5X3ZgM9iSRFy1EXnXxkWYo0hesqz3BK3W-lxpYm25TTA8AcT11wUoalyDr7ENhyX7L7mjhd8AlPCqYC0WXFpgE-P19RR1IrrozSX4KlJu6RIqFzjjOI5Fn2RKNbOcApL1roysakjO8-yf7uSggJIOYWUGFNndYjeC6TQqy92tossdtlF6rha1cRCEmBH-I8-4HvRFYM__Dv9kAjoYzFFe9YHRKLEMLTahFKHFYtpWy9IHBHJvx5idbHOtTxgPfjU5BGhGWXnePdIf1fYmx5r1acD45P2h3qfJ9kZfSFdYi4",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Diane Villacorta",
+     "uri": "https://maps.google.com/maps/contrib/100149640139764371442",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfWt8DV7Mpl43abzcMlkdvVpbikkcI5N5kMkeaLNzHqW-bGmyOsw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxo4mRfg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxo4mRfg!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMbtTJuZAiwJgdYo8mQLEU80014NrpqZ9QAI8h5D1j2nFLwDAEqqiJwn0KU6qO6HvTJK7GxA4c4MYViBfy6j7sz4NFz5BwVSH4GtOk6Wssj1vPObqbif3d9DvGu5xEqN6aWmvTjsnKPEBlz5dH4pDdT5lhJshqvTYtnBijVjyEIyRM14VjS5WhSwattN8ENMO8GAzvvWKU7ONx4kuwkr0YTWU2EB06b3zJc8YsJGfgwMdZS5No8Tn-uUCZVLb3coVmcf12SL38IC6rTmFCGdOjuVPeD3_A0rgJR-pZIl9lBDYooC9aUOfZ0vTOL4lzVh-_qXlRFVetDSbOpQhc5vlHrh0yrmPUbH3cwiiMV_Wu4ApXr65_-Lw8gux3Mh8bqYgAqf6SyH6DRZWRpCpdovZotbPxo",
+   "widthPx": 668,
+   "heightPx": 668,
+   "authorAttributions": [
+    {
+     "displayName": "vet pettime",
+     "uri": "https://maps.google.com/maps/contrib/112697706133142862337",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-3-r3hxiQOjRrwWpe7yRY-HdJ_A6s7v_rPSMU7lcIaITfKVGg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2ra70Zg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2ra70Zg!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMYVyaEuJSC7RSPcvoXl0wxhIS6LaRo56HOdgLsVRb-W3d7f8vQOv4vH-uzpkpEegZc8yEgWLMrBzHmRUjzRFOin8ZMebOx8uiR5w5w7vpLRO20jlpywwwWnx2wL2J403RqgIbnAig-mmVYBcBbSJVg9F7WFsB1JCtA_wtw1LWXYIz3w6wSRFC1Fxzv5mfbZgrQEHwPzgsOFpm-CWWJcVUt23pHi4ZCA6aLPPX0nYAuCbRL5uo-UeVXp6pY_8loN9LUC5sVnaoKYwXJuFCyVeFbBWuk3YxEA7HlwdGpTRghxT6W9B8y429K7U9-N_RIJRqTwGAgvc7S2Ro4gpa6i_IMV8WKqPT-IuBBtMaPtG1voDkhXcikMWaVVWjqrI2p87KyVFYypGSYHdo-KOPDqtV01opH84K8j4VbZDtwyRKlSgA",
+   "widthPx": 3060,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge La Torre",
+     "uri": "https://maps.google.com/maps/contrib/113730820683048411586",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIc_znqEEfbdiV_xQSAZDQuvKBBi7A43wD5aXn2LWf_ivNDXQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCM2QDuPvf2yyyRLr7yqyoq&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCM2QDuPvf2yyyRLr7yqyoq!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMZoQOBJ-gTbYLbXSj053iyTCQIwDDMpUxb5DWvZCOjqajs4c5VcCWGSa9NvMdrqLbJdU6m8WznV2PvPk7iS10p8lgP9BAOH7oQZk_9AbqoK0hWgFe0DRSh1z4Xsai65-ntEvvkEKtltk7-2sO-OLWu2HcJQaO-01zrYvQXL6JIvIiKg8ooYiSoMmmigfhqsbTJ3PsOilytGRViKjUQ3UDfrYM1tDkMelbkcYnSvMfGdJJ5cjxwB2orLOwQ3WJhuGGvIxDzIFU1q3VhiWEVB6EwHT57jqEUkPa0KNudr3h6f2KYKc7hBXo0qltHEojD_kwlAKpQNesrkW_2ID749at8LS-s66POcVv_yt6tH0K8CpXbt2E5k4juAfx-VQrlNKG9xdkLfsB4eSn9VwOjjGCU249Kdt_upQWpMHNKADGFl",
+   "widthPx": 878,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Time Veterinaria - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/112363768637296723397",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8zrkMPgP9uBzgJ3RqPayTgiNPensg8VycXUvdu1RKC1n8MVuX=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDzAbTAIrhOFmbMyxCk1xKy&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDzAbTAIrhOFmbMyxCk1xKy!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMZlezWokl6kDu2shL5OU0TVb3_kiGmVQCKf4NPHDQHqnB8Xziv0BaI-dJtLwafp15YD0TI__sXDdvJCLTChG2pBwk_jc3o0SBygCq2pcRSigXXliIdxM3DXPp2fYtGIferqESEsZ3OAvbWbcvwWDgnN7U8E4Fj37lEwM8V4dTy-vqW8JJ9V1nRPpjMuB3_P_SCd7pw1kyTa8DR4ZdqgxGYc61GP8256-eE6Xa1H3txaYsa20cSYWDh7Vc53fzaD4wOHlo-W_AeTYAa1N5zJ4YLCWa4iXz1KYjzkJ4dleM3jdjqKeQn5MwXYJ1f_8EwwnWYWHfUjtWhJ5Lu4xOQanFJA0xtyK42HXU45t6_clO40fryx_SyFKhVCmTzQWpXZp2Lb8rl6tzm4_oOaFLnxt2hPNDXSzhY",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Hablemos SIN TABÚ",
+     "uri": "https://maps.google.com/maps/contrib/113203917642407652574",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUkOcRkARAg8Crk-8ynVtps3NWH0xWX-0nnAKEzU9AfP6UCOWg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEsvOv6QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEsvOv6QE!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMY3mpUe1uHYQ4EZRweqhu5AVZBwHtRTKYv9WGZ7UuJvcWFfz13rdxJkcMwtYoyzznT4X1l9HvYm50mzKMjnU1lf7m0jz1K6yhEnqUCrMw45RcxqK76VXWjukga0g3g1ZjHEMtbw2RKXZYuFtmI61WtezWuBPWzUeeXG1AI4TXpFdmsM8WV969j0IPKRZrMMl1qylKpbmXG7uu7RxOY0BUfuZ23hm0UihvIqdOjjoM8D34IRdlbnRnoqqyYpkubZUZ5UHn0bWTHwRyRn2K_md2Mn4JDh2jjjfb9kSi300TecEfFgwJIxITeg4MFIP01JS-Sp3L8UDcGrbV3vwF15P0dx6gUGsyJaipqJ2jQOTANZRd7Uep0u4FIpTHpiqtoRMSkL1KBCTBxAv2KN3O8rw-nS4Bg",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Diane Villacorta",
+     "uri": "https://maps.google.com/maps/contrib/100149640139764371442",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfWt8DV7Mpl43abzcMlkdvVpbikkcI5N5kMkeaLNzHqW-bGmyOsw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxo4mRAQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxo4mRAQ!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMaEtWo7foHkvTw1SM5MlW-KdP8WbkfJassPJYRSPgSfZNwvFZ1uU-U2fLzxBqXM2L4bkZp8TPFzQgAxVvnDN8VTORq-og1YHbKP1tb5dSBvLPWElbg_wPR7VbLhF3pt_6TJpqQI35fONyKW-QLdNisb27Mpd3r2nwOJSZLgm9oiyhfmrve-vvaQ1VnlorYu2UDRGRpVWXuhjTOCKNJ_mG1ZpD6_0CRymDTOeFRSITIgokf6Cg340ObbIHnDb-8GKx3J2mhiYIEfI66luhTiEq684jzdsCACq3KjytVHc4Jxw9XWnRj6A_S1pu0ydN0_u5AhYxNE5oYICZqA-DtRL4aiVHDrDaqVqlpiQbETK9wXvuZAtP2MEf7Gw98eT8ij5E-b5MVCK8GVUKcHES-1jPKyjfqFtG0",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "edson atarama",
+     "uri": "https://maps.google.com/maps/contrib/112193425984983323172",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmnABqQXNR1JRkMfwtNp1Ztv0QpnDknp9hr18qBs5J1kDhEDFU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICp27DVlgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICp27DVlgE!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  },
+  {
+   "name": "places/ChIJi3brW-HHBZERPYGqizEZN24/photos/Aa-ngMYxb00i-uAAkL4lIKRB2KlUgTy_v6CaQfkZn3h5r7HbxPefhJc0OR8dTbW8UWXOrOfBO7My7VuatU0P2pMrgdDmdZDdAn0pAU8kgA_ls3NsH2li5kQLOSuBNNnBq9PT_J5dJ8Kp-KiKYQz-cEspVWVJKlktj7gn-5qwP1wgqgHg6f4KUbfIxpfzpbXXpuvPGrIbvd2PrlYYHDPogVTq8bLVdwA_eyVJ7EMJsnXV8ce_ZNxn__J-WvGOhPVL6QbLljihGeUkDMYx2WJoW3btnnRGBu0pJ9GC8DAUU7zNU6_50pLQDGROeriMC2jvT7w2mVZ4B47FcU9rkcwXZ18iphNQ8T8ac3F9tPBSBnsXkI2GfePO9iSrpa3DngO7Qg-uP7_L8v3th24bs_beJs54abA06wsvmyM",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Cecilia Velarde",
+     "uri": "https://maps.google.com/maps/contrib/111734034435312146837",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvZCmrfrxa-fPfOnd8jPV1N2t9TYbQydqB1F4Z_TfYpb6BTA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcpJHtmQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcpJHtmQE!2e10!4m2!3m1!1s0x9105c7e15beb768b:0x6e3719318baa813d"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

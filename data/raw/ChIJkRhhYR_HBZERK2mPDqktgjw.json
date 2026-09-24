@@ -1,0 +1,572 @@
+{
+ "id": "ChIJkRhhYR_HBZERK2mPDqktgjw",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "941 548 605",
+ "internationalPhoneNumber": "+51 941 548 605",
+ "formattedAddress": "Av. Circunvalación 2830, San Borja 00051",
+ "addressComponents": [
+  {
+   "longText": "2830",
+   "shortText": "2830",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "00051",
+   "shortText": "00051",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0802832,
+  "longitude": -76.98751829999999
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=4360097593365063979&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/vetprimediagnosticoecografico/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 35,
+ "displayName": {
+  "text": "VetPrime Diagnostico Ecografico",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Circunvalación 2830, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ORWNVaFNTekoyYkZjNU9ESnZPQzF1TjJVMU1WRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Deseo expresar mi reconocimiento y agradecimiento al equipo del centro de ecografías VetPrime por la excelente atención recibida.\nDe manera especial, agradezco a la doctora Gabriela por su profesionalismo, dedicación y trato cordial a Kara, así como por la claridad con la que explicó cada aspecto del procedimiento realizado. Su experiencia y compromiso brindan gran confianza y tranquilidad a los propietarios de las mascotas.\nAsimismo, deseo destacar la amabilidad y disposición del administrador, Jonathan, quien nos atendió con cortesía y eficiencia desde el primer momento, contribuyendo a que nuestra experiencia fuera muy satisfactoria.\nTambién es importante resaltar que el centro cuenta con equipos modernos y tecnología de calidad, además de instalaciones cómodas y acogedoras que reflejan su compromiso con la excelencia en la atención veterinaria.\nReciban mi más sincero agradecimiento por el cuidado, la dedicación y el alto nivel de servicio brindado. Sin duda, es un centro que recomendaría con total confianza.\nKara y yo estamos contentas con su atención 🐾🫶✨",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Deseo expresar mi reconocimiento y agradecimiento al equipo del centro de ecografías VetPrime por la excelente atención recibida.\nDe manera especial, agradezco a la doctora Gabriela por su profesionalismo, dedicación y trato cordial a Kara, así como por la claridad con la que explicó cada aspecto del procedimiento realizado. Su experiencia y compromiso brindan gran confianza y tranquilidad a los propietarios de las mascotas.\nAsimismo, deseo destacar la amabilidad y disposición del administrador, Jonathan, quien nos atendió con cortesía y eficiencia desde el primer momento, contribuyendo a que nuestra experiencia fuera muy satisfactoria.\nTambién es importante resaltar que el centro cuenta con equipos modernos y tecnología de calidad, además de instalaciones cómodas y acogedoras que reflejan su compromiso con la excelencia en la atención veterinaria.\nReciban mi más sincero agradecimiento por el cuidado, la dedicación y el alto nivel de servicio brindado. Sin duda, es un centro que recomendaría con total confianza.\nKara y yo estamos contentas con su atención 🐾🫶✨",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angelica Malca",
+    "uri": "https://www.google.com/maps/contrib/111024504074800773306/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo9kNIeCrpTDYYdAaudktwmikXx94Sr-HhuyBkImlcMqWKXJw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-13T03:52:51.063743003Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ORWNVaFNTekoyYkZjNU9ESnZPQzF1TjJVMU1WRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORWNVaFNTekoyYkZjNU9ESnZPQzF1TjJVMU1WRRAB!2m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JMmMzTjZiVlZvUzNkc1VtUlJVVFExYkdKa1ZWRRAB",
+   "relativePublishTimeDescription": "Hace 2 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio de ecografías para nuestras mascotas. Los doctores son súper amables, profesionales y, sobre todo, se nota el cariño y respeto con el que tratan a los animalitos. 🐾❤️ Te explican todo con mucha paciencia y hacen que tanto la mascota como uno se sientan tranquilos y en buenas manos. ¡Muy recomendable! Sin duda volvería.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio de ecografías para nuestras mascotas. Los doctores son súper amables, profesionales y, sobre todo, se nota el cariño y respeto con el que tratan a los animalitos. 🐾❤️ Te explican todo con mucha paciencia y hacen que tanto la mascota como uno se sientan tranquilos y en buenas manos. ¡Muy recomendable! Sin duda volvería.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Nury Zevallos",
+    "uri": "https://www.google.com/maps/contrib/107135742173411776314/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIjIVx1cu2dDU06A4skVUKq9ZNf14GolFtssZpTZeCSYcUtrA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-09-07T23:51:40.048386326Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JMmMzTjZiVlZvUzNkc1VtUlJVVFExYkdKa1ZWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JMmMzTjZiVlZvUzNkc1VtUlJVVFExYkdKa1ZWRRAB!2m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WdVZqbHNXWGszVmpoWmRFaDRTMFV6TnpCak9GRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención y la calidad de los profesionales es excelente. Nos dieron mucha tranquilidad ante el diagnóstico,nos explicaron con paciencia y sobre todo atendieron con mucho amor a nuestra Nieve. Hubo un seguimiento después de las consultas, responden muy rápido los WhatsApp.\nNos sentimos muy confiados y seguros en Vetprime diagnóstico ecografico. 🐶🐾💕",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención y la calidad de los profesionales es excelente. Nos dieron mucha tranquilidad ante el diagnóstico,nos explicaron con paciencia y sobre todo atendieron con mucho amor a nuestra Nieve. Hubo un seguimiento después de las consultas, responden muy rápido los WhatsApp.\nNos sentimos muy confiados y seguros en Vetprime diagnóstico ecografico. 🐶🐾💕",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Celeste Aida Peláez Pérez",
+    "uri": "https://www.google.com/maps/contrib/110062635664391929938/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDniLu2pVul22jBXnaCTFFnvYxgo7IRM7HaTI0PzWsh3ZPZvTN=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-23T13:50:36.361270591Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WdVZqbHNXWGszVmpoWmRFaDRTMFV6TnpCak9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WdVZqbHNXWGszVmpoWmRFaDRTMFV6TnpCak9GRRAB!2m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VeVJGSmxkR0ZtTkhrM2QzaGplRGt0Vlc5cWVrRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "El lugar preciso para los exámenes de nuestros engreídos, no sólo por las modernas máquinas y lo impecable del lugar, sino por la empatía, paciencia para explicar los resultados  y profesionalidad de sus doctores. Gracias ♥️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El lugar preciso para los exámenes de nuestros engreídos, no sólo por las modernas máquinas y lo impecable del lugar, sino por la empatía, paciencia para explicar los resultados  y profesionalidad de sus doctores. Gracias ♥️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yani Vasquez",
+    "uri": "https://www.google.com/maps/contrib/116889823115602873404/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxYa3N9Eyz3qj58P5CxFVrtijceS64RZMxNt_FzOEpfxcxjoU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-07T02:23:54.347587249Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VeVJGSmxkR0ZtTkhrM2QzaGplRGt0Vlc5cWVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VeVJGSmxkR0ZtTkhrM2QzaGplRGt0Vlc5cWVrRRAB!2m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdU5WcG5XVWgwVDJGclZrY3RhVlprVmtnM2RrRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención. Llevé a mi perrito y, sinceramente, quedé muy satisfecho con el servicio. Fueron muy cordiales y nos brindaron una asesoría completa para poder iniciar el tratamiento de la mejor manera.Los recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención. Llevé a mi perrito y, sinceramente, quedé muy satisfecho con el servicio. Fueron muy cordiales y nos brindaron una asesoría completa para poder iniciar el tratamiento de la mejor manera.Los recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Roberth Chafloque",
+    "uri": "https://www.google.com/maps/contrib/105778723588954540013/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEMkfgovKdjUeM21Q-16vuXQ-34S6zPsp-JBqSGmpogFOx0gUP7g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-28T19:33:54.358861742Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdU5WcG5XVWgwVDJGclZrY3RhVlprVmtnM2RrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdU5WcG5XVWgwVDJGclZrY3RhVlprVmtnM2RrRRAB!2m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMZk8YXqXt003DaqxTtedoThWcaMQ1WebiFmVppyf9VejvXUjjg2ADL-Ay9deosJNGCGQUjUjUKwcC9ZOAfO5urIsvPSa8KNRodJT5jNCCmTAbB8Uaw4ByVsB0q2bUPfbCVY1a86wY5ujUJO9PK-a8XGwAKtM2VAGf3U8jfx5PqF_zRUKEyTx5bcnQOB63fR69HCdIKkYg7o1yeY2ODoP0y3g-5umPVN81R0A4paBPHvxUIHFcWloWsFKmMIeV_ndqBTw-xYDwUzb41gOe8GP7Vpvh2tJ4UAOW2ueQQBovybiHNcnUH4dpU8Y1ZYM9hZUXWs6tWuj81h0SRjyEY7eGtaricmOE3t_b69JupvRZl-m_GFUu5wNBcUhP3i7pl8XmZXwuRom464L_g-DhlRU2Y7fcpbvYepVeXTZkPd6FWT",
+   "widthPx": 576,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "VetPrime Diagnostico Ecografico",
+     "uri": "https://maps.google.com/maps/contrib/105693861768093323429",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEYyREdeDyDK-wraWw0n3Q6uFFttU6hNA0krw3tMuywHlPvaU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAeUmgRB0CdI5Ow-cjUCso2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAeUmgRB0CdI5Ow-cjUCso2!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMaoTLbU6uzodsdlhXH9AlZ4_6R1Sbqixn2Vq-SlpbQHXOwTlIwAMINwGZfSCs-ba1uMBDlN_4aIUiyLEcGjUUxXkbmFgOyq1Mvsd8sFYKsHOyYcwA7CE3QcPb7tr1qkXudBei5JUhvdaNAPGijUU9Halk8WoN8VthVFU7gt9fvFEYmShDF_WWBx_gvWPwSA3xOkaGlqPXLjmXhEhLkpd5o2rkuCUfeivc4HcLKnKlsBaHlKJGqgZonBHTA2XOG-r6P7ka1J5ArI-vn0muPVf4D-wAOSzLulBc97nlahKtv6OOZ8cWb8Q8BfBVg6-GOBSiVchc5bTJZWB_wYsAlNY612YfE4btWdOafK_wt8DoANfJrpSjBlR9T6E7fUo9j079o8I5RAI9WjfWbWhMcP2ARhOXJpxevtYDOF6E6YzFuUcw",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Angelica Malca",
+     "uri": "https://maps.google.com/maps/contrib/111024504074800773306",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo9kNIeCrpTDYYdAaudktwmikXx94Sr-HhuyBkImlcMqWKXJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAD2jZhjyrBqoaOwARsueOj&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAD2jZhjyrBqoaOwARsueOj!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMZEC8X3DhwwESQ7XEh7kfukb1vr_qEFCWiM1Iw0iUqYDyQ1kZFqH8apd5eRUqLtkGnfCQDdlQxQMBlmsCk1lEzsuY9faG0RY-0bBlT-wBvaF83ImaFGhdJY8wBs5mEKNOfYA9sQ54gu4MQnAHZywZ-68ChZouswyAnyBMmohO75KNzgoFIru8O8PykbgLSgjv-oq34OCeWWHz_KbEVCmaKtLQnMSBzgjTeT3fV_T6Xph0BxJYVNx3fEUs5HNzOxblBoJbj0E7YXykgXbaYJ6TSeySSpum5Xj-eiXpoP1fmUvyIK_SE3Nk_c-OW_7pDky88blBkPfuP7dfJ9faM4j5QWUcXZS8dSmKAeibLAjcm4MSCu-JYTteezE6kSM9JF4XbO6DuZTLhRavrCK8fEyF4vrDwKFiyvaK3arOpXt4w_zQ",
+   "widthPx": 719,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "VET PRIME DIAGNOSTICO ECOGRAFICO",
+     "uri": "https://maps.google.com/maps/contrib/106902312320618732480",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yKa1tiyaWnRY5xSwipHOdPiZFaGEn-tvhqE7Xh2ZK4Z5xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCcFwACQPor1E-cvYcEIiWA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCcFwACQPor1E-cvYcEIiWA!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMbiBPkrRUjzGbhwnPN2l3lNzerbJsr5LwW4BTBqjQ4lH8pvTtKS4jG0OzF7EDroJdUZp2eoVHGfip-AlYqZIFKw2qSjVw3EPmGhZpoAHp2__HLF_5698FmGOo0LoyIb3alUUA9ZJoHvI4i0y_iumm18sVN1v_sKj0_XbUSVJofWBpL-NdeLaLqLeqSnlSUOA0A6ePwgm8kvHr3fcIy4dGz719x0EbDhmZ-5u7FY4k3Pk1v4NwtYTxAabwjFU2ntXbjUiYrvSYeOaFua3vY7o7X-5aCM-cssro8fMALMIosXjKYZ3M9akRZjl4r76ClIlEkLYksAL-2OtQlXL2l5vXQckMM7eaXQzV2f_ZulyYiLZ4fevPfLf4NdsG87cxZ43AS_iJPLj7OmecUjA-2gjv_sY2-wdZP3IrkFBFm0eN_jlA",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "VET PRIME DIAGNOSTICO ECOGRAFICO",
+     "uri": "https://maps.google.com/maps/contrib/106902312320618732480",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yKa1tiyaWnRY5xSwipHOdPiZFaGEn-tvhqE7Xh2ZK4Z5xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBt71yb30cycdEIDVN6wIqA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBt71yb30cycdEIDVN6wIqA!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMazZMXExW9rQGLazTn4pwaJrqByjWNScRg40uvTrbI0ycVHGtaEcJbgQCBoqI5LmoO988lTotM8IKjNR9-bocUi-ICKjmVh72zYl8kNa2HE29eSacNWvIqKX_7Xnb6oNH-2J_q8DH36CkrwGF2h851dwYKUbXlfqIJpAEiL1-nzdGP2eRMOoKfHxeYPGj8aJXZNprUX2E3utewyks4idVD9wknD7d5vczluupMgSjfdyrHuThiTDW2JLd2JpzUESpyCit5NkvKpDv9naBEunDFCUdGbXgpa4O_enLaKYrZBHTfjXqdV9ilyOdDaRnTaBm5wBkWv6CxW9Cf-y-bAlCSQ2ncFkLnT0x48OhWnGwmMDdG5mv2asLsmp9JLGP99g4eqemt5GcHQoNAm297pdnJwk0VyiWLZQDYKDITjeZ2_zw",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Angelica Malca",
+     "uri": "https://maps.google.com/maps/contrib/111024504074800773306",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo9kNIeCrpTDYYdAaudktwmikXx94Sr-HhuyBkImlcMqWKXJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDoRwoo8esqcJyXJgwvu-p1&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDoRwoo8esqcJyXJgwvu-p1!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMbTktIz_1iKm4UHrSOROOYIH_YknSQ_RelcZcDkWwonZCipivG4Brye3KXXcxq3K5R1YxsFPF_82jRYTBTdKMyMOGHXJ0radZLu295iysbaoR0gmSbX84MBRVhIlFCs1BVg85fVfgrX7de9AJ8if_TJSuks9TVCygOdDBVbTSk4PMAQimaTKljz2tVc32FRNuIrsjMzmTUjUDnlI-M6EAcPvzBSvC8HSvLvBpLh8NvupiYahRXnRajJ7LJ8-MnUNwZwT29Ky_6w8fYNduwpUKhy42bkb995O8FmLU2FO6qSHNdR8dpJO-g91ImG4AqSSuRAzxccAai8MGsWnyzUEl0r--fAC-G--gNYrntZRwaFfUxpgyfIYBfreLucUWDYiK9PGOTfKB4Ay1PcYitZV491v_t2_mhchJCvVVkson7N3g",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Amanda Tamo Fernandez",
+     "uri": "https://maps.google.com/maps/contrib/114665294698721015329",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0L8IB114IE4699HYcUqp2IWViZ0Nm_9OuMLHm_etvz8CAiQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAGkn73AHEZsAFjP0hVWK25&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAGkn73AHEZsAFjP0hVWK25!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMbIPvSeMhajh3Wk_Va0ridssPyULVJSe5DKeAzFGvwdg-4dNgYzlByBC0Gt9zRZN9olKyA3i7QSbT86XpCONUitpnvePGVtoRDtprYKXQSgIFL_uDuuSiEqq1cZ2hR9y-piy5A6nbsJYndoMnspmqf9OOwGfdddymoSbGiISu9daJvf0sKzP4dtodr3pzPg1LAVYWzr4UngRhR1yKY6ShEeGkZ_u7IMJSJWZg0GbjGC4Nwl-lmTBeGmvVesvPM_RGo8Qib-JvPZ7pgMh-w8EYD2nrMsw1lkYV7nOpjf_Xi8NJ4qeaIG8f81cfxAo26KSpjbnWFSIeYn2WbVH0XUYDjnPZT1nFZSRgDwwG2fmgGLLll_YXsUEtB9XmLp9PhBJSonM4ow9kxgmBiEvHSRKi6gl67oycoV_3QMBxbMbkCspg",
+   "widthPx": 1468,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "VET PRIME DIAGNOSTICO ECOGRAFICO",
+     "uri": "https://maps.google.com/maps/contrib/106902312320618732480",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yKa1tiyaWnRY5xSwipHOdPiZFaGEn-tvhqE7Xh2ZK4Z5xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCNKp2TbNrm5DzxVGefqG8k&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCNKp2TbNrm5DzxVGefqG8k!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMZuew-GLwwQSXIs0nw72voiAs0WzexrYVgPXPl0_xaMZRW9NqRAlUO-4gtyvdPB5mYC5N9h34BCEEFHAuyj9_7MmpNwcsDkhzJXG0NFE3yaYGspEp03CM0U4yUlxpRafbZvGNCKHpTB4XV6ZwgU2Z-EZSVp2uickAMUvO_e5tj13Tv_ZlQI27d5HvUyzLh7DsqX4_KBl1ddlDOhesbqnO9wnZ47WPPXtOQdqjY_JdzcPLFD69yy_SO_39-Ack1LJiloKwaXg-EX09iudihYp0DUA_MI5dGSP99EqZTbP0gkiniGe-rRc0q3bg7v7vLE-U9umZmdI4I9WEpJ-XerXht0BfnnTr_XK1it1PWvm-69rteSld3AzufngY2GWt1Yey7d4aeBYDi7yek4WiCOPEBBlv4Ja2ufzN95X-_E5uW3rw",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "VET PRIME DIAGNOSTICO ECOGRAFICO",
+     "uri": "https://maps.google.com/maps/contrib/106902312320618732480",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yKa1tiyaWnRY5xSwipHOdPiZFaGEn-tvhqE7Xh2ZK4Z5xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhASd5kMSG4hZ9zCsWUQEmrd&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhASd5kMSG4hZ9zCsWUQEmrd!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMbbJJBN-CPTM4zdAUATv70Yn9tiMGH8sQAAx0tLAa-DaXtTYpaWuyfL2hK6i_jJMVc70H1RmbsKNoDlaiAvwJtHcPVDR8p3Ahg4cdQO2lPnPWc2usm-yEBauSJ_B1cglV50m_oJ5O_hYYeKwI9-cgBONu5Zi435LugMmX1GXB57ojubUSeF_SCs8Lr9S78E6BCzgYW10mdT1i6chziz-JjfCM5QJwIuIfOYaoI-tbOy0JP9ogdLD1fGlkBtpquU6eDhFBJ7BQWfNxE2m3tOHyfMjuXfb2YpCN7Lcx9rmqNR0jKYkyN9xjoxdqdOdv5UiqZXJde0gD5U83BhqwdJSA0844y6Nx3nd4JiOFqrxn34DU0dmVuDfl2-sn_cnNKO2OMsb_31Zi0qaYhf3eLjqnUfzG6iTIS5gnPzra8WeF4rlA",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Edith Antezana",
+     "uri": "https://maps.google.com/maps/contrib/115074816675061947851",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLT1opmM6J4Z7foQntN-KVkOyLg2HCs7tlm2D54PtMukIge=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCoDxgHc16YwBoxAJnKh68D&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCoDxgHc16YwBoxAJnKh68D!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  },
+  {
+   "name": "places/ChIJkRhhYR_HBZERK2mPDqktgjw/photos/Aa-ngMZGMkektdGyS7LvkmriGgiYlF1iav1AXX6URJ751wQS3_ZQlc5qMN1cZ0g7IbaH8IE7O4hTmnEFY0e3uXBnDoOSjyiLwUb034R2gb7d_X2Pd6oepKjcxa7u5OUmw2XjVe1glbnUJPFZKv5TKdazxET-C1te1P1rMO0gf9CvAHfL5K015lDN_rmFh0ujcIxxIp0VozMl0lPcPdrTfVq8dhDuBcrqbRE_l_2S-8hbn5e634y58Ea3jqY23P5mGvkanUjsa0DEratyBy77MmHmGGwxuihOiM3itYRJZ6kGTJXUkQq_3fQXWmMKQKmNlbCoXynLplbnSs4Yg-f3x6nYUJ8264UOYcBOEYAA3rQXfFsUD3WQihibH4fvJ5Y276BIjG5r6JE9ujkwVLTC6KjQ8jGevZk9IIj5i4n4qrt6uue1RQ",
+   "widthPx": 1800,
+   "heightPx": 3132,
+   "authorAttributions": [
+    {
+     "displayName": "VET PRIME DIAGNOSTICO ECOGRAFICO",
+     "uri": "https://maps.google.com/maps/contrib/106902312320618732480",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9yKa1tiyaWnRY5xSwipHOdPiZFaGEn-tvhqE7Xh2ZK4Z5xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBL_NzALtNw8xa4_NofIuuD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBL_NzALtNw8xa4_NofIuuD!2e10!4m2!3m1!1s0x9105c71f61611891:0x3c822da90e8f692b"
+  }
+ ]
+}

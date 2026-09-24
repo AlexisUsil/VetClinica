@@ -1,0 +1,508 @@
+{
+ "id": "ChIJW0_iLjPHBZERnNZlnUY0VNc",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "987 150 359",
+ "internationalPhoneNumber": "+51 987 150 359",
+ "formattedAddress": "Av. San Luis 3082, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "3082",
+   "shortText": "3082",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida San Luis",
+   "shortText": "Av. San Luis",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "A.h Todos los Santos",
+   "shortText": "A.h Todos los Santos",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1091714,
+  "longitude": -76.9932437
+ },
+ "rating": 3,
+ "googleMapsUri": "https://maps.google.com/?cid=15516084094091253404&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 4,
+ "displayName": {
+  "text": "Convet Av. San Luis - San Borja",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. San Luis 3082, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNlZWSTNSbXBVVUU5Rlp6QjNOVVYwYUMxelJVRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Me acerqué al local a las 6:28 y me dijeron que ya me están atendiendo a esa hora no me negaron la atención muy mal",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me acerqué al local a las 6:28 y me dijeron que ya me están atendiendo a esa hora no me negaron la atención muy mal",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "William Astocondor",
+    "uri": "https://www.google.com/maps/contrib/100827663949247034681/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9BTcUmj8iOhdEOIRmTQzmonghedqp51tMdpt4PYKCrQRCFQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-09T23:32:10.457588700Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CNlZWSTNSbXBVVUU5Rlp6QjNOVVYwYUMxelJVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNlZWSTNSbXBVVUU5Rlp6QjNOVVYwYUMxelJVRRAB!2m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vek5IRk9hbU56WlhoSVFVMTBka3R0UkRaNWRFRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "No cuentan con stock, la atención es muy mala",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No cuentan con stock, la atención es muy mala",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniela Revoredo",
+    "uri": "https://www.google.com/maps/contrib/117375900800161015338/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8tPM__uOTqwTnMZxU0M87hX8u6Awu02rvJuIsSMH6HCgoCIo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-15T21:46:00.549597940Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vek5IRk9hbU56WlhoSVFVMTBka3R0UkRaNWRFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vek5IRk9hbU56WlhoSVFVMTBka3R0UkRaNWRFRRAB!2m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNFVVdGZaVFF3TjBsTVQyVjZWMFJzUXpSV1NuYxAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 5,
+   "text": {
+    "text": "Tenian el medicamento que necesitaba y el precio menor a las otras farmacias veterinarias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tenian el medicamento que necesitaba y el precio menor a las otras farmacias veterinarias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "KATHERINE TRUJILLO",
+    "uri": "https://www.google.com/maps/contrib/100544009089219764090/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXSvBr9MCNaj4zT8gD0UZQmmFeKK_Yd_6tfyj2Hq6RowVUTCXCVw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-09-23T10:42:38.470415858Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kNFVVdGZaVFF3TjBsTVQyVjZWMFJzUXpSV1NuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNFVVdGZaVFF3TjBsTVQyVjZWMFJzUXpSV1NuYxAB!2m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWk1tUlhjRXBNTnpWd2JIazJiRmt0TjBSTFprRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Lillian Ascue",
+    "uri": "https://www.google.com/maps/contrib/114546971923490741215/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV9yO5Pg51uL76V5NPYLZlhxE13J3Jq4iHSPnUGFq0Tl6fF0-o=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-21T22:04:13.073980268Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KWk1tUlhjRXBNTnpWd2JIazJiRmt0TjBSTFprRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KWk1tUlhjRXBNTnpWd2JIazJiRmt0TjBSTFprRRAB!2m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMYTzBRIC5pfwEikVtA59oj2is7igb8jUG21fcYhF8C4agkBaik83bwzAXswduO5jr57RbpgJ1CjExF7iv2x1cC-koN27CcdAQvwgkDksMRRqVKBx2xCJv7OUIdQx1OqdXAJ07bGtH00zM0oBXaBjdTBbXjs2tuhLXwN5O8l5Waaeik8UQzS_tQERziMtm4lj6lyLVH82SDDtAOcudEVU9QzDHSkTplHo2TRF5byBGMNs8sL9eTGVS4xDAP8T35kYcwNCAAwdX5P4KxyVzIUr06BuD2DlQ7a02vxuolux-hlQbQYMlaCLldvs6_rvFrR-DqA-k_xTQ49vj48laMr8Qkxv_SPpktN7RHfoqx34YgbwcqnN7rA_JZCXQ1R3foyssfAVmTs3E6T3OdXasw33snRX1WHHw-FX2vXfRWuP2Dd",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDTjAzCrkdfw0vkRhTdePwB&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDTjAzCrkdfw0vkRhTdePwB!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMaVJSn5Hx8KeT2asnyTRrPxXel7y4b_WwfB6d0XIgdHQ_VYV5RakJDohxxT8DY3eonWYjCC8UIHkUPK_juabcCmrxSJFzsH4t0SoIBu_VH9qQBWG3kNEp3Y13ZWnYt_l1Ot59Faa25mrs8vah4NjQ_igqxdRe3n7PknZ3Hvcnnfr5gXnCDmlRO9IHfIAQhxbROZ2JhHgPMyjAovSY58OTU8jK8xdHVykNLBEaliQFElq_-uyRKUJC7DqRpjyxEz3Uix6K_fWjJ3IANnvvBIaKwlvFDEcnoKJE78lzPcOOAgSWMFys6_fryIiANIKLKRLuELV208w9PZGGqVqGpBs1ckLGD_hB_xeSEkPmF0JE-DpjotjxMzA-3BXdslaCfAj7QT97F-PAkMiYrEPIsen-eLkvi8eI8ZkPGfg1vLvpIq",
+   "widthPx": 929,
+   "heightPx": 572,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC1VfaWIuN8_GfSjzwptI2p&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC1VfaWIuN8_GfSjzwptI2p!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMalzJBck-llGUMH98ho4U8Cda4TvzXAiowTxxMcbm5hrf5dSN_z3Pr0GVMGGJs0D9SZ9-Iu00sYfL669CsmckTqLmax6kNCXJljiLAd6JItev_zJQ5q-ZDT-dbqvteKzPm7TrLXI7fo6Hsxyl5NXcP2SF3JZ-yk6qS9iO8FmG-n4eds8iHSAgSYu5Dg9RFF1xIqHQJ55r-io4FSPtwIF21EYF8-z2j68Mi3M5OCvfzabatiTAmC-x_vBjzL_G-wWim6mKgA6qdafbVzzN8vxu6Rq31-ETO4n2fy1Qb8vU4sGZkMFwPJY8wy8-PGoU7dhpjxQU1eizJPXqr7TRm52rjUMjK_XcsPA87Q-5sX_MvD6RxvfrREW20btb9VgL8oJLaKG51h9pzipqeRKgef2hbWKk5mXtXRiKXODhZCNQewnA",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDWgoEY4TNa8018CViS1O1P&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDWgoEY4TNa8018CViS1O1P!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMYXvMhAw0Z5kywBROBTw5iw1HM_g5gUDCoBiCMSe9HKsz15thkITdeQ3A1gmEvyGfU-wpoAqzx_KFdsyg5HvSHnzN_5exAKlYwVk0-cVZvk-CEo7Du77N7PLrtUjisX8ouwKZLUija31swMTw00VUeWtYOmgWKgAnYtF-FUO16deqYKAXdwB4zvd9rS6gT4BbTSSvzmI5ytQOhQOax__uVuBzQj0-avf3Tmaqgz7je8_fgxHJZG2GrUSJn9txfLCmbsjs95FeFrwXG6_x0XLIYlotA-25zfHaWJulM-S8dQszDs-V77fsmIbWM9jtOtwPuwe29Z7_NXySZbZ-mxOYxkKAtxNpFXj6Re6bnC2V8nHYpss_eeqY4vsJIT9FEoFp2U8eKxJrH13N12IrKrgqU7dTgxPoy-E8J6Gmxeiz8irw",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA-wzif-ns5bjwLvkX2G-sO&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA-wzif-ns5bjwLvkX2G-sO!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMYwO4YaUXr9TOjlcpUFMxe7CnPJ1PRqNZ2gHNNqyFEQRwDdRfukn9KcTNWxwUI4-ZN3dg00xO1wJKgxw1eHl-bhNgAckocYVwnH4y05EfPoCGyKK6gXF2ZfETpyemC-ZhT9uP-MPnsND0OF2bAAIaucO90iLDFIvEPCp2cjFparLyCQ5mjExdH0UU_2VNkl312EvNr97nWcPiqml0wk1FGMENWtqK4Et1-lOSNhBSHA3TL0dbcvEMCgrn7FLAAlqCWUUW6XxLjUQHQ41ZyGwQyZntKFzOcOQq-G6U32qG0kddcpv7jTcX7e5ZrieN6VsNN9Sj-f2jWRGBWTAbmvCPFuaaf0xChTCeZJJl9mvxXB_o-03Vws9UoUQfWPRjC5U6m3mi9E9MOMlTtJmDqa8bAsu5XNNpkh1cNVU1lHNoakqg",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD8NLsardEFFbMoumkHBuQC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8NLsardEFFbMoumkHBuQC!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  },
+  {
+   "name": "places/ChIJW0_iLjPHBZERnNZlnUY0VNc/photos/Aa-ngMaIS9WI-cClaG2GJdx_HWXN-lGsgO1vNIdy1np1v58br3t1atddLoLDbljDf-9eoIcNjKMc3kWx-IH_plxAhcYyamtH6q5PbFeuwENpZQi4hclD0RCMM3uEd0IU3NwOwyeefavBiY_5OC3ybAyF9HU-Q27m-gN-hJ72wNziCD-FMtLPQTIogskUud8TuVia0SMwoPapRjTwseDAVxll_Ruk41aXnsY1uRKorxygN2U9AxBdweyJ2X1e2v15_WUXhf8RsvCKELFlfYoY_FpOtZYuMgrIrgF4G0JNrxooZuH1fDOjt8ggMZ6ZRhQa7FFX24j1TUoZQA3Ol3LrK8fbw9cKEAvJ-pTBo7bojiEBtHVJLWyxDInKUhKuJdPjSxxHR33sa3ZKGD_wydDbypkPXT5U3Uus7QQMJJ-xzNxziub7sQ",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Convet Av. San Luis - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/113844279620004536014",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAmzBGtTQ4JlCpz1y7Jt4gJLvgoSLwaxZdNhxW2R5D2eXb8Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDhvpO7q7uzQG9SPEyJDlwe&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDhvpO7q7uzQG9SPEyJDlwe!2e10!4m2!3m1!1s0x9105c7332ee24f5b:0xd75434469d65d69c"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

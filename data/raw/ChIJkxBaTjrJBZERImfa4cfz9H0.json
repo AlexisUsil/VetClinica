@@ -1,0 +1,609 @@
+{
+ "id": "ChIJkxBaTjrJBZERImfa4cfz9H0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "998 086 313",
+ "internationalPhoneNumber": "+51 998 086 313",
+ "formattedAddress": "Av. Los Conquistadores 1156, San Isidro 15073",
+ "addressComponents": [
+  {
+   "longText": "1156",
+   "shortText": "1156",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Conquistadores",
+   "shortText": "Av. Los Conquistadores",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Santa Cruz",
+   "shortText": "Urb Santa Cruz",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Isidro",
+   "shortText": "San Isidro",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15073",
+   "shortText": "15073",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1080419,
+  "longitude": -77.03721220000001
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=9076147188871620386&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 5,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 5,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 5,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 5,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 5,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 5,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–5:00",
+   "martes: 9:00–5:00",
+   "miércoles: 9:00–5:00",
+   "jueves: 9:00–5:00",
+   "viernes: 9:00–5:00",
+   "sábado: 9:00–5:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T10:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 22,
+ "displayName": {
+  "text": "Healthy pets",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 23,
+     "minute": 59,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 0,
+     "minute": 0,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–5:00",
+   "martes: 9:00–5:00",
+   "miércoles: 9:00–5:00",
+   "jueves: 9:00–5:00",
+   "viernes: 9:00–5:00",
+   "sábado: 9:00–5:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T10:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Conquistadores 1156, San Isidro",
+ "reviews": [
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KQmFsRmlOSEl3Ukd3eGNFc3pRblJTY2s5NllsRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "¡Excelente veterinaria! En Healthy Pets siempre le dan un trato muy especial a mi gato. A diferencia de otros lugares, no necesitan sedarlo para bañarlo y peinarlo, lo cual es un gran alivio. ¡Muy contenta con el servicio!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "¡Excelente veterinaria! En Healthy Pets siempre le dan un trato muy especial a mi gato. A diferencia de otros lugares, no necesitan sedarlo para bañarlo y peinarlo, lo cual es un gran alivio. ¡Muy contenta con el servicio!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Aldina Carranza Falla",
+    "uri": "https://www.google.com/maps/contrib/110250841644785740576/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-eLxGIcwCz2HtGaqRbILkTlC6zLXKs4BiVNzCLMnT5w7kXg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-08-28T05:05:08.076826667Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KQmFsRmlOSEl3Ukd3eGNFc3pRblJTY2s5NllsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KQmFsRmlOSEl3Ukd3eGNFc3pRblJTY2s5NllsRRAB!2m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsc2JTLTlBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 4,
+   "text": {
+    "text": "En Internet se observa que estaba abierto y concurrido pero cuando llegó al lugar . Estaba cerrado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En Internet se observa que estaba abierto y concurrido pero cuando llegó al lugar . Estaba cerrado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "German A Gonzalez V",
+    "uri": "https://www.google.com/maps/contrib/113928737421552115076/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWxvUXbOUKwa5lwm3TuWnRk9TMQBF5HbSCYWbbJ2l7gXtVK-Y=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-20T21:27:25.821892Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsc2JTLTlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsc2JTLTlBRRAB!2m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5bDRHa3h3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Enfríen a tus mascotas💕💕💕\nMuchísimas gracias!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Enfríen a tus mascotas💕💕💕\nMuchísimas gracias!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Goshin Ryu Perú Artes Marciales",
+    "uri": "https://www.google.com/maps/contrib/117382728089652441795/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVbjIPyFvgsG1N2rjqbyqyzLJQil4VXhvye0VOb9B63KOCV8zt=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2024-03-22T03:08:48.466013Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5bDRHa3h3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5bDRHa3h3RRAB!2m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/reviews/ChZDSUhNMG9nS0VJQ0FnTURBa3Y3UWRBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La atención fue muy rápida,  atenta y personalizada, con información precisa. El local muy limpio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención fue muy rápida,  atenta y personalizada, con información precisa. El local muy limpio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "glaek",
+    "uri": "https://www.google.com/maps/contrib/118108772779943385988/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvZAMyWFRXFvLP-R1JIIOntsE-WDNTFXA2aHFUB2PsiRRje9IqZA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-07T22:27:41.953120Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBa3Y3UWRBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBa3Y3UWRBEAE!2m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/reviews/ChdDSUhNMG9nS0VJQ0FnSURDemRycjNBRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente, me atendieron rápido y dejaron a mi perrita muy contenta. Su local está limpio en todo sentido y la volvería a dejar ahí!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente, me atendieron rápido y dejaron a mi perrita muy contenta. Su local está limpio en todo sentido y la volvería a dejar ahí!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Cáceres",
+    "uri": "https://www.google.com/maps/contrib/102468645231778689938/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_anUUzuZ8Rg-OxYZP10iwrcwazdW6utQYjhiCPqVe63fbHBu_=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-10-06T18:46:48.312421Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDemRycjNBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDemRycjNBRRAB!2m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMYAm33vk6UO4YEUYzSXyq2pqi2cZfmM5tz8xO_h_BpuRD7bDYAjbDEGMDn8PR9BHpbqmgaosnmoZETSjH82cRZTDpQyMlRDo6dq_Za0jEtUE_ETaLFKsvKrHjmmuNsrymUaWqUq1tR-7ViuO1AwBP_U5FP47mAl7OKfWJWJcSgMZSqYIFgFnPM-MRt7am3PqI6-osuyhv_kDTwqZ3vaS7A-oiyUFgUr90zlCqXqbN1yOii_jJCmb2C6CU-V_BKw38NTyTcV6gWl0i23oF0nUXoQ0BgeZ51gxztJeRk_GC1MeQKc8XaLd4pc7HMncATp-MNiYjLc1X8EENSVkPxdalShqT3X446HtsBmqldvkNuZLKg4eTn4CfGC7OFxyusiRHe6r1zvjwlYTz62bdq3wGWFJPwAHJAKHFjxF-2xJu7Jgg",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Enrique Gindick",
+     "uri": "https://maps.google.com/maps/contrib/106008642282400219659",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiInStAsqPZ5h9-JLEFu3yZQYIKlaBgAYXGTqMucAANY6H2clexA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBgciacg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBgciacg!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMa_MKWLTiMTtB3lEKJQ-cbIlhmdpaPAUdPLgAqsMFByzJmQWF90le5zijUiQ52O7-FxJdTk9qgyc9wZZ4A-yFO6QzKnPpvwinE-iZgAvbtvFzYnRBw29FJQZvSzk_9xdjFq2zb1H_fOuafuFSWDh1B0BlBy55Twd-oPk6u2C8VEJ681r7wLYK5Z22FEhpMLNrGA0yb_NLmIA9oRxClj4sl-mB6ud14wu_nb-QQYeYVwg5UzV-gnY8dny0QLY7WtJVHAH8arlM8OEGg1qdycp7v6tz22SuxL6usuI6I-HoeDHboN2ap6qMlatLzbmbZvoBHTf9teA1z5JZYrMclJPQUmk-NjrTEaeZxZ0CELxLUFIhEERmFx7No6dCoyZIMdqDLkZ8PFiDpcs3oDk5rwNjnnc8Ra5gZKcfvOvUTTSsaaJQt2",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICchOmYvwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICchOmYvwE!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMZ8yRwEfvA5imvYx3zc0LBQZdFPSrmWCZhfiM5rYP2b5HAuHTV0trGDApTsJtiea9Twud8wXcfg09B58wd9VfTCquOa_3kjgP9xlyeuWNVNVky14DajHgC4Qia3YbwsREe8YAgC1F9npPu-1bXkUthxXPdw-ZXHqi-QOGzbyu-arA0F1SYZdi5g8bg_SZIK1g3AVVuiwX2FEg8nrzz1v6lQqGURPFuxuzy-o9BTBF3DAurvYr7lAizEy1RfwIpqQ5K0IWrCa1MgBx-mn-nBgO5mM1lSA4CxVm7LJLJdpqeZG_QbnjNC6kMC0uu6WWuWULpIG0xkAzeRpRMuVYASgrFlKCPqONL7Jn1iOAcEALqdhIS_8QCC3oqHx-2_-S_uvMk2rGekjAShj2TPRSxjaHVieQHobHNNHilWdthEjR4",
+   "widthPx": 780,
+   "heightPx": 1040,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICchKnsSA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICchKnsSA!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMYSilqmbGq2FFN1h6uIFPkGHCseD_gB7sdR9bLs45JTiZE2LEK3i21rDBSSKa1fFUROqrJrU4POuc05prohb8tJ6a8WS3SMjDLviHwzhQKY-tNJ4YwyfRjseSkfA3EZd846gObI6Fdszq9acyJvN8utbUiGuZdWBfzWaEuYZZ86MP3y4MvcMbu8FTFHD_ez-CMaReh7WNzgT5PjiUBVtESm6oYwyQje0FAkWbdjEOT5MM1sDsSRFgq0Q-yUr6Dxn-EvbpB4Sl-TnN4ffZMS6kcAJb8DjUSjLzrrnDsqgAC-SoVX5kpsdSQgk9nWXwk6AZSz7mEtGGql8RoTKO6sNaOdN8w1pFpBq7HWx7m7_K8xkVIt8zgfNrB6Br1dDkw9PTNEtZONbDvakXN1UuhzFtwb_t7_kIEch3hwXzQ9oHyj15tg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8muH39QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8muH39QE!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMbZ_6JNewWv_G5jQ7OrgXajhKK-dpYFzyk-Ok2oXzgEBtxGjShSdjQoTwjqLQ10ECubfx-oEsrky0Uoqlah1Vrpoj7z_MZeWPTdwPmG-84-_QMrJ63cYEQCfQov8MCjRcCDv_CC-JT4Xk23h7v41b7PIP5FmZylqpQBA23R9Wqgf5pQKQTTjl4SJCIGNMDvs2I3SJgLLbPbSwvKn9Aii3s0LeA1_h2mSTmu8-qNnL1blS96z7IaWnePZIPskFVa1EzXRz8E0ksWvgGnQC6pyCqmfxgP771LNW_ipHzFVLOxZ4l1TboZiKmWV60hlDj5sp1hYl4Igzj_IK-tJRqVt5Q4BIuO4czVSC60TAx_cVztcufoXlHtpchLhdxyYeO4WJxqMksJvPzO-ml4mHiQ5fQmwXXaBzVRnA2D_ZDp0vwKeA",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8muG1Pw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8muG1Pw!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMaRqTFxDTaD3_viJZoM036qiSbt3IVyGzBpGESZMhk7uAuUdPnb_chIe_ljJRoFeMkPXFH2cPHXEVA93DdQFl1DjT6oczRDSTJw1jQ-G8JJjQe7AH_bTte6OtUGC56vxKaBBno7mBANaLHE2FzsqTI996Mu1FGEPDzxx8dhAv4bByiTTsR4hX2LSxjrhxsQYBs6tsYtS6mx8eG_LA-Nkyz5QodG12_uFCUHEoRhvooAlCAVcSdR2rSPG3Gxv3HJjZrvUNDz0DBgxqjp4TIbOozUk9vOH1Ta4v5Z9p1Sn56ZzBw12sDZr6UuESCHvCDzYyCvpm0tYWA5TVpvjIIJpxB5GoE0sdGkEo_frTME_1aV4Kb5FKSQzwDuGpNJhTs4zgfskv_Muo_Cuobe_oLP7Pfeo5cGxDeYklofFfUM8iw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICchMn3Zw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICchMn3Zw!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMZ_RIUvp4umnJCKrSeg0rImZHkPfIZxzB2i59ABhNuwM1C4QMd5OyaGrLfEEaS3uxtObC0bwR-3Cu6UpRM7sYVCwe9RkKg4a34jchzmy86xn-Fl81-z90dNAC_i0GnXWHCPWV5mAknreSS01d1vPIbtzNyQH2GYpr-LgWOlmO_r5QwL4jQtI4tR5G9YtCpDZLWwRFdYs8e5TIKk8GjvvsPZNVV2vGtEYVYRiCjRrb3SxdMkV3u6Kj3QQsI3wSOMtUFM01Z-awpAqpgBAiHzsScckhf4z3CaLXOzUwPL9jr87zf5v2rO4OTWzi-e098XXwmr3FrPAoRqtgoMCxb800DiB-E4AiLYmczZDcYv1insfGlTYKC6AidBrzl8I_828Ap1Ag4V8-GG8lviaWT_dTSIlyIlF_ajSUZx0taPtEvh2CM",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8muGTwwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8muGTwwE!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMYx6-l_5bnJ17KHslan5KQyTPnfZzZbqlI92G7oujFOD3BwXM_hz_3BW155XNf7d1lNXj2dzgT4jSZm5393vAWRWczvedhAC76JQJNp9VKfi3QpZT2bxjqB1O56aqL6bNgYiiejrmuyta826C0Fz646Vj4H3wuSDt2EO4Hdcnyw6Kk-qC6nl5611ox9Rz_1Ng4SYT4loeMrU6jRF-rgLkYlOcIouhq_plTHxhhTZNWOY26KiNwx7XNDhuxZBdkT1StQ5Wu8ioeasyxuZIOtH2R2RmtsTbbmI2x8Sst7qZuoVkA_H4H6nDIiCWkHZweZo-yQ19AcSGQrXTQS-ob3wM2T9Yx1cpG4TcuUJRWA__K9QWNIoAtv7sfgPz_rrdX5gkF4pyJa-GQp2W0IxCHuI-bMTe5ShoJ8mde9HNW69yw",
+   "widthPx": 3088,
+   "heightPx": 2320,
+   "authorAttributions": [
+    {
+     "displayName": "Enrique Gindick",
+     "uri": "https://maps.google.com/maps/contrib/106008642282400219659",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiInStAsqPZ5h9-JLEFu3yZQYIKlaBgAYXGTqMucAANY6H2clexA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBgcimZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBgcimZA!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMayT15Qoqsg-ThMVzyKpd6PD_VlwTwJFnx8nK4IRNmy87128edoBrIZOKKe4d96QDWlpAuUKgzevkUXTA6xkweoUMizhc17LEWldkgylSpVpLoHFPXrkcgTKVK60L1XVjVg7ZYbQ3lJWNTAMY-M8DovpXTBsw5V12FLKcWUcn_iqgMJVtlffy--Kjf_amhFIyxEAP_dEawawVr59BjuJuQrIkgZzK-cJCf2VmcuDySjkcnc94p-p-TFNG71_42LUFY4LAzVlS7V4q1MB_8SOSF0adKwSh97fNvZZ2RpfCfypj6eshti5cRgDf2Axn_dcUYCBzUP9ARdJGuP4A6MBCQUtPNXRIsp8lkAL4a3w5shinBd2xnwSTV0eRz44Vo129cfLnEvrgjuDT1mo6nFlwR1uRjJeJ9zH1K-jYSRt7rCAQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8muG7Dg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8muG7Dg!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  },
+  {
+   "name": "places/ChIJkxBaTjrJBZERImfa4cfz9H0/photos/Aa-ngMYj8rrSLGGMI-5qspxu-QrA9y25MNm2d8UZYWRagVPgr3K6yy9YFo-DGMHaycCoWNfGd_cZ6K-HMzXuns9w9hJNHfYbMF3dhH1l7bYAhnHBkr3buGvFo0SVhS3XHJEZSgg21fn2d95D2Ngj-VHCvhEmiZZwvyTArMX79E1zfof-xlraKZZ5k6ea91lbTfSPUOx3KIxhP1MJw2nyMGNmf1pV6TlCmbMYl0sn8gCaqFYaVrKf7YY2ifWk83k-LR-N25txPWcwd_JWew_sQpmc3BQA0vNOSP15GdPIqO5MSySSo5rDhdWF3jlSSOa48qsT-xnzixNsd-VPdz_MAZYQneg_0e9Pcvez2tgXX7lKB4_Eok_pUNoF_2VY2-tyHiqTaAwfHtR68ir9VsJZlO1qHBY1e3BH12H_nUblLSctyatvIxMn",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8muGN1wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8muGN1wE!2e10!4m2!3m1!1s0x9105c93a4e5a1093:0x7df4f3c7e1da6722"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

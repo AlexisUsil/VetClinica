@@ -1,0 +1,582 @@
+{
+ "id": "ChIJ5c-3DcjHBZER-m17rwn2wu8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "913 558 390",
+ "internationalPhoneNumber": "+51 913 558 390",
+ "formattedAddress": "Alameda del Corregidor 2965, La Molina 15024",
+ "addressComponents": [
+  {
+   "longText": "2965",
+   "shortText": "2965",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Alameda del Corregidor",
+   "shortText": "Alameda del Corregidor",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cond los Molinos del Corregidor",
+   "shortText": "Cond los Molinos del Corregidor",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1126411,
+  "longitude": -76.9414585
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=17276641642005884410&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://petcenter.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 47,
+ "displayName": {
+  "text": "Pet Center El Corregidor (Clinica Veterinaria)",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Alameda del Corregidor 2965, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/reviews/ChdDSUhNMG9nS0VJQ0FnSURQNmJTcnlBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, mi perrito vuelve hermoso, se va y viene contento, nunca tiene miedo y lo traen limpiecito! 100% recomendable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, mi perrito vuelve hermoso, se va y viene contento, nunca tiene miedo y lo traen limpiecito! 100% recomendable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "claudia rocha mujica",
+    "uri": "https://www.google.com/maps/contrib/106295465436840417148/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUArJvZkFW6NzcLA6JxRQejqIEHHnoaF0FpgX5qpYfjihK5SzHFbA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-12-03T17:22:25.485675Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQNmJTcnlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQNmJTcnlBRRAB!2m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSV1prMVZOVUp0YjNKSVRrVTJPRk5xWm5GS1kwRRAB",
+   "relativePublishTimeDescription": "Hace 2 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Siempre baño a Hope acá, trato muy amable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre baño a Hope acá, trato muy amable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sol Cruz",
+    "uri": "https://www.google.com/maps/contrib/102015381681682151370/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo7gDsSdzatJd_f2Kd_NlIE82gFXLtFGymFQA0DC-lgAgmyf4SSg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-05T16:15:57.135447341Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSV1prMVZOVUp0YjNKSVRrVTJPRk5xWm5GS1kwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSV1prMVZOVUp0YjNKSVRrVTJPRk5xWm5GS1kwRRAB!2m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNWJDNzR3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 3,
+   "text": {
+    "text": "Dice que está abierto 24 hrs y no es así, se le necesitó para una emergencia y no se pudo contactar",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Dice que está abierto 24 hrs y no es así, se le necesitó para una emergencia y no se pudo contactar",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gary Leon",
+    "uri": "https://www.google.com/maps/contrib/103348454426947424545/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8CYS_BqJmk7k8shp6ekHXsqp4-qEnWfDwiX1T2EQcxwWh82Yv=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-01-01T23:41:15.972637Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxNWJDNzR3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxNWJDNzR3RRAB!2m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/reviews/ChdDSUhNMG9nS0VJQ0FnSURQalAzRXRRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, mis pequeñas siempre vuelven felices",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, mis pequeñas siempre vuelven felices",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stephanie Espinoza",
+    "uri": "https://www.google.com/maps/contrib/100828955280196755995/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtX2CKXW4qLbHC6RVCko82if9R2lNSP2za3bb1v8WW7in7uxvz=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-02T05:18:46.996711Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQalAzRXRRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQalAzRXRRRRAB!2m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd0pLSE5BEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención, te prometen buen servicio y poco a poco se ve la ineficiencia y falta de profesionalismo.\nImpuntuales, apresuran al cliente, no sustentan o enseñan los medicamentos que han sido utilizados y buscan que el pago sólo sea en efectivo.\nAdemás el personal no sustenta el porqué de la incompetencia o da las disculpas del caso.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención, te prometen buen servicio y poco a poco se ve la ineficiencia y falta de profesionalismo.\nImpuntuales, apresuran al cliente, no sustentan o enseñan los medicamentos que han sido utilizados y buscan que el pago sólo sea en efectivo.\nAdemás el personal no sustenta el porqué de la incompetencia o da las disculpas del caso.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lugli Belotti",
+    "uri": "https://www.google.com/maps/contrib/101021625991609678793/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJUnhGxYwaG39AyUjYkF6vsZrMx0PKZ6OLfOqI0M4-hkyEbwAD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-04-15T00:37:19.224038Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSd0pLSE5BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSd0pLSE5BEAE!2m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMbjkEiqxqgxZ33uxVel3u8m9HU28sIDholMR3C2zOE1z6shWa6XvjTNdMS2KW033vSa2p0L5Mzdf-EBJ_xh1Nl3_D-PYMNXG4OUPunBvqq8Z1_eYTeiiAOcJb7vE4eJFOvBtHktSVMKuOeUz0g9Uw3r6Ad0UlyZ0Ioa9leMhKGzI1Jj8b6ZIAGwnTBc7sVpNhlXGCuaiDyd0jx0wP_emNzTa3Qz64mZw5crbBSX43nFI7pyDGCeSl9h189ZNvk6uElg2mzHdlVVTwc7V5Y2Bbe_zKA3lpz41JGdBLh2eEbAjav0qhuzsbluxx8c9veTcVjZT0zQH7Kf6GnTTIX2WoTkoPgQgjwdb5caeAKOp8rKCFsJMI1bxx5DSc81285-F5BPsrnr7dJHHc8bFK9j99qzYE5H3jV-UWmLgqYWl-F5wQ",
+   "widthPx": 1599,
+   "heightPx": 1186,
+   "authorAttributions": [
+    {
+     "displayName": "PET CENTER CORREGIDOR",
+     "uri": "https://maps.google.com/maps/contrib/114366505135147664825",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP4qUh-ddZsbwzXKEcUwofdW_4DoHIFkiqTar5zQhSFxtDYg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCvfUW1293e7xWNymRqTqZb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCvfUW1293e7xWNymRqTqZb!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMbwSjKX-SyO3MG8Wi98qYu6jP27b0AZ3uz8wT1E_xP6Rwxz5YxAidur_sy_lZKHV4p4D0u2DxU5V8Gy5uT7mhlPvUwkY3BaW5Hy88HHBf09DVfvWVwck8Pk1-hbPVv-EqZGI5MbrtGHLPlQczcZpB0clOw0MeHHYP7lyaplSMqt6wnsZQod1FfZ8Icr33Pit-4zDtD28RfoQ-Kb-LxULsINCx1g4FJE8Ln-jowhoWs0wPgt6EBRpU5Wv5io5Z1oPskjKpL_mVxJF0UN0YJwsYijMaEo2KDnfysg9ghKuk4JKq-IhXIz68eWHdHE6ahk02tYdvmA2avQoEYkFoILpmqbhRrxoKlsK0L2JStRBEWWSDYpUzx2IZ-QpfZanoQaNpPqFk1EIY65u_eAcHnm-YWsAgqmV9XacBc5GhrFegEdBQ",
+   "widthPx": 1600,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "beatriz ramis zola",
+     "uri": "https://maps.google.com/maps/contrib/112775672811620106270",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKZqMU5LSKulnN93DZc0VTfUSiN8eAPrcqmnJ-ae-f4GkRCFCwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD9xvnmUNzbHMOT4wAYy3jx&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD9xvnmUNzbHMOT4wAYy3jx!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMYE86K5aLAuK90feDuttY1eGwsWo_3hc6fmFa__kdvvi4HbHgHaMzgJJn6iVDtcCgKVM7B5s4WEavQOvbLJlramHmuM0_PphKWxto8yxaNV9j2o0ocIgJtvecq0h2w-fUAUo7UPjQoE683nHhHDo5Fkj5SMa8kWodb3uPQlNDdOXrdAbzi9Ll_4Nb-rdqFBH3SIOluY0dJlE4D6JPnj4BY3uZZYsMLEYmL3RIiopIAJGUOt4_xRdvn4aivHRdGFZde_RyoIeX920eJ7CXsC_fovl1JlakChfq1OTzALre7Wh2t6DTDCAujG01wlTd6eJo9lfGz1H8Y96y9ir6f0VTWk041I-v7ycs5DIj8mtGuUe27Y6MzsAJK3XMcnaFhoiJiwXBQ4e9ZtLR-8DQ6CiF6IdSo",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Stephanie Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/100828955280196755995",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtX2CKXW4qLbHC6RVCko82if9R2lNSP2za3bb1v8WW7in7uxvz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDP9triJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP9triJw!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMbQ65wuwi50OjOqg1JPtHhFtKjJhGzZCVKI6KNwnwxGP2WQgvxjNq86dywtevlFApkR5CKZ49HdbQ4kBoRBOudeV0MSn6fqDIFaeCUT7LheR9TWBEKxQCtc6xXdoat8j8MHHjiRA8fRjsfG0tsPEsMpGR5SCKS0LaoNrdBZgoTZZnfbzqQJGP8Rd7_zBWysX7_qJCsrbjgd0V99FAe8urgiSpXNw8ykxFBnOWlxK3QnPegpq6meIj4PMP-VyPGJHxHEueVT8W47As8oQIBroFzhjhGtOOjtzCbAXXdl9Kk_gQA8yM6QHmYuXIsJ7mJKa0RQ90NZ0-r5sVN9YdyrXKMO5kyAZ7Itj_tYSsRsvgt5iC1lO5rEplMFuZf8aHm79DOWYDAzn2PPgb-xY-PKQA",
+   "widthPx": 1836,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Gary Leon",
+     "uri": "https://maps.google.com/maps/contrib/103348454426947424545",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8CYS_BqJmk7k8shp6ekHXsqp4-qEnWfDwiX1T2EQcxwWh82Yv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC15Zgs&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC15Zgs!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMbQW3I-SD8cp5FW_HHJ4B-S4ooMTrzM_8VaAT_8svCEwjXnTxplf-ElH0Af0mDj1_hOjehlAsoUY5fa_Un9Mfa1-PT4UDlXim0ELT_6ftHt4vIQRmGaTA9AHExUpln0fORkE04KT86QwN0L4Orif4njyByCYcnCtD1Pyc1egLeqXl2uO1sfq7ygYPuKNYb1X5l_vctAe4VajzvtIxPyXYh1HAyHJEVMHjShJ_G5toOsLABumg697Wj0eytmydpaQfH3hQhXedwKN8YP411m6zp-V5Ki-fH2EbZzhT0jtJCyCU9nj5cBqekZPuPFeD5f-xEQLe3FwnHokj8HOHGG6Iu3XVs2XmbgvCBc4knFjUE2iy-T4P1PflJeL8sIpzyCY8BG60HvwTAo28fuT7FFL1b0og",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "claudia rocha mujica",
+     "uri": "https://maps.google.com/maps/contrib/106295465436840417148",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUArJvZkFW6NzcLA6JxRQejqIEHHnoaF0FpgX5qpYfjihK5SzHFbA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDP6bSraA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP6bSraA!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMb4Niq8QjUOJjGlA1TE5n_leZ1A69Bc6f6jyhFYl0WZEn__IAGJJLqFOasPZ2FaYLi-e3tdoS204egbVytRxMh9GWrM8NypIwm5fAZYsGrAFd2Bzd3Kr_YTzLHwqLNhy4xTmrhbfxPJjgqNyyOOMIW9h_-1FTx18hBrX7fdUbSZESveEe67_DdouKbRT2BFH5QpC3qz4STU6sISmvya9d5V_DKPuOIWzmM9aMyYxxC_g2D5rvOxPwqQwMylpls73gwM6WzzGKtQ2rxX1hkgskulq1mt3gx1pFKflC0K9zpOSviVXm-YjXSgsPR3hC_h3DUzTXQqvj2o7zHgc_tijirCzY1iFQBW5PNMj5n4JLcrGEfoPH_tVfY8jbITXghSOdbTaFTAMP_u5KYV78sHukGoZ72pmlJAagKjqkVZQIQU3w",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "beatriz ramis zola",
+     "uri": "https://maps.google.com/maps/contrib/112775672811620106270",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKZqMU5LSKulnN93DZc0VTfUSiN8eAPrcqmnJ-ae-f4GkRCFCwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDVMRh0jSMl-Aua1z1Xo6uv&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDVMRh0jSMl-Aua1z1Xo6uv!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMZapOKyVPz83sE-yWkSL2wvhHX_o4mTpzQEVXVED11TEY3uDIK0wbhQEWYZ56f8JHxXlZ79Nq20o1i81YFVHrFUM1wbBVMsWLykNDkVJv6cIAbapgC4GRvItgO0m1ygGye-NzUkLijW2_WS0FWAGdzLSIkve8UlhJQujfCCEp2UELnR_PuGZ42JhX2aYsBMclNm7wOGpDc3mgxQveAYSdz_RhBiQ_NPMJTbpnJfbkfyHosIC3AbrQNBcYuy9Oq4rI8Ku5rbhC9OQ_rU1LtxoavT1TN5KM9cpUy8U7GO6RdX8pzHuoDQrsy4vBtm0WWhs9JDQmRFYzT53ulgh7K5H8ZyARIprcDmNWqjGNtrDoWf-52TuOMms7PPQ-wZSRUjvVeMWlonsqm8Fe0cAKY6f2u9Y7snm_CDuWVzcy2rOoZHWw",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "beatriz ramis zola",
+     "uri": "https://maps.google.com/maps/contrib/112775672811620106270",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKZqMU5LSKulnN93DZc0VTfUSiN8eAPrcqmnJ-ae-f4GkRCFCwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBstz3DMXwDyy7IO1yMF5xF&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBstz3DMXwDyy7IO1yMF5xF!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMYq-5HB8vXZASvXh_4O8qWQDC9lvwe3v0RDxEK1O8QvPbuHB00F_8EBIkyuJIb_oUw5eRucy7tSFtVqi5sbtpESxPok8nMGsyfdVuLAbvYXtbm256U6SIJRG2A34xO3voANUMPD0dboFAgKPOQWNSYeS_Bstlvk2iPOkPP1cfFPgRY7Va08Khyshumc06ONaC_ZSZQcfRcxCuU89uutSpQxxdEz6LFu3MjwOn1SP7Q200AxAFKb1xyA_RcxUl6Dc562OM1BgKEsyX7XtL60RUn_I6gtagWUAskhmkdAO4zFZkl2GK3eMKU2ygraghz3Y5GXb-gO0xupFo0Eib4ubaV5Kr7xjsdyBEJN6Qku64ocipJYJ0yrktvVbaxh2ajMXqYwz7GbGUkJiJqfyttvjjv-LjKTdvtOFv7omp1jsJlctA",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "beatriz ramis zola",
+     "uri": "https://maps.google.com/maps/contrib/112775672811620106270",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKZqMU5LSKulnN93DZc0VTfUSiN8eAPrcqmnJ-ae-f4GkRCFCwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAATP6ZZr6w03qJ0d7Eh9Kp&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAATP6ZZr6w03qJ0d7Eh9Kp!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMbrOjNgenRH5vDPocVsHcVMxumiKOMx5ySbpMjGz39g-fe5zDwkR3CaKd3vZ0iEDPHpEq5yTbGv0k7V3kOc6BGxyP-UhbsOrJ-hVzSBR3_ab-VM-ktIpJWe3v4NYAeJrqATESpIpoymEaFObUwoDutbQzjU8bsbEbYgBCS2z4-2UK2zWZyseTOYjssw4YHglDgQHARXQvfT1HkruYzdf-itOLCWfZ7y-VpNw8L2xLFErVKNkoyxrs9u81pU8qBfSKtf3xEWdCDaDuc4zYQHaABJlfEzbZ0ds6Udvgc1msDyahOBqAqX551gUDApJLEIAgv0BRMU5A6eGq8ZaIBrdVLwaUXnp5E6O5ReqBJCgKJo_SfuwTwdJ8PWYWA5SwRy887uJuQKoUNAaYESz3lyXNfP3dmzMrEGMMUDNG6SOWKGnw",
+   "widthPx": 720,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "beatriz ramis zola",
+     "uri": "https://maps.google.com/maps/contrib/112775672811620106270",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuKZqMU5LSKulnN93DZc0VTfUSiN8eAPrcqmnJ-ae-f4GkRCFCwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCIczAMlsbER6RuPYJjoiPb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCIczAMlsbER6RuPYJjoiPb!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  },
+  {
+   "name": "places/ChIJ5c-3DcjHBZER-m17rwn2wu8/photos/Aa-ngMYyD83Mb5ILjjLJkrWqHR7w7x_f2A2oUoZgr-nmGGl56WP7E5RfhNHw3z8w48CJyn52rWKtLxaYvFjis5NxlfSTG6--ZQblxBb09CX5wCJjVZLvh0gsk2Jf2Ct7fbdoo1lnn2vjIvJN-VzdlMKS1GFDNvKnvA2kV_AujmyI4wdXcCxS8KebtXG-_P9wag0SCn4RJXeuDZTo4TOTanKCSipF-QUz59NQ7b9xfCLGuk6uQ3Vv7IM6fP5lJ52EXHPuEkOhdtEtKM6jL5WQkF8g_eV1_S7o23km9HXkrDHeQAL36IfEQyTF26NcQKAc8K6IUBKVf4TFBtEeJwcA85EYlAkIhvZc5_akIcyqiOsQG9Aumz0_KczAW01n4K3NGf3mXnwBu-Qw5-4RFvzH9dLN8PtpmHGmXlw",
+   "widthPx": 1836,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Gary Leon",
+     "uri": "https://maps.google.com/maps/contrib/103348454426947424545",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8CYS_BqJmk7k8shp6ekHXsqp4-qEnWfDwiX1T2EQcxwWh82Yv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC15ZisgAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC15ZisgAE!2e10!4m2!3m1!1s0x9105c7c80db7cfe5:0xefc2f609af7b6dfa"
+  }
+ ]
+}

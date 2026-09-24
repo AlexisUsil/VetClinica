@@ -1,0 +1,529 @@
+{
+ "id": "ChIJ-z8vcs_HBZER-lwEYfofUVQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "922 437 769",
+ "internationalPhoneNumber": "+51 922 437 769",
+ "formattedAddress": "Av. San Luis 2205, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "2205",
+   "shortText": "2205",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida San Luis",
+   "shortText": "Av. San Luis",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Borja",
+   "shortText": "Urb San Borja",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.093939599999999,
+  "longitude": -76.99541649999999
+ },
+ "rating": 4.1,
+ "googleMapsUri": "https://maps.google.com/?cid=6075672532529470714&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 58,
+ "displayName": {
+  "text": "Veterinaria San Luis",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. San Luis 2205, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURMMmQtOUdREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Fui para que esterilicen a mi gatita Benita y el servicio de la doctora fue A1 . Tuvieron un gran trato con mi gatita.\nSuper recomendada",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui para que esterilicen a mi gatita Benita y el servicio de la doctora fue A1 . Tuvieron un gran trato con mi gatita.\nSuper recomendada",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carolina Zapata",
+    "uri": "https://www.google.com/maps/contrib/104818571129533432893/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJT1QZX4EqCBfWvccjUylyMrg-d2Bjpzbvuqf3goT7qhII9Ag=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-06-28T23:13:51.925261Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMMmQtOUdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMMmQtOUdREAE!2m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsN2Zucl9RRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "La Doctora Julia, es totalmente irresponsable. Ayer yo la visité y hablé con ella y quedamos que atendía a mi mascota hoy a las 10.30 am.\nMe plantó, la llamé y me dijo que podía ver a mi mascota recién al medio día. Esta veterinaria no respeta el tiempo ajeno, nada profesional!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La Doctora Julia, es totalmente irresponsable. Ayer yo la visité y hablé con ella y quedamos que atendía a mi mascota hoy a las 10.30 am.\nMe plantó, la llamé y me dijo que podía ver a mi mascota recién al medio día. Esta veterinaria no respeta el tiempo ajeno, nada profesional!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marco Morales Tramontana",
+    "uri": "https://www.google.com/maps/contrib/109161744516618896554/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7i75N63bFFQlFc71txlGopjxpKDwnmg-16lqmt3AE8AcFqcbeBQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-24T15:47:08.662073Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsN2Zucl9RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsN2Zucl9RRRAB!2m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXekpqR213RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Lleve a mi perrita de 5 kilos para baño, la dejaron coja por 15 días estaba muy adolorida.\nEl personal que hizo el baño no tiene conocimientos de como debe tratar a un perro pequeño.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi perrita de 5 kilos para baño, la dejaron coja por 15 días estaba muy adolorida.\nEl personal que hizo el baño no tiene conocimientos de como debe tratar a un perro pequeño.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angelica Bracamonte",
+    "uri": "https://www.google.com/maps/contrib/102528761159378100136/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJitBhtGYb6STlk89BntqcGXm_PaDUyw24KbzwfMV8D61m50w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-02-19T18:30:18.778933Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNXekpqR213RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXekpqR213RRAB!2m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNReHJHc2x3RRAB",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 2,
+   "text": {
+    "text": "Solo la doctora es buena. Pero si llevas un producto para baño, nadie se responsabiliza por como te lo devuelven. Incluyendo al administrador. No vuelvo a regresar y no lo recomiendo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Solo la doctora es buena. Pero si llevas un producto para baño, nadie se responsabiliza por como te lo devuelven. Incluyendo al administrador. No vuelvo a regresar y no lo recomiendo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Amy Muguruza",
+    "uri": "https://www.google.com/maps/contrib/100681832541663228256/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzhzuuOmK2nQino0FF5KGX0UQcS7FpppcRhbMYvluyrCQ7JrV6=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2018-04-21T19:31:29.873Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNReHJHc2x3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNReHJHc2x3RRAB!2m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhak1TenJ3RRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, el personal médico está muy capacitado y son muy humanos con tus mascotas, los dejan en buenas manos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, el personal médico está muy capacitado y son muy humanos con tus mascotas, los dejan en buenas manos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angelo Hernández",
+    "uri": "https://www.google.com/maps/contrib/108284363985146612959/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6-z1xBwW0-e1aIaRO9MrEqNcEhWYmjg1GmK-TpVx_oIe8xnf-Gw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-07-24T14:32:32.584459Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNhak1TenJ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhak1TenJ3RRAB!2m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMZ9mTjzsZhpT8EzE4Z89YJnGSc9JvLZY8-LKjYlYR2lCJn5ZvbQhuO9Sc3tat5aPgPWYXOKUPmscRwJ-ZIObxZAdCbk-gqRSr3PtH1fkwUw-ihHddrQCpoIgV2JdBz1vWTV8ScPiUtOT1qtG0Rvvi-vpU8PHkxgeAqmJeFbwgHoM_kP2M_14m0_oGOYrR9OV6O_AQCqQGCFTw5inkZ5RFGBun6dzPDbRC1EKE1VymLzFimoyjPO7NZ123H4VRw22VVgwcXnLMgciIqe2vWZqbelkhtDt4sef0D30SaD4wj8MU-L6ba3ppowYOj0d2u0stI_mVraZSh_PdZVVULZv-EYADicT8nXTC1izx9G4kcbcimdfOq_7VOIeX1o_wB6T5DUFgCwXlK0MoUwwzzILzeYOD0",
+   "widthPx": 540,
+   "heightPx": 540,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Luis",
+     "uri": "https://maps.google.com/maps/contrib/114206547951258958038",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXx9r9KJaHa7A0fFXl2w4c7SL7Hi_dAE10ZQ_p4a9ArY15L15A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8xOnueQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8xOnueQ!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMbtiPfpXwnZBQFTRoXEx8v0hR0XcTISm9oTP1vBJgJUwGQw6dncr5zCigypPSXny9-4jBjcjaK0Y4VQonA5QiMIURClsQr_z47Eoc0XVoI9-nE0TKfQW-hYDRbcNvKXo_czsZtFg-fnBbCljqV_miTsTaahF_M4w85_ZX08x-MsP8cH8ONQEr2q-EcUV7C4KFx7MU3IE1Sn-6PCENUzogzk3Rcbr2Pk0C4Xaa41j0-dS0BQcAJT7lkKrOTLZcgWtzZL-jfZ62IeUyugxI7BH1HUuP6Lq2MOBuHzskj6M7YTM05Uc-pYrVzn2Qs-N02JCQzsmGI7mKlA-UcDx_mR4qcPWy5jgwtkdnanbbJKDez39owjVCDX5jeMKXV4K1k01TVk5A1Ltwm2-cWsXIjt2afrkA",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Fanny Carranza (Fanny)",
+     "uri": "https://maps.google.com/maps/contrib/116787174372247080386",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLww752q40BidmsLDT--qceXc06S22yy-5AglPbwnaJPXfUoeVS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkpvaCRw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkpvaCRw!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMYEcFoFAMWccP4KRT_OZDbIGgTpgWRD4drmK9h_ZuWiz6-liQsE7dj_ba4BYr2eSpfGjxvP7rHp722vps7SZ93XCtyqQpvUOpW8-DyQH80pPlK6g99MVV9rH8So4jjjETxKqTYEtA10EnYVlLUDkx4V7_5MNhQuhDCFi5U8LjtDCTvo639hbI33Pyr2W6NsIm4MGtDebFegKP8S8BYXuFoEFqIsKex0DJwH7VvOL0DjDI2tXTmiPympR7RX7fCJWtVRfXHsECEzM8jN68XaVmGu4OON79fs9ALD86DSi_3f06xGZiLpmbdB1SiItziGZADnInm5QZAgs3V8pqLN82DB8h-r6kx0Z7KP30b1g63ZxWLzH_vdC7KJtw8BCBUvQVNv9WnSgX6bxCfICsFqeZlbXsnINLI",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Fanny Carranza (Fanny)",
+     "uri": "https://maps.google.com/maps/contrib/116787174372247080386",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLww752q40BidmsLDT--qceXc06S22yy-5AglPbwnaJPXfUoeVS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkpvaCrwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkpvaCrwE!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMYTzpsAq3bryVpdAdUviNkNSHZ-jO4Wh07PVR8Lv3r6LQrjMce3z1Ov09ISdevtUFzRUzlQO-IOZVqdDl2_8QBlzbA6BKAnM2adbUx8M0c-q2i7NcIoqbw77QLRqCnILJmWvZQEIA2DufdNU_8QEvv7X3b0WAP6bzYPwNctLW8JuFY0c2m2fOEtGXwstlZj8Hw-rpmZtJ9392cu9IcLbJzwq8LH3Fh4wsSmTxGOLp2UV-4ylFUNQwkAkpXVx3a5Z8r8ONxVYhBmtBxAkbSeK1xZY2hDMT0ipA_u6B8PHtqMNLAwwYnVz_jeh3N_gz1U6GUPA1zA4CG4l_TnwxXxXA_rKGaBp67jrRfUDL1eQ1er6dbP48yHlWA1geKA5w1xBeOL_GuRWwoWE1EFhRPFMipArUQ",
+   "widthPx": 1152,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Luis",
+     "uri": "https://maps.google.com/maps/contrib/114206547951258958038",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXx9r9KJaHa7A0fFXl2w4c7SL7Hi_dAE10ZQ_p4a9ArY15L15A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8xMnTDw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8xMnTDw!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMYVryLhPkRzwfcxI_-mvMvznmRLZ0x4JeaHIoD3sO8PonRGyKWsVvN-7ztDdnd60NzJOiZJiuV_rk7-oj3XnSpYZxOZ1tK-X9dligg_XmLAKsK-FFfbHl9bGTRW8B7bzuIwc2OcyZyW3fs1LvkP2LMTyuOyBUE5j_aja_vCxMkoHX5FOnd9UMLD2fq1MAjghWYCBpxXCfg-_HQO374fINRwq2QcPDczestnT79JWpRzcdGa9mDHee4Nc6ix_kmVyl0PyYP79OjuV8SFqxzo4pQuizmxpjEYsmHwQcgc9BF6Wqnhw3XrEBhW_MnmzlUZTHnxbbqCI1fkTX_Fu3guocg6Wa5k0cWCH4GYXkvJYMycGRDO1d4YzSM-3LdUhe130h3c8VOvfpLqUSWHXzdnM4Yoan_6LK0",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carolina Zapata",
+     "uri": "https://maps.google.com/maps/contrib/104818571129533432893",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJT1QZX4EqCBfWvccjUylyMrg-d2Bjpzbvuqf3goT7qhII9Ag=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDL2d-92QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDL2d-92QE!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  },
+  {
+   "name": "places/ChIJ-z8vcs_HBZER-lwEYfofUVQ/photos/Aa-ngMZJg47UKyg8Zr22E3n-1uhj31gnAlM2NRYPgvpqntlAf4vR3X-sn-6GXpzv4vp1OJyKxf_5kDKAE9oQIy32czyHgySEZ8VWCykQC9A203NGqgNEYPAu1cEkvqemlXwCrUnieO8XT48qFsuMlQAzFZizc1Ax3DCzu624bCr71GvvHWOrHFmoxHcp6CzQywOH8SrAZj_rJotT1BZRYkByam3son6R3IxzxuUWCR2E-s9qnXvL4iBRnx_8-UQ-0YaRppibfV2gWx2P2ibMr9MKQTO38-ruW737sVob10DnUq13_ecakQ8P9wvYIM2rnrsKq5um7vbjVJV7A7sAexydt53z7zSUK5ttp2KVgdRWsg02zxqdp7IKEww46xNB89_urBhEm942IqV8LQ7j9QpDNqwjTg",
+   "widthPx": 438,
+   "heightPx": 336,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Luis",
+     "uri": "https://maps.google.com/maps/contrib/114206547951258958038",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXx9r9KJaHa7A0fFXl2w4c7SL7Hi_dAE10ZQ_p4a9ArY15L15A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICai_KdKw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICai_KdKw!2e10!4m2!3m1!1s0x9105c7cf722f3ffb:0x54511ffa61045cfa"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

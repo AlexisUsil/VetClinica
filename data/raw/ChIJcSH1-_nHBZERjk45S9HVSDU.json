@@ -1,0 +1,620 @@
+{
+ "id": "ChIJcSH1-_nHBZERjk45S9HVSDU",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "pet_store",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 138 555",
+ "internationalPhoneNumber": "+51 999 138 555",
+ "formattedAddress": "Bruselas 345, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "345",
+   "shortText": "345",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Bruselas",
+   "shortText": "Bruselas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Capebco",
+   "shortText": "Urb Capebco",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1193574,
+  "longitude": -76.9987881
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=3839553777220275854&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–17:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-24T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 755,
+ "displayName": {
+  "text": "Dr. Plumas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–17:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-24T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Bruselas 345, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWWQwaGZUVEZ6TVVsV1ZsVTJiVzF0YmtzemJWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "EXCELENTE EXPERIENCIA, encontré a mi lorito en un estado muy crítico, casi moribundo, ya no le daba esperanza de vida y la doctora Celine nos atendió, se quedó internado una noche, le dieron suero y los medicamentos que requería y estuvo bajo cuidados toda la noche y al día siguiente su recuperación fue asombrosa. Verdaderamente se ve el profesionalismo, conocimientos y las capacidades de los especialistas, y en especial el trato de la Srta Celine que denota tener una gran pasión por lo que hace.✨\nRECOMENDADISIMO",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "EXCELENTE EXPERIENCIA, encontré a mi lorito en un estado muy crítico, casi moribundo, ya no le daba esperanza de vida y la doctora Celine nos atendió, se quedó internado una noche, le dieron suero y los medicamentos que requería y estuvo bajo cuidados toda la noche y al día siguiente su recuperación fue asombrosa. Verdaderamente se ve el profesionalismo, conocimientos y las capacidades de los especialistas, y en especial el trato de la Srta Celine que denota tener una gran pasión por lo que hace.✨\nRECOMENDADISIMO",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Carbonel",
+    "uri": "https://www.google.com/maps/contrib/105663252695995650359/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0VndSYD1PbGbsYy3W-MNXMmnGx2ygY31cGnu_yRexEnzUf7E=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-22T18:08:30.050757846Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWWQwaGZUVEZ6TVVsV1ZsVTJiVzF0YmtzemJWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWWQwaGZUVEZ6TVVsV1ZsVTJiVzF0YmtzemJWRRAB!2m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4clh6TlRWSGxLUlhneFlqVklWamRKVTBOZlZGRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Dan un muy buen servicio! El doctor es empático, te escucha con atención y paciencia, asimismo te atiende bien y a tu mascota! el lugar es cómodo y con espacio, te dan un trato profesionl y sobretodo tienen las 3b! precios muy justos. Traten de no subir sus precios pues tal como están les da una propuesta de valor potente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Dan un muy buen servicio! El doctor es empático, te escucha con atención y paciencia, asimismo te atiende bien y a tu mascota! el lugar es cómodo y con espacio, te dan un trato profesionl y sobretodo tienen las 3b! precios muy justos. Traten de no subir sus precios pues tal como están les da una propuesta de valor potente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "brandon silva",
+    "uri": "https://www.google.com/maps/contrib/100850900757501390969/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdvhqHDqsLW4_bGWKdpyxkm9bAYtj_lVBrfnkmmjRZxyBkrw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-14T16:53:57.940463944Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4clh6TlRWSGxLUlhneFlqVklWamRKVTBOZlZGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4clh6TlRWSGxLUlhneFlqVklWamRKVTBOZlZGRRAB!2m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKNE5VaEJSRmxtZFdoa2RsbGtaVkE1Y0hSQ1dsRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi lorito llegó con convulsiones, aunque nos dijeron que es por orden de llegada nos atendieron rápido y le pusieron oxígeno, lamentablemente estaba sufriendo y la doctora recomendó dormirlo, agradezco mucho sus esfuerzos y su empatía.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi lorito llegó con convulsiones, aunque nos dijeron que es por orden de llegada nos atendieron rápido y le pusieron oxígeno, lamentablemente estaba sufriendo y la doctora recomendó dormirlo, agradezco mucho sus esfuerzos y su empatía.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lisbeth Mayta gavilan",
+    "uri": "https://www.google.com/maps/contrib/113687899827230772126/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyCSIMDT0wVzjd0GpdjN72w-LVM8YlHWUkgogLXKN9VfZblTbU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-19T03:23:56.756911197Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKNE5VaEJSRmxtZFdoa2RsbGtaVkE1Y0hSQ1dsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKNE5VaEJSRmxtZFdoa2RsbGtaVkE1Y0hSQ1dsRRAB!2m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KWlRsRnROR1IxUjBveVNHOXRWbGxoYjNkblJXYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi vet de exóticos favorita. El doctor Alexis y la doctora Celine son de lo mas lindos y pacientes que hay, además de buenos profesionales. Mi Mimi bello siempre es bien atendido asi que los recomiendo plenamente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi vet de exóticos favorita. El doctor Alexis y la doctora Celine son de lo mas lindos y pacientes que hay, además de buenos profesionales. Mi Mimi bello siempre es bien atendido asi que los recomiendo plenamente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gladys Abanto",
+    "uri": "https://www.google.com/maps/contrib/110310003587538801599/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUflSkB-Vei2Nr_cMf65P-KmD58c54fvBvUCjrRHTRcMw1OTZHfHQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-06-20T00:57:34.941734203Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KWlRsRnROR1IxUjBveVNHOXRWbGxoYjNkblJXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KWlRsRnROR1IxUjBveVNHOXRWbGxoYjNkblJXYxAB!2m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0c1QwVTVPWFE0UkU1UFYwbENhVmxNYTNCd05rRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención a mi eriza africana \"Kiwi\". La doctora fue clara y concisa sobre lo que se debía hacer y el tratamiento. Recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención a mi eriza africana \"Kiwi\". La doctora fue clara y concisa sobre lo que se debía hacer y el tratamiento. Recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Renan",
+    "uri": "https://www.google.com/maps/contrib/101100139419354151813/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKWB4eWcLLWwdbdO40XEl8uHI20n_2pbojua8OKNqwgab5nK2zgg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-07-27T00:51:16.853767849Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0c1QwVTVPWFE0UkU1UFYwbENhVmxNYTNCd05rRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0c1QwVTVPWFE0UkU1UFYwbENhVmxNYTNCd05rRRAB!2m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMZDJ-hcxUastQj-aVDRi36NDsftqZANMgpthLFprKHQN_F3huriOXvtpBSZgGP9mHXU7zp7KyPZr1x-vHAti7J-yqhMz_ETZkuIVyhDOohoWkbmiyP6EypoP7yxmm17sb8MMsh7Arv6KA-_AqfK1pgsIUr6ud9Y1vq7qmkduM26MHDETm1YWs1ybp-5uZMauaJz4WxSLdldpdSiR5m6q4x9dKPwBZ1tDZIVuptY9yHKDRsL_jpOYblxSsNHpjgU7AIA81nEKB9rOLjxEAEao3BJHFwGZHLoyHXvFOQj08_aqJjaF6i6mYRY53M6w5JLTXunjwOJRUMmo0hskFPD6u86soLg4hAInbZeh4dvnhXKqNmJ-cNDIAoImgchk3ke85CR2JSocz0FuPp0RlYiLOC9Ito",
+   "widthPx": 2223,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Pablo Medina Sosa",
+     "uri": "https://maps.google.com/maps/contrib/103492025312298537401",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWSH_YNwRUQ2modSVjEiDwwwkm0FaDhoRqZf_jnE1tf-3ZgKz7Zw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEvI25HA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEvI25HA!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMZNuzvCUw3ZiczyzoL7613O7oI09iUa3g2y28jY38KBJEW3-Xog05HDP2j1MS1YDgWcuWkAlJN2LfCz16ybi6DjW4DgaEWJfWnOJ2-4UzCDAIe409QguZvueQksmjY-DKkfVIHcd2aPn0EK4wycfctHFSZe3E1kF7Yv8-KjwpmK0CKNAYHyKqB3TFcnUu9TOuW-J2nFRIOGwW22NhgWIXsCcsSAThANkAHQfw-g69Ffg6r0hqnFpfJw7hZfn0yHcmDQM_VNgpHUeqs01jeHkCZBSbQZ5ZH0FQc4W35rEo4YU_hVQIT9w4XB6Vr01K9WP6Fnrsfm6ghdt5W9QEBWksYQ4UO0RGkMMtYhrZbeQmciZTX9gBfgq9o6KG4LEPF6Apb5ho7c4pu1errQT0QuMhiP7QHNy5E",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Giancarlo Sotelo",
+     "uri": "https://maps.google.com/maps/contrib/110893893252701840151",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrylkQsbrXFpAizh9q66WQ9Zme9EqVobAZds9gLehM89h22g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDakMfasAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDakMfasAE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMbml1PQA95mmp1mEnRdYZ6VBDfeEuf7kNZ3RXawvu7eDIbZ3bk-vFnCMGx_o1__XCOf4YfnX6EL99Au4BrzTsMGn8I0rrgL-nPuHUXN-p3dEl1OPmwMp2p8sWzPRa_1YWXx65kXTCANeS_oCtLORn9ONXUNpft8CYuBN-0EwD-S0CtQKTOQKkFudkPjm6Sd1_w5Hk0MtPDAY4jWq4gj1uRNPCiW_z49uJOsso_HUPAEC23bbV2TZF7miCR7Byj905NoSlKvMo3YeUiS4poeyJiL05WbPB6W3adLLuVcTQPe-RXoMqN75vuYNBzZvBYnmo4Udkbm4guRZuYUgR5v9nGitVAaF32sZDqIDils8QEizqivoniZOnkXV3xZxPzMwYW7Itg-Tt32sfMm71lsVTqEpxylDfM",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Rosa Eckhardt",
+     "uri": "https://maps.google.com/maps/contrib/113750571827704363476",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUV544IuaZ5kGROB0R7g9HNdlCGWk-GOu14ij7eDS7QTinrbThPiQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2x7ei8QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2x7ei8QE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMZ7AZxV1M1tK2oOqOHY4kyKyT5SuvVGURn3UT_mZ5RQBBtiIuHcMj9-w_xZt3yH4LspaqlEoBt89dpGRJgl_Xm5dMOalLp5CcqurkLKX_PL543NlzIh83h3DCRhHXKjM8SFE7PbCkK8A00J3acUJ2v3TDA-O_HteSUzs2NFLKX3YlUjozUopQhTS0uvOjeYq4JRhzPWVjagTrhtxjUcGghDLCTrMorK4TNUYaCnlKwmT28yIHq5PzIJ9jhd2tS8kjqBV4SWu129vyigRb7IEbQ-8uDBHwI7Hj2BdiWdvtgiYN6CpSZtiVFRpTmXB9ir1nhi5XUr1e21wz15CKweBAAg2dB_O_qYOpslX7YXbdoHjobODsZ-2wPTLYe_w1LWj65ibl8MOYjH1Eg00guOYVO7cn70DJU",
+   "widthPx": 737,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Cesar Terrones",
+     "uri": "https://maps.google.com/maps/contrib/110375390418152658148",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfoJt0gvtvamxoWysby9eq-iT9KShibgj7Tdr_gID3OD-LAPk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICq563CsAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICq563CsAE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMacQdMxuteGtlLJKfO13frvYxot3aTMdlf5883WLpB1aNykMsa0MYU_eUSXlElOV7mdix98UieGu6_i6C8snGFsYa5UpO_OtVX8wa_buEnS-hy2wCifE_jB_H2pBHrms-d9O7D6hy1hZnLAG-WepKzDtUYcu2ML-1oguMvvJOH8-aMGZ_YQgdxfWet6xxJWCYXkLCQ0mlx2tu-vIyNUpoSluSdneUm6EJU8MjX5q5eOEenADh_A2k-S-CiblN9jSZMf7tSAhmO8xQAZy-eYa3mulvCv5YQobEswv1GAHJiN0G9x1dhnQwlTnICf9U2F_qq3AhfoD20EDYyF9URVivihH4Xxi_i7T2Kvnz9gr11wdRdQQFO5c9e-6g2o-AWeAoRhx_yanDjQ3Th1fleEfc0aEANc5iI",
+   "widthPx": 3264,
+   "heightPx": 1840,
+   "authorAttributions": [
+    {
+     "displayName": "Milagros Virhuez",
+     "uri": "https://maps.google.com/maps/contrib/111570676624513945828",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRbZQlA_Dz4MBbxiGaG06mE6X1fLaaeWb3wimrhFaim95sxw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID40rC98gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID40rC98gE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMZLb5e1o3Jq-RINP90BMIX7WF4OGuKIcjafFaGgdjIv3R3Tgmjtyst0qYKFKF-PQqNKsZCUviNCVarp-egpia28J_VQBkqaJcVlLaebKe4xxXK-aUbnNd3Iuxltdofb4avlm6dgT6d_HWB6eutc75Md_pslrUBIrfwY99nbgVXqDmL85g2t2nUdLi1L_h4FT0c3fN3i0X7ajAB0IavPXQjO6P9-A7MwnORYBwIZSggPRGztejj_YYV7_zCNGm0zMAlz2p4307Vgaz3NSNdw9DInIte6qsXNkltr1C6-qTnFRZR9baOeIek4RA68tdwZ0nIO4HxL8doVMkYr_4YjXpJ3cHJPig9vtwbBrOa-kdXFhvSeePeIjsfDjIZaj729G_K2DHjQcnV3XQQkMEC8GniN_gAR",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Isabella Figueroa",
+     "uri": "https://maps.google.com/maps/contrib/112580869196465676770",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsCi3Cv17gADc4aqWdhe1YyZ4cXkbqt7iYWPD6mjZosPhu4oa4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKhIvZ9gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKhIvZ9gE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMb7PRZyHP6SN6JagzZZios5WX2EQJXxKGZ79MtHdUuPd869OqtsBTCEkVw2efN4pASYl6uLm56StpDB835jeQHDOUgDSi6hAGi8Ly3BwJMzvkwksTBQg0taj_F91rM7dyWDfxRLBnq_MorNhlhS0SEh1qxUI5f6vqgjOjdJERNi-6lejg5nUvsWjz7UZn4ocdFzh62KQQiq_7pi7JZ4VdJxrhoBuG_KwRdASLeKmtQld3mOA3zrIHIJOJM2kthCx0I_i_FkNvrIFtFQ25r1cjAZToaYngpwfJxPdSdi9bEZ5e8cKmo5aOjevapZnxpNy1PtBOO7i9-hBYvjS-ok2ux76k0IBtB-Js9iNYLRLjquxgWiOUx0f-7wk_gI7k-Ecr6u1Y9NfY1vqge0XT-_enI0iNfTNVY",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Sally Salas",
+     "uri": "https://maps.google.com/maps/contrib/112989377077581038396",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpAwnJwziqAud4o9WrPYtSbfrnRknzq9-WoxxPlbcsfvuuOg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4sv7S-gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4sv7S-gE!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMYhDaUAk8B3jmZJCq3_O87bHErS91vclDv34lAj8s4_iz30GdVF5ZWlfuOcxeQPd5PlfXwnALBThLag1fkGVH8N3G2-NsGcezxNH6gKSiepUp3dQ1c3Igg49wDV_0-i7i6_mfQA1dWoCslH0pFh3a-dESyGhSrQfIlmU9n_0vJ4HTK2QFwnNbBfAA9p3uAUGyncT-NQF8ZbPchM1f8ALThVpt3IXCIi4zVb-3a_1SSn8gzu5frzEHQGb1FedebsQ-0Neuk-6ZLzbT0myScwB6BUiAlIwJUiDdv4gO7IBBKCzCPIMvlCkAwmxw0lMN8jWpLmoDrqhTMVtPCKDrSSpHH8TLm7ylH9P0cMs1cVWVIkqmXIvKOv-v2MGkRQun0nz3GJw0KfiletK5hqcDWbLgEy5is",
+   "widthPx": 1995,
+   "heightPx": 2205,
+   "authorAttributions": [
+    {
+     "displayName": "Patri Maratuech",
+     "uri": "https://maps.google.com/maps/contrib/110838432578252237136",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWshLxdcYy84hIXtEMGNi5YBCZPOHEs3UcVfNf__yvGT9f1S4piSA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGtJLrSQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGtJLrSQ!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMaq4rVrVsqTJlNb-EMe9wCfsFaA2AkydrlTHy6_gNn6wmwC8wjpTMdlKIyWVQRa1G0UjCWIaNogtX4PXvqTNa7Kj5eliBDSf7cbH8jiEWOWbl9xmFC-1SD0EfoAx6q3L0BRSlc4rFDMyimg-F4-nWS05CrtQrd4f-oEKyXJzGx2PHmYxwJioq8zNaidNgRy5fyQasemk7DgfDqRXl1u33x5f75ltR-FusfauyF74GcGqKLDHbIE6m6TpYfnccdkpMivjjTxgKW4VZ4GwRoLrfui3gUnbDof9Nig2KisVbFr1LqgldOt_HbXz7fueoWcnh_LRdGlkpKVO7bJL4-KfCLeTF09XF4kifQOLnWnoiAeH1i1au10ZNBLBg64xNE6siXYZW1VWHwvAl2Xvk1ufZ9qaR8",
+   "widthPx": 4160,
+   "heightPx": 2340,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia Maguiña Molina",
+     "uri": "https://maps.google.com/maps/contrib/101091491040057370824",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVAIowu4N3HId2eC1QJdzXU98l3zET4-FOdF16Rje0wVzAqdhTfQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE_tbaFA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE_tbaFA!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  },
+  {
+   "name": "places/ChIJcSH1-_nHBZERjk45S9HVSDU/photos/Aa-ngMZjSWeljVkMfTjt48QDjv1vZea3bAy3EojicCPO_YIrM9MTo7IZ3BACTLkH1lsRa013tqJYhzOeRlyeQNzASi8Q9yBP3XcnSvTHFcKAhTlcy2Qu6HzZi6Bp_ungLmDuAo1lvJpXRJPpQX2ugG4SYSzMJ4llfPW3u4gqSWAmHr9CVNFg1GYacUI8ABVMf3NpPKORRNVy9kjvlcrVagSxAouOLiz8pON5k36xmznYUektaRfIzaOvXdBwOp3D1dMh2oQ5_AFkqCaFPpPPAK_uINxKXBHLHFGJUuNaIF7f8Jszbp-KgnGmIh7mEKCZQ19FXYGnsHZiKEvmCxRVNbyWIGPwJe6wiT1xwrpJMd8AQ-2YbpVqDNuLMm7Kf2sztCyRdU4hvzSevu7mW8yclxBM9jeC5Zw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Rosa Eckhardt",
+     "uri": "https://maps.google.com/maps/contrib/113750571827704363476",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUV544IuaZ5kGROB0R7g9HNdlCGWk-GOu14ij7eDS7QTinrbThPiQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2x7eiCQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2x7eiCQ!2e10!4m2!3m1!1s0x9105c7f9fbf52171:0x3548d5d14b394e8e"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

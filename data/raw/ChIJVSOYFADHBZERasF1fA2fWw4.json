@@ -1,0 +1,102 @@
+{
+ "id": "ChIJVSOYFADHBZERasF1fA2fWw4",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "formattedAddress": "V2V5+2C2, Brescia, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "V2V5+2C2",
+   "shortText": "V2V5+2C2",
+   "types": [
+    "plus_code"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Brescia",
+   "shortText": "Brescia",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Chacarilla del Estanque",
+   "shortText": "Urb Chacarilla del Estanque",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.107481799999999,
+  "longitude": -76.9914771
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=1034595419683144042&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Oficina despachos Petland import",
+  "languageCode": "es"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "V2V5+2C2, Brescia, San Borja",
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

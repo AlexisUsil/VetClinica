@@ -1,0 +1,509 @@
+{
+ "id": "ChIJnYRWDinJBZER-V-_TZ0Ug2g",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3468120",
+ "internationalPhoneNumber": "+51 1 3468120",
+ "formattedAddress": "Av. República de Panamá 5998, Miraflores 00511",
+ "addressComponents": [
+  {
+   "longText": "5998",
+   "shortText": "5998",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida República de Panamá",
+   "shortText": "Av. República de Panamá",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "00511",
+   "shortText": "00511",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1230076,
+  "longitude": -77.01837859999999
+ },
+ "rating": 3.4,
+ "googleMapsUri": "https://maps.google.com/?cid=7530885667740409849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–21:00",
+   "martes: 8:00–21:00",
+   "miércoles: 8:00–21:00",
+   "jueves: 8:00–21:00",
+   "viernes: 8:00–21:00",
+   "sábado: 8:00–21:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 10,
+ "displayName": {
+  "text": "Pets Place Panamá - Vet & Supermarket",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–21:00",
+   "martes: 8:00–21:00",
+   "miércoles: 8:00–21:00",
+   "jueves: 8:00–21:00",
+   "viernes: 8:00–21:00",
+   "sábado: 8:00–21:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. República de Panamá 5998, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4alFscGxMV1puVXpGQ2VtMXVORXczUVZZMlptYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es un local que está muy ordenado y tienen una yorkie de mascota que es muy linda 🥹",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es un local que está muy ordenado y tienen una yorkie de mascota que es muy linda 🥹",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bosco",
+    "uri": "https://www.google.com/maps/contrib/103442723030478552781/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUWQ0GudE8N4HLia3uvFL0Ucj1jGktrXDWLIuSFJarkKo630Sf=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-06-13T22:39:05.082562663Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4alFscGxMV1puVXpGQ2VtMXVORXczUVZZMlptYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4alFscGxMV1puVXpGQ2VtMXVORXczUVZZMlptYxAB!2m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GbGFFY3ROMGxKVEVaM2RWQjNVM1JtUW01UmRIYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 1,
+   "text": {
+    "text": "No lleve a su mascota a este lugar. El personal es muy tosco con los perritos y se nota que solo te quieren sacar dinero. NO LO RECOMIENDO!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No lleve a su mascota a este lugar. El personal es muy tosco con los perritos y se nota que solo te quieren sacar dinero. NO LO RECOMIENDO!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Out Look",
+    "uri": "https://www.google.com/maps/contrib/105216578448772758681/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3HbIVgSlpZ9j2XnuaAY49VOA8rb7d173uSspKrs8TtgMv0HY=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-11-14T14:03:24.648845340Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GbGFFY3ROMGxKVEVaM2RWQjNVM1JtUW01UmRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GbGFFY3ROMGxKVEVaM2RWQjNVM1JtUW01UmRIYxAB!2m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bVRERlVOR1ZvVVhCdVlrb3hZekJ4Y2kxb2VGRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hicieron gritar a mi perrita como nunca. No tienen paciencia con los animalitos. Me arrepiento de haber ido a este lugar. Por favor no lleven a su mascotas a este veterinario!!!!!!!!!! Abusan de los animales!!!!!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hicieron gritar a mi perrita como nunca. No tienen paciencia con los animalitos. Me arrepiento de haber ido a este lugar. Por favor no lleven a su mascotas a este veterinario!!!!!!!!!! Abusan de los animales!!!!!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Isabel Chuquipoma",
+    "uri": "https://www.google.com/maps/contrib/103649614092686999873/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-U8mOlymvTG2wKAgt9xOuqo0t7CR0qv5aTb4xbDZOmvliOA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-15T19:59:55.963460911Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214bVRERlVOR1ZvVVhCdVlrb3hZekJ4Y2kxb2VGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214bVRERlVOR1ZvVVhCdVlrb3hZekJ4Y2kxb2VGRRAB!2m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqcnJETlpnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Hoy domingo 21 de abril 1:23pm si alguien. Llevo a su perro color blanco lobito a bañar tengan cuidado acabo de pasar y en el tercer piso el encargado de secar estaba maltratando con cachetadas y lapos en el cuerpo al pobre perrito.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy domingo 21 de abril 1:23pm si alguien. Llevo a su perro color blanco lobito a bañar tengan cuidado acabo de pasar y en el tercer piso el encargado de secar estaba maltratando con cachetadas y lapos en el cuerpo al pobre perrito.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Esteban Gonzalez",
+    "uri": "https://www.google.com/maps/contrib/116688686354920981777/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxb7utfdqlcGJvTb5FZuMv274rA32Ohy5uKNvTVISt-Wzk0w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-21T18:29:26.029068Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqcnJETlpnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqcnJETlpnEAE!2m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeV9hbVNnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención a tu mascota, muy empático  el personal",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención a tu mascota, muy empático  el personal",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Felipe del Campo Tamayo",
+    "uri": "https://www.google.com/maps/contrib/101104113627192633450/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQFZHJVH2rjdOLum-1Pwy6cv3q9sroupswec4FoER_mcvbD6Y=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-02-11T21:36:26.682300Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBeV9hbVNnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBeV9hbVNnEAE!2m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/photos/Aa-ngMagi4Gx4yl1lCHEnnWRZbLPxlQBAlbthgVyrwR56MdH0j2FRL2jcotFXGHl_vgGbpQOlwm7z-tmvi-5iUnscHN5hLjrIGTe4FdYMGnHqRj5Ei7A1dBcVcSuDQ6tUQ9sVaNT2lOGgtsj3_mDb-7Yz0oXSN9YNgfPoYet6tW7EnuzkdNQW3A4WyKFkhns-akGALDIyV31hbCbHMp9Ytkfxn2rf0vGCIp_QBTClrquweFG_XhZHd8NNf_LFmPPHWnxqme3LGMkpejBTRqzG1W_db5l7FhF8ofE3viZrdf9gUmgXWrIc4TbVNxYmGmoQi2EHHtOtho4PAIimTo8KeMQg9HaiMHO-wpeEs9mepYdtN5np6lsfyYo_fbjThTWFKpnm94LWv5EcszvMk4pIomFy_UA4Louj3nK_qhVcJ1ViXC8Vw",
+   "widthPx": 768,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Pets Place - Vet & Supermarket",
+     "uri": "https://maps.google.com/maps/contrib/104178584227643827236",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeB9PmGgLgdMupxZWQkdkCgHMAm9GzPLzqgBX_FEiKUU_dwQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaqPuNOQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaqPuNOQ!2e10!4m2!3m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/photos/Aa-ngMZpQWoe4VKgZ-n6wWezkOZQu024M8JtnI8SDR13j-U_RsSTKiyRYa_UfkfgTCWvYMXXY9WU0oJhTQBwfoUFXurjgCDqyNBh1n_gspef4lDnvWRwcKBCS_pX9qv91eOEOgArdIK3GLR9I03pBTfG6Lyv4en8S3xbEtxXFC45BYurfIvu6cMlMNcpzI651tGSXaEwL_GPFkFYqvcegukZhExAvcEmlbifF16FOtV1_tejyF1EPqenbSZXuMmx6SoArbRqID7DgceQpZzA8IMHd4bIXITg-5Y09C-2aWbdG7ai8T18T2-Upj3XG5zp2Fqy6FbV3ZakzVw8__dS5ANzvzQ-sxfUYRbjzh4d0iVRE6JhQQF22JfXsa9v3AvudR7OU_oFRYCsSvXR1CUn-VIZ09dBW12mGFkzs6btypQzP2T6JA",
+   "widthPx": 2638,
+   "heightPx": 2966,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Weiss",
+     "uri": "https://maps.google.com/maps/contrib/114336338640441162491",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV36FQtMzhO1L0WiVyOZpT0EF_eQ-KisBizbDtX6eS1Po5UcZc-nA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm0Kv5bA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm0Kv5bA!2e10!4m2!3m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  },
+  {
+   "name": "places/ChIJnYRWDinJBZER-V-_TZ0Ug2g/photos/Aa-ngMbwKcCnNqPvUS_qXGcwKN2zCcV5Xz2FD5RMjdrKdgSUi_BU1x76PRZvtzMG1zMxyklDIypIJqkeiVnVDzu3JUWbMhZqt_nB39nfvl-7ynGfrqjD09FC9ejvFCci6HqCZ7e2hhPM60HNFkqSgi90G7CiDoLbpQs2Hqym1YGDJDFgIWDVb3H44O6ksUUZLREnNrO0oYCWqr9P6wWx4PRf2cAE8LYMdPBdqdzFXCEzUb7VjNq2LocmQoNwjUE3HGMythW9QWWH_7AVRBY73QfdAVIS7K4mTrLVau5qyq0tyYqnvnsFnP1uPPpuPcQuWST_AI2hhH1LHqs5FuppXG3aHK9UvnppT4Rnv0MzEzWkVZxjng8PWAuoHN_eVT1AuomWq3EIZT90jJBKS6dYFtcKIVFQFGDUZASlIDvgXFqrE0nHZXED",
+   "widthPx": 767,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Pets Place - Vet & Supermarket",
+     "uri": "https://maps.google.com/maps/contrib/104178584227643827236",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeB9PmGgLgdMupxZWQkdkCgHMAm9GzPLzqgBX_FEiKUU_dwQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaqMvIzwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaqMvIzwE!2e10!4m2!3m1!1s0x9105c9290e56849d:0x6883149d4dbf5ff9"
+  }
+ ]
+}

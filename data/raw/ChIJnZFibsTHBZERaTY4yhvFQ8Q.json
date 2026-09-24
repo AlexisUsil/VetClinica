@@ -1,0 +1,588 @@
+{
+ "id": "ChIJnZFibsTHBZERaTY4yhvFQ8Q",
+ "types": [
+  "veterinary_care",
+  "dog_park",
+  "pet_care",
+  "grocery_store",
+  "park",
+  "food_store",
+  "food",
+  "store",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 7177777",
+ "internationalPhoneNumber": "+51 1 7177777",
+ "formattedAddress": "Av. San Luis 2570, Lima 15037",
+ "addressComponents": [
+  {
+   "longText": "2570",
+   "shortText": "2570",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida San Luis",
+   "shortText": "Av. San Luis",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Borja",
+   "shortText": "Urb San Borja",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0996224,
+  "longitude": -76.99499610000001
+ },
+ "rating": 3.6,
+ "googleMapsUri": "https://maps.google.com/?cid=14142363978020959849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–20:00",
+   "martes: 8:30–20:30",
+   "miércoles: 8:30–20:30",
+   "jueves: 8:30–20:30",
+   "viernes: 8:30–20:30",
+   "sábado: 8:30–20:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 224,
+ "displayName": {
+  "text": "Clínica Veterinaria Pet Center - San Borja",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–20:00",
+   "martes: 8:30–20:30",
+   "miércoles: 8:30–20:30",
+   "jueves: 8:30–20:30",
+   "viernes: 8:30–20:30",
+   "sábado: 8:30–20:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. San Luis 2570, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkeFdtMXFSM0F3VFhoWGNGTnhTMGhDTW5OaVFVRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Tengan mucho cuidado con esta veterinaria, solicite un servicio de bañado a mi mascota (usualmente la llevo a su veterinaria de años pero ese dia no tenian cita) asi que me conctacte con ellos, fueron muy amables e incluso me ofrecieron el servicio de recojo gratis, el cual fueron puntuales, mi mascota de 4 años siempre ha tenido todos los cuidados y revisiones medicas de manera periodica y nunca ha tenido un problema grave. Sin embargo cuando se llevaron a mi mascota a esta veterinaria PET CENTER DE SAN BORJA y supuestamente paso por triaje me llamaron diciendo que tenia un grave problema en los oidos y para eso tenia que pasar a consulta, el cual accedí, luego de unos minutos me llamaron diciendome que se le tenia que hacer un tratamiento de urgencia el cual costaba 1,200.00 sole mas honorarios profesionales, en ese momento me apersone a la veterinaria para que me expliquen, lo cual lo hicieron de manera confusa, le indique que solo iba a tomar el baño y pagar por la consulta y me lleve a mi perro, despues de eso la lleve a mi veterinaria de siempre para que le realicen un chequeo y no le encontraron nada, TENGAN MUCHO CUIDADO ya que de valores este local y sus trabajadores no tienen de nada, espero que le sirva este comentario y tomen sus precauciones, saludos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tengan mucho cuidado con esta veterinaria, solicite un servicio de bañado a mi mascota (usualmente la llevo a su veterinaria de años pero ese dia no tenian cita) asi que me conctacte con ellos, fueron muy amables e incluso me ofrecieron el servicio de recojo gratis, el cual fueron puntuales, mi mascota de 4 años siempre ha tenido todos los cuidados y revisiones medicas de manera periodica y nunca ha tenido un problema grave. Sin embargo cuando se llevaron a mi mascota a esta veterinaria PET CENTER DE SAN BORJA y supuestamente paso por triaje me llamaron diciendo que tenia un grave problema en los oidos y para eso tenia que pasar a consulta, el cual accedí, luego de unos minutos me llamaron diciendome que se le tenia que hacer un tratamiento de urgencia el cual costaba 1,200.00 sole mas honorarios profesionales, en ese momento me apersone a la veterinaria para que me expliquen, lo cual lo hicieron de manera confusa, le indique que solo iba a tomar el baño y pagar por la consulta y me lleve a mi perro, despues de eso la lleve a mi veterinaria de siempre para que le realicen un chequeo y no le encontraron nada, TENGAN MUCHO CUIDADO ya que de valores este local y sus trabajadores no tienen de nada, espero que le sirva este comentario y tomen sus precauciones, saludos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Roberto Kobashikawa",
+    "uri": "https://www.google.com/maps/contrib/116588005644648431219/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv07XaZRgPqgfvO3rnvnvp1dJqbwHxNDIh1NcfuDaea3vtVy0h=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-05-11T12:34:16.463821601Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkeFdtMXFSM0F3VFhoWGNGTnhTMGhDTW5OaVFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkeFdtMXFSM0F3VFhoWGNGTnhTMGhDTW5OaVFVRRAB!2m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveGVHMUpPVU0wVlVWT04wWnNMWGhCWjNkQ2NIYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "Pedí servicio de baño , y que el veterinario me recetará una crema para la piel, de un diagnóstico de alergia tratado ya por 15 días, entre otros medicamentos predniderm. Con lo cual solo necesitaba que me dijiera si continuaba o no con la crema. Me liaron a pretender inducirme a realizar analíticas para determinar la causa de la alergia e insistieron luego con un raspado para determinar : hongos, ancaros o bacterias.\nPor supuesto que me negué, ya que el doctor de mi cachorro (el de verdad) ya había dejado indicado que se revisará la continuidad o no de la crema.  Pero el Dr Felipe solo quería sacar dinero de donde y como fuera.\nDemasiado mercantilistas\nNi el baño me convenció",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pedí servicio de baño , y que el veterinario me recetará una crema para la piel, de un diagnóstico de alergia tratado ya por 15 días, entre otros medicamentos predniderm. Con lo cual solo necesitaba que me dijiera si continuaba o no con la crema. Me liaron a pretender inducirme a realizar analíticas para determinar la causa de la alergia e insistieron luego con un raspado para determinar : hongos, ancaros o bacterias.\nPor supuesto que me negué, ya que el doctor de mi cachorro (el de verdad) ya había dejado indicado que se revisará la continuidad o no de la crema.  Pero el Dr Felipe solo quería sacar dinero de donde y como fuera.\nDemasiado mercantilistas\nNi el baño me convenció",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "G. Vargas",
+    "uri": "https://www.google.com/maps/contrib/114183242181127430002/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuG8GacDM7n1KBcCnOZ_Zz-HaIbF1NSVs3FzE9x6QqXoJFu5lvLQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-08-04T13:18:48.551140928Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tveGVHMUpPVU0wVlVWT04wWnNMWGhCWjNkQ2NIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tveGVHMUpPVU0wVlVWT04wWnNMWGhCWjNkQ2NIYxAB!2m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMWRWaHVUREJvUmtSME1GQXdaRkpDV1ZOUllVRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "No lleven a sus mascotas a ese lugar , mis dos perros salieron con el pelo maltratado y encima uno de ellos con el pelo rapado en la panza y olor como si hubieran bañado con detergente, como si también los hubieran secado con toalla , muy bonito todo al entrar , pero el servicio es una falta de respeto",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No lleven a sus mascotas a ese lugar , mis dos perros salieron con el pelo maltratado y encima uno de ellos con el pelo rapado en la panza y olor como si hubieran bañado con detergente, como si también los hubieran secado con toalla , muy bonito todo al entrar , pero el servicio es una falta de respeto",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Farid Naim Gomez Farach",
+    "uri": "https://www.google.com/maps/contrib/107058765889990643679/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb3NSAbhk4pyiKV_RRrUhi46ApWQOs4qa_luRD3LPzKoQ3WGcWLQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-30T22:52:29.196728021Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGMWRWaHVUREJvUmtSME1GQXdaRkpDV1ZOUllVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGMWRWaHVUREJvUmtSME1GQXdaRkpDV1ZOUllVRRAB!2m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeVgzZElVblJoWjFsRlRYRTVhbFpXT0RCdVMwRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 2,
+   "text": {
+    "text": "La consulta tiene un precio accesible, pero luego elevan los precios en los análisis y medicamentos. El antibiograma quee hicieron a mi perrita no fue con un buen laboratorio y además le pusieron medicamento que no sirvieron de nada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La consulta tiene un precio accesible, pero luego elevan los precios en los análisis y medicamentos. El antibiograma quee hicieron a mi perrita no fue con un buen laboratorio y además le pusieron medicamento que no sirvieron de nada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María José Sevilla",
+    "uri": "https://www.google.com/maps/contrib/103900497003889337637/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3VgGas57kzYf0bSo05owjGLAqXBkNdrCHrL1EcCPRYpaRNkpp=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-04T22:24:26.993381624Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeVgzZElVblJoWjFsRlRYRTVhbFpXT0RCdVMwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeVgzZElVblJoWjFsRlRYRTVhbFpXT0RCdVMwRRAB!2m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURJMHNqWERREAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Siempre son atentos y amables con mi hijita están pendiente de cuando le toca sus baños, desparacitar y vacuna",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre son atentos y amables con mi hijita están pendiente de cuando le toca sus baños, desparacitar y vacuna",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sophia Da Rin",
+    "uri": "https://www.google.com/maps/contrib/103761439148921998785/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwFGbbkfeSLSJJw2ZPWhL08-vr3aDso5PUj2aEVaseSvoBIOHGGA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2018-12-29T03:49:01.727657452Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURJMHNqWERREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJMHNqWERREAE!2m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMZzXfSxAeMAHGrdENrIfOUJnSYf4Equ55V7HpzI1Tst1qvh8NqmKal787M6SNZjOFBDTpVeFzM-H36Y3rNn0RPPCLUdnVnWA26s54Q26J1gxr0Wb_eVw_7TbkmcCLgQLYdvBJBT-BwFN0Sy4dtt1WQqh6d1wRBZBEiJMzlH6wmvjFeEKynsw5g8jePWk_OipWm42ovikt8aTaWjF25z3APL16PQ6mBqe10-ai4TsW5Mj7WPGIVkaKCzAVQL_55lAmrS1PDhQJFrZAHnY7FDCjlD38GQYeNSfs1X4CwFFHZHFdysSTmZ1WocJh0KOyC4n7LfdXSU46bp_i9I1iAXa7fXYIn7yWbsIvu3eG2FSbaDInh3mQc2Jj7--i2Wxbl9Jw7b1-vKX8KOH7BAr3feyjL2RIb6Wdc3bCTPlUzUFwLiZg",
+   "widthPx": 1119,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5uCNw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5uCNw!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMYLE6i50AwLZQDEdTJ_8EOF1MOfmECLXKoJ4bM6YaaaCiaX1Lh2mzwcLmiU3sWuriJ0NM-YJSqy__4e4SPfu8jrc3ajppsZ1_ul3kQFW6Snk-DYt7fAikLGgTvcn_BdZcvRF7igbhxDk2aSXXv9E3UO-TK-pMot2ntflyU8Br8UUhxTILck5_4ky6h8kTvP3RPEJ0wEvT8U-oG6-3-NHEyfDrBVzW59iwGOisEq8NsVYeezPMGWTo_7QdhKW0RrVEcocMHz-y-9cNdOfOK849KbUe-b-4FcDXSbrnNqn1yHC1j6uE_uiiwNwgd69ZZhWh-FRkb6UR4tIHO6J-MQrvQI4EbZRxgcn7VNoeB1cFJK0YdGfksa8W8n9ep4MV9dmBwgY3BRV3hYFWkW8eb235Bj5Cc4Khsh50SOCRbuNmbmUQ",
+   "widthPx": 1514,
+   "heightPx": 1187,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5usGQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5usGQ!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMY4yM_gsMpsC2-yU9EVjLs-Vc-QKOxhhw2Z5NLrG3D4HDU7Vrzf8F2UQkdcoVTUidUAaONJB82AWZkCpBJJC8r6h1FqjN9XvEmPLr-_8QdV5gt-ZvkkJ-0TNv7afFtPPi1a9PBAWxBIlLs2g3aPjUVQw__zlKhLh7tJYHC02M1c6nO5fWEwy8pt9eA5KNXiZbH7gswJvV-2GBBmpTN09SiIKMkbd9sY3q9EUJZvOdQbHwUHReBl5hP9mAOio1Debyc2_OApJzukqVeUZ5zXEhCX7jtlHCJvb4r4l5oPhC5FrP3hyieUAngJN2hlM5bu7DnKKADyKeBUxKr-m9LB-f14YPaitjLSj_zKCKeUdcQPrhfpn1G8Xk0BQAg9BOdLTIhKBuwHNc7WS_XA8ZR_mBxjj9WVCGw647fDRrKD7EXHXh0",
+   "widthPx": 4624,
+   "heightPx": 3472,
+   "authorAttributions": [
+    {
+     "displayName": "maiquel mavarez",
+     "uri": "https://maps.google.com/maps/contrib/109632261503063881704",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbMy7zdJ4N0GPkaL9-PwPvEpvf2Bheo8qeZzRbbhmeLefxIusg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDO9KChngE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO9KChngE!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMbXiZRycEGRVxfXwgmSVBH8dyeglU5WJuIkYoBywx3JZt5uR6tpZN8G1chT7oIIDr-MWo-SCokZx6Zwovf5Fd1XhY-kLwhEC4ajBFDS9oq0uW0a1KGaO6PGWBco9VNEf4hiTwiH4Wb7xreX91tmZOpuT95AU83Th5Wvmd_sGEAb0cbbS6sqBeMt-Gn0sBx9ejwhkO-zUf9F6WhQ_mJ18IdWiBpkH9NpXWTtGEQvBIuULoHdSuFiQ90dEAI3jjIPo1VkHLmfdLdmzDBX6YiqxqGwGzGFvyWqIJY5SHiaz2YO6mxURytgv964yKvOmXO_kN2Mq0gfH9oS4vXnty9xnqRQXJiyQnxFyOTxKX5E8iTn9bCYeGctpuZXD9qQpgMvcy-5i44nC5AKm2AUtJqPJogiCxyo0BpAMquWvv51hFvGX5GF",
+   "widthPx": 1032,
+   "heightPx": 774,
+   "authorAttributions": [
+    {
+     "displayName": "DANIEL E. LOPEZ SOTELO",
+     "uri": "https://maps.google.com/maps/contrib/101555608912390276649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw8Dqzj1OYD7alaQfqCDwqS4cfU0bzFhwNnsCd8g158fJYT2g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkluPaggE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkluPaggE!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMaGGJIQ4mSdEBn7ocVBbHOuwXc8Txfyewn9ZPyoRvLIAubDRp46d_wABl5O_HJtTZh349Ch1a1_LAqPdAbWTIL2CFM0eHobg4c0qbdwDjPnZnTk2OzONp-zE61pj6pnTr2kwNg14m94z65VAPpOyhEPPq197glNpuwNYbUu3EJnUNCGd0EwekLLqQPd6_DX5Pswoui3OOBvPJHSHx5rpOoNI9Gan7BhMhwkr0GbGdN39G_NUGCwLwXRcCVRJ7AIJPovlUCpls7khI6b5JCeEsCgDNo1On2wfWYxBYnVCnzpZ_4AKVEgv0WjtvysuD9Zaoz3F0cFT1gooIwB4DfwOJ9JLOaadaCy-Mg2rwMibRfrwR9pfVmUVOcMbzg5xsL9FqUPXiVOGcPSpJADk2Xum81DksW-bDmVVHKbsddz1WAyl2M",
+   "widthPx": 495,
+   "heightPx": 653,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5uWwAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5uWwAE!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMbLrMlPqbgNsYF3HlOpRFeK6HU4JSSXmLKiZUZDzlETMAHsH_esf5vkBGVbvelxbQH2NrNJfqYBHDRE_5g6F2g9juGEieukj9uEmZ9PGiY2PyiD-pn63jcpibfbDyIkhyCTmUxvBqdVVvNAIYt6K7ReWuy1F7BAzGhvZfP8qlTzT3eyaMkKqZvgPhPklHz8WVWZ0oz5Gimcd4bvjRKs_K9I6fG9CAVNMUXvP-gH33ahkQVNUaCRBxnY4VwdJ4-fQjfR7SzLkKaq-TGqpH7Krr2NqjHHbI9nDZKllAFaMXEY0MH8KsiX2nfelfXQIgECY5-zunttmxUOYVUUKU1qOXvS56UsReT_Se_Gtt2qNAqRam4T4G3FKGWu_WOVVdT3H3DdlpaE1fXK_TcSVW7EKfSp7KxSeahzFEoUHaoZQ7IieA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Sophia Da Rin",
+     "uri": "https://maps.google.com/maps/contrib/103761439148921998785",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwFGbbkfeSLSJJw2ZPWhL08-vr3aDso5PUj2aEVaseSvoBIOHGGA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEraLlCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEraLlCg!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMZctO5uSuJbciEaSDAj4_XONsdYJwz7o_JdPfyHWOrMmD_oZABOJeHsXyyL-3sdKNOPPgsJ_har_pLgYCQy8IufLke0kVEgGZD6OB_hQOEjFI1fY2KFI8gnXiOWcTH1qZXVZlAmB-1Mjun1YQwUq0o7ZHcq49gjHGvBlycZ5EMDRCVswZ8y57P5mTtq6-g04ddsXA_T0LzbVMiHZ7MH1FOELDMjmR0ozbQa1a0mwrE96xc02WMnHzxL1dQC8hZdJV2snRu2IaJARLm_zwRxtK09_8Fh9KMIpvEK40wv-hdsRgv1fRHCA3hOxkYQhu9u6EpvgqtBJCNoFhfu_cigV6mnbdlcb6_mo-7aH0GAt2oyFDKQ__ex1exKRM4E5SjXVYaVDKsNIV_Tu7GPY8uew9MFnf2PAeyRKnAjW8yiJQ-UEyfG",
+   "widthPx": 677,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5v8sgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5v8sgE!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMYVqCMO4I-98q5KN2luC_6jHm2LAsVRWlVwJ0oWel1nnkmemqUnIXF0XVk_2A-b5OK3YkdSovhosI3A_fhB45bCHnoz2jkp56cmV_IhwoCSZsdhBinpTexw3KB6ZyGJpDv0cdalzp4IMYt5-fmLrKGtGFiayobW4YHIZpAUQ7eC1UgyTp4B5_OcFSOEuklQDsOnoZWSMcbmtV-EDI_usQ7hFNa8NQzGj8NpI0Su0bsVH1sopQG0alhHchxzY-pv4n-IIkm2DNGtkHvQgo4XRg1cuvppAEIjNQ7dzsOp4Zz9QqBuXKF7uWsMxxmZiobXIAhmFnpiA3gJjcUK_9FM0Q7qJKfxDJ7ATM9_fy5cifTsD7lQDqrqljjkT9g9RfOxIAPcTgDXzibB4fpbbxJe0PFWmyX1luZwk4P1AEAY_UjG4A",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "wiwi",
+     "uri": "https://maps.google.com/maps/contrib/111187532000058156202",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEvmEsVf8HvYrQb5tyYc5v_M9ZPNXvrrHIhXBe-77YUqoaREcdJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM4MK0LQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM4MK0LQ!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMZ7Ar40i5M6saRGqrmJo-9_t6VH4juhdAHQ3KM_7u61sHF2qLAJEufB9sK9hTYIniSnGFeSPs8UMOKWegu2lGz2tPULZO5a_c0wvHZUfC6uJgCDUqsY1dAugSxgtUMXSNWFCJMIqqKv7K2Kgz8heKglXxgfVfbeBpGJozIuw6QZLroO5lL5Rhz7ik5OHJxBsmGqz-rD9_QfOMk6PAoCLKev_GY9kQTsV3EflKP_8-jG6dCAMNXW_6gv7mEGL6zU3eGBSWUpFTrRsdW5xeQ2M8GdR_xPAhNfJQUz7xQ6J0XwHBfH2vUskmQkYiSGo8GO8h03Hz8foH2qO1B_hwQNhGqY_ViAXQbdC4p3ds6zj5yUjBMTQhyRQLevzRAu1BDlowAm0oX-gNsZaLq1keStay2D3BvW2CEpT_fWooxuNtyKEg",
+   "widthPx": 1544,
+   "heightPx": 1923,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5uKCQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5uKCQ!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  },
+  {
+   "name": "places/ChIJnZFibsTHBZERaTY4yhvFQ8Q/photos/Aa-ngMaXY6ot2rfTcre1Agv5AgcMdyLT0gJDB707seP2lQrHiNSxryT4lX_kWteLliNylJADvIWrQSnE8mXRwaa4x5A-Gf7cz4UuaFtBXn7LURoHtrlpLX6mSL9hTggRao5hUF7YYurMwrnVnGl4F0GpJjWtq3_07FqwZ4UcmMFYlmnO8AdOemZtFp99YJ4P2alrz3dmduqSl1pDrA8nRZVUT5WyCEMiRS2FV-ub5PFmFNWovD8NiIqGC5W0a4fGI4CQkj8pC94Fl28bZ3bWcJ-VmXoxUNcBbgXBKpiAMdBdCxm0VX9rAnsdUoAfIT4m-12kUqtCklSTRKhRYlAXIFbPiSgNHlm62ar6O-ProMBhDBUN9R_rjKOYNcQPRbQqpghSqV30lnMhNahuX1qSnU6_3t223fEYP_ePca_GONXStJtu1A",
+   "widthPx": 1600,
+   "heightPx": 1187,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Pet Center - San Borja",
+     "uri": "https://maps.google.com/maps/contrib/115766412152786984866",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoEHGjpFzzRA3ayA6JtGqpm0WLSCysglC0G1EaeF0EZhsMhmI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC_5uVGQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC_5uVGQ!2e10!4m2!3m1!1s0x9105c7c46e62919d:0xc443c51bca383669"
+  }
+ ]
+}

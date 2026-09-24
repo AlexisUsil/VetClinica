@@ -1,0 +1,469 @@
+{
+ "id": "ChIJ2zftxYe5BZER7hqAj6y3Mks",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "922 117 183",
+ "internationalPhoneNumber": "+51 922 117 183",
+ "formattedAddress": "Av. Andrés Tinoco 139, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "139",
+   "shortText": "139",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Andrés Tinoco",
+   "shortText": "Av. Andrés Tinoco",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Prolongacion Benavides Etapa 2",
+   "shortText": "Urb Prolongacion Benavides Etapa 2",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1421864,
+  "longitude": -76.9904863
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=5418595253449923310&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 6,
+ "displayName": {
+  "text": "Mathías Vet Clínica Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Andrés Tinoco 139, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTmExUlNWVW8yVEVwdU4wTktOM1Z3UkY5ZloxRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy contenta con la atención personalizada para mi perrita, la operación de emergencia salió bien,  gracias a Dios",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy contenta con la atención personalizada para mi perrita, la operación de emergencia salió bien,  gracias a Dios",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rocio Castro",
+    "uri": "https://www.google.com/maps/contrib/104113445551561686559/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX17ERhUd2FBU0YhVEGe0DqOsvLrt-WxoS6n1lD7N1GOBIJA5Cs_w=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-09-14T05:48:52.653167910Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWTmExUlNWVW8yVEVwdU4wTktOM1Z3UkY5ZloxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWTmExUlNWVW8yVEVwdU4wTktOM1Z3UkY5ZloxRRAB!2m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  },
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/reviews/ChdDSUhNMG9nS0VJQ0FnSURiOTUtM3BBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente veterinario. Atención y solución inmediata a todo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente veterinario. Atención y solución inmediata a todo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "MELISSA SALAZAR DELGADO",
+    "uri": "https://www.google.com/maps/contrib/101722487843694239500/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgw4HAeONYk9hSjHMJ2AQA8nG2EW9UwuwRsdkq0ae5gb6lrl1c=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-08-10T15:33:48.848538Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiOTUtM3BBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiOTUtM3BBRRAB!2m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  },
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNE1pc0NREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención para nuestros pequeños ☺️🐾🐾🐾",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención para nuestros pequeños ☺️🐾🐾🐾",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karina Lopez",
+    "uri": "https://www.google.com/maps/contrib/106571146493396500795/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzuJHdESOCbWT_1HwDn2W2ah_CwvelTLF2gUvtpnos1q7xqFOMtA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-07-26T16:51:38.552314Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwNE1pc0NREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwNE1pc0NREAE!2m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  },
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNElpVnVnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, lo recomiendo ✔️✔️✔️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, lo recomiendo ✔️✔️✔️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melissa Molina",
+    "uri": "https://www.google.com/maps/contrib/105260186812977272447/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvqKuLo2y_vugu5Ut6zE2dwPWEb2QhyO8RxW81Z6cvhfkz48p2_g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-07-26T19:05:05.893694Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwNElpVnVnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwNElpVnVnRRAB!2m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  },
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQdzVuRWV3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luis Oyarse",
+    "uri": "https://www.google.com/maps/contrib/103138184966860899038/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC9w1p-_kJbKAhb1agzdDHvKW-V579MxBDj1J2Zot6-dT2877QzQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-27T12:43:44.356469Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQdzVuRWV3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQdzVuRWV3EAE!2m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/photos/Aa-ngMbGg0fj3A0o4lYUWe7knDrvpzejMfGAcjgTg4HzPsFKE1gAhyph1AJgImnRpi9kgPYMSumL1eZ3PPICc7Or51uPFnbbDhjtp-i8Vz0fBWMlDWQGv1TML3CKm8vTPPG38BvFT_d9XUDWHt4kB2QtDvTViDSM-tWcys3wLQCtbQ-ucK-Upvy90R-zxfMcnRQS0BnpuMDUG1d3xgCnv1wsrIdgb-YHDXZniATm1fVqpw4odj9fdbTTj4CyskPupLYjNj6asWPKx0TwtcOwH9SFIotorkQ3FXYN0W_yiAU6QfKlXuV6WC2HpEqC_yl9LzLZOQbdoGAH9untry941lQzUXZAOztasrW5V8johzLZkH6M9vhMbKbkQFkk0knDDXj20Sry0EjuGcejUxR5qFjwDfqpXIBjLdf4VsC-bitii-q63kyA",
+   "widthPx": 4618,
+   "heightPx": 3464,
+   "authorAttributions": [
+    {
+     "displayName": "Melissa Molina",
+     "uri": "https://maps.google.com/maps/contrib/105260186812977272447",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvqKuLo2y_vugu5Ut6zE2dwPWEb2QhyO8RxW81Z6cvhfkz48p2_g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDTjO2rxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDTjO2rxQE!2e10!4m2!3m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  },
+  {
+   "name": "places/ChIJ2zftxYe5BZER7hqAj6y3Mks/photos/Aa-ngMbtm7WN3eNPz-TizZREgNO5P5ndTxDDazeCteIr8B58H-fto_JtFcurqd1QF1eR_YjV3VoB6xdpVneuF9r9qvjCylPzufhOTu6_nF-Wfq1MZsce9XTTuITiPDrujV7fH45ySbJF8wPMvRIhpooaxgLmaIwXvdfYZaXfzwweDk0vQxsv5Yjcy-oVKcQo46mM-7s7SndlWp9Zv2lAU5G4wKD3QHZNwSYDIcACIgjhfHzXZ_gHTLgcUc6Mi5jIg0rm-Bh50Cmlc5IqHDSIsNQYkSYdGzklwJH0b8WV6bMg7gior9Ho7g7bQqav1-zDHk3F5JDr_9xSd934hJoDzAvSeu_LVD7zQ8R82ZVANUX6WSnb9tflPZRtrbMN8P2vAsR9Zid1aHhaOFYX0LLK1j4QIIHx2t0eRPH31cohTPecRyaesTdfUhW8TL57Z4KWGA",
+   "widthPx": 3060,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Melissa Molina",
+     "uri": "https://maps.google.com/maps/contrib/105260186812977272447",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvqKuLo2y_vugu5Ut6zE2dwPWEb2QhyO8RxW81Z6cvhfkz48p2_g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAzhJuo-f8csHK_bXkdOHqN&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAzhJuo-f8csHK_bXkdOHqN!2e10!4m2!3m1!1s0x9105b987c5ed37db:0x4b32b7ac8f801aee"
+  }
+ ]
+}

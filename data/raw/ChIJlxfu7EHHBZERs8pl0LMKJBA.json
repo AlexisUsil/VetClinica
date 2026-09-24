@@ -1,0 +1,616 @@
+{
+ "id": "ChIJlxfu7EHHBZERs8pl0LMKJBA",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "967 941 740",
+ "internationalPhoneNumber": "+51 967 941 740",
+ "formattedAddress": "Av. Los Constructores 302, La Molina 15012",
+ "addressComponents": [
+  {
+   "longText": "302",
+   "shortText": "302",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Constructores",
+   "shortText": "Av. Los Constructores",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Acacias",
+   "shortText": "Las Acacias",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.066889699999999,
+  "longitude": -76.9562177
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=1163066371180186291&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.pawradise.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: 8:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 20,
+ "displayName": {
+  "text": "Pawradise",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: 8:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Constructores 302, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toelNuSlBTMmR6VDFKdldEVTFVMlZKTFVWc2FXYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es el mejor lugar para llevar a tu niño o niña! Mi pequeñito es muy especial y solo puedo confiar en Pawradise donde se que lo tratan con amor, delicadeza, y mucha paciencia para un pequeñín como el mío! A ciegas confío en ellos! No hay mejor lugar! 💖💖 Gracias por siempre estar al pendiente de mi hijito y sobre todo que me avisan cuando ya le toca su vacuna o desparasitacion o antipulgas! Llevan un control\nExhaustivo 💖💖",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es el mejor lugar para llevar a tu niño o niña! Mi pequeñito es muy especial y solo puedo confiar en Pawradise donde se que lo tratan con amor, delicadeza, y mucha paciencia para un pequeñín como el mío! A ciegas confío en ellos! No hay mejor lugar! 💖💖 Gracias por siempre estar al pendiente de mi hijito y sobre todo que me avisan cuando ya le toca su vacuna o desparasitacion o antipulgas! Llevan un control\nExhaustivo 💖💖",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Winnie Pastrana",
+    "uri": "https://www.google.com/maps/contrib/116839005956280309589/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF9Wl0UXlko9GbAk0ETC1c2PnGZr0YQlnb7K2t6dN8UeT-Eg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-30T02:54:02.609895976Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toelNuSlBTMmR6VDFKdldEVTFVMlZKTFVWc2FXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toelNuSlBTMmR6VDFKdldEVTFVMlZKTFVWc2FXYxAB!2m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5SVoxcEVOWEpvUmpWM01FVkZWMWhHUjJkSFVGRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Llevo a Max, mi bóxer albino, y no puedo estar más agradecida con ellos. Siempre lo bañan con muchísimo cuidado y han tratado sus alergias de la mejor manera. Lo que más valoro es el cariño que le tienen; Max los quiere muchísimo y siempre va feliz, sin importar el tratamiento que necesite. Eso para mí dice todo. Son súper profesionales, atentos y realmente aman a los animalitos, Max tiene a su favorita la doctora Nicole jiji Los recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevo a Max, mi bóxer albino, y no puedo estar más agradecida con ellos. Siempre lo bañan con muchísimo cuidado y han tratado sus alergias de la mejor manera. Lo que más valoro es el cariño que le tienen; Max los quiere muchísimo y siempre va feliz, sin importar el tratamiento que necesite. Eso para mí dice todo. Son súper profesionales, atentos y realmente aman a los animalitos, Max tiene a su favorita la doctora Nicole jiji Los recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Rengifo",
+    "uri": "https://www.google.com/maps/contrib/110146205769054828052/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQ1T3xVsEtrpWKmnEATll52USXrmepuAY863Uui8v9v086vYw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-30T03:30:34.510506988Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5SVoxcEVOWEpvUmpWM01FVkZWMWhHUjJkSFVGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5SVoxcEVOWEpvUmpWM01FVkZWMWhHUjJkSFVGRRAB!2m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT201aFJFOTRhRVpCZEVsV2IwWXpPRXhsVldwclJYYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Conocí esta propuesta de veterinaria caminando y pedí información. Agende un día antes su baño para mi perrita que de por sí es tímida o temerosa para los baños, ya que solo su atención es mediante cita y eso es buenisimo porque así no tienen a los perritos esperando horas y que se puedan sentir ansiosos 🥺 como la mia. Además, que tienen un espacio de su local donde puedes esperar tranquila ☺️ y eso me encanta. Incluso, logré realizar teletrabajo, ya que tenían una mesita. Ella salió muy bien y feliz 😀..en definitiva volvemos para sus próximos baños",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Conocí esta propuesta de veterinaria caminando y pedí información. Agende un día antes su baño para mi perrita que de por sí es tímida o temerosa para los baños, ya que solo su atención es mediante cita y eso es buenisimo porque así no tienen a los perritos esperando horas y que se puedan sentir ansiosos 🥺 como la mia. Además, que tienen un espacio de su local donde puedes esperar tranquila ☺️ y eso me encanta. Incluso, logré realizar teletrabajo, ya que tenían una mesita. Ella salió muy bien y feliz 😀..en definitiva volvemos para sus próximos baños",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeria Del Castillo",
+    "uri": "https://www.google.com/maps/contrib/110601079259110547232/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAcNxeZLLCiAZObcdy0PoGQxclLvF6o0IUcIfGGiG0nk9IX2A=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-17T18:25:09.058531529Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201aFJFOTRhRVpCZEVsV2IwWXpPRXhsVldwclJYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201aFJFOTRhRVpCZEVsV2IwWXpPRXhsVldwclJYYxAB!2m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzeFlWOWxNRmx2UmxCb2NUVk1jRmMwV2pGbWVWRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Pawradise es un lugar que ayuda y engrie a tus mascotas! El servicio de grooming que ofrecen es A1 y todo lo realizan con amor y excelencia! La veterinaria siempre ha ayudado a mis dos perritos. Es nuestro lugar de confianza 💓",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pawradise es un lugar que ayuda y engrie a tus mascotas! El servicio de grooming que ofrecen es A1 y todo lo realizan con amor y excelencia! La veterinaria siempre ha ayudado a mis dos perritos. Es nuestro lugar de confianza 💓",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariana Navarro",
+    "uri": "https://www.google.com/maps/contrib/103251828184375619210/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWl5HjmMbAYjAGYGOoOMDT06yWVDdZxhRpfnIpYOU5Zdscjl1QiQA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-30T03:27:31.762064440Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzeFlWOWxNRmx2UmxCb2NUVk1jRmMwV2pGbWVWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzeFlWOWxNRmx2UmxCb2NUVk1jRmMwV2pGbWVWRRAB!2m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnMlRFbElTVFV4ZVhsRWQwNXdkWGRzZGxGdFZFRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente trabajo! este es lugar de confianza donde siempre llevo a mi perrito django y siempre sale muy contento y feliz despues de sus baños y consultas, se nota el profesionalismo de todos💫🙌🏻",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente trabajo! este es lugar de confianza donde siempre llevo a mi perrito django y siempre sale muy contento y feliz despues de sus baños y consultas, se nota el profesionalismo de todos💫🙌🏻",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gabriel",
+    "uri": "https://www.google.com/maps/contrib/110446604534292096821/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLp9tgMO0JNw0waZPoaPdpsNWJPqo1h9ybAYGw3wXRUn1YoG3UU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-30T03:29:55.265078442Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnMlRFbElTVFV4ZVhsRWQwNXdkWGRzZGxGdFZFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnMlRFbElTVFV4ZVhsRWQwNXdkWGRzZGxGdFZFRRAB!2m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMaKO9U-hVHSbYtvTB-7q44ul-WXqAJT4ARs4jo5cB9eThH9JpazUftaGexFCOIV_EU5kTWiFJsJwvSYlgfePjemqKM-IcQman5dww2nuh-r4uaRi8-6jTJPRnHnBN4PKZAxBYw8jiLbZUOS4CW8yj0hvlH3PfTqR0lSxigVf6z9XmU0sc3XVJh6Fa6Pt6T2I2-9fvdyXctTrErqlCW-YnFAyiQ0XEYuVv-ZAeGb3Sdbr2tNIC2_zhWtSmUo-i0WgqKm7_kVheDm3fa32ZwPxmQIh-ECR_0W5klY0FDJqas0mncjogfAkEWw4aLfgqZDrIpLy0_YAmuofGOi7vdynJEO6mpaiPvjM83qKSgAmf0KHjyUjOp97q5utanwoJMMRZWfe5fiUikHoh7rAv3oAdDnceTyMsucdcAqouBjk8lpsw",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Pawradise Constructores",
+     "uri": "https://maps.google.com/maps/contrib/100158859933205766723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWLapAF2d-Bz5NeMSeRAK1jYDJ2n-6n2YWa3VW3ceRQnC9mP8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydVgTAiII2gDuUUABFRG&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTAiII2gDuUUABFRG!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMbffdVh6O1EeS4YOI6hYdYnFynCcHppDaArsN3CsQ53hudjhNMmh2vh2FcUgY2pkKZtMS956-HmiYvk6Zq1pjQ9PDQ7GHgNgALSBiDbrl2tp7Edpq3C-yPfKhPFeckZEVA-LGBQSx2GbOGx0ZqY7qUaB96Mt8_J-QY0Bs3Ec3QzqEyT3eBJZB3dwS_zCLDwgG68Zx7orWlEytHoXfRb8yoS6_rpGAW3BMa8d4cfdMaTnYoUuyCku2q8hMKhDTZT3XQEfR78v7GtTSsUmDfPXmA7z5yqdIk3vODhHnUk23zF1xI8qkKHJ9qdMQArli_-4QKHrJPjlwCPk4AW_IVX8hVcifRLhnTfaQ8cXuO60_USSXF_9Nv0VA-QqFPBs6sBOcQPskz1rkyOsHNWsUhvyoq1C5WsBJJuRyguTz6pHsCGOg",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Pawradise",
+     "uri": "https://maps.google.com/maps/contrib/104781347840759722334",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRnUyWP5PVA-dQneFR3ww_NP1afno0JGkh1vkvFw-O8rHJkoKe=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydER2SP-MWf8SYEADxBm&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER2SP-MWf8SYEADxBm!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMaMtIM85NMej6W80cJiWk3CvHp6lH1oS5zkhAOL0wu9ccmvrqbyn7gvalVl5fFwz4QNU9pa5uFpSPp3sQzQrpb2PXLB7RGQUOCm8R9yCxXs4CDOinlW8mV7QYB3vr5UwPKL7Slo-nudPo2LAnY7mZoMwIYrCg0DFcv8LlgGl1LMlWir-oENpNC56HZL9_7-OMINReI5c0jz0PidREVKS7Dwe1-Gr_LblJti0Us3Sov-CkQ27lu5-gVDuVtU6MOsLJGrC6B-VNjyJhv81X8yslsiZ6i6vxEXXSUNcG9BqdswkzohqJnvtFUMiopa72ZAlXIp81P4Re4UzOsPI4tDp5nxNYxYfwdnbDKm-8pyvg_xsPMAx8hHWPvjLxtb2LDESNv_B7gKhrN4bytsOF1t_zyeQl2G4GZIBrBvA8GGTDms_g",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pawradise",
+     "uri": "https://maps.google.com/maps/contrib/110264780282016457994",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSfe_sg_Kl43-fiqusn7GTtd6EbENQy1PC_deFBY5xOYrUtyc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBGGZBwd2NO4PzYWWgRKfmt&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBGGZBwd2NO4PzYWWgRKfmt!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMbym85n2NygmbdRGJGHr39pjmvQtG-Rsgmw_O0WrSIK7MTn4FD6lld9RMQFIKtQZwwgfeKZANng9QarBXdkWMXTxWQmyJM_8Xzax5YhANtyzW7Yn2v-_ZJByF0pESYaWUJWWWZaLTWuMNkzVup3qI0G7szUmD0udRoJ5Qw6QP2M86wQC2Hhpi-Igu1FX_Z-SQvf-ck1G1dbsuCGvurL2Q9zl9OgRFhrNx45zxTXjxy-JODNz9UxIDaYW88Fanx9roGafFdaL6OcMJAiuOYyZKoo9_TMqcw7_Jjrpk6_xeiwOUz5eVMSBnuKxvA5GLrBglrk40rvE-0VscdKVl1FKShtg9TUni-MTJ-YqFCnuwI_D1lUlnSRoEy2qyh7FB32XDRbIxcnj9-IiR1k6UT3wEXljdm5e2gaBuUUhzLefkQ-ZQ",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Fernanda Garcia Zapatero Rodríguez",
+     "uri": "https://maps.google.com/maps/contrib/103232450230056215883",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBuSbfYzjmH9VvhYzpBZSD3jomFO0rQIK5SGSc0QgMuTb0z53Y=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD8RziHzXftHyfEq1ONMT-a&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD8RziHzXftHyfEq1ONMT-a!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMYXOPEGOpVzeCWk4rW9Y7ZT3BptzTEA8wcOATPPGwUEL2p6thEA-Ij72KRAv1YaPT3WeAJ7dF33eDbSU4V6QWYvAlvUD0N4_wULxmqxEUru90gO5Ss42BXOR_wTiLqwp133mPNRsOdxfm1kE6olbMa2otsr9ItGMdP1iCinc9Q1s7WETy0e-r7LjpPTf98xmD-CcSNjTq4CnEIpNjSuhPfxRdf4X5JxzVJUEJSS51xeXyRwInVPgbuK4g7giLpeYjw3LOPj89SuHYsQAUQwhddIipp2soNvym8qjGbMXN0ViNu5qQW7Vq4VqxfoxhPPa7zo2tthKffAjvno2wmPBdiQM_SZf9o1s6OdYAW7TGJMNCJfSuE8zDE0OItFZH3FY1VDtRaOc9aorliRNgj-7QmOSGagtCaqxuYHpwLCr9uZgw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pawradise",
+     "uri": "https://maps.google.com/maps/contrib/110264780282016457994",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSfe_sg_Kl43-fiqusn7GTtd6EbENQy1PC_deFBY5xOYrUtyc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBznwjvK-vjG5NmoAXT-A29&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBznwjvK-vjG5NmoAXT-A29!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMbqnNz3q73hgXeKmc4i7cgOIbC_ANM8v1z9sZt3HsceP3s7t7mPY1Z9eFHGrs0oSw7Lhs07SW7DNmswdaS_9f9pbrVfWorzuJCJRB3-SdvS1F4kmWDJ7honNLaK3y8ZkFTe70V99S0jC1Pk2hrN2M7JAnIOeb_KzjwJaFcojs1kk0QktcpD1SAydIkJbitjmvLq-fnNeqdDsugmJQpnMRVFM7zKvRhoviFK8eyyYQma_U9Cc2j9sHeZ2OcqPkpzw_5FLkFmkZlSfS2pyScuoNVRhXPuSFLDdCeerlQ-qc3gt_ctU27MoZqrGrLo7WF3Yma96qK7sO1m0p524CS-N7NH3aVxxEe1WyVVwqCQj5MhXq-YCq9ZJaHJ2w2hMKjOU0URZQ0NeLEhDvttFhu-f3f12RjTQMM5WUDrEfInLbOD2g",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Winnie Pastrana",
+     "uri": "https://maps.google.com/maps/contrib/116839005956280309589",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIF9Wl0UXlko9GbAk0ETC1c2PnGZr0YQlnb7K2t6dN8UeT-Eg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCcybMfZiSIM6F9UgUTeBzp&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCcybMfZiSIM6F9UgUTeBzp!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMZGgsLShPlr7TXuLhCJhCjIbTSb9vMDGhY6mM38CDF4yhYnRZkq9ODak7g-daPcIe9Xcn1FlugRQD--uaGp7Vz9JqtvT0E5kJHz6WdvrGWCgyyhW--MEVwCAM9SzefWhFJ_SLaf8rdb8AnV6woAuQe_LfMBOaVOQH-iFIW_UYPu8ebmcfKlJKUvI81_Ms4XX_KzBuvhQyd--rVdDPHKwc7hgVYKLRpPsrIKB7A0qvMq1n5zDxCwg2mkvHdQcJuwdcb6BIuFCM5Zitb5qvdhMXBSaR4VjSUGoebqnQvuU8lBdLRNu58srlbCmgifHlPyMvKwdULM1XJLKfbDNS4bSH0dc73nKt54hE9z8O5wx8CK_rgpo1DLXrLw371n3Nvsv6fuY97jPnqGGhCJT8BSrbJ3QGE2VaZfCeUC1FSOvRn6CQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pawradise",
+     "uri": "https://maps.google.com/maps/contrib/110264780282016457994",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSfe_sg_Kl43-fiqusn7GTtd6EbENQy1PC_deFBY5xOYrUtyc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBmCTosdsZI28pY_lo2DS-N&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBmCTosdsZI28pY_lo2DS-N!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMY-ZyqaD240CO04YQMvTjtJBWmZZlxWLj6aqxcB4HrWiRkkW_NaA4Hhn36_cIpAaAFgkcPiWMrkFr8XD9Wl2EXRR7fmqh5dZtA9i1ODBnvwlQqVyQAkXZyz58nXLZdb5Pdul5OpNTtuuYKDv8uYivjuYZdL_t4AaBGLi5Zl_bRAxp-6ftGtKnk6_M8pVWvth5KRV_8vApG5mRGxbr4tr1MTF9ZW8jti3nU65DICLTciKQJFKPV9o5dqPVp_VeWH3ojlU9j6fLweotBCZpZEojAjl8z5YWe-rzhNl6t1ckUEowCIEgfq8y69mnXxS3oDodpGXWxz8oZdALv-tZKHh1aT8sgQoC3s3BJlc6wne8MH2BDqE9XLCt3-VjCbeBZnNt4j29CFlDeA9siv5W1Jrp-t9bjCvEtXzUIDqC3N5c6xfg",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Rengifo",
+     "uri": "https://maps.google.com/maps/contrib/110146205769054828052",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQ1T3xVsEtrpWKmnEATll52USXrmepuAY863Uui8v9v086vYw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAO6d6UTCgguDy72ICC_KGJ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAO6d6UTCgguDy72ICC_KGJ!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMapftp0woFdn6jz8B7LOSMDLfuGK85eOR_k_nyUoDbV3VTOxGE6GBTpRZxeYr-uZsAkETB3JW3nTaHX6YGw3g492TlX98LohIke3CkyUcEW2LfVN8l61HtDJp2-zNDgB6tX7nVgcPNEy6H4sVlkHMzZnzAbRpIcCEWxbOV61k2CYwiBwNL64reMzzBBlFcEAXvUnag2yLj7D3XwN5ag-_axiUxW4dKUbYEsLDd0F7sYlqpNn0ikEz9wIlMxddVOIZ0LXYD0Dy0P5E2P5zfpaRvtpTiMF3QLuqwdoGsJp6rlUaEE5SviO-3tdbjLLHsQhxbtZpLoGPsPSd4pRLtDEF8zowzsVq-Vm4CXE8LBBwcu7Vp4JDP6829G10fYXjimZ9cpNyVS31eMYogCWDlqGBORzMe7uCXuBnTYm0dHdKH9",
+   "widthPx": 2701,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Carol Alvarado",
+     "uri": "https://maps.google.com/maps/contrib/109941893054256391042",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhv32z4BB-Kntv2MDpCkUNMH26V9nr3IJyMDqL8bm4L8wP4Y8i7A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydERsgmtAGf-XdcAC-oT&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERsgmtAGf-XdcAC-oT!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  },
+  {
+   "name": "places/ChIJlxfu7EHHBZERs8pl0LMKJBA/photos/Aa-ngMYGNQRfkmQAwN_8kXDTkFYmQde7tBXRlc3Y5JMTJIuZ9hRWKwvVqgLB_7J4Y3etF7LL61FMjK3S0_dgxE9MnYPIQhHOUIe9kQSjyYnn9cTgPqTlwH9JHguc5rdXpBcdZcnParWnst0kuIzNDgm0tyClCU6siIWcI1cWEGmoFlOpqrENgzHm6tmkkqeQQimBjhebNp9WrpWDZDJ977b6KJd2-1ZVqfiNY9uDoQMbmTbH9cCHg9P0atxNiNyBo2nlIMfUYYokev8G8B_asSP79F7wQXuOWTyvkVvU0Tslpm6YysYJqLcNE8c0uzmtcIygeO3MRrPQyODff-QSIrw7ovfH0OovZNthB8ZgG9PGDRGyZFJD-6SPTblOXjV3WOvm442o3fxE7c1NK9OMdma0BR-id1nJkRbmC1hwIdE2cDGroQ",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Rengifo",
+     "uri": "https://maps.google.com/maps/contrib/110146205769054828052",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQ1T3xVsEtrpWKmnEATll52USXrmepuAY863Uui8v9v086vYw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAVMZbEAmbEhc423E5bAfcD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAVMZbEAmbEhc423E5bAfcD!2e10!4m2!3m1!1s0x9105c741ecee1797:0x10240ab3d065cab3"
+  }
+ ]
+}

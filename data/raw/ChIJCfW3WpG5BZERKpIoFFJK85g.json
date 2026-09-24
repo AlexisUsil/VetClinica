@@ -1,0 +1,534 @@
+{
+ "id": "ChIJCfW3WpG5BZERKpIoFFJK85g",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "945 773 936",
+ "internationalPhoneNumber": "+51 945 773 936",
+ "formattedAddress": "Av. Alfredo Benavides 3630, Santiago de Surco 15038",
+ "addressComponents": [
+  {
+   "longText": "3630",
+   "shortText": "3630",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alfredo Benavides",
+   "shortText": "Av. Alfredo Benavides",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Rosales",
+   "shortText": "Los Rosales",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1288216,
+  "longitude": -76.9976933
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=11021234429491712554&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 154,
+ "displayName": {
+  "text": "Convet - Surco",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T13:30:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Alfredo Benavides 3630, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNlJqRTNVa1p3VUVWcWFHMUJkbXhLY0VWeFNrRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 2,
+   "text": {
+    "text": "No hay problema con los medicamentos, pero la atención al cliente es fatal, el chico que me atendió ni siquiera me quiso explicar sobre las gotas que compre. Mientras he ido a otras sedes y la atención si ha sido buena",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No hay problema con los medicamentos, pero la atención al cliente es fatal, el chico que me atendió ni siquiera me quiso explicar sobre las gotas que compre. Mientras he ido a otras sedes y la atención si ha sido buena",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Espinoza",
+    "uri": "https://www.google.com/maps/contrib/116055005004812046561/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqmizEy6mx5WAzTS-IShhRahRwJFfld-25azqrqthCFm2MtkKm=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-20T13:52:40.673866692Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wNlJqRTNVa1p3VUVWcWFHMUJkbXhLY0VWeFNrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNlJqRTNVa1p3VUVWcWFHMUJkbXhLY0VWeFNrRRAB!2m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JeGNVTlFOWFZKWWkxM1dqQjFSRkUzWkRVeVZrRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Farmacia veterinaria con muy buena atención y buenos precios también. OJO!! Medio complicado si vas en auto por el estacionamiento (avenida Benavides).",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Farmacia veterinaria con muy buena atención y buenos precios también. OJO!! Medio complicado si vas en auto por el estacionamiento (avenida Benavides).",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carlos Rodriguez",
+    "uri": "https://www.google.com/maps/contrib/115720223025083840019/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwwaVJ0ZwaS5hS5f152055k1esTnfPt9aXfNaQQBAA2U4PXw7c=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-02-01T17:20:45.801387075Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JeGNVTlFOWFZKWWkxM1dqQjFSRkUzWkRVeVZrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JeGNVTlFOWFZKWWkxM1dqQjFSRkUzWkRVeVZrRRAB!2m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSQ2MzZzFiSHB1Um5abWMxQm5kbTF6YkdnNE9XYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Excelente.  Siempre encuentro lo q necesito",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente.  Siempre encuentro lo q necesito",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Denis Torres",
+    "uri": "https://www.google.com/maps/contrib/108428707228333174698/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAVmy0ihFvQwqGP2oPVj9DVG8SvSd6G8tcuB6XusX5nBH9p_Q0=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-08-05T20:01:29.484412487Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSQ2MzZzFiSHB1Um5abWMxQm5kbTF6YkdnNE9XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSQ2MzZzFiSHB1Um5abWMxQm5kbTF6YkdnNE9XYxAB!2m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poSGFtRklRbWhsWTBwSE1uZHRPV2hhWDFGRFRWRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Se aprovechan con los precios, demasiado caro, hay lugares más económicos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Se aprovechan con los precios, demasiado caro, hay lugares más económicos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marlene Caballero",
+    "uri": "https://www.google.com/maps/contrib/105476599395737547254/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_RVEK0BzW11VMfbdlJ_Y0Lchy2gKCskYcwrZQRbVvIEyvv-bC=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-03-18T18:14:51.540081555Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poSGFtRklRbWhsWTBwSE1uZHRPV2hhWDFGRFRWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poSGFtRklRbWhsWTBwSE1uZHRPV2hhWDFGRFRWRRAB!2m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdWIyOXdUMUpoYjBnd2N5MUtkREZCTlROWFRuYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "los precios de las medicinas son muy buenos, en comparacion a otras farmacias veterinarias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "los precios de las medicinas son muy buenos, en comparacion a otras farmacias veterinarias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella hilton",
+    "uri": "https://www.google.com/maps/contrib/103038650228662602216/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQRZCjEfUBwVvAHJD-4_7GlyymqeORqTPSueyYUsTNCF7EpA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-04-13T15:57:43.120785525Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkdWIyOXdUMUpoYjBnd2N5MUtkREZCTlROWFRuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdWIyOXdUMUpoYjBnd2N5MUtkREZCTlROWFRuYxAB!2m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMakMMoKnAogKzl19rjMmNkollgS7QGsphc3l65vHBVsYEZlWwg2NgAVOqNuEBklR7tetutnrs7wFmzEqqQPNzfe6TIzXZOpYrlKIF-37P2Ob8AhU7d34LC7jXmZuB9NweDqjuwM9OQI6jaMkeSXoMWEliJB9H5FEfRD8GuTQdRtMazSc1e5KxURWfT-Y2K4sHsSEyTZjUlZaUGYipR91GZXEvYaKBs_3nW4k27inwvLg--VxnhlozKudno1sicOGw27r6w4ccv3HMJrnrt7sO0XItAwM7QZdF0K2N0MUZpNDe4KWWvaE-yAVt_wTy-p1Uu96f426kv5vpPqp7Zw8ODmMiEkSqVjwUY0Fa06OKRgeYii5O8Tx65v7knqGRGBtRcOTGq2vIsB2m3gPFJ51iMhkA",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco",
+     "uri": "https://maps.google.com/maps/contrib/103834193513461630550",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWG9OrHd5h3hhr0ylrXGPBL4YxwWgDsQapAI06ckEKBkXiZO_8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbPaUQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbPaUQ!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMa2VXHkwkPMU6TrdHW7dz27rNllnR7X_ohAsVjDTYF6Kqiura0qro_Eb3_Ja4jCgRoWAR6lHKce-wbEuMlIoYiKYxbNGvyEDD6T7-_YveXev8HMscEKWLUAx9wu3Hp_lzSTv5ZnZy9KNULNEQxmMnWvcXgg4ltTUI-POOpjYiDwlVfHSrP9TF7fK2HIOcFFzzift9brhnALyjMlJmTwOdotXGNb8dm-eGKodBxGiQ5Dr--2Ndg0HwmfxtWNymq_AIOREYYmgdTK00zYTNq1Ws_yOkbCtrY5RDWFlCbAu-uePw1LSpaqJI5wDhpKAlcDB2mjLLyc8JUOW4Mim4nu8YfMDKFfiVOTULnYJcbPn1c1qHsKn4pCbHFE7Q-z3c5v1tMKh3PY-HSghYGZ5oCftC-qjsXoPgA",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbO0kQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbO0kQE!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMadwK7cNANtPaimiFJgRHsoHJnxcd4Lx7zlSLbZpzAdoIWOGziolPjVScP-89nPtA8Kkm6pWncT6ZIRsIZV30lZF7hHxGAEwm2L6j5KjdrrJ2DOQlezXj38EpD9o5sZHAy7uXjlqL4rZFIEu-Y_UD58TbosJAjh7B6Ff8SZxcV1xs_ZWjv18aY72-vJfU4yGoB_C6un90rTJHewHGZLyKId5axP4Wm4klL2Ve6XLWf3FfbhI8ABPXvx4CC5y4MMO9wbUx0VOruy_k--e1Ni90bhXO5jY3FeibQjXMRcAuaMBamuXI4eWcSxajDcPgUEn9PQoEzSiRma4voJbXV1ssfxoNE7OOEc8P7_EzNneZWiQp3w_u9hHyUxR6w-iWjJPS93ogyj5hP3Ur4pnMZmTZbcEio",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbP4Zg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbP4Zg!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMZZ4GlS_s4t94yrM0nio-a3ulE-nuIjnZqQ5yKC6Zz9hywvSAUOYHwmj8FvRnKcLhmOp-TU1Sqc66fmfC6ouu6OhcNPLaY2QsId--UwcpHWOAeWJUsSwzITuO7dAkkjlDDPZ29pXm1qvZB_y5ZFyh0Cstlej3REvqp7hOAsj32cjkzpm6r_H3LC7DKBcBh9mPKVTpInhahJDGWpliOB6tdaWUZJqRWcNGHqK9XelOFtdCXESpc5xNL0HCnkCmYHoviu5sDhM8-1cXAtGScyA23gL_Z2eZAakuAYHWEYYlPKyx99l6d114f_PSnK-jThZZJIabpUrBMcuTmfOxAcGqfexIwA6MSFB5HeSDGuWw_XluyFsKDrU3S1PjPCScmWOs2QEamjNqF3GPMjKZES5lajxA",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbO0CQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbO0CQ!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMavNTzyFqwFJZM74J3XSTomFousdS_CeSfSUqL9ex_CbdtI7bnPIWqA2Rh_xsKTCUToLB_Um55Tg498To9-W6iDwx33nX4iUztF-oLmqXRoZdiYaP7YikyglscV6HagMm56utMIlSecqAM99FIwzIKSbU78xUNF6o9uY7_aR94BrsZg1G_wPHCGgmVL9912E3BOTtNEcZBQl4G81yZsY2ezUFMBFPBrK2Lew99mXBxBsYFd8IUYXDYqAR5xPclN-BjlOUjntqhqzrOJLg9WtMw2cTXKNL663qtRALo5ER-7CGmJGJWZZAtF7iAYu7gLkHSsiy7t6Y2DXHbb8tG-ScNdBs8dwJx5Tymcv6Fu-aO3DIE_KfKsrtTJrFHNUvAh7vpIXCLdzYrHX5Y9MTfADj7fj8A",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbP0eg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbP0eg!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  },
+  {
+   "name": "places/ChIJCfW3WpG5BZERKpIoFFJK85g/photos/Aa-ngMaGPRNE_2vM5xJXPAQ2N3R9Wfjf6XL62AdZZbEm7f2FLaBxZfeTbYUMrKetLnSDxbTtJkYUdAshSJhz4rj9c7GYn62XRR2WYXkAkQDCMb7gBKPxH2tool2LouVQDpC2L6QkjiDWJF0WbFtz3AAS3d30n_gmheOgusAkDASEsbkiQbVDYZ3cBkI-KQXAZquC0ZD0_udWrzcjdOluER7SHcLZI-eLWatck8Al7T0IHJOX80QFc8FyZyLNy404dCrJQf8BFP2FXweMtUGY5TKO7Ns1-Z3ME5YOzxXAdJQIwDvrIzOEHo1qkeaBjgnX0IbK86eVmZzs0f1157bvPr2WZYog2XZf7eIKmyciY9oNk6jsSKVIODlHahEXNlK7O92pDxIsSD_ZF-jkNKYdUE6px1Az_gA_bng",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxtbOE7AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxtbOE7AE!2e10!4m2!3m1!1s0x9105b9915ab7f509:0x98f34a521428922a"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

@@ -1,0 +1,618 @@
+{
+ "id": "ChIJyZNcKR3HBZERYB-0kJdFxyE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "905 438 555",
+ "internationalPhoneNumber": "+51 905 438 555",
+ "formattedAddress": "Av. Petit Thouars 3991, San Isidro 15012",
+ "addressComponents": [
+  {
+   "longText": "3991",
+   "shortText": "3991",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Petit Thouars",
+   "shortText": "Av. Petit Thouars",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Isidro",
+   "shortText": "San Isidro",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1020709,
+  "longitude": -77.0305166
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=2433990640887144288&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://aculi.pe/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–19:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1320,
+ "displayName": {
+  "text": "Acu Li - Clínica Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–19:00"
+  ],
+  "nextOpenTime": "2026-09-24T13:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Petit Thouars 3991, San Isidro",
+ "reviews": [
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sNU4xVkdiV3BMVUhab1RsbFlVMWgyVEVKc1MwRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "El servicio de la veterinaria Acu Li, es muy bueno. Estoy contenta con ellos, puntuales y amables. También,  siempre envían lindos detallitos por alguna compra que se haga, algo que no he recibido en otras veterinarias.\nRecomiendo a Acu Li en todo aspecto. Sus mascotas estarán muy bien atendidas porque desde que uno entra se siente el amor por los animales.\nGracias ACU LI",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El servicio de la veterinaria Acu Li, es muy bueno. Estoy contenta con ellos, puntuales y amables. También,  siempre envían lindos detallitos por alguna compra que se haga, algo que no he recibido en otras veterinarias.\nRecomiendo a Acu Li en todo aspecto. Sus mascotas estarán muy bien atendidas porque desde que uno entra se siente el amor por los animales.\nGracias ACU LI",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Byrne",
+    "uri": "https://www.google.com/maps/contrib/114565266764096167776/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIfbJu-iV9uzomO5Vt9mKUZfo4pIK5nxbKjQQtynH2bk9Oxg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-15T00:43:05.073680506Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sNU4xVkdiV3BMVUhab1RsbFlVMWgyVEVKc1MwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sNU4xVkdiV3BMVUhab1RsbFlVMWgyVEVKc1MwRRAB!2m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKS1RGTnZhRTl0YTB0ME9HeHdSMWR4WTFoeE9GRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "100% recomendado, desde la primera vez que fui quedamos felices, el doctor tuvo toda la paciencia para escucharnos y recomendarnos la mejor comida para nuestros gatitos.  Su atención fue muy amable y a nuestros gatitos les encanto la comida. Adicional a ello nos encanta seguirlos por la linda labor social que hacen a favor de los animalitos 💕✨🙌",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "100% recomendado, desde la primera vez que fui quedamos felices, el doctor tuvo toda la paciencia para escucharnos y recomendarnos la mejor comida para nuestros gatitos.  Su atención fue muy amable y a nuestros gatitos les encanto la comida. Adicional a ello nos encanta seguirlos por la linda labor social que hacen a favor de los animalitos 💕✨🙌",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Vanessa Scarleth Toro Ruiz",
+    "uri": "https://www.google.com/maps/contrib/109863970227037710968/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW54nqt3UaFKGQtCVpZxkDJyiLW9XFD19v1emHEH6qrn7Zapco6Bg=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-07-07T00:46:29.084588096Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKS1RGTnZhRTl0YTB0ME9HeHdSMWR4WTFoeE9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKS1RGTnZhRTl0YTB0ME9HeHdSMWR4WTFoeE9GRRAB!2m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oc1gyZE1lRUpDZGxnMk9GQnRlV0k0Yld0NFVWRRAB",
+   "relativePublishTimeDescription": "Hace 2 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Primera vez que pido . Todo muy bien ! Ahora  ver q a Arnau le guste ! La bolita de regalo le gustó !",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Primera vez que pido . Todo muy bien ! Ahora  ver q a Arnau le guste ! La bolita de regalo le gustó !",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Chacon",
+    "uri": "https://www.google.com/maps/contrib/112924545331032028503/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1gqquDGz3Ta-SsBLGEhs5YhcjioCFMdmLDdxSo5L6KiZqNaPt=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-05T22:25:09.190258874Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oc1gyZE1lRUpDZGxnMk9GQnRlV0k0Yld0NFVWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oc1gyZE1lRUpDZGxnMk9GQnRlV0k0Yld0NFVWRRAB!2m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaM2NrTlBhMUEwVjNwc2N6WjFXblJVV1cxalJrRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Es la veterinaria ideal. Todo está pensado para nuestras mascotas: linda decoración, ambiente acogedor, personal y doctoras muy atentas y cordiales, buen servicio. Se nota que les gusta lo que hacen. Somos clientes desde que Aslan (mi Golden) tenía 4 meses. Hoy tiene 2 años y seguimos con Aculi",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es la veterinaria ideal. Todo está pensado para nuestras mascotas: linda decoración, ambiente acogedor, personal y doctoras muy atentas y cordiales, buen servicio. Se nota que les gusta lo que hacen. Somos clientes desde que Aslan (mi Golden) tenía 4 meses. Hoy tiene 2 años y seguimos con Aculi",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gisela Gongora",
+    "uri": "https://www.google.com/maps/contrib/102613541037856209862/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILSCSdJBO17Oqrzd6oBhn_V7HR5G-4B-sBVoBUIncSJve14g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-02T18:00:39.877839911Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaM2NrTlBhMUEwVjNwc2N6WjFXblJVV1cxalJrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaM2NrTlBhMUEwVjNwc2N6WjFXblJVV1cxalJrRRAB!2m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sUmVGQm9WV2R6YWpsM1VIUTBhRFI0VEVWS2NtYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención 🐾❤️\nMe hicieron sentir muy tranquila desde el primer momento e incluso hicieron todo lo posible para que mi pedido llegue el mismo día 🙌\nAdemás, tuvieron un lindo detalle con mi gatita 🐱✨\n¡Y las croquetas Bravery le encantaron!\nTotalmente recomendados.\nSe nota cuando trabajan con amor y vocación.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención 🐾❤️\nMe hicieron sentir muy tranquila desde el primer momento e incluso hicieron todo lo posible para que mi pedido llegue el mismo día 🙌\nAdemás, tuvieron un lindo detalle con mi gatita 🐱✨\n¡Y las croquetas Bravery le encantaron!\nTotalmente recomendados.\nSe nota cuando trabajan con amor y vocación.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Silvana Vinces",
+    "uri": "https://www.google.com/maps/contrib/105112270417661452505/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfMb0S-4C8M1VyP2xkckZI1ZV4xu6JlITBT6Ws9ZhGn0tSua0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-05T20:45:52.116175955Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sUmVGQm9WV2R6YWpsM1VIUTBhRFI0VEVWS2NtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sUmVGQm9WV2R6YWpsM1VIUTBhRFI0VEVWS2NtYxAB!2m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMZJ6Yg4hCGSInwr5iBKv7EhdWrNzjbh4qawYSs3YHGfRhJPq1oCcrYgdVjgf4iJU-Pjz6pFZHQHXPzOkDim_MYbgiKE05goROI3AzX9MREd-ehqRS-ptY4qZTJWRgopQi3guFJ9ZQzj5UpPvVcx1UlXhRjIzqE18JsHZuwn7-XePvB8RhaPpVw-LA16S6QAASujYtVjjKYIAjiz7tH_6JZZz8tjHcKxBRtHsEXr1ag72YyZwAVh5aDtXYI5NvRdTTrsz5E-vwfg1gpm_ISjwFQOqBK3kXwhwAiJq7XkXZySyeo674VOLfw72l-QNP19IMZAQv6p4CB8_bqc9w1CZmcBEWya_6DKejFtmAPIY69RZlqh4qENjqSs6wr2VUyzo8qV99sGwrrjP4vJLLxnlOz8bfM_RQoxIGu93RbUWXwqPHWBCVkMp0RJBE98-aiK",
+   "widthPx": 1207,
+   "heightPx": 679,
+   "authorAttributions": [
+    {
+     "displayName": "Acu Li - Clínica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/105317697984823978536",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYbdzdHPityvtaI_CiSUIGv7_PoJ33ggZSdhgoCYst1BfMQ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDQl18K-n_woDh0wkWXwggr&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDQl18K-n_woDh0wkWXwggr!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMZbBPFjqkevIpMpm1jjgzbHinV-K336ANWkxuyX1Uwo9onzKWsvqZVBQsmCJDcdbrJp1zEi2zifbwUIzdYsIVcstJlB6sf8TXjqHokpzLQjVBO0YbQw2-04rKkkrhz_XBXIZvnKzLyT6C_pHESmmRd1eNkJ_jP88WFTrJd49nMiUFBL39BQhaBOrWcIDYZwz-WhCARU5Ag_evNMfYmQnDCn16Q1r86Q4DJXkqqJl9AEK6tcwxPFNBbAZVlbKWqg6rLd9j_vywgmCetBAhybOLeMgufV7aC6ZPTR9nae2S3EfGJFUU7Rj1TyoIT8RWDn4J4ZKwK7dfWvzKDSv2JcFS8zr32eS_tWlCCQj-c1RRPn8lIl9oFRMthGOnsYxgRlst2PClEy-Jf0HWXuQnHXYflaVqfBCqzMxQWZeZJiyD6vH5dq",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Maris H",
+     "uri": "https://maps.google.com/maps/contrib/110048031175150798123",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWztlOWXqkMBEiEB1fs8MR7kfLcRNXhVtWlXfNsL4Mzg7r48hj3=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEOj_3avsrayzpgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOj_3avsrayzpgE!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMZW4r6s2bICewltGE901q2VNnIx1Ua3vDoci-huV5fzoxpNRTnpV6ec8JViMNTjZs-JybbJqy23ZmE2jk7NCBwnAeuzvMA1a3YfnSSLvuRaxqPnLIFE7KNs1qk_4pNSu8RVFgq-5x2mLu0Tdu-aPmK3L44pzKHdB_NRaycBfoia7jYlXE9PfO9LZepK9xVGvTwsyHt-30_QxIgrs_YCBqIjqEn9itYeRwNIbQHAbl1WAxLlmcC1AZDzNkDyw8bfelZlpaMCh-RY_uFEUGzJ8vK91aRwtnmomb0e_SnZhLpX7RDApPWr9sA7YLhWL25-sJ3ZrRZSxUYb4JqLIax_6sxK84svNpPj0vgLmIA1ZmCpiIaBWSM8LLq2NIzw1w9Ek8y4gzr11hZwY3Ct4MjgPa69ar9HE64wbWG-BC-tdzMUASfrXyE7y446NpRYu2C1",
+   "widthPx": 1207,
+   "heightPx": 679,
+   "authorAttributions": [
+    {
+     "displayName": "Acu Li - Clínica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/105317697984823978536",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYbdzdHPityvtaI_CiSUIGv7_PoJ33ggZSdhgoCYst1BfMQ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBN1x9kWHQgKvExqsXT3hAh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBN1x9kWHQgKvExqsXT3hAh!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMZZ1xDoSzXYFoERKngOvOmeR57VoZuFdnF6ZBb3pwEHKI1BATF8x1Cv91TX1jEEiPtMzyAt872bVilD--cmp8JQBU2UF0-y-SqA3CGCMG_JfOYn-NMR8LbZ1eKkSnT1NIDKNLkalXLT7BGn5buzExAE0BxziF1FqJJEo7NPPenbN3OD4tkRjaBXrDAXkO2tTV7AhRTpOP9RvNdhXtdGWmwYoIpzLesnrLZB2BHkU_q1uoOLsKl78Uqm56mUISdOnfkB28y4PeoXcecn95uWWR7QKFvw_bu5VdFeJdsIpUvytq1ax-IMWiJFaH9i7zzw74dqaVmCOM2fHYOc9UqUP5XR1SenIMaMGOCPUOvA_RzTRBy1_nMsOf_S9H31vtU6bAC45gi1_i1fhYPBxnYCnEDTk1n7OF_UQhNPXka2c7WBgCKnCmAc_uTQYc6m2UtB",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Jimmy Alberto Alcantara Zapatel",
+     "uri": "https://maps.google.com/maps/contrib/116349058365260273560",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXk2oZp0dJI0Wcs_iS4rS5fXZGu8bmZDCb7WwxQMP-n4CYbNWjqeA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBC1tUYXzndz8Oe0sGtNxjU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBC1tUYXzndz8Oe0sGtNxjU!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMa1LLuohM_Hm_WEBOMGolmWj8O9-c8KgNXyBi0h3iujCu0vGGJpweNnT-xNifMwF16oe6YXyaUpogPQpmQXOpNbX5nMG2PQ8AvGmDDFadJ8L1XgVuH40_Sgbt4yWrM2DGScXrtyNaK-w4NOt6e53Ohg9R05bwlG9900D6xEfRAe5qgk8DZ2UlqddpigqKo0sHxk7qodhx6tJeegf01RdH09N1cqcxdbErB1KEyxFMNJjIK2rrXM6jdDzkaY2HjxqPxXwYDhKfcAp0xLmiOTrE5K3X9jl9cHQxlXcggZq8mGWRoLFqH7klgO6aq5VOGh_p3uEG9tIiuhE_OBu5HYAJ32fGd1jmFm-AsWq7G77oYOGVnW7rzEVc7VIiaj_-7nBs0xZiEMu0WOisFdhBinrL5qYbwGMTpde8l76lK6gtv2HA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Acu Li - Clínica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/105317697984823978536",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYbdzdHPityvtaI_CiSUIGv7_PoJ33ggZSdhgoCYst1BfMQ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7yvTsGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7yvTsGw!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMYUMU5-Eo0IbMbH_r9WR5Y6y7ZZYBZn5bJ3dVr3XVq_fXRuuNj3QS91nGqjzDNgeSpxPHb3-zrPRgYTzgJx5jeRwQJlqP6aMg2scc90mW5sHrBzgRJITq-hYQqDvHrpS-uqPG69rzmn_z9Rcd9Nxx2vBGf333BsakmfAenW-3EBIERTMa4x-6-0vOKEbLzwQZhfME8-9rlvcSutqRV1Nx_h-3webf4jlwQs9RrjH5-iOqvyLBL1rsyw5Wco4bh5QRzVuMIESRYeS9Q89H7o-RWM4H4CNaltGz80_xSY1FKKN-1Gs9qDa4JWnUkuktHwcafvLyx9U_sGyYuJq0rxomCoxZHIGYcQHQ4l38w5kUiPGmGPbNsaxZ8zKj3GzPQg2ilo4uyXwkXd-_1IIULHUTSUKa61k16dgI7VJRMYbf0bwA",
+   "widthPx": 1284,
+   "heightPx": 1658,
+   "authorAttributions": [
+    {
+     "displayName": "Fio M. Aguilar (Fio)",
+     "uri": "https://maps.google.com/maps/contrib/115910672912311294498",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcKsCQ6P7ozeo1XkKhPzj5_nIGEBjbkmtwINbg3ryhvX3xI7jT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICv0YjTIg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICv0YjTIg!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMbpcOhT5eQRcIJYP2FLNp0b2i1tPocfW1eQ0rzNY36oiSeGpxdMi5Kd8gej60kY4lyYRcPXPA3Q1P8VhnefzGPDr3cxgcz6sCZureLoKAL0jJBcsxP6rgN6voAi-F8bH-ESH7pdksRhdIyuYEMdU5yVJaNJJOmiJeEyoTgrm6L-Y_RWBl0nyQHldDXCweN3eQC2-5FIY-MkLNewqvc6hKzSKoRqU2rzujgguUZasF4SQQynNTtUCIb24wC5hd7IliW6iHXb3Nip1-VvJpX5Q5mFCIjB_Zgwkfavci1_qHGnMiHlXnitD-bn9XFpDLjODz0kyImmSOd2QgNOCWz9b6ukdrVHATJVcmzTVerTZ1CpSNJNwWEyht27_kYusOqM42LodXtce8TA0F78j-COehttrM0FKo9DNUepf_flMfDufzMw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Acu Li - Clínica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/105317697984823978536",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYbdzdHPityvtaI_CiSUIGv7_PoJ33ggZSdhgoCYst1BfMQ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_8tKSxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_8tKSxQE!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMb2AObpEowcs9NV2UrmnY8HecKEGglMUrXXqtEb5iObENbw0nP-w7P29Hh7xx5V5j3WnFIBlSJ_C01ztg_2gP-fpJtHtpovE27imtqS8BLJJHqi-xAK8dfei6kYjygL31VkgB9o15rQQVEeenNcEGyRozyHLZ9lOiddgjWVDWhlIsgvnmlOao3ejaZAtyMY6DV6voV5l_wwjV7WcRDEZy8_yTPfYs44qxG0aP1wRSUhxrP6u8d1c--CmafcfPwHGllIlvD86U4_tfFQ9xi91M-SPQa-3dLnauhPLs2Fkq8yOG-8NxvXYdp6-ue2ZBVQl12Qe_FtGwfUWX66M3OBAAnKa9CyDHmNMKC6xjvv6ZueBrDiZnOmXD5tOpPPyW34a4tZil8c46ADNxXO59tVjiYSJ-LS8oAZYwIWUDFekk03_Q",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Acu Li - Clínica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/105317697984823978536",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYbdzdHPityvtaI_CiSUIGv7_PoJ33ggZSdhgoCYst1BfMQ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_8tLsJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_8tLsJA!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngManXbnHgxiMwmLqeHFRI_R-LcVPSR01HSczScIm5kUJEC16AAq5KOTBTEfUoK_zP1kavNjkc48YVRElDSmN-b3EuUw8yIc9oyYmyug9UPzO6R4JCQgsjvJvs0ATnnWJsFR_AKSjdLlw-wSLLfoU5UH3KAGwZwY5Nbp8_KGqzcqN149RZRNIQSHyQl6xhqDQijXfjaV7GqDGJarINdUicYsM1CPaclWRddxO6v0INy6K0o0M0hzPXqcossZaK0iWo69PEa7KD8fsk6OwhDbdvPorMcohac1m9f1Ici7iXQlzrhS8AVvsZmYA7zXDC-HPm1NJ51NObWwmlLsSRnFPeXpLBXFbLKinhf7iKPpKvGrDQ9vNyHKsCSouhYEqG4t2ItfKsOwR9-uaP6DZkeONrSYO_FxhmoQc371PsLNdMpfVmld8VP6lFnP5x2c4iMUA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Samantha Blancas Gurmendi",
+     "uri": "https://maps.google.com/maps/contrib/112842023359368340794",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZfh0and5YeAxl8OIgZl1ZJZafXs8HxE0FclOHPZ3XEkt8ITu1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC3a4CmPfeN78_AhfiEjjk_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC3a4CmPfeN78_AhfiEjjk_!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  },
+  {
+   "name": "places/ChIJyZNcKR3HBZERYB-0kJdFxyE/photos/Aa-ngMaPPUn_0bPaAPUtYkGsFPtnXzFjGCa5sVb1Cc7M_ERnRR4aFNQJ8KqNJOjW3JcN3mznb6Pp9mKqwbZr8wFRdl7-ue91FR9853tX7S8RF5eH8GptYn2MY_7J8x9WeDmO9mhg3PFist_ioZu77vEDDsVmO-30xxnWIQvkm17aJX4J9evNJEYmQKQXEAk3nh_8agH9Mb6eQbhOUKRXjju3iAbObGsEfrGDfaoGRGHZoqFvR1d2P3UB097Iy1tJQeDkx5pC71J9IzNI0d8lk7y0YnH3qSAEhfqPKxwlEsxW67vyKq8QZMAhRu-0VapwV7bcoqRfktK89-wQH1GsHMLBNUBIQDHP-tf24C2uYQBQhUwdNV380IxCMaJyOPL_d9TwpmJe6xxnT7OuOQID71QsVEoFTwbpTNUjOV5wbjgXnmMTl4eb8sR0L_d0JG-TK4BW",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Uve D.A.",
+     "uri": "https://maps.google.com/maps/contrib/101905312741088152022",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy0rvgSRPDU3BD4AWOclKKbXci-YndWNfQ1x6sHIG_VL1ZZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDZHqQ60_P_x8BdCO3GfhI_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDZHqQ60_P_x8BdCO3GfhI_!2e10!4m2!3m1!1s0x9105c71d295c93c9:0x21c7459790b41f60"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

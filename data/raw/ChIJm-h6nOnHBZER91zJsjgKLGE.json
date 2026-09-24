@@ -1,0 +1,550 @@
+{
+ "id": "ChIJm-h6nOnHBZER91zJsjgKLGE",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2713567",
+ "internationalPhoneNumber": "+51 1 2713567",
+ "formattedAddress": "Av. Caminos del Inca 2347, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "2347",
+   "shortText": "2347",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Caminos del Inca",
+   "shortText": "Av. Caminos del Inca",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Monterrico Sur",
+   "shortText": "Monterrico Sur",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.134266499999999,
+  "longitude": -76.98338129999999
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=7001982759288265975&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://veterinariaenciso.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 11,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–17:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 11:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 64,
+ "displayName": {
+  "text": "Clínica Veterinaria Enciso",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 11,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–17:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 11:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Caminos del Inca 2347, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WT1pYTjVjMWRLYldsb1oxSjRSM0pWVVRaTE1HYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Sin duda la mejor opción para atender a sus hijos de cuatro patas. No duden del trabajo de esta clínica, recomendadísimo. A mi perrito le había salido una bolita en el cuello y lo lleve a una veterinaria cerca a mi casa pero solo dieron una suposición de inflamación, y le pusieron un inyectable. A los minutos mi perrito comenzó a botar sangre y solo me mandaron a otra veterinaria porque ahí recién vieron que tenía una masita en la lengua. Pero dudé de llevarlo al lugar que ellos me recomendaban así que busqué en Google maps otras opciones y me guié también de las opiniones, y esta clínica tenía buenas referencias.\n❤️❤️ La verdad fue lo mejor que nos ha pasado, aunque mi perrito llegó muy mal de su garganta ya que con su inflamación sangró y no podía respirar bien. Los doctores de esta clínica inmediatamente hicieron los exámenes ya que ellos tienen su propio laboratorio y detectaron que mi bebé de 7 años tenía neoplasia en los ganglios. Fueron muy sinceros con el diagnóstico, y nos dieron las indicaciones de cómo llevar el proceso y de cómo darle calidad de vida. La verdad es que los medicamentos que nos recetó el doctor fue muy acertado, totalmente acertado con su diagnóstico y receta puesto que mi perrito presentó mejoras, y la bolita de su cuello había reducido bastante, fuimos nuevamente y nos dieron el segundo tratamiento, y con eso fue totalmente aliviador ya que mi perrito volvió a ser el mismo de antes, recuperó su ánimo, hasta volvió a ladrar fuerte. Fue un proceso, al principio fue duro, porque temíamos lo peor pero siendo puntuales con sus medicamentos, dándole su comida casera con las indicaciones de los doctores, hizo que este proceso sea más fácil de afrontar. Todo esto inició el 7 de abril 2026 y el 6 de mayo volvimos a ir para su chequeo, han visto el gran avance, la bolita que tenía ya no está o no sé siente, un cambio total diría yo pero sabemos que aún hay que seguir con el tratamiento y nos sentimos muy agradecidos con el excelente trabajo que han hecho al ser muy acertados con el tratamiento. Estamos muy felices, porque tenemos a Logan para rato 🥰",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Sin duda la mejor opción para atender a sus hijos de cuatro patas. No duden del trabajo de esta clínica, recomendadísimo. A mi perrito le había salido una bolita en el cuello y lo lleve a una veterinaria cerca a mi casa pero solo dieron una suposición de inflamación, y le pusieron un inyectable. A los minutos mi perrito comenzó a botar sangre y solo me mandaron a otra veterinaria porque ahí recién vieron que tenía una masita en la lengua. Pero dudé de llevarlo al lugar que ellos me recomendaban así que busqué en Google maps otras opciones y me guié también de las opiniones, y esta clínica tenía buenas referencias.\n❤️❤️ La verdad fue lo mejor que nos ha pasado, aunque mi perrito llegó muy mal de su garganta ya que con su inflamación sangró y no podía respirar bien. Los doctores de esta clínica inmediatamente hicieron los exámenes ya que ellos tienen su propio laboratorio y detectaron que mi bebé de 7 años tenía neoplasia en los ganglios. Fueron muy sinceros con el diagnóstico, y nos dieron las indicaciones de cómo llevar el proceso y de cómo darle calidad de vida. La verdad es que los medicamentos que nos recetó el doctor fue muy acertado, totalmente acertado con su diagnóstico y receta puesto que mi perrito presentó mejoras, y la bolita de su cuello había reducido bastante, fuimos nuevamente y nos dieron el segundo tratamiento, y con eso fue totalmente aliviador ya que mi perrito volvió a ser el mismo de antes, recuperó su ánimo, hasta volvió a ladrar fuerte. Fue un proceso, al principio fue duro, porque temíamos lo peor pero siendo puntuales con sus medicamentos, dándole su comida casera con las indicaciones de los doctores, hizo que este proceso sea más fácil de afrontar. Todo esto inició el 7 de abril 2026 y el 6 de mayo volvimos a ir para su chequeo, han visto el gran avance, la bolita que tenía ya no está o no sé siente, un cambio total diría yo pero sabemos que aún hay que seguir con el tratamiento y nos sentimos muy agradecidos con el excelente trabajo que han hecho al ser muy acertados con el tratamiento. Estamos muy felices, porque tenemos a Logan para rato 🥰",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Lucero",
+    "uri": "https://www.google.com/maps/contrib/107267248459353274338/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl9jnk65X3xlVMP--vHr4kK7bppxiJFTkeswp3UIhDBycWpmMTJw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-08T23:32:02.256373116Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WT1pYTjVjMWRLYldsb1oxSjRSM0pWVVRaTE1HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WT1pYTjVjMWRLYldsb1oxSjRSM0pWVVRaTE1HYxAB!2m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVlNYUlVhRll3YkhFMmFraG1PRXhsTkZaemIxRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi gatito ha recibido una excelente atención y estoy muy agradecida con el trato, profesionalismo y amabilidad de los médicos y todo el personal.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi gatito ha recibido una excelente atención y estoy muy agradecida con el trato, profesionalismo y amabilidad de los médicos y todo el personal.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Akuma Chomba",
+    "uri": "https://www.google.com/maps/contrib/101949031808163838597/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmISfI8qfQsCEj1pNN_PYe4nON8wFTM-KhF6UN3vqe0fVO4fUB=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-08T21:07:45.166064567Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVlNYUlVhRll3YkhFMmFraG1PRXhsTkZaemIxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVlNYUlVhRll3YkhFMmFraG1PRXhsTkZaemIxRRAB!2m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2Z2V1V2lBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, muy recomendado. Un buen staff  de médicos profesionales muy especializados en los diferentes áreas. El Dr Javier enciso  Salvó a mi perrito en una emergencia. Ahora estoy llevando a mi otro perrito en el área de oncologia con el Dr Alexis para una quimioterapia y buena atención. Tienen laboratorio propio y primeros en trabajar con células madre. Recomendado. Se merecen 5 estrellas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, muy recomendado. Un buen staff  de médicos profesionales muy especializados en los diferentes áreas. El Dr Javier enciso  Salvó a mi perrito en una emergencia. Ahora estoy llevando a mi otro perrito en el área de oncologia con el Dr Alexis para una quimioterapia y buena atención. Tienen laboratorio propio y primeros en trabajar con células madre. Recomendado. Se merecen 5 estrellas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pablo Vargas",
+    "uri": "https://www.google.com/maps/contrib/117153337343154458440/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEWtLl7VXYZI61JZmUGnpZfEAfug53KRFRPV17S7_IvZuZAodU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-21T02:54:54.492711Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2Z2V1V2lBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2Z2V1V2lBRRAB!2m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbjdmMzlBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Hace unos años no sabía el diagnóstico de mi perrito, tuve consultas (varias) y no llegaban a un diagnóstico que lo ayudara. Tenía periodos de orinar con sangre y solo fue hasta que lo atendió el Dr.Enciso que pudo ayudarlo. Gracias doctor.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace unos años no sabía el diagnóstico de mi perrito, tuve consultas (varias) y no llegaban a un diagnóstico que lo ayudara. Tenía periodos de orinar con sangre y solo fue hasta que lo atendió el Dr.Enciso que pudo ayudarlo. Gracias doctor.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia Delzo",
+    "uri": "https://www.google.com/maps/contrib/103192430553150409242/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1KT0S8_DREKHS6GrVi545fnQBNWqYKFh59bieCLYATL9mkJm8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-05T19:39:55.240381Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbjdmMzlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbjdmMzlBRRAB!2m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2Z2JQUzV3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Exelente servicio, desde el dia 1 mi perrito fue atendido en el area de oncologia teniendo un exelente trato, administrando los medicamentos a tiempo, teniendo un control durante todo el proceso,muchas gracias doctores en especial al dr Alexis.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Exelente servicio, desde el dia 1 mi perrito fue atendido en el area de oncologia teniendo un exelente trato, administrando los medicamentos a tiempo, teniendo un control durante todo el proceso,muchas gracias doctores en especial al dr Alexis.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Erika Ruth Estela Medrano",
+    "uri": "https://www.google.com/maps/contrib/117452733400862486534/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdp2KvEsjXDVar6aN2c7Y1UtuYdBUav34XGKmdiwcthwWGiboZ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-12-21T02:39:27.222771Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2Z2JQUzV3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2Z2JQUzV3RRAB!2m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/photos/Aa-ngMbuWNjoup05928e74IEtmMZdjnQiulvjlyMdssaO6kSdbhor1CCYB0asEmjCG_KYtUI2coQoPgoTuIs-PcpNDSEO154VTA7yt8LBVqmlH-7jcH2GYcfp6cx4jW1HI9-HKDtn0yK2ZzFw9zo7kTKbcuih8EN4FKVOkwpCTrQN0A_aGc_SC1Qx0Y6k0E-txDTIHQV-R0z8lYy6m2HbXkvj0pq4xT9Ce4aKX1gmD2kJklNgbCVmKcOZo6BQ_C8w1xdi03WAsaLf8XAYkqKEaaLAdOhpbASXHL3nOCttDu92EpAQVBcKavt9tdffJZN-5KLBIV2XLS9OL0DNbur_ofOGqyE_QLUv-qt5VGWbWg0QMXCgB4l2ttcODVzUkIIwLbqS2RJ_Z6wajHYs-xnPpbzzY4z6do",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pierina Andreazza",
+     "uri": "https://maps.google.com/maps/contrib/102984012005769669999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG6Cl7KL9FW-CcAW0iKlFPBn-nQvhCBJ072BQ6HpDBjd5iC1KN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkgNXkZg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkgNXkZg!2e10!4m2!3m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/photos/Aa-ngMajyBOs_Hh5XcPXX5hJeBmswcRjn5XlDGqa6naEpMdP810EnAkkZvUb8Mc15ZpDbZmSNPiJqMWPYpJ6rmIeyBSxaF6y6qFkw8viEqhNel-I2argCzj1TYOqrLb_b6Tuu5Sfr1Ak0VezftBYd9WIngeGsNux3O2BLYA_XaZkC4nz5W_2E_YCVJTIfram7Yyb_UZZOFjeGcaCJvxz3_rqsFMUj9ZyiZqrA3NU4uuSK23MjuL7lHRn7bxXo1ZfrxGzyel3w19_xhVQxNjdxLNMIdaCtldN-S6EJ9w3DKQR4iLZXHXHWBAVgqQloSE_A4u2uVkosATVh3iRDPP2MoCwLZ1gkU-7mn0vkpMlp_syHpYjVG5r1lDX5gQ7uUHxTSsyB1b07J5OBaqrCnL3kLnUERMI9nGXuxpThwryEZoNiBv0aQ",
+   "widthPx": 1320,
+   "heightPx": 1737,
+   "authorAttributions": [
+    {
+     "displayName": "Elizabeth Lucero",
+     "uri": "https://maps.google.com/maps/contrib/107267248459353274338",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl9jnk65X3xlVMP--vHr4kK7bppxiJFTkeswp3UIhDBycWpmMTJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBYZ-3Psdj5i_OQtgA3mo6a&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBYZ-3Psdj5i_OQtgA3mo6a!2e10!4m2!3m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/photos/Aa-ngMaqygLeQlj5Y5Ett3OJ7pYx3v1Jv4WedAjf8vtH08GZfOVYDGWvpouRBCwN0lDvAVJEuYw8n91k9ICxwSPDWwbyoIMXW2J4vg29Z4tgrrlVjd-ItjuyHkAyd3TUhtnZrh-iRy4bPeoutN2gJxJGbns74VrEEhJSlWb2Gog2XFsXX0SKd9B9kk2rMdfv9pknnork0Z4XqUQxL3mhZsq65CoeGoViciEFsVoOonpx4E17dC3kJxPtdhq8LKkkHLTWDI1b0f1tEYUGNiyFKv12bUgS2yOsmQCaEsiexkSsehp8i7UTREAwSCp6PRdAENyOwa3Psi52N-QpbsKSQMk7FJCQjvqF9TIQe207OlLz8EjJwd95msOUjiannp9WrjGuFQKgb1-ATb7n453N1jEehHlORGoaUBo",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pierina Andreazza",
+     "uri": "https://maps.google.com/maps/contrib/102984012005769669999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG6Cl7KL9FW-CcAW0iKlFPBn-nQvhCBJ072BQ6HpDBjd5iC1KN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkgPWkpgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkgPWkpgE!2e10!4m2!3m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/photos/Aa-ngMZxp2NF0QwprXz2gtA4O-7MgTSfztqZn6-n5J4ZmxptuXUeX2Xzm5HQBVrYs7Aa2ZBYqusisQX32OreNqaWxxlK-8W5rYN1Z-N_0o8Udzcgu9QKEnX_PAJj9fj6S9Lzt2gQECVjpoGPpg8CgVYK4AY2JCV-oDGBKr49E05VkccqLNvqDMFVa059XrLVHp28ajBSeQrm7eX6nqiFBVpPjkhT_P8tzX7pJ0CpIWcZeg9xqHjtt7hwbIDp6eEEtsbWpTcgslHf5fjb_zbrFNsq442Cjb6uQi3J85WCIuUlOyfkaurlaa0VAKJZtOrLVbH5pJ_z4G86sYi0ostmAne-cWyNxGAdjB-gpEOcbauFRUHxfYL5O3HnPZDeVARNOqo1J1gtJWqzl3ynVgkiboXuOmM5DA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pierina Andreazza",
+     "uri": "https://maps.google.com/maps/contrib/102984012005769669999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXG6Cl7KL9FW-CcAW0iKlFPBn-nQvhCBJ072BQ6HpDBjd5iC1KN=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkgLXYHg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkgLXYHg!2e10!4m2!3m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  },
+  {
+   "name": "places/ChIJm-h6nOnHBZER91zJsjgKLGE/photos/Aa-ngMb_41xDcBaH-CfUyIKBP_u4KceVU7TXbMleJFAQboskVts4wAX6RxK3M1y49819rYUq_dt48g68JI-WlNyxIPDktyctgQJ5VbGQ7_ePxTulx8u6-2I-kSsFIt6pWFPG8SDoUq2mGB6HzEisF6-Y9qnOGh8h5Bgw0dxKGaOLiV0Pbr-zwLrNQ1a4XrjpLxT5qJaTaPymhxgWly0YmSHN5JFVcYTzRYl8484eKWT-eoA93ZfuVpNnBby7Q2csoelOpDCY6gLGl_HezVHyjZB2jfbnqJddJmf0slIt2PurXZuwLbjdKsTjzkaMUTNdJeuVfHMA_Ao5ihUbkXnpxfb8Hs79n2BACOIsPEHcX_zV1af0bAGBiLjy_iYOifrE2Lt77Dpgr5SK6EiYLcU3g05kCp0_wNhtDzI",
+   "widthPx": 1437,
+   "heightPx": 656,
+   "authorAttributions": [
+    {
+     "displayName": "Jully Massiel Monje Miguel",
+     "uri": "https://maps.google.com/maps/contrib/112710336290754590141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtY-vV4YfW04qNXm9_q-gLxVYRc0wUVO8UC-EVsQXPAcXoXzeZCw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJ8927ywE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJ8927ywE!2e10!4m2!3m1!1s0x9105c7e99c7ae89b:0x612c0a38b2c95cf7"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

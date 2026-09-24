@@ -1,0 +1,585 @@
+{
+ "id": "ChIJZz5RJZXGBZER2QADkliRcZI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 121 524",
+ "internationalPhoneNumber": "+51 999 121 524",
+ "formattedAddress": "Av. Huarochiri 957, Lima 15012",
+ "addressComponents": [
+  {
+   "longText": "957",
+   "shortText": "957",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Huarochiri",
+   "shortText": "Av. Huarochiri",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Mayorazgo Etapa 2",
+   "shortText": "Urb Mayorazgo Etapa 2",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0582345,
+  "longitude": -76.9433006
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=10552375211498602713&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 124,
+ "displayName": {
+  "text": "Veterinaria Patitas Peruanas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Huarochiri 957, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oT04wcE1VMDFZVGs1b1R6TnFORUpQYlhoaFlYYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención\nHoy le aplicaron la vacuna anual a mi gatita, la atendieron con mucho cariño y cuidado 😉",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención\nHoy le aplicaron la vacuna anual a mi gatita, la atendieron con mucho cariño y cuidado 😉",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melissa Cárdenas Bendezú",
+    "uri": "https://www.google.com/maps/contrib/109026544529152894172/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaNoFjA1lkgMkENjwEKkv3dhLeBbhvkQI3vJ_D5VOzmxkXS2IPKw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-09T02:55:13.770935911Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oT04wcE1VMDFZVGs1b1R6TnFORUpQYlhoaFlYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT04wcE1VMDFZVGs1b1R6TnFORUpQYlhoaFlYYxAB!2m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMlZETkNPVEUyVm5WU1JXOVRMVTkzY0V4dGRIYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "De las mejores veterinarias que conozco (y eso que he ido a más de 14 por la enfermedad de mi perrita). Mi Mocca se atendía allí hasta los 2 años, luego nos mudamos y nos queda muy lejos. Excelentes doctoras, personal y sobretodo amorosas con los peluditos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "De las mejores veterinarias que conozco (y eso que he ido a más de 14 por la enfermedad de mi perrita). Mi Mocca se atendía allí hasta los 2 años, luego nos mudamos y nos queda muy lejos. Excelentes doctoras, personal y sobretodo amorosas con los peluditos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pilar Aguedo",
+    "uri": "https://www.google.com/maps/contrib/113766078192368253950/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjFrUl7h8s3idIufG_zeBmICwwEm9xjfPmf1Xv_W8xlFUtTy4=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-07-24T18:31:04.444080216Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFMlZETkNPVEUyVm5WU1JXOVRMVTkzY0V4dGRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFMlZETkNPVEUyVm5WU1JXOVRMVTkzY0V4dGRIYxAB!2m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBbHJqZHNRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención y siempre preocupados por tu mascota, gran atención a Mike",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención y siempre preocupados por tu mascota, gran atención a Mike",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bárbara Patricia Sanchez Temoche",
+    "uri": "https://www.google.com/maps/contrib/114011882598751588939/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhwmRE_C1jtiwOr2tDr9JqSLizHte3FvKLksZmxPv9TVspubkr=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-11T20:32:06.713895Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBbHJqZHNRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBbHJqZHNRRRAB!2m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsS05sVjFXbmh1UjBWdFpVODRNWEYxYjFoQ1lsRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Las doctoras excelentes profesionales, amables y cariñosas con las mascotitas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Las doctoras excelentes profesionales, amables y cariñosas con las mascotitas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Victoria Paz",
+    "uri": "https://www.google.com/maps/contrib/102707197222365943274/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6p31jBx5PBuKgimCaXmzNcwrQwpTp94xNiG4nZJ72zf5PIbXl=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-23T03:24:08.895132201Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsS05sVjFXbmh1UjBWdFpVODRNWEYxYjFoQ1lsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsS05sVjFXbmh1UjBWdFpVODRNWEYxYjFoQ1lsRRAB!2m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNFNsTnhTbTlEUVVoNlF6TndaakkyYzNSWlRIYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 4,
+   "text": {
+    "text": "Me parece que dan buena atención a sus clientes, se ve oir la ocurrencias que tiene.\nDe igual manera por la forma de servicio,",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me parece que dan buena atención a sus clientes, se ve oir la ocurrencias que tiene.\nDe igual manera por la forma de servicio,",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "HECTOR PALOMINO GUERRERO",
+    "uri": "https://www.google.com/maps/contrib/115151426804692151173/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmn9N9H2brB46HLeyNG1DFCUrMUOmDVzwsO1jRE2k9ZWk-sw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-11-26T14:59:14.617538993Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toNFNsTnhTbTlEUVVoNlF6TndaakkyYzNSWlRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toNFNsTnhTbTlEUVVoNlF6TndaakkyYzNSWlRIYxAB!2m1!1s0x9105c69525513e67:0x92719158920300d9"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMaak2Ya-KkVETJUXzvkA-ivtElZDusKLaPNC5OrpOBRfd_Fw7uCJ1FlQLXdwIIomN9efhkj7wrY8DY4RlmRzyHC9OCgL0hJOIC8eze2DNKbattlNeriEaANGtC0yWNlshGWNbM80067R5ctMXqLJ0V8gUBcwpO3dZEJgeKCkZxTsNATxt3_rvQpJ4FtGZN5s2NeY7m4LCY9dxTPJ61YJkSdQVbHsh_SJGF9segBJfyrdeWZ6SBge-csMfXNbEmkeO7Me5YhRLQ1_2GTovoc_JCGnwVq1ZJM3xdzH9phdeJ_YSGuYZhQkxZASBLIZLlrlFD3pafeCUmlJegnCTIq9ERsl5OFtOYyZCfUnZ4Ap90tIpUJe-Q_zE9EnOgwIxjO_Hd6uMN07gJfGWB0M7l5yQL1naI",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Patitas Peruanas",
+     "uri": "https://maps.google.com/maps/contrib/103963151376550450155",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHAAlRv9dEU0hvCwRigP03kl_SvFUPLN1uJjxzCi5usWTdLdBs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGx_fUIQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGx_fUIQ!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMYpoBGaui90Am13i_J0zSJbggqq6gp9ziIbx-eaEt2lv_yIJwwyKmfaGN1k6zAKJ98Ngp0YbINaTM41_JvSJh06g449Us52fdZkIc-l18ap5HqjqqPDXF6COCDh4ITfPXfLgry7bRRndqvkEqwSnDmBe_9VuY5pHUStdnPKSIxW1-wAyp8lWoTso61ICggm5DwaGPtxMyPfbHNT-MjADCFlu3kxFtaB__Kw8WqSjys2u2p95mDbKOw0n_8cCBzhUvWEJRSa_M0tsbLpBFiRYPmEuZNsReheqjcuFgBLMtRGqwixsXSPvLqfg2IG2JprGpzQ-EtRup8OEQbv-QUFFADcQ0JRTiJ-OTk0y18mO_raksKGF_YqdNAKY-EuNR1dln9n239DAiCU4nZG0iFHvih3GrL8",
+   "widthPx": 2304,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Patitas Peruanas",
+     "uri": "https://maps.google.com/maps/contrib/103963151376550450155",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHAAlRv9dEU0hvCwRigP03kl_SvFUPLN1uJjxzCi5usWTdLdBs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8hKqR3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8hKqR3gE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMb8p8mqr8p0R1R2v9laMg4GjLSQFKCFgpKKEYaN8r9Ewo_n0gLZ7yZr5ahNtpWbGg_SIYuxxZAD2VdQuo3nuivjeyyJtN6Q9Vr040QA6fYihBWKD1ww_oFw3VBN0lDcCMGpZU0T6155m3OfDcBEDcxR3GhRc5j5Rr7KvRyVJAsjAxCBWbZlz2ZxN7sTNDm61sorz1YTkxa7fDpfE767EsvF113oK9HmllmDwJJR7TnnBZ3fjbgmk9SbahM2i5u3j0Q7newr4Eu_-wfEdEjvgVed7gXeaLjORSmb7BvRyjOKdBFeLZ1K3Ijhp1tGMZnmhT98SftO6cR4sj8Ki5ws07HquyVBaQaVsoFGajbOqzVnthWFbtWM0OttEyDUAd7DGY1tRyCFbsIZQyYUPlHqoAz01I0",
+   "widthPx": 1050,
+   "heightPx": 819,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Córdova",
+     "uri": "https://maps.google.com/maps/contrib/102348094115466223951",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWT1RZisO19EmqYqRgt9DrkYEh51JxxqZ4d4Y_NR0C25yRIn3K=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICut_-7Fw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICut_-7Fw!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMZtaUgZDM91CIk5bP7OoJKHTDAAVEwvgsuv1J0THt1U_lyIpyiZxBMOT39ub49Qxh8WLtN2sR213vpWAWmAREwrtHnCpHOsksvIOW4vpScR25KJ0SSK_UObOtNaNErV9yme9T90Xde52N8Zdj5nQNQH5wk1j07_5TFHX0xg1CWgeObashLHl23pTHo03fzqajImlci7DevnKfIqBabD2Y-j5WJ5SBJEyFthMzNadYH7EtoeYtDReBbL81NfhlyjHQSZICwnqe5RCGI_VZ6HDlXHoDgk4oraMG7m6NS_iFBxvTnQ0UaFvmz_t6n27PGg-g-Y6nLORdEyX71xv1P-aeTIRQ061XyWgU_w1gctvuF3qMsVu7yWFmO4lKWkR96_Mx3aD09ZZ9m8oQGOCNTMfpjNkReB2oviTMZBFsu6ptNTXg",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Pilar Aguedo",
+     "uri": "https://maps.google.com/maps/contrib/113766078192368253950",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjFrUl7h8s3idIufG_zeBmICwwEm9xjfPmf1Xv_W8xlFUtTy4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA7HlWNggD2Z0i_mw2zV20c&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA7HlWNggD2Z0i_mw2zV20c!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMYA1ndXp_z2w3qiXMQ-vvVowM9O004viTtdcRaYZUUKCI7ED17lWdb6zbdPLj28fGhLO6o4r7uPsbAKJVeQ7a8rz3d85oAz6F6qSXcX66dR7fKjUwdH1dlJvJLtvHWkUsp668XCeq56EwZU98Jg6USUQznMO1IZMBDZd3-peBdDbrPZKZoy0wHodbGjawGyN4RMejNtqIGMqf0uL8qJIShH_45rudv_iE3raiVSnZpKXzKAUvtlJLFyCe4U_VFC4jVA9OXSdOoqZ4OX9z81MfaVdfvHqC-4V7H0Tx-2UVvbn-TYKF_NJiaJjTuxBEqTPkhkJDPuwCsjKi0btOdWAJu1r7o8A-CB_X5xsDozJRsExOYEj5keuFsxDezNUEX-7oeTbkOaZaR1YfjkQ9dM1N254KWyzHQ",
+   "widthPx": 1440,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Maritza Fache",
+     "uri": "https://maps.google.com/maps/contrib/100567915843486647043",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlANEpA0CKv_ZjW66Oa2ZlSG2oNHTvoyrjBQL4JxX1eAAuRYRnlw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDS6uOIzAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDS6uOIzAE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMZLef3c1zXuPLIKVQ2L8YiJJH4Ike9EFT3u2S0HP2V59_mapk_PBB6nvxCVkBeM8IbPULRBtDO5mIQkGsKjopXWVAUEQnkm3itIIIK3hqVqnFbYG03rbSN_gSA9jo1cyS9jUiYEFMkC6UsAs4q9rDI-SfNYNRSsKUc7ChvEYS01nUn8edhhko6dXmJA6S4d9YpK74cobnOvkGDhWeX_f4ji_wXhqKyzNwLLxZPs19gCvU_VM_mvlzoeFeC4v6iMyUyHEAwAK_MoyNCeJM50XVp0zBnfBHVOLOcwXXGVBy_yTW_1qni9JI-JOXZhP-B7NvhESY43dm8TCdOOMC_-Y3ksHiKf79Or-FMvYM88DaNZlqSL_AOGeJ5mDCiPLs4lp4vmUpJMh_qbpMv673PU2QuRptZB8Bo",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Cordova",
+     "uri": "https://maps.google.com/maps/contrib/114913218852248402163",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNaPxiI8A3uFVcZ5jLwSuDMbe2w1SH1XRDCOZkRn79IyU3Cqa9nA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEl53SiwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl53SiwE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMaU6U_cE1HWjMig1TdwkMhaHQQXxjbfBkZVOPh0TfUK1Ntyg662_DSGURXMY1xm3H7za4ImAAGZnIjFuCDOk6lvaGu9A7j4MN7WZqyrMCsXVIn_CANn4882r1h355HCBgX0olqrH9gEgbQ14m0Wnp21mdFcVhKH8Frbu94ttB-fcP-48JwTgjsVamAYphs_lNVOIesXjchZbW46cQQJJJWI4Y7RDB17vhxTAmSeg7kxdkNDdC38_3r4G3yBSllakkkQe0XxCrd7ICymp9CTl2CE1x_TViBBZXM07ZEwL6n35Lp9ekOk9Z-zfSorJyziQQV-yVmWkMOCmT2NbeHlJmd35DKy36J1zbtwEDVaaRsgEQK0pMgeW0BOsG6BjQSAflzjVCOZ_cKG56apOP2fAuBkokDm",
+   "widthPx": 2976,
+   "heightPx": 3968,
+   "authorAttributions": [
+    {
+     "displayName": "Susy De La Cruz",
+     "uri": "https://maps.google.com/maps/contrib/110613084788694303814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBUcRQ2TifkilPd1lOWKWT9HSzFJqmNIkNpnsFEkOHMKB6n3iaOw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcnLuE0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcnLuE0wE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMZiXSAlM-hs_q52CxQNJZfH9phZocMIyRyaaXo3hchTCuuJPVvwcC0wOjJPZlQN1JmU133Vrs-kQVlswNyEuQ2KOM-pL0PuRyfQ_o_hjDF5y83zBVj9eFxscdirhn63cGhei9H-wMCd_dgeUbrURCkjURRHICysHtGS1_fO8ofO99jIY7CXwEMsR2ZRC9jE6lwWK7-X4j_G9jVSSJ7T90kpphzKnOCrYXnqWhUpWZMyfdMhT6EpnJLy_OIx8dBphXPEAJzPYg2oY7HxDVZ7Qvyb7qRjLfQ5RDHBSNaK0U5oYN-apKjLBMmwiUj52f_CFYMRIeBMIVx3HC3SWaR553ZV8W6dbScAxLq2T0ZpEzCzoNehfz3ZMDnvFyiXnCShROmakyVhmmBvtWdM4NsE9FM2aSU",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Heran",
+     "uri": "https://maps.google.com/maps/contrib/104186940513835831413",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXffgJ3kFMosygyUK15k_1nV6i-U8lLr4uzOALg4om91F0akEWk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICsm9_vKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsm9_vKg!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMb7N3WRk7VTVMPPCipIQ-U8kfoJHHFVeWfwIoLUvAUWvyL0IsmFl-y8Y0SttGGqCKahEK3Ff7hxu83X9a5hTYVuGDjhnJLBM8f1YTk5J2G8_lLlSNoFxqaRZ4HoSTuF9w5bpB4De-FtZyhy2RBVYMeEw8hA8sJCcMM2ZQVABHrWSBA12_IF2oz-TSSbJO_aK5oB9iONDo2H8xWRygAemQh8SHiUephZ9xzKnfNst1GVwBBSg8Cyjz33-AB3S1HWqf19gIVAj0UaZJnraEHXIKj7zSCjPAFl5irjryzwWON9JVqb8MhOaXRyHLhCwePo7PzLtwOcEoAIl9ukMbMYH1jFGmHKWa_4zIvc6u57VhZhD4PqJuKEx6O0KRpJfkjX-mec07GpnW7O0RGyJtgKRjIFg2g7Hps",
+   "widthPx": 2976,
+   "heightPx": 3968,
+   "authorAttributions": [
+    {
+     "displayName": "Bárbara Patricia Sanchez Temoche",
+     "uri": "https://maps.google.com/maps/contrib/114011882598751588939",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhwmRE_C1jtiwOr2tDr9JqSLizHte3FvKLksZmxPv9TVspubkr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDAi5mM0QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDAi5mM0QE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  },
+  {
+   "name": "places/ChIJZz5RJZXGBZER2QADkliRcZI/photos/Aa-ngMbUNSYE4F9jJ53e22p8IdkkFctCz_O-O8U3Bx-RUZ5pbuHDsfWSRbJAQoyoygypIg8803KriX5jr1kVXxi88FQ2MMkXs7j6j_b7w5sh--5O6CUjj5KJZ131QrzRuQ0HVbWFh8OHGQryh3RMgCDbxCc141AS6DVX9zawLhCNOCfmK4M_Gkfsvips1L17rhC3ZOrn_q5BOvXZZCsOkN3fDHDFh2beF4AC3pFibUZBEcpzzOS2bfqz44GNPnMULB-jbW3k8QjBWUCCoK9lTYpcIurZYrimOoA6dA_EIl5H_06fakTiUONCA5tn8InH-sAvofKnGq2Q0eeXglasaUK0DtL83u1hYeB1VljZlrBP_1jOg331D4gAeNadd6RmvgiwkZ7urw9ytqfF9KF-A_1R8NXeE_u4C4g",
+   "widthPx": 2976,
+   "heightPx": 3968,
+   "authorAttributions": [
+    {
+     "displayName": "Susy De La Cruz",
+     "uri": "https://maps.google.com/maps/contrib/110613084788694303814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBUcRQ2TifkilPd1lOWKWT9HSzFJqmNIkNpnsFEkOHMKB6n3iaOw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM3PHggQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM3PHggQE!2e10!4m2!3m1!1s0x9105c69525513e67:0x92719158920300d9"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

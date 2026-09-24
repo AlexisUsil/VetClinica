@@ -1,0 +1,151 @@
+{
+ "id": "ChIJbYW15XfHBZERHoyGDsanjjI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "931 625 637",
+ "internationalPhoneNumber": "+51 931 625 637",
+ "formattedAddress": "41, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "41",
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Monterrico Norte",
+   "shortText": "Urb Monterrico Nte.",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.091622599999999,
+  "longitude": -76.9831988
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=3643033617678371870&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 0,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Abierto 24 horas",
+   "martes: Abierto 24 horas",
+   "miércoles: Abierto 24 horas",
+   "jueves: Abierto 24 horas",
+   "viernes: Abierto 24 horas",
+   "sábado: Abierto 24 horas",
+   "domingo: Abierto 24 horas"
+  ]
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "2GO PET'S",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 3,
+     "hour": 0,
+     "minute": 0,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 23,
+     "minute": 59,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Abierto 24 horas",
+   "martes: Abierto 24 horas",
+   "miércoles: Abierto 24 horas",
+   "jueves: Abierto 24 horas",
+   "viernes: Abierto 24 horas",
+   "sábado: Abierto 24 horas",
+   "domingo: Abierto 24 horas"
+  ]
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "41, San Borja",
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

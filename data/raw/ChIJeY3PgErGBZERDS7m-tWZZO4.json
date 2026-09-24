@@ -1,0 +1,576 @@
+{
+ "id": "ChIJeY3PgErGBZERDS7m-tWZZO4",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4376097",
+ "internationalPhoneNumber": "+51 1 4376097",
+ "formattedAddress": "Av. Circunvalación 2800, San Borja 15021",
+ "addressComponents": [
+  {
+   "longText": "2800",
+   "shortText": "2800",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0811438,
+  "longitude": -76.98703789999999
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=17178024023014387213&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:00–19:30",
+   "martes: 7:00–19:30",
+   "miércoles: 7:00–19:30",
+   "jueves: 7:00–19:30",
+   "viernes: 7:00–19:30",
+   "sábado: 7:00–19:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T00:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 412,
+ "displayName": {
+  "text": "Clínica de Animales Menores FMV UNMSM",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:00–19:30",
+   "martes: 7:00–19:30",
+   "miércoles: 7:00–19:30",
+   "jueves: 7:00–19:30",
+   "viernes: 7:00–19:30",
+   "sábado: 7:00–19:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T00:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Circunvalación 2800, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5NVYwWllUM2N6UzNkSFlta3lXREl3VFRNMFUwRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Leí muchos comentarios reclamando el tiempo de espera.\nSi, es cierto, el tiempo de espera es largo. Yo ingresé a las 8:30am y siendo las 15:45 aún no salgo por qué mi perrita está recuperándose de la sedación y le hicieron varios exámenes.\nAsí que si eres un persona impaciente, simplemente no vengas.\n\nLa atención fue muy buena.\nDesde la recepción, hasta los médicos que atendieron a mi perrita.\nIncluso, un área que solo atiende hasta las 11:30am , me aceptó sacarle un examen a mi perrita por la tarde.\nFueron muy amables.\n\nSi vienen, traigan una manta, un recipiente donde pueda beber agua su mascota. Aquí el espacio es grande, pueden escoger un árbol y descansar con su mascota hasta que sea su turno.\n\nY un dato: si pueden venir acompañados, venden desayuno, almuerzo, hay máquinas dispensadoras y aceptan tarjeta para los exámenes médicos.\n\nLa consulta cuesta 40.\nPlacas de tórax me costaron 240\nCitología 70",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Leí muchos comentarios reclamando el tiempo de espera.\nSi, es cierto, el tiempo de espera es largo. Yo ingresé a las 8:30am y siendo las 15:45 aún no salgo por qué mi perrita está recuperándose de la sedación y le hicieron varios exámenes.\nAsí que si eres un persona impaciente, simplemente no vengas.\n\nLa atención fue muy buena.\nDesde la recepción, hasta los médicos que atendieron a mi perrita.\nIncluso, un área que solo atiende hasta las 11:30am , me aceptó sacarle un examen a mi perrita por la tarde.\nFueron muy amables.\n\nSi vienen, traigan una manta, un recipiente donde pueda beber agua su mascota. Aquí el espacio es grande, pueden escoger un árbol y descansar con su mascota hasta que sea su turno.\n\nY un dato: si pueden venir acompañados, venden desayuno, almuerzo, hay máquinas dispensadoras y aceptan tarjeta para los exámenes médicos.\n\nLa consulta cuesta 40.\nPlacas de tórax me costaron 240\nCitología 70",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "xyomara td",
+    "uri": "https://www.google.com/maps/contrib/106051596166710229113/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVda3F-AuGIbuAD9ZptMHfc6CRIrcmp-XibfsSbtZo5lhgFT7p_yg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-24T20:54:54.519940435Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5NVYwWllUM2N6UzNkSFlta3lXREl3VFRNMFUwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5NVYwWllUM2N6UzNkSFlta3lXREl3VFRNMFUwRRAB!2m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toMlFsVkVRbEpmVG1JdGVWOXNkVzFITmtkak1XYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 4,
+   "text": {
+    "text": "Tienen consulta general y especialidades como oncología, cirugía, traumatología, neurología, medicina felina y cardiología. También en radiografía, ecografía y hay diversos laboratorios. La consulta general es por orden de llegada y cuesta 40 soles. Para especialidades como Oncología, cirugía, traumatología, neurología estan 60 soles y medicina felina y cardiología, 80 soles, cualquier de ellos con cita. Horario de atención: lunes a sábado de 7:30 am a 7:30 pm, dejan entrar como hasta las 6 pm. Algunos hacen cola incluso desde antes de las 6am. Pueden pagar con tarjeta y cuando fuimos encontramos estacionamiento afuera. Pero eso si, debes ir pensando que esperaras 3-4horas en total, y adentro tienen un cafetín. Valió la pena la espera, porque son muy pacientes con tu mascota, lo recomiendo. Info actualizada a Julio 2026.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen consulta general y especialidades como oncología, cirugía, traumatología, neurología, medicina felina y cardiología. También en radiografía, ecografía y hay diversos laboratorios. La consulta general es por orden de llegada y cuesta 40 soles. Para especialidades como Oncología, cirugía, traumatología, neurología estan 60 soles y medicina felina y cardiología, 80 soles, cualquier de ellos con cita. Horario de atención: lunes a sábado de 7:30 am a 7:30 pm, dejan entrar como hasta las 6 pm. Algunos hacen cola incluso desde antes de las 6am. Pueden pagar con tarjeta y cuando fuimos encontramos estacionamiento afuera. Pero eso si, debes ir pensando que esperaras 3-4horas en total, y adentro tienen un cafetín. Valió la pena la espera, porque son muy pacientes con tu mascota, lo recomiendo. Info actualizada a Julio 2026.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Susony Arzapalo",
+    "uri": "https://www.google.com/maps/contrib/110006121698820675083/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqtWESu15V8nf_uygw508n2ugrP8l8-k354grC-mMT3J9uVyBZ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-07-13T17:13:33.200492856Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toMlFsVkVRbEpmVG1JdGVWOXNkVzFITmtkak1XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toMlFsVkVRbEpmVG1JdGVWOXNkVzFITmtkak1XYxAB!2m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxVFR6Y3haVGRzTVhCa1JFbHFZVjl5Y0dodGVHYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Muy lento el servicio, otros llegan y los atienden muy rapido y yo estoy esperando 4 horas para que puedan atender a mi gata que se encuentra muy mal, una chica recien llega y ya la están atendiendo.\nPesimo servicio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy lento el servicio, otros llegan y los atienden muy rapido y yo estoy esperando 4 horas para que puedan atender a mi gata que se encuentra muy mal, una chica recien llega y ya la están atendiendo.\nPesimo servicio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Beysi Arredondo",
+    "uri": "https://www.google.com/maps/contrib/105383763461919410608/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-G5e8mB35skDPRyaQQYoogg_fCDjrYkj6ArcVR5PjDyyGow=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-17T16:30:05.369584091Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxVFR6Y3haVGRzTVhCa1JFbHFZVjl5Y0dodGVHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxVFR6Y3haVGRzTVhCa1JFbHFZVjl5Y0dodGVHYxAB!2m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/reviews/ChZDSUhNMG9nS0VQWGtwZGFRODRpbFl3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Me acerqué hace días con mi bebé en un estado súper mal (SI VAN LLEVEN BOSAL), desde que llegué me atendieron súper bien y la atención fue rápida en todo momento ayudando que mi perrija no avance con su malestar , los precios son un poco elevados pero por la atención lo vale, les agradezco mucho por los exámenes realizados y a tiempo. Mi pequeña tenía piometra y se la pudo derivar a tiempo ya que no realizan cirugías ahí.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me acerqué hace días con mi bebé en un estado súper mal (SI VAN LLEVEN BOSAL), desde que llegué me atendieron súper bien y la atención fue rápida en todo momento ayudando que mi perrija no avance con su malestar , los precios son un poco elevados pero por la atención lo vale, les agradezco mucho por los exámenes realizados y a tiempo. Mi pequeña tenía piometra y se la pudo derivar a tiempo ya que no realizan cirugías ahí.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "wendy ñahui levano",
+    "uri": "https://www.google.com/maps/contrib/102683773408484923955/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYJ--EnT7dERE-o0lPw-22x81sG7_ZKzD-jgWtOWkbZQZYix8dcg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-06-14T03:46:12.167793Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQWGtwZGFRODRpbFl3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQWGtwZGFRODRpbFl3EAE!2m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTlVXRkJhVEZzYVdWMFUxWlNaMVpOZFdONE5XYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 1,
+   "text": {
+    "text": "Veo que  no actualizan su número, así como yo debe haber muchos que quieren separar citas y nadie contesta al número anterior. Estuve llamando al número anterior una semana, tuve que apersonarme a la clínica y lamentablemente ese día solo atendían hasta las 10, ahora llamo y escribo al nuevo número, tampoco responden. Dejo el número por si a alguien le sirve.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Veo que  no actualizan su número, así como yo debe haber muchos que quieren separar citas y nadie contesta al número anterior. Estuve llamando al número anterior una semana, tuve que apersonarme a la clínica y lamentablemente ese día solo atendían hasta las 10, ahora llamo y escribo al nuevo número, tampoco responden. Dejo el número por si a alguien le sirve.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Livia T",
+    "uri": "https://www.google.com/maps/contrib/114135705090196670393/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKUAaScx94AA1QEFoTz0wAPCJC5ki_0k5pijH-0TDxf_m8bV-8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-17T17:42:14.365469608Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTlVXRkJhVEZzYVdWMFUxWlNaMVpOZFdONE5XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTlVXRkJhVEZzYVdWMFUxWlNaMVpOZFdONE5XYxAB!2m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMa2APtssgn06yWdXMGqzctN02ftrqmIxaQ4zpA3hdnVxSrCuDEdliX9hZk9w9HYQwQsShSpIDRA0dhPoUYrqqs7y-Go9UmbkWj9Um98fpNCusgMS2i5TVde520oIkK5TJ_jP9FIz3GKhLAYK9FOmY24Qb14zwDIN5eehIVQpjo0d-6WWxpCCzIUAZv_e_rIQ5vJIxLxRVO7cF1NSKF6he8CLovx3AUrJqOdPG6zkgSkFLQCMvi0JsLC42D7XxXWRlEoh-wpwm_LKYaU5ORKvr8OrBhh3xIAMe6qkAAjUVzAPItDRTI0vBm8V7zsQa6EqpVkxehx4aOhoR0sX5BlYozAXIZgpdEfOmcJlwctaxVbwlOwkvSo9NlmeDvaafNAqnYrsBtHx0TeDXk4viHDeqFw-jf9kb4",
+   "widthPx": 4032,
+   "heightPx": 1960,
+   "authorAttributions": [
+    {
+     "displayName": "yonghwan joo",
+     "uri": "https://maps.google.com/maps/contrib/105820281912344353154",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoZJ4d9fPyGMZaRbkY106RR1AwGN6APkPcWNnPQbSUeRtKCYfM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID41-iL1AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID41-iL1AE!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMZiFnOjUE_l1ipS7Yj94d25-RTwWcsISUt8pqXR3t989EIMDiluQqU20M3_TV8KhOUW0wnk-ByxhmjVBXzb3k7dyQ_LpSs7wOu4MApOvC5cn9wjVUIcwUGaaMugNujglgE4tS4Unu8znu7dlbQOXvLH9INzp1nSXNu4eZ9pgXh-Wd_4VptPLuCKwPYJZHmz5vGlkk3WkaRQrPKYwxilG6POQQfY-A69S0jpZQTwjINT-7MyLrV3327K4cwOi3QqPetobGbEKPagH_-QNfIUlpT6ye_QsO39gVIC2E8Y2LcahuzqAM8wd55IroO2MJUdLMYn0HeC3rsNxPE8x30i51q8iuV3aAZv-PhFvItDzGj2V96Nykn18yZ33rK1OnPw4NPgzLHQGM71GTJQ-jvtB_6ICdbVeIS25GfwiebF8HUjFQ",
+   "widthPx": 1200,
+   "heightPx": 673,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Marcos",
+     "uri": "https://maps.google.com/maps/contrib/116931042769009158013",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJo2MohmiGjQUDIZEfkOzvKhIwEs_fXNK-pMTbYoVDs0fjHdQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBxQldk7uRp2KTR0XLZbHCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBxQldk7uRp2KTR0XLZbHCg!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMaf5_hAhD1VB3ooPeGsCGhu3Mw65e52C__vkQ9OwGH2OCqP77oPPrXT_asJpyNC3e6UqBz6ycwIPFWX82IwldpX24vvFvdxbeM3sd7eUA26f8MMVnVmQvSS7JgzHRDe19OhBcSlaKOnScE0HnqwmEnHg1qUeu5Z2dYs_uzMcJFXvIzK7Q-reabBD9dyH6GWyGP2w5AcLhgHClBnEs_PBipwNpwliNkPoITlmJgkbovRCpq2gEQjPiQutswI2Ia3c_1XjObldnstm-RQkZ-VA6eW-gdpVXU2dXmh4GRQYwfWS-iIMqz7BUJ45-SFbuG5u4tpGhj1bwhYbz3zJxJRrPAsWTl3_dV8n8_vTbOmEM4Fc_WgLkMJbjz21pqB4ZxSJKKurRnz6MlQcylE3uzDGxT_w96zM_qy1Gk2F1Es7oh1XA",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Marcos",
+     "uri": "https://maps.google.com/maps/contrib/116931042769009158013",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJo2MohmiGjQUDIZEfkOzvKhIwEs_fXNK-pMTbYoVDs0fjHdQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBtoIZK61ZfTLoJYsqC1HMU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBtoIZK61ZfTLoJYsqC1HMU!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMb46F_1j23Fhtg6CVu0-ytRttA8W2tkyfaFkaEl07cZFRix2fQuqidwyaUfwsDnIQOZA_YAF-hXL69kgv_r839VLg49bXWNbW2U1L07NEKazXdAaT1rHZl_G8kCles0orz4PVgfwYGKcYC3VProYq4JHiadqDBeqFsMDf19xXZZ659I5X11Bo9eTOp1WICy6pngP4vnZphBzt8_6IG9FoXjQjVixKZlHpq-y9IIQ00sJGu0j4zAMbO47kpWmRIJNmAZ9yiHdVdv4RIgVBt0nsNfCv9ebBxu_XasuiRkUp-NpM5vlKriarN7i_3n-pxLGhL5ypnxp0w2uYMR2AISkKCT3T-ZKSylUPMC-lT9rjwt459OxxkOigeT89Dh_je2RTsI7PD1DcnC-HdmHwtBqmf8DA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alejandro Sanchez",
+     "uri": "https://maps.google.com/maps/contrib/117770299307948016012",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeRbKuxGIsALs76s_XNw6VkIFXr-F26_0DGY6n430vTIqyIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDtkLHQPA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtkLHQPA!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMbvX_CYnKPA06FN2k-Qn1KVq8lQypUhPME2-_NH8rGBBKVYAvkawlTiNYGs_aAY0FIsHpUktLOxaps2CBnMs6gD2mZ7SppUvFow7AaIKYmlbrlYlRqrtOmQMR0hgTwQ4RvcMe698M9T5d4WTCm1KBZZdJ9m03jyQ4dsFnx0DRUiNuHNSgBb5yNh6YtnVcO7elxuN7r_4WxAuUUGFWe3aslcKgdSVCTfq-t5zdhxCID9CR0n3YL6CqO3L6K-svMl4sUHrtiEZRnWRxwI8g78q2omDDUF-k9e0XuChE6jx8qwazPva9fBFNY7eM3hkAFzsXBItR3iYgZu1qM1xepf-azXHKicq1HqCvL6ooCWNn2HR0g-LbzDstKolUejCkqpfL8peFgvdWmSWM7oQjnFgBanOaH5GT4",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "wendy ñahui levano",
+     "uri": "https://maps.google.com/maps/contrib/102683773408484923955",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYJ--EnT7dERE-o0lPw-22x81sG7_ZKzD-jgWtOWkbZQZYix8dcg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEOugnc7socbZ3QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOugnc7socbZ3QE!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMYLgRxBmmoZuJWPfYiHRE0JLBXYYa88m9cvA3npxXCeRt3AgdTfmHZSlBrBo2wcfKHtwXODzMfZ9MIDJB8urn3CTEoR9yEQTGbsOkQ6dNyE5YHQLTa26RYxBwA5Y9-qDvD--tdg7_yaNU-7QMye-TcJ-xwpcKro25ftjqmfS9reCFCHOcXLVWrvWpZnesV6CLo0p7wq3JHqsFBQwMwJ8Pcd1dY-MXlkcKySHdXOE63ypAkWKta4NVGEhaP8vDDanw21Lu44UC3PCUHyjlQYxC09IgEky7c71OpiWf_8T6-2l2BYGVHfpwrwriX8ecEgJMwxgtw69rVaj8U8ulqdZVnuSc5ylZpX_NpEAFSu7sO5G0IfVPxU-1cdwtgholh-0-gd0qO9TOIFWaT_H1ZrILLqZw",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "william Mario",
+     "uri": "https://maps.google.com/maps/contrib/116200264707730019799",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEcbiBo9TJ3R3XIKa2RXA2NvDycTN0sK-1Ewsb76-azbtuFC4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICsxc6FQQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsxc6FQQ!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMb3aXDICUPed0YUOsn-cVrahuwWhgwv7_liJs8UQ9bqcXPq5GPnXkYI2bw5vYdpjkOzRze2KeMMUHYR_y960qGP8WlGF0X9vV68EqUyMNR8LlCmZhIaCoiCl9gHxhzx5AHzr4ttzQDFXV5YNm0nGw6sFD8G0UK2PLzp8We6WUThplnDeW09apZ5bbZHn9badbuCABSkLi_USrHZIkrs6k4CZp6YIIa5rGZvgZUvlO4OO5n7in6yDVJgUVzkGGJvbXB579oniHSYlf7LVAL36Nl70eHvceOXK7zHe2j8cgV3oFQUE7pmvap-wjEiSGLd8N3mcj5hJ7seYhChKXOLN7aPHvB_u-p-mfEUUgJzt8fV532910tHZ_9UY-dL0aa4epDvVBWZvnuQlQ1WWPz-xyVQnmMBpu8",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Cristhian Condor Mosquera",
+     "uri": "https://maps.google.com/maps/contrib/104636067116557446579",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA2f69flgPk1Pp38S9FcmnucJlWm_XJ9ripUT-Lawg4XcBY4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcys6WjgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcys6WjgE!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMbzR16NmYUGIyLsBHB9OD__KkyUcewX52rTfL72UfK4USKASU_3qARTFI1vLIXN0rzbrO05cV0gzD_DdLRuDzWCAezk0mLKDFIOZak5EsHM5jnpDnfg-GoAaJz1t5QjqCwIK17y3f9sGoBFryZcT8dyRj64Oxl787SO43B8x6yX5PpdKUalYQayYZksehx51gXiI2YBTo-GTeolj7YfLSMWzR50QuGJ6zJbXcZATdtXLrA2brOEfWA3UptOhZKS1aH3xxIq7aJjL_pgy4VJs-KRVO9U7-u4oedHTMl3f0WwteWSmiibh_scAOCDej23LHF2RDjwuNoWkAULlfs-qA7rRjVgTqavVUdFBim94TPWT45_xh-oSUfkfQpmJXtb4JsXQcHM8c8tyHp4qeFPk2VK8tY",
+   "widthPx": 4096,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Terán",
+     "uri": "https://maps.google.com/maps/contrib/116414049356659792942",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtf9EV-gK-P2bHJEDL7TN7Tm87xWI-YZHj_wpUVLqVBhHRu3Bv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpoIetcQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpoIetcQ!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMZo7ux4NO_nVDZhE6-RqaGsQnGG-rtYIfsyRmlAGzkRojBaAQfC3DHCYytDctQqitS_9rWih0ACvufRMgtBP-rVjboLJz1k0P0XDSbClvpcBvJysA2NTlQfqCYSUUyDyTd0sjJLbuAKrPV9lcvv3i-RK3SjlHtvo8jWqLv_K-8zma8AePDBAHAlGJthp1hZhG_WsOHEB7Gr4mE9ovIIjxgU9Tu1pryKAmYKI3DkUkNU2LmAuzyircY-Ivh3ETD_tInUWC8Y1284NKhpY1bxiJPJZlt6bUe4tQaFMEK6ONJQkgPdS2EH8UheSOKXG8tkE2wa84ZJnCFGiwT6cXPrhiARDbxNQJqvyig9Nu6YMZPw9QxS8eCuqIiZtO2gsRuG5gpVhvIIWoFI0yZ6pWqpP-Gd8Q",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Laurie Isabel Bieberach Sanchez",
+     "uri": "https://maps.google.com/maps/contrib/107973211400475084709",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoLpE947eQP1mV8MgDJo5ZuUFiOSnPJTgQKFP5TRXkGWGmZak=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICsgM6PCw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsgM6PCw!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  },
+  {
+   "name": "places/ChIJeY3PgErGBZERDS7m-tWZZO4/photos/Aa-ngMapay6_c7bB1gZPkEuIUW1DOQvkaBYXRBKCXF3oLnfzEXKSsuLLmGEB19RvVecZEDeqMc0o5R7nSYUqLBPEcYo1tgM6hMLdoF4iozWxBXhUMI28vwu1tfpnPDqsm86wQiTq4tiERcXE5TjrG2P6xJSZ7g5H3loOkaUo22wY5mXr2__nZHRA7hHuLoT9FtGGwUclLX-CzYxxnGthM5J6bVWDMfweXd58AarA8ZFo-vZAo9WWPxphl_8bcNUQzqZL8qhXRV__RcnhYMgOR5htxnVnbdVwQF9csRB0JyKlDJCtYbPcDpydFi23DpmSrurU0lO4Tohnnqr8_Aoka7fm2K3XvPLV5VXm_wF9v30-qo9uq2GSPuK8ddXJH0dJOhN7Tz4uCJiUer6e7EU-iL3DqDijqAbUYKR8o3IvggGQT3Ny9Q",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Tito Elias",
+     "uri": "https://maps.google.com/maps/contrib/108252830960786782574",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBNDn9YSHBD1Tewo-Er5EQAEin8YFNmySccbhHYmIcx_NYwisv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB4plZ-1UqQd79uabl0O_pX&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB4plZ-1UqQd79uabl0O_pX!2e10!4m2!3m1!1s0x9105c64a80cf8d79:0xee6499d5fae62e0d"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

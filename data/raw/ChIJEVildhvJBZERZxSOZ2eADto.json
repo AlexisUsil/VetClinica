@@ -1,0 +1,364 @@
+{
+ "id": "ChIJEVildhvJBZERZxSOZ2eADto",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "940 468 157",
+ "internationalPhoneNumber": "+51 940 468 157",
+ "formattedAddress": "Av. Petit Thouars 4836, Miraflores 15046",
+ "addressComponents": [
+  {
+   "longText": "4836",
+   "shortText": "4836",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Petit Thouars",
+   "shortText": "Av. Petit Thouars",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1109095,
+  "longitude": -77.0293469
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=15712637331549590631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1,
+ "displayName": {
+  "text": "ZooPlanet - Miraflores",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Petit Thouars 4836, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJEVildhvJBZERZxSOZ2eADto/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsWU16bERZMDVJYnpkeVRIbGZhVmd6TmtRNFpYYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buenas atención. Excelentes personas aman a los animales",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenas atención. Excelentes personas aman a los animales",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eduardo Rafael",
+    "uri": "https://www.google.com/maps/contrib/113595022267094910528/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIEFn5tl07GNblwYhZqFI8BitCKWn7d5QKnBhc99g6Rtur9wQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-26T20:14:22.424934011Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsWU16bERZMDVJYnpkeVRIbGZhVmd6TmtRNFpYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsWU16bERZMDVJYnpkeVRIbGZhVmd6TmtRNFpYYxAB!2m1!1s0x9105c91b76a55811:0xda0e8067678e1467"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJEVildhvJBZERZxSOZ2eADto/photos/Aa-ngMZ4KLSd6-mMVNwubf3VdZcmIcx_yEKsbkGexR-TTsiiBq2k1PWmjgNEVrIfYrRFgzdAcmrol6Q-VDdVaBumVd8IEVZ27f6ksWiQYcQk9OFQGxsTH5fwe_nL0WQw8K8nlELzvkWGvnlGPG8KO3J2Fwc3K3RdJDpltvUo5wgRRzleUc0TBPE2kkAVer_eAcmpwrXsp5mC65j31DQFzAqeVWpXR9pv7cuJqicLjIwevYN516LLuKCaNNOLthUUTGwG-XT59iurZcaGGd8i5DeNypDs8jL5RGP_6zKU6jHR0HBKPAM3RfIrQm_-_C48cB4iPiva4DeQ-ZUwTAG_LQ1ytUfCzDaXABqfuDEAJjbUE-VbmPYdIPvan8_8_TtEwb6j0-hqnR4NZJf8GoKQN57s9TFxZx56kMAcPIePnvmqmUXVNrUC45DCn4BFQslpnCUC",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "ZooPlanet - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/102944606727530506865",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb4SeAYYSm0i15MeH9eOf40URwDjoy2BC78xXa3hWJINQc3A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCEHNuNK36IUaUiaxT06eVf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCEHNuNK36IUaUiaxT06eVf!2e10!4m2!3m1!1s0x9105c91b76a55811:0xda0e8067678e1467"
+  }
+ ]
+}

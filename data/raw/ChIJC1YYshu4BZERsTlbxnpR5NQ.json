@@ -1,0 +1,584 @@
+{
+ "id": "ChIJC1YYshu4BZERsTlbxnpR5NQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2477894",
+ "internationalPhoneNumber": "+51 1 2477894",
+ "formattedAddress": "Tda. 4, Jr. Doña Delmira 319, Santiago de Surco 15049",
+ "addressComponents": [
+  {
+   "longText": "Tda. 4",
+   "languageCode": "es-419"
+  },
+  {
+   "longText": "319",
+   "shortText": "319",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Doña Delmira",
+   "shortText": "Jr. Doña Delmira",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res Valeria Etapa 4",
+   "shortText": "Res Valeria Etapa 4",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15049",
+   "shortText": "15049",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1434679,
+  "longitude": -77.0022651
+ },
+ "rating": 3.6,
+ "googleMapsUri": "https://maps.google.com/?cid=15340475818486479281&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 12,
+ "displayName": {
+  "text": "Veterinaria Surcovet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Tda. 4, Jr. Doña Delmira 319, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RM01EZGFVMEYzU1VoMWFHSnVYMDlQV2pabmFuYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención muy buena, atendieron y curaron a mi Gatita. Precio Justo. Y sobre todo el Veterinario tuvo mucha paciencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención muy buena, atendieron y curaron a mi Gatita. Precio Justo. Y sobre todo el Veterinario tuvo mucha paciencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Josselyn Ochoa",
+    "uri": "https://www.google.com/maps/contrib/116638489710356076547/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVocVQdcyAA1o-HABVqhJBkjQiySyDSUOZdhQBeI9Jh9GyYyBjw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-08T11:45:52.494831455Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RM01EZGFVMEYzU1VoMWFHSnVYMDlQV2pabmFuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RM01EZGFVMEYzU1VoMWFHSnVYMDlQV2pabmFuYxAB!2m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0ajRIdlZBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención de parte del doctor.\nFui a llevar a mi gata a que le quiten el punto, y cuando me atendieron el doctor no saludó, ni me miró a la cara y yo si le saludé ; le dijo a la señorita que atiende en la entrada si mi gata se había hecho la esterilización ahí y yo le respondí que no, que fue en una campaña cerca a la plaza de armas entonces procedió a quitarle los puntos sin guantes y con un Gillette le cortó los puntos y lo quitó con sus manos que ni sé si las lavo o no y según lo que investigue se realiza con guantes y desinfectando las cosas que se usan para ese procedimiento y le quitaron los puntos y luego al terminar se fue sin decirme nada si estaba bien su herida o que le estaba dejando un punto. Supongo que como no pague ahí su esterilización no merecía un buen trato. Primera vez que voy atienden así.  Mejor búsquense otro lugar donde atiendan en una forma correcta.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención de parte del doctor.\nFui a llevar a mi gata a que le quiten el punto, y cuando me atendieron el doctor no saludó, ni me miró a la cara y yo si le saludé ; le dijo a la señorita que atiende en la entrada si mi gata se había hecho la esterilización ahí y yo le respondí que no, que fue en una campaña cerca a la plaza de armas entonces procedió a quitarle los puntos sin guantes y con un Gillette le cortó los puntos y lo quitó con sus manos que ni sé si las lavo o no y según lo que investigue se realiza con guantes y desinfectando las cosas que se usan para ese procedimiento y le quitaron los puntos y luego al terminar se fue sin decirme nada si estaba bien su herida o que le estaba dejando un punto. Supongo que como no pague ahí su esterilización no merecía un buen trato. Primera vez que voy atienden así.  Mejor búsquense otro lugar donde atiendan en una forma correcta.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Arantxa Rodriguez Canales",
+    "uri": "https://www.google.com/maps/contrib/105069061934957326504/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeISJ06FmAubI2eztjGZhdHgxMnGNvPb2rIgT8uSTzgFPz8w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-02-08T07:44:20.546237Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0ajRIdlZBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0ajRIdlZBEAE!2m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5c1NGcFlWVzkzVG1jeVkxZDVSRTUxUzBvMFZrRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente doctor,  excelente Servicio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente doctor,  excelente Servicio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Helena Aparicio",
+    "uri": "https://www.google.com/maps/contrib/108607644529524381926/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJLE51GjipcV2UDhqC0lvmvhpMO-KkgldOutWgJtCZ2yXmXw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-12T05:53:00.030873334Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5c1NGcFlWVzkzVG1jeVkxZDVSRTUxUzBvMFZrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5c1NGcFlWVzkzVG1jeVkxZDVSRTUxUzBvMFZrRRAB!2m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURBc2FHUWNnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente trato, muy profesional",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente trato, muy profesional",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "andres diaz hirata",
+    "uri": "https://www.google.com/maps/contrib/113234730898198205523/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqNIn67ke1EY8d6MIBnn76UiBG54R5uVzuRZU4BL70AxolrQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-09T21:55:19.864777Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBc2FHUWNnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBc2FHUWNnEAE!2m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURNZzV6QVdBEAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rodrigo Alejandro Cama Montesinos",
+    "uri": "https://www.google.com/maps/contrib/107236990341087156379/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSvzBvC28CxP2nlyWZBZDPrFwIx3i6TMNuTFjTlzGAU4jPdiKJ7g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-01-09T20:41:20.617750Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNZzV6QVdBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNZzV6QVdBEAE!2m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMZUorgdsVoESv_plvtB-FhRVQRdEXCSoK2pv8_0LTSYE2Sip6FhwExIe9nxFhrXmASiAwE91IbqzqoFsupZsvt_BZg9Sd3W-T7g4WD0qOQ3GWvWGofvLJhCLHR14sqvsOPalOPGC-EFv1ghEn_ifS7Z31FvD6cKCiWM2q_I0eymNr-tR8ziEdjGUqGo4tlVGlSts1NL4fP-DMU1Ra4en2NtD_tj22pcx5vSPB3w0oEj6ZtEtkSRqyTSk4huV8QbiAV-HeK8uVNmzWdqc52CIMfB77ivat-ic0hV5Tk57FGyS8N0lZaz9F8XF6aYqPBTtHyc0vHvbkTHVEqANEDRwOxbliLOr3dUuEWHC_gOCKaI5ubZUijT6PLtLwr8YfuTGluNKqJrfiqHOC7-pbFVv5cWibw",
+   "widthPx": 720,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100409796016963222548",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-revY3-KS7K6h9onU3JwoqyMEBPRzUIaL-dNmXRBqWp1LtwA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6zdfnJg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6zdfnJg!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMYtb16hCj3l4vBp7lhEym0VUVd0cvN3DIA2eEPQEx4jVuUGILhOcZxNABM2Q_iwfw6jXI1qibelQRWVKA1LcvbgJVatNpxdRMxXGL8l_oc5MbFtkofcex2DrQAHYHI7WrPJdb94kwXuvqdxl5Jd14jitNz-9oJirTGlShG41lhwNuugKbBZZT6Y5GpHQoY-JANE0veUEIZgX7VhydAboPIYX8D7XeHWetqdDyHEfHYVwpLbOUo5VtTnxFuHo2FPsz3BX4K9xuOaf-ifhQ5iZnOeQY89WIsNyWDuFBgjHj72KJUO_1EILiyqsCt6Qi7wz1qwg9j1dzleajyxWt0Mr-uCMumQn8ssiKwuCE8OeF6uW85cksjyb1ZtmZWGr_VBK5FZcqTFmjjut2q9iwM3E22UkjP6",
+   "widthPx": 1932,
+   "heightPx": 1932,
+   "authorAttributions": [
+    {
+     "displayName": "Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100800610428382181540",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRCuND4rrLjjj-gX0uDpE93J5NDhGvggFgjmgKbY8xxCRVV8r=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4hLW-rAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hLW-rAE!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMYlVCZKT8QATFINq7iQR53RTjGn4vFQOzHsr7nO1fuVnoWOUceVawwvwRk7kJGQM9DkTU44jyRJ4mBAqPeOrz2boFGiYubLtS8nHP5z_vD7YopCdH2kOij1llwlEeG7vdp3Oi5pYuB-VqHaJC-2VGpch16A4omyBW6M5c9Yisk8FY_AQsNK6MUyuvmK6U93dhKWAFaae20cz3w9b4tFakyzO84QDHk50AlyQZ-og0rjfi5rx7y46M9M-Pjn4K2lZbtcDWwNMcoNIgGW6bZpWgVLRefNVLYRz3_bBp30jTMs7NSqYHo48dNFlcIH-bBWrKns6N7L6Qu2zP7EM13XgQSLAe8vdVOSh8BymfJaMnkJ2ETcQwv0oOfMYs72ecrf76C-GAU1HtbF30gm_WDhiYQwh7s",
+   "widthPx": 2560,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100800610428382181540",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRCuND4rrLjjj-gX0uDpE93J5NDhGvggFgjmgKbY8xxCRVV8r=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4hLW-Bg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hLW-Bg!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMY7mLByQI_uuuvrjcD_IFK4Ru6sg5B2mEGhiYnHk063v3wtg7hdJLfcucmomf4lOUYKJyaXra333qfZpVKkwmAPKw0rqYaWkmWjPLXEBCXAAEuIcveHxQ8YVIDGjbveJCsd0fyjqVibzruQVjgRC7sLvpnzGColzR-aaf5y0FZOQo4KCkJ1NWVNXz_GyLTsVtiK2-QHfiocti1KMF9ihug_RrsBjxtO6z181dR-HoxlQJCNC3_2qi-ASCGbJL5JRv6MMOm4oKlQyD02mwWD7zjfbCeY1oblyI7iEEtOf195C6kUo16SpDOIJKqjq0gphxCRcrQmOiKE9MCiwCelx3aOJ5GhWCIANycdIXktYfEH7wMpK0s-lEf0V_6yyo0l4Q-djoqsSHk5VaFimjAjjz6bxDOWrT4",
+   "widthPx": 1440,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100800610428382181540",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRCuND4rrLjjj-gX0uDpE93J5NDhGvggFgjmgKbY8xxCRVV8r=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4hLW-wgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hLW-wgE!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMYMxr8WqscWF2sjfPbFCTI1kmVLUzpyhzhqYszk1LPai2bhuNirFUDv_EzSiDWbOlk99tN_y7l2aEmCU83iEVoFzj2abx5LXuMjme0Le2bOWXM_ym0v9mbHqg2rQZlPGeoF8tX5jFMTAf1oCAsk3vFwApkUmTtdrB4Qqe20VwZK-pFfcbWmCSjEbMmGPVTD4gP0wOx4FXj-_9cfpgzJ2Ca9iBg2F6s2C60BVoxGd9ThT4nZEnzCJFZAR3U9lqDaQd748JxdDihYqiqwj0642LfbueC0Cl9hKViv2PzC4-V9Q1OwVEC6s2-anhWzD0TqE8o79h8Rc23hfoahb2RCiVi1K0AWhv20iZ91DUX_8iW4UVEZu--UcstOses1FDu2TaVxcnRkV13s0mI0aNhosK4RYYQSqY8",
+   "widthPx": 1440,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100800610428382181540",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRCuND4rrLjjj-gX0uDpE93J5NDhGvggFgjmgKbY8xxCRVV8r=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4hLWG2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hLWG2wE!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMa4kquNjkWAim0toxDP1jbaV92iCI9AComBTRuYuwZ2jdpUkXOiJYIzJuo2YJb0ZKJ2R_J0x-R8zkWpVPg6EhZytV7T2SvuYdCqatvMIB-HuoHpcaaWcGQn1Qjbv0Hn5N-zy96nHoeZ8MdkireyNuaGojGQEiXYRpCvm54ueUh_7OTN9Kc8JItyxeeUWCASkur7QSsgAultbEUFPLcg4S0f15xvS0mnpeHe2HI-_kVic4TUW6RK8bidcnNITWCXv5X_rlDhCHnXOVnyvzQMB3y0M5-CauwWpc75nZM8VwnisFukR-Ua_PmBcIUZkrpg4YqaWUmAlSXQfQ84eAyrd1FPStlVDXSOdOiVD0lnxo5doIYX9qsf8XTYAA3KWdY4DndnEmgsxrZgjb2soCKHJTklVKk",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Jairo Melgarejo",
+     "uri": "https://maps.google.com/maps/contrib/108765455179529749092",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhjiz6uv1Eno7nKFcd4m48u3-nIeitFmy3PdHy3qJwLlAzl8ThYw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM4LLfFw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM4LLfFw!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMYLvXyjE28uyq8hieSEOp6ee9vhj-eoMm9reKvlupU4EVvCdwacCD3H6j6kqNTKV1iohTiw1-vxqfbt6iAGoVWjwEynKg2NCeLDvqGDIZRQqolusyqqf9Q6pq1UCtBxThVBYL8pT4D4_EqjL3GoKw9Vdef_cluduASXPrNk8yuXctIAuHTzQ4hEAAzsIFMkbhL3PWtw-x7FjkvaBuceVtOA3EfZph5Mv7XijcT3YJfKOoUH1WWva1Y43Crcg6zcPO5OerUW0IpvvK27CaAhhPqcJl7fkbi5xp1l9gjohzMPZl3UqpG1fOqbguzkc8ztd9EQ9Lg0-XZOwAEW2DwkcFySFlE89UA14JVURE77nuVIlyEHWzwRe8CE_NZPne7ye-uFD38ZkpxKzfCByDKqrCvYUIBPOpo",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Julia Patricia Urbina Jara",
+     "uri": "https://maps.google.com/maps/contrib/103028437904827807894",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUazPQOX4yWcyg4mggVOzn7Ofb8CKYnwV250eBJNHIQgINXJOvUqg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4jq-9kAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4jq-9kAE!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMZrbkFmlbLmrt87QqEQRYqXMS0viHYw9RqgQQ9-mZPYUQg-XDLc5Smzl63VQtYZRVtHcoK6uPMO3esCnamwxCG6nMYYOYEjuQDhSOBVUQKcRKhL4-8iVBuaJ39wWp3_8AMPw8oPNVvetV8GdFi4BchIwgH7QIPhQ4LlKP0FBRkRVoJfnnBZF8F-I0pZWOIXLAZ3Ah5AqZTUFNZpxS1rGQwxQCepGkMjfrb7un6QIwKXFCIX6nsVCvnEfwJnbGbZmQj8aGTs0R1YQiA0zsXXLTW7COHhS8BQja8CcjUofNIxPq-KFXz6Dsu8kdWV9nHCB2UsgrLuz_Goz_1ejz5nc26ru_roDVv79Hj69IHsUSU9gxh9BkQNkfPT3QJvZFyIkU1_bJdlwlFi61h4VeSNPApBSxY",
+   "widthPx": 1440,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100800610428382181540",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYRCuND4rrLjjj-gX0uDpE93J5NDhGvggFgjmgKbY8xxCRVV8r=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4hLW-Mg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4hLW-Mg!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  },
+  {
+   "name": "places/ChIJC1YYshu4BZERsTlbxnpR5NQ/photos/Aa-ngMaB_IefdFSs4-xU59tW5dgeAVZWBNL176bJzTLe9FKwZyKfForxyFV33dWWvtWFT7zqkwns3XBdc3eTZ3mkR767kVmlYg65ncdiJnEt35E95rxQWFfMYsPoNCQeHSk8ylNgY0ReAyPOh8RToWxwLxtpbMOVSMNPWVBrW0Xdy8procWUC25VtNXOrn4zCRmhLdc-4PewsdutgQ-NCniAdZ-kz6NKBeLiO5ZKcKuvhDAYSK0RzyvYHXN0AWKwdFGB3fSqg7mXdTocqMHb37THnSMNHG83e9KKp9_3es-67kkDRHVQL4EZNA4nf3O8tNxffDr_jTrgLhE9YemOJFzO12LBM200gzvsg3TB9dixcLXECmB_fcbbqzO5STOM1VNIxgfdK7ZOmMcLBD6PRpResoKXdA",
+   "widthPx": 640,
+   "heightPx": 400,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Surcovet",
+     "uri": "https://maps.google.com/maps/contrib/100409796016963222548",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-revY3-KS7K6h9onU3JwoqyMEBPRzUIaL-dNmXRBqWp1LtwA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6zdfnZg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6zdfnZg!2e10!4m2!3m1!1s0x9105b81bb218560b:0xd4e4517ac65b39b1"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": false,
+  "wheelchairAccessibleSeating": false
+ }
+}

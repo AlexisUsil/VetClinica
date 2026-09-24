@@ -1,0 +1,585 @@
+{
+ "id": "ChIJe35QMkLHBZERvglFyD_GQVI",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "health",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "940 548 100",
+ "internationalPhoneNumber": "+51 940 548 100",
+ "formattedAddress": "Avenida los Fresnos, Portada Del Sol 1777, La Molina 15024",
+ "addressComponents": [
+  {
+   "longText": "Avenida los Fresnos",
+   "languageCode": "es"
+  },
+  {
+   "longText": "1777",
+   "shortText": "1777",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Portada Del Sol",
+   "shortText": "Portada Del Sol",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Portada Del Sol 1 Etapa",
+   "shortText": "Portada Del Sol 1 Etapa",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Molina",
+   "shortText": "La Molina",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15024",
+   "shortText": "15024",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.109902499999999,
+  "longitude": -76.93852679999999
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=5927236561841490366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–21:00",
+   "sábado: 9:00–20:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 27,
+ "displayName": {
+  "text": "Veterinaria Mia Romina",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–21:00",
+   "sábado: 9:00–20:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Avenida los Fresnos, Portada Del Sol 1777, La Molina",
+ "reviews": [
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzZ1BhNExnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Separé cita, me indicó una hora y cuando llegué nunca salió, toqué el timbre reiteradas veces llamé al número no respondió, asistí a la cita programada en vano. Después me escribió diciendo q no había escuchado el timbre ni la llamada (raro) volví a pedir cita xq mi mascota no quería comer, me pedía q abra la boca de mi mascota y lo filme para ver que tenía y dependiendo del vídeo me daría otra cita de ser necesario, realmente mala experiencia, pensé que la atención era diferente ya que me la habían recomendado o en todo caso de no querer atender o no tener disponibilidad decirlo y no hacer pasar un mal rato ni hacer perder el tiempo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Separé cita, me indicó una hora y cuando llegué nunca salió, toqué el timbre reiteradas veces llamé al número no respondió, asistí a la cita programada en vano. Después me escribió diciendo q no había escuchado el timbre ni la llamada (raro) volví a pedir cita xq mi mascota no quería comer, me pedía q abra la boca de mi mascota y lo filme para ver que tenía y dependiendo del vídeo me daría otra cita de ser necesario, realmente mala experiencia, pensé que la atención era diferente ya que me la habían recomendado o en todo caso de no querer atender o no tener disponibilidad decirlo y no hacer pasar un mal rato ni hacer perder el tiempo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sandra Torres",
+    "uri": "https://www.google.com/maps/contrib/107577812478989817902/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLc-Spwynrlc3OGmWUnpvDqZfAP9jP4zqw-CHphe-kOJmGcYw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-10T23:41:48.703877Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzZ1BhNExnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzZ1BhNExnEAE!2m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwbExEMVZBEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, llevo a mi perrita siempre y la dejan hermosa",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, llevo a mi perrita siempre y la dejan hermosa",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sofia Alejandra Matos Torres",
+    "uri": "https://www.google.com/maps/contrib/116393599570765721225/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDrpSDbeZv38OF245j5RnMMRoFYeDEwiQhPPq_i9yirytddJUIZg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2019-09-15T17:07:14.244732Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMwbExEMVZBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwbExEMVZBEAE!2m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/reviews/ChZDSUhNMG9nS0VJQ0FnSURoMVB1SUl3EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Me atienden Rápido cada vez que voy a cortar la uña a mi perro Peruano!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me atienden Rápido cada vez que voy a cortar la uña a mi perro Peruano!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Flavia Gisela Bonetti",
+    "uri": "https://www.google.com/maps/contrib/100282445000535504359/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmQ2hI_rZpBFWbLjJWmZ959LKeMRS6iG5a9UhUIzzZqygEBninMA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-03-02T13:18:24.739815Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURoMVB1SUl3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoMVB1SUl3EAE!2m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvOWNmcUpBEAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 4,
+   "text": {
+    "text": "Profesional seria, honesta y muy cariñosa con los peques. Servicio económico y de buena calidad",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Profesional seria, honesta y muy cariñosa con los peques. Servicio económico y de buena calidad",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Augusto Felipe Zingg Rosell",
+    "uri": "https://www.google.com/maps/contrib/116897193748474088668/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwJxzh0d2VQnNr3EKxpwa4I0bkqq25Im3ljML1tXqHu_BclQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2020-03-11T00:44:42.095048Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNvOWNmcUpBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNvOWNmcUpBEAE!2m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/reviews/ChdDSUhNMG9nS0VJQ0FnSURrX3JxS2lnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atencion con mis mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atencion con mis mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "carlos armando velazco",
+    "uri": "https://www.google.com/maps/contrib/101713366870834870008/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXft4JIbSjTI75mJYA_QJPSxrcBWVabVEnPxDkZaaVQIx1r7b1V=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2019-06-27T02:28:22.605288Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURrX3JxS2lnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrX3JxS2lnRRAB!2m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMb0mcUv80ltjmQ9CCJEzz7FR_64tXSFWKiSAYMhkoSxg7Xh2RcrPakno40RPj4n8luWIQoguGSEHZywpeBuzC5eq6YHXm8yDWM6fFQXDTiWFBlCYn80Lb764ZX2DqrbMld1IU8cZj1moyizxsfsdp9sZblbXj4i_jqOOTgqbtaXrd5l5yg5pBOpvbExTnlUv9SVUeU9B4FhUUChhHbK_QCO0rCCYIRYoVGT9a23GSB4t0PvWcXqYJ1WgwRYroK6n2DNo_p4sY-qjDhyvIhQIEMM42hrUkdl9N1m-P7cZ-n0rmyvOsQRDSYke4DVAxMiWP3nBDYJl8eaYlLCBt1dYfBAWa-vfLSvkIvTkC__z6ChL9v0JPCtpgX-F7WAYhbJ090Odo3v5jNwIK8khnd4BQ0c6YVG",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDa4bDHyAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDa4bDHyAE!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMYg83SdmKBSXHQPxrsmfMapSdAx1qLar1ayjZ1QGBwl6BOD6k3Z1KCEcn1twEVKj8dPM5kWvL9f_9Iv7ial7TFHFs00_1Vaa10WcZn7peLe7UOqbszi_SZGDbi6uut3_zJsLrLiW4Lnue7r6WwYRi_2PUOwkiZW_ZHAXE1LmrJ-mBadkSz4TBzDqqDAV1kiprypg-Gn0GUjZAxtuBqxkozFSZ95t4Xs7g9U0NICiVLYcUUU7HBxSFQhBvx9nNZDluKQV03p3xW0IiKbXBhkV77YbGu0P1Gxc7lsPv4v2tYJO-PygwrbUm6KmqOVJdYuT0MTq9PU08DacpurOAWivqxpFctHmvI6SXFElqEu0SdREmSdNJAvSEV81553SgnZMFw_LcKDtLH2zdf5x29_JMiwPo5O",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8-cX1mwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8-cX1mwE!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMbzCSPSDBnYOQFI2O5lZrOiZA2VBnkYuO8lavdXgzFCk97W2xNtDRGFgor3FsJX1THwzRBVqH4MCi1I0v-l8NkWt-smrNgKDSvmqRVVD8ybIXxWuwcMsRSK1cfF-JjiskwiDF1THMbyHLHwBjr_LnqwcOpg7nUUwwfzkEckXDYEc4bUkIC62RG9iY7qkU8G8AmqHANoeNIJoQvRoKl-qJvMs0aCIWztqVjeRYL7EBQxUaQWzs34qTmgSlaNZ_OlgPh8Sba41EpAUVcGQN6HO0blPfFTQlSMNq8_WRgcYG7dkcWV4xddgtGgcDdLePG9rcCn-iO6DHsKD7Rr4X39sSb93ylTZA0671BaSntly3cM4NXCJMg2IU-7bRMA8RLyOH9tM4S4Yg0hbBXSclAlPzrQDQrqNNQ",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8-cX1uwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8-cX1uwE!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMaDA2ohkIuKOKIsg3AjrTuxXA80LbV5_hUvMycBO13g5T1k7uloMYBFRUMKvZQ97QvoOOOVQhncDZxztO38lCXfm8C9QehoB0r-fVWpIIeCF1RJUxVYtDQTo29gtYokLFBnQCwaXhb4F2xrac0McBe9q91jEyHpTYGIgTdiD4sW8aGGnVUSb1OWGxi4pHOmXQJzupnKx3IjW5_qP6OHfhw55I075THIWtPJENqG_3lhjLAwcvqkRv0ZyfdG_am8PfLaqUrF_Cs8_7r2J3As4hHqfi_XY5QnmhwKPfrlAmzOa4JD-Z48l94mnqeblZz6cLnPEarOBmT2WuO0OEL8SIx1CUwucjZJr59cMcGgHfySRqRbWsnkKJpHGGdEdpHiftiA-nJ3jDkcu-2vjm99uRPxJz7-3tI",
+   "widthPx": 4800,
+   "heightPx": 2700,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8-cX12wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8-cX12wE!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMb78kwJUjB3AeTg2zb1t_KKuD38szMrho6dXhNKSVsCPkVmpL3bENW8izo3bnzaC0HoegB6hJu-DcVWLCAxm4x1eakS408VwdRSNT51oGgKhciXjHkeMXaRZP-iS0-PnrmXCm7b08Zvngm5Gm4HmE_Yy7O7ElsqrLcBX4A86C47pzJCpsYZeJB7hCfix3dKACLoCx1yjS3QB5PRo6CEFeeT8nmDlcgCwFlxDEONKMvwo05gWLtwZZl2jWiN9X0ihhNQDJioMqayMe6cLuaugy_XMMT-RVwSHhIEGoPd8WAdbnSHP3dS2yBLpcIEsb9yG0agve0JNtbDvn1ubtRCpn-LrUHedckYiab3u5KZnQ66DIJFfuBI3bWUhPlQvMOutZBzDNONNuEt0ZSb48frZkXgrb_fxB8",
+   "widthPx": 2576,
+   "heightPx": 1932,
+   "authorAttributions": [
+    {
+     "displayName": "Edith Sanchez Trujillo",
+     "uri": "https://maps.google.com/maps/contrib/117399309374311478680",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5vDtPxQyXM_Job2j3ctE67qZGFGNonyd0ctg5EnxdxOqPcw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE2vr0lgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE2vr0lgE!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMb8ozUk1M57U9LmSnEDnKz_WkibRJoHQzT7Ubo4piuzr_whOFVZVHAqVvsX0AkhsUvBl6JQqLAtGWM39oub0vkgKQp2tY6e7OqNl-FCPFTrFkWWrRagXFwFDrQuZ5zQ0UPRHwT23T0PFBrwAhCapJm8WAgte03TbuCFZuwqtd0RAAIyJru5-_zph246zuO4xEzSsdqo3aD4dMUZWPseG1yKzmYRuoYNVtD4Q9M9cC64mWS2QzxZwLlyoW9t0GCPhpw6N5DOfMmLx6V-2NyPaWS5BLcuik2SaS2o579MtobCVk128V1CuejwuQzBFysn9PdWSntr2hkuW9DW6htgnA0NZ4sVmFIdOtfc2kNXWxsXrn8_LMF0Yl28bccsGU4k6Rg1Xwa8o_GqwM1pMSxG9BGU2AA",
+   "widthPx": 1600,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8-cX1Ww&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8-cX1Ww!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  },
+  {
+   "name": "places/ChIJe35QMkLHBZERvglFyD_GQVI/photos/Aa-ngMbfuy1U2tt2e1q4Q-YP7-fpDN_hHF7oPiN5R8NfYYsqabvRwdSH7mLuylQS_5GZg5o3RLwwzwqQ32-aJ4EvXe1qL6w4w-rUKshoJrvOn98Pi2VPWrvkHKi4CCmKdklzFqkGIRAOS4FB2vlS8rlqoXhHsbM0QtKDZsYCmvNvwadVhwYKVsO-Eha2tYiyBVn6Mv9pzPGYby0Zan42D4OH4Unf4Q6GEgF1Ip5MG4VeEt_XvqtlZHebRnzL5h3XQkYJRkqaFzdAx0aGgBMfcDIDBNIFftdLt-bqpFm7dFyYYx3an91WLRwIyjNY_d5snY_duznXA6FnvthsD7Wicm6PMBFK_wjZB8asjLwX8axcXCIzExHaj7AK_r-UL-U7YC2LDCS41G4VzkbaG2BQh4Q_IZ6oYg",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mia Romina",
+     "uri": "https://maps.google.com/maps/contrib/117075560006081616033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9VDbVuwvFaqmVe0OOcgOEKXT2W_eKLEcJ4Vno6iIGz6AuxQ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8-cX1Ow&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8-cX1Ow!2e10!4m2!3m1!1s0x9105c74232507e7b:0x5241c63fc84509be"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

@@ -1,0 +1,624 @@
+{
+ "id": "ChIJVxN1Q5jHBZER5nXTn7uQQqk",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "996 329 770",
+ "internationalPhoneNumber": "+51 996 329 770",
+ "formattedAddress": "El Polo 298, Santiago de Surco 15023",
+ "addressComponents": [
+  {
+   "longText": "298",
+   "shortText": "298",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "El Polo",
+   "shortText": "El Polo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "en"
+  },
+  {
+   "longText": "Urb Centro Comercial Monterrico",
+   "shortText": "Urb Centro Comercial Monterrico",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15023",
+   "shortText": "15023",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.107097099999999,
+  "longitude": -76.9738382
+ },
+ "rating": 3.7,
+ "googleMapsUri": "https://maps.google.com/?cid=12196469876387444198&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://veterinariaelpolo.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 125,
+ "displayName": {
+  "text": "CLINICA VETERINARIA MASCOTAS EL POLO",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-24T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "El Polo 298, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGa01HRTBaMUZGU0c1UVgzcEJhRkp5WjAxV2QyYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi perrita por emergencia y no recibió la atención adecuada por lo que falleció.\nPersonal no preparado.\n\n——\n\nComo indican, mi perrita no fue atendida; sin embargo, sí estuvimos en sus instalaciones en 2017. Al tratarse de una emergencia, no realizaron ningún registro. Al ver que no recibía atención ni asistencia, me vi obligada a retirarla y llevarla de inmediato a otra veterinaria cercana, pero lamentablemente ya era demasiado tarde.\n\nNo importa cuánto tiempo pase, la responsabilidad por una mala atención y la falta de respuesta ante una emergencia siempre permanecerá. La pérdida de mi perrita es algo que nunca olvidaré.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi perrita por emergencia y no recibió la atención adecuada por lo que falleció.\nPersonal no preparado.\n\n——\n\nComo indican, mi perrita no fue atendida; sin embargo, sí estuvimos en sus instalaciones en 2017. Al tratarse de una emergencia, no realizaron ningún registro. Al ver que no recibía atención ni asistencia, me vi obligada a retirarla y llevarla de inmediato a otra veterinaria cercana, pero lamentablemente ya era demasiado tarde.\n\nNo importa cuánto tiempo pase, la responsabilidad por una mala atención y la falta de respuesta ante una emergencia siempre permanecerá. La pérdida de mi perrita es algo que nunca olvidaré.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Tatiana Mejia",
+    "uri": "https://www.google.com/maps/contrib/104709663849886703355/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLO1a16ElBudLNpc2WQJJkKl1RtSCZ4Gb1bskbBLbfQPmFJRA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-10T00:23:20.689104468Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGa01HRTBaMUZGU0c1UVgzcEJhRkp5WjAxV2QyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGa01HRTBaMUZGU0c1UVgzcEJhRkp5WjAxV2QyYxAB!2m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWU2VWUjRjVk5PUzFZMVYyNWljelUzV25WaFExRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mi experiencia fue terrible, llevé a mi perro porque no quería comer ni tomar agua, le hicieron una \"escografía\" y exámenes de sangre, y me dijeron que tenía pancreatitis muy grave, que el hígado estaba inflamado terriblemente además de varias cosas inventadas, por ultimo me dijeron  que había que internarla y quedarse en observación 🙄😞. Felizmente opté por llevarla un buen lugar de eco grafías (Ecovet del Dr. Martinez en Surquillo) y ahí corroboraron que mi perro no tenía nada de eso, había dejado de comer por una infección en un diente 🫠, se lo sacaron con Ana Martinez (odontóloga) y volvió a ser la misma 🥰. Lo peor fue que yo nunca quise llevarla a esta veterinaria Mascotas El Polo 😩. Sino a EL POLOVET de el Dr. ASCENCIO que también se encuentra en Av. El Polo. Terrible experiencia, pasé un diciembre muy triste por esta confusión, y el dueño miente con total descaro al igual que sus ayudantes supuestos veterinarios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi experiencia fue terrible, llevé a mi perro porque no quería comer ni tomar agua, le hicieron una \"escografía\" y exámenes de sangre, y me dijeron que tenía pancreatitis muy grave, que el hígado estaba inflamado terriblemente además de varias cosas inventadas, por ultimo me dijeron  que había que internarla y quedarse en observación 🙄😞. Felizmente opté por llevarla un buen lugar de eco grafías (Ecovet del Dr. Martinez en Surquillo) y ahí corroboraron que mi perro no tenía nada de eso, había dejado de comer por una infección en un diente 🫠, se lo sacaron con Ana Martinez (odontóloga) y volvió a ser la misma 🥰. Lo peor fue que yo nunca quise llevarla a esta veterinaria Mascotas El Polo 😩. Sino a EL POLOVET de el Dr. ASCENCIO que también se encuentra en Av. El Polo. Terrible experiencia, pasé un diciembre muy triste por esta confusión, y el dueño miente con total descaro al igual que sus ayudantes supuestos veterinarios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea palcas",
+    "uri": "https://www.google.com/maps/contrib/112740384572209046117/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHktKZw91N5FaR4W2mXtiJUISGz9vZeXfFPlS8uymoqeyF6w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-03T18:39:59.756274641Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWU2VWUjRjVk5PUzFZMVYyNWljelUzV25WaFExRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWU2VWUjRjVk5PUzFZMVYyNWljelUzV25WaFExRRAB!2m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzeXYyeXN3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "No les recomiendo esta veterinaria. Mandé a mi perrita a que le hagan un corte estilo cachorrito (en este estilo se le rebaja el pelo, ya antes me lo han hecho ) me la dejaron completamente mochada, le volaron todos sus bigotitos (para un perrito sus bigotitos son muy importantes porque hacen que puedan orientarse muy aparte que es parte de sus sentidos) y para colmo le dejaron zonas con la piel completamente expuesta. No me dieron ninguna explicación pertinente. Ella llegó muy nerviosa a la casa, sólo quería estar conmigo. Me parece que el trato a las mascotas es de lo peor.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No les recomiendo esta veterinaria. Mandé a mi perrita a que le hagan un corte estilo cachorrito (en este estilo se le rebaja el pelo, ya antes me lo han hecho ) me la dejaron completamente mochada, le volaron todos sus bigotitos (para un perrito sus bigotitos son muy importantes porque hacen que puedan orientarse muy aparte que es parte de sus sentidos) y para colmo le dejaron zonas con la piel completamente expuesta. No me dieron ninguna explicación pertinente. Ella llegó muy nerviosa a la casa, sólo quería estar conmigo. Me parece que el trato a las mascotas es de lo peor.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Micaela Panizo Putnam",
+    "uri": "https://www.google.com/maps/contrib/104092110451390491414/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXShsGMutaZNwG-0l3Ko8S6fRMVtJQVTnpbyx2boHC5yEmr7Zk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-04T15:36:00.310752Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzeXYyeXN3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzeXYyeXN3RRAB!2m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taQk5WVm1WVnBCTmtOUVpsQkpSVU5NWTJwalkyYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Buena atención, buen cuidado con las mascotas y precios razonables.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención, buen cuidado con las mascotas y precios razonables.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Christian del pozo",
+    "uri": "https://www.google.com/maps/contrib/116774464754209399113/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s128-c0x00000000-cc-rp-mo-ba8"
+   },
+   "publishTime": "2025-07-06T16:53:28.124892399Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taQk5WVm1WVnBCTmtOUVpsQkpSVU5NWTJwalkyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taQk5WVm1WVnBCTmtOUVpsQkpSVU5NWTJwalkyYxAB!2m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNlIzQmtSekl4VmxKU1pHSkdaMVp4VG1kb1FVRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es el lugar perfecto para el cuidado de los perritos y tiene una muy buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es el lugar perfecto para el cuidado de los perritos y tiene una muy buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fredy Ccoyllo tarqui",
+    "uri": "https://www.google.com/maps/contrib/109339614369126415112/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNg6vWucY-cdcDBZG99vvhb4K-dmjCfs8fWbNcHPX1uJ9RL60=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-07T21:13:18.685706667Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkNlIzQmtSekl4VmxKU1pHSkdaMVp4VG1kb1FVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkNlIzQmtSekl4VmxKU1pHSkdaMVp4VG1kb1FVRRAB!2m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMbCPdh3D2OU7Kxe5NPBQgaBVJoxzJGJQsN73hm-Wz_T3uhmH0WeGgIQzQbgSKzjNTQI0ZFpmw-Ue5W5ABXN7uPNoPfCVhrJF0wGEkYtRp2W7CXalvPhBI2gFzbAZ214X2PDTCbrpShJsMj3c8yopyVtiIs0uHxOKh8v0f642mh9PiaYdehbFr82IsKc3_jZzPzoEezxCNZjKq6RCPyhAA5cjpVuNnfimu5blBnGYUSkAduZbHO1cVhBgfQNdDP6hMS8RhojZ3yKHZqIyz0xFWTsovedmkXggsKdaXUF2E9d91wExJtev2rAQyq98qf6ng9o3dYPZ7aQdLlXGPuMdNM1udSpIybdSJpTyVOpeSSd7x63rMHbd_SV_XigrS3bKNgdvbuIKzeaCRWa6gjLYfT7BChcIdOAI0HvgpAo4QnjoZE0Jk6UXtu8GZ1CAA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDx8WAfQPlRDLQ_GurnkxH5&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDx8WAfQPlRDLQ_GurnkxH5!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMaVbmW-SHI8EyLiXax3gKO6cuisKNm4x489B9XP98Vfz_md9tEC8-TYtxwdUYLXksZzZzIosepu36ThjpWD-i_LApn64SxaU-NYTHX2HM5obaCTW4kyhtOZZoBwAvNzWcOqi-tLPViqT-b64rYpJU1vcFPnVnoi9RmeotLRJ3x2i_8tYTcC46-UHyg6BAMrlTNqQsyLKkJ5PbatgtveOjNXukZA3IFQNePzu6U_DJrIAxN0plZ24o7UBTvYxCqkOanl88tggIv_kK6dIKuvxE62au22enQmVYsBC3k5fJ6nNAC4Xy_w47zCnGNVm4t125byDRlA7slFh2laPpbuu1RC9CTvEuXs-CVGQJUv9LtVt_V0u9-8aJbaXooyXMYdmK4IkrmmyadeiHv4hMNsDNcGPzUYUg8_PkUMNR30L3xrthPyI8fz_mYWhuGo640X",
+   "widthPx": 3365,
+   "heightPx": 1246,
+   "authorAttributions": [
+    {
+     "displayName": "CLINICA VETERINARIA MASCOTAS EL POLO",
+     "uri": "https://maps.google.com/maps/contrib/112243464186065002609",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZvszof3_-h3a37_XMyWv4fhtXsMR7AM_rCUx8qBGr3dlTlQnw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBHTgAfutsATjrj2Fmzsp0i&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBHTgAfutsATjrj2Fmzsp0i!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMZUAcugfSNtDbG0U1UfS6R_6JR-wOCpYXXfGTf7tj1-Mhhr9LN9AmhwdmoH5oZ5FiPBR_iyL3bJBjnD1zGHN0eFDD37ZsBBcXMi9_aM-fzfyscNkNEJXBnmL31CRg284GISn_Qu5-kFarYzHBJxzVBYQrPVgwMvv8MsO4cKpmYnq1zdtjlCZmilJg57TQwmRrw1lNt56H9hQsIePP2O1CpFnDRqjq-QbNuSdbXmwNCBydv3rdG8U4_yMO0itms68Wd4-hyCoMLOr5UpSS2FrRuw2HAQHELddkOhigHSlFAt3IsB3s0t5QkkCIkszCHHi5xcUsqMHJWquaFFW18RWOBGv1VukLwJxLWytZxloSA2S-fkSpm4W6h2Q9QUsuRZPLIhBT-QZPkts6-nruAK2owftNhwHVD1JW5Wz0IA2EKnYRQa",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "PATTO FLORES",
+     "uri": "https://maps.google.com/maps/contrib/117018204717090829125",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_UFNdHKiJlLDuWQg0AMP5SN9kpffS44sCS_I3BCO2OXGSxS5vUA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcgdCv-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcgdCv-AE!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMZszhgHS-aEjnuocPKUfK5kc2hCy-L1qLtv7YWUiWujOHQFl8ORaz0b_YedgY7V95qKPwWsXSRVuQUhp4bzhQoUDSW9HvPe9jpky2h4DHYW6N_IZ_lCsXFommgWwBNnChW7uA2zMjt8WJ6PkBBhumalrFBbqMeOeq-cmkF3DuU0JWR6oU2i0fL4C_Ui5aGtTn1wCsDOoQYmHUCoiHPn9wbAdBY2BN3kO2KaRdftrvIBTrqTvsaeE8p-c-1eI_mRRcF0JHY9xtqPkI3rnWEvUXLojms3hD8zxdOXL6yQDWxbhukwQlWGYSM6zu4gHnhMHv4RrKRPzwhvQQR9SdeDLsiMGsVgRJYphuAHSKeJRewAQ3PU4BwFnFPF7HJ48PJp6gZs2o_k5STLO3vr8taXuRvpPSaNtwXqVcqJZoPPGFtYzGQa",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Micaela Panizo Putnam",
+     "uri": "https://maps.google.com/maps/contrib/104092110451390491414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXShsGMutaZNwG-0l3Ko8S6fRMVtJQVTnpbyx2boHC5yEmr7Zk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC3yv2yiwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3yv2yiwE!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMaSnh-o_THkwJ8FnbW3jsu2fiKOWIsniGjCyK7bzzXDlObGvMpAh7tnwTPOJIl6FmXoxQZMF6bV6LaG9EDUcMGyCNJ0tCnwNIH1ZZt2gnb_SaXoyl1kZyKCaPVCTSdFtGpBzz4QnEpozoZ-yJ_ISrK3WAgFRzy9bdxctVYLsjRwxeqwE9u3_TO9gsipu7Cl4vh0z4LB4exDUgSGwYPZ12tCfEAMWi11qSbYljCC6JKyGG9VVEF14vPQzDr7k8xJWtYppzj8dwuHUTNcXfp6zN-nu3mg58eA4cH5wJjoW_EPExWAudk5Po3dON6MfxAAe1DmucXyDAwS5AQuiK8xmnzahpv-mENDGpJSVl6lBLXQxsa145b4KEUANWNrROG4BZ9EkdlTp-mdk6F8IE5Jd7KLp2RZVoMvvMZIbaVxRUAcXX1WEFHNqoCC7ufRNjWr",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD487Hn0Oc6JpmfZBDN107k&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD487Hn0Oc6JpmfZBDN107k!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMbFEl_TPoDzCjGKBZgJbxdjaOfjCT_12ewJqdY9UkNIe7W1QNntF9gjdzQ1jPMe8PrGoNpLqucpeyhqjwtjSOX_8HKa6yy-wwN-nzFz3Ig5oA-rWUaRWlYiTGSpUqUf6ppQxQro2p3jz-Nm_0xrZDb-AqDF9AaFn8VRtgZOJxfrduTnXyO-lYh_6sz5Elm9OfiO-BcCdu07HXd8XfKWs_i7Z_RHaB433KCZY9VD3UqxLl0f4Ex66Uoi0hno8JVMpTMOq9HmxSchvAUjhfVqLC3ho73U9V89u9_esP0iR-S6DvFq7xbqHQJEFQs4dNtYRoyN5gHPvTs69DfViKWS5jw7c0gzDutN1yAmKYGcRqamcmLbJV2U_0SRYQpc5kjfdm72-MRxvOUSSwGqUj3YRUW1iPrUdN8P83Bf0wbYQv7bYhEiOqTiipb7-TqAAA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAoNr-zelrJnEIXJkLiTc0p&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAoNr-zelrJnEIXJkLiTc0p!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMb8jeQm3NbIV2qkXY_ta1uk9VHFEC_VHOCdLL9j1D0CNheEX3Jb5yXpAnNK3YlEqFTj716PITCCM8g7frHjeBvK0tnxh27YW2xVSKfDAuVEAQVETQ5AFqpuGbDJTly-P4inYzuAioDBrXu4Hppq9oJuiB59mNlP1Z8Lh0xnwIYOqk_qzWKLb3m8dO7CB3Rx4Q4QAwQTfmJDm1Iij8XAudFH1QR9y-7UvN_MJeXt5pojxsciclgGxxFPqlD-tL1dNnaChJ3v-nA_tQEh45Qlk8HlB1DSa4jNS5_2LNTwMp8TIhkG4Y1zPC2lJnimwTQlie9EZgebOWIOp4x8vznVXYySwYRilXMv3i2fKQVOQLN8kb0MP2LMcNI84U3zDbLpT0p_nq3kziFticFTdpL-_RWUJqzQUmyO9CIb4BAoIL6xDA3Qf4qoStuBEAilGjZG",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian del pozo",
+     "uri": "https://maps.google.com/maps/contrib/116774464754209399113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCbL5bJFiAEL3a8Sp7-81kb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCbL5bJFiAEL3a8Sp7-81kb!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMaHpKFCN98IkYXrARFb46fLAYg2Z1ajFm77jC4fX1cUIj3av3aSmiu0v4qpgcF4yCkXuCy5d3L_D4Fjf_LPm9qdMoPZuve7-J2M77h0cjd4XscwPoXJ2X9aVpUgOiGAM96S_B0Tj_WKoRrgj9b_-OzDv7peoqBannus54QKFCFq5hZ7jDTvHL1_gr4HMwiEJHfRF4JExGb5nKefxmwVSZIceuGsJlpy4Fmi902sKPy1sKjPLvgZBPtcHBu1siG7abqu0qx3UENx5_hNOVoH19ThM4yo5IS12xOAwbdFH08jauEM9vTLGdjpOY3_p32dBj2UOrA6qzrqDWLpzoDodljCiyxejoyPk66Gi4BKoZNZE_feW3KVy-f--alsoK0IQIYTAFGcmwbizbhM7kaSPYZEzcqgrcBVId8370oTi5tfdNvN",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Alfredo Alejandro López Calderón",
+     "uri": "https://maps.google.com/maps/contrib/104828330343929336801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcNAK0uf4t84lv7cV-9_rVPR3-My9S_ChzMzCYWbXQunxcdy3d=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaso3H2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaso3H2wE!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMYPDj_vfRNAcF0RTZUgDhwHLzLmnlKneUV6QSDbGbxSKHS-w98fo2oP5DjSqY3xgGBnLMGZHFMbT5PQCCbE1Qxi5qXfoWe-KFPymgK8fPIjULc3fkfgjmQrDMXx-BigjZ1GiHdw3TrONY7rpPMZN_iOCfQIeTyyVSF1sSYKuGrAAqjLyqp4tgangQzGm8028fIbTXyd39zaT9QrPN4gcn96j0l4gIDVDho0qOfidtL3JpUD5cRllmUZWr9Hl_qhPNYMt9EWDxqpuOeQU8A4BtQnWe93vCvDxeFD7S2R8eVkrc0lBjujl7cZR9LWlJOFxP6q4aKYV5QL4Q8dRbpCBacXZeQ9KP-5AKaBjIhgd6ObZLXR2BHnngnyJKDcuf_7YasAf700THzQX0RAwDneDfmhwSZQ5x-9hT3rbNGCRyY",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "PAUL TABOADA",
+     "uri": "https://maps.google.com/maps/contrib/101478549875244977643",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHiKS0vnp_xCY-eDwkYVsvYeitzYSmobQkWadofIhQ74gGTA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICymobGCw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICymobGCw!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  },
+  {
+   "name": "places/ChIJVxN1Q5jHBZER5nXTn7uQQqk/photos/Aa-ngMZyMtHmGAix4JWXNIRDD33WwA79G4rbWbf4aVdm_B6CnptzU9f2PpVmlxgzs8I8F52EnhhiMV9BO3CmHQJko6-x8DhQWIoshY4_nxKxhhdWIrL_ibMGTqc8xn5c8Z2TOVOy2kHEBTfM0SYKnrAUN7KjLux8amoUv8FEPcGNwyMNN24JOLeubcS4tb2OpgfjyS-WXdTmxZb3QKJmHweexGuJ7F0_gUYbmee3DQta9A3FHTVZkF-RUcIEDTK38dDMMkdqA1Qit0FOi6KzKqN2oVKJz2U-htgQxuyr-UgxGPFLjLpEc5Dl1K59p9G6DeNDfQo4pqepuw9fE_twyZ2Tv9Zzu7-U0JA9WQljPSJMre-G4cQRjvzG48E0F0vVoyMQzahrwmBJ5drdHgrohTEb7B3V3XUgIq2lt_t7JxaaCh8Eig",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Micaela Panizo Putnam",
+     "uri": "https://maps.google.com/maps/contrib/104092110451390491414",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXShsGMutaZNwG-0l3Ko8S6fRMVtJQVTnpbyx2boHC5yEmr7Zk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC3yv2yCw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC3yv2yCw!2e10!4m2!3m1!1s0x9105c79843751357:0xa94290bb9fd375e6"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

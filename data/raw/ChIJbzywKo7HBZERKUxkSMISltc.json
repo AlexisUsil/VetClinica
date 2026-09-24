@@ -1,0 +1,582 @@
+{
+ "id": "ChIJbzywKo7HBZERKUxkSMISltc",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "957 800 631",
+ "internationalPhoneNumber": "+51 957 800 631",
+ "formattedAddress": "Av. Alfredo Benavides 4534 15007, lima 15007",
+ "addressComponents": [
+  {
+   "longText": "4534 15007",
+   "shortText": "4534 15007",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alfredo Benavides",
+   "shortText": "Av. Alfredo Benavides",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Vista Alegre",
+   "shortText": "Urb Vista Alegre",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "lima",
+   "shortText": "lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15007",
+   "shortText": "15007",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.128146599999999,
+  "longitude": -76.9893695
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=15534624590308592681&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.canesveterinariaperu.com/",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 44,
+ "displayName": {
+  "text": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-24T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Alfredo Benavides 4534 15007, lima",
+ "reviews": [
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214SFZ6WnNiWGxtUlhCaFFVRlBUakJsWTNCbVdHYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi choco el perro de mi papá por un problema con su piel que nadie más podía cuidarlo, lo primero que me tope fue una veterinaria muy muy bien cuidada hermosa, y empezó así lo bueno, la dra Pamela muy profesional y amable (creó que la veterinaria más amable que he visto en Lima) sus palabras serias y acertadas, sus precios acorde a lo que da, y su línea  de productos magistrales poco había visto asi en casi todo el Perú se encarga de todo. Ya han pasado unos días desde que lo lleve y chocó ha mejorado.\nMuchas gracias Canes por ayudarme con los problemas del choco.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi choco el perro de mi papá por un problema con su piel que nadie más podía cuidarlo, lo primero que me tope fue una veterinaria muy muy bien cuidada hermosa, y empezó así lo bueno, la dra Pamela muy profesional y amable (creó que la veterinaria más amable que he visto en Lima) sus palabras serias y acertadas, sus precios acorde a lo que da, y su línea  de productos magistrales poco había visto asi en casi todo el Perú se encarga de todo. Ya han pasado unos días desde que lo lleve y chocó ha mejorado.\nMuchas gracias Canes por ayudarme con los problemas del choco.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carlos Eduardo Ravello Joo",
+    "uri": "https://www.google.com/maps/contrib/110203999626075359169/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrIAaOp3NsfZjtfRa92U3EHcANkKWSXGZCP1es7XyXZa9t7YqZ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-03-23T18:20:23.261757040Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214SFZ6WnNiWGxtUlhCaFFVRlBUakJsWTNCbVdHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214SFZ6WnNiWGxtUlhCaFFVRlBUakJsWTNCbVdHYxAB!2m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMFN6TnRRVk5CWTBSTU9VbENYelZyWkZsS1pFRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy profesionales!! Excelente trato, vieron a mi perrita desde peque y el trato siempre ha sido super dulce con ella, y siempre han atinado con las cosas que ha podido tener. Recomiendo al 100% a la doctora Pamela.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy profesionales!! Excelente trato, vieron a mi perrita desde peque y el trato siempre ha sido super dulce con ella, y siempre han atinado con las cosas que ha podido tener. Recomiendo al 100% a la doctora Pamela.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariel",
+    "uri": "https://www.google.com/maps/contrib/106680570696646077314/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAqJRO6HMbPuR5q9Um5-7pt1uK-FHRpwFJiC7oJZLmta1Layg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-30T03:07:53.831649766Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMFN6TnRRVk5CWTBSTU9VbENYelZyWkZsS1pFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMFN6TnRRVk5CWTBSTU9VbENYelZyWkZsS1pFRRAB!2m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUlNFazRTMk5QU1hCdlpFRlFURFIwWkhWa1pIYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "El análisis de piel estubo rápido y acertado mi perrito está bien ahora,lo recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El análisis de piel estubo rápido y acertado mi perrito está bien ahora,lo recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carmen Sánchez",
+    "uri": "https://www.google.com/maps/contrib/116039785893927527361/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhTdEmG5N94h7ZsOMl9-cs9Isegvl8keHIUFU6MStdJ4B_EA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-26T17:22:07.148659013Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsUlNFazRTMk5QU1hCdlpFRlFURFIwWkhWa1pIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUlNFazRTMk5QU1hCdlpFRlFURFIwWkhWa1pIYxAB!2m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQc0pPOENBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Mi experiencia con la veterinaria fue muy buena, la doctora fue súper amable y me explico detalladamente lo que tenía mi perrita Tamy.\nMi Tamy sufría de alergias, se rascaba constantemente y se hacia heridas, gracias al tratamiento de la doctora ahora ella vive sin estrés y feliz , también le cambio la dieta y mi Tamy esta más que feliz comiendo como reina jajaja.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi experiencia con la veterinaria fue muy buena, la doctora fue súper amable y me explico detalladamente lo que tenía mi perrita Tamy.\nMi Tamy sufría de alergias, se rascaba constantemente y se hacia heridas, gracias al tratamiento de la doctora ahora ella vive sin estrés y feliz , también le cambio la dieta y mi Tamy esta más que feliz comiendo como reina jajaja.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Chumpitaz",
+    "uri": "https://www.google.com/maps/contrib/114685611105277003250/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-l_mPl1fybZRTg6LI9qbYO7qREeDdkqfKOQTs7snvueeYnjI=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-20T23:08:03.900283Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNQc0pPOENBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNQc0pPOENBEAE!2m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoM2ZxT3V3RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "PÉSIMO SERVICIO. Llevé a mi perro a que lo bañen y como tuvieron dificultades para cortarle las uñas me hicieron cortarselas a mí. La siguiente vez que fui directamente rehusaron brindarme el servicio cuando la encargada de los baños vio y reconoció a mi perro. Esto solamente muestra la enorme falta de profesionalismo y seriedad del servicio. La persona que baña los animales claramente no tiene las habilidades necesarias para esto. No quisieron atender a mi perro por su incompetencia. Jamás volvería y no recomiendo para nada. Pésimo trato al cliente,en ningún otro lugar me habían tratado así. Pésimo servicio simplemente,no vayan.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "PÉSIMO SERVICIO. Llevé a mi perro a que lo bañen y como tuvieron dificultades para cortarle las uñas me hicieron cortarselas a mí. La siguiente vez que fui directamente rehusaron brindarme el servicio cuando la encargada de los baños vio y reconoció a mi perro. Esto solamente muestra la enorme falta de profesionalismo y seriedad del servicio. La persona que baña los animales claramente no tiene las habilidades necesarias para esto. No quisieron atender a mi perro por su incompetencia. Jamás volvería y no recomiendo para nada. Pésimo trato al cliente,en ningún otro lugar me habían tratado así. Pésimo servicio simplemente,no vayan.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Faviana Mele",
+    "uri": "https://www.google.com/maps/contrib/101059507403869958499/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxbGYgrIGxq8djgFgLuM505aG6nxuF1YfIEcwjH4DW411-MfBd=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-20T03:03:28.975320Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoM2ZxT3V3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoM2ZxT3V3RRAB!2m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMas1qcvLBWKw_uZByGUsd8sTXzvNgemiN7llnP37CXtOGXJ1LgvSDWacZ6J7oTA3lYVbYMAGC5RIKTyBnjA9gUaWJlHw4VMASrd-vcZ78LLSONBNHfiU6GwLWpm6THDEYqHs_Xqcxap73H5KstjXygMyN0FQ_6Gc8ArFfFItmqOl_9Ej3pJE_znbEcm0xMbjpj07X4LpspAHflkRpulF3-06P1wOfa-nIk_mxw6KhFJ7RoB5DZ11uyB1QTuuMdYENijI_0NHdRJ1qsxvbHp0hc2SJ-S1fjAXOozbeCHop0L8uxd1t2Bc20ZpVSYB_7HkDCSwLESk3w2U8Jcx30xDcN9zWfXzL8uGQTKVOOyphXDQEWM30CVcRbV5LSmYcdsIGwuQauj2eIOwmFstND1qrcM1747aZM_Mn_zagvaXf9l-GjE",
+   "widthPx": 2698,
+   "heightPx": 3656,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDarcTIuAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDarcTIuAE!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMb7EQikZR8tgLrBeYwHgdthltsaXn3zxeF-n-9cRlRTWbyK15eQbwv0hsMbZyk8oagyGmYD2VsC-fG0I2vskXA_U0LTtARX0pRTa3pHitWRis2jeIuYw9gJyfwswyatGKM_4YAuA_tjg-3J2-A4_08NEEI3-VxOYHgJ8ahjppTBMKMYYMKlbU9F6p4u_QlZn04pkRYTRs1BjxLFEr2w2ud_QhZGgLwDTtkGD6ocLc6oQIykCgtabM0Ew6Cdwqs-LvDgBuT6gkgRZckdlDIjc9NDmAq7ZxOBKYj9ahe95cSrn4JZUep9u6un1ibxtEGpWKQKKM7dtvvgWXxq1E2hSVONXC4Q40TuKOen2IXam0HLrSJduep4uu-IgHe6yuAvALSOKgUwoKYXJ2gotNeTUWvksPD6ObvF40zRrbulcyHmwZ-O",
+   "widthPx": 1600,
+   "heightPx": 1094,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9-teUuQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9-teUuQE!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMY4TnCr_tQU_jqMH69oSiKv_b_lEPuXG9wKa5LiISW8xz7IrRvX0x44vIsx-pSDxtgqaIkDmRrq63ir42eVaYjKKOcnnoeBlSjumxZdy-gIvzxL5UbOl0ja-AJUkH2bnrYBHVPRAelzWkeR2QvJqPWJ3_YiG5_Xl9wsvvUkepEl3rQO0yOWGeVkcSVVwBLMQS4GCA_ifxc1IY_wD9CE3sK5T82WuDRktUYwWr_qdsvENNldvlMcUBRcSOC0xWGV6dRRB2i1U0Xg2O7V7CidHVfPQRxUV7JAVQw8Qh9zZ9aXfVx2zsJecS_CWVZjKh-vufcmbLkT0FaUS7QDXnPQ3ko7kSONpFVLIsNwaTzaQKYJZ_b1cnaHdwtY4MOTxFaBnlVeVhq81qt08OXA0z64q8oLbErwucHEgF7-kzL3EJFxxg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDarbTAKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDarbTAKg!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMZrKHmPg_dze9b7c_6Z-K7moFWVsUf6XCRD5OGIbxnhFv8cq5G1Jh-qc2MBrfPikXplnGg9e9lbLVwHo-dPAKhfItdlnPKaHEIjGpdh8mng3AiYBl_AVzo2TSnWjZW8iqVHO9xGt3T2BFdoYHLKin9ztF_sA5dzHZZ-QQ8FnSe4ORd35jM8N5GD7vmqr0P638vruf2YS67L-rq1Ha4NSqF9ZpyGiTeNI5gM3lZNmU15qCa0GdjNezrWYvdtiBxy2D8raSxxqmz2C3_8bEmAD07ukVmAo4Vxl0jH2U0fBGL4hLM4WRKipiF7nGl0J_oirTp5_UaCKWKWn2jswNlqiF7ZT-YaCI3cWEtPcu_lhepRfhTsivlAxNav0SJCmsL9BdHdJPIUPSB_Sd--ud0UeRSi23YEsHlvDUuwEmxWx3O_XQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDardSlFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDardSlFg!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMYLLW4Ac0AQ3MQjEcMQbeMVs6MM3rERRa8YB69dXJPPUCSTXeHxSpMERmC3pfdFBO5sIO3tDmMG_I1_Qxm7JQDldtXQ89o79Yf1ZpX0E5YCfzmP0KpkzC5jJr-feLIJTT6MTgbCxei8T3yOCosPEmyTLqW025XO-IJyYqqm9F8gT5888XLni51nn-xVeGFAoXvqE0Z6UvriqPwdESHlpRJfe0ZwUUw9XD8TBb44ow5tpA69slvf-LLDnjKgtUeSH4Kc52CY6fGRGzz12rQ_4gc0M2p7zOKhBaI8fmNNTtQHZv-CBTMXMdDXk5S4qSUC1XX-nlngLOWyKoA2axQYwoSB7OTVaAXuvIytuIPSqXRQL2NqV1hNMPMGOzoH2UGd_c56NQeR8jUiTFYxxa0F1Ihfp-zYVMp9wyukmCilfIIlRg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDardS3dw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDardS3dw!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMYQb_LffJ3jTiwFTjBl4YJ_udFIaqwk3_yzakonQw3ydon3oaZTtxSs5UXS9vwNNNiKS-6YwJ5HYKgZiTVe0UPyl5iW8mfsue6qD2Da44xqKMDexzPDN6U2T8H-jGsr4NMdMQiwytsInTuws4SsZnB4xr__oYx6yX_oi3o0BY4mGrLFDHsz6wqCDv36mTt5PyAY5d47T2LuI_tfRt0kF4M1kqDhA_bMG6Tr1UD2q8OGM4SKYqAKX8CJPVf5drXNn4BzCjW1kOljxd9va2aJhCEW0IgAu34W2mJDBiAurlU9eVYQ9u1jPkiJKma1OSV7k1hBcr3ZFmRNYMqBjSjSNfwskEg-uv4edFTutkk2DX5u5kFzr7AHK_diAYs4EYwws-35REuDVPAJnaiy2Dz7BCHKAeAuX_Xx_F1o05lJxTNQzyaGQ2sAXbDcLzAqNYZE",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Eduardo Ravello Joo",
+     "uri": "https://maps.google.com/maps/contrib/110203999626075359169",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrIAaOp3NsfZjtfRa92U3EHcANkKWSXGZCP1es7XyXZa9t7YqZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDtRzcDiOU0zDMdBn5cm4Pi&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDtRzcDiOU0zDMdBn5cm4Pi!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMbEJFfZyBdGFtM1T3uAeef_jdLXxm8h_h2I2JnvhzvoXhzlWSGmO2BnfeqORMV5UbeeqY08scWWhaAm-kcNxMAbTNwGoqFvXNTizpyqoUGfBB6U8ib2305Vkl09aRe-3Cg9FT3ffjDlZfFkXv7zJ0USomrTWAXrOU_wVbgPPpLtYaB4IHVae9KwhTpV9aq6Wx7TpRSI0YVmkMnrYYAvVzAPqETf_NGMyPlWR8tvW3Esi0iHL18KskgI2XYGVMipdn0nL0xsMspkY-uVQBjp9ESx-GHzE2ehMCIIN2Z9NweZ23JPMGr2wBjmqwCv2tcTINNPTxPOUf2nE_A4c3MXL3YnDJdPCZrVO8dhoPrzM16JYU94eIY3aKbQpB6wHut18OoLrZcUOqpVE0_YnhVYm1EWL6MiLlB4J_dJOsQQcnXcikY-",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Informes Clinica canes",
+     "uri": "https://maps.google.com/maps/contrib/108966576041009677678",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCn06aTOaeMQE2zlojCV68q3qNct3voqlzFcPp9PV0RfjiZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDChcCJ1AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDChcCJ1AE!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMYinzK8v08oY4GmdYZXalkf2nxFIhiAzOJrL2yamAWta6u6O1q-GsXQqPtksencK4cvKlS1T3q_UjA0RbFD0rUX4LquX5MRFS4bXfzXBSzP-AWAT4u5PjKSMK2MkhPmVq_GJmMgVOEguto2nTGk4sZ-NoTrIKvwYbXpJ-LMbsBxWvOYD6xKBb-XYxOY5ikc0nbRXqy4-7WkmLefu3j6BPJ6ifSm5IabXZGq2JPNXY8uYpyhSmrQ1QQZqeMjRVszUd58LAuHf-_37ddnY6CbnuM_uNgHOFUyQU5ckZKyi0m3KsNOL8TsOm1XlsQU5NBHGpIVIbacQinWCTYM-xQy0Qw7WcAUZvDqNxE2jM6fyW6l4eO_IO2pSMNrQKbVVfMtSK80iM8_bOdGLBymkHttSsuSaCsrEZgcYM7-F_eOV6c5NA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Informes Clinica canes",
+     "uri": "https://maps.google.com/maps/contrib/108966576041009677678",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCn06aTOaeMQE2zlojCV68q3qNct3voqlzFcPp9PV0RfjiZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDChcCJNA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDChcCJNA!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMYImGBwfO5TaVVQThNTGOv0hD27kwDAO6H-USeGRVGiMHRF2sYVl-stiDj0pz4l9uiUcmRjE1zddYf7wHOAcKkGU9pA74DfQ7oirru5oHlJZyUr40r4iM9NJ7UfFOWVfJXvvZiDa0QqvH1dZQU06-E_5hn35kc4VSf9aZR07Sbwd8I5qMFhCQ7pgeqB8YgTNHPeWo7x0q4jG2pCdu2W1X8GL7HXq93z7LmM9pMT-OPJB93Bvf49NtVHttfucRm3wGevWp4yVutccnZliNaHDq2sgZ5WeavtEMkvrA87SKbdVhMgxPJyM5_gLbXTF07Ks7Fnm41RjlNV2TsVzOlKB7F-qgn-1d4-Y-3s2w3cz2WVDv_hTKvLGKfOq9Tw4haD-FU_ZVbI8yruu84xlhZtnZFD5Tm-NbMjakOOuzHRXqJcmIZL",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Juana Esther Paredes Cano",
+     "uri": "https://maps.google.com/maps/contrib/109853541355519680012",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfYPC-9u7vQg2IyKw7nqmtNRYO9AQPuY84nDep5EgYkBK85bMi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDxt9LiwgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxt9LiwgE!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  },
+  {
+   "name": "places/ChIJbzywKo7HBZERKUxkSMISltc/photos/Aa-ngMadm49RfuIhyw_hQ_vMb61I-kdU49DbAcC4S8MRZWkiyTr1d6aJ4YgP3XzfKXPTQndSV1GoYdQLGiNDbvqVj_fm84Ve286Md84nAVzRp-dv7eEl39aYQy6vTgRFCCnC6XVV_SsYUL14xmBZ2jR0R0oC33NkcdIPqAG23mrNCHv_RoQihF1U3kZXGWqHNvtkQsZK0wTOTRePLui2YCRfy6JiGGEhaZJri-rlQbnzgAO3F1KwYs8k6czSSknhLQwsfsAik8yIgzBaczypa2GkKLQLbFOT_Cz8jPuhxjmFDX2zT3_3fLE2aG9FzCfqg66N08Q4xjwzHltu2kPHGo4u9lJaO2_jUH55ZJQyR6plgM2Hgb5kAdjduyOBhtdEX5vJZb2DtR5qKnTfbt2LkybYXaOK4P4-pYPqPq_hOTbqPE6827Qq",
+   "widthPx": 1606,
+   "heightPx": 2857,
+   "authorAttributions": [
+    {
+     "displayName": "CANES VETERINARIA SURCO Dermatología y Nutrición veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/103704535353699075956",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv4QAfN3Y8GnhWXtJudydOyI7-bXwhM0y9xfCe9Xw8Z7sv45CA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDardTdxAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDardTdxAE!2e10!4m2!3m1!1s0x9105c78e2ab03c6f:0xd79612c248644c29"
+  }
+ ]
+}

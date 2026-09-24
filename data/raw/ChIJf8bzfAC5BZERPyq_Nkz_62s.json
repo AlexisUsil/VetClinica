@@ -1,0 +1,615 @@
+{
+ "id": "ChIJf8bzfAC5BZERPyq_Nkz_62s",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "908 805 225",
+ "internationalPhoneNumber": "+51 908 805 225",
+ "formattedAddress": "Av. Alfredo Benavides 5125, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "5125",
+   "shortText": "5125",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alfredo Benavides",
+   "shortText": "Av. Alfredo Benavides",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb las Gardenias Etapa 1",
+   "shortText": "Urb las Gardenias Etapa 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.128866799999999,
+  "longitude": -76.98367329999999
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=7776589884386388543&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–21:00",
+   "martes: 8:00–21:00",
+   "miércoles: 8:00–21:00",
+   "jueves: 8:00–21:00",
+   "viernes: 8:00–21:00",
+   "sábado: 8:00–21:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 103,
+ "displayName": {
+  "text": "Clínica Veterinaria Exotic Kingdom",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–21:00",
+   "martes: 8:00–21:00",
+   "miércoles: 8:00–21:00",
+   "jueves: 8:00–21:00",
+   "viernes: 8:00–21:00",
+   "sábado: 8:00–21:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-24T02:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Alfredo Benavides 5125, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSV1ExWlJRVzFvVkdaalZEaG5NSEIyTlVGaGRVRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi conejo Camote el 25 de mayo (lo llevó mi papá en mi nombre, ya que yo estoy en el exterior). La Dra. Ariana descartó fiebre e infección y diagnosticó gases. Cuatro días después, otra veterinaria confirmó que sí tenía fiebre e infección.\n\nQuedé muy decepcionada con la atención. No le explicaron bien a mi papá qué estaba pasando, daba la impresión de que la doctora no tenía claridad sobre el diagnóstico. Antes de experimentar con medicamentos y recomendar internamientos costosos, lo correcto habría sido ser transparente con nosotros sobre sus dudas.\n\nAdemás nos cobraron S/ 80 en vez de S/ 50 y nos recetaron productos que no correspondían al cuadro de Camote.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi conejo Camote el 25 de mayo (lo llevó mi papá en mi nombre, ya que yo estoy en el exterior). La Dra. Ariana descartó fiebre e infección y diagnosticó gases. Cuatro días después, otra veterinaria confirmó que sí tenía fiebre e infección.\n\nQuedé muy decepcionada con la atención. No le explicaron bien a mi papá qué estaba pasando, daba la impresión de que la doctora no tenía claridad sobre el diagnóstico. Antes de experimentar con medicamentos y recomendar internamientos costosos, lo correcto habría sido ser transparente con nosotros sobre sus dudas.\n\nAdemás nos cobraron S/ 80 en vez de S/ 50 y nos recetaron productos que no correspondían al cuadro de Camote.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella Patrucco",
+    "uri": "https://www.google.com/maps/contrib/110063755413857540350/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnaERPiGqrewT8QalT26e6Nl8lS2VLXtUWKxxg72yUN8IeXDI=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-30T22:06:41.608464168Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSV1ExWlJRVzFvVkdaalZEaG5NSEIyTlVGaGRVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSV1ExWlJRVzFvVkdaalZEaG5NSEIyTlVGaGRVRRAB!2m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUE5TMW5iekpVTVZwb2RHaFNjazl3V1dKVVJXYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "La recomiendo 100%, la atención del Dr Jorge Coronado excepcional, venía ya mucho tiempo con problemas respiratorios en mis conejitos, sólo él pudo dar el tratamiento correcto ( por el número que tengo me dió las pautas .. otros doctores querían que saque cita para mis 18 conejos y ni siquiera tenian espacio en su agenda para atenderlos), Perlita está mejorando, los demás también, fué sensible a mi desesperación porque ya no sabía que más hacer, mucha calidez humana, amor y respeto por la vida animal, hace mucho no veía eso ..\nSI TIENES UNA MASCOTA EXÓTICA SIN DUDA ESTE ES EL LUGAR, UN LUGAR DONDE SERAN ATENDIDOS CON AMOR Y RESPETO!!\nGRACIAS DR JORGE ETERNAMENTE AGRADECIDA!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La recomiendo 100%, la atención del Dr Jorge Coronado excepcional, venía ya mucho tiempo con problemas respiratorios en mis conejitos, sólo él pudo dar el tratamiento correcto ( por el número que tengo me dió las pautas .. otros doctores querían que saque cita para mis 18 conejos y ni siquiera tenian espacio en su agenda para atenderlos), Perlita está mejorando, los demás también, fué sensible a mi desesperación porque ya no sabía que más hacer, mucha calidez humana, amor y respeto por la vida animal, hace mucho no veía eso ..\nSI TIENES UNA MASCOTA EXÓTICA SIN DUDA ESTE ES EL LUGAR, UN LUGAR DONDE SERAN ATENDIDOS CON AMOR Y RESPETO!!\nGRACIAS DR JORGE ETERNAMENTE AGRADECIDA!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Milagros Bravo",
+    "uri": "https://www.google.com/maps/contrib/101345085544637647117/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWerB1fXOkn7AouiVv3Ciod3yNvHjXRKRaRANvwElMkES0uKkYS=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-05-03T17:14:13.830784291Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwUE5TMW5iekpVTVZwb2RHaFNjazl3V1dKVVJXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwUE5TMW5iekpVTVZwb2RHaFNjazl3V1dKVVJXYxAB!2m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GZlNXRjFOazFaVW1zM1RVZzBaM1ZNUWpORFJsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "Me encontré un pichón que se había caído de su nido, lo llevé porque no sabía qué hacer y quería una consulta y me dijeron que estaban full y no lo podían atender. Me dieron cita para el día siguiente 9:30 am, les consulté por wsp como podía hacer para que pase la noche ya que yo no conozco nada de aves y me dijeron que solo me podían responder si pasaba por la consulta de 100 soles. Pésimo servicio, no les interesa nada los animales solo que les pagues. El pichón no sobrevivió la noche.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encontré un pichón que se había caído de su nido, lo llevé porque no sabía qué hacer y quería una consulta y me dijeron que estaban full y no lo podían atender. Me dieron cita para el día siguiente 9:30 am, les consulté por wsp como podía hacer para que pase la noche ya que yo no conozco nada de aves y me dijeron que solo me podían responder si pasaba por la consulta de 100 soles. Pésimo servicio, no les interesa nada los animales solo que les pagues. El pichón no sobrevivió la noche.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "camila salgado",
+    "uri": "https://www.google.com/maps/contrib/104359206379610304503/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZOLNBjmfP7rxWcyItZ5T7vNBy1SFCZtcTa3HuhPXbiUu_Lw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-29T14:51:56.345620467Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GZlNXRjFOazFaVW1zM1RVZzBaM1ZNUWpORFJsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GZlNXRjFOazFaVW1zM1RVZzBaM1ZNUWpORFJsRRAB!2m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaFdXaDRUaTFwWkhoRVdWZEJYMHBRVEVwMlZGRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Agradezco a la clínica por la atención a mi pequeña Liamster, desde que la llevé la trataron de la mejor manera. Pasó por una esterilización y ahora está en recuperación ❤️‍🩹",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Agradezco a la clínica por la atención a mi pequeña Liamster, desde que la llevé la trataron de la mejor manera. Pasó por una esterilización y ahora está en recuperación ❤️‍🩹",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Grecia Alvarez",
+    "uri": "https://www.google.com/maps/contrib/101715930185879788512/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV93O4SRRv0RDYHhlnLoG1uHQsTcJs4dUi57ahiWOeO5S-1wMA8Sg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-14T01:42:43.161410765Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkaFdXaDRUaTFwWkhoRVdWZEJYMHBRVEVwMlZGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkaFdXaDRUaTFwWkhoRVdWZEJYMHBRVEVwMlZGRRAB!2m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqaTZiVUdREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente clínica, te enseñan y detallan paso a paso los cuidados que deben tener con sus conejitos. Me atendió la Dra. Valera y me explicó con mucha paciencia cómo darle la medicina a mi conejito y absolvió mis consultas fuera del horario laboral. Se nota como quieren a los animalitos. Me sentí afortunada de encontrar una buena clínica, con una muy buena atención. La recomiendo al 100%",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente clínica, te enseñan y detallan paso a paso los cuidados que deben tener con sus conejitos. Me atendió la Dra. Valera y me explicó con mucha paciencia cómo darle la medicina a mi conejito y absolvió mis consultas fuera del horario laboral. Se nota como quieren a los animalitos. Me sentí afortunada de encontrar una buena clínica, con una muy buena atención. La recomiendo al 100%",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carla Passuni",
+    "uri": "https://www.google.com/maps/contrib/108655431824304650426/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrijxRa70aTTbo-FQJFtC8r5Bn0Fld6xXOZHgN8qJl0ig2MC_A4w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-25T18:04:03.279882Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqaTZiVUdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqaTZiVUdREAE!2m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMZzhHWI0oZ_JAmBz34OugW4EwGG3BslpSfVfIV9r3IwUCGXWmG8BpDMhDgHt99_mKDDWVcRXqP_NMJBSqvTCI3KANOlzGKbHmN05mhGbyZFovFGNukXWyALMB6XibAEXXOathkjCa-GFokM8ycJqM_fTMX4ycl81Shd6zN2VW25r5JzTCCtSoO2U7xKDl736ynjli0yC3krhnawihlQXdfrIrZHA_AyVdzcWOUJ1_tWJZBPOX2pUBJOGAZKEiAMAebsqwYKBrW5NyPFSA_KIJkn7_pNhr6KGtNcZ2C1f8F_1xO6ljORn_QT1WYhH6xGYlrUkAV_WqEbfShCQD8Gfg1HwnmAPAm5eMISFGx9hUmO6n7ZmCsN8O_wuc3cwFz3FF5zgeSAucfj4BE8s9YVDrYekMZdS0pHCgVBeGOu6QWhqg",
+   "widthPx": 3541,
+   "heightPx": 4722,
+   "authorAttributions": [
+    {
+     "displayName": "Michelle",
+     "uri": "https://maps.google.com/maps/contrib/110296829089572027749",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJXjwt2LS0-qTrDfG1obKtFMUwRW_xSUmKp71Nb5IbIJEu9sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBPMq8Gys3NCykvsbRQ0Tb5&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBPMq8Gys3NCykvsbRQ0Tb5!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMbUwHg3kFJxCIqhDIsGWd9mneEc6a3g4kJUd5n-nVP5kKFIVsOSLHJFSL8z5YECFmRWe5GnKia-ppJRbynCdaHozozwbkqs48S8t5sJ8I3gAZE2VADRvn3wSHEnbsNsrHH4mvNdpbguW-VmlCI1S1C8arF-6mTWADsuOSnWjgebmRR5evEr4kqXxaz1JOsBwPuF2L02fffOIGvDt8LFNdYeRAGCqrJh1EMy-sAUARn1EHgBDOYaihixqDX87tMhcOakn6KhfCXm6umsbxLXi1QkayveDewY1qGtyg5CuWd9xBYIRoiGVbSIQ4tQ58QPhjCcXiUzT-pA7RElf-NLMbUZa6e3KNOO4st-enZtALQNccfE0qoqSVFtvS_UwFatSV2dFS2bkKYpqe5wn-4KBQhzKyP4RDo",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Lezlie Paz",
+     "uri": "https://maps.google.com/maps/contrib/103301568280526017873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRonyMAtIjwzIj2fo2HlUuZ0dkKFuc57mxzA2GU5BrqBo2PLqo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDPspOh4QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPspOh4QE!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMZ2uaDTt3iXcxWAH-bILq7NI1aGsYvHZXJWGMPPuWreO5ImsfesIxuOi2kxb8KgoDK6HaMDUO8zCdvXHautSUwpoxEqH9oLuYnBGYPpJGZrE4fWzAHN76ptpnVY4gf42M1zyXXKqBBzxTAGFxijl93PL62xSpGWX4kSrUVK7prAHwI7STwh1F5bRG_WPFMYlQ5uCYx1xohEK3_IYpA6CjcQ3OMpurQfWQoDY3wp3LLMQxojwA3hkfTf6o1ydrXI5oiAQB34fG-o-gIlBZgSQ37sFlCdiisyO0HeTp96qvVAMUJ_VKyT0d8NsBoCVoJ0aOG5bHP0gGODAFwqDIbTwp0ExD8Osdws3_mEE5pz2D1e90Wno7ldTNR7uqa9rXGVArA8HTCXnH9qUnLz8KSo1sg6vio",
+   "widthPx": 3648,
+   "heightPx": 2736,
+   "authorAttributions": [
+    {
+     "displayName": "Biaggio Arbulú",
+     "uri": "https://maps.google.com/maps/contrib/109284156686349062802",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0_kx-tkrOmGm_o-vPFucK_sHINAIcSfxCy7r9J_NGLJfvvHeD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICjmq22eA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjmq22eA!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMY3oowcPo_xqaXqPHHtwQp4JG6Jde0vSmoLQ_hNs3e_OXaUA-DjfbeOh5KbrXrB9F5HyemYgvE8jaZNxTVx3P3aJ2R3FcOfw4iSN8uhtyEucRSdg48fqRdIT8_Z1RKLgjh0rtP7KTC2YZGd9syFGkUHMWXBV1swSNv58jjqmyOnjE4s0UZyHPGj-CYzmFn73j9c58In3QpQay_0VETRWKOfJ78G-GI7n40XruLSKdK5dsWTvepk3BhwVxtG07sConp_mvUGXuNrh1lFCngNNbAUPxdxfPFFLcGURFDFiH8NCL2TvYHXYEzqLxamXLNKspRtcZc2eEmuGCMtJacnaqIvD6StuYBf99wauxGD8MMv158dAX1204DZK-fhNfmDLl7ALho_KTIqMpkGv3fWXGR9Mg",
+   "widthPx": 4000,
+   "heightPx": 1800,
+   "authorAttributions": [
+    {
+     "displayName": "Alexandra Alvarez",
+     "uri": "https://maps.google.com/maps/contrib/108013674577351037258",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDy1dLmOOqe2Ouaz6XYxkxhY65cIqucRxImLzNZ9fFHpb0Fg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHy5fBaQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHy5fBaQ!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMb6tbTbQ--EKWpWGSXF3HYKFV1f0V-zJhG7_Q80sdDWkoavk6tRVzEBPOcGWezHR-FIpPLCEoe-lmjEXb9jN8MsUmyv8SgDY8LRBsgJqi-jutqCT_d-a7WBhjCtoEqsxw2WyYVczOo8kNQUc3VA1bdleCJNq3EAQ6-dZIOU8U3Yn41HWkvGOIIPg49izFf94A6S8MveecFDETbajv26isKETUQLdkvBgBFi69s1tBCBDcsywuxoP_7_4OjEWX8HAyy1NRdT9CZZTaSJ43ULyXrzQdUrMjM3pWgyD8xSVHov9arKXONTsOA5WpAUixVNMewrX-NqGOhQr7h5eb45C_MT2gADlSMB8Tyk2Liix3fNT7f93Uf0u0vEXDymhCGGyZ-zSKG_J2fHFHL8bhiwIBJhKu2d",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carla Passuni",
+     "uri": "https://maps.google.com/maps/contrib/108655431824304650426",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrijxRa70aTTbo-FQJFtC8r5Bn0Fld6xXOZHgN8qJl0ig2MC_A4w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICji6bU2QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICji6bU2QE!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMbeC7oNxEgw8ADJiUNngmlWSh0XXVmNOMBfzW2OsumaF3nWseIDLBD-zy8k0mkh57AxMoxMtblHZRHA5DSC6viHeAbWWooROzXtoij0IbB1wNCaorbAdS50rid1MQ6lIl4nghOLu5xRxNDB_Vk3B6smG-u61G4IAsPsCuwsFOaUraMxmEDu4yyzmGaMOacKf1iAAiskGN5jYdztsTQ2Gj93MEvTDvN_qieFoYGqouNvBps9L6Qnjoc-T2Rtgot_5BwasgsyyuWTMnKlS8qx-jjHO_3tJ3u0JotFEYRi5gAJZRoRy3xw6I1QT4ILUiknPb92ehTVUpIvJDENrr-Bij4xOh_czavwBuNV1hRa5sIcEZj_9EqVgQvuRe2ZPhR0yXbFGrcbMsbMbLFakkCA8tU9t82Q37v2mlOQrsrhgI-1",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Sol María Baldeón Almora",
+     "uri": "https://maps.google.com/maps/contrib/101280646611133704168",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpMesASFM16sALEt5aTSEk5_mBLRdZKkau8yT6TTAawDvLbFKn=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzqwM2LGgI674ADn4m&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzqwM2LGgI674ADn4m!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMYIKG4jBgZFpytibsiuo3uwUtvUl7MDwpbYveATZRQB_qAAt6cPedEPupkK1pqj7G0utnAUpvC4pFmZlr6CmUAU7EhTUD7dk4XQ3In2_zEzQ5bsJ313aGHKv7bXGvGPdLMHeakdKHmDKB38qtvQzZTOZj9HMoEfkp9TlBS2mIXUm58CEikoGJVY7j6bsyODvALHRsZml1WCw2uKBKt7Y9khwyqHYY0EGTdYOS41A6_mB2Aw7ExriWUWat2P_Wm60KA_GGWPc-UlsmNS8OCZaUaTi0vXzIiW6uHBooDs1gMJT3FcdxKCdY6icRbsgrbFnbYaSIFQpzPXQNI7sKNy3v38hyXxGYoK6d4UD5okjo8iary-q0BqIjQq492KulTUtaChuwUrztD048842NoZlrab7lDKU-5N3SxXuIAbEvl1",
+   "widthPx": 730,
+   "heightPx": 730,
+   "authorAttributions": [
+    {
+     "displayName": "Grecia Alvarez",
+     "uri": "https://maps.google.com/maps/contrib/101715930185879788512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV93O4SRRv0RDYHhlnLoG1uHQsTcJs4dUi57ahiWOeO5S-1wMA8Sg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCaulr417QEZRwh4HY3W-yz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCaulr417QEZRwh4HY3W-yz!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMbJh5kkmR5ABqO_KpRvu0G8rOnK9RjIii1PanODqq5uTi73WVUzkxb67CxuSc2d1PFF9MOQ_aVYtAGR3FefKzrpSmXMJRbCJRVcCdN3Aooh5pPezjYZIhFHWwMoswD0CrLhTRq79KODQKbgVBNvj5v9PGFQ8-zyEsYjaziMjIJD4yMVFmRBT3ivB_CZnvCc9fePyvvYO44jFUw9CeTnFAplSjFMbxWvgkVtmsfIfGbZyrP8xc6nxluaTiQ5tzTZMbTpZ564cTYADH_F-JcqWktuKAsnibkCiMeXpcKevwM-7G1dgUHnBbGG1Gf65D77sJaqccRCbH5EmKTyY4SsCHFeR_-txo5xCE7cnoajh63gGMowaOedqIgN2q-ZIJ-Nxz1VoymnC-aQQf7DG5e-w1DU7cE",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Katherinne Maza",
+     "uri": "https://maps.google.com/maps/contrib/100253083243594140589",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV55FPuYDbbSidZH3DTMnsKR54B2RrYA4YilABZGModyCR9JwVOqA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCIqObXDQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCIqObXDQ!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMZoKHgSewoKU6jDG3sBDsTF3jHOnf3sbsX3dx97WrPtYHmW4WmtkYBwPA07Y5ksTNUYGNk_kocfnGplXnNhbSakWKm7-KlQmMeUWAItK_OFQbG6x_Rlay0lAuZeG3eXVwSzKEnzB9KA9iUL-ypNdewd4FAfloaEUhDjpvIiY-NJjwTj7Zn_Q3bDMZDhTmP1IUgsXWTJ3eXLYXbsnrZuEiaQpApzGy1uulAW_ZKeUaHMzTutVu1gKCbS4iS4AJwz4AHmYR-2IJYlfltLU9_ZPRnv3r6kvjwsMgByqmAqC5oAwC48UbVOC7G9O2tftXdQf4HLnJnvs1fNvYpq5RhEKW2VHCov25uAWurL-3PR-jk8wpI2_DxL2OmaZua7c-PQ_MQaExg-dCeIRuIO2Jtab4_kjxSTMd0",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Maritza Cruz",
+     "uri": "https://maps.google.com/maps/contrib/106148077390882128885",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKchY-gn-Opt16cAaL3UjMtvEFlVxs4p5rX8mWNqmhYP9kvhA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDd6YHo6QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDd6YHo6QE!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  },
+  {
+   "name": "places/ChIJf8bzfAC5BZERPyq_Nkz_62s/photos/Aa-ngMYbnykj2-xPYJIALQbhxD-k7dUaz14o2VkWGnaGotDMqKypibNvSIfqy8fvzstprH_HNi505oaC5r71VscZdaEg1Ok38nD-dJpQoTBavugjuUGqUbhOrOFDXuJWQ5AV1jcPG50QBcFYsaByqwZp-38RNNduPEoT_-hbQ6feGmLBB_c4rWJD86BPlN9lXvqJtmWeEicJ5Msac5cCK1K-qOx72GZd08zg1C-zGryisAPpmv7tRY8wv1dgbx3_Hf6-4CZd1UT6fuOqwWRdnCO5zFlffzcpvFLeeGUytNwlr11NMiScffB8oUUf933bPaqfnQxJfVQMzfwFV-b-BAJS5gLWhNzf-rNTm7_uJmzygJKgVPqLgY-AkgOXWsEZzjczd0dnnJmsoyO8_vTJNDZNJ_faUWyW",
+   "widthPx": 3648,
+   "heightPx": 2736,
+   "authorAttributions": [
+    {
+     "displayName": "Biaggio Arbulú",
+     "uri": "https://maps.google.com/maps/contrib/109284156686349062802",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0_kx-tkrOmGm_o-vPFucK_sHINAIcSfxCy7r9J_NGLJfvvHeD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICjmq22uAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjmq22uAE!2e10!4m2!3m1!1s0x9105b9007cf3c67f:0x6bebff4c36bf2a3f"
+  }
+ ]
+}
