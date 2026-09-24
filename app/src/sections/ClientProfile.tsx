@@ -18,7 +18,6 @@ function Card({ title, icon, fields, children }: { title: string; icon: React.Re
     <Panel className="flex h-full flex-col gap-3 p-4 sm:p-5">
       <div className="flex items-center justify-between gap-2">
         <h4 className="flex min-w-0 items-center gap-2 text-sm font-semibold"><span className="grid size-7 shrink-0 place-items-center rounded-lg bg-teal-soft text-[#0F766E] [&>svg]:size-4">{icon}</span><span className="truncate">{title}</span></h4>
-        {est && <Pill tone="mid" title="Incluye valores estimados">est.</Pill>}
       </div>
       {children}
     </Panel>
