@@ -1,7 +1,7 @@
 import * as React from 'react'
 import NumberFlow, { type Format } from '@number-flow/react'
 import { useInView } from 'motion/react'
-import { Area, AreaChart, Bar, BarChart, Cell, ResponsiveContainer, YAxis } from 'recharts'
+import { Area, AreaChart, Bar, BarChart, Cell, ResponsiveContainer, Tooltip, YAxis } from 'recharts'
 import { ArrowDownRight, ArrowUpRight, Minus } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import { isNum } from '@/lib/format'
@@ -25,14 +25,25 @@ export function DeltaChip({ delta }: { delta: Delta }) {
   )
 }
 
-export interface SparkSpec { type: 'area' | 'bar'; data: number[]; highlight?: number | null; color?: string }
+export interface SparkSpec { type: 'area' | 'bar'; data: number[]; highlight?: number | null; color?: string; labels?: string[]; fmt?: (v: number) => string; unit?: string }
+function SparkTip({ active, payload, spec }: { active?: boolean; payload?: Array<{ payload: { i: number; v: number } }>; spec: SparkSpec }) {
+  if (!active || !payload?.length) return null
+  const { i, v } = payload[0].payload
+  const label = spec.labels?.[i]
+  return (
+    <div className="rounded-md border border-border bg-white px-2 py-1 text-xs shadow-md">
+      {label && <div className="text-muted-foreground">{label}</div>}
+      <div className="font-semibold tabular-nums text-foreground">{spec.fmt ? spec.fmt(v) : v.toLocaleString('es-PE')}{spec.unit || ''}</div>
+    </div>
+  )
+}
 export function Spark({ spec, height = 40 }: { spec: SparkSpec; height?: number }) {
   const data = spec.data.map((v, i) => ({ i, v: isNum(v) ? v : 0 }))
   const color = spec.color || 'var(--primary)'
   const gid = 'sg' + React.useId().replace(/[^a-zA-Z0-9]/g, '')
   if (!data.length) return null
   return (
-    <div style={{ height }} className="w-full" aria-hidden>
+    <div style={{ height }} className="w-full cursor-crosshair" aria-hidden>
       <ResponsiveContainer width="100%" height="100%" initialDimension={{ width: 120, height }}>
         {spec.type === 'area' ? (
           <AreaChart data={data} margin={{ top: 2, right: 0, bottom: 0, left: 0 }}>
@@ -43,11 +54,13 @@ export function Spark({ spec, height = 40 }: { spec: SparkSpec; height?: number 
               </linearGradient>
             </defs>
             <YAxis hide domain={[0, 'dataMax']} />
+            <Tooltip content={<SparkTip spec={spec} />} cursor={{ stroke: '#94A3B8', strokeDasharray: '3 3' }} isAnimationActive={false} />
             <Area type="monotone" dataKey="v" stroke={color} strokeWidth={1.75} fill={`url(#${gid})`} isAnimationActive={false} dot={false} />
           </AreaChart>
         ) : (
           <BarChart data={data} margin={{ top: 2, right: 0, bottom: 0, left: 0 }} barCategoryGap={3}>
             <YAxis hide domain={[0, 'dataMax']} />
+            <Tooltip content={<SparkTip spec={spec} />} cursor={{ fill: 'rgba(13,148,136,0.08)' }} isAnimationActive={false} />
             <Bar dataKey="v" radius={[2, 2, 0, 0]} isAnimationActive={false}>
               {data.map((_d, i) => <Cell key={i} fill={spec.highlight == null || spec.highlight === i ? color : '#CBD5E1'} />)}
             </Bar>

@@ -99,7 +99,10 @@ export function Hero({ S }: { S: Scope }) {
   const enriched = PLACES.filter(isEnriched).length
   const pend = componentsPending()
   const avgPct24 = G.count ? (100 * (G.count_24h || 0)) / G.count : null
-  const months = Object.entries(G.activity?.by_month || {}).sort(([a], [b]) => a.localeCompare(b)).map(([, v]) => v)
+  const monthEntries = Object.entries(G.activity?.by_month || {}).sort(([a], [b]) => a.localeCompare(b))
+  const months = monthEntries.map(([, v]) => v)
+  const monthLabels = monthEntries.map(([k]) => { const [y, m] = k.split('-'); return `${['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][Number(m) - 1]} ${y}` })
+  const distLabels = byRank.map(d => d ? shortD(d.district) : '')
   const scopeTxt = S.all ? 'en los 5 distritos' : `de ${fmtN(PLACES.length)} en total`
 
   return (
@@ -121,25 +124,25 @@ export function Hero({ S }: { S: Scope }) {
         <div className="grid auto-rows-fr gap-4 sm:grid-cols-2 lg:col-span-7">
           <Reveal delay={0.06} className="h-full">
             <KpiCard icon={<MapPin />} label="Clínicas mapeadas" value={S.count} sub={scopeTxt}
-              spark={{ type: 'bar', data: byRank.map(d => d?.count || 0), highlight: districtIdx }}
+              spark={{ type: 'bar', data: byRank.map(d => d?.count || 0), highlight: districtIdx, labels: distLabels, unit: ' clínicas' }}
               tag={<span className="text-[11px] text-muted-foreground">por distrito</span>} />
           </Reveal>
           <Reveal delay={0.12} className="h-full">
             <KpiCard icon={<Moon />} label="Atienden 24 horas" value={S.pct24} suffix="%" format={{ maximumFractionDigits: 0 }}
               delta={!S.all && isNum(S.pct24) && isNum(avgPct24) ? { v: S.pct24 - avgPct24, label: 'vs. total', goodWhen: 'down', fmt: v => fmtN(v, 0) + ' pp' } : { v: null, label: `${fmtN(S.n24)} clínicas con guardia` }}
-              spark={{ type: 'bar', data: byRank.map(d => d?.pct_24h || 0), highlight: districtIdx }} />
+              spark={{ type: 'bar', data: byRank.map(d => d?.pct_24h || 0), highlight: districtIdx, labels: distLabels, fmt: v => fmtN(v, 0) + '% atiende 24h' }} />
           </Reveal>
           <Reveal delay={0.18} className="h-full">
             <KpiCard icon={<Star />} label="Rating promedio" value={S.avgRating} format={{ minimumFractionDigits: 2, maximumFractionDigits: 2 }}
               delta={!S.all && isNum(S.avgRating) && isNum(G.avg_rating) ? { v: S.avgRating - G.avg_rating, label: 'vs. total', goodWhen: 'none', fmt: v => fmtN(v, 2) } : { v: null, label: `${fmtN(S.totalRev)} reseñas` }}
-              spark={{ type: 'area', data: months }}
+              spark={{ type: 'area', data: months, labels: monthLabels, unit: ' reseñas' }}
               tag={<span className="text-[11px] text-muted-foreground">reseñas/mes</span>} />
           </Reveal>
           <Reveal delay={0.24} className="h-full">
             <KpiCard icon={<Coins />} label="Ticket promedio" value={S.tickets.length ? Math.round(S.avgTicket as number) : null} prefix="S/" soft="En estimación"
               tag={<Pill tone="mid">estimado</Pill>}
               sub={TB.pub ? `solo ${fmtN(TB.pub)} precio${TB.pub === 1 ? '' : 's'} publicado${TB.pub === 1 ? '' : 's'}` : 'ningún precio publicado'}
-              spark={{ type: 'bar', data: byRank.map(d => d?.avg_ticket || 0), highlight: districtIdx }} />
+              spark={{ type: 'bar', data: byRank.map(d => d?.avg_ticket || 0), highlight: districtIdx, labels: distLabels, fmt: v => 'S/ ' + fmtN(v, 0) }} />
           </Reveal>
         </div>
       </div>
