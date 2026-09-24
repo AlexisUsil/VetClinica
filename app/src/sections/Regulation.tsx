@@ -17,7 +17,7 @@ export function Regulation({ S }: { S: Scope }) {
   }
   const fric = (f?: string | null) => <Pill tone={f === 'Baja' ? 'good' : f === 'Alta' ? 'bad' : f ? 'mid' : 'gray'}>{f ? `Fricción ${f.toLowerCase()}` : 'en curso'}</Pill>
   return (
-    <Section id="regulacion" n="08" eyebrow="Regulación municipal" title="¿Qué tan difícil es abrir en cada municipio?" insight={<Insight><Rich text={txt} /></Insight>}>
+    <Section id="regulacion" n="09" eyebrow="Regulación municipal" title="¿Qué tan difícil es abrir en cada municipio?" insight={<Insight><Rich text={txt} /></Insight>}>
       <Reveal>
         <Panel>
           <div className="overflow-x-auto">

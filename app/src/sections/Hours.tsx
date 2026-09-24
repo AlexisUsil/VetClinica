@@ -34,7 +34,7 @@ export function Hours({ S }: { S: Scope }) {
   const dsData = DS ? DS.idx.map((v, h) => ({ h, v: isNum(v) ? Math.round(v * 100) / 100 : null, dem: DS.dem[h], sup: DS.sup[h] })) : []
   const imax = DS ? Math.max(2, ...nums(DS.idx)) : 2
   return (
-    <Section id="horarios" n="06" eyebrow="Horarios y demanda" title="¿Cuándo hay menos clínicas abiertas?"
+    <Section id="horarios" n="07" eyebrow="Horarios y demanda" title="¿Cuándo hay menos clínicas abiertas?"
       insight={<Insight>{A ? <Rich text={`${f24 ? `Ojo: **${fmtN(f24)} “24h” de Google no lo son**. ` : ''}Entre las **${A.rangeTxt || '—'}** abren en promedio **${fmtN(A.lowAvg)} de ${fmtN(S.count)}** clínicas (${fmtPct(A.lowPct)}), frente a ${fmtN(A.peakV)} a las ${hh(A.peakH)}. El ${A.weakDay.toLowerCase()} es el día más flojo.`} /> : 'No hay datos de horarios para este alcance.'}</Insight>}>
       <Reveal>
         <Panel>

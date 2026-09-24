@@ -11,6 +11,7 @@ import { LegalDot } from '@/components/common/common'
 export const SECTIONS = [
   { id: 'mapa', l: 'Mapa' },
   { id: 'ranking', l: 'Ranking' },
+  { id: 'mercado', l: 'Mercado' },
   { id: 'huecos', l: 'Huecos' },
   { id: 'competencia', l: 'Competencia' },
   { id: 'numeros', l: 'Números' },

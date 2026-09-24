@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Crosshair, Layers, Target, X } from 'lucide-react'
+import { ChevronLeft, ChevronRight, Crosshair, Layers, Target, X } from 'lucide-react'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Sheet, SheetContent, SheetDescription, SheetTitle } from '@/components/ui/sheet'
@@ -99,14 +99,17 @@ function ZoneBadge({ n }: { n: number }) {
   return <span className="inline-grid size-6 place-items-center rounded-full bg-opp text-[11px] font-semibold text-white tabular-nums shadow-sm">{n}</span>
 }
 function BestZones({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: number) => void }) {
-  const [more, setMore] = React.useState(false)
+  const PAGE = 5
+  const [page, setPage] = React.useState(0)
   const ds = S.all ? RANK.map(byName).filter(Boolean) : [S.d].filter(Boolean)
   const all = ds.flatMap(d => (d!.best_cells || []).map((b, i) => ({ d: d!, b, i }))).filter(x => x.b)
-  const rows = S.all && !more ? all.filter(x => x.i === 0) : all
+  const pages = Math.max(1, Math.ceil(all.length / PAGE))
+  React.useEffect(() => { setPage(0) }, [S.district])
+  const pg = Math.min(page, pages - 1)
+  const rows = all.slice(pg * PAGE, pg * PAGE + PAGE)
   return (
     <Panel>
-      <CardHead title={S.all ? (more ? 'Las 3 mejores zonas de cada distrito' : 'La mejor zona de cada distrito') : `Las 3 mejores zonas de ${S.name}`} sub="Celdas de 400 m · score 0–100 · clic en Explorar para analizar el entorno"
-        action={S.all ? <Button variant="outline" size="sm" onClick={() => setMore(m => !m)}>{more ? 'Ver solo la mejor' : `Ver las ${all.length}`}</Button> : undefined} />
+      <CardHead title={S.all ? 'Las 3 mejores zonas de cada distrito' : `Las 3 mejores zonas de ${S.name}`} sub="Celdas de 400 m · score 0–100 · clic en Explorar para analizar el entorno" />
       <div className="mt-3 overflow-x-auto">
         <table className="w-full min-w-[620px] text-[13px]">
           <thead><tr className="border-y bg-muted/50 text-xs text-muted-foreground">
@@ -128,6 +131,16 @@ function BestZones({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: n
           </tbody>
         </table>
       </div>
+      {pages > 1 && (
+        <div className="flex flex-wrap items-center justify-between gap-3 border-t px-5 py-3 text-[13px]">
+          <span className="text-muted-foreground">Mostrando <b className="text-foreground tabular-nums">{fmtN(pg * PAGE + 1)}–{fmtN(Math.min(all.length, (pg + 1) * PAGE))}</b> de <b className="text-foreground tabular-nums">{fmtN(all.length)}</b></span>
+          <div className="flex items-center gap-2">
+            <Button variant="outline" size="sm" onClick={() => setPage(Math.max(0, pg - 1))} disabled={pg === 0} aria-label="Página anterior"><ChevronLeft />Anterior</Button>
+            <span className="tabular-nums text-muted-foreground">{fmtN(pg + 1)} de {fmtN(pages)}</span>
+            <Button variant="outline" size="sm" onClick={() => setPage(Math.min(pages - 1, pg + 1))} disabled={pg >= pages - 1} aria-label="Página siguiente">Siguiente<ChevronRight /></Button>
+          </div>
+        </div>
+      )}
     </Panel>
   )
 }

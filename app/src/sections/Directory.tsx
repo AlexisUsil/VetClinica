@@ -121,7 +121,7 @@ export function Directory({ S }: { S: Scope }) {
   const toggle = (id: string) => setOpen(s => { const n = new Set(s); if (n.has(id)) n.delete(id); else n.add(id); return n })
 
   return (
-    <Section id="directorio" n="09" eyebrow="Directorio completo" title="¿Quiénes son, uno por uno?"
+    <Section id="directorio" n="10" eyebrow="Directorio completo" title="¿Quiénes son, uno por uno?"
       insight={<Insight><Rich text={`${fmtN(S.P.length)} clínicas en ${S.label}: ${fmtN(hi)} con 4.5★ o más y **${fmtN(S.lowRated)} bajo 4.0**.${weakBig.length ? ` Candidata a perder clientes: **${weakBig[0].name}** (${fmtN(weakBig[0].rating, 1)}★, ${fmtN(weakBig[0].reviews_count)} reseñas).` : ''}`} /></Insight>}>
       <Reveal>
         <Panel>

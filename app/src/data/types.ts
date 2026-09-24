@@ -158,6 +158,20 @@ export interface Global {
 
 export interface GeoFeature { type: 'Feature'; properties: { district?: string }; geometry: { type: 'Polygon' | 'MultiPolygon'; coordinates: number[][][] | number[][][][] } }
 
+export interface MarketYear { year: number; euromonitor_pet_care?: number | null; total?: number | null; food?: number | null; vet?: number | null; products?: number | null; other?: number | null; estimated?: boolean; source?: string | null }
+export interface MarketPoint { year: number; value: number | null; basis?: string | null; source?: string | null }
+export interface Market {
+  unit?: string; scope?: string; series?: MarketYear[]
+  cagr_2018_2024?: number | null; cagr_2019_2024_real_points?: number | null; cagr_2024_2029?: number | null
+  lima?: { share_of_national_household_spend_pct?: number | null; household_spend_2025_soles_m_year?: number | null; vet_2025_soles_m_year?: number | null; estimated?: boolean; source?: string | null } | null
+  spend_per_pet_month_soles?: MarketPoint[]; spend_per_household_month_soles?: MarketPoint[]; notes?: string | null
+}
+export interface Persona {
+  id: string; name?: string; age?: number | null; district?: string | null; nse?: string | null; pet?: string | null; share_pct?: number | null
+  spend_monthly_soles?: number | null; visits_per_year?: number | null; values?: string[]; pains?: string[]; channels?: string[]; extras?: string[]
+  quotes?: { text: string; rating?: number | null; clinic?: string | null }[]; evidence?: string | null; sources?: string[]
+}
+
 export interface Dash {
   generated_at?: string
   weights?: Record<string, number>
@@ -169,4 +183,6 @@ export interface Dash {
   breakeven?: { breakeven_assumptions?: BreakevenAssumptions }
   districts_geojson?: { type: string; features: GeoFeature[] }
   pois?: Poi[]
+  market?: Market | null
+  personas?: Persona[] | null
 }

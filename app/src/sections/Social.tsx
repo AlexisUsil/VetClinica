@@ -29,7 +29,7 @@ export function Social({ S }: { S: Scope }) {
   ]
   const h = Math.max(240, data.length * 34 + 30)
   return (
-    <Section id="social" n="07" eyebrow="Escucha social" title="¿Qué dicen los clientes de las veterinarias actuales?"
+    <Section id="social" n="08" eyebrow="Escucha social" title="¿Qué dicen los clientes de las veterinarias actuales?"
       insight={<Insight>{w ? <Rich text={`Lo que más molesta en ${S.label}: **${w.name}** (${fmtPct(w.negPct)} de ${fmtN(w.total)} menciones son negativas).${best ? ` Lo más valorado: “${best.name}” (${fmtPct((100 * best.pos) / best.total)} positivas).` : ''}`} /> : 'Aún no hay suficientes reseñas para detectar temas.'}</Insight>}>
       <div className="grid gap-4 lg:grid-cols-5">
         <Reveal className="h-full lg:col-span-3">

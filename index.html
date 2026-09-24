@@ -446,6 +446,7 @@ details.more[open] summary{margin-bottom:10px}
   <div class="card" style="margin-top:20px">
     <div class="card-h"><h3 id="best-h">Las 3 mejores zonas de cada distrito</h3><span class="sub">Celdas de 400 m · score 0–100</span></div>
     <div class="table-wrap" style="box-shadow:none"><table class="best mini" id="best"></table></div>
+    <div class="pager" id="best-pager"></div>
   </div>
 </section>
 
@@ -1394,10 +1395,15 @@ function renderBest() {
   const ds = S.all ? RANK.map(byName).filter(Boolean) : [S.d].filter(Boolean);
   const rows = []; ds.forEach(d => (Array.isArray(d.best_cells) ? d.best_cells : []).forEach((b, i) => { if (b) rows.push({ d, b, i }); }));
   $('best-h').textContent = S.all ? 'Las 3 mejores zonas de cada distrito' : `Las 3 mejores zonas de ${S.d.district}`;
-  if (!rows.length) { $('best').innerHTML = `<tbody><tr><td>${emptyHTML('Sin zonas calculadas para este alcance.', 'map-pin')}</td></tr></tbody>`; return; }
-  $('best').innerHTML = `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">Zona</th><th scope="col" class="n">Score</th><th scope="col" class="n">Clínicas 1 km</th><th scope="col" class="n">24h más cercano</th><th scope="col" class="n">Actividad</th><th scope="col"><span class="sr-only">Acción</span></th></tr></thead>
-    <tbody>${rows.map(({ d, b, i }) => `<tr><th scope="row">${legalDot(d.district)}${esc(shortD(d.district))}</th><td class="n"><span style="display:inline-flex;vertical-align:middle">${starSVG(i + 1, 20)}</span></td><td class="n"><b>${fmtN(b.score)}</b></td><td class="n">${fmtN(b.clinics_1km)}</td><td class="n">${fmtKm(b.nearest_24h_km)}</td><td class="n">${fmtN(b.pois_500m)}</td>
+  if (!rows.length) { $('best').innerHTML = `<tbody><tr><td>${emptyHTML('Sin zonas calculadas para este alcance.', 'map-pin')}</td></tr></tbody>`; $('best-pager').innerHTML = ''; return; }
+  const PS = 5, pages = Math.max(1, Math.ceil(rows.length / PS));
+  state.bestPage = Math.min(Math.max(1, state.bestPage || 1), pages);
+  const page = rows.slice((state.bestPage - 1) * PS, state.bestPage * PS);
+  $('best').innerHTML = `<thead><tr><th scope="col">Distrito</th><th scope="col" class="n">Zona</th><th scope="col" class="n">Score</th><th scope="col" class="n">Clínicas 1 km</th><th scope="col" class="n">24h más cercano</th><th scope="col" class="n">Actividad</th><th scope="col"></th></tr></thead>
+    <tbody>${page.map(({ d, b, i }) => `<tr><th scope="row">${legalDot(d.district)}${esc(shortD(d.district))}</th><td class="n"><span style="display:inline-flex;vertical-align:middle">${starSVG(i + 1, 20)}</span></td><td class="n"><b>${fmtN(b.score)}</b></td><td class="n">${fmtN(b.clinics_1km)}</td><td class="n">${isNum(b.nearest_24h_km) ? fmtN(b.nearest_24h_km, 1) + ' km' : '—'}</td><td class="n">${fmtN(b.pois_500m)}</td>
       <td>${isNum(b.lat) && isNum(b.lng) ? `<button type="button" class="linkbtn" data-explore="${b.lat},${b.lng}">Explorar aquí</button>` : ''}</td></tr>`).join('')}</tbody>`;
+  $('best-pager').innerHTML = pages > 1 ? `<span class="muted">Zonas ${(state.bestPage - 1) * PS + 1}–${Math.min(rows.length, state.bestPage * PS)} de ${rows.length}</span>
+    <span style="display:flex;gap:6px;align-items:center"><button type="button" class="btn" data-bestpg="-1" ${state.bestPage === 1 ? 'disabled' : ''}>Anterior</button><span class="muted">${state.bestPage} / ${pages}</span><button type="button" class="btn" data-bestpg="1" ${state.bestPage === pages ? 'disabled' : ''}>Siguiente</button></span>` : '';
 }
 function renderProfile() {
   if (EX.marker && map) { analyzeAndShow(); return; }
@@ -2259,6 +2265,7 @@ function bindEvents() {
   $('f-r').addEventListener('input', e => { f.minRating = parseFloat(e.target.value) || 0; $('f-r-out').textContent = fmtN(f.minRating, 1); f.page = 1; renderDirectory(); });
   $('btn-csv').addEventListener('click', exportCSV);
   $('btn-print').addEventListener('click', () => window.print());
+  document.addEventListener('click', e => { const b = e.target.closest && e.target.closest('[data-bestpg]'); if (!b) return; state.bestPage = (state.bestPage || 1) + parseInt(b.getAttribute('data-bestpg'), 10); renderBest(); });
   $('btn-explore').addEventListener('click', () => { if (EX.on || EX.marker) clearPin(); else setExplore(true); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && (EX.on || EX.marker)) clearPin(); });
   let prevPS = null;

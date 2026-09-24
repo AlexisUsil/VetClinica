@@ -22,6 +22,25 @@ def json_block(md_path, name):
         return {}
 
 
+def json_blocks_with_key(md_path, key, want_list=False):
+    """Devuelve el primer bloque ```json del archivo que sea una lista (want_list) o un dict con la clave `key` (o {"key": ...})."""
+    if not md_path.exists():
+        return [] if want_list else {}
+    txt = md_path.read_text(encoding="utf-8")
+    for m in re.finditer(r"```json[^\n]*\n(.*?)```", txt, re.S):
+        try:
+            obj = json.loads(m.group(1))
+        except Exception:
+            continue
+        if isinstance(obj, dict) and len(obj) == 1 and isinstance(list(obj.values())[0], (dict, list)):
+            obj = list(obj.values())[0]  # {"market": {...}} -> {...}
+        if want_list and isinstance(obj, list):
+            return obj
+        if not want_list and isinstance(obj, dict) and (key is None or key in obj):
+            return obj
+    return [] if want_list else {}
+
+
 places = json.loads((D / "places.json").read_text(encoding="utf-8"))
 enrich = {}
 for f in glob.glob(str(D / "enrichment_*.json")):
@@ -371,6 +390,8 @@ out = {
     "places": merged,
     "grid": GRID,
     "breakeven": json_block(ROOT / "research" / "preguntas_decisivas.md", "breakeven_assumptions"),
+    "market": json_blocks_with_key(ROOT / "research" / "mercado_persona.md", "series"),
+    "personas": json_blocks_with_key(ROOT / "research" / "mercado_persona.md", None, want_list=True),
     "districts_geojson": GEO,
     "pois": POIS,
 }

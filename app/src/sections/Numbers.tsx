@@ -44,7 +44,7 @@ export function Numbers({ S }: { S: Scope }) {
   }), [sims])
 
   if (!d || !R) {
-    return <Section id="numeros" n="05" eyebrow="Punto de equilibrio" title="¿Cierran los números?" insight={<Insight>Faltan supuestos (alquiler o costos) para simular.</Insight>}><div /></Section>
+    return <Section id="numeros" n="06" eyebrow="Punto de equilibrio" title="¿Cierran los números?" insight={<Insight>Faltan supuestos (alquiler o costos) para simular.</Insight>}><div /></Section>
   }
   const prof = R.profit(visits), pb = R.payback(visits), util = isNum(R.capacity) && isNum(R.be) ? pct(R.be, R.capacity) : null
   const rp = R.rentPct(visits)
@@ -78,7 +78,7 @@ export function Numbers({ S }: { S: Scope }) {
   const bad = badDistricts()
 
   return (
-    <Section id="numeros" n="05" eyebrow="Punto de equilibrio" title="¿Cierran los números?"
+    <Section id="numeros" n="06" eyebrow="Punto de equilibrio" title="¿Cierran los números?"
       insight={<Insight kicker="Punto de equilibrio"><Rich text={`En **${d.district}** necesitas **${fmtN(R.be, 1)} visitas/día** para cubrir costos${isNum(util) ? ` (${fmtPct(util)} de la capacidad)` : ''}.${bad.includes(d.district) ? ' Ojo: la zonificación solo permite consultorio.' : ''}`} /></Insight>}>
       <Reveal>
         <Panel className="p-5">

@@ -193,7 +193,7 @@ export function Competition({ S }: { S: Scope }) {
   const share3 = sum(S.top.slice(0, 3).map(t => t.share))
   const conc = share3 >= 40 ? 'concentrado' : 'fragmentado'
   return (
-    <Section id="competencia" n="04" eyebrow="Competencia" title="¿Qué tan fuerte es la competencia?"
+    <Section id="competencia" n="05" eyebrow="Competencia" title="¿Qué tan fuerte es la competencia?"
       insight={<Insight><Rich text={`En ${S.label}, **${fmtPct(lowPct)}** de las clínicas tiene rating menor a 4.0. El top 3 se lleva **${fmtPct(share3)}** de las reseñas: mercado ${conc}.`} /></Insight>}>
       <div className="grid gap-4 lg:grid-cols-3">
         <Reveal className="h-full"><Panel className="h-full"><CardHead title="Top players por reseñas" sub={`% de reseñas en ${S.label}`} /><div className="pt-4"><TopPlayers S={S} /></div></Panel></Reveal>

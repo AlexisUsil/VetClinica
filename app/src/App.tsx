@@ -8,6 +8,7 @@ import { makeScope } from '@/lib/logic'
 import { Hero } from '@/sections/Hero'
 import { MapSection } from '@/sections/MapSection'
 import { Ranking } from '@/sections/Ranking'
+import { Market } from '@/sections/Market'
 import { Gaps } from '@/sections/Gaps'
 import { Competition } from '@/sections/Competition'
 import { Numbers } from '@/sections/Numbers'
@@ -28,6 +29,7 @@ export default function App() {
           <Hero S={S} />
           <MapSection S={S} />
           <Ranking S={S} />
+          <Market />
           <Gaps S={S} />
           <Competition S={S} />
           <Numbers S={S} />

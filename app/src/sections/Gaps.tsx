@@ -64,7 +64,7 @@ export function Gaps({ S }: { S: Scope }) {
   const SEC: Record<string, string> = { mapa: 'Mapa', ranking: 'Ranking', competencia: 'Competencia', horarios: 'Horarios', social: 'Escucha social', regulacion: 'Regulación', numeros: 'Números' }
 
   return (
-    <Section id="huecos" n="03" eyebrow="Huecos y oportunidades" title="¿Dónde están los huecos?"
+    <Section id="huecos" n="04" eyebrow="Huecos y oportunidades" title="¿Dónde están los huecos?"
       insight={top && <Insight kicker="Conclusión" tone="opp"><Rich text={`Recomendación: **${top.district}** (${fmtN(top.score)}/100) · ${legalStatus(top).txt.toLowerCase()}.${rel.length ? ` Aplican: ${rel.map(r => r.t.charAt(0).toLowerCase() + r.t.slice(1)).join('; ')}.` : ''}`} /></Insight>}>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {R.map((r, i) => {
