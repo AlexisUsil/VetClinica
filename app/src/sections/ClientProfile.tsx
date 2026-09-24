@@ -5,15 +5,13 @@ import { DASH } from '@/data/dash'
 import type { LabelPct } from '@/data/types'
 import { fmtN, fmtPct, isNum } from '@/lib/format'
 import { COLORS } from '@/lib/logic'
-import { Panel, Pill, Reveal } from '@/components/common/common'
+import { Panel, Reveal } from '@/components/common/common'
 
 const CP = DASH.client_profile || {}
-const EST = new Set(Array.isArray(CP.estimated_fields) ? CP.estimated_fields : [])
 const arr = (a?: LabelPct[] | null) => (Array.isArray(a) ? a.filter(x => x && x.label && isNum(x.pct)) as { label: string; pct: number }[] : [])
 const MIX = [COLORS.primaryDark, COLORS.primary, '#5EEAD4', '#94A3B8', '#CBD5E1', '#E2E8F0']
 
-function Card({ title, icon, fields, children }: { title: string; icon: React.ReactNode; fields: string[]; children: React.ReactNode }) {
-  const est = fields.some(f => EST.has(f))
+function Card({ title, icon, children }: { title: string; icon: React.ReactNode; fields?: string[]; children: React.ReactNode }) {
   return (
     <Panel className="flex h-full flex-col gap-3 p-4 sm:p-5">
       <div className="flex items-center justify-between gap-2">
