@@ -392,6 +392,7 @@ out = {
     "breakeven": json_block(ROOT / "research" / "preguntas_decisivas.md", "breakeven_assumptions"),
     "market": json_blocks_with_key(ROOT / "research" / "mercado_persona.md", "series"),
     "personas": json_blocks_with_key(ROOT / "research" / "mercado_persona.md", None, want_list=True),
+    "client_profile": json_blocks_with_key(ROOT / "research" / "perfil_cliente.md", "age_bands"),
     "districts_geojson": GEO,
     "pois": POIS,
 }

@@ -1,7 +1,7 @@
 // Lógica de negocio portada desde index.html (funciones puras). Textos con **negrita** se renderizan con <Rich/>.
-import { ALL_CELLS, ALL_PLACES, BE, DIST, G, GEO, GEO_PLACES, GRID, PLACES, POIS, RANK, WEIGHTS, byName } from '@/data/dash'
+import { ALL_CELLS, ALL_PLACES, BE, DIST, G, GEO, GEO_PLACES, GRID, PLACES, POIS, WEIGHTS, byName } from '@/data/dash'
 import type { District, Place, Themes } from '@/data/types'
-import { fmtKm, fmtN, fmtPct, fmtSoles, fmtX, hh, isNum, joinY, maxBy, mean, minBy, nums, pct, pctRank, shortChain, shortD, sum } from './format'
+import { fmtN, fmtPct, hh, isNum, joinY, maxBy, mean, minBy, nums, pct, pctRank, shortChain, sum } from './format'
 
 export const COLORS = {
   primary: '#0D9488', primaryDark: '#0F766E', primarySoft: '#99F6E4', accent: '#EA580C', accentInk: '#C2410C',
@@ -299,60 +299,6 @@ export function ruleBody(r: Rule) {
     return `${r.bStat} No aprovechable con clínica nueva (el índice de usos no lo permite); alternativa: ${g.length ? joinY(g) : 'un distrito con zonificación permitida'}.`
   }
   return r.b || ''
-}
-
-export interface Question { q: string; st: 'Sí' | 'Parcial' | 'No'; sec?: string; a: string }
-export function questions(focus: string): Question[] {
-  const hpMax = maxBy(DIST, d => d.households_per_clinic), hpMin = minBy(DIST, d => d.households_per_clinic)
-  const cMax = maxBy(DIST, d => d.avg_competitors_1km), cMin = minBy(DIST, d => d.avg_competitors_1km)
-  const n24Max = maxBy(DIST, d => d.median_nearest_24h_km), n24Min = minBy(DIST, d => d.median_nearest_24h_km)
-  const farCell = maxBy(ALL_CELLS, c => c.nearest_24h_km)
-  const LZ = DIST.map(d => ({ d, L: lorenz(PLACES.filter(p => p.district === d.district)) })).filter(x => x.L) as { d: District; L: NonNullable<ReturnType<typeof lorenz>> }[]
-  const hMax = maxBy(LZ, x => x.L.hhi), hMin = minBy(LZ, x => x.L.hhi)
-  const base = DIST.map(d => simulate(d, {})).filter(Boolean) as Sim[]
-  const bes = nums(base.map(s => s.be)); const rp = nums(base.map(s => (isNum(s.be) ? s.rentPct(s.be) : null)))
-  const pb = nums(base.map(s => s.payback(20)))
-  const TB = { n: 0, seg: 0 }; PLACES.forEach(p => { if (isNum(p.ticket)) { TB.n++; if (isEstTicket(p)) TB.seg++ } })
-  const DS = demandSupply(G); const run = DS ? peakRun(DS.idx, 2) || peakRun(DS.idx, 1.5) : null
-  const vulnBy = RANK.map(n => `${shortD(n)} ${fmtN(PLACES.filter(p => p.district === n && isVuln(p)).length)}`)
-  const pk = (k: string[]) => POIS.filter(q => k.includes(q.kind)).length
-  const enr = PLACES.filter(isEnriched); const ig = pct(enr.filter(p => p.instagram).length, enr.length)
-  const founded = PLACES.filter(p => isNum(p.founded_year)).length
-  const chains = new Set(PLACES.map(p => shortChain(p.chain)).filter(Boolean)).size
-  const park = G.themes && G.themes['Estacionamiento / acceso']
-  const fps = PLACES.filter(p => p.district === focus && (p.services || []).length)
-  const lowSvc = ['laboratorio', 'ecografía', 'rayos X', 'cirugía'].map(s => ({ s, v: pct(fps.filter(p => (p.services || []).includes(s)).length, fps.length) })).filter(x => isNum(x.v)).sort((a, b) => (a.v as number) - (b.v as number))[0]
-  const byMonth = Object.keys(G.activity?.by_month || {}).length
-  const hh0 = nums(DIST.map(d => d.households))
-  const s = BE.staff || {}
-  const good = greenDistricts()
-  return [
-    { q: '¿Cuántos hogares con mascota hay a 1–2 km del local?', st: 'Parcial', sec: 'mapa', a: hh0.length ? `Solo por distrito (${fmtN(Math.min(...hh0))}–${fmtN(Math.max(...hh0))} hogares); por celda con reparto uniforme.` : '—' },
-    { q: '¿Tienen poder adquisitivo para pagar el ticket?', st: 'Parcial', sec: 'ranking', a: `NSE A/B: ${DIST.map(d => `${shortD(d.district)} ${fmtPct(d.nse_ab_pct)}`).join(', ')}.` },
-    { q: '¿Cuántas clínicas compiten por hogar?', st: 'Sí', sec: 'ranking', a: hpMax && hpMin ? `Más hogares/clínica: ${shortD(hpMax.district)} (${fmtN(hpMax.households_per_clinic)}); menos: ${shortD(hpMin.district)} (${fmtN(hpMin.households_per_clinic)}).` : '—' },
-    { q: '¿Cuántos competidores hay a 1 km?', st: 'Sí', sec: 'mapa', a: cMax && cMin ? `${fmtN(cMin.avg_competitors_1km, 1)} (${shortD(cMin.district)}) a ${fmtN(cMax.avg_competitors_1km, 1)} (${shortD(cMax.district)}) por clínica.` : '—' },
-    { q: '¿A qué distancia está el 24h más cercano?', st: 'Sí', sec: 'mapa', a: n24Max && n24Min ? `Mediana ${fmtKm(n24Min.median_nearest_24h_km)} (${shortD(n24Min.district)}) a ${fmtKm(n24Max.median_nearest_24h_km)} (${shortD(n24Max.district)}).${farCell ? ` Máx. ${fmtKm(farCell.nearest_24h_km)} en ${shortD(farCell.district)}.` : ''}` : '—' },
-    { q: '¿Hay líderes débiles que se puedan desplazar?', st: 'Sí', sec: 'competencia', a: `Vulnerables (<${fmtN(VULN_R, 1)}★, ${fmtN(VULN_N)}+ reseñas): ${vulnBy.join(', ')}.` },
-    { q: '¿Algún competidor domina el mercado?', st: 'Sí', sec: 'competencia', a: hMax && hMin ? `Más concentrado: ${shortD(hMax.d.district)} (HHI ${fmtN(hMax.L.hhi)}); más repartido: ${shortD(hMin.d.district)} (${fmtN(hMin.L.hhi)}).` : '—' },
-    { q: '¿Canibalizo una sede propia o de una cadena?', st: 'No', a: '' },
-    { q: '¿Cuánto cuesta el m² y cuánto pesa en el P&L?', st: 'Parcial', sec: 'numeros', a: rp.length ? `En equilibrio, alquiler = ${fmtPct(Math.min(...rp))}–${fmtPct(Math.max(...rp))} de ingresos.` : '—' },
-    { q: '¿Tiene visibilidad, avenida y estacionamiento?', st: 'Parcial', sec: 'social', a: park ? `Solo en reseñas: ${fmtN(park.pos)} menciones positivas y ${fmtN(park.neg)} negativas.` : '—' },
-    { q: '¿Hay generadores de tráfico cerca?', st: 'Parcial', sec: 'mapa', a: `${fmtN(pk(['park']))} parques, ${fmtN(pk(['dog_park']))} caninos, ${fmtN(pk(['pet_shop']))} petshops, ${fmtN(pk(['supermarket']))} súper.` },
-    { q: '¿Hay edificios nuevos que traerán demanda?', st: 'No', a: '' },
-    { q: '¿La zona es segura para operar de noche?', st: 'No', a: '' },
-    { q: '¿La zonificación permite clínica y no solo consultorio?', st: 'Sí', sec: 'regulacion', a: `Sí: ${joinY(good.map(shortD)) || 'ninguno'}; no: ${joinY(badDistricts().map(shortD)) || 'ninguno'}.` },
-    { q: '¿Cuántas visitas al día necesito para cubrir costos?', st: 'Sí', sec: 'numeros', a: bes.length ? `${fmtN(Math.min(...bes), 1)}–${fmtN(Math.max(...bes), 1)} con supuestos base.` : '—' },
-    { q: '¿Cuánto capex necesito y en cuánto lo recupero?', st: 'Sí', sec: 'numeros', a: pb.length ? `Con 20 visitas/día: ${fmtN(Math.min(...pb), 1)}–${fmtN(Math.max(...pb), 1)} meses.` : '—' },
-    { q: '¿Qué mix de servicios deja más margen?', st: 'Parcial', sec: 'competencia', a: lowSvc ? `En ${shortD(focus)}, ${lowSvc.s} es el de margen alto con menos oferta (${fmtPct(lowSvc.v)}).` : '—' },
-    { q: '¿Qué ticket puedo cobrar?', st: 'Parcial', sec: 'competencia', a: `Promedio ${fmtSoles(G.avg_ticket)}; ${fmtN(TB.seg)} de ${fmtN(TB.n)} tickets estimados por segmento.` },
-    { q: '¿En qué horario hay demanda sin oferta?', st: 'Sí', sec: 'horarios', a: run ? `${hh(run.s)}–${hh((run.e + 1) % 24)}: ${fmtX(run.avg)} demanda/oferta.` : '—' },
-    { q: '¿Hay estacionalidad?', st: 'Parcial', a: byMonth ? `${fmtN(byMonth)} meses de reseñas; sesgados por el uso de Google.` : '—' },
-    { q: '¿Qué cadenas están o llegarán?', st: 'Parcial', sec: 'competencia', a: `${fmtN(chains)} cadenas con sede; aperturas anunciadas no figuran.` },
-    { q: '¿Qué tan fuerte es la marca digital de los competidores?', st: 'Parcial', sec: 'social', a: `${fmtPct(ig)} de ${fmtN(enr.length)} investigadas tiene Instagram.` },
-    { q: '¿La antigüedad protege al incumbente?', st: 'No', a: `Solo ${fmtN(founded)} de ${fmtN(PLACES.length)} con año de fundación.` },
-    { q: '¿Cuánto cuestan los veterinarios?', st: 'Parcial', sec: 'numeros', a: `Supuesto: ${fmtSoles(s.vet_gross_soles)} brutos + ${fmtPct(s.labor_overhead_pct)} sobrecosto.` },
-    { q: '¿Qué tan rápido llego a la madurez?', st: 'No', a: '' },
-  ]
 }
 
 export function sumDist(ds: District[]) { const o: Record<string, number> = {}; ds.forEach(d => Object.entries(d.rating_dist || {}).forEach(([k, v]) => { o[k] = (o[k] || 0) + (v || 0) })); return o }

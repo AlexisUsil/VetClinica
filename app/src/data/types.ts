@@ -172,6 +172,16 @@ export interface Persona {
   quotes?: { text: string; rating?: number | null; clinic?: string | null }[]; evidence?: string | null; sources?: string[]
 }
 
+export interface LabelPct { label: string; pct: number | null }
+export interface ClientProfile {
+  age_bands?: LabelPct[]; gender_decider?: { female_pct?: number | null; male_pct?: number | null } | null
+  spend_bands?: LabelPct[]; spend_mix?: LabelPct[]; pet_type?: LabelPct[]
+  pets_per_household?: number | null; family_member_pct?: number | null; insured_pct?: number | null
+  values?: LabelPct[]; complaints?: { label: string; neg_pct: number | null; mentions?: number | null; source?: string | null }[]
+  channels?: LabelPct[]; visits_per_year?: number | null; visit_reasons?: LabelPct[]; avg_spend_monthly_soles?: number | null
+  sources?: { id?: string; title?: string; url?: string; year?: number }[]; estimated_fields?: string[]; notes?: string | null
+}
+
 export interface Dash {
   generated_at?: string
   weights?: Record<string, number>
@@ -185,4 +195,5 @@ export interface Dash {
   pois?: Poi[]
   market?: Market | null
   personas?: Persona[] | null
+  client_profile?: ClientProfile | null
 }

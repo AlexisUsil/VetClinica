@@ -44,7 +44,11 @@ export function useExploreRequest() {
 }
 
 export function scrollToId(id: string) {
-  const el = document.getElementById(id)
-  if (!el) return
-  el.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' })
+  // avisa a secciones plegables (p. ej. Números) para que se abran antes del scroll
+  window.dispatchEvent(new CustomEvent('section-open', { detail: id }))
+  requestAnimationFrame(() => {
+    const el = document.getElementById(id)
+    if (!el) return
+    el.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' })
+  })
 }

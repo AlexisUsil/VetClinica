@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { ChevronLeft, ChevronRight, Crosshair, Layers, Target, X } from 'lucide-react'
+import { Crosshair, Layers, Target, X } from 'lucide-react'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { Checkbox } from '@/components/ui/checkbox'
 import { Sheet, SheetContent, SheetDescription, SheetTitle } from '@/components/ui/sheet'
@@ -7,10 +7,10 @@ import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 import { DIST, PLACES, RANK, byName, rankOf } from '@/data/dash'
 import type { Place } from '@/data/types'
-import { fmtKm, fmtN, fmtPct, isNum, maxBy, minBy, pct, shortD } from '@/lib/format'
+import { fmtN, fmtPct, isNum, maxBy, minBy, pct } from '@/lib/format'
 import { COLORS, analyze, labelTone, legalStatus, type Scope } from '@/lib/logic'
 import { setDistrict, useExploreRequest } from '@/lib/store'
-import { Insight, LegalDot, LegalPill, Panel, Pill, Reveal, Rich, Section, Stars, CardHead } from '@/components/common/common'
+import { Insight, LegalDot, LegalPill, Panel, Pill, Reveal, Rich, Section, Stars } from '@/components/common/common'
 import { LAYER_DEF, MapView, starSVG, type LayerKey } from './map/MapView'
 import { ExplorePanel } from './map/ExplorePanel'
 
@@ -39,7 +39,7 @@ function MapLegend({ layers, pinned }: { layers: Record<LayerKey, boolean>; pinn
   )
 }
 
-function Profile({ S }: { S: Scope }) {
+function Profile({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: number) => void }) {
   if (S.all) {
     return (
       <Panel className="h-full p-5">
@@ -81,6 +81,20 @@ function Profile({ S }: { S: Scope }) {
         ))}
       </div>
       <div className="mt-3"><LegalPill d={d} long /></div>
+      {(d.best_cells || []).some(b => b && isNum(b.lat) && isNum(b.lng)) && (
+        <>
+          <div className="mt-4 flex items-center gap-1.5 text-xs font-semibold"><Target className="size-3.5 text-opp" />Zonas sugeridas</div>
+          <ol className="mt-1.5 grid gap-1">
+            {(d.best_cells || []).slice(0, 3).map((b, i) => b && (
+              <li key={i} className="flex items-center gap-2 text-[13px]">
+                <span className="grid size-5 shrink-0 place-items-center rounded-full bg-opp text-[10px] font-semibold text-white tabular-nums">{i + 1}</span>
+                <span className="min-w-0 flex-1 truncate">Zona {i + 1} · score <b className="tabular-nums">{fmtN(b.score)}</b><span className="text-muted-foreground"> · {fmtN(b.clinics_1km)} clínicas 1 km</span></span>
+                {isNum(b.lat) && isNum(b.lng) && <Button size="xs" variant="ghost" className="shrink-0 text-[#0F766E]" onClick={() => onExplore(b.lat as number, b.lng as number)}><Crosshair />Explorar</Button>}
+              </li>
+            ))}
+          </ol>
+        </>
+      )}
       <div className="mt-4 text-xs font-semibold">Top 3 por reseñas</div>
       <ol className="mt-2 grid gap-2">
         {S.top.slice(0, 3).map((t, i) => (
@@ -91,56 +105,6 @@ function Profile({ S }: { S: Scope }) {
         ))}
       </ol>
       <Button variant="outline" size="sm" className="mt-4 w-full" onClick={() => setDistrict('all')}><Layers />Ver todos los distritos</Button>
-    </Panel>
-  )
-}
-
-function ZoneBadge({ n }: { n: number }) {
-  return <span className="inline-grid size-6 place-items-center rounded-full bg-opp text-[11px] font-semibold text-white tabular-nums shadow-sm">{n}</span>
-}
-function BestZones({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: number) => void }) {
-  const PAGE = 5
-  const [page, setPage] = React.useState(0)
-  const ds = S.all ? RANK.map(byName).filter(Boolean) : [S.d].filter(Boolean)
-  const all = ds.flatMap(d => (d!.best_cells || []).map((b, i) => ({ d: d!, b, i }))).filter(x => x.b)
-  const pages = Math.max(1, Math.ceil(all.length / PAGE))
-  React.useEffect(() => { setPage(0) }, [S.district])
-  const pg = Math.min(page, pages - 1)
-  const rows = all.slice(pg * PAGE, pg * PAGE + PAGE)
-  return (
-    <Panel>
-      <CardHead title={S.all ? 'Las 3 mejores zonas de cada distrito' : `Las 3 mejores zonas de ${S.name}`} sub="Celdas de 400 m · score 0–100 · clic en Explorar para analizar el entorno" />
-      <div className="mt-3 overflow-x-auto">
-        <table className="w-full min-w-[620px] text-[13px]">
-          <thead><tr className="border-y bg-muted/50 text-xs text-muted-foreground">
-            <th className="px-5 py-2 text-left font-medium">Distrito</th><th className="px-3 py-2 text-center font-medium">Zona</th><th className="px-3 py-2 text-left font-medium">Score</th>
-            <th className="px-3 py-2 text-right font-medium">Clínicas 1 km</th><th className="px-3 py-2 text-right font-medium">24h más cercano</th><th className="px-3 py-2 text-right font-medium">Actividad cerca</th><th className="px-5 py-2"><span className="sr-only">Acción</span></th>
-          </tr></thead>
-          <tbody>
-            {rows.map(({ d, b, i }) => (
-              <tr key={`${d.district}-${i}`} className="border-b last:border-0 hover:bg-muted/40">
-                <td className="px-5 py-2"><span className="flex items-center gap-1.5 font-medium"><LegalDot lvl={legalStatus(d).lvl} />{shortD(d.district)}</span></td>
-                <td className="px-3 py-2 text-center"><ZoneBadge n={i + 1} /></td>
-                <td className="px-3 py-2"><span className="flex items-center gap-2"><b className="w-6 tabular-nums">{fmtN(b.score)}</b><span className="h-1.5 w-20 overflow-hidden rounded-full bg-slate-100"><span className="block h-full rounded-full bg-primary" style={{ width: `${b.score || 0}%` }} /></span></span></td>
-                <td className="px-3 py-2 text-right tabular-nums">{fmtN(b.clinics_1km)}</td>
-                <td className="px-3 py-2 text-right tabular-nums">{fmtKm(b.nearest_24h_km)}</td>
-                <td className="px-3 py-2 text-right tabular-nums">{fmtN(b.pois_500m)}</td>
-                <td className="px-5 py-2 text-right">{isNum(b.lat) && isNum(b.lng) && <Button size="xs" variant="ghost" className="text-[#0F766E]" onClick={() => onExplore(b.lat, b.lng)}><Crosshair />Explorar</Button>}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-      {pages > 1 && (
-        <div className="flex flex-wrap items-center justify-between gap-3 border-t px-5 py-3 text-[13px]">
-          <span className="text-muted-foreground">Mostrando <b className="text-foreground tabular-nums">{fmtN(pg * PAGE + 1)}–{fmtN(Math.min(all.length, (pg + 1) * PAGE))}</b> de <b className="text-foreground tabular-nums">{fmtN(all.length)}</b></span>
-          <div className="flex items-center gap-2">
-            <Button variant="outline" size="sm" onClick={() => setPage(Math.max(0, pg - 1))} disabled={pg === 0} aria-label="Página anterior"><ChevronLeft />Anterior</Button>
-            <span className="tabular-nums text-muted-foreground">{fmtN(pg + 1)} de {fmtN(pages)}</span>
-            <Button variant="outline" size="sm" onClick={() => setPage(Math.min(pages - 1, pg + 1))} disabled={pg >= pages - 1} aria-label="Página siguiente">Siguiente<ChevronRight /></Button>
-          </div>
-        </div>
-      )}
     </Panel>
   )
 }
@@ -207,9 +171,8 @@ export function MapSection({ S }: { S: Scope }) {
             {baseMode === 'raster' && <span className="pointer-events-none absolute top-2 left-14 z-[500] rounded bg-white/90 px-1.5 py-0.5 text-[10px] text-muted-foreground shadow">fondo raster</span>}
           </Panel>
         </Reveal>
-        <Reveal delay={0.06}><Profile S={S} /></Reveal>
+        <Reveal delay={0.06}><Profile S={S} onExplore={placePin} /></Reveal>
       </div>
-      <Reveal className="mt-4"><BestZones S={S} onExplore={placePin} /></Reveal>
 
       <Sheet modal={false} open={!!pin && !!analysis} onOpenChange={o => { if (!o) clear() }}>
         <SheetContent side={desktop ? 'right' : 'bottom'} showCloseButton={false}

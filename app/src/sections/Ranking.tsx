@@ -1,73 +1,13 @@
-import * as React from 'react'
-import { Bar, BarChart, CartesianGrid, Cell, LabelList, XAxis, YAxis, Tooltip } from 'recharts'
-import { ArrowDown, ArrowUp, ChevronDown, Info } from 'lucide-react'
-import { ChartContainer, type ChartConfig } from '@/components/ui/chart'
-import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible'
+import type * as React from 'react'
+import { ArrowDown, ArrowUp, Info } from 'lucide-react'
 import { Tooltip as UiTip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 import { cn } from '@/lib/utils'
-import { DIST, RANK, WEIGHTS, byName, rankOf } from '@/data/dash'
+import { RANK, byName, rankOf } from '@/data/dash'
 import type { District } from '@/data/types'
-import { fmtN, fmtPct, fmtSoles, isNum, mean, nums, shortD, ANIM } from '@/lib/format'
-import { COLORS, COMP, COMP_KEYS, FRIC_SCORE, componentsPending, legalStatus, strengths, wEff, type Scope } from '@/lib/logic'
+import { fmtN, fmtPct, fmtSoles, isNum, nums, shortD } from '@/lib/format'
+import { COMP, FRIC_SCORE, legalStatus, strengths, type Scope } from '@/lib/logic'
 import { setDistrict } from '@/lib/store'
-import { CardHead, Insight, LegalPill, Legend, Panel, Pill, Reveal, Rich, Section, TipCard } from '@/components/common/common'
-
-const cfg = { score: { label: 'Score', color: 'var(--chart-4)' } } satisfies ChartConfig
-
-function ScoreBars({ sel }: { sel: string }) {
-  const data = RANK.map(n => byName(n)!).map((d, i) => ({ name: `${shortD(d.district)}`, full: d.district, score: d.score, label: d.score_label || '', i }))
-  const avg = mean(data.map(d => d.score))
-  return (
-    <ChartContainer config={cfg} className="aspect-auto h-[250px] w-full">
-      <BarChart data={data} layout="vertical" margin={{ left: 4, right: 40, top: 4, bottom: 4 }} barCategoryGap={10}>
-        <XAxis type="number" hide domain={[0, 100]} />
-        <YAxis type="category" dataKey="name" width={96} tickLine={false} axisLine={false} tick={{ fill: 'var(--foreground)', fontSize: 13, fontWeight: 500 }} />
-        <Tooltip cursor={{ fill: 'var(--muted)' }} content={({ active, payload }) => {
-          if (!active || !payload?.length) return null
-          const d = payload[0].payload as (typeof data)[number]
-          return <TipCard title={`#${d.i + 1} ${d.full}`} rows={[{ k: 'Score', v: `${fmtN(d.score)}/100`, strong: true }, { k: 'Lectura', v: d.label }, { k: 'vs. promedio', v: `${d.score - (avg || 0) >= 0 ? '+' : '−'}${fmtN(Math.abs(d.score - (avg || 0)))} pts` }]} foot="Clic para ver este distrito" />
-        }} />
-        <Bar isAnimationActive={ANIM} dataKey="score" radius={6} barSize={28} animationDuration={900} onClick={(e: { payload?: { full?: string } }) => e?.payload?.full && setDistrict(e.payload.full)} className="cursor-pointer">
-          {data.map(d => <Cell key={d.full} fill={d.i === 0 ? COLORS.accent : '#94A3B8'} fillOpacity={sel !== 'all' && sel !== d.full ? 0.35 : 1} />)}
-          <LabelList dataKey="score" position="right" className="fill-foreground text-[13px] font-semibold tabular-nums" formatter={(v: unknown) => fmtN(v)} />
-        </Bar>
-      </BarChart>
-    </ChartContainer>
-  )
-}
-
-function CompBars({ sel }: { sel: string }) {
-  const ds = RANK.map(n => byName(n)!)
-  const data = ds.map(d => {
-    const o: Record<string, number | string | null> = { name: shortD(d.district), full: d.district }
-    COMP_KEYS.forEach(k => { const r = d.score_components?.[k]; o[k] = isNum(r) ? Math.round(r * wEff(k) * 10) / 10 : null })
-    return o
-  })
-  const config = Object.fromEntries(COMP_KEYS.map(k => [k, { label: COMP[k].name, color: COMP[k].color }])) as ChartConfig
-  return (
-    <>
-      <ChartContainer config={config} className="aspect-auto h-[250px] w-full">
-        <BarChart data={data} layout="vertical" margin={{ left: 4, right: 12, top: 4, bottom: 4 }} barCategoryGap={10}>
-          <CartesianGrid horizontal={false} strokeDasharray="3 3" stroke="var(--border)" />
-          <XAxis type="number" domain={[0, 100]} tickLine={false} axisLine={false} tick={{ fontSize: 11 }} />
-          <YAxis type="category" dataKey="name" width={96} tickLine={false} axisLine={false} tick={{ fill: 'var(--foreground)', fontSize: 13, fontWeight: 500 }} />
-          <Tooltip cursor={{ fill: 'var(--muted)' }} content={({ active, payload }) => {
-            if (!active || !payload?.length) return null
-            const full = (payload[0].payload as { full: string }).full; const d = byName(full)!
-            return <TipCard title={`${full} · ${fmtN(d.score)} pts`} rows={COMP_KEYS.map(k => ({ k: COMP[k].short, v: `${fmtN(d.score_components?.[k])} × ${fmtN(wEff(k) * 100)}% = ${fmtN((d.score_components?.[k] || 0) * wEff(k), 1)}`, color: COMP[k].color }))} />
-          }} />
-          {COMP_KEYS.map((k, i) => (
-            <Bar isAnimationActive={ANIM} key={k} dataKey={k} stackId="s" fill={COMP[k].color} stroke="#fff" strokeWidth={1} barSize={28} animationDuration={700 + i * 80}
-              radius={i === COMP_KEYS.length - 1 ? [0, 6, 6, 0] : i === 0 ? [6, 0, 0, 6] : 0} onClick={(e: { payload?: { full?: string } }) => e?.payload?.full && setDistrict(e.payload.full)} className="cursor-pointer">
-              {data.map(d => <Cell key={String(d.full)} fill={COMP[k].color} fillOpacity={sel !== 'all' && sel !== d.full ? 0.35 : 1} />)}
-            </Bar>
-          ))}
-        </BarChart>
-      </ChartContainer>
-      <Legend className="mt-2 px-1" items={COMP_KEYS.map(k => ({ color: COMP[k].color, label: `${COMP[k].short} ${fmtN((WEIGHTS[k] || 0) * 100)}%` }))} />
-    </>
-  )
-}
+import { CardHead, Insight, LegalPill, Panel, Pill, Reveal, Rich, Section } from '@/components/common/common'
 
 type Row = { l: string; n: string; g: (d: District) => number | null | undefined; f: (v: number, d: District) => React.ReactNode; better: 'high' | 'low' | null; src?: string }
 const ROWS: Row[] = [
@@ -154,40 +94,10 @@ export function Ranking({ S }: { S: Scope }) {
   const first = ds[0], last = ds[ds.length - 1]
   const s1 = first ? strengths(first)[0] : null
   const sl = last ? strengths(last).slice().reverse()[0] : null
-  const pend = componentsPending()
-  const [open, setOpen] = React.useState(false)
   return (
     <Section id="ranking" n="02" eyebrow="Ranking de oportunidad" title="¿Qué distrito ofrece la mejor oportunidad?"
       insight={first && <Insight><Rich text={`**${first.district}** lidera con ${fmtN(first.score)}/100, impulsado por ${s1 ? COMP[s1.k].name.toLowerCase() : '—'}. ${last && last !== first ? `${last.district} queda último (${fmtN(last.score)}) por ${sl ? COMP[sl.k].name.toLowerCase() : 'varios factores'}: ${fmtN(first.score - last.score)} pts de brecha.` : ''}`} /></Insight>}>
-      <div className="grid gap-4 lg:grid-cols-2">
-        <Reveal><Panel className="h-full pb-4"><CardHead title="Score de oportunidad" sub="0–100 · más alto = mejor para abrir" action={<Pill tone="opp">#1 recomendado</Pill>} /><div className="px-3 pt-2"><ScoreBars sel={S.district} /></div></Panel></Reveal>
-        <Reveal delay={0.08}><Panel className="h-full pb-4"><CardHead title="¿De qué se compone cada score?" sub="Puntos que aporta cada factor (peso × valor)" /><div className="px-3 pt-2"><CompBars sel={S.district} /></div></Panel></Reveal>
-      </div>
-      <Reveal className="mt-4">
-        <Collapsible open={open} onOpenChange={setOpen}>
-          <Panel>
-            <CollapsibleTrigger className="flex w-full items-center justify-between gap-2 px-5 py-3.5 text-left text-sm font-medium hover:bg-muted/50">
-              <span className="flex items-center gap-2"><Info className="size-4 text-primary" />Cómo se calcula el score</span>
-              <ChevronDown className={cn('size-4 transition-transform duration-200', open && 'rotate-180')} />
-            </CollapsibleTrigger>
-            <CollapsibleContent>
-              <div className="grid gap-3 border-t p-5 sm:grid-cols-2 lg:grid-cols-3">
-                {COMP_KEYS.map(k => (
-                  <div key={k} className="flex gap-3">
-                    <i className="mt-1 size-3 shrink-0 rounded-[3px]" style={{ background: COMP[k].color }} />
-                    <div className="min-w-0 text-[13px]">
-                      <div className="flex flex-wrap items-center gap-2 font-semibold">{COMP[k].name}<span className="rounded bg-muted px-1.5 font-mono text-[11px] tabular-nums">{fmtN((WEIGHTS[k] || 0) * 100)}%</span>{pend[k] && <Pill tone="gray">neutro 50</Pill>}</div>
-                      <p className="text-muted-foreground">{COMP[k].desc}</p>
-                    </div>
-                  </div>
-                ))}
-                <p className="text-xs text-muted-foreground sm:col-span-2 lg:col-span-3">Cada factor se normaliza entre los {DIST.length} distritos: 20 = peor, 100 = mejor. Los factores sin datos toman 50.</p>
-              </div>
-            </CollapsibleContent>
-          </Panel>
-        </Collapsible>
-      </Reveal>
-      <Reveal className="mt-4"><CompareTable sel={S.district} /></Reveal>
+      <Reveal><CompareTable sel={S.district} /></Reveal>
     </Section>
   )
 }

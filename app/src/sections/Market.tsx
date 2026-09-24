@@ -10,6 +10,7 @@ import { ChartContainer } from '@/components/ui/chart'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import { CardHead, Empty, Insight, Panel, Pill, Reveal, Rich, Section, Stars, TipCard } from '@/components/common/common'
 import { KpiCard } from '@/components/common/kpi'
+import { ClientProfile } from './ClientProfile'
 
 const M = DASH.market || {}
 const SERIES: MarketYear[] = (Array.isArray(M.series) ? M.series : []).filter(s => s && isNum(s.year)).slice().sort((a, b) => a.year - b.year)
@@ -318,6 +319,8 @@ export function Market() {
         </Panel>
         <Notes />
       </Reveal>
+
+      <ClientProfile />
 
       <div className="mt-10 mb-4 flex flex-wrap items-baseline justify-between gap-2">
         <h3 className="text-lg font-semibold tracking-tight">Buyer persona</h3>
