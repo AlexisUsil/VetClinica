@@ -83,7 +83,13 @@ export function ClientProfile() {
           <Card title="Gasto mensual en la mascota" icon={<Wallet />} fields={['avg_spend_monthly_soles', 'spend_bands', 'spend_mix']}>
             {isNum(CP.avg_spend_monthly_soles) && <div className="flex items-baseline gap-2"><span className="text-2xl font-semibold tabular-nums">S/ {fmtN(CP.avg_spend_monthly_soles)}</span><span className="text-xs text-muted-foreground">promedio · Lima 2026</span></div>}
             <HBars items={arr(CP.spend_bands)} />
-            <div className="mt-auto"><Stack items={arr(CP.spend_mix)} /></div>
+            <div className="mt-auto"><Stack items={arr(CP.spend_mix)} />
+              {CP.spend_trend && isNum(CP.spend_trend.total_real_change_pct) && (
+                <p className={cn('mt-2 text-xs', (CP.spend_trend.total_real_change_pct as number) < 0 ? 'text-bad-ink' : 'text-good-ink')}>
+                  Gasto real por hogar {fmtN(CP.spend_trend.total_real_change_pct as number, 0)}% {CP.spend_trend.period || ''}{isNum(CP.spend_trend.vet_real_change_pct) ? ` · veterinaria ${fmtN(CP.spend_trend.vet_real_change_pct as number, 0)}%` : ''} <span className="text-muted-foreground">({CP.spend_trend.source || 'INEI'})</span>
+                </p>
+              )}
+            </div>
           </Card>
         </Reveal>
         <Reveal delay={0.1} className="h-full">
@@ -94,6 +100,9 @@ export function ClientProfile() {
               <Mini label="la considera familia" value={fmtPct(CP.family_member_pct)} />
               <Mini label="con seguro" value={fmtPct(CP.insured_pct)} />
             </div>
+            {CP.care && (isNum(CP.care.vaccinated_pct) || isNum(CP.care.sterilized_pct)) && (
+              <p className="text-xs text-muted-foreground">Cuidado del perro (A/B): {isNum(CP.care.vaccinated_pct) ? `${fmtPct(CP.care.vaccinated_pct)} vacunado` : ''}{isNum(CP.care.dewormed_pct) ? ` · ${fmtPct(CP.care.dewormed_pct)} desparasitado` : ''}{isNum(CP.care.sterilized_pct) ? ` · ${fmtPct(CP.care.sterilized_pct)} esterilizado` : ''} <span>({CP.care.source || 'INEI 2025'})</span></p>
+            )}
           </Card>
         </Reveal>
         <Reveal delay={0.15} className="h-full">
@@ -116,7 +125,7 @@ export function ClientProfile() {
           </Card>
         </Reveal>
       </div>
-      <p className="mt-3 px-1 text-[11px] text-muted-foreground">Fuentes: ESAN 2021 (n=384, NSE A/B), Clientes Anónimos 2026, INEI ENAHO 2025, Arellano; reseñas propias{nRev ? ` (${fmtN(nRev)})` : ''}.</p>
+      <p className="mt-3 px-1 text-[11px] text-muted-foreground">Fuentes: INEI «Tenencia y crianza de mascotas 2025» (sep-2026), tesis ULima 2025 (n=201, NSE A/B, 5 distritos) y 2024 (n=384), ESAN 2021, Clientes Anónimos 2026, GRM 2026, Arellano 2026; reseñas propias{nRev ? ` (${fmtN(nRev)})` : ''}.</p>
     </div>
   )
 }

@@ -180,6 +180,8 @@ export interface ClientProfile {
   values?: LabelPct[]; complaints?: { label: string; neg_pct: number | null; mentions?: number | null; source?: string | null }[]
   channels?: LabelPct[]; visits_per_year?: number | null; visit_reasons?: LabelPct[]; avg_spend_monthly_soles?: number | null
   sources?: { id?: string; title?: string; url?: string; year?: number }[]; estimated_fields?: string[]; notes?: string | null
+  care?: { vaccinated_pct?: number | null; dewormed_pct?: number | null; sterilized_pct?: number | null; source?: string } | null
+  spend_trend?: { total_real_change_pct?: number | null; vet_real_change_pct?: number | null; period?: string; source?: string } | null
 }
 
 export interface Dash {

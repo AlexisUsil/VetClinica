@@ -52,9 +52,9 @@ No existe una serie de Euromonitor para Lima. Según la ENAHO 2025, Lima Metropo
 | 2018 | "Gasto veterinario mensual", total Perú urbano (según el texto del informe) | Perro S/ 62, gato S/ 32 | [CPI MR N°08, p. 3](https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf). **Ojo**: la tabla de la p. 4 rotula la misma cifra como "por consulta". `indicadores.md` la cita como mensual; conviene corregirlo |
 | 2023–24 | Gasto mensual por hogar | S/ 100–150 (Ipsos); ~S/ 300 (HeyVet) | [Ipsos "Entre patas"](https://www.ipsos.com/es-pe/entre-patas); [Gestión](https://gestion.pe/economia/empresas/el-negocio-detras-del-boom-petcare-en-que-invierten-mas-los-duenos-de-mascotas-noticia/) |
 | 2024 | Gasto mensual, hogares que gastan (Perú) | S/ 62.9 | INEI ENAHO vía [Infobae](https://www.infobae.com/peru/2026/09/08/economia-peruana-golpea-a-perros-y-gatos-ahora-se-gasta-menos-en-mascotas/) |
-| 2025 | Gasto por mascota (industria, Lima) | S/ 350–500 al mes | Arellano / El Comercio vía [Petfood LatAm](https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/) |
-| 2025 | Gasto mensual, hogares que gastan (Perú) | S/ 57.7; NSE A/B S/ 88.1 (veterinaria A/B S/ 34.5) | INEI ENAHO vía [Infobae, 09-sep-2026](https://www.infobae.com/peru/2026/09/09/cuanto-gastan-los-peruanos-en-sus-mascotas-al-mes-inei-revela-las-cifras-segun-nivel-socioeconomico/) |
-| 2025 | Gasto per cápita en mascotas | S/ 51.2 al mes (5.2% del presupuesto familiar) | INEI ENAHO vía [Rankia](https://www.rankia.pe/blog/bvl-mercado-al-dia/6844120-invertir-mercado-mascotas) |
+| 2025 | Gasto por mascota (industria, Lima) | S/ 350–500 al mes | Nestlé Purina (no Arellano, como se decía antes) / El Comercio vía [Petfood LatAm](https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/) |
+| 2025 | Gasto mensual, hogares que gastan (Perú) | S/ 57.7; NSE A/B S/ 88.1 (veterinaria A/B S/ 34.5) | [INEI, Informe técnico: Tenencia y crianza de mascotas 2025](https://www.gob.pe/institucion/inei/informes-publicaciones/8570625-informe-tecnico-tenencia-y-crianza-de-mascotas-2025) (antes citado vía Infobae) |
+| 2025 | Gasto per cápita en mascotas | S/ 51.2 al mes (5.2% del presupuesto familiar) | **No verificado**: circula en prensa ([Rankia](https://www.rankia.pe/blog/bvl-mercado-al-dia/6844120-invertir-mercado-mascotas), Infobae) atribuido al INEI, pero no aparece en el informe técnico |
 | 2025 | Gasto anual por hogar, perro vs. gato | S/ 255 vs. S/ 155 (Kantar) | [Andina](https://andina.pe/agencia/noticia-perros-vs-gatos-mascota-demanda-un-mayor-gasto-a-los-peruanos-1024695.aspx) |
 
 Hay una brecha de 5 a 8 veces entre la ENAHO (promedio de todos los hogares, incluidos los de comida casera) y las cifras de la industria (dueños urbanos que compran alimento balanceado). Para NSE A/B de los 5 distritos, **S/ 250–500 al mes por hogar** es el rango razonable [E].
@@ -107,7 +107,7 @@ Limitaciones: Google devuelve un máximo de ~5 reseñas por ficha (sesgo a lo re
 - En NSE A/B, **el 86.6% de los hogares con mascota tiene perro y el 23.9% tiene gato**. En A/B, el 39.2% de los gatos se adopta y el 31.8% de los perros se compra ([CPI 2018, p. 2](https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)).
 - El 48.7% de los hogares A/B alimenta solo con balanceado ([CPI 2018, p. 3](https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)).
 - El gato es la categoría de mayor crecimiento ([Euromonitor 2026](https://www.euromonitor.com/pet-care-in-peru/report)). La tenencia de gatos creció 59% frente al 30% de los perros ([Kantar](https://www.kantar.com/latin-america/inspiracion/consumo-masivo/hogares-con-mascotas)).
-- El dueño típico tiene entre 25 y 45 años y vive en zona urbana. El 73% ve a su mascota como familia ([Arellano vía Petfood LatAm](https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/)). Son mayormente millennials, "perrhijos/gathijos" ([Ipsos](https://www.ipsos.com/es-pe/cuando-el-cliente-ladra-marcas-exitosas-en-el-creciente-mercado-de-mascotas)).
+- El dueño típico tiene entre 25 y 45 años y vive en zona urbana (Nestlé Purina). El 73% ve a su mascota como familia (Arellano). Ambos datos vienen de la misma nota ([Petfood LatAm](https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/)). Son mayormente millennials, "perrhijos/gathijos" ([Ipsos](https://www.ipsos.com/es-pe/cuando-el-cliente-ladra-marcas-exitosas-en-el-creciente-mercado-de-mascotas)).
 - Lo que se valora en una veterinaria (escala /10): médico confiable **9.69**, trato cálido 8.96, calidad médica 8.86, disponibilidad para emergencias 8.46. Pesan más la confianza y el boca a boca que la publicidad ([Arellano vía El Comercio](https://elcomercio.pe/economia/dia-1/del-veterinario-de-barrio-a-las-clinicas-especializadas-asi-crece-el-mercado-de-salud-para-mascotas-en-el-peru-cadenas-veterinarias-noticia/)).
 - En Lima Metropolitana y Callao, el 85.5% tiene perro por compañía o afecto (INEI 2026, ver `indicadores.md`).
 - En Rappi, el 72% de las ventas pet es alimento/insumos para perro y el 16% son medicamentos. El ticket por delivery es de S/ 35 para perro y S/ 22–30 para gato ([Andina](https://andina.pe/agencia/noticia-perros-vs-gatos-mascota-demanda-un-mayor-gasto-a-los-peruanos-1024695.aspx)).
@@ -135,7 +135,7 @@ Citas: "La doctora Hurtado trata con mucho cariño y cuidado a los michis" (5★
 |---|---|
 | Edad / distrito / NSE | 42 años (pareja con hijos en edad escolar) · Surco o La Molina · A/B |
 | Mascota | Perro mediano o grande (labrador, golden), a veces 2 perros |
-| Gasto mensual | **S/ 450** [E]: alimento balanceado S/ 110–200, baño y corte S/ 60–120, antipulgas, vet prorrateado. Arellano estima S/ 350–500 por mascota |
+| Gasto mensual | **S/ 450** [E]: alimento balanceado S/ 110–200, baño y corte S/ 60–120, antipulgas, vet prorrateado. Nestlé Purina estima S/ 350–500 por mascota |
 | Visitas/año | 4 clínicas + ~10 de grooming (el 49% de los hogares limeños con perro usa grooming, [CPI 2018](https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)) |
 | Valora | Todo en un lugar (consulta, baño, petshop), precio claro, estacionamiento, cercanía a casa, tener un 24 h de respaldo |
 | Le molesta | Recargos (baño "al doble por perro grande"), cortes mal hechos, cobros extra en la cuenta |
@@ -195,12 +195,12 @@ Citas: "atiende a Osita desde el mes y medio de nacida y ya tiene 12 años" (5�
       {"year": 2018, "value": 85, "basis": "gasto por consulta veterinaria, perro, Lima Met.", "source": "CPI Market Report N°08 p.4 - https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf"},
       {"year": 2018, "value": 39, "basis": "gasto por consulta veterinaria, gato, Lima Met.", "source": "CPI Market Report N°08 p.4 - https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf"},
       {"year": 2018, "value": 53, "basis": "grooming mensual, perro, Lima Met.", "source": "CPI Market Report N°08 p.4 - https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf"},
-      {"year": 2025, "value": 425, "basis": "punto medio de S/350-500 por mascota al mes (industria, Lima)", "source": "Arellano/El Comercio vía Petfood LatAm - https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/"}
+      {"year": 2025, "value": 425, "basis": "punto medio de S/350-500 por mascota al mes (industria, Lima)", "source": "Nestlé Purina/El Comercio vía Petfood LatAm - https://petfoodlatinoamerica.com/2025/05/02/mascotas-cuanto-gastan-los-peruanos-en-sus-cuidados-y-cuales-son-los-nuevos-servicios-creados-para-ellas/"}
     ],
     "spend_per_household_month_soles": [
       {"year": 2024, "value": 62.9, "basis": "hogares que gastan, Perú (ENAHO)", "source": "https://www.infobae.com/peru/2026/09/08/economia-peruana-golpea-a-perros-y-gatos-ahora-se-gasta-menos-en-mascotas/"},
-      {"year": 2025, "value": 57.7, "basis": "hogares que gastan, Perú (ENAHO)", "source": "https://www.infobae.com/peru/2026/09/09/cuanto-gastan-los-peruanos-en-sus-mascotas-al-mes-inei-revela-las-cifras-segun-nivel-socioeconomico/"},
-      {"year": 2025, "value": 88.1, "basis": "hogares NSE A/B (ENAHO)", "source": "https://www.infobae.com/peru/2026/09/09/cuanto-gastan-los-peruanos-en-sus-mascotas-al-mes-inei-revela-las-cifras-segun-nivel-socioeconomico/"}
+      {"year": 2025, "value": 57.7, "basis": "hogares que gastan, Perú (ENAHO)", "source": "INEI Informe técnico Tenencia y crianza de mascotas 2025 - https://www.gob.pe/institucion/inei/informes-publicaciones/8570625-informe-tecnico-tenencia-y-crianza-de-mascotas-2025"},
+      {"year": 2025, "value": 88.1, "basis": "hogares NSE A/B (ENAHO)", "source": "INEI Informe técnico Tenencia y crianza de mascotas 2025 - https://www.gob.pe/institucion/inei/informes-publicaciones/8570625-informe-tecnico-tenencia-y-crianza-de-mascotas-2025"}
     ],
     "notes": "Euromonitor Pet Care = alimento + productos; excluye servicios (ficha may-2026 https://www.euromonitor.com/pet-care-in-peru/report). Split 80/20 alimento/productos es supuesto del analista. Vet anclado en ENAHO 2025 (US$106M) y extendido a 8%/año (Gestión); HeyVet estima ~US$200M (AmericaRetail). Grooming/otros sin dato de mercado (null). Crec. 2021 calculado 32.1% vs 29.1% reportado por Euromonitor: diferencia entre ediciones. ENAHO y Euromonitor no son comparables en nivel. TC 2025 = 3.70 aprox."
   }
@@ -271,7 +271,7 @@ Citas: "atiende a Osita desde el mes y medio de nacida y ya tiene 12 años" (5�
         {"text": "chihuahua 13 años, lo mal diagnostico", "rating": 1, "clinic": "Veterinaria Fido's Vet (San Borja)"}
       ],
       "evidence": "Lealtad: 18 de 20 reseñas 'desde hace X años' son 5 estrellas; emergencias: 52% de 84 reseñas son 1 estrella; fallecimiento: rating 1.33; especialista 9% de reseñas en San Borja; senior 5% en San Isidro; 12.2% de reseñas se publican entre 22h y 6h.",
-      "sources": ["https://elcomercio.pe/economia/dia-1/del-veterinario-de-barrio-a-las-clinicas-especializadas-asi-crece-el-mercado-de-salud-para-mascotas-en-el-peru-cadenas-veterinarias-noticia/", "https://www.infobae.com/peru/2026/09/09/cuanto-gastan-los-peruanos-en-sus-mascotas-al-mes-inei-revela-las-cifras-segun-nivel-socioeconomico/", "https://apeim.com.pe/wp-content/uploads/2025/03/2023-2024-Version-WEB.pdf.pdf"]
+      "sources": ["https://elcomercio.pe/economia/dia-1/del-veterinario-de-barrio-a-las-clinicas-especializadas-asi-crece-el-mercado-de-salud-para-mascotas-en-el-peru-cadenas-veterinarias-noticia/", "https://www.gob.pe/institucion/inei/informes-publicaciones/8570625-informe-tecnico-tenencia-y-crianza-de-mascotas-2025", "https://apeim.com.pe/wp-content/uploads/2025/03/2023-2024-Version-WEB.pdf.pdf"]
     }
   ]
 }
