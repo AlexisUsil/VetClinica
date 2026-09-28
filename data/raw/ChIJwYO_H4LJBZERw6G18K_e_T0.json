@@ -1,0 +1,496 @@
+{
+ "id": "ChIJwYO_H4LJBZERw6G18K_e_T0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "934 487 173",
+ "internationalPhoneNumber": "+51 934 487 173",
+ "formattedAddress": "Av. Francisco Javier Mariátegui 1030, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "1030",
+   "shortText": "1030",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Francisco Javier Mariátegui",
+   "shortText": "Av. Francisco Javier Mariátegui",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0767888,
+  "longitude": -77.0454836
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=4466971252660478403&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://digitalvet.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–24:00",
+   "miércoles: 0:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 23,
+ "displayName": {
+  "text": "Digital Vet - Veterinaria Sede Jesús María",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–24:00",
+   "miércoles: 0:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Francisco Javier Mariátegui 1030, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSk9FdEpURVF4WWs1UlVHTnFiUzB5YjBWQlRuYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "He separado cita dos veces para su baño de mi mascota y por demorarme 10 minutos te reciben con un varada, las chicas de recepción 0 empaticas, osea no te dan tiempo de tolerancia, son 10 minutos no una hora. Y encima me dijeron que si la próxima no llegaba puntual no me iban recibir, enserio ? Por 10 minutos ? Creo que piensan que son la única veterinaria.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He separado cita dos veces para su baño de mi mascota y por demorarme 10 minutos te reciben con un varada, las chicas de recepción 0 empaticas, osea no te dan tiempo de tolerancia, son 10 minutos no una hora. Y encima me dijeron que si la próxima no llegaba puntual no me iban recibir, enserio ? Por 10 minutos ? Creo que piensan que son la única veterinaria.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "LED STUDIO",
+    "uri": "https://www.google.com/maps/contrib/106119588247949146865/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTowTUqHF_bKS8r2VNvtVY_1ntv6g56n8rWNNLH5X2Bbte9UV9=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-27T16:32:55.150553559Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkSk9FdEpURVF4WWs1UlVHTnFiUzB5YjBWQlRuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkSk9FdEpURVF4WWs1UlVHTnFiUzB5YjBWQlRuYxAB!2m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xseWVqaFBlR1YwTmxKeFYyNWZYMEprZFVNeU9GRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Los contacte para solicitar unos analisis para saber como anda mi mascota. NO pregunte por cita, ni consulta, SOLO por los examenes ya que ellos lo ofrecen, sin embargo, te obligan a tener \"orden medica\" o pasar por \"CONSULTA\".\nSi bien no es obligatorio ni de \"LEY\" que te exigan orden medica o consulta para realizar estos examenes, es una mala politica y modelo negocio exigirlo.\nEn todo caso deben expresamente decir en su pagina, \"Aca solo realizamos examenes de laboratorio si tu perro ya esta enfermo o si tu mascota pasa por nuestro veterinario\".\nA pesar de haberles especificado que los examenes son solo preventivos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los contacte para solicitar unos analisis para saber como anda mi mascota. NO pregunte por cita, ni consulta, SOLO por los examenes ya que ellos lo ofrecen, sin embargo, te obligan a tener \"orden medica\" o pasar por \"CONSULTA\".\nSi bien no es obligatorio ni de \"LEY\" que te exigan orden medica o consulta para realizar estos examenes, es una mala politica y modelo negocio exigirlo.\nEn todo caso deben expresamente decir en su pagina, \"Aca solo realizamos examenes de laboratorio si tu perro ya esta enfermo o si tu mascota pasa por nuestro veterinario\".\nA pesar de haberles especificado que los examenes son solo preventivos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Nueva Legion",
+    "uri": "https://www.google.com/maps/contrib/114357260691486952213/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjjTv0a3rK98yVnwKGm62WNhGZk6mjBz0yBNPonf1FUl8ktw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-13T18:39:39.162589307Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xseWVqaFBlR1YwTmxKeFYyNWZYMEprZFVNeU9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xseWVqaFBlR1YwTmxKeFYyNWZYMEprZFVNeU9GRRAB!2m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/reviews/ChdDSUhNMG9nS0VJQ0FnTURBdGZMdW93RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente experiencia desde la llegada hasta finalizar nuestra visita. Mi pequeña Kira fue atendida con mucho amor. Recomiendo 100%.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente experiencia desde la llegada hasta finalizar nuestra visita. Mi pequeña Kira fue atendida con mucho amor. Recomiendo 100%.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lucía Ordaz",
+    "uri": "https://www.google.com/maps/contrib/113009660571994199644/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRbc22pRkAfnfyOmd3WSbDMHPjSu4KMLSqdETIGIIssnpnbnsB=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-10T20:46:59.225667Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBdGZMdW93RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBdGZMdW93RRAB!2m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/reviews/ChZDSUhNMG9nS0VJQ0FnSURmam8tRUtnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Trataron feo a mi gatito de 4 años porque estaba asustado y no queria meterse a su transportador. La recepcion fue insipida.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Trataron feo a mi gatito de 4 años porque estaba asustado y no queria meterse a su transportador. La recepcion fue insipida.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Beisy Quiroz",
+    "uri": "https://www.google.com/maps/contrib/105726443835566609320/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlvcz1L6CIRKvB3XDQUsysf1GdUO839o1tZyhJX9EoIvOmGQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-06T15:15:12.711604Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmam8tRUtnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmam8tRUtnEAE!2m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNScExXd29RRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 3,
+   "text": {
+    "text": "Llevo a mi mascota a bañar siempre ahí y me la entregan bien. Pero recientemente solicité unos análisis y hasta la fecha aún no me dan respuesta. No responden wsp ni llamadas ya han pasado 5 días 😐",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevo a mi mascota a bañar siempre ahí y me la entregan bien. Pero recientemente solicité unos análisis y hasta la fecha aún no me dan respuesta. No responden wsp ni llamadas ya han pasado 5 días 😐",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudio Luis Camacho Chávez",
+    "uri": "https://www.google.com/maps/contrib/111920033403158490378/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRJsdsyDRYPNkcdCG09Ow_d8067m24zVPov05Ul_QKFqO6V5HfzQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-03-25T16:40:00.305499Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNScExXd29RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNScExXd29RRRAB!2m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMbL65GzbyYpBlq5zpeHZOMJ4JD4qc48_CW453NwDJmkYcAj358sZo0t5R35usSH33h51qzAn8JqBwarYDrVtnN_EVW5QkAJ6xJ4T-lFjjwA_BEz9A2QS4RitAPKbvbfalipBSvjUDWAg1d0n9nyVUs_uLyAH_NoThhHHoWewjUZk8h3smLRq2ok17zCmUHamGWOuOzJUDhM8OmuSd0qTpwau_9hoTdCQcjmipQvGpJ3Pu0b2si3EHsm6DiKv7fU5hwSUx4pRMUjfI3NooCWvAXPfI_saY7IRd4gxsv6gPrbIZsLs3X-r8HuHISzSskOe7DhhG37VxCVFwZ_VPaY9BYY-e2GLiI8kmD-f1RuvJQnmt19wCbAMs8Qm_y9Ci4k6NA87xpam_l4ihcP78qaRUEfSwni9nGR9b9U2cUn17tGxwWf",
+   "widthPx": 1024,
+   "heightPx": 1343,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsJyFpAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsJyFpAE!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMZiJ5s2kTLOkEFAXJMKE0Uyy3sPB6hIeI2R4Hd_ZkFy37aBMML33eevehBVf-kEkC8sGxy4D2B_X1OdClsxGPk1hrlHrBuh_75QvVufLP_HjgTbpSYdZU2qiVFyhVelxcAwonDSJGEG-R_sV-BK3Zj3rTqN8AuLnnzGDVFy3MYGfKB2aY5vt-YqLTOEyR3F2EpbPemm_ELYW1HDNUbcBPstRSU8rhSitRJUngqwPlc29vwc_ZY4W32RBRQUsalz5TXpAm2x27l4wXCp7HENDZI_AkIRib3W4tOfAjXc2rJXJupeLHaAOBr-dK7ObXXdtY30MljIfFtFYnBNc7ddfM3bnCrhphScMeRlJz6U2pE4Mv-xjBXv5rDC16ot-DiejXWdBDXyvHKmRD6piU9s1Ia1bFefNBYkYlJB_JCNy8zt-5Ik",
+   "widthPx": 2048,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9gP6S9wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9gP6S9wE!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMaN5VoiMn_3Ai3xSSICgcmoxI1yXIV_gqBmThCvT5E8J60kKgK0s6l7Te4i_VBaPyOorPG2l6kCiGcq7Ny6kMLduCm343TASxrQXeYHIN_w0jHUtS1I8oK9B_mf2knyqYqelcyDZYToaVCmthQ87hK07p6z2Hy-6O-bzaLXBDPz0Cne7KBDorceeWh7DLyIu3VVx5GSyZj3KpACTZgaFpz6gP1dqh8a9onDdVpMa5oCNNQk5H2LqIZ2JW4XyGCIEv7wfyjFE2HT9CpgISyYbQILM5mEOTBl8G-LQBAX4eyYS_sHyFnKZbRx7SKHqM1rNZ3hOVCT2l71hylluWAPHCPk2LH3yd_v5UzYs-igXq1OkXdhh1kFFdUJNBieH5xcN0oZY-Jg3lm20Y0w_ldtUMLwEbkOshbjQLou5e-1M1ynHeSg",
+   "widthPx": 485,
+   "heightPx": 330,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsJz2pQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsJz2pQE!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMZBYt82HCtb0nozWJSNYN9kO9h3Hg7mTi2fQ6g0CmbBoXLYXnu7UcGrsZ_0gpTL9_F4GUz5uDkb_OzPvUg_jWGu4Y2Cgg24kdo3vUHsZv22AIN9qPpHU1YLBW8dJAj4BP8eWOXe52xuaeVRtLFl6Pa9Ty0pyZB-j_bYUO31CIIzBD3_zI1nxE7EffZ9ZVHRsKh1b-gYpiK7dEaRCMR91G95uxWg7oq5O6H25AOT9W4rbIwH67mQ3LmgQ2jdRjkdiwTAKf41gQNxpZvIOH0IYReXkS4V60VOStbntFlxNt1bEl6GzEgaHCQ7vzdVfXdXr1snOjOgiBhKMrFHycsPTuxX8e2bzT-y5q-h6rKWofhv5E-Cm7_2oy3og7GV64LoETZfp4ujsN1uZEagUYvYSTViksyVobNudYKxnShbMwn1DQ",
+   "widthPx": 485,
+   "heightPx": 330,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsJzaVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsJzaVg!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMb-w8hsQ3m0C_U99XX9dWXat31EryoNy3Qn1CPQ_xEyBVZp28kgo-dRTx0pG4evl5p0mB4PqCOXGvxmVBPQlo-Mjy7xvOStqahn0qjPo1fMJPoPaHrB7Q8CRugk1T3Rg_V4BJo6CWkcWjGzeQr-W6JUNIn2_gSV_b-8g0HlVyMWnc9e2okTJitMFs4UyGgy3PyveMVvTGonLUnlgD4XK0WeYDEqpiBVjtrX2hDOXjHZNGZcPNh4YWvaOHiiz9W-TtjB4QXRQvvt26gR1hwY6CFpEkUGf9RNjkZ7RhUQ40PUX4oszdH_jZku88QsAjASagapyeQLzkaSUS5VvUM8yugxjalfponOFCPQ0F8lO1EOJuUcet6ZmEuz7f0Nev0RN9A-kWR4ibHTQrmul91H2-UxaCA71_EzKhqtWmrHE9lrSraW",
+   "widthPx": 485,
+   "heightPx": 330,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsJzRywE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsJzRywE!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMbWVjCUvC40cCTYUrPDSTmEMqANvrredjINseuWUZ1bM0cspzv8h2qxu7-C8_Oi6Bl5qRwN6TwtEMMC1fW4kVwvNftc8tj9qFkgCgOVk9jf-M93SwckWbER2nkAP4IV3bUs9X5fwod-nUgnqeu0y-jhjDAMGXzqtEaoMunV5IR8T_5tjF0BdtrvYOB8TX_6l3d89odwWT2HHyYd8Y_LNEgmrnSRCbdqvX3HFUbmQANVaG0zZTvVew39tpiHgYp_TBs_cMoN6d82md22GePMlw6ktK76Afn_5k4F8AyYouBj6JzYarh6HjVb-3UD9fpQMPAk3NNTQa_y_Q7hv4mKylWT0YIEPJP1N_q2D7iUB80xJynw8ZiFOZV3woEcrz1VvPlzInZMA_ywWnaXA9IKscVF9zlqCdW-7qh6xyl-fCc",
+   "widthPx": 485,
+   "heightPx": 330,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsJy5Rg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsJy5Rg!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  },
+  {
+   "name": "places/ChIJwYO_H4LJBZERw6G18K_e_T0/photos/Aa-ngMZYsY5yyDQAOqMc1CVtjy2xvw_9kSc-LXYr3Szepau4leYA9QwjsLBxcyGsXHdPI4nK966NCBnNDP7V3DWzsxcg2VC-Yssg28NdmjgS_G-PthkwaiI2UKriDufcUlrk1MOip1eTpQQnNMuGcuU0DPottDagbMCGz-bdDJJF5uNKobPSHpG4j1QCxl8puei7Wn9fAuMRNSOvx0kliIsTpnrlPC8Y_Fj5XpxHsVY5iNV2RYfGxMY4FuP375_L0fCz27tNwJE7nQoRzXFHvIGcY2_GA9KO8ZK66U4nuB069T4oe3hFiHns7p7NtQIjGKbZK8hooZ3K7F1l8C5qjHR36uOpCZvNUJ-K6JNDBSoWWww9JLQRs2qIXeaTUs3BYk-VhtDrH0zH7WO6EEzHUCOXnxqyXle-XTu2mHdLY63bqCU",
+   "widthPx": 850,
+   "heightPx": 850,
+   "authorAttributions": [
+    {
+     "displayName": "Digital Vet - Veterinaria Sede Jesús María",
+     "uri": "https://maps.google.com/maps/contrib/109078611348070155582",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgQnkVSjwaFRUsYE74g2Z6fLtoTj6OK0CyZ64zgQZFFPTZxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqsOyHTg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqsOyHTg!2e10!4m2!3m1!1s0x9105c9821fbf83c1:0x3dfddeaff0b5a1c3"
+  }
+ ]
+}

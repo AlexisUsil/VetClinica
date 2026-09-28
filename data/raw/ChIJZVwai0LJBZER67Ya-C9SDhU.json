@@ -1,0 +1,616 @@
+{
+ "id": "ChIJZVwai0LJBZER67Ya-C9SDhU",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "934 443 235",
+ "internationalPhoneNumber": "+51 934 443 235",
+ "formattedAddress": "Av. Gral. Eugenio Garzón 1060, Jesús María 15084",
+ "addressComponents": [
+  {
+   "longText": "1060",
+   "shortText": "1060",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida General Eugenio Garzón",
+   "shortText": "Av. Gral. Eugenio Garzón",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Fund Oyague",
+   "shortText": "Fund Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15084",
+   "shortText": "15084",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.070456000000002,
+  "longitude": -77.0484907
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=1517240490449876715&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://totalpet.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: 9:30–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 114,
+ "displayName": {
+  "text": "Veterinaria TotalPet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 9:30–19:00",
+   "domingo: 9:30–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Imagina - Concepto Life, Av. Gral. Eugenio Garzón 1060, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0RGQwNUViVzUxYVhwb1NIZHFkVXROVFMxSWRXYxAB",
+   "relativePublishTimeDescription": "Hace 3 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta mandar a bañar a mis perritos aquí. 🐶❤️ Vienen por ellos y siempre regresan felices, limpios y oliendo delicioso. 🥰\n\nSu personal es muy atento y siempre me han atendido súper bien, incluso las veces que he hecho consultas por WhatsApp. Además, cuando han tenido que administrarles sus medicamentos, lo han hecho con mucho cuidado y me han enviado fotos y videos del procedimiento, lo cual me da muchísima tranquilidad. 🥹❤️\n\nTengo dos chihuahuas y sé que no siempre es fácil con sus uñitas 😅, pero tienen muchísima paciencia con ellos y los tratan con mucho cariño.\n\n¡Estoy muy contenta con la atención y definitivamente los recomiendo! 🐾💕",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta mandar a bañar a mis perritos aquí. 🐶❤️ Vienen por ellos y siempre regresan felices, limpios y oliendo delicioso. 🥰\n\nSu personal es muy atento y siempre me han atendido súper bien, incluso las veces que he hecho consultas por WhatsApp. Además, cuando han tenido que administrarles sus medicamentos, lo han hecho con mucho cuidado y me han enviado fotos y videos del procedimiento, lo cual me da muchísima tranquilidad. 🥹❤️\n\nTengo dos chihuahuas y sé que no siempre es fácil con sus uñitas 😅, pero tienen muchísima paciencia con ellos y los tratan con mucho cariño.\n\n¡Estoy muy contenta con la atención y definitivamente los recomiendo! 🐾💕",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella Eguren",
+    "uri": "https://www.google.com/maps/contrib/113793007227979799492/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8KWRdkuWxcJhtotJ7fbtYXf9ANOU9n9V30D7EshVXlzLH2h4srg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-09-03T00:50:56.140499415Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0RGQwNUViVzUxYVhwb1NIZHFkVXROVFMxSWRXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0RGQwNUViVzUxYVhwb1NIZHFkVXROVFMxSWRXYxAB!2m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paaFRFcHRPRTV6VG1zeFJFWkdPVTQxYjJvNU5GRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Total pet es la veterinaria a la que llevamos a Romeo, un schnauzer toy de 9 años, y se convirtió en nuestra veterinaria de confianza. Romeo ha estado muchas veces enfermo por complicaciones en su sistema digestivo pero ha podido recuperarse rápidamente por los tratamientos efectivos que la vet nos brindó, así como otras ocasiones donde se le infectó la vista o tuvo parásitos, en todos esos casos nos guiaron muy bien con sus cuidados y le brindaron atención para su recuperación que fue muy breve. Todos lo conocen y lo tratan muy bien. ¡Son muy amigables con él por lo que nos quedamos tranquilos al dejarlo en sus manos! ¡Además de que para sus baños y cortes de pelo lo dejan muy lindo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Total pet es la veterinaria a la que llevamos a Romeo, un schnauzer toy de 9 años, y se convirtió en nuestra veterinaria de confianza. Romeo ha estado muchas veces enfermo por complicaciones en su sistema digestivo pero ha podido recuperarse rápidamente por los tratamientos efectivos que la vet nos brindó, así como otras ocasiones donde se le infectó la vista o tuvo parásitos, en todos esos casos nos guiaron muy bien con sus cuidados y le brindaron atención para su recuperación que fue muy breve. Todos lo conocen y lo tratan muy bien. ¡Son muy amigables con él por lo que nos quedamos tranquilos al dejarlo en sus manos! ¡Además de que para sus baños y cortes de pelo lo dejan muy lindo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sam",
+    "uri": "https://www.google.com/maps/contrib/115211396196209313723/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmxsgVdgRfsvFJaprZbFJKeqsPJyynoIWqNMG6A14GAJQKOxg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-13T23:44:21.760670286Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paaFRFcHRPRTV6VG1zeFJFWkdPVTQxYjJvNU5GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paaFRFcHRPRTV6VG1zeFJFWkdPVTQxYjJvNU5GRRAB!2m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VdExUZzVXVU5mVjJkelRsQTRabXhHU0d4UU1sRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Puedo destacar que brindan una muy buena atención a mi mascota (ambulatoria, corte y baño) y cuentan con especialistas (endocrino, ecografia, etc) que han dado un diagnóstico y tratamiento con resultado efectivo. Considero que es una veterinaria bastante completa y la recomiendo por la calidad de los resultados que han brindado hasta el momento",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Puedo destacar que brindan una muy buena atención a mi mascota (ambulatoria, corte y baño) y cuentan con especialistas (endocrino, ecografia, etc) que han dado un diagnóstico y tratamiento con resultado efectivo. Considero que es una veterinaria bastante completa y la recomiendo por la calidad de los resultados que han brindado hasta el momento",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jeanpier Huatuco",
+    "uri": "https://www.google.com/maps/contrib/118079307152848316455/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrvW-0fQjLqDIJq8rYXmIx0RIwlF4kIvx9EZT7dZHB-mKYZQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-13T18:36:50.674866738Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VdExUZzVXVU5mVjJkelRsQTRabXhHU0d4UU1sRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VdExUZzVXVU5mVjJkelRsQTRabXhHU0d4UU1sRRAB!2m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tONlRqWnNVVE53VDNoR1VXRlpOek0yY1hGRVRFRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Quizás sea buena su atención;pero el chófer de una de sus unidades si es una bestia en el volante no respeta la luz roja y te mete el carro, que se puede esperar del trato a las mascotas de esta veterinaria?",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quizás sea buena su atención;pero el chófer de una de sus unidades si es una bestia en el volante no respeta la luz roja y te mete el carro, que se puede esperar del trato a las mascotas de esta veterinaria?",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Denis Larry",
+    "uri": "https://www.google.com/maps/contrib/109553664524630881563/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKGNRJa2za6lFh1mHAUvtiqIfK4NYeJN5FJqtHu0UVeHEOW7g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-30T01:05:48.026897594Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tONlRqWnNVVE53VDNoR1VXRlpOek0yY1hGRVRFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tONlRqWnNVVE53VDNoR1VXRlpOek0yY1hGRVRFRRAB!2m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3X0tyS1B3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Tengo 3 chihuahuas y cada quince días son atendidos por el personal de  la Veterinaria TotalPet desde el recojo, me pasan evidencias en caso encuentran alguna herida en uno de los perritos, regresan oliendo riquísimo, con las garritas cortas, las orejas limpias, me encanta el servicio que recibo. Gracias equipo de la Veterinaria TotalPet.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tengo 3 chihuahuas y cada quince días son atendidos por el personal de  la Veterinaria TotalPet desde el recojo, me pasan evidencias en caso encuentran alguna herida en uno de los perritos, regresan oliendo riquísimo, con las garritas cortas, las orejas limpias, me encanta el servicio que recibo. Gracias equipo de la Veterinaria TotalPet.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sandra Tello",
+    "uri": "https://www.google.com/maps/contrib/114716184776477904587/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZJUd5sFdL4R_gtSKg9JnNJwfQzQzTWgoWHb93qT4dzP8R-fCWaQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-03-29T22:43:10.820549Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3X0tyS1B3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3X0tyS1B3EAE!2m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMYgwf4z8-GIOTQw5ROlLuoGb8puvYd-jPxRdm4zR-1oh_Wu1ZH4nzGEVXxz16faH1KUXYSzR7EzhE0Qy63r8MZtvyb-JSGjSfbK5d2v4FuWEKDIUl44Zvn0W-PMh1S4Gi8KIWiC_38LvkuN8niOK1vi8M3vg9BMaX9An97hRfoeG_ajeMZqGDOol0CIDjgTmqROiTcHJ4reWtvh2rBBQvhR_vTW6nKc5ZKPHr6hML8LKLlvYk2JomGD_CMnUL0wcjFC7mWyf5CnlBBB3toCzY9jUg8QV1ZpoD_q84GiBX3fHYfb_mcvIwaW9hA8jL95x9kpDNXHDrLuEFIdR4QzTtbluqK1VGezOJ1PIclAk7YjQyk7kK3L8bszHFjSpba5QYE6cUA7wbWZWBRgazi79qL4qRs",
+   "widthPx": 851,
+   "heightPx": 315,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm8f-SQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm8f-SQ!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMYiljWWiAhk00VaPUiOWiQVEFQH3lQ6lOh699EGt5NXqFS72tzQ363C1pvrXgVzYk7AcftLU_tG_imwkVNI5Bdr67CopagwbdY2J7ODAQ4wMvCy7NganGJTxbJ4ATUXJJzoLik0dkOeNd06WCtjmNQH3s_aSTZn-alhhjMO5EnA9mNjzfJUjkCzCR1OU4p8u0wQu1Rf-7mLGK5INNMwQ_iTF-fM38n5PaWjUseAbr1lOPAFpRNbff-4k0jzuOxHuyV8Lv1Ud2hDs40vfkkOqbFalM8xemmz_4UtIrLcFnJAqzLegTCRfNtWdnyKyrcTQTowoN3OCH-kO7mjnRvHfk-8CKJBGoJysvPnJ_QhT7UflG0B8CLnu5e7s2aEANl7y4WlRD1W7mqE3BpEN7vxZvlNim2C",
+   "widthPx": 4800,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm9mphAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm9mphAE!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMbjWa9THBmizNUeTDRn0rzQZy3Y12P7GdNhMwK3YN2UdiqV9b9WmkEGQQnOX2kDtWxE-2mUcta38dqzNee4CLxbCGctG6I39HksmAJ4llKuIRj6pMlwJxq-EwH_E0IuCht5bVSo5RgaPXR4CP7MR7-c2OPCNeZp9i-3nLckQOswidGSk-wutp0u9CccozPfUdf3pHIxuhy6WcbHJiWHathtMLQDZAK3M2vhK8RB5AsewIrY5AdbyYXrpQPa4xCnpKwjB_XqXHWDiyWF0Xhg2BV7XIi7pTKvRoVzDhgmv_-AYCpUotDJQ8GGWFqg_9mxF4DHeSHUrePRGdqlU2UIZ_jHOIWxYE0rNMV0PPlfcmZDWcs5zgniwk0CMz2-xbFAPRdHOEBbEqdokhaq165xnTeK6MU",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "miguel sosa",
+     "uri": "https://maps.google.com/maps/contrib/107644242152483669766",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXyQHZmw1APjLkKanX7lMzTsDPOdlWIG_u6d_6Re1FXau0RPgVwg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBzKCUKQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBzKCUKQ!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMZ43AXGxWa1zG-O5FFqJoyUlI9fhoBx7ot7FwVKY2RhWflz1NiOE21tQbREkX3Gdcb3XZtBPDzzVc7n5ab5-R31IZPq_7amdGT7oPf5-xlwWbJI6mQYNkquEQO8DaxSq0-7AcS3bwudyIcVr6c0qsFm5LlDYDvYeDIRid6FkkCA7LA74-kLhizGp9JZg9rH9Ukp_7WPZZ1KRHvS64Sgu0oiZq5tORfoAvLq-CAh_n_vBCKN_pfDmxkvXGvB7271aqpTxoDrqEADnCptYl5z8EA0QSY6Pv_RJcXm1iEcL5m6qKVsEBWwHo3Tec6Id3bjOA1FslXferKvVnocpyYqIjyJYF_AdodbH_VtHY4gK0gJafsKpmxNWtdHujcUxA--9H8D1eQAULZO1tMpdS07qp8E7pc",
+   "widthPx": 4800,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm9nXJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm9nXJA!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMaUU8RLRI4AND_f1ZKBQIGE4aykeYTLJchieY3e0dBvbxIt-Rv1QJ0kV20d7RCwa6h4lXMbd0SBvK0yjwzl2TsXW7mrkCA6kEJ6pR3Gkk_i01Zt5mdBIjdjLG0gfEor1bxp99KE8p5wJx5xuKA8fr5xTSUa4Ksk-CUP75aMDHawQWHOMKUhZW4ZAAZ7pJ430e9LNEUwjOseY8mvMeePeECoWdcMC5xtKtIq4yCcI6xJiZAifAPXOmRkAYzCrF0fIkFpMYjnzEhpxO0l5YIduygWhUO7Y89wrMBIAx7PyXmbl3-Tm3pF2Re3qHmcRkmN2aSSppzxy6mDfzVhEIpTLyGJhwzqAgoFSAV4hsxWaNBV6uoKcHYC4rKsiEhx4GUIj7QFnHIbvivE1AVJ37LJL7RjnKCXqWLA5ZZpVQCLJ_yJeA",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Sam",
+     "uri": "https://maps.google.com/maps/contrib/115211396196209313723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmxsgVdgRfsvFJaprZbFJKeqsPJyynoIWqNMG6A14GAJQKOxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAo_41qh2igziIswPnrBSlP&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAo_41qh2igziIswPnrBSlP!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMYOwV4lbg6enssVHYYI9bx5BJgsn7RCeAnGMCLDP5bgNRVxaaZgg56Cs5oOmtbyyShEJJyC7ebkC1EXIaWmUB4-QmjGTS67gbFY1AZnFDRYru06EnbXFq0GUAgTJPRLX0bJPHM2Fs8mcVUBgOjU-2seZeMteujvvouOT1RaLu9FKebnrH2VVBmAJcXmiWDEazOi_9ikEXY01DIWeKPaQiyLJScN4r40GDAx6UTYsGH2TqPfwZ8erBS6MMOOeLeoN-CDJUtmCqjHoAVshPE5LDGhH7_ppaU1eLdwGqF2q5F6Za5Nn6kIZPDEKMoil0-H-lsz3vKJ-VkHTE9UpO1loZ4Xucd_-wNM5jh92jWDXy7jQCweEarAFBudBvXvpRA9Wqe7JCZPAV93HvA5Mq_Dotjj-Bs6rco",
+   "widthPx": 4800,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm_nksgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm_nksgE!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMb69rbjtypfhVVGokaHKOYQiRuxLKXXjdQH-05ETyoQ7-IbJZdKcSledEDs2t3JItIMsK1pWa-RTfZL1-hkj-71PpTt1bV3ghrQau-dqbvbSEe9PIKX5gvQZNa5N4ct07Mo4vsJY_1elS74dwEKZDXOWWXU-gMgjzvVHdRHqZmo0imW6chQXVtwhFpQ9zQZ-TN-CMaNlyOAIMUslH9pZ9TOojq9fPWhF6gOF0rT1tBuXu4r7R4r7bF0SelMuzGz2YWGjddQ8JU8-jGdWLjzOtLgmn5KNEYBzT5BE3O_jqo1sWlvp0HCfNFSCrUZ_JYXVfchrBXCThImbjelN65RjdExOtA2n0ijeDZRgcHd3sfOo3BpJcYEpG1b8R4Cbw4jZWuMuZoee322zpL20ousG9G0bMgmMO0",
+   "widthPx": 1468,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Diana Arpasi Lenes",
+     "uri": "https://maps.google.com/maps/contrib/114695055353648637172",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsbX0Hl8USm47wWe7jUv2kuGfSPi_g4Hq5fmFnFSeYz2hIRUn-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCI6NWz-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCI6NWz-AE!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMbhXenGQUsE7I4Z9JGqR5n6eOLR6pZjHEPj7nfdicQF1qfGbxZVa656LzBhl55WhinYaMrZLtSBMElGk3gJYislLyJhpmFCsTzz5V1dNNvTn-GnJEhcT_kx2o5IWJrjOGrK6j_ir5vUXSoK2RRZ4M_jbOYCm0zxPNP0BFDrLor9bfzcdKxv7FQ6uafbYZ5LBFo7G3XKgXb5jSLEjyTpiYDXHbBfwTqDwzThrBVJGW_8d-kT08rnnS1nR_dpjyeiBClRVumpNjnBTqnQujAx33YnVFfPdfsE5K-CMSTd7RKriIpetF-miD3fwPj9QnDO5b0fO6dkjRgZDiDmp6xfneaH_UWNe3YcwIfVIbADbwVah50rL_hjWSna3nHNgsAGV67O_UyqlpGLEPaOT0DVF7a8OsMwiuE",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Míryam Espinosa Galliani",
+     "uri": "https://maps.google.com/maps/contrib/112424093418326578830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8ImyrC8_IxvuQ-Xwpu93-fD-WTjdk1jiasqggk-MNK_ZPRstP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID3rKvzsQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID3rKvzsQE!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMasmCKqqK2N5lgBugnSUNwDds101wXdh4v4OtzrwU0BMaBR8chHLEpO7ZENaFS6VMOZuG8XkYTSNWjS_ReCEnacAB8sKpEozyCoZpSkFsKnCamsTICRBHm0yhEJT8CATtHY2GaUdCg8UXg9ONF_4ZU5xoAu04sWfJsoSk17nBdZ7bU6yo0beE07RRdr_2xJGq0aVSKZkz7nCguDriXywHQWLTh6WPiqATZKi3Inc4ZbsW0Jisxo5VchC0uUiQt9kCR8g7xZPwSmLXYWuNBvqrooTku2tedRpxhzf-v_f-5HxF3-IEHaZoGBIe_t-WrVPFFwHaHqeGfGr3Dj5RPeDZ99Ws6ji19DJIPIwIDPKJbl548Wr3fxvk0uCQOydPkDwuUnKEaKdo0vqXoz_1eKiWf_jA",
+   "widthPx": 4800,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm_nTcA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm_nTcA!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  },
+  {
+   "name": "places/ChIJZVwai0LJBZER67Ya-C9SDhU/photos/Aa-ngMYVPerK-nbjx_rc7x8TODqh9WRy-w8Gdq-hXsajruaIhEyhFzETS8NyrZHJwSppysI8msUgROSSRL_WbrTjIXgGtgzTaH_hwejsjvh0RS8se-b9ldFeFlZS0nPPM1wMgcw0hHZyCmqEurjvX_T1MJ0NbaSj1lYoU_lCJQ49d3doa0WUEAX48QdhwONeSIM-yoRQEEZBh7_mU3qDUM95owyrOptKRhzdcc-oGDHq1-1KH4aTOqwOJY7ZkyQqwchTsPcQeU462nU4SHi2GS5PMMTFk9UGyrNa-Hir28_TsQQoUnDwa8ptQ9Rp1upQQOfV5Q5_djxfIyNUPJWw6DuxUn4qITyUzj4ANVeD45QjR03KoXPIwhGG6DOG-wQuXCcg1SHp7fHDWW4w8gxUY_igMmXMRVI",
+   "widthPx": 4800,
+   "heightPx": 3191,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria TotalPet",
+     "uri": "https://maps.google.com/maps/contrib/104267904967626779030",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIxjlFmnnhkLpy7s0di0dndFmi3wtmWT5daBI4diswpelwaYY-=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqm7nhEA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqm7nhEA!2e10!4m2!3m1!1s0x9105c9428b1a5c65:0x150e522ff81ab6eb"
+  }
+ ]
+}

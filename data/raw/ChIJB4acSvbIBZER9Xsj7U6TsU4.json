@@ -1,0 +1,527 @@
+{
+ "id": "ChIJB4acSvbIBZER9Xsj7U6TsU4",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "959 501 783",
+ "internationalPhoneNumber": "+51 959 501 783",
+ "formattedAddress": "Avenida César Canevaro 861,LINCE, Lima 15073",
+ "addressComponents": [
+  {
+   "longText": "Avenida César Canevaro 861,LINCE",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Risso",
+   "shortText": "Urb Risso",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15073",
+   "shortText": "15073",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0847445,
+  "longitude": -77.0421842
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=5670475373031422965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–20:00",
+   "martes: 8:30–20:00",
+   "miércoles: 8:30–20:00",
+   "jueves: 8:30–20:00",
+   "viernes: 8:30–20:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 38,
+ "displayName": {
+  "text": "PETFARMA",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–20:00",
+   "martes: 8:30–20:00",
+   "miércoles: 8:30–20:00",
+   "jueves: 8:30–20:00",
+   "viernes: 8:30–20:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Avenida César Canevaro 861,LINCE, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/reviews/ChdDSUhNMG9nS0VJQ0FnSURrNzdmOXFnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 4,
+   "text": {
+    "text": "Muy buenos precios, gran atención de Silvia. Venden alimentos y medicamentos. Hacen delivery y atienden a tu mascota. En Lince no hat recargo por delivery. Recomendado para sus mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buenos precios, gran atención de Silvia. Venden alimentos y medicamentos. Hacen delivery y atienden a tu mascota. En Lince no hat recargo por delivery. Recomendado para sus mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yuri Zambrano",
+    "uri": "https://www.google.com/maps/contrib/115585381345740957492/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMJXCIh-55rjTTdF4muI64JYYHMvF5wdo1oDWgLWoZmXdBeXIy=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2019-07-12T15:11:41.126555Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURrNzdmOXFnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrNzdmOXFnRRAB!2m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyc2Q3c3d3RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio el brindado por la Dra. Silvia, siempre comprometida con el bienestar de tu mascota, en mi caso con Micho, mi gato. Quería publicar una foto de ella con Micho; pero no se como hacerlo, será para la próxima.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio el brindado por la Dra. Silvia, siempre comprometida con el bienestar de tu mascota, en mi caso con Micho, mi gato. Quería publicar una foto de ella con Micho; pero no se como hacerlo, será para la próxima.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "GUIDO MANUEL SILINGARDI ECHAZU",
+    "uri": "https://www.google.com/maps/contrib/107185891066828444550/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzvyzIeA6MMt_8ZeP-c6nbtfJCejHsXc63Mb1RfVc3pXaSuw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-04-23T17:22:24.482333Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyc2Q3c3d3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyc2Q3c3d3RRAB!2m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyc2JPVXlBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente la solicitud y paciencia de la doctora, siempre lista cuando se le necesita. Así sea un millón de veces, como ha sido con mi perrito, y su atención es personalizada, se nota el cariño.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente la solicitud y paciencia de la doctora, siempre lista cuando se le necesita. Así sea un millón de veces, como ha sido con mi perrito, y su atención es personalizada, se nota el cariño.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Aguilar",
+    "uri": "https://www.google.com/maps/contrib/111035947358117172474/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh-qMvRD7VS-34pWLFLSl57B5wE5jyarUySjtSCxfei1Pr3yA7=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-04-23T18:59:29.693620Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyc2JPVXlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyc2JPVXlBRRAB!2m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyMGVxLXp3RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Mis adoradas Mia y Moly siempre bien cuidadas por la Dra. Y seguirán recibiendo su atención A1 con  buen diagnóstico y tratamiento.🏅🏅🏅",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mis adoradas Mia y Moly siempre bien cuidadas por la Dra. Y seguirán recibiendo su atención A1 con  buen diagnóstico y tratamiento.🏅🏅🏅",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Noca",
+    "uri": "https://www.google.com/maps/contrib/112346680667876641501/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqd3sX0ZCuXCWbPYL2Gr-hRd5t5ME-6VFMZwWTWmcMFTo7Fg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-04-23T12:17:17.766180Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyMGVxLXp3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyMGVxLXp3RRAB!2m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyc2Z1ZVh3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "La Dra Silvia siempre atenta con sus pequeños pacientes de cuatro patas, paciente con ellos y siempre ayudando a conseguir los productos médicos veterinarios para sus fieles pacientes y apoyando con recomendaciones de Doctores A1 para especialidades distintas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La Dra Silvia siempre atenta con sus pequeños pacientes de cuatro patas, paciente con ellos y siempre ayudando a conseguir los productos médicos veterinarios para sus fieles pacientes y apoyando con recomendaciones de Doctores A1 para especialidades distintas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sandy Quineche Infante",
+    "uri": "https://www.google.com/maps/contrib/116936258436883039140/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIH-tCafhdNwHF5mS-h4x8RKNgOHSOoG6gmaekN3iEojrDzqQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-04-23T19:19:30.813306Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMyc2Z1ZVh3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyc2Z1ZVh3EAE!2m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMbdpJdpMn_aJMHFkUThKE-cM99iVkRYnrqMTyrrLtJ0ic2ypAk38AtI4uMZjHEJxzu8oDFw4waCaT9rAQOoLBOgrrKm_bJ4P6zUoVo1ApCYByCaPIi6sRzE_Rnla3-Uyi3mfa4teOy1zNdWrqsNzzV7lqtuSd9aIEmZ8K3498YpInq5qN2C98s-o48VklrfKLiv-DIiN-x7mBW1xvVNzjnKroRXL_YZvyA3AGYhogHOlr6ZriVpI96980eFnG2ZjFioHRS15n2G9n0T2dXKLYFA7VF3txeuuq1ouKsSTNFckpMJFO1o9UMYXJ1UHLnicL_0mssF-Eq0LPViet1x0Mb_Pm6jU3zA2ue3qhptkRbiKWwhwSuqPCfoD2JD-w7lVFprv60Oo4k2tp871hkBg_Zfayt71GDE39c6vxsXiMWtqvs",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Yuri Zambrano",
+     "uri": "https://maps.google.com/maps/contrib/115585381345740957492",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMJXCIh-55rjTTdF4muI64JYYHMvF5wdo1oDWgLWoZmXdBeXIy=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDk7_eF0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk7_eF0wE!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMaUoFGmja78vHxGVdZ8UH10wq4Llj0XPx_OTkayrr51IYjDjRlC_zf45mtdG-n1TjCS0CT3mPJ9vQHQnxBgtg7CNU7jwJSre-W7XJMvbTEEujfJdydwaPwy8pY_atmqMm3fuUoWRZc4aHXv2vwWDumXBCOWtWK6E6xz1qJfKtw2xmBGorGC4q36Cv2dmbI0oYlN7UdTmoDnraiwKCDNIf13_G1aADbcC6vJL__3aUdF3VVqpKnr6W3RcrFClfOlhVNDbUM9Xuoc7FojDfVK9-3dYIAx2OXZQ7sdb1f7TWjHQy9HrzV65llpqpH60u55WhYL0ypD2Ag55KFciTeCGEqu4OJ_uvUnYviN0xdBzk3gTqHow-mnRmrtvWhal-fxolQkKQllhRObbwprDvxbFVvz86Bp8ycQQPFRdBiD2_daxX0",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Yuri Zambrano",
+     "uri": "https://maps.google.com/maps/contrib/115585381345740957492",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMJXCIh-55rjTTdF4muI64JYYHMvF5wdo1oDWgLWoZmXdBeXIy=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDk7_eZpwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDk7_eZpwE!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMYZU3caJ8lqhMOUGliPbl3A54ujehOBUV2Y_ZrW2OppLoAd2ks_1hh3s3b0zlBnQeEnpzg4BEzrhmQBf_ky_5ZN2EomE6Jm01-xRh_XMIv3ViTYiuB2iOF58uUjamSFmnEy3j70yT78v2j4NsdXrFeppL8NCt42ScxYo-2SoPeNuIs3P2ZXGzyNER8d-KfHnnsw4DyTGL7z8eMDsz7jRQjJCMxQfQs7JsQjvo_iWR--2EF9brYmqpXae4coinJ1ZQQex5Vi8haveOHEA9XUJ5jMWKwINDBQYZSkFnI1anPDbVJaiSB4k79yatSdf2bIdI-egxILf2C9_UB3Z-0cihbEjNnKi693749EPrhp_VStcYi3-wdOXjBDiqNcZum9_v7WMYTP-OyCZMINrHDHncr4BOFtWxyUvsWyQlfmj4I",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Silvia Huaman",
+     "uri": "https://maps.google.com/maps/contrib/102257538511517919734",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO7zHd4VNtDIw11mAGr-okzPy3uSQwjQZN_nYL_vp9F2awySdixw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW5vq3eg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW5vq3eg!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMZf3B06wYnBcs3XMhc8rpCSwo5fanm46O9-4mT7aN_NbAgWEWN5cb61ZGE0Euv7YyzejUHejEmMZjp7bB0Rgw5S0F6jsrmfVzyZfCQr1TdrcBTZUsh9MfdLhZQBjJKQIh-Ubz3u8SVsHzJ_YraG7Pzgl3Fc4B-xQl6RAMxftJQZc_jlvCEVeRUOPgwPEcfDs99N23XulBt9BfGyMSq5psO7Nih34Bjb-0onVQX_SUantN-nMMYEXdaJ8Ka9GKvX-Yjc09G3BdwIXTELxjTDq3YHpR7pzc7N01GtA5PZebet5d6DnfTwto-yUsyW4DoSvIb7jLxUHGJ_8pbztOBBIfLPLWk7niG8glZJGyLKc9hWiRjBrCYbAi5c0GxXH-4txCZpyaJ96K9yM6jjKk-rE_bo1M3bgw4D6mNQbV6S7iI0wg",
+   "widthPx": 2048,
+   "heightPx": 1908,
+   "authorAttributions": [
+    {
+     "displayName": "PETFARMA",
+     "uri": "https://maps.google.com/maps/contrib/117160652708443478058",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1p3TjqbgsKWxyLCFwzKJMXdGwVnFGEDRdSqpqCev7IL_dgvE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC65NykEA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65NykEA!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMaQUhhsxTXOhqM3DKiMi6HOvM9CFHAIj1jYHhTG9pr_D4eWRB4Xd49kFJ_y58e9PH0f4NDJ-DiOJuw9c1QU56WcWMfnvhMMfFJJheVl7glLZp3XrcXtakCUUEQJ4n7DjlFi3Mma9JJrlJLR9HQte9VYaRo379pf0k9U9FY-vlRoOkTqwkYtsTE7jywnCtdTs0V7gy4yvpMm31dkzQduWB2kUIOJl6c-3JMY-ZnBP3TIgmHfYNLeNRseFSVB2oWBi5AgS1FLk9jvdJPR6269DArfvFjvEweFZOCV_1ChbpAmrJkUkgq-_7MG49blGvl2hXS0Q5kVDQZiuEiCmsd7yiWEh9gNoZSfju1scDeBrMzY0DaWYAxepOiEiAw6dJb1mnZwToXpziX1HcYtk4JFCpElfqZ4RXgrrUZ995cm49Coxt54",
+   "widthPx": 1174,
+   "heightPx": 447,
+   "authorAttributions": [
+    {
+     "displayName": "PETFARMA",
+     "uri": "https://maps.google.com/maps/contrib/117160652708443478058",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1p3TjqbgsKWxyLCFwzKJMXdGwVnFGEDRdSqpqCev7IL_dgvE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDaqID74AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDaqID74AE!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  },
+  {
+   "name": "places/ChIJB4acSvbIBZER9Xsj7U6TsU4/photos/Aa-ngMZse1oofrrthDrMuQf7X7aNlZ7lY0URoX7uNWsHLkUHcv_-5XulWiRy6UWLXZhzB92fa4X37MPbb6tbwbb5iiH3Do5UFMq-wVZltvz8elYgf9I4y1u53FrdnYzcR02ndrPjVm7dBuugPqWrnAww0sWcJh4tlOe3i3rVZ1BavihAj6-77tiGtDlUm08oR134aHS3gmGbZ5aM2Ktj51J370pnL2W8lZhkBn72AjJlleU3L189GuBGBqH2UnrJiwH_HaJILaZCRP_5OK87hF_R0R4Xm4dIs_9Hz5ep6aNFdCW6EkrKK6rttJ0LFqo6XnwXTLS5s6xXKK_Z4KaNT4hNe1qbDE5lv9ydjlxBONzI3DGjU8ciqmgzhQvljx5FUybzgO8Fp1OzdlH-ZMJYu8IjamDOzwrFuKwBIPzXwmQ6ocnThSA",
+   "widthPx": 862,
+   "heightPx": 447,
+   "authorAttributions": [
+    {
+     "displayName": "PETFARMA",
+     "uri": "https://maps.google.com/maps/contrib/117160652708443478058",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1p3TjqbgsKWxyLCFwzKJMXdGwVnFGEDRdSqpqCev7IL_dgvE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC24dWikwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC24dWikwE!2e10!4m2!3m1!1s0x9105c8f64a9c8607:0x4eb1934eed237bf5"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

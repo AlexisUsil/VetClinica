@@ -19,12 +19,24 @@ export interface Activity {
 
 export interface Place {
   id: string
+  /** Formalidad: cruce SUNAT / SENASA / licencias (build_data.py) */
+  ruc?: string | null
+  razon_social?: string | null
+  ruc_estado?: string | null
+  ruc_how?: string | null
+  senasa?: boolean | null
+  senasa_regente?: string | null
+  senasa_fecha?: string | null
+  licencia_fecha?: string | null
+  licencia_giro?: string | null
+  licencia_fuente?: string | null
+  formalidad?: string | null
   name: string
   /** Distrito real (para vecinas: Lince, Surquillo, Barranco…) */
   district: string
-  /** core = dentro de los 5 distritos; buffer = vecina a ≤ buffer_km del límite */
+  /** core = dentro de los distritos analizados; buffer = vecina a ≤ buffer_km del límite */
   zone?: 'core' | 'buffer' | null
-  /** Solo buffer: distrito de los 5 más cercano */
+  /** Solo buffer: distrito analizado más cercano */
   near_district?: string | null
   /** Solo buffer: distancia al límite (km) */
   border_km?: number | null
@@ -90,6 +102,10 @@ export interface Regulation {
 export interface TopEntry { name: string; rating?: number | null; reviews?: number | null; share_pct?: number | null; is_24h?: boolean; ticket?: number | null }
 
 export interface District {
+  formalidad?: Record<string, number> | null
+  pct_formal?: number | null
+  pct_senasa?: number | null
+  ruc_multisede?: [string, number][] | null
   district: string
   count: number
   count_24h?: number | null
@@ -155,6 +171,8 @@ export interface Global {
   buffer_km?: number | null
   buffer_count?: number | null
   buffer_count_24h?: number | null
+  formalidad?: Record<string, number> | null
+  formalidad_note?: string | null
   buffer_note?: string | null
   count?: number
   count_24h?: number

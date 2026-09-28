@@ -1,0 +1,645 @@
+{
+ "id": "ChIJL0iByILJBZER4BQIEaVLQ4A",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "985 200 160",
+ "internationalPhoneNumber": "+51 985 200 160",
+ "formattedAddress": "Tda. 109, Edificio, Los Fresnos Ingreso 3, Jesús María 15076",
+ "addressComponents": [
+  {
+   "longText": "Tda. 109",
+   "shortText": "Tda. 109",
+   "types": [
+    "subpremise"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Edificio",
+   "shortText": "Edificio",
+   "types": [
+    "point_of_interest",
+    "establishment"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ingreso 3",
+   "shortText": "Ingreso 3",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Fresnos",
+   "shortText": "Los Fresnos",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res San Felipe",
+   "shortText": "Res San Felipe",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.086725999999999,
+  "longitude": -77.05341059999999
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=9242314032621819104&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–17:00",
+   "martes: 8:00–17:00",
+   "miércoles: 8:00–17:00",
+   "jueves: 8:00–17:00",
+   "viernes: 8:00–17:00",
+   "sábado: 8:00–17:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 50,
+ "displayName": {
+  "text": "Veterinaria Mis 4 patas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–17:00",
+   "martes: 8:00–17:00",
+   "miércoles: 8:00–17:00",
+   "jueves: 8:00–17:00",
+   "viernes: 8:00–17:00",
+   "sábado: 8:00–17:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Edificio, Los Fresnos Ingreso 3, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KZldtWm1kbmhUVUMxV1psVnhVREpoTmxkRVdFRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buen servicio y buen trato con las mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen servicio y buen trato con las mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Christian del pozo",
+    "uri": "https://www.google.com/maps/contrib/116774464754209399113/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpR3yZXXeHR31G7ko3jUto8sSV63bRRYUUODBFlv69fF1yobWheQ=s128-c0x00000000-cc-rp-mo-ba8"
+   },
+   "publishTime": "2026-03-15T15:54:12.229482974Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KZldtWm1kbmhUVUMxV1psVnhVREpoTmxkRVdFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KZldtWm1kbmhUVUMxV1psVnhVREpoTmxkRVdFRRAB!2m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GSFUwSm1kVzg0VjE4MGJtSkVPVnAyWW1wSFdIYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 3,
+   "text": {
+    "text": "El precio de los inyectables es demasiado caro\nEn groomers me salio más cómodo, más de la mitad mucho más\nAdemas ya no quisieron atender a mi perrito cuando les dije que el dueño era un abusivo con los precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El precio de los inyectables es demasiado caro\nEn groomers me salio más cómodo, más de la mitad mucho más\nAdemas ya no quisieron atender a mi perrito cuando les dije que el dueño era un abusivo con los precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Geli Vega",
+    "uri": "https://www.google.com/maps/contrib/116378779543923216942/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfoLARAp4YzAXzKFEGUwfUDCmSDuNm9yW52eXNGuT6R9mEjaaWVg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-01T14:54:57.691381148Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GSFUwSm1kVzg0VjE4MGJtSkVPVnAyWW1wSFdIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GSFUwSm1kVzg0VjE4MGJtSkVPVnAyWW1wSFdIYxAB!2m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzeVFtVXRObWxKU0VGd1lrbFFXV0pEWm1obFZrRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 3,
+   "text": {
+    "text": "El diagnóstico de mi perro era que necesitaba drenar las glándulas perianales, pero la doctora no lo hacía solo los chicos del baño y solo tenían cita para el dia siguiente, creo que los doctores veterinarios deben estar capacitados para hacerlo en consulta y mas si detectan que las glándulas estan llenas o infectadas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El diagnóstico de mi perro era que necesitaba drenar las glándulas perianales, pero la doctora no lo hacía solo los chicos del baño y solo tenían cita para el dia siguiente, creo que los doctores veterinarios deben estar capacitados para hacerlo en consulta y mas si detectan que las glándulas estan llenas o infectadas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pierina Tejada",
+    "uri": "https://www.google.com/maps/contrib/114061435526101696618/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJ8ERvJTUCyKaNN1H4PL55nwGScsQcnXXtRG2kBEusk5zU4rLh=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-17T19:56:32.837953156Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzeVFtVXRObWxKU0VGd1lrbFFXV0pEWm1obFZrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzeVFtVXRObWxKU0VGd1lrbFFXV0pEWm1obFZrRRAB!2m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqMk11bFVBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Buen habiente y exelebte baño a mi Qorizita.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen habiente y exelebte baño a mi Qorizita.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marcelo Da Silva",
+    "uri": "https://www.google.com/maps/contrib/112833304531216998144/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1MhC_WQ-Ds18CA-7OW0fVhGbN9Ky3O7y3pcVBokEw7Z8LwH0c=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-04-17T17:47:41.292449Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqMk11bFVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqMk11bFVBEAE!2m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNThyaWZREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Creo que es la mejor veterinaria en la Residencial San Felipe y alrededores. Los vets se preocupan por dar un buen servicio, explican muy bien los resultados y ofrecen buenas soluciones. El trato es bueno tanto con los hijos de 4 patas y nosotros.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Creo que es la mejor veterinaria en la Residencial San Felipe y alrededores. Los vets se preocupan por dar un buen servicio, explican muy bien los resultados y ofrecen buenas soluciones. El trato es bueno tanto con los hijos de 4 patas y nosotros.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pat U.",
+    "uri": "https://www.google.com/maps/contrib/111778355396948385185/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYTjm_5_r3gOEYnhOPKH9ZkbzOZs8sb4Rcp8KIeZq5yHsJwP3m=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-05-05T14:22:30.168365Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSNThyaWZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNThyaWZREAE!2m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMbFWp2P8xAozYYMJOTm9Is-T_7vKeDKU4hdMdxcZGT_gRfxiYCfVaY3Ddn57iVMoO3jK1ZOS7gUqpSs_YskDVqEjPkefIpLSO3zPTaY7jvr8Csr_M76zpnuxBZ32zd-7TZPD7DINREyHzIoBJuOAOhx7E5CcaZ9iZt6xUnQTu0B9BaIAxSoksMQBWPpVjzNFfvZUw4Q7QBJ1KeSCcnY0ZLDkYQhoYZTmQ2Diu0E-P0t31RjsNnoxZuoKLOuZ76_aExyVY2emPYhXzZRTnrHrcbqEsoEJB8ykSI3ESdPoMzn5nrROXHMDGUumixe_o8-0IrEVa2J38CVAdaxsnSqvPAJYFdgJiyXInV2_AjTNgqFb75PG1I9Hjv_JY9rOf0JytqqZpMHiZZDgB0nQ2eAXj8GHpQh",
+   "widthPx": 4032,
+   "heightPx": 2268,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICsveb29gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsveb29gE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMbwpR4haGYdKCx32AEiaZIviYuLOo-SmKiBEbAdFW_H5zWkhWVxOraBDAge5Y49pglc-TVhfkSIosQifrkh9nuTrlTOBnLrlvpKua0GoqwsU8tuvocrKWZv9BVz9lbf9vwziR1ycVBzutirTqLapBjagmQk_11lO2pTuYAHZWudX5VfzibELuxlzJZUdDhtM9mZdjFUK8WHO_R2By91qDSH0rUcr-6GWWy7skXOJ0ItGWS83L8OYIEaVAKNgil8JJznbDZZdoLl6EfRs_akZpZJl4dHvhz5ZrdeOQKAq9Cp0C3e-shOKduhuplRHFhVFCjVQLL8TMeYcgPN252JN0MWHIMBdF81E9fhdOakGfyJ1n-8TlVrNcavZFfwwOt_-vw6-ru78CwqAO_3z7qICp-VNS6Wsq0",
+   "widthPx": 4032,
+   "heightPx": 2268,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICs_PqD7QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs_PqD7QE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMbj_CNQ4JV2XQ6mar1QmkvrekVH3a0CFiUG0Bd5GPwiXZtQgjSHyt09tlRU8FC_nTsPF3bSL9yxudK5YSv3kQKSTgUc-f4Lf7q1znc5yuQMbyV5HHZOJbANBxW9ETcJyTmES2Fhvu-ou8OIjNddZ7J6e3eO7FZYjIw4gZENyVl7l_jNU9gKjamACT_GwlibdS4uIA4NSZKvxMoDdwfeiagNxc0HyJtQiSIO0fH4kzURgNWRal5vqE-ZoMwyEh7NBkbtNnhbWLY59Da0fptjHtF7YJ52_HUj7CiU9Nd34iFcMNY6AASjj23fGoiIpUzT69vie_laFqVP-G_uSKTcLafjSSBFCQkGlikFxuhLlbhXtP1VhKY_uXNUM-ReGSBUZhJSuC6MCny61Zuv022_Ncqyv34",
+   "widthPx": 2937,
+   "heightPx": 2268,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mis 4 patas",
+     "uri": "https://maps.google.com/maps/contrib/110608218978696838606",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3wWyTAO1shIN_oSUnL2j894nvg8hdzuYQ5-t_4BwfNcWROd0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKguWxNA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKguWxNA!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMYGTpLtAS6_5Gh-fhaFIYLshtgvFqES3_KQcfGYoyqz3vtY5FKJd3zZp0Tb6-BEEeo5HRel51hTCxaxs4TwARyN9FtO9C_nOw7DNlTtXcVZxPWyWi9_MDmiT8SqWDlg1wfGSMvNMI7C0EHe8Wi-TbSRs_6L6wOAviNiLP8BGfFAxozB21HVVK4seDq6LVa2_BvFeTbNMIxO1V_C_iq6sv4QBDB7t_3OhHO85Tp4ueFbsWk-ARIl_tokWCoIgi48OvQJXg5IphdN4oGwC9jirX8s0Phebf969z8qMBkoK7D94U1mEy4pvtGusQ1pfVscqJsI6Dn0BgB1CoTGDGYi5xg0HNdaEmLtay9WxLpimWeP-etoim5uxVPlZssIV2Q_ATQmYJsE4aBR7a8I7QSy2ZfVdXKtnhk",
+   "widthPx": 4032,
+   "heightPx": 2268,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICs_PqM5wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs_PqM5wE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMYiQDEOxGjYsk4EWCxZj6p1fmz2yB8Ota9z5SxEtsTYW6kEhKNwNQJasqgbZt0JpHJF6dAPM6ig6hYr9OrpPsry4wJ9Vp5SbMBAmN7xfxjUHZdIN_SRdptJSXIgFoTnxQxOcT_2jyLB1Zc9IpoKsWbZMXOZJ9hEVw95GM82gLQ8hyd1KxToXZVVnaLg4bdG5mqqLeNeCd94vANkajif3A5zgN1eyfNAV3eXL_5PrkeyNqE02YTbGVvnQt1bHP750yS_ggTAjGePvcMBknE_wwX-1h8iFZPzW5KZHmN_3j5DTubR69zqYj9ThefsqQMqBtnEg4Uc8PhV8CdwfhP-sM-P325Vv1x8gMHaLUfrtGO3qq4PzoAH_JJzuLN1eFknSo45vcRyD1fx_Q0osf34bKu-Af8",
+   "widthPx": 2902,
+   "heightPx": 1830,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mis 4 patas",
+     "uri": "https://maps.google.com/maps/contrib/110608218978696838606",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3wWyTAO1shIN_oSUnL2j894nvg8hdzuYQ5-t_4BwfNcWROd0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKguXcMQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKguXcMQ!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMZs_PsIUTnXy578ScrIGCYvOD8pV9K60wmERTW2XmK9h42NhxpcjhKnURKXr_HGINCBVZmqQjGvheI4Pk2EEN-SpcOi09eVfw22dsHQ6K3cUW9Zxsv1_oFueOjqsStcUih2iA9NZcVM7qkfC69u89yNT1zKkEBrgPI5AEsyX73Luo7TL87QZkbLilJWnFEB2SINuu7i4qMrgtvUVdIhS4W86EkAhFfxerlkLCpm8vmL-QJDIRettrmyYLWhMTbGT62vzBjB35A8irzq25uXhVxZMRcVwU57APvnjnVmmPoOj8UGlW0ohuPl7relvUL0NY2yY5iyH4qSkmUngxc26j5bDtsiAHztYls4eW-oSL_a68f0wBZ6gY1qP-81DrOxzheR23Ya_Kq8pj41jYemFEJIBG1QXCc",
+   "widthPx": 2121,
+   "heightPx": 1974,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICs_Kq2nwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs_Kq2nwE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMYMO03uctq0aOukkHucC7CGC-tmfmFKSzB7C2PY-wUG2opbFt5GOwv8HzHbk7KIoxmsn4DxLXooHnFX9XKFlsmxVQGYWtCObnoFiTJ_46qOExtXDNKdzqlEfe-dIFo5XY7Gos2rxFA2y4PtJtFcl3PWZsvsaRTjFyHoJZd63l0C_8_vVib5x2W2tLev1y6VA_oIxispNjhgmiuX454vg9twBQyrZ1Hk5Th8nFIvWSqDoqBdV53h3pIf09momNtGJHZGsf1YsjvPECZ-yv4fjGNYQlTcMzh8nZHATPGOMwMEZt4I1QTJqMKj0W0I_sOacLfssTFe49fV2ri-8RAtsMeTAZ22cB6Y1giFwMqtkKEITXOXYNa7jikS8YbVQY3bDDXVUHzjy1VI03KkFyqXN-OmJNg",
+   "widthPx": 2917,
+   "heightPx": 2041,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8r4y-Ow&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8r4y-Ow!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMYsFc0_1K5-xjjUh2Y6ebeX9WMFWyfwm65y7ov1IrpZNgDQEIbYj95hj7OsfRai0OVtWrqMGg6-8Hw8NgkQuLjIEmCvSNlkGpzPh56g5r8sKs_SjIScTwQGQKkwlNYoD6Q5wIXQeMwM-zv8vRtUMTv46ooTt4ITXzZfdEYDMtAO41q1QTP5NQ9Ipx0xRSJ1VlFMjLNk_FbBU9W5BHcOpEHQWjUnuMbQC-qHJACd7_GAAUohK1zfaNtCkC6_cEcP89MOFXznkrsIWAcFmWNzHQ6yfhd5eeYgReVvdR38KGsdmajZztaklSmf4S9xeZvc6YzstP55zB645mVGfRADSJSYqysqlGWZFQ25mgBP-nkKwLEFeXeK0lveE3Cd29y1PO3OfIj7wt64pJELspmIfSkPPM8duIQ",
+   "widthPx": 4032,
+   "heightPx": 2268,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDMnb_osAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDMnb_osAE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMb12IvBZRmxlo_y7ht3VvzfeeWh-kTdk0y8w7khoP8xYYIhK_-HtOlfxlm28gXAPa72iIkCLQvRhOzozDoQcgihFKDsczVtxrNbJJggCulAc3y9vIqvk1AMq62r6yMZ9jr2O_qgeIW5pUa2pdsbHfw3v0joVtF7Tp474lXj5TTLEaw75B6QWgER1bNpXpGyEEE7By0JE9xg0VbkpLcMH7PMK4FkR-cP2_L4qLVUSDdOy91TxxdN5I049WgyETUviGKFZ1obswjAcQhkv19nM0_nNwNOMHn2PnDDsg-doCiu-cMrsOXq9bdFg8Ccr0W877VjZImDCsE73mOIiX2hTsalUT7mPaA5EHVYnPxVVO7RQf2hpvztQFBu1YLARmp7lH6DpmRG5GXAcu03pgbK4iE1GUX0KZs",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "a19991266",
+     "uri": "https://maps.google.com/maps/contrib/105446546296918559296",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeXsqVWQpWQoFO9eyvgAeEh9GhOkzm9HZtUHnNfxlUrmzZ3OtQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8l-7MlwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8l-7MlwE!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  },
+  {
+   "name": "places/ChIJL0iByILJBZER4BQIEaVLQ4A/photos/Aa-ngMbLJOexiTKvG3TR9jmC6yTvsobh61miwuHQa-DTm4c-3UJ3fRhkPuhu2O-y9T2Ft0Sd-HdGZ0u58D72KY1VaFhXjL1lbQGoqareN_9jl18RuuXbueoCPWMEOdLKtfdq7lcq7VYBWHW90iKeb3_rrq7yW6ttR-CGxVqbTU_CQFLBk_TS-hjkBeY_5029eppcZciNnYR-pVCy6ncnz5Doet-4xay0E7Sa2-0TNWC0HLAGcpD87IDO2wa6iN7AxWSxN8nlBeSKuDy8heja4EsSIhNGBx-vbE790S4n7e7Cd9JAkB-7tnLP7ojPbxJp9Z58K2OeuOogMe2HkqiH5lc5uaeuHEw8G7DbtZer_nFYXryObwm48iDaKhYLHVhCWbF7IhEYm7J2Zo-XMdRRX6Hff0MdeR4",
+   "widthPx": 2736,
+   "heightPx": 3648,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos M. Vargas-Miñano (Carl)",
+     "uri": "https://maps.google.com/maps/contrib/110776668412131291808",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI5z6RSIXJLSdLB6efrk1rVv5mWExASPlTRvgywot5gAsR44TvQQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICizPCXXg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICizPCXXg!2e10!4m2!3m1!1s0x9105c982c881482f:0x80434ba5110814e0"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": true,
+  "freeStreetParking": true,
+  "paidStreetParking": true,
+  "freeGarageParking": false,
+  "paidGarageParking": false
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true
+ }
+}

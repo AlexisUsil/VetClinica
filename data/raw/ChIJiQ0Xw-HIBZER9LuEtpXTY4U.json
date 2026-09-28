@@ -1,0 +1,576 @@
+{
+ "id": "ChIJiQ0Xw-HIBZER9LuEtpXTY4U",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3301914",
+ "internationalPhoneNumber": "+51 1 3301914",
+ "formattedAddress": "Av. Colombia 635, Pueblo Libre 15084",
+ "addressComponents": [
+  {
+   "longText": "635",
+   "shortText": "635",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Colombia",
+   "shortText": "Av. Colombia",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Barrio 1",
+   "shortText": "Barrio 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Pueblo Libre",
+   "shortText": "Pueblo Libre",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15084",
+   "shortText": "15084",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.068280999999999,
+  "longitude": -77.0567465
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=9611758669704510452&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: 9:30–14:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 78,
+ "displayName": {
+  "text": "Asvet-veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:00",
+   "martes: 9:00–20:00",
+   "miércoles: 9:00–20:00",
+   "jueves: 9:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 9:00–20:00",
+   "domingo: 9:30–14:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Colombia 635, Pueblo Libre",
+ "reviews": [
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/reviews/ChdDSUhNMG9nS0VJQ0FnSURuNS1ydXh3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "hace años llevamos a una perrita schnauzer para sus vacunas, al final murió con todas las enfermedades de las que se la había vacunado porque las vacunas estaban vencidas. eso pasó hace años, sin embargo el dolor de la pérdida se mantiene. no recomiendo para nada esta veterinaria, busquen otra mejor.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "hace años llevamos a una perrita schnauzer para sus vacunas, al final murió con todas las enfermedades de las que se la había vacunado porque las vacunas estaban vencidas. eso pasó hace años, sin embargo el dolor de la pérdida se mantiene. no recomiendo para nada esta veterinaria, busquen otra mejor.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "aaa a",
+    "uri": "https://www.google.com/maps/contrib/106220570158415847615/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLjGLMDLSVHFLqBl1LEqPtEbvlwXPQIja6gfQ-1G0FPUIufpJOZA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-10-11T02:10:54.991456Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuNS1ydXh3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuNS1ydXh3RRAB!2m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wa2JWaFJNSFZKVm0xS1YwWmpkMVp5V1ZaTFVGRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mal trato no tienen paciencia ni te explican bien. Hace poco fui me hicieron sentir que era una descuidada con  mi mascota cuando ella está enferma recientemente y me indicaron que acaso no tienes dinero para atenderlo cuando pregunte por los precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mal trato no tienen paciencia ni te explican bien. Hace poco fui me hicieron sentir que era una descuidada con  mi mascota cuando ella está enferma recientemente y me indicaron que acaso no tienes dinero para atenderlo cuando pregunte por los precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Antonella Murillo Corrales",
+    "uri": "https://www.google.com/maps/contrib/112261977996995595951/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlIQWtdWzHMDd5mkSRzqAJOYAaMnD19_nusA8h2ENhzcFjOEo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-18T00:01:28.649216014Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wa2JWaFJNSFZKVm0xS1YwWmpkMVp5V1ZaTFVGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wa2JWaFJNSFZKVm0xS1YwWmpkMVp5V1ZaTFVGRRAB!2m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MWFUWjJVR3RxYW5odVZsWkZTM1ZKVUdvMU5GRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mal veterinario, no hacen las cosas a conciencia. Tengo 2 malas experiencias con ellos\n1) Diagnosticaron mal a mi perrita con higado graso, cuando se trataba de una reaccion a un medicamento con corticoides. Me dieron un tratamiento que claramente no funcionaba mi era el adecuado.\n2) Le retiraron los puntos a mi gatita luego de su esterilizacion cuando la herida no habia terminado de cerrar. Logicamente se volvio a abrir.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mal veterinario, no hacen las cosas a conciencia. Tengo 2 malas experiencias con ellos\n1) Diagnosticaron mal a mi perrita con higado graso, cuando se trataba de una reaccion a un medicamento con corticoides. Me dieron un tratamiento que claramente no funcionaba mi era el adecuado.\n2) Le retiraron los puntos a mi gatita luego de su esterilizacion cuando la herida no habia terminado de cerrar. Logicamente se volvio a abrir.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariano BP",
+    "uri": "https://www.google.com/maps/contrib/107533274431968748696/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP7pD1qzWoLRVTa0pqpxRiPw1dRoxSLWMqs9US_QtNjhaasA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-04T05:39:51.682020870Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MWFUWjJVR3RxYW5odVZsWkZTM1ZKVUdvMU5GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MWFUWjJVR3RxYW5odVZsWkZTM1ZKVUdvMU5GRRAB!2m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oR09GTTBOMWgwUkRoZlNHNU5RbFUzT0RWUmVsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Son bien atentos y se preocupan mucho por hacer bien su trabajo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son bien atentos y se preocupan mucho por hacer bien su trabajo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Javier Pacheco",
+    "uri": "https://www.google.com/maps/contrib/106662422105596779975/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXz0qTK9imRwlQhFtnCJ7ZaZMKx5ZtxjbuS7rqfjFOMbJOKylkdFQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-18T00:54:46.259123713Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oR09GTTBOMWgwUkRoZlNHNU5RbFUzT0RWUmVsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oR09GTTBOMWgwUkRoZlNHNU5RbFUzT0RWUmVsRRAB!2m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/reviews/ChZDSUhNMG9nS0VJQ0FnSURWcmFfakhnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Terrible👎🏽👎🏽👎🏽si pudiera darle 0 estrellas se las daría. Llevé a mi perrito a que reciba 1 baño y su inyección para las alergías y me dijieron que se la pusieron pero mi mascota mostraba signos de NO haberlo recibido pq se seguía rascando muchísimo. Lo dejé pasar y decidí darle otra oportunidad a la veterinaria y llevé ptra vez a mi perrito a que reciba 1 baño y corte de pelo( fuí específica de que sea un corte sutil) y me lo entregaron todo desnivelado y casi casi rapado.\nSi no van a hacer bien su trabajo no deberían tenerlo abierto su local, solo pierden clientes por su falta de paciencia y honestidad!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Terrible👎🏽👎🏽👎🏽si pudiera darle 0 estrellas se las daría. Llevé a mi perrito a que reciba 1 baño y su inyección para las alergías y me dijieron que se la pusieron pero mi mascota mostraba signos de NO haberlo recibido pq se seguía rascando muchísimo. Lo dejé pasar y decidí darle otra oportunidad a la veterinaria y llevé ptra vez a mi perrito a que reciba 1 baño y corte de pelo( fuí específica de que sea un corte sutil) y me lo entregaron todo desnivelado y casi casi rapado.\nSi no van a hacer bien su trabajo no deberían tenerlo abierto su local, solo pierden clientes por su falta de paciencia y honestidad!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jo",
+    "uri": "https://www.google.com/maps/contrib/107745574691245982561/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKenb7s6p4wsTEbClTyxKxTPMtkfAZFTYewMdibn3ZyPYOJQFs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-12-15T00:48:35.180045Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWcmFfakhnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWcmFfakhnEAE!2m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMbjp8nBzeuQRQQk6C_bdotd_ymB3MDCMHP4-ZqGv0su-2fxSbtnKdWMZjqC2id_IPTAdpFmOUNP0MPO4U51gbNsGyLOCP86MChuurnnsHSiA-r5YQ3s6Za206tFWxnGyLpuhO6CkuOInkxSUaPHfIg0uZ9EaJRk2hXTS5iMsrlWah0oFddA63bmydys3wufyZ5-8Xg93X_K6UisTPGgZhsxrRQQDPy8QYLzFzcrewfYTMFern437JBcvrLHcMpRDN41NXe1B6hs4jSj00WTLedP-kiRHvzu8tOAF3O4pwmBAYbddcgtszdtcHL8WJ0RnrrPNmBKs3_ZBvT8MF8HK5S5vSu8fo2r0IZNgMxAXBC6CgEh4QearAcnPptVMWWfj1WLKJifBjV1JCWsRCfw1y0YCXAV4MasOAvENTY9pN0",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Mappy Trujillo Villanueva",
+     "uri": "https://maps.google.com/maps/contrib/106088981514815570524",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4FRdFUaUIBeEmaaqWHKKxqMpmZIwbrNatTYaIi57kQnnnLw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE6pXgYA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE6pXgYA!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMam4d-ZUwGS8N4xU4WnSdNtUts9oMkmkpVFjdPDqhKdypx6WJM4cjShrWbAJ7kkTpG3Z-QK5GDqjBrhja1JZ2FAj9CMWBvX3o0g2qK4_NPBN85FktLMtvenQs5yhrgdmu4yMIrnMjoMcEluzaEAG09jkyWRSja8xeCusycKTc8hY6uyiWcrXbMgaIVxdbNcUV0n7Tx9ttANqzLWK9jHb45vKfzIxJdT8_VdAnxxrIm0I2kjmpYgYmaIK48UN6ImprzedgAJSnmNfWokjqkYV5lkFdCAQrDSQ4aNTx8x4ImuvZG3tZidOe_scA1z4m_8ip2avut5VqL-03jguA-WTfYyQXkncvaa11Mn2S2e2zbUsm_Bzna41MdK8CvkUwBVNLGWmqsXCS_TcgGJGxDW-fVl09XLCCM9Whk2Ug0",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Mappy Trujillo Villanueva",
+     "uri": "https://maps.google.com/maps/contrib/106088981514815570524",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4FRdFUaUIBeEmaaqWHKKxqMpmZIwbrNatTYaIi57kQnnnLw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE6pVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE6pVg!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMY4g2-ev4yuf17in13C0W5j11D_O8SqiznuCTutFHSgTZslO0Od5krcI8if4Zu1jz1QA7Z0v_vPMldjc8_4EEffSdnEfGGaOrRfl6c_itdHIrbk8eNVAIbEi1sX0huBatMgLDTSGareAcrc7nGyQt70gGkmym0HKfjAjY0j-EqI_K2izqM2aUFi2Yp1QkkvpfcK4dkoScH12FQMlgYd10dOpy6-W0xU8rDGSBj0igTDuIPgFt6OJXnus5p9CONZQhQ8uPB10qDuFxWWgOtiXaQCQWQs5EZMC5zEE6LMJH3cqdu1pW9jsGKWqQ-h3eJztPecsyVpTVKWNEJe5I5oRSTJ1uuW0sOzMDLa5nQ4qtkO2OIUaQn-xTYVZR33JRmm5GFNVYE-d0XgoZMeXEDadIvQqHv1jjurJ-RmAgcQl4dS7gDW",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Mappy Trujillo Villanueva",
+     "uri": "https://maps.google.com/maps/contrib/106088981514815570524",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4FRdFUaUIBeEmaaqWHKKxqMpmZIwbrNatTYaIi57kQnnnLw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE6pWgvwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE6pWgvwE!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMaM0VoOq5FJgSg_cul_0Jz0OXeqibe-CoAxPuJcsMg2g8HR6bv79ajHk7fwqszw7lpUdRE22tWFboe0GjYD9J2cGRmT2k8eLDXGO532NjAgm-QgIue7cHbGb9WQ7pmGZfIT3Ft7wOsv31PzOB2bjwQztCOFG2kncUBMm-2BXXHGo81lbG9TsBHI6OzWW_MyOQ1bHKcViwYPdBpnXo7qe2K2UXXKWGswoTx72s92I4fKMViGq7VVV9sKhfDdQZEcIHhzF_8yNWTGLv-gQThRl8LJE7gKmtJVLBVqdJJgQEdF88LU_FJSYYj3bbqw0HbBjju1odigycTOw2QFtI8MEIZ0VLopUcLtY4McsKbRINGmUi1_SFBDa2vwPaPHpFgGCv3jSNkvJUY3_1cf5-CIBkHSj0Lc0EL2_gEd-mVKCDvVM-tG",
+   "widthPx": 3472,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Blanquita Cabrejos Ramos",
+     "uri": "https://maps.google.com/maps/contrib/101097078636596638788",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZhXBQEQiVRThvC5S99yMhw9_nGvRTirVwLm3u7Y24ru5TSsbX=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICRoru1rAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICRoru1rAE!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMZLxycvgcNjxg5JSjB4biIlzDMMydmzgZRFYHz-FnTLs9yL7Sgo_MZYVzpbMDyTcPkGwqmAy0wP5gWIuLvSCuXiRRc1K0Svz1ib30jE8gE927EWpucZiL6JkgS7j2Xc_CKTdC5QRXLLsPgNV5FvXVq-F0APy5hFEuqA6RscsK3plDY7Oe8nZcdZ6u4kaAInz9umTkY37jZ7N4zxSlOZZr_db4haeAck6vZf523Wq2DgzwcCjba_i5P_RzFLsj6AyTlTf65bJ_IHtBN_21bRlYrW-PMa6x5AGK2CGy0Hm9kaILieach5FlO0GlroXZDVf85qyx8XcxPFsVql40Llu-W0RISCB9KjqPLcwssx5ESula6l1NBGT1yTvfvODAC2g2N3NEuAaokJOcZ1gLWaScReF91yPwqtoa9QeqF4Snbwmg",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Mappy Trujillo Villanueva",
+     "uri": "https://maps.google.com/maps/contrib/106088981514815570524",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4FRdFUaUIBeEmaaqWHKKxqMpmZIwbrNatTYaIi57kQnnnLw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE6pXgIA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE6pXgIA!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMYbCyLeNOkah6mq0dk4xdvzC1Cb_M55_DOHTge5MRMr15VKvNstgi4QxQ8v-UaJdGah9VwKxuFGNJ4tF85AqKLuTY1_lNJd_jARCtYZvdLp8l8MUwvS4fpSqaEj49-avqbLJEsV9vMQyQw-GlTxmLSX9nO2xcjcZX6aSOl3uuBD5xEyd0VUVhKkWHiVgQXUGFo4PHlgzDYyvmVEZZjZj5u_9OG6Gwe0uGW7iRQ0N2XsWHntgBZ8B9n2RpKcu1f0H5NahmSt0okeEqwwbHXdMcS2LDjZLLuDaDw8lAxZDu_Vu5awUXl-s40qVTFd-h_qy0awZghf4Q-URbR5z4m-Gd5pVMlG5anWmZ-IytuHWKGEdAmXJbdvFi4Q6IG6guAOL-1Ph1NIB3_pjxVn6hO4AGvrcfImjV0PqXJKVF_sZdpzkg",
+   "widthPx": 640,
+   "heightPx": 480,
+   "authorAttributions": [
+    {
+     "displayName": "aaa a",
+     "uri": "https://maps.google.com/maps/contrib/106220570158415847615",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLjGLMDLSVHFLqBl1LEqPtEbvlwXPQIja6gfQ-1G0FPUIufpJOZA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDn5-ruZw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDn5-ruZw!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  },
+  {
+   "name": "places/ChIJiQ0Xw-HIBZER9LuEtpXTY4U/photos/Aa-ngMancJW8ASY84Jbad1nxhsYNVcGbJqUh_GP-TsqxN1xt-sjxXIveiUU4RHDKr8uM_POzE5w-U80GnTb6H4ywKKpyrNYzMEq-suOd0klcwKEE2LhkbIK33mqsNIcG3uPZ1kvbhMcy9xYcACsn-zh1cZQF3ukyaRrtkHjb1tubnv8yUvREAbgkRS_yUPGlSkm8R7P-m7tew9HPPv_PNqqQrjf0mfT72__ylKM06zY6YUBgYbF7TKfE2DaxBDrTzPR3ODP7lC_5PuRgUbjYMrgkizpIznvgxJ7parnGkPhtRUwYCVCagHhsFcLGoAjnc2p17qTQcQtGzlzzUuGT_oGuwD_dkcakpFzGJdVyX3heWNyE8KrB6oUbtKMRwYPmt9KDQXPr0qvhr1sANS4y6kmA173OXAgeZebS8RaWXGqXQdR0Tw",
+   "widthPx": 1438,
+   "heightPx": 2672,
+   "authorAttributions": [
+    {
+     "displayName": "Astrid Necochea",
+     "uri": "https://maps.google.com/maps/contrib/102356306736633927118",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSwiOlR4zcXLij2_NUMHusE8dBTDTsKANClQhx5ZTYBNInYt0Gfw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu5bjZeQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu5bjZeQ!2e10!4m2!3m1!1s0x9105c8e1c3170d89:0x8563d395b684bbf4"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

@@ -1,0 +1,423 @@
+{
+ "id": "ChIJWcJsXtvHBZERIeYZEgNp1WU",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "945 777 839",
+ "internationalPhoneNumber": "+51 945 777 839",
+ "formattedAddress": "V2V5+FCQ, Av. Blvd. de Surco, San Borja 15037",
+ "addressComponents": [
+  {
+   "longText": "V2V5+FCQ",
+   "shortText": "V2V5+FCQ",
+   "types": [
+    "plus_code"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Boulevard de Surco",
+   "shortText": "Av. Blvd. de Surco",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "A.h el Bosque Etapa 1",
+   "shortText": "A.h el Bosque Etapa 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Borja",
+   "shortText": "San Borja",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15037",
+   "shortText": "15037",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1062955,
+  "longitude": -76.9913842
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=7337886629779596833&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 7,
+ "displayName": {
+  "text": "Veterinaria El Bosque",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "V2V5+FCQ, Av. Blvd. de Surco, San Borja",
+ "reviews": [
+  {
+   "name": "places/ChIJWcJsXtvHBZERIeYZEgNp1WU/reviews/ChZDSUhNMG9nS0VKbW16SjNhX3ZXRFZnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi gatita a esta veterinaria para que la esterilicen, confiando en que el procedimiento sería seguro y profesional. Sin embargo, pocos días después comenzó a supurar pus por la herida, presentando una infección grave producto de una mala práctica médica.\n\nLo más alarmante fue la falta total de empatía y preocupación por parte de la doctora. Cuando le informé que mi gata estaba mal, con la herida supurando y en mal estado, su única respuesta fue: “Tráemela mañana por la noche”, como si no fuera una urgencia. Mi gata estaba realmente mal, y quién sabe si hubiese llegado con vida hasta el día siguiente. En ningún momento me escribió para preguntar si había mejorado o si necesitaba ayuda. Total frialdad y desinterés.\n\nEsta situación terminó en una nueva internación en otro centro veterinario, nuevos exámenes, tratamientos y la necesidad de una segunda cirugía para corregir el daño causado. Todo esto se pudo haber evitado si el procedimiento inicial se hubiera realizado correctamente y con el cuidado necesario.\n\nMe voy profundamente decepcionada, con la sensación de que la vida y el bienestar de mi gata no fueron tratados con seriedad ni respeto. No recomiendo este lugar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi gatita a esta veterinaria para que la esterilicen, confiando en que el procedimiento sería seguro y profesional. Sin embargo, pocos días después comenzó a supurar pus por la herida, presentando una infección grave producto de una mala práctica médica.\n\nLo más alarmante fue la falta total de empatía y preocupación por parte de la doctora. Cuando le informé que mi gata estaba mal, con la herida supurando y en mal estado, su única respuesta fue: “Tráemela mañana por la noche”, como si no fuera una urgencia. Mi gata estaba realmente mal, y quién sabe si hubiese llegado con vida hasta el día siguiente. En ningún momento me escribió para preguntar si había mejorado o si necesitaba ayuda. Total frialdad y desinterés.\n\nEsta situación terminó en una nueva internación en otro centro veterinario, nuevos exámenes, tratamientos y la necesidad de una segunda cirugía para corregir el daño causado. Todo esto se pudo haber evitado si el procedimiento inicial se hubiera realizado correctamente y con el cuidado necesario.\n\nMe voy profundamente decepcionada, con la sensación de que la vida y el bienestar de mi gata no fueron tratados con seriedad ni respeto. No recomiendo este lugar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Amy Zurita",
+    "uri": "https://www.google.com/maps/contrib/102581194216629661114/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIZkvZjb8tMjNr-OceM5vb6mG_Xosejw9u7GCHTkq5LNMwxOXBMQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-05-19T17:09:22.226540Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKbW16SjNhX3ZXRFZnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKbW16SjNhX3ZXRFZnEAE!2m1!1s0x9105c7db5e6cc259:0x65d569031219e621"
+  },
+  {
+   "name": "places/ChIJWcJsXtvHBZERIeYZEgNp1WU/reviews/ChZDSUhNMG9nS0VJQ0FnSURKc2RPblBBEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, una veterinaria muy bien equipada y la Dra. Yiya toda una capa. Recomendadisimo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, una veterinaria muy bien equipada y la Dra. Yiya toda una capa. Recomendadisimo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lesly Munguia",
+    "uri": "https://www.google.com/maps/contrib/103814127504336316267/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQ9TDi1r9HA7QlJodxPMND8ZgYShYXPYOmevYfirk-AXjCWwWp=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-07-19T03:59:46.624924Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKc2RPblBBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKc2RPblBBEAE!2m1!1s0x9105c7db5e6cc259:0x65d569031219e621"
+  },
+  {
+   "name": "places/ChIJWcJsXtvHBZERIeYZEgNp1WU/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6dk5iOWtnRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "La atención prestada de primera",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención prestada de primera",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "SPECIAL FIGHTER",
+    "uri": "https://www.google.com/maps/contrib/111095442293266272313/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb_wrd1tT8wuOvpbd2m8S6tYkdv-OlX4LGb63N7nVXj4xij1YU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-06-08T14:10:47.015613Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6dk5iOWtnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6dk5iOWtnRRAB!2m1!1s0x9105c7db5e6cc259:0x65d569031219e621"
+  },
+  {
+   "name": "places/ChIJWcJsXtvHBZERIeYZEgNp1WU/reviews/ChZDSUhNMG9nS0VJQ0FnSURENnUyaEtBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Nayerit Carolina Revilla Ruiz",
+    "uri": "https://www.google.com/maps/contrib/114902672794926534819/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjZHH4E9yIEZN-2sKKdAO_xn8uziGkLCMB18ptXJPksvho6nWP=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-08T04:36:45.847089Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURENnUyaEtBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURENnUyaEtBEAE!2m1!1s0x9105c7db5e6cc259:0x65d569031219e621"
+  },
+  {
+   "name": "places/ChIJWcJsXtvHBZERIeYZEgNp1WU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlc1lEOGpRRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Joel",
+    "uri": "https://www.google.com/maps/contrib/116354340494963665670/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZl0bymnuE-9eEKayRzhUzM9x2xPFzgn8M9TzeJmCYPQkM6cJT=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-09-16T16:42:36.757723Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlc1lEOGpRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlc1lEOGpRRRAB!2m1!1s0x9105c7db5e6cc259:0x65d569031219e621"
+  }
+ ]
+}

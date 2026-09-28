@@ -9,14 +9,40 @@ import { Slider } from '@/components/ui/slider'
 import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { cn } from '@/lib/utils'
-import { BUFFER_N, GENERATED, NON_CLINICS } from '@/data/dash'
+import { Bar, BarChart, CartesianGrid, Tooltip, XAxis, YAxis } from 'recharts'
+import { ChartContainer } from '@/components/ui/chart'
+import { BUFFER_N, DIST, G, GENERATED, NON_CLINICS } from '@/data/dash'
 import type { Place } from '@/data/types'
 import { fmtN, isNum, shortChain, shortD, slug, trunc } from '@/lib/format'
 import type { Scope } from '@/lib/logic'
-import { Insight, Panel, Pill, Reveal, Rich, Section, Stars } from '@/components/common/common'
+import { CardHead, Insight, Legend, Panel, Pill, Reveal, Rich, Section, Stars, TipCard } from '@/components/common/common'
+import { ANIM } from '@/lib/format'
 
 const REP_ORDER: Record<string, number> = { Alta: 4, Media: 3, Baja: 2, 'Sin presencia': 1 }
 const SEG_ORDER: Record<string, number> = { Premium: 3, Medio: 2, 'Económico': 1 }
+const FORM_KEYS = ['Formal + SENASA', 'Formal', 'Sin RUC identificado', 'Baja SUNAT'] as const
+const FORM_COLOR: Record<string, string> = { 'Formal + SENASA': '#0F766E', Formal: '#5EEAD4', 'Sin RUC identificado': '#CBD5E1', 'Baja SUNAT': '#EA580C' }
+const FORM_ORDER: Record<string, number> = { 'Formal + SENASA': 4, Formal: 3, 'Sin RUC identificado': 2, 'Baja SUNAT': 1 }
+function Formal({ p }: { p: Place }) {
+  const f = p.formalidad
+  if (!f) return <span className="text-muted-foreground">—</span>
+  const tone = f === 'Formal + SENASA' ? 'good' : f === 'Formal' ? 'teal' : f === 'Baja SUNAT' ? 'bad' : 'gray'
+  return <Pill tone={tone} title={p.razon_social ? `${p.razon_social} · RUC ${p.ruc}${p.senasa_regente ? ` · regente ${p.senasa_regente}` : ''}` : 'No se encontró RUC en el padrón SUNAT ni en SENASA'}>{f === 'Sin RUC identificado' ? 'Sin RUC' : f}</Pill>
+}
+function FormalChart() {
+  const data = DIST.map(d => ({ d: shortD(d.district), n: d.count || 0, ...Object.fromEntries(FORM_KEYS.map(k => [k, Math.round((100 * (d.formalidad?.[k] || 0)) / Math.max(1, d.count || 0))])) })) as ({ d: string; n: number } & Record<(typeof FORM_KEYS)[number], number>)[]
+  return (
+    <ChartContainer config={{}} className="aspect-auto h-[240px] w-full">
+      <BarChart data={data} layout="vertical" margin={{ top: 4, right: 12, left: 0, bottom: 4 }} barCategoryGap={6}>
+        <CartesianGrid horizontal={false} strokeDasharray="3 3" stroke="var(--border)" />
+        <XAxis type="number" domain={[0, 100]} tickLine={false} axisLine={false} tickFormatter={v => `${v}%`} />
+        <YAxis type="category" dataKey="d" tickLine={false} axisLine={false} width={92} />
+        <Tooltip cursor={{ fill: 'var(--muted)' }} content={({ active, payload }) => { if (!active || !payload?.length) return null; const r = payload[0].payload as (typeof data)[number]; return <TipCard title={r.d} rows={FORM_KEYS.map(k => ({ k, v: `${r[k]}%` }))} foot={`${fmtN(r.n)} clínicas`} /> }} />
+        {FORM_KEYS.map(k => <Bar key={k} isAnimationActive={ANIM} dataKey={k} stackId="f" fill={FORM_COLOR[k]} animationDuration={800} />)}
+      </BarChart>
+    </ChartContainer>
+  )
+}
 const u = <T,>(v: T | null | undefined) => (v == null || (typeof v === 'number' && !Number.isFinite(v)) ? undefined : v)
 
 function Badge24({ p }: { p: Place }) {
@@ -42,6 +68,7 @@ function Detail({ p }: { p: Place }) {
         <div><div className="text-[11px] font-semibold tracking-wide text-muted-foreground uppercase">Notas</div><p>{p.notes || <span className="text-muted-foreground">Sin notas de investigación.</span>}</p></div>
         {p.price_notes && <div><div className="text-[11px] font-semibold tracking-wide text-muted-foreground uppercase">Precios</div><p>{p.price_notes}</p></div>}
         <div><div className="text-[11px] font-semibold tracking-wide text-muted-foreground uppercase">Contacto</div><p>{p.address || '—'}{p.phone && <> · <a href={`tel:${String(p.phone).replace(/\s+/g, '')}`} className="text-[#0F766E]">{p.phone}</a></>}{isNum(p.founded_year) && <> · Fundada en {p.founded_year}</>}</p></div>
+        {(p.ruc || p.formalidad) && <div><div className="text-[11px] font-semibold tracking-wide text-muted-foreground uppercase">Formalidad</div><p>{p.ruc ? <>RUC {p.ruc} · {p.razon_social} · {p.ruc_estado}{p.ruc_how && <span className="text-muted-foreground"> (cruce por {p.ruc_how})</span>}</> : 'Sin RUC identificado en el padrón SUNAT'}{p.senasa && <><br />SENASA: expendio de productos veterinarios desde {p.senasa_fecha}{p.senasa_regente && <> · regente {p.senasa_regente}</>}</>}{p.licencia_fecha && <><br />Licencia municipal {p.licencia_fecha}{p.licencia_giro && <> · {p.licencia_giro}</>} <span className="text-muted-foreground">({p.licencia_fuente})</span></>}</p></div>}
         {serv.length > 0 && <div className="flex flex-wrap gap-1">{serv.map(s => <Pill key={s}>{s}</Pill>)}</div>}
         {(p.hours || []).length > 0 && <div className="text-xs text-muted-foreground">{p.hours!.join(' · ')}</div>}
       </div>
@@ -60,6 +87,7 @@ export function Directory({ S }: { S: Scope }) {
   const [inclNon, setInclNon] = React.useState(false)
   const [inclBuf, setInclBuf] = React.useState(false)
   const [chain, setChain] = React.useState<'all' | 'chain' | 'indep'>('all')
+  const [form, setForm] = React.useState<'all' | 'formal' | 'senasa' | 'sinruc' | 'baja'>('all')
   const [minR, setMinR] = React.useState(0)
   const [sorting, setSorting] = React.useState<SortingState>([{ id: 'reviews_count', desc: true }])
   const [open, setOpen] = React.useState<Set<string>>(new Set())
@@ -70,9 +98,10 @@ export function Directory({ S }: { S: Scope }) {
     const qq = q.trim().toLowerCase()
     return base.filter(p => (!qq || String(p.name || '').toLowerCase().includes(qq)) && (!only24 || p.is_24h) &&
       (!onlyEm || p.emergency === true || (p.is_24h === true && p.emergency !== false)) &&
-      (chain === 'all' || (chain === 'chain' ? !!p.chain : !p.chain)) && (minR <= 0 || (isNum(p.rating) && p.rating >= minR)))
-  }, [base, q, only24, onlyEm, chain, minR])
-  React.useEffect(() => { setPagination(p => ({ ...p, pageIndex: 0 })); setOpen(new Set()) }, [S.district, q, only24, onlyEm, inclNon, inclBuf, chain, minR])
+      (chain === 'all' || (chain === 'chain' ? !!p.chain : !p.chain)) &&
+      (form === 'all' || (form === 'formal' ? p.ruc_estado === 'ACTIVO' : form === 'senasa' ? !!p.senasa : form === 'baja' ? p.formalidad === 'Baja SUNAT' : !p.ruc)) && (minR <= 0 || (isNum(p.rating) && p.rating >= minR)))
+  }, [base, q, only24, onlyEm, chain, form, minR])
+  React.useEffect(() => { setPagination(p => ({ ...p, pageIndex: 0 })); setOpen(new Set()) }, [S.district, q, only24, onlyEm, inclNon, inclBuf, chain, form, minR])
 
   const columns = React.useMemo<ColumnDef<Place>[]>(() => [
     { id: 'name', header: 'Nombre', accessorFn: p => (p.name || '').toLowerCase(), sortDescFirst: false, meta: { cls: 'min-w-56' },
@@ -90,6 +119,7 @@ export function Directory({ S }: { S: Scope }) {
     { id: 'is_24h', header: '24h', accessorFn: p => (p.is_24h ? 2 : 0) + (p.is_24h_google ? 1 : 0), meta: { cls: 'hidden sm:table-cell' }, cell: ({ row }) => <Badge24 p={row.original} /> },
     { id: 'ticket', header: 'Ticket S/', accessorFn: p => u(p.ticket), sortUndefined: 'last', meta: { cls: 'hidden sm:table-cell text-right tabular-nums', num: true }, cell: ({ row }) => fmtN(row.original.ticket) },
     { id: 'consult_price', header: 'Consulta S/', accessorFn: p => u(p.consult_price), sortUndefined: 'last', meta: { cls: 'hidden lg:table-cell text-right tabular-nums', num: true }, cell: ({ row }) => fmtN(row.original.consult_price) },
+    { id: 'formal', header: 'Formalidad', accessorFn: p => u(FORM_ORDER[p.formalidad || '']), sortUndefined: 'last', meta: { cls: 'hidden md:table-cell' }, cell: ({ row }) => <Formal p={row.original} /> },
     { id: 'social', header: 'Redes', enableSorting: false, meta: { cls: 'hidden lg:table-cell' }, cell: ({ row }) => <Social p={row.original} /> },
     { id: 'rep', header: 'Reputación', accessorFn: p => u(REP_ORDER[p.social_reputation || '']), sortUndefined: 'last', meta: { cls: 'hidden xl:table-cell' },
       cell: ({ row }) => { const r = row.original.social_reputation; return !r || r === 'Sin datos' ? <span className="text-muted-foreground">—</span> : <Pill tone={r === 'Alta' ? 'good' : r === 'Media' ? 'mid' : r === 'Baja' ? 'bad' : 'gray'}>{r}</Pill> } },
@@ -104,6 +134,7 @@ export function Directory({ S }: { S: Scope }) {
     const cols: [string, (p: Place) => unknown][] = [['Nombre', p => p.name], ['Distrito', p => p.district], ...(inclBuf ? [['zona', (p: Place) => (p.zone === 'buffer' ? 'vecina' : 'core')], ['Distrito cercano', (p: Place) => p.near_district], ['Km al límite', (p: Place) => p.border_km]] as [string, (p: Place) => unknown][] : []), ['Es clínica', p => (p.is_clinic === false ? 'No' : 'Sí')], ['Dirección', p => p.address], ['Rating', p => p.rating], ['Reseñas', p => p.reviews_count],
       ['24h confirmado', p => (p.is_24h ? 'Sí' : 'No')], ['24h según Google', p => (p.is_24h_google ? 'Sí' : 'No')], ['Emergencias', p => (p.emergency === true ? 'Sí' : p.emergency === false ? 'No' : '')], ['Ticket S/', p => p.ticket], ['Base ticket', p => p.ticket_basis],
       ['Consulta S/', p => p.consult_price], ['Segmento', p => p.segment], ['Cadena', p => p.chain], ['Reputación social', p => (p.social_reputation === 'Sin datos' ? '' : p.social_reputation)],
+      ['RUC', p => p.ruc], ['Razón social', p => p.razon_social], ['Estado SUNAT', p => p.ruc_estado], ['SENASA', p => (p.senasa ? 'Sí' : 'No')], ['Regente SENASA', p => p.senasa_regente], ['Licencia municipal', p => p.licencia_fecha], ['Giro licencia', p => p.licencia_giro], ['Formalidad', p => p.formalidad],
       ['Teléfono', p => p.phone], ['Web', p => p.website], ['Instagram', p => p.instagram], ['Facebook', p => p.facebook], ['TikTok', p => p.tiktok],
       ['Servicios', p => (p.services || []).join('; ')], ['Especialidades', p => (p.specialties || []).join('; ')], ['Notas', p => p.notes], ['Google Maps', p => p.maps_url], ['Lat', p => p.lat], ['Lng', p => p.lng]]
     const cell = (v: unknown) => { if (v == null || (typeof v === 'number' && !Number.isFinite(v))) return ''; const s = String(v); return /[",;\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s }
@@ -125,6 +156,11 @@ export function Directory({ S }: { S: Scope }) {
     <Section id="directorio" n="10" eyebrow="Directorio completo" title="¿Quiénes son, uno por uno?"
       insight={<Insight><Rich text={`${fmtN(S.P.length)} clínicas en ${S.label}: ${fmtN(hi)} con 4.5★ o más y **${fmtN(S.lowRated)} bajo 4.0**.${weakBig.length ? ` Candidata a perder clientes: **${weakBig[0].name}** (${fmtN(weakBig[0].rating, 1)}★, ${fmtN(weakBig[0].reviews_count)} reseñas).` : ''}`} /></Insight>}>
       <Reveal>
+        <Panel className="mb-4">
+          <CardHead title="Formalidad por distrito" sub={`${fmtN(G.formalidad?.['Formal + SENASA'] || 0)} con RUC activo y registro SENASA · ${fmtN(G.formalidad?.['Baja SUNAT'] || 0)} de baja en SUNAT pero aún en Google Maps`} />
+          <div className="px-2 pt-2 pb-3 sm:px-4"><FormalChart /><Legend className="mt-2" items={FORM_KEYS.map(k => ({ color: FORM_COLOR[k], label: k }))} /></div>
+          {G.formalidad_note && <p className="border-t px-5 py-2.5 text-[11px] text-muted-foreground">{G.formalidad_note}</p>}
+        </Panel>
         <Panel>
           <div className="grid gap-3 border-b p-4 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
             <div className="relative">
@@ -139,6 +175,10 @@ export function Directory({ S }: { S: Scope }) {
               <Select value={chain} onValueChange={v => setChain(v as typeof chain)}>
                 <SelectTrigger className="h-9 w-36" aria-label="Cadena o independiente"><SelectValue /></SelectTrigger>
                 <SelectContent className="z-[1150]"><SelectItem value="all">Todas</SelectItem><SelectItem value="chain">Cadena</SelectItem><SelectItem value="indep">Independiente</SelectItem></SelectContent>
+              </Select>
+              <Select value={form} onValueChange={v => setForm(v as typeof form)}>
+                <SelectTrigger className="h-9 w-44" aria-label="Formalidad"><SelectValue /></SelectTrigger>
+                <SelectContent className="z-[1150]"><SelectItem value="all">Formalidad: todas</SelectItem><SelectItem value="formal">RUC activo</SelectItem><SelectItem value="senasa">Con SENASA</SelectItem><SelectItem value="sinruc">Sin RUC</SelectItem><SelectItem value="baja">Baja SUNAT</SelectItem></SelectContent>
               </Select>
               <label className="flex items-center gap-2"><span className="text-muted-foreground">Rating mín.</span><Slider aria-label="Rating mínimo" min={0} max={5} step={0.1} value={[minR]} onValueChange={v => setMinR(v[0])} className="w-24" /><b className="w-7 tabular-nums">{fmtN(minR, 1)}</b></label>
               <Button onClick={exportCSV} className="h-9"><Download />CSV</Button>

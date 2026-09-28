@@ -1,0 +1,612 @@
+{
+ "id": "ChIJv3mvaCbJBZERBBoc8UbLsfI",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "908 772 198",
+ "internationalPhoneNumber": "+51 908 772 198",
+ "formattedAddress": "Jr. Huiracocha 1551, Jesús María 15046",
+ "addressComponents": [
+  {
+   "longText": "1551",
+   "shortText": "1551",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Huiracocha",
+   "shortText": "Jr. Huiracocha",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0780282,
+  "longitude": -77.0490593
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=17487982333609646596&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.recupet.online/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–15:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 32,
+ "displayName": {
+  "text": "RecuPet Clinica Veterinaria Jesus Maria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–15:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. Huiracocha 1551, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wV1JrWjZVa1o2ZG10MWFXbzFZek52U1ZwdlQyYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Gracias por siempre atender bien a mi Mocca, sale muy feliz y cómoda siempre que la voy a recoger de su baño, aunque no le dura nada su peinado por su propio jugueteo 😅, me encanta como la dejan y la paciencia con que la atienden.\nRecomendado 10/10 🫶🏽✨",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Gracias por siempre atender bien a mi Mocca, sale muy feliz y cómoda siempre que la voy a recoger de su baño, aunque no le dura nada su peinado por su propio jugueteo 😅, me encanta como la dejan y la paciencia con que la atienden.\nRecomendado 10/10 🫶🏽✨",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angela Ferrer Suasnabar",
+    "uri": "https://www.google.com/maps/contrib/108177670428136814867/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKOtOdbz-37gVM8pZ5iKPRL_uxEAkWjyuBi3B9gHpL281L27Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-08T23:07:39.157359494Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wV1JrWjZVa1o2ZG10MWFXbzFZek52U1ZwdlQyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wV1JrWjZVa1o2ZG10MWFXbzFZek52U1ZwdlQyYxAB!2m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vM1pFWmtiVGRaUTA1ek5tSjRhM3BKZDBkellYYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente experiencia en Recupet. Mi perro, Causita, fue operado de una hernia discal y perdió la movilidad de sus patas traseras, pero gracias a las sesiones de hidroterapia y fisioterapia está progresando increíblemente. La caminadora subacuática es de primer nivel y fundamental para su rehabilitación. Además, el equipo es sumamente amable y atento; se nota el cariño y la dedicación que le ponen a cada paciente. ¡Totalmente recomendados!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente experiencia en Recupet. Mi perro, Causita, fue operado de una hernia discal y perdió la movilidad de sus patas traseras, pero gracias a las sesiones de hidroterapia y fisioterapia está progresando increíblemente. La caminadora subacuática es de primer nivel y fundamental para su rehabilitación. Además, el equipo es sumamente amable y atento; se nota el cariño y la dedicación que le ponen a cada paciente. ¡Totalmente recomendados!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jhovanni Joel Ajen Soto",
+    "uri": "https://www.google.com/maps/contrib/116230840045662482666/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhqql0-qa1-XK4Sjt9J2RtNEIK2oDtIbj56vTvbjc5monPhA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-10T00:17:10.498147986Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vM1pFWmtiVGRaUTA1ek5tSjRhM3BKZDBkellYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vM1pFWmtiVGRaUTA1ek5tSjRhM3BKZDBkellYYxAB!2m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jdGFIZEdVblpQVmpCRGJHZGxXUzF5VTIxMVduYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Algo que me encantó!! es que mi bebé se sintió demasiado cómodo y tranquilo corría por todos los espacios, no sintió ni la vacuna!! Eso para mi lo es todo ♡\nLa paciencia y el trato de las doctoras son el plus de la Vet!! Ámamos Recupet y por supuesto que lo recomendamos!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Algo que me encantó!! es que mi bebé se sintió demasiado cómodo y tranquilo corría por todos los espacios, no sintió ni la vacuna!! Eso para mi lo es todo ♡\nLa paciencia y el trato de las doctoras son el plus de la Vet!! Ámamos Recupet y por supuesto que lo recomendamos!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Iann Gonzales",
+    "uri": "https://www.google.com/maps/contrib/109636266544814922972/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoYDxABg6KE7ffGMy7anV_N0IrUJl42YSX1guobagF0ja8K9F75g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-17T02:56:58.265936610Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jdGFIZEdVblpQVmpCRGJHZGxXUzF5VTIxMVduYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jdGFIZEdVblpQVmpCRGJHZGxXUzF5VTIxMVduYxAB!2m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVFRXTnJNM0JDTVVSWGRFdFBUbGxpYURoSlpVRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Nuestra última experiencia en esta veterinaria fue muy decepcionante. Al recoger a nuestra perrita, la groomer nos habló en un tono incómodo porque, según indicó, mi perrita había intentado morderla y se había mostrado muy nerviosa (fuera de lo habitual). Además, insinuó que esto podría deberse a que en otra veterinaria la habrían tratado mal, algo que no es cierto, ya que mi perrita nunca ha sido atendida en otra veterinaria.\nCuando mi hermana se comunicó con ella para conversar sobre lo ocurrido, volvió a insistir en lo mismo y, en repetidas ocasiones, se refirió a nuestra perrita como una \"anciana senil\", en un tono que sentimos despectivo y poco empático.\nEntendemos que los perros mayores pueden ponerse nerviosos durante el baño o el corte, especialmente en un desmotamiento, que puede resultar muy doloroso, más aún en el caso de nuestra perrita, quien presentaba un cuadro de alergia e irritación leve, lo cual avisamos a la groomer previamente, pidiendo su asesoría de cómo tratar su cuadro, pues mi perrita se había generado un enmotamiendo del pelaje debido al rascado.\nEsperamos que un groomer tenga además de preparación, la paciencia (por más que ella misma mencione que la tiene) y la sensibilidad necesaria para manejar este tipo de situaciones y comunicarse con respeto y empatía.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Nuestra última experiencia en esta veterinaria fue muy decepcionante. Al recoger a nuestra perrita, la groomer nos habló en un tono incómodo porque, según indicó, mi perrita había intentado morderla y se había mostrado muy nerviosa (fuera de lo habitual). Además, insinuó que esto podría deberse a que en otra veterinaria la habrían tratado mal, algo que no es cierto, ya que mi perrita nunca ha sido atendida en otra veterinaria.\nCuando mi hermana se comunicó con ella para conversar sobre lo ocurrido, volvió a insistir en lo mismo y, en repetidas ocasiones, se refirió a nuestra perrita como una \"anciana senil\", en un tono que sentimos despectivo y poco empático.\nEntendemos que los perros mayores pueden ponerse nerviosos durante el baño o el corte, especialmente en un desmotamiento, que puede resultar muy doloroso, más aún en el caso de nuestra perrita, quien presentaba un cuadro de alergia e irritación leve, lo cual avisamos a la groomer previamente, pidiendo su asesoría de cómo tratar su cuadro, pues mi perrita se había generado un enmotamiendo del pelaje debido al rascado.\nEsperamos que un groomer tenga además de preparación, la paciencia (por más que ella misma mencione que la tiene) y la sensibilidad necesaria para manejar este tipo de situaciones y comunicarse con respeto y empatía.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ma. Fátima MC",
+    "uri": "https://www.google.com/maps/contrib/101352454774972863942/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7Fxg3rwfPDwZAVpyRAafX-py3nYFDd3bfQGOfZwueWluqi-QZVA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-27T00:50:28.868352516Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sVFRXTnJNM0JDTVVSWGRFdFBUbGxpYURoSlpVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sVFRXTnJNM0JDTVVSWGRFdFBUbGxpYURoSlpVRRAB!2m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/reviews/ChZDSUhNMG9nS0VQaUM5clBWX052eFhnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Mi perrita empezó terapia de rehabilitación física ahí y el servicio y trato que recibimos es muy amable. Desde la recepción y ni hablar el trato de las doctoras con las macotas. Precios muy accesibles también.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi perrita empezó terapia de rehabilitación física ahí y el servicio y trato que recibimos es muy amable. Desde la recepción y ni hablar el trato de las doctoras con las macotas. Precios muy accesibles también.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gerencia A440pianos",
+    "uri": "https://www.google.com/maps/contrib/113258859431683998169/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxI6HCZK_7ovxzgAMbo5YXLBs7DQdPnesVym3awyhtEpW5Vg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-10T15:57:54.410788Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQaUM5clBWX052eFhnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQaUM5clBWX052eFhnEAE!2m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMa_K2yHJ_7FC6Bg5_AhPVQ_MTUMqwppfMkHyKKTuDGjAPsbSXYyDOANl7SQApAZd8WKoEAjQ4EwaTPIIWUio0BebXKl7ZZnh9x9k9sfUur-IlC6vQoIcM8A3yCCM5oqSgfI8JOV1UyAsSBXyEOWHGUoiP_uEalT5P57rOu-BwPa7GhFjoMSyfVTA8r85Yq8pO_3yMywh8Gk1m_eJ5IAc_zyA4J341BMClaHxLOXWzBRSDEpAeX23QLvo_Ow6BqcFFhSdRN-3mdKDIorO46NoLF4QvaOC8x4meIM-Ok6E7DLttFBiK-5YzKE-6eUrycgl4PGlGKl46hp-JXUtEtFasroe6FoBsXfdu6PzkJzD6VxWk6zabIzcm4YgjaosEnlh5qpnxhbOCiX9ZqTGh2CDNPjO9yaqWtug46ZPHBwLIKL",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB0B-8Fd_wTlWvYuYaIBIXK&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB0B-8Fd_wTlWvYuYaIBIXK!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMb86eP2xPmTI-maCo8kIpGeGCwayUNvTymhV67HGBe7R9F-6nMiI9Pf3vaRPKvmU1F7LDVOmC9KE4ZiuS8Mu09hKP8kG8kH_QYmz48XG8d8zhLPngJ-nWeFGc74IO5s2PEI4dAxTjn-0xeX7A23N3ZJYjHHnr1yN6tKiQEf2rKzMXBHcmPUMgZo_budfy9Wzw1e7ngbL_yZB-2w8HQHs4HmbQXaCcrC-UIfrdnOrgwGXAg2CiQ9accbRg7SBdUSzY5nm-G7-1f_GtRJ_uN6dLa3EpJk64XVf38iWVOGq3vQ4pmEdD4IBcaASWIc8RGdVdVWcbo59WF04rJJgi9Xk8zOhqQoasNbd5c0FLc0R0W1kCCXyy0znFkOxUY9-7facBQNrKssZSfLXIISVEAJ1hgdPvduj8iSrvWotWj0W9oZkQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAbegWFCA3Pk43Y5nG609b1&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAbegWFCA3Pk43Y5nG609b1!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMaO9eYfKHT14T1qfDa0xskqMlIkdCRX75If7bheFuYWGbGv7oNLnyYaVGAx0GjISj-fREGhzLKvvAobGpAAw3_lLlVu562kgutz-BA7pSQyEPd8B12oAdKFwTG5bUMkOaFlUgT9yHnVbx4D5P6eXsv5TjldOebtKtfdI3KifRQ0oUMHy9y3Tw39SGToIIfrQzHKZwCbNuNJPdmO7wAbMoEeZGdlQPSRyHnsRRykioWONpIROkp6fzxFvwYZ9mEe3AH62aVFpfe--3LGAUtgYMZfzmI58gpM1M_EOaX2FBzZBB66mOat_ouX2TdqcY_NsOYF2dBp0P513Mv7pK2ro89ourMvRXXDH0OCk6i9-qc9a_HDLgp0nLqFMKXMzM5qBjUm1g8dBWugUeM1P-GLT5Reby1ADdXwDdBbMVV616SGow",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Sofia Julca",
+     "uri": "https://maps.google.com/maps/contrib/115317485938919927549",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQCVu8-Vw7zz-THuJ7xddNAicKW_qe3ZzaEzwpb0B_th5HRg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB0sYDmawhY9jb-aQOOuIqP&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB0sYDmawhY9jb-aQOOuIqP!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMYYoelXtSJasO0XtcUf4IhDF3p5nB6UUqK8E3k1U_jHkN7iB_Y6zKZf602NyXA9w5SZo4na0lzpLdrzgWc6mMvTqx6MyIdX-wUiv1YRuBWwcePr_YocR5FSiw49M3u1BKKHEeXOmO3PmCu-npxXemYOUU343oPLyuFjiDwK0erVzl-cFaU0sP6d_POWkjMZe0fJsXLVx9T2_FvXlGKPbxs6cLfG9WgfSOd8nbXoSH7nRcVOc2mqQbukLnb549V-TudUAkeeq-CXeg9uMs4jYehYO5akbdpVgn4-rFiSNDDEiytUnJWq8s-T4wbeq8qeNLJAKq4tdVq9bjklgNon6jG6sa0L_Vr4zWjzMEv9bIZRD4eqIDbOc06_LkCfx5nFu2Jt9KS5O6L3Qi32H3AjcvT5wQwFBBfOLeCww1ooYw2JIw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8ZHJKBbG5IycG_1vCxD4b&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8ZHJKBbG5IycG_1vCxD4b!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMZpDXU5DFSYYDb7qBDV7I_r0jSKmFcWWHs_FyOFoKf1OUSGzQ69RBiCo3pkVNcvd6LrbWJMCnyDjMUL-hg2bS_x3m19LEEl2Th7hdAH8IQdcekg2O-51aO6MjRS_x3m98rlUChLbfYL5kRI5HEjEt-TSi8TZavJJBn6GxUXpSXlSPb64sfED2R6hGyXQmss6qPdrePs7XsNRiLkngDtyYB8xk_JFcWVOHTgVP4kWvP8jEzIMLfLNL2IjDmnNh3YSxovehmT89j3PCebgVFuexUZ9MiAgbvCZXnNKv0FQ1-Mg4YoEab7Jl1F6uJrwc9m55ypR7S9Azb2ESYPu9wQucXm56sNjsn8ROgru15kre3Qi2tFsJIetR73BSl_hZVfEvTNkaGWcSEcWdzzlGNrjujyO-tjkEW9u2MzDGJDLtj47g",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA2U8YIY3hvfls4mnU-_r-S&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA2U8YIY3hvfls4mnU-_r-S!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMbUZV3V2BkLkpS07JqxX3IymsyySLOquumvF1msglkfzYP1bY-Z0u6MtXcjD9X9GfnaqsuGFfJg7NFIQnyTy8kQgVL7lSwWLDXCLS24WmN4ElRg6o8mfxvD-a930SNTJofLaVSi_FYyiwfbdWWIDyvJtC2_bjQQE_q2NZI-lyG7PoE-tsQOxdq1fhMHYG_nX03k-M3gon-PidxtQ6aiydOVCsFQhU1biqAZsVFW-g8ze-RSRVO_LDg3b9tc49OozSKxfxvvHbJAowEfh1e9wCv92HnC8ntCU6XwzlD8PJocc6XOMbSr1ROHGOAEivATk9_F06jW0-oEKkF5hPDLLjmw6zdDNpDGe9BMnrkjs1W_cLjatDWZSFZvMBKY-NeiK_ZArPTnCJ4OHIRjtOBxBQAJq2w8gMKmBQlhi80XEoAIxQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCYe9bxfUmsTns2pc3IfZC1&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCYe9bxfUmsTns2pc3IfZC1!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMb9A5tTHDXmchWyKkQ1jSX6tcMNmwMiuCmU0pE_10QoEmw8cAONNYfHSrUTSiu7YY5Zgg70bO7kj0l09lzpitq_fD38GMsaC9fiKWr072THAiRA5j3mF_JEkDXy-Y8I7VVpPigfdmZhn9chxftdH1_DMqndF8-wGvY-5SKbRqLVsd5hIVrnJLicXh13FKg5mx-Kzw9vk0rTlzkODHFqIDZfZbbNY8C3uWqhuv6z6zizbAUFWHc0ZwYuqw7w4Ve38LCX4utoI5FVL-En3_ofDuRxWJ4-ktzAj3m0JhwrfyP3l2bIk6euxl4WtLx_rf79ksNspUBCqnleoPkGbrDXEQn8IgzltN7RkcaVRxhVghhGD0donZpk0GeCf7vAC18_I5ANdFARSeLoD0orq-Ilaa2zfNvmFPMY8rJ5Q6beNTS-",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDR0Gd_0epLCqcJbjQq1r8e&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDR0Gd_0epLCqcJbjQq1r8e!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMZ5oibT8Jati0OJ8r_8roYtSXIpnvz369C1XcdlI2-vY5ChBXK-fRoZbFYl6diUsXaxR0bE3IgTxy04sVdUwTBy9GMNrZyTO8AkNM1J8omWqf5aP_g5NFY8gCswcu7M19h7evoHRIaOeH2niqEwdTLurSgZTKL2o8oYCJGKEyBzI9QZyJ-kvaUyZDtBmc-fTll-raFY4VroZvZj_l5s2jhbCJlP6Dy3JH5hw6Xk_IOL6he3Dmh21o-ZepZalS-W11_hJBGvt4rTyEV7nah9ofHgwYKqZ0WAuf3qSujdLJZ7EZLZemLS-jHqkwkHqRwnqYlt23GZIjI-l4JgbZHwVwYMn7k_KWm3ZY-xDTV0MeqjiQ6QCvg7Pt4E23Sq0N0mx7k4a9FXtedHeORa5JCtrVsEV4k9Lm3XjaagwvE8et_1Lg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDRZmeW8POk1-MmCLzoGntz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDRZmeW8POk1-MmCLzoGntz!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMaxckdgv7vT83zt22qiCoPnk2ELD-in3tVZvajO4KwGLJCJjcY80cALWh5pkv2-3ILlcwTw1MYlJEiKX_LMW4ucXZ5lYn6fesVTMJBSqkCRXzZC8wPMrybBP1iJ1sQ3bdpCS5c9dp86-hovRHrqG8ApKnDxALet5HFqRiHyKyhL446TLEetZUqSk_NX6L-SWLN_nqQ93lNjwcgbHdtgPxsV40umiOeX5zgWOqoZupy-Kr12KJkyERe-J2dGDuBL9V7UYG0RfY0_waaswjQI3Tv5GH5Tl5syr3Vf1wWzwjTcecCiz7AFuSogDM0lPPn90FxMwimvzIzlsA6d_yFraxCFNW9GfTXr7A_kowkTZFAOfDRIcxIh71vlqjEcJYdFVmaHuhJiJB2VbpgwOhmOpvJSxd1lYrtemponoinT0pWt1w",
+   "widthPx": 1794,
+   "heightPx": 2654,
+   "authorAttributions": [
+    {
+     "displayName": "Iann Gonzales",
+     "uri": "https://maps.google.com/maps/contrib/109636266544814922972",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoYDxABg6KE7ffGMy7anV_N0IrUJl42YSX1guobagF0ja8K9F75g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCashppUnBUX1EY84iAeRHi&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCashppUnBUX1EY84iAeRHi!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  },
+  {
+   "name": "places/ChIJv3mvaCbJBZERBBoc8UbLsfI/photos/Aa-ngMZCW8QDhDv1UWG80KQ00yywMRct7m7Xqz3S6QXY5uNzMP35YPBZkgAU0cy2V2obiH3MMQyrNwtXoZXFKv_GZSgMkNM_XmgxjVOMvAHcNUYbUybcgOjlILZpn8Qj7fi05hahcQCkNjj74X2AK4UhJ2FkNQvVMtOIUhoYWW2sMP3yQuTnmLw6Ccz-9srizvrk9aKL9ebz_QdheD4JlPMFcbvaGjqBW1KxRrt60xUxetkQUe9uQ9I1VWlMaT1LQYEJi2_OCS0aZj3o61ww5Ed3aFGaLgJju3gmNHcSA0AntMitXnpq5Y09po7Sq6HpagOScU1Gi6rk4lpcOVsg0zB1XwzfDtupt9hhWu9n1dIYTwApR5e5lpymRM2eBx2JRJwAGGHTqool7Mj4gJZbCyFA16Pm2PNY7_H8jm50do-pFzOz8A",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "RecuPet Clinica Veterinaria Jesus Maria",
+     "uri": "https://maps.google.com/maps/contrib/109418966875075541391",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMEVLsCjOMthpJI6vhhXEqvMKEcK0CTVlgaXQI_RrUZR7ofVA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBuBNSU2decQ2DMx2UIUAk4&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBuBNSU2decQ2DMx2UIUAk4!2e10!4m2!3m1!1s0x9105c92668af79bf:0xf2b1cb46f11c1a04"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleSeating": true
+ }
+}

@@ -1,0 +1,560 @@
+{
+ "id": "ChIJK3pxuOXIBZERt-5g0TNuRZw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6977316",
+ "internationalPhoneNumber": "+51 1 6977316",
+ "formattedAddress": "Jirón Gral Canterac 325, Jesús María 15072 LIMA LIMA Lima, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "Jirón Gral Canterac 325, Jesús María 15072 LIMA LIMA Lima",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0707379,
+  "longitude": -77.0467748
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=11260527612144971447&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.facebook.com/evetcanterac/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 54,
+ "displayName": {
+  "text": "EVET Canterac",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Gral Canterac 325, Jesús María 15072 LIMA LIMA Lima, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kelFXNTJNekJZVjNkU2F6aDZSRUpEVHpac2JrRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, todas mis mascotas han sido atendidas aquí desde hace más de 8 años y todo el tiempo les dan la mejor atención. La dra Claudia es muy dedicada y siempre va a buscar la mejor forma de ayudar a tu mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, todas mis mascotas han sido atendidas aquí desde hace más de 8 años y todo el tiempo les dan la mejor atención. La dra Claudia es muy dedicada y siempre va a buscar la mejor forma de ayudar a tu mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rebeca Osores",
+    "uri": "https://www.google.com/maps/contrib/115879400530703785704/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUD9nFS_ZU7LZgp2S5wUc_V1d8MnvEGA8_QnPcOTYVRtw7kg1H-fg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-07T06:26:08.418447236Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kelFXNTJNekJZVjNkU2F6aDZSRUpEVHpac2JrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kelFXNTJNekJZVjNkU2F6aDZSRUpEVHpac2JrRRAB!2m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfOVlQS293RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria. Mi perro llegó con escozor anal y era porque estaban llenas su glándulas pero observó que estaba muy nervioso porque entre navidad y año nuevo el perro había hecho ansiedad. Le dio pastillas calmantes, una crema para su escozor y en 7 días del 1 al 7 de enero estaba calmado y sano. También el joven baña y corta bonito a los shih tzu.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria. Mi perro llegó con escozor anal y era porque estaban llenas su glándulas pero observó que estaba muy nervioso porque entre navidad y año nuevo el perro había hecho ansiedad. Le dio pastillas calmantes, una crema para su escozor y en 7 días del 1 al 7 de enero estaba calmado y sano. También el joven baña y corta bonito a los shih tzu.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "elsa castillo",
+    "uri": "https://www.google.com/maps/contrib/105764203329491925744/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4opgNSgUcVRGvTGzcYWApI4K7I7oNh_C6n0_7nY_vIuSl9Mxg_A=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-01-18T01:05:45.110795Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfOVlQS293RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfOVlQS293RRAB!2m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWclRERndhRlpGZVZWRFRUUk9jRGRKVkdWSmVuYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tofo el equipo de EVET es increible y Claudia tiene una mano especial para los engreid@s de la casa ♥️🐱",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tofo el equipo de EVET es increible y Claudia tiene una mano especial para los engreid@s de la casa ♥️🐱",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rafael C. Alonso",
+    "uri": "https://www.google.com/maps/contrib/112075032521134446470/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr2BDQxsDudm5JGR-Ff3tN-9BswK3zXLh1aAxZ4uopfLnE-Oo=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2026-04-28T21:50:54.701457193Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWclRERndhRlpGZVZWRFRUUk9jRGRKVkdWSmVuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWclRERndhRlpGZVZWRFRUUk9jRGRKVkdWSmVuYxAB!2m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5emVYUHRnRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención,  son muy profesionales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención,  son muy profesionales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ROSA LOPEZ",
+    "uri": "https://www.google.com/maps/contrib/102723152899289881655/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXbrbSQIdufaZ_pKmuPS1nZkkv8JBipL4UNAshOmtbUGxSUkya=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-02-09T00:30:07.438618Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5emVYUHRnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5emVYUHRnRRAB!2m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/reviews/ChZDSUhNMG9nS0VJQ0FnSURxd1BxVlZnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente la atencion, mis mascotas se tratan aqui desde hace un año (desde que estaban en el local del frente) y nunca he tenido ningun problema ni queja sobre el servicio, al contrario, como cliente dan ganas de regresar... Lo que considero sobresaliente es el trato que te dan, esmerado, cordial y cercano, no todas las veterinarias y no todos los negocios tienen personal asi de dedicado, se han convertido en mi veterinaria de confianza... en mi opinion la mejor del distrito, 100% recomendado!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente la atencion, mis mascotas se tratan aqui desde hace un año (desde que estaban en el local del frente) y nunca he tenido ningun problema ni queja sobre el servicio, al contrario, como cliente dan ganas de regresar... Lo que considero sobresaliente es el trato que te dan, esmerado, cordial y cercano, no todas las veterinarias y no todos los negocios tienen personal asi de dedicado, se han convertido en mi veterinaria de confianza... en mi opinion la mejor del distrito, 100% recomendado!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Roberto Maehira",
+    "uri": "https://www.google.com/maps/contrib/108379323416908714510/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8qXw0FpmKDt_4VGbKKqqpRi7_1Ao7xJoblOgn3KgTTAE2uMDclw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-06-24T22:55:33.352104Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxd1BxVlZnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxd1BxVlZnEAE!2m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMbMKJaHEFnmXJ3Kimgaq9qcCEJxWjXWWqVng-OEcx5WWHbj6d56MJm7Ou3H4xF63fThwzPIs5viDCJqpbMce8kdVBQSdom1ZWcQIxutkgrHv935G6pVUu3NWuJUYz-rEvNvfXxjBkZgFZWW-C23A7pgg7OL9C-dzk3uKHlWGnlC70JYSsx5zP3a9NtLV7aqNnLJdCGUTSziVn8kpxDTOkLZHtRR2b1SWNmzT111LaNk1WuGLbsfkklbfs-mcgdX1JBdUc1vZpYzU4gtG8E0er6BvVyBj9UZplUm54IpUJFrOIuy2pvSmWgwI4mz9NBNfQJpsG_A91-t39WQsr2chdDqROanR1j-4yfx21wu16S0d80CXf7yiHth2oR81tWhEzjMqSMh8pPiFo4vSgqnyQdqZv0d45Marewh-A2ndrUapj5I",
+   "widthPx": 1024,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "EVET Canterac",
+     "uri": "https://maps.google.com/maps/contrib/111736460087748945136",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4YoySf1ta2-lSk3rf4HF8J9Xb6Yvx4RleSewzWp0MIjoL-g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr4cLG3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr4cLG3gE!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMYfhoIf9DOxYRpQSeCQRtC3cMuqGfAEqDiuphGk58k0vxxfUxO4RFwMYgdXZA-gvdOM-h0phrzWxKlVqTUTL9bydann1lzEksAUpqeKaHXTr1pMs1h2MTcPjrlX2yzhydeqQhlYLqQkQgvoLA1Gv1ipJo3nSxaZwy6fjjmBS6pfri_Ax2ElPGobHD04mZAR51zk7wt7ogQ9COQ5EbRqnmiT_tua4SLBfoO3FObjjJqxQ-ElZxf86ywTfeBTcnFUI6DsHKzib5OZvAzaxfMrT0oayEn1S105_XQzWMziSSydNmB1DQ2ze_6s82xuxm86KHDivmZvNE8AufixO_9U8LLYIKVKcy3u1xhoGx4_ZgFGJV8sXik10H1zyfdKlD_d0q7a7ndnwo8u5frPuYIlLILA3JVr-hUJZF48XiNhevO-epv2",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ROSA LOPEZ",
+     "uri": "https://maps.google.com/maps/contrib/102723152899289881655",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXbrbSQIdufaZ_pKmuPS1nZkkv8JBipL4UNAshOmtbUGxSUkya=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyzbXk5AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyzbXk5AE!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMaYE28Ckgx-4shJKOLm0gAlmcq3I0ert4IwM1xuz0XdKbUpLPGipcgwZCrqlwPhwwmOLIqtWXozYJqRiEL2NfF8Z7aUXZc4gictC8P03OWYyoPYetfCqz3PkG-O1CqMVVNDGN4bybGUdCyOAl2QMrm0TIBTmkZOplnq6OcvT984XduUR4w12jq6T-7DN-Hs6AtaBu87uHHVa9eQqrCwfo9KdX-UF7bDTArM-H9tVfdVS0oYGvBfHKVyMrZ3KWe7qHxpUegjOHLJ8yU8zK6X_Gk0ZOThtc1qUeINAf-Fj41IxAAl1g9s5YXlMMbD4HGussUzwjgQB2knTl4g8mjk99_e9RVy6kb-CrHH-qcQSKSY2mr5eIOutduLe40eETApp2Z_eKjhRqOyv-xOEXADAmsgz0Ty89gHCpUYwXjyNT7dAWs",
+   "widthPx": 3072,
+   "heightPx": 2304,
+   "authorAttributions": [
+    {
+     "displayName": "Edra",
+     "uri": "https://maps.google.com/maps/contrib/105633421683946592767",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAhDdVLe4f8EA6Vaqnqe1ex54TO3hc3nOEfG0WLn5TtHoA_A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEhs703AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhs703AE!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMYRze4lxWRMp8YwTTsRpK4P5VVmkjUf-0Rx7kJzVt80caMCshwWikW_X4A3wOcdh9hdBAHXJGt4RERc-pud76XrLIu5iNyfSMDW6_Hh9T9vov6Bq2UJ4suDSZ3WGqL9J-qR4aq4Ov_gcCc8wqlE9oul_4_9aiJG7n8_egg4CtkODKTcBs7k8lNN6vGLwpG5_sL77iSDJaGfQRC0ue2XG9YOmgNeujrsuD6Djfb8mbPMwi4Ocpu-s2ItY4s7J5oQAruwvikckTkKL21H7wupbl6fFKfpvFevaLCj4ujeLcsOGEWsqmNdhKlvILoUDeDhENWn06VZm7GmFp8ssZ-pFhG42p-2He-y_xf2i0bp9pbXFbxAFNZ7c4e-fFeZTWCqthQ7NO-IchFEIdrQLA5MIX6Burq6cDAWMmlt_VmdxG4",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "elsa castillo",
+     "uri": "https://maps.google.com/maps/contrib/105764203329491925744",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4opgNSgUcVRGvTGzcYWApI4K7I7oNh_C6n0_7nY_vIuSl9Mxg_A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_9YPKEw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_9YPKEw!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMZjhFoKEBHIcp1YYzxIoOS_hOJhY3EJQ3Fnil9K1TkAE4V3nyJUorK9SML1DsCV9-bJ37eAJqmZAuGELqisGJUuNJtfG0hZBxVGYTHcqeWc7K7M3sxoEwnaVImyWqHebPe1jMsF2GD4pKKPUXSHaM48v-sxjHXFlO-6EQsV1eABA92yphEAzrDoD8hZn_wNGjLOajdqALfJOZ3aTtyEAVnICSEZhtBIXH4IZ0WkPd8yt_J6bblBsXphJa946r933fWW0WiNbBVZeHB-MRV432YHPwoTv6w4I1iMAiV5UtQ7ncnNsywTDgjQ8pDdPiQZepuszAWOpOic3m1oNZQrUyiPoAS6HGwSPr_ByZM5Fi59NLFPkKRGBhcS10T7YO1Epw3xTq0-DbwEiDwCpdbbM5Majpi3tH7mDZbGQZ4Ca_w",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia Paola Romero Aliaga",
+     "uri": "https://maps.google.com/maps/contrib/112292066616684290041",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1-9NocRPP_wkB4UR7DIPjEk1P2EIQRjSDlEdo2HgYqSx_IlVzMQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWwpDxIQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWwpDxIQ!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMY0sWgQml660C-cC5C90X1IjFjaDGeJxd3JzTtVAjUj3mzi6NTfZMfpx_mZB9h6tYUZNw9Fi2-gsXLTbkGn3dnyU-C9cM8pPcvwnF09N8ZMclnPUTQgFlAEPTUieEX5pXbMbzJL5pQp2Fht-q-H7PX6l0BvzbBPAKmA4Klt6ytzsIIqMaEqz-jtCKds2nVg_eu8D-DEq0GsGiZT0DebwgTWFvHsr4VreMa0ZI74dEcT9IvpdaYueDao56UJXKp0PAiCG3Mj1zuLOVtAgRjESau6HIXRjRsW7Qd_oK9BXqqn4XL7YXZl_gaLMjLG1idRje9MPuKDoEMxqwIKBG3_EujaaEGL2gRgv3f0OTpuwng-S7QvoSz7zGYBDrN4MWcOoYMk4lVMU5nIeVf46wONkUulir6D2_sPbn4Ntxh7PJ4IcPFK",
+   "widthPx": 3072,
+   "heightPx": 2176,
+   "authorAttributions": [
+    {
+     "displayName": "Edra",
+     "uri": "https://maps.google.com/maps/contrib/105633421683946592767",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAhDdVLe4f8EA6Vaqnqe1ex54TO3hc3nOEfG0WLn5TtHoA_A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEhs70ggE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhs70ggE!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMY8Pa5EBpHDOWMi_Z0fbzENseJxtSmz64y24WHQrO9z2bB3F4Q7oo9gPgpCjAzbg-eTcXeYIipWHom3ouCcejxHD9HFzkrpJVVRVf-FUjGif5iZWaP1SjxkBpwJNKa7sAEWHBtx0lhrbg8Rsxr9J4RCdhw4OE_iu9p9LVjCRC0qTb_bvsXAsuSfL4Kc0tkn3e-LF_mi7Nr-kN6jqOUkm8z29LOTvffJc3mwJbuNS7kpitEdSOnsa9EWtcqxS9ZuGBFpaGIiTgnGsn40A3dEOKAS1aBndTW98-EeEKiq8hn_3S7KzgYg84Tcg4952PV5BFwXKdraycTvUoxmdSd2WlkR8E30aNAPx3j1g5q7nnPcLhZPWR6plA8r6ommPxlRcCsAWiNz4LBkKO03x_TMYgvaTJ7NbaiJeIsCnHZQ-iOFAA",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Edra",
+     "uri": "https://maps.google.com/maps/contrib/105633421683946592767",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAhDdVLe4f8EA6Vaqnqe1ex54TO3hc3nOEfG0WLn5TtHoA_A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEhs70HA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhs70HA!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMYdcNPTq4Tj5fco7m6cFDVKwrmZl7Co0CGX4AMk8ZlZmpuObEluUU8iKT-3VyiTf3UiOKCAX4pVZX7vGkSyyW3A_klf8MjomB_A_5DHmMse5RcNK2lZzuR0ZhgkAyBZQLxWCgAhQXB4P1AbsOQxS7r1jfAg0L9jt_JrwL9oW7GrhbsPLF57GkkldOVYfBuKw8JYDvUt0P8hv8YzhzkrXM-qIYk6Ng-sSaEnruF4GkZbrvrxA-13Bv6KIwje4ncPwo50aTGa7P_S4ydXyI0WSZFrPmziGKl_7OM5N7MDpljc2nml8J0pcnUGiIx9XKsBW0ITlTkOiV4JFF4F4RrELY4nrrKrEgLBJWQHh8eTQ5nzv9_YmGFjj0l-sBO9qfgrAMg0J3lDsUS1Y2N1DQBc3bgLTqFWsayFYYZ6lu1EhQ",
+   "widthPx": 1936,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Edra",
+     "uri": "https://maps.google.com/maps/contrib/105633421683946592767",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAhDdVLe4f8EA6Vaqnqe1ex54TO3hc3nOEfG0WLn5TtHoA_A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEhs70PA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEhs70PA!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMbscsjFAdEjVlISftUy26zr1Vx5xEzSYerKsrKpNJBSimImursMD-MCYnGpXfZOfbdpBb2vOVhddzRPXJXB3PNrzCWgr-CQKW7hmQieYrQB1ORooUauq14iH4l6_PTSi8MeChbVAX8RQbY4I_a-nhN7iADQJD2fEreLGNF5XXtM4PioIkooDCfU805U7Yt5SJ7oxQvn4ATt5qK6UL9R6SKXP1pnc8XDfolMoivQxDqkXbcQ9jOHvTR4bQp9nyIb_vUEuHZMCnT-v3vHi1wQ_aWNRZxZly5tBEGU4a8pwTd8rFP7A3auWHG6iL5UKkX9JUjRNTU0rNiQj_ZAm-9NS8wFUVA64qYzRMnkK8ZqNZ3DI0PwW812QbWzV-sDOipdwJYSLix23bNXICXBGhzZr5kSm8GrWMMhzJwy9hLdv0wYuA",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "ROSA LOPEZ",
+     "uri": "https://maps.google.com/maps/contrib/102723152899289881655",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXbrbSQIdufaZ_pKmuPS1nZkkv8JBipL4UNAshOmtbUGxSUkya=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyzbXkZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyzbXkZA!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  },
+  {
+   "name": "places/ChIJK3pxuOXIBZERt-5g0TNuRZw/photos/Aa-ngMbSoP5yvzvj3Gq-AwSbSG9CRtXp6f7idzF7atQBl89DMREde_JVaNxUCe7P2CxmbAviMsqQAdX5xp8BU9EVrqGhzqyaVspqXSzV2mm0MZyFKHUprSmx0qVbkiEhjcw4tqS4DCJR9ZvXzGVCtGMYo8tZsCUDsW1Dnt8M32eovqHOG2KzlJmz6RcGrtLRtpQckOU_zeRK9H5y1zPcGGSQYT-lCTUHFZ0jaUBl8EdesicURH5WgftpTsBbtEjfkOSkoCWacOfD_jQW4Rbmem-JmvPpEG100dGGYHhUlgd2Q2zqNYCY09mmxA1eeI1BZ4XiykkYjgh5WHLtkPx3h5pVhYSAPvVANZ882AAe-oKy1t6toNTP67rhIAutNxnGEBdRE4HyrXi4hhDCOSehivOwdsLr2Vi3EATsiWkfE6XTsG28zczR",
+   "widthPx": 1024,
+   "heightPx": 683,
+   "authorAttributions": [
+    {
+     "displayName": "EVET Canterac",
+     "uri": "https://maps.google.com/maps/contrib/111736460087748945136",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK4YoySf1ta2-lSk3rf4HF8J9Xb6Yvx4RleSewzWp0MIjoL-g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr4cKlpwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr4cKlpwE!2e10!4m2!3m1!1s0x9105c8e5b8717a2b:0x9c456e33d160eeb7"
+  }
+ ]
+}

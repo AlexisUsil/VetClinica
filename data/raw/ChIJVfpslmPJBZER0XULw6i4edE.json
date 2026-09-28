@@ -1,0 +1,481 @@
+{
+ "id": "ChIJVfpslmPJBZER0XULw6i4edE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "977 927 241",
+ "internationalPhoneNumber": "+51 977 927 241",
+ "formattedAddress": "Av. Universitaria 567, San Miguel 15086",
+ "addressComponents": [
+  {
+   "longText": "567",
+   "shortText": "567",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Universitaria",
+   "shortText": "Av. Universitaria",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Miguel",
+   "shortText": "San Miguel",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0842078,
+  "longitude": -77.0829581
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=15094298661075252689&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:30",
+   "martes: 8:30–18:30",
+   "miércoles: 8:30–18:30",
+   "jueves: 8:30–18:30",
+   "viernes: 8:30–18:30",
+   "sábado: 8:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 14,
+ "displayName": {
+  "text": "Farmavet del Perú S.A.C.",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:30",
+   "martes: 8:30–18:30",
+   "miércoles: 8:30–18:30",
+   "jueves: 8:30–18:30",
+   "viernes: 8:30–18:30",
+   "sábado: 8:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Universitaria 567, San Miguel",
+ "reviews": [
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVVYwVTBTMHRoTmtGWmJVa3lkMUJ3VGtkMGMyYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Siento las 8:15am vine a comprar una medicina de forma urgente y estaba cerrado, esperé casi 10 minutos y nada. Respeten sus horarios, siempre compro, ahora buscaré otras opciones",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siento las 8:15am vine a comprar una medicina de forma urgente y estaba cerrado, esperé casi 10 minutos y nada. Respeten sus horarios, siempre compro, ahora buscaré otras opciones",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sebastian Eduardo Rodríguez Mier",
+    "uri": "https://www.google.com/maps/contrib/111376017405998007083/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKG2nmZ0PQAAlneGuF0uWpyvAr2X9N-Lq-1wFaShu72edGxfA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-13T13:11:30.354690919Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCVVYwVTBTMHRoTmtGWmJVa3lkMUJ3VGtkMGMyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVVYwVTBTMHRoTmtGWmJVa3lkMUJ3VGtkMGMyYxAB!2m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1S0xVYzJjVkZtV1hob1VHdDNOVmhhV1dRNGRIYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen trato. Siempre encuentro las medicinas que busco. Inclusive, el personal te sugiere medicinas veterinarias en caso no tengan en stock las que uno busca. También atienden vía WhatsApp y realizan delivery.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen trato. Siempre encuentro las medicinas que busco. Inclusive, el personal te sugiere medicinas veterinarias en caso no tengan en stock las que uno busca. También atienden vía WhatsApp y realizan delivery.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Alberto Alfieri Muñoz Medrano",
+    "uri": "https://www.google.com/maps/contrib/112440397331360145226/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWabth28nFut1cYWSG8Bq9XNyNSE1njplOl82xA-DPBpIaO67DEVg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-08-27T22:51:43.905108914Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1S0xVYzJjVkZtV1hob1VHdDNOVmhhV1dRNGRIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1S0xVYzJjVkZtV1hob1VHdDNOVmhhV1dRNGRIYxAB!2m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/reviews/Ci9DQUlRQUNvZENodHljRjlvT214WVpsTmhOMk5MVUVWdVpIbFNWMGg0YWtwcVltYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "bello el q atiende",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "bello el q atiende",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María Paula Ramírez Briceño",
+    "uri": "https://www.google.com/maps/contrib/108773882152978513513/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRm4AGZGyCJ22dKYZFzTAqbMy4rYe9jjNFEvk2nOlQEd66iQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-14T07:21:10.037016194Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214WVpsTmhOMk5MVUVWdVpIbFNWMGg0YWtwcVltYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214WVpsTmhOMk5MVUVWdVpIbFNWMGg0YWtwcVltYxAB!2m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NMVRuWnRRVEZrYldScGMwSlpkbE5zT0VvM1JuYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Siempre encuentro las medicinas para mis mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre encuentro las medicinas para mis mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Giovanni Farfan",
+    "uri": "https://www.google.com/maps/contrib/108223428216043753228/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKlkXaGgMz02tNQq24uSArs6cE1Ek_S9Hexwu_KkKBmGJ13Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-26T13:48:04.595310931Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NMVRuWnRRVEZrYldScGMwSlpkbE5zT0VvM1JuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NMVRuWnRRVEZrYldScGMwSlpkbE5zT0VvM1JuYxAB!2m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcHNpclp3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Los conozco desde tiempos de pandemia, sí necesitas medicina para tus hermanos menores, este es el lugar indicado para encontrar 😸",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los conozco desde tiempos de pandemia, sí necesitas medicina para tus hermanos menores, este es el lugar indicado para encontrar 😸",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rosa Lisette Minaya Isla",
+    "uri": "https://www.google.com/maps/contrib/109914466176027421925/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhiJtkMY7sF2Bw5-7hiLHFcqJIhlAFUP_Ljtd_av-knROId2sqag=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2024-11-29T19:19:20.845179Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCcHNpclp3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCcHNpclp3EAE!2m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/photos/Aa-ngMYaeGsWhg1UHBa-0mmreE7gyYOXMu9rwIITgo4-MXgytSmk5Tgqh_C0HeaqnFbjZaRo812Mfn6bA7q6QmvwrsT0ik2SHn3GTmGQYACvJqPA--EcSKHAMUfNIZWqru0DQDNfA0QpJXnJPZXG6vVOCWwV_z1k8Z-_X_SmrfcD0L33ARxVFPJMMr-CCvqu8kcmVuV1MP1BGLtb2ztKCgpnGwRQ9BKi4ubrBh5h9FAGc7ADBJFpkJzm7wnwv_g_3Iq_ZPzrbYo92j_i7IjmuF7Den516tqFqsemhFUftzKcd3gE-Nv1yC5Wl9VwhASA0LRzcNfYz5I-pFM2atGwK5ytgjEN8JwLlvhm1wpi3Dyywe6_XK3nVYP-1Xt8C4Fm8mEeU8HEust-sv49zrRGmRIxCcQnPeU",
+   "widthPx": 4000,
+   "heightPx": 2992,
+   "authorAttributions": [
+    {
+     "displayName": "Rosa Lisette Minaya Isla",
+     "uri": "https://maps.google.com/maps/contrib/109914466176027421925",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhiJtkMY7sF2Bw5-7hiLHFcqJIhlAFUP_Ljtd_av-knROId2sqag=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG2Y62cw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG2Y62cw!2e10!4m2!3m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/photos/Aa-ngMZEDRjo9PNJlzyLgVe5p_IygFbY-xBUwSrpEWricD-k7bShoe-kURsqSjVRqIzFukGJVfFNseHia0buAI5Ghm4MjlV5VKJmt4DzQsZW7N1Gs0_pYJP8aNcMh3hVc9tvrDrEBaEdId08rDE_EwWgJUPUDgHtdA2ivN4uzzbznTVSjhGem1tluaNBGb1cSmoEBajv258KasrcUIiyCqYiwNuZcJcmV-dvW0jxesF0bf_zlitFj4aj7KBnwNwJyfOlRpZwxKbNZ48shLyo24BAJKhTGKTewBd23ix7nnvvnUpYVf9oB3XWp83YGP8M5GQht3K_29G81Sn7kLwfcjDQj_U2xbQcyisBiDl4db6p1TunfE2wFSz55S2uwsMvpQdeH5XbdadiiyEijwPLUteUD06XFjjk9cE8lwpFoQ-PTTeH",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Sebastian Eduardo Rodríguez Mier",
+     "uri": "https://maps.google.com/maps/contrib/111376017405998007083",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKG2nmZ0PQAAlneGuF0uWpyvAr2X9N-Lq-1wFaShu72edGxfA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC-MMGsk_-hT1HGWPmnokAy&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC-MMGsk_-hT1HGWPmnokAy!2e10!4m2!3m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  },
+  {
+   "name": "places/ChIJVfpslmPJBZER0XULw6i4edE/photos/Aa-ngMZ-ukpxEb1PmeYMzXhdRYEvfdKTMYlb_tCWakorUfH1NUnQtkLpocI-qnMmI1qtPw6jRtFAv56gCYvyjQ2I_i9RARAY2PtxzRkkw5oCMNvVDg6c1wWv7NAGOdbe4zzlqr86bFt88d6qIzwlZW0rMDsHwG9Q7QvuB9Y5yaoj-PK8mWXZ_g4JfmiPCWTNiY0wIqO4iQW0Ac7TlJh_62wWoEMpkjlNvYx8egf8_Tz66f0pxmNN2q7aGir2_6o_-HhVVZMh-lYJ61q9_2M5IjprFYhZdHHUHXPK0iZLDSgrKe2F_IQ6ecdcJQQFfIMXm-P-MeYCkPtMhHhIg1YLaP_O7NjlL8TJtcqmNZR7oOeFNST2hfhhAoAxzKeClwXGXpqNosmhGbzEjVYQIAzKzKyeMJss6l4",
+   "widthPx": 1080,
+   "heightPx": 1350,
+   "authorAttributions": [
+    {
+     "displayName": "farmavet del perú sac",
+     "uri": "https://maps.google.com/maps/contrib/101362506619159802596",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJIUpPw2NHo8dBun_7xwtiSSGh9-PU7_EUefv4VlaQW1kGrw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOzLL4Ig&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOzLL4Ig!2e10!4m2!3m1!1s0x9105c963966cfa55:0xd179b8a8c30b75d1"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

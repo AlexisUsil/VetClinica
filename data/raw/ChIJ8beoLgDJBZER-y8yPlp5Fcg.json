@@ -1,0 +1,567 @@
+{
+ "id": "ChIJ8beoLgDJBZER-y8yPlp5Fcg",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "993 198 124",
+ "internationalPhoneNumber": "+51 993 198 124",
+ "formattedAddress": "Av. Gral. Eugenio Garzón 2218, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "2218",
+   "shortText": "2218",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida General Eugenio Garzón",
+   "shortText": "Av. Gral. Eugenio Garzón",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Patricios",
+   "shortText": "Urb los Patricios",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0816959,
+  "longitude": -77.0576679
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=14417563210594004987&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 17,
+ "displayName": {
+  "text": "Urgevet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 8:00–20:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Gral. Eugenio Garzón 2218, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNlVWY3RObVpWV21WZk5FWkxiR3RhT0MxNWNIYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Podría decir que la mejor vet. Me salvaron de la muerte a mi gatito Lucca. Gracias por siempre ser precisas en su diagnóstico y por tener corazón con los animales, no son como otras clínica que te sacan dinero para lucrar, te recetan lo necesario ❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Podría decir que la mejor vet. Me salvaron de la muerte a mi gatito Lucca. Gracias por siempre ser precisas en su diagnóstico y por tener corazón con los animales, no son como otras clínica que te sacan dinero para lucrar, te recetan lo necesario ❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ROMI Glam & Clic",
+    "uri": "https://www.google.com/maps/contrib/109023216937571494113/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuDtVYb9N17K8h_20nc-do2vQyOGMpT0obtQk5KMpvR8dzL1lV=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-28T13:01:06.126304946Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNlVWY3RObVpWV21WZk5FWkxiR3RhT0MxNWNIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNlVWY3RObVpWV21WZk5FWkxiR3RhT0MxNWNIYxAB!2m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tORFVqZ3hNamh4VWs5V0xYQm5lRFZhVmpNeVpWRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Recomiendo Urgevet, el diagnóstico fue preciso, la atención y dedicación de las Doctoras, asistentes y personal en general es excelente. El cuidado que dieron a mi gatito durante sus días de internamiento fue excepcional. Adicional a todo esto la instalación es espaciosa y siempre está limpia. Mil gracias 🌷",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Recomiendo Urgevet, el diagnóstico fue preciso, la atención y dedicación de las Doctoras, asistentes y personal en general es excelente. El cuidado que dieron a mi gatito durante sus días de internamiento fue excepcional. Adicional a todo esto la instalación es espaciosa y siempre está limpia. Mil gracias 🌷",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia Belen",
+    "uri": "https://www.google.com/maps/contrib/115376762005108253963/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVa2D_LfBKWSGYlLJNjYN_vPHWNb0ANgLm9B0ms3rb-edzri94jQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-08T13:20:56.198829131Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tORFVqZ3hNamh4VWs5V0xYQm5lRFZhVmpNeVpWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORFVqZ3hNamh4VWs5V0xYQm5lRFZhVmpNeVpWRRAB!2m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/reviews/ChZDSUhNMG9nS0VKM0dzTXVKbk03UERBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio!! Ya atendieron  a mis 2 perritos y loas ayudaron con sus malestares. Me gusta mucho la vibra de sus especialistas.. 1000% recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio!! Ya atendieron  a mis 2 perritos y loas ayudaron con sus malestares. Me gusta mucho la vibra de sus especialistas.. 1000% recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Octavio Lovera",
+    "uri": "https://www.google.com/maps/contrib/113749618608355511362/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULMH6lbDLYTdEQmF-Lm4eRihMc_yRyZa-lKEeRqxQ26trnYn4=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-28T10:42:17.003700Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKM0dzTXVKbk03UERBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKM0dzTXVKbk03UERBEAE!2m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0WGRXVlJZbU5OZUhsUU5uZGxXVVowYlZCcFVGRRAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "¡Excelente atención! Profesional,  especializada y muy dedicada. Mi gatito, que ha sido huraño en otro lugar a donde lo llevábamos, acá  ha sido dócil y cariñoso por el buen trato que le han dado. Tuvo una cirugía mayor pero gracias a la atención médica se está recuperando y ya empezó a jugar de nuevo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "¡Excelente atención! Profesional,  especializada y muy dedicada. Mi gatito, que ha sido huraño en otro lugar a donde lo llevábamos, acá  ha sido dócil y cariñoso por el buen trato que le han dado. Tuvo una cirugía mayor pero gracias a la atención médica se está recuperando y ya empezó a jugar de nuevo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ricardo Vargas",
+    "uri": "https://www.google.com/maps/contrib/107171233420809889872/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJfs9C4whPebIt1QMf5akQ07awjE7bgXytNCvtMYNlp-Maedo1=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-10-27T16:59:45.082379775Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0WGRXVlJZbU5OZUhsUU5uZGxXVVowYlZCcFVGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0WGRXVlJZbU5OZUhsUU5uZGxXVVowYlZCcFVGRRAB!2m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xd2J6WkxObXBHTFVKR1VrMXRObkJoUlZZeVIyYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Las doctoras fueron muy amables y pacientes con mi gatito, su atención fue muy profesional y tienen amplia experiencia. Me brindaron un servicio completo y a un buen precio. Las doctoras han atendido a mis gatitos desde hace años, solo que antes estaban en otro centro de Urgencias en San Luis",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Las doctoras fueron muy amables y pacientes con mi gatito, su atención fue muy profesional y tienen amplia experiencia. Me brindaron un servicio completo y a un buen precio. Las doctoras han atendido a mis gatitos desde hace años, solo que antes estaban en otro centro de Urgencias en San Luis",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alvaro Del Carpio Coya",
+    "uri": "https://www.google.com/maps/contrib/102651003136948980706/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVg8JFKWovBoEaCXtUIf8rdpw6gyngEGYjQmpLZFnljfin-sEU=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-07-30T01:13:17.502854606Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xd2J6WkxObXBHTFVKR1VrMXRObkJoUlZZeVIyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xd2J6WkxObXBHTFVKR1VrMXRObkJoUlZZeVIyYxAB!2m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMafRBQSx4uDL_8VAwrgUsHMQgzYhoGRSaQRr6QIxryN03bGNuqvGjaAvD46bZwNC06yUdOLv7x4hRSzyFFIqUlx5LDAzwoLtmx3Zmin20bH3zAxs5rbncepeOEM_7GrmBly-qLka-c36sO4SXZj2yhs6mf4BW_FoWbKkXHOjkyroiYxn0pl3_cw3g61ppW3kYlSc9IEiv9suHgLr9YLcVt90fXpT26Vmsjq68P9970_IbKHTwngN2ICOUuuxET-kn10rIoWkVR2JkXz8BWy4MU32VS-NyIxAnc0yDqQ3alVOhzLlz2dTIq3se7x8A76b-hA-i4VjV0zcoB8MdcOGd6mu3IFePsP7gIQbVUSO4TzQzw2vNrLg66jx-K0S8WoSMyIU2kCT9SyiIO4yUyFFMs1e9_BFcs",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Octavio Lovera",
+     "uri": "https://maps.google.com/maps/contrib/113749618608355511362",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULMH6lbDLYTdEQmF-Lm4eRihMc_yRyZa-lKEeRqxQ26trnYn4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEN6zxe2Y2ozd6QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEN6zxe2Y2ozd6QE!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMY1jR1CYI0U8S_AhNxV6wX4ke7JCHEjqI22l_8k2g1Dkqn_aSGRcX1DmKCIdmSypoOl2rfA1_yTv5cEduqeCN-Y7yKEnB-MJKRHgJRqmh4YQOqKJ3NrfikgjehouinXDB6Ry2bjyv3UfmLODmyiLC4TIlguKYiIfbGrtSj1opltrM1XloVuRaVB_dnnsNqUfb4uBIreFkR6eELsSjMnf0vvC_0x73VTcocxGZ92_uwbXeauHovM7MWptGO8vqdEoz1SfhsZvlnPW08OxzBTvjquFSGKzvV8rx91HpuEmBkA_xLLWivo1Hv_QAwwTy2X2PWD-oAW91Z7m057vVPxduIDWtBIBPHtYiso3SpnK6WaOWM_l9oajSyd1s4gffflAfjqJH7xIX3x8AjryrElSxjfyVAUEfJP0HAO2Dh7kWI8Ag",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Akemi urbina",
+     "uri": "https://maps.google.com/maps/contrib/116812306979331443245",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRByOdmZ_91l9Uutr-7Z4k6602-BG6xRKlkc_u7xCQvAWqoE4q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC4zas-GeTjb5gY_QTQaJ3v&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC4zas-GeTjb5gY_QTQaJ3v!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMbobzniv8CMgDUfK76Iw-dVD4n31R4qy0w3vRYv1qRvyPZbMF6C3Zcpv_TFl-1VeRgjizYg9h9FJacCZ8d8n7kNVAxWHkxWXpkov-p_K3n2sVzdCChzO_51MPNi4tUtPT3iAumiQOFCQYvusp2CYmcj18ZkGlx0MOGSTnYBPLfRBERJ9bNHDrdXPHVnpGvmSrpav8t34iVpY0M-a-Mm6MhfaVjmoo6hm2pojz0JgDvqMrvGk2K9F0My9zq4WMglAoRLlVZqKmGxmkaUEae-f0oz1WyDX60WGoQmHdw7MADhLY2pm97Fxlnr-1Dc3ZYUDMci3WgR9tdy7qJO416jbWtru_uPZ04fHIOZ0Pilb8-rkd7A97cE17DpgPNKhdkdWsq_XE1Ed-f4LKmIKA-9RDs728iWijW3FJTrbDukDD1Cgw",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "ROMI Glam & Clic",
+     "uri": "https://maps.google.com/maps/contrib/109023216937571494113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuDtVYb9N17K8h_20nc-do2vQyOGMpT0obtQk5KMpvR8dzL1lV=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBLNqgISKbpM0NAwd5fEBlh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBLNqgISKbpM0NAwd5fEBlh!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMa9ZCBKGnQ0Gq8XytrpAQYOakSSyEsvS6uycT-SkDflo-1FF_nzINPu1DrkN5tBezyVdWnjM9L1_ee_34HqHfbjGNNXrbHUYZ5Wu4K4kpkP42tW1Bp-Jn1JHqQJN6wD0FBfVlKSngoz5HdZErFJz7durBc2eUvAU_8FUfogmXt5OyeaiMiqvItOyk_4FHNrHv9VWjTzbOjvBd7oP9yzj53luJ4wCnw7W2vESNriasU6kThvq2PuEs_DwmQ_fE9yik3jFXIU596az13CI-CvOoaD7YGPIW6hAa2Vis-ra7B83mOgZKDZm2IhewcvHVZ0ndR1ftXGNrIgQF7b67JKKkRL6-KRcTQKC_7SowX6vCi2OpxFEAkkf4HizNjZFByIQ2RupxYf7XOTRgENOE2kE8vADO26sovTw_wUNtTrxWuH",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Jenny Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/112347130826732973337",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNd_Z90J7H2prdbUhYZIaKBAU0mvCv3tQdDny4sHjh_YKtaFedhg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKz4iNVhWgM_pIAAoF2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKz4iNVhWgM_pIAAoF2!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMZBhdc3oLHvB9zJvGwIvztNLP2ar7TAT2dp1g-mwtfULiBHgJNqA1z9Y4y9uivcVgfPay0DiIkIZjQMxxI63xX8n62dB867jz1YlzjHNvTFpNGoFtm3E85UGZUTGTa6m9EH4fBEz5abplHT2ZLS5cdSDTPo1ybg1cOVjzLcUxEfx5o2P1jolJ487LnO1vEXBZ9upK69g-1icFYHLMQdo0eHjnjBPUmeD9G7K_cCDVDvn6so5u3kmCd_zovgSNLaDkH6YFMffmfWf5oczINKXRvEIFzf-iTyKsWk_m3YMcDtJtfd1bixvxM7YvEDlR96Akk6HuJl_SnSBPlL6qQN3NSGff9bEKFzvutH86DWJvo9hq02LOZ7a-6AFhU2QwEo3DPGPnOUvwCIVhs6zCvEzGaiIVQlmskbCH3AWfdRtMnl2Q",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Infantes G",
+     "uri": "https://maps.google.com/maps/contrib/102756714278835828542",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIIlowDLBR10afzwXjWXfnI4YRR0Z41eiqsnELcNAdpZt70E60xw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCP629wMWt3svam4Suqgnj3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCP629wMWt3svam4Suqgnj3!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  },
+  {
+   "name": "places/ChIJ8beoLgDJBZER-y8yPlp5Fcg/photos/Aa-ngMYX4UaMQNL0BSFMmdg2BU_Iqx2hb-PYjHItDF_SnLPCP6_E8tQAGVZVSv_sIxZzbPLwX3LsWUjjnrkdxXelJtoBKysbffy_3DLEY_K9IOlOshiwCwlTLAJe0wGZqSydZl8UxKNCmf12t6nCLVFq3dB-8d0JOMoFMmAG4ROim0-Gidw9TqJz9RwwMzMVmajPknC7R9lLYD7_BmrtFYdDP5PR4gubck7l73gOFlDnlb0cp7E8KOsqfFDRUHW_MbJ079c1yLgtEThyR04XuHw3siG9tjRmpkuIvXUvSZoTxVSnixZHTWpco-2_YAcoPO_Es7zJadO2G9NuzlXGETGk2gfZp906oCiDed6ngOPBxQvXGN0BUdRg-BluWsmm0Ub3F5zLBVB-T8O6InJTJ4azAAFUDDFL6s1wIc7VLpdi8EUKFg",
+   "widthPx": 423,
+   "heightPx": 497,
+   "authorAttributions": [
+    {
+     "displayName": "Jenny Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/112347130826732973337",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNd_Z90J7H2prdbUhYZIaKBAU0mvCv3tQdDny4sHjh_YKtaFedhg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydVgTAiII2gFT6sAAmI4&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydVgTAiII2gFT6sAAmI4!2e10!4m2!3m1!1s0x9105c9002ea8b7f1:0xc815795a3e322ffb"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

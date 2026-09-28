@@ -1,0 +1,585 @@
+{
+ "id": "ChIJN6KezK3JBZER0iuVymt4MOM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2645784",
+ "internationalPhoneNumber": "+51 1 2645784",
+ "formattedAddress": "Jirón Félix Dibós 862, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "862",
+   "shortText": "862",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Félix Dibós",
+   "shortText": "Jirón Félix Dibós",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orrantia del Mar",
+   "shortText": "Urb Orrantia del Mar",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0955315,
+  "longitude": -77.061191
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=16370717049847360466&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 141,
+ "displayName": {
+  "text": "San Francisco",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Félix Dibós 862, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1NjVQVmVBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Fui con mi erizo un tiempo pues el doctor confirmo que sabía de estos animales. Un viernes le dio diarrea y lo vi débil así que lo llevé. El doctor dijo que estaba todo bien.\nEl domingo se puso muy mal y lo llevé de emergencia a un experto en animales exóticos que me dijo que estaba deshidratado y que en animales pequeños la diarrea es emergencia. Finalmente mi erizo murió.\n\nEn esta veterinaria, si no saben de algo, no lo van a aceptar y no te van a derivar con alguien que sí sepa.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui con mi erizo un tiempo pues el doctor confirmo que sabía de estos animales. Un viernes le dio diarrea y lo vi débil así que lo llevé. El doctor dijo que estaba todo bien.\nEl domingo se puso muy mal y lo llevé de emergencia a un experto en animales exóticos que me dijo que estaba deshidratado y que en animales pequeños la diarrea es emergencia. Finalmente mi erizo murió.\n\nEn esta veterinaria, si no saben de algo, no lo van a aceptar y no te van a derivar con alguien que sí sepa.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Guadalupe",
+    "uri": "https://www.google.com/maps/contrib/106612203342547680095/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4q-O4-zJGUqWYfUqRN7KEsfnSi3HkhAAH2E1cTpcE2oX0neqpgw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2022-08-06T19:43:06.233915Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1NjVQVmVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1NjVQVmVBEAE!2m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/reviews/ChZDSUhNMG9nS0VJQ0FnSURUXzVlR1VBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "La veterinaria Santa Domingo y su equipo son excepcionales. Su atención dedicada y profesionalismo aseguran el mejor cuidado para nuestras mascotas. El Doc es especialmente atento y experto, siempre brindando un trato cálido y soluciones efectivas. Lo recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La veterinaria Santa Domingo y su equipo son excepcionales. Su atención dedicada y profesionalismo aseguran el mejor cuidado para nuestras mascotas. El Doc es especialmente atento y experto, siempre brindando un trato cálido y soluciones efectivas. Lo recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Augusto Guerra Quiroga",
+    "uri": "https://www.google.com/maps/contrib/116404442465367739060/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWB5C_t8yaIr2caB6VyTYSeUrER6rLSo7e6xdEWdKROWfGJgXmqGA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-05-29T15:55:12.180057Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUXzVlR1VBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUXzVlR1VBEAE!2m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfckt1TW1RRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 2,
+   "text": {
+    "text": "Siempre traigo a mis perros a baño , los traje a las 9 am, Son casi la 1 pm y todavía no entran a baño eran los cuartos en lista , me dijeron que posiblemente iba a estar al medio día , siempre los traigo temprano y salen muy tarde ( aún la lista sea corta , da la impresión que ponen adelante a otros que llegam después)",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre traigo a mis perros a baño , los traje a las 9 am, Son casi la 1 pm y todavía no entran a baño eran los cuartos en lista , me dijeron que posiblemente iba a estar al medio día , siempre los traigo temprano y salen muy tarde ( aún la lista sea corta , da la impresión que ponen adelante a otros que llegam después)",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diana Sandoval",
+    "uri": "https://www.google.com/maps/contrib/100622681788180716889/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTFLFlo-J2qIXX_mwLvaYlAlhxgpC7JQRyAuX0MohCsRxGs2Sg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-13T17:56:09.502663Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfckt1TW1RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfckt1TW1RRRAB!2m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6X3QzMXpBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Hoy mi perro cumple 11 años, y recordé este lugar, recordé llevarlo con 5 meses y que me dijeran que era mejor dormirlo y conseguirme uno mejor, si conseguirme uno mejor esas fueron las palabras, este perro no va a vivir más de 1 año y acá está más feliz que nunca con 11 años, siempre lleven a segundas opiniones a sus mascotas y definitivamente está no tiene que ser la primera ni única.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy mi perro cumple 11 años, y recordé este lugar, recordé llevarlo con 5 meses y que me dijeran que era mejor dormirlo y conseguirme uno mejor, si conseguirme uno mejor esas fueron las palabras, este perro no va a vivir más de 1 año y acá está más feliz que nunca con 11 años, siempre lleven a segundas opiniones a sus mascotas y definitivamente está no tiene que ser la primera ni única.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "DS",
+    "uri": "https://www.google.com/maps/contrib/117109515927141968406/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAtLUwYkWTW6dalkrElEX9bh1klJ6GVfZQZjCxx6qgtg4KHIlG=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-06-10T13:17:38.930714Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6X3QzMXpBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6X3QzMXpBRRAB!2m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/reviews/ChdDSUhNMG9nS0VJQ0FnSURtM3EtZWlBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "El Dr. Tello es un profesional con un vasto conocimiento y experiencia. Es directo con sus diagnósticos muy acertados. El trató a mi gatito hasta el final cuando se le hizo dormir, y fue una muerte muy tranquila.\n\nLo único que seria mejor es que pudiese hacer visitas a domicilio ya que tengo otro gatito que no puede ir a los veterinarios sin entrar en crisis, pero entiendo que tiene un horario muy ocupado.\n\nRecomendado 100%.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr. Tello es un profesional con un vasto conocimiento y experiencia. Es directo con sus diagnósticos muy acertados. El trató a mi gatito hasta el final cuando se le hizo dormir, y fue una muerte muy tranquila.\n\nLo único que seria mejor es que pudiese hacer visitas a domicilio ya que tengo otro gatito que no puede ir a los veterinarios sin entrar en crisis, pero entiendo que tiene un horario muy ocupado.\n\nRecomendado 100%.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Inmobiliaria Cosmopolita",
+    "uri": "https://www.google.com/maps/contrib/100640236638184024716/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIXIIjCicv1ZibRMNaelVFX5ykTS0OE7--KVKb1MD7y6dyVFzm=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-01-29T18:29:15.238907Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURtM3EtZWlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtM3EtZWlBRRAB!2m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMbgWgdS5zFs0ytZAslzinZl4RiXvCnvZ87akdwl4z8UMWBejeN6CsnzuGU8xsPkmMM0xGMp2e5nDoLmdav43A5rSlhDv_q71GjhdjO0dOaQ56599S4oMGpGU4SLpeg65Kwz69whgPldhPXyHB8DuN6b9Jp2xuDqPgkgg-H3WBsfXbzXdorXvxsUbZy4ov8KYB8JY0Szlv-LcxQHhGZB-tAfe-vqT55dP1ymQirNmG7jvarqH-KZAThWIj9vb-vgdDEQtreS0NU_7Oynk0OU0prkrOlzNXYyuuQ7sn7NNuH3IemQsECq-kQ6f058aBfCJVxrjl2P0r41xkyJ3BOgF8T2g62DOm-RMR5rLYlOMm6iIWylRl_cdzbPuuWnXkeSgqjr8B5ItVJOtWxsFvY_zIqtpv0",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDsgdbVCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsgdbVCg!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMYng1o07Hry2uVR6eUUTUY5te3ZmNMI2v1puVrnXSMPeLVq6t-KaMMLyrEl9Z2gcvBQLGRWCXntcwPOZ3pYj5djAHnHi1caY971dwPIcGNlsM_c3m4hoDNNjCY-nsZAYhvyp9TJ4UnDClUVOn__-p27bMbvnODjzhFWL_8oYvrlEX_yK_3AK34VVVesVuQhO72FRp36wWQUrzV8WuTmZu7jSuqvibjxOAo1LkC87qsROHbgzuid_qblMuyFdQHLrWRjuJe4CbsTY3BPkR88Rjx3vFP1LZR80ZIQ3Zs-HGJa6oIWuzcrwsm7wYRJgSlBA4PAgtGyRDcrj_Zvytm1yn8vr9qCSHEb2WohrhUON2jpT-QHRfanqLpn68r4SfskKBkVwRACRhc80rQSKluUPiSxYT34OkA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDsgdbVygE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsgdbVygE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMYC_R4nXxcvTs_T2yvjS9FcsUvxeiCmzFLMr0KwOYk1DdovMCxgbBevTEInF2By0TJ-toZbL_C_UvT-fbYplJg0YejCm22jUnfeDkVgVwiw5XoBx9D4GUi-ArVwJ7iuuYHE2ApfKNgQ0IxMPiDtSKWJA9lyhvcWpdf9LFAXP6fJuuFfWfqyQgjUCJlF3MvzGxNrfH1K0IGw74TpyXdjKqGdCSphSVEOjb1nACuHfb94QsF8V-9KApZvGp50RNs1_Sjd27lQS8tDUdtcBPCScrK5mGY9eP9FeH52RyuW_23JGt9eFDLTeeMKmJMex_KYk2BxcDkN89EG6avQnh7MxcilCdVWixyHq0nqZlQbeh_2BAduI48_cYxF_txO1bXt7z_Dzq4VaqIyD9s4QHRVH7GSAYBU",
+   "widthPx": 2592,
+   "heightPx": 1936,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Guadalupe",
+     "uri": "https://maps.google.com/maps/contrib/106612203342547680095",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4q-O4-zJGUqWYfUqRN7KEsfnSi3HkhAAH2E1cTpcE2oX0neqpgw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu65PVhAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu65PVhAE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMYhlX1YivkHplYXXBGYap_N_oc6979e04sZFldkEvUmSN1Xy2OpyjpmGNod-j7ykVWmclWJVgEhbeVtGT17M0OLHDJ4yMKVw4QFcnkuyBCP8N2UiNmIrZjTR5Q8K2Xr0eE6eec3ijGsVdNLNEVc_snUFXDQ2tCPusMhFCBrlctUPBn6TsZcNSL1U7cfyCgKlNOuOMCDaEBP2P51yh9ykAzaVuGZHFBWFaK4h3wT9xl38DapI5QPGvVz3tR95EZq2kDL2bHpyUp3oXuR9Fqqz1XOWGdid_SPr9xxlkbRCjiTK-zpgRhgrJDj88gIpVNtknpWy8wVpL5o_A0PaDn2Gw-iTRwhGlXSFIsU9pe28aLyZ_fqZhlyHIeqN2xeiv_F6FhATaloAKs9R5d-7BWUNSmzITqU",
+   "widthPx": 2340,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Raúl Diaz Pacheco (Marqués de Villena)",
+     "uri": "https://maps.google.com/maps/contrib/100074069830829490299",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB6pC-125md91f4A4_NqP27dHYc8CDS501DruXpC9eBt1Udfil2A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID026CtjQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID026CtjQE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMbrXlw06V3Pn7NEzkvvrBsr0pkZaNFtpJoaoDza9Xy6XNcVWiOtT_ewbBzVWVXNFdC7fSslCXCsTeicR4y5BrZ1BzLdYuZcNo7JzlpcdC3Yf4GlGQwB9Hl9AesJu9-rDCRilQx1dRP-b9LwtTjGSZo4BzHOujIo5XNxWdv3UIhRThruEKCGUvUAmM8S6cnuBuc6aGW5_FxHcsRM8DDzCRseXr8LZndg8qNrMf1LabRuQRB8MzZAEH1sbHTi9QgCppLHguqqNpKzpabQ4i-sxUAkBq3g2U5oXUvr0dpVQiIyMJUNaaH3s-iheoouHoLjWhoD7myHrWCSt86LndR18LAEzJvpcuS-R8VBlXHZ_97RO0KcYiVByfqp-QowX29E_8kxitlmYWghlRbQbGNK2todTrs",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Mapi Cáceres La Madrid",
+     "uri": "https://maps.google.com/maps/contrib/112747041904941517854",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVEwp7E6Dy_9MJd21HY_S5pnOrjA5L9UMc5WPBCR_cH4yCDhy7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-q4uPJg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-q4uPJg!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMZHKx0IeY_JRJ8Yn8rr6CS_eoPPP6bmmvnonC5BWmrmqxzhR9XaPp5RTTVHezl-piCKRF2F22KRIZg05k4NiarMUIG2ZPqxHZQytvLG0E-3hm2ByUwzd2H1zprek-xyaUTIKUYSP2cQX0Wsc51e3z2tATtJa-a-QYPoEIBOJfFLYQ4WwRQGOHnIbAu6-ySi8t1PlhsS21PopnIXxsFFxn9QDyF-MzSJtdieMlWQKu8CZdI9xQF_Uc0evATogk__65tEghEjyQu4o984Znm3aiu-du8XLjcnZrHdBygAz-5oKGfHw2FqP0ss53F5Cmn7RfhUe2ZaE3EEPwC_tTxa6w1mNtuOITn-dFs0ehjeQIKOCUxIhc_COVOkis6mbgr4DSsekpluiOVGYS-2j0sne-S1aT52EXw",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "RICARDO REYES",
+     "uri": "https://maps.google.com/maps/contrib/117985042758176536803",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3xDNw2--YRJMk8w4XNuNDgjQcidN5IDNLJfIU5wJimyYX2nFv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqzK__5wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqzK__5wE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMbFp3RU43Peog4fvCzh-rtVaq0yvZNOP-PkomEXGntDDjqmYZDXVFt9YLtnBkN2blLKz-fvoAvLFEgJvVoMjsGaqqFLvkmkddPZZyJ7x-HX23Z4t6xLVO_l4fPbNoy71_iR7laz51XIpXAkn4R_IZq4jZw9Z-_UpO6lV60oI3uDfT1DADiU7Kw-NQK_lhG6SaqTruHsS_2CdDQi-JV1kpdpvTcO7XF8TgVXwFESNcBwMJFF-Eb9OPnk3X5l7tthLl17Btr0Ar6DbY2Al-4lIXsX6f8LCv3CnpD6-oKho-IW51eVZhI7W2rvIJttl94gruQgRAb2Pd4YuQswKAylznHOcv47gqlGETer4DCxYFpOqWrsRcp20rWcqjS8OuXBDLPNh-Q-jwd6axZYHqvKOXDAYJ3MMk4",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDsgdbVigE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsgdbVigE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMYFmsg2hfhTGgU0OqLSJ092wJPE1HttuqnWr9iMLC71YQV2TJ9fzodjwk9XM0vSFDWaGyNu9y2P-uf1vVw1bsCjVyWH2E9VY30P5GrT694BMphPSVjnW1381UYuSVsjmynh2ts4NKRIGm2765XyeC0azcvbwwh9TORR2TlXcTaQYOWFDRvY8C4RrKklSlFNY3O4WCQFEU2shQ9EDn7Vr-K4H4aFKgmAoVaQyp7bkh8WisKg35UQjoeFturMBhr_jRqkzIAxYCRizVP78bOrcaI5ktFbMsaMi_lVarx6Y5mYZ_1sG6zcoAyesJmfbSEwkVeAVU8OhX169RPyDQSu_DzqK2C72RqtGgS39ltPuzPOzIBi-sZnEGS5LyIsjJ29m_VZM2_rV8PSkm5eOn3gBe8WIg",
+   "widthPx": 1440,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Gioconda Araujo Solimano",
+     "uri": "https://maps.google.com/maps/contrib/118377478869855190776",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMnPTkYW1U-mGiRBI36ZIucTXxS0L-cOpKynGX52Pz6iTEqNQRcA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICc1Mf7LQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc1Mf7LQ!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMZqg8tn0aTbFjyoSPzJHchVT1unsaSLNQhj1sI9T8gbtxstUajqdjbbOBQ7yhzhKtJgJWpGRdYr8-RdwU-JRqSo6lptRAOP_DlW9AXcSpTBc9PiXVeMvlp9H7wxZqhnm9zZ2mMke3ZOG--LXlHBxJAZCQqhHgv-jM75sozz0XTT4q35zvuFcLNTxg_ZxeEDpgP7D_X6BFr4nPKgBm2jmHCXetI0LLlSgo5043_66QyvpJlOzgNWYOOXUbufG_U1bRmlMf2WO2_nLyZIwKt2ORS6Ie9_2tWToV0KIJMHFU9MEr4blSc4RmrXtwzzdTsUv63xGuUfESo5giXOrgg-N1zlNV3-5AwlKkAvZYSPAda1Tw75wWvuZbHLek1azpYeJa4Pyti_NHobZ79uue0qthkLyIC7",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Mapi Cáceres La Madrid",
+     "uri": "https://maps.google.com/maps/contrib/112747041904941517854",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVEwp7E6Dy_9MJd21HY_S5pnOrjA5L9UMc5WPBCR_cH4yCDhy7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID-q4uPxgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-q4uPxgE!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  },
+  {
+   "name": "places/ChIJN6KezK3JBZER0iuVymt4MOM/photos/Aa-ngMaQUppLfB2lQYU3cXbV8ZDan15xIUJLN4h0ZI29we10ww4lA15mBsZ8rbulcSe23aHZxMmn5GoTIiHZEzdFQQVpE6jr7Yar7VWoyMIBdM2sZcgKBm-1u-CHEBcD50MXsGRDuamlf6blz3xAQGvQk2oDIjbvsggMnPrHo9tZK_S81AY5qF4DUPkVS2zCKj2l0jINs5eeHuIq6e_0s-tL2iULUUesLMhdylg2bA0dNx6j4LXA-XUblkRIkMx5_k8l2dau2tjdmAUnjRZNipAelSXpChlr1WTz-uTLA0-OVRXZkMfPyT17CnMm-yINKuThdlY3mqgm8SwGeTFeE5uZyC1ujMkpEuA0wT3oo7xYuTJk6eIEs7y0ohpNfh3VcdclOWaa5CTpYaAH2E-CtcSqAUubAA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Fabrizio Alayo",
+     "uri": "https://maps.google.com/maps/contrib/116557259539648436141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVw7575fFs-2Y1Al3JulIFgXjall4WfNwTS0Of07yOCYzPxH5b_HA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDsgdbVSg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDsgdbVSg!2e10!4m2!3m1!1s0x9105c9adcc9ea237:0xe330786bca952bd2"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

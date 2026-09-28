@@ -1,0 +1,584 @@
+{
+ "id": "ChIJMfjNUwrHBZERxTlsis9Iz1E",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "932 443 935",
+ "internationalPhoneNumber": "+51 932 443 935",
+ "formattedAddress": "Av. Aviación 4736, Santiago de Surco 15038",
+ "addressComponents": [
+  {
+   "longText": "4736",
+   "shortText": "4736",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Aviación",
+   "shortText": "Av. Aviación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Higuereta Etapa 4",
+   "shortText": "Urb Higuereta Etapa 4",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1236228,
+  "longitude": -76.9992831
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=5895010493469047237&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 18,
+ "displayName": {
+  "text": "Veterinaria Collar Rojo",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Aviación 4736, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUGFGOHlhSEJyU1doUGIxSlZhQzFEUkZNd2JWRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, recomendados",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, recomendados",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eduardo",
+    "uri": "https://www.google.com/maps/contrib/111756467834768078190/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVICspdzgZi54Eu1pVgQKN3_5qt8t8fYiAy7Kpnv0MEWfplltU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-19T17:02:56.332715333Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kUGFGOHlhSEJyU1doUGIxSlZhQzFEUkZNd2JWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUGFGOHlhSEJyU1doUGIxSlZhQzFEUkZNd2JWRRAB!2m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT201MFJGRjJNMG8wVVV0TkxYVkNaV1JETmtaR1JFRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, muy humanos y amables con los animalitos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, muy humanos y amables con los animalitos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Choco Valdivia",
+    "uri": "https://www.google.com/maps/contrib/103639399530329675901/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIZZjkz23V037HI5ldPmOf4yf1GZW9DTxXUbe7SgCHSP7aMGBbTQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-06-22T17:17:57.197713029Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201MFJGRjJNMG8wVVV0TkxYVkNaV1JETmtaR1JFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201MFJGRjJNMG8wVVV0TkxYVkNaV1JETmtaR1JFRRAB!2m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPLTltaDlBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 2,
+   "text": {
+    "text": "Mi primera atención fue bastante buena la segunda me decepcionaron, Un día antes coordino una cita a las 9 a.m, y al llegar con mi perrita no había nadie, luego de un tiempo de esperarlos una vecina sale a recibir unos materiales me dice que no están atendiendo desde hace dias, me comunica con una persona de la veterinaria ya que le comenté que yo había quedado con ellos  y por el teléfono me dicen que no atenderán, a pesar que el día anterior me confirman la cita, me pareció una falta total de respeto y empatía, Si hubo un error tenían forma de comunicarlo toda la tarde o antes de la cita, me hicieron perder el tiempo, trasladar a mi mascota para nada y bueno gastar en ello también.  Lamentablemente una  mala experiencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi primera atención fue bastante buena la segunda me decepcionaron, Un día antes coordino una cita a las 9 a.m, y al llegar con mi perrita no había nadie, luego de un tiempo de esperarlos una vecina sale a recibir unos materiales me dice que no están atendiendo desde hace dias, me comunica con una persona de la veterinaria ya que le comenté que yo había quedado con ellos  y por el teléfono me dicen que no atenderán, a pesar que el día anterior me confirman la cita, me pareció una falta total de respeto y empatía, Si hubo un error tenían forma de comunicarlo toda la tarde o antes de la cita, me hicieron perder el tiempo, trasladar a mi mascota para nada y bueno gastar en ello también.  Lamentablemente una  mala experiencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lili A.Q",
+    "uri": "https://www.google.com/maps/contrib/113463867775716932010/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcJ8dQ_5zNo_X5NkF1NKs6ZMrAxbwZiy00UUlE8-nbGrZ9Tw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-08-19T17:46:32.742309Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPLTltaDlBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPLTltaDlBRRAB!2m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoOTctOWt3RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención. Precios al alcanze. Lo recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención. Precios al alcanze. Lo recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "liliana retamozo",
+    "uri": "https://www.google.com/maps/contrib/115838451211309816108/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIclbkKP9NmEzw9yXiyVpzIGPYKCQrEtzOQdaeVxDqdm6XnAA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-02-24T23:40:36.643934Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoOTctOWt3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoOTctOWt3RRAB!2m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/reviews/ChdDSUhNMG9nS0VJQ0FnSURUM3RpUHBBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Dan una excelente atención.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Dan una excelente atención.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "martin fuentes",
+    "uri": "https://www.google.com/maps/contrib/103218307813802731134/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSvRgb0DmxWub-1uULJO43gTS9S9QgTH-s6fd7kH9IJxqD76YLKQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2024-05-25T00:20:51.511433Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUM3RpUHBBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUM3RpUHBBRRAB!2m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMY-YXxUra-CMTgEVh5W9nAEQ00abS4bkxC0KXohRF40kYaiTPHx5kQqQFwnU0ZfpuH5n7JQ4AxOB_ZB37qyzoyq3IKXnnjQhCYoaDZk_j69CjeLyl6CwYhWylIfus58eLn0D-UpSEv6J4p3Vr8oQHSNe-rzkpxdimiueFjHjYdHi0XSzFtDkiIYuLEWskJzGEIPjZcHmg07jrazLcBstvVMOok3nL-lEMJdXcoFW1-JoTEH_j4nkwIReAmCIP2cK6M34Idru6PlfidhXOpNHB5FrxA9a13Pi-vV-qUrqL5WQavozI4SrA-0wVQQoq5JNhEC7py0LENKj5p7v4VzKIInggAk2VHDjPUhBIWCeAsDs-Z0b7tOCZ9T_sEHg14k0UH6I30qBMAauvUk_tK0YZaGIsM",
+   "widthPx": 828,
+   "heightPx": 544,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICO9ujFew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICO9ujFew!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMYg1GRxi0ATn4DEPiDhE9RGh0jgNz3PXRtBMQelaEn-9E7V8FKTAYzmp86Em6EEIlb7i-J8c1pPsg4f9bBBk5zjqv7eX_k7Vp33wquCfoo8pZUryvvBCDj6O2ERtzrKzL39XLoA3b8N-4upF4gHbwwOVrGASCuC3ygJyhYgonGnC9bcgFO_EBLFteqvTX4rXF0FabYE9EolGFLr7urkgjdrgeKoRvh2uymURKFeNdpqOoU4Ur4pKKP0gsyOewdFlmG_naLy82UvCJuHT-EUidbBFUcQanlmzjVBuTBTXR1Hig-kq7S_MGDdAgB7N8_Ld26Vq1g2NRCUykam1OlIBqM3MrLmyv0jcrsQv58Uo2XuW6ojGS-ev1kluQgA8Fbi-WjDMX3XceYwkdYDEU2ME0oVkg",
+   "widthPx": 4501,
+   "heightPx": 4501,
+   "authorAttributions": [
+    {
+     "displayName": "Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/106301684314909019048",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXC3vrr7EdHbaMqcOCMEf_8rs1Sjp_ahEe58BDtzutS2g7F2bA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq0rijGg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq0rijGg!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMYGJaFHZyG3STkL8pNTruQNMiJohi2LSSQkWwiF3KbPTji9G_GSPScoQnd5KpGldXATxYdBnGEX5tlJlFCS1WAWlNwWOBhqv55Stp3UgD2BDHljKb99ZhogIuAtNe5y9T5r4n-3qAYOPIQE6sqjEiiYNcG5WhDZ3vH_N5DFoDvRU1fijDjr1ABv4f4w9HNiMUwZfJlYUUweUzkXDemTrEULXl1-4uJYfrfIAhPfyZNg73n0B6_aWjLR2tW3eYI-30f-rLMOGP6ys0iqG25-N2sNKxjNfrJJsG_L6wXaOTUq4oWRsckN7aydFKhKwVqhUILbGYjfWlHgHA-JKLj0q9VxK-HADCYCm5uqoa4vU89sMVskY1dvkA4Nt81LiFvf5X6rkbc9_alXJhpoLQ2_i0XyZ4UQBPE",
+   "widthPx": 3468,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Mabel Concha",
+     "uri": "https://maps.google.com/maps/contrib/105841004782069408194",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTUMhknuqJOXVoTU4NiSCJeXaHzK53avHW8fVIQ7WuqqeSPw8N=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDOttG-zgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOttG-zgE!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMaAip_0-qT8H26X2EYL1DYGhMhVVJnMWhQJoxDdHOFaxZIrtHgtVuxjIWlzqbnkbb3OrRBdOd4_QcPniUU7g8W7WGbwrZccfmJlXSz9yOcQ95oid_Bc9am9wEs092lcv8nUl1XHkmzWhWtYuXNt18h8Rr7m4av7Nr3UuZuCFN7L5qSlfSiJfzoPEqVyQ4hYivbgBdwaC38tZOciYTp6QxBD_YBbK4slnzP5gBg_Syp3O7ivjzvhvLUzDQ7aLzCOduppgnOWxJ0MK7RZJDo9DrIkTQOt1G_DK8aSJtHV-oP-4cSEnaEuvaWFAEXtqRhKNRjbVVZ0hlgAWQFDP-ocgAK8Kdgy0eKXCLeulN7SwQtQyyYGjf5ZYfSqxJ-xw9H17vzZcrg92l1pfthUO8ZewFEJ3uBjP2I",
+   "widthPx": 1200,
+   "heightPx": 1281,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmpfy14QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmpfy14QE!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMYzL-HRqea0WPo3vuItvGi6SnwYZqM5VDnLSjplA8qMZlSlWTLO1qMNyfN4C5mczRCYx2V0Dp60ItmkzIm4OhDtXxVbO2c3xGFIrwZoz_alNZVhHSGQ-ERnjyd5TBhjFHSpZcVyBtRQYnJBtn1h5RB4RPqPNg_sCZ7smRQBebEDqA2tLoJ6PSuOA1TBUXhiVtROPyWqqCUI0zHnyVb8vco6ECDUuFnUNYNB5jPNuTvJ4GegT2Fg98nhFYLbN7SSX5TfDQ9jRp3ItOsC-9yPP_ytkKsf3NHz-3gSGsr9GByrkC2grDOZizbetX8LRMS9VHIi5rBHDEuQj8SXKagc1oZggtrHpzPEvnSf6BF2lnfPknpZT46VpxYc5MusEZ5INzSRSdHmZb8LJKo12OyReZ1kCH0vJ30",
+   "widthPx": 1105,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOtvvOuwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOtvvOuwE!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMZ8op-ib4m09HQHKLRMDdcUPGkalJuXNVuE6yS0yrx55IuzJ6Om6QWYZZ5AaLngRcIgKdUOt9PsFomaXXrlJVLmVkr7Ynaex_Rflt_88LE6svvjq1ClMMv_0TFnwv0eA3Vjy59CXxDihjULagLiRgdCk8hOQYD3Fqg_0xk_iAgKoNEY0gspZ3tcAkhaLsUhOjKqtbeT6SU5d7H6LPeBS2GPlx1UdWlPcxaK-mAWLG16Jakog1KiiXnaobWhzj8piPcAqz8TZ-iVt2NQYrsRO9Ugoe1eTu3ndqNXKG6iXVt2CWcMDY34MiY-PzevIfqkHT7ygqnVHdZRoaJr_ZUWG3YNh3X-ccREGQBFAC0jr4RD_jnItYp-UBordgb5Kw84r4dtzK9cXfGZ34ThaInynFJL0g",
+   "widthPx": 1280,
+   "heightPx": 1279,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqkr6tCA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqkr6tCA!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMaRFAnafe-zVhI2rKo-TQTsCRYAiloY5RF3-hTVsy3X8CPJUb9l77kuxVAr_pVt6pHiOsFQxAK_VK8JZzZ4AzkFX-IBaHlGy5BU9hPEGErOg2fWMBzYvh5UpFSr6QWyy3pxR2TqfYU_bvFmC89ce8eHwbeQnfRaGnwPykGPt1itYgdfxLZJnRAiY5g4yVBGqA7XkilZNG0oihMmGsAiMczqgJBkfQUb_SARH92AxksAl26Bo2CzYv7Axv893FQVkQzKyywdnxTC8MSJqrU2Sqd1IQFpeq_uV4_tAU8gyGUT13vxQ4AcNisAbiwVIov83v1T4B1pWJxlnfVV8XVLyVEH95vNpIO0UHRPP6U5cJFFUwioKgjyYDxta6TYHh92jM0iOjc74VYRMbT2ZmMP8c_W39Y",
+   "widthPx": 1201,
+   "heightPx": 1281,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmpfyVdg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmpfyVdg!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMb0DvfiQDm6IKqOnLsMXrf6vaNQLna4fNPi_ylTRFgIa4eOdU5vNtIPqXVdjtmKRLnWDceL6ikq2ktrOrSSkgUnkp_3qfIgPrQgecvGjYnFuWkeCsiDuorOnU9qzfllnYuqwEgRJV5_bipA3mjfOHvIVZvDejcsB87Of03nMUbtYZWPgcwBKgjwy8aV-mmrgEuG1SXmTsf5fZE2aJhDW8rMcs-WBiE0wM1gV2FymUR6_DLW241SfhxeXWsR_CrWuPMVeU8TqqLZcIHw6TrOVsLUB5AjWJrS_cFwGuN1nxKXN6eorWPoIXUzdpWmj05dz_7MWN_WnCNd-y3eGB2oAFFbHhy3pS_vMvl3V22mS6MRUbdcSAx70RCfWuyZdjdWJVFiURAK3H32aqtVdeTHx70AHIDhiHE",
+   "widthPx": 1283,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmpfzt9gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmpfzt9gE!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMa4EEYYG5hiqXzGaVLjUH4yb8ldGCVqXT6fo42bJ4pEeeP80kLxUjO8sWT9DbkC_y2jRStQ1Bs31q6tPrH8sVu1axfofbz-LX7I8U2IqlRst2TTvI9oTZ12_MfkGt2Q1hdkj7UqsWDsHcu3sAnhF4z5YPJF6moJlNKJ8LvTmtlXt8MmEb4LmAZOM3sclfgGdDQINyPb4ZsliBgTKL60kn6nXICzwGcJEoiW1Hf_kW11vqQas_oAA4j1qXSAgcjK4cvDUXPNAyUXNyxSGnwp4GGpSyQf4sAarDPVhawHeUX-buviTlzF6Ymap2G1wyOpWm-M3RNACxv_rONSiYpXglIx0Ie1TZT_2i5_7YNT1GY1LvEztj3IUHl0jta80CdqfzWsj7iBWpqNKjb0ASvz823ubg",
+   "widthPx": 3226,
+   "heightPx": 3452,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmpfy1aw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmpfy1aw!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  },
+  {
+   "name": "places/ChIJMfjNUwrHBZERxTlsis9Iz1E/photos/Aa-ngMYSY9eEagjxo1Bb55vAHX0qraFSFFEtyudvgNhpuDmGVjoI6Hijn-66Bmos3FIND7Xdd0s7U_XFpjRjbx4Jyva2rT39MiwrXgyywiUDtea4qeehl1QRWpupGIwQ-ApuwfxrVEAm_j9SgWFEFP9Lgpob-DqM0h5jJ_5VB2mkGHFZIjSQXgz3uWwMupeqcpQZV1IF51tAJDcYJqXuO0Yhdyrgc2TXynYiWZiyMcMgXL8CxNtvcyflZ2O6DWV-aDjyTSnsjWxfrROKf-2C_2w7fCKQHhUc11vzMYjiHJfthWCf6Kg5DaIlSrooEBLkf1Ro2Wsmz7TcPANFRlqqnn_ti3133-tBLMuD3RO-OR1GN0bx95owbNVftPnwC5rpF_kwSbsM4g4jzqNLX9V6EffAw632NA",
+   "widthPx": 1280,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Collar Rojo",
+     "uri": "https://maps.google.com/maps/contrib/109795964232058232830",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGRBr6Y-8MuVwjE-9hr3uGEA9SBLosyx8Vmhyv5SjakEndn88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOtvveOw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOtvveOw!2e10!4m2!3m1!1s0x9105c70a53cdf831:0x51cf48cf8a6c39c5"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

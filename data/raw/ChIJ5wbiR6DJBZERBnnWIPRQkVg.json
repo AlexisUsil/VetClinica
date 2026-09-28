@@ -1,0 +1,581 @@
+{
+ "id": "ChIJ5wbiR6DJBZERBnnWIPRQkVg",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2637208",
+ "internationalPhoneNumber": "+51 1 2637208",
+ "formattedAddress": "Av. Lima 376, San Miguel 15086",
+ "addressComponents": [
+  {
+   "longText": "376",
+   "shortText": "376",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Lima",
+   "shortText": "Av. Lima",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res Lima",
+   "shortText": "Res Lima",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Miguel",
+   "shortText": "San Miguel",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.089755199999999,
+  "longitude": -77.0779675
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=6381971156413872390&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 158,
+ "displayName": {
+  "text": "Consultorio Veterinario LimaVet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–15:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Lima 376, San Miguel",
+ "reviews": [
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNhdll5YUJREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "El servicio es el mejor. La atención a nuestros engreídos es muy recomendable.  Los precios son accesibles y el cuidado por el seguimiento es serio.🐶💖🖒",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El servicio es el mejor. La atención a nuestros engreídos es muy recomendable.  Los precios son accesibles y el cuidado por el seguimiento es serio.🐶💖🖒",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "José Miguel",
+    "uri": "https://www.google.com/maps/contrib/104157326091650279234/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWizDrJ-O0doG2JPA4sU0hC5VDwSH-cuRU0Ds8CHpzLymToVLu-hw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-08-07T15:50:07.536392Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNhdll5YUJREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhdll5YUJREAE!2m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cE12MFdBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 4,
+   "text": {
+    "text": "Super bien atendidos mis peques",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Super bien atendidos mis peques",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Orfelina Martinez",
+    "uri": "https://www.google.com/maps/contrib/114681702436096748422/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZtRv8IH0q7mUD2weJfhesevg2aJQ93LuFs2Ngwzzop769q6gbtQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-10-20T04:25:15.666993Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ1cE12MFdBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1cE12MFdBEAE!2m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5LUs3Si1RRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi cachorrita y me han asesorado muy bien con las vacunas y cuidados respectivos. Precios adecuados y buena empatía a todo nivel. No he probado el servicio de baño y corte pero los fines de semana note que tiene buena afluencia, sugiero llevar a tu engreído(a) de lunes a viernes.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi cachorrita y me han asesorado muy bien con las vacunas y cuidados respectivos. Precios adecuados y buena empatía a todo nivel. No he probado el servicio de baño y corte pero los fines de semana note que tiene buena afluencia, sugiero llevar a tu engreído(a) de lunes a viernes.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adolfo Cabrera",
+    "uri": "https://www.google.com/maps/contrib/109659747950372638919/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEGNNPoSfTv9wGFP6Pn8a3uPKuFvunGZjaLponIwxMDSp-0mJOkQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-01-19T11:46:07.242309Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5LUs3Si1RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5LUs3Si1RRRAB!2m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/reviews/ChZDSUhNMG9nS0VJQ0FnSURvdjd2UENnEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 2,
+   "text": {
+    "text": "Llevaba a mis perros ahí, la atención no es mala pero hasta cuándo no tenían competencia era muy caro, la primera vacuna de mi perro querían cobrarme 120 soles, tuve que ir hasta magdalena que me cobraron 70, ahora prefiero una que está a media cuadra de ahí que se llama SOS PETS la atención me parece mejor y los precios tambien .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevaba a mis perros ahí, la atención no es mala pero hasta cuándo no tenían competencia era muy caro, la primera vacuna de mi perro querían cobrarme 120 soles, tuve que ir hasta magdalena que me cobraron 70, ahora prefiero una que está a media cuadra de ahí que se llama SOS PETS la atención me parece mejor y los precios tambien .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cesar Q .T",
+    "uri": "https://www.google.com/maps/contrib/100885975452350342754/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWldT_hqxdA5Ac5KpJTB_Odo3fD1uAdS-qqpqGXovur0SpuLHpIEw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-03-27T22:50:06.484573Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURvdjd2UENnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURvdjd2UENnEAE!2m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwcV92NGNBEAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Siempre me han atendido excelente 17 años con esta veterinaria. A mi hijo perruno ROLY le dieron todo su conocimiento cariño y hasta el momento final. Me acompañaron. Felicitaciones a la dra. Marigu Nieto y a todo su personal. Que es el más calificado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre me han atendido excelente 17 años con esta veterinaria. A mi hijo perruno ROLY le dieron todo su conocimiento cariño y hasta el momento final. Me acompañaron. Felicitaciones a la dra. Marigu Nieto y a todo su personal. Que es el más calificado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Felix Delgado Cobian",
+    "uri": "https://www.google.com/maps/contrib/105787408284750755939/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAhwRcxRIyVed2hfNshwsuqqOMT6KELnzZfeu8GXjPvWHbaJQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-10-10T21:24:40.516349Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMwcV92NGNBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwcV92NGNBEAE!2m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYVfjevghqKSZxBsAsLvcQ-Nz3-N_pIjGGdyABJZ6o9L3k0QtyazktaD0oQA9pXW9oMMqWsF-A2FweVczwDVkKmCbeFvJy_xkGRwiZjWqwTgxVhNBMDluBmoP5Zx1h1C3LSTVEAQKwohoPcEKrQSrCoSrqj-zMsd72Gw0B9J1gaTClRX6DoPJtB4-Fkh3ShzgVM6wm27AWORTlVTy4-r00TCtq2W8A_9vTCREdcya7dyaegURZgCliTE1oU5WcxiXA6JFjtIWvHbJTgOfKK5s7GavgiLx-_dUXl7V4JHO5-kM57Bp81bGAbMnvq3MDS_6FXTsQSPXFgG2wXIquxmNXRh3JA_NEB9PNPqhBy_kOc1c3V9AETnvgNFaMzutVXZBFHM_YAuVbWypB12Jof7ikq7QmoKm6Ig2xAcKxDsa_OluC5NCjK9yUdgNXxO2WI",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinary clinic LimaVet",
+     "uri": "https://maps.google.com/maps/contrib/107560711780783608664",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuei38iZ8iW46Jhyqdm5vGdZh1Tn9S2JieFAGs4dUSqBEomA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDSeMrLAMsZde2atTZ5tO6L&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDSeMrLAMsZde2atTZ5tO6L!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMZpXu-BD1IXLu5b0S-46Gueh_osIhstLgNCsCmX7YTA6PBZ_NmFpEV7XrMiOeMPj_zBAdTiQXmU8GX5QnhnqbbyK6VDVodYMWLstmYMj98_TFJNi60HqXiD_bR3VNa-fgZYItQdTnMWg9HVhdZ6jSV9dKRu5SmgISiMtxSk8KHB2OOrLDD_rSs1-CWvU2QkO9dc1dcX227J-2RjX4CXiLPeOathuzhqFk4MmICdkbK1Ghd8bxhlkhT4dMirn7ek_9on6s6JVQsw9I92vwyyncIyMfecxivcL_SRt_-5nWzonWNvnyDeqRZrH4q8rFufJjH5yWqeGBfjkcvEBmZ4junIJK2_r-wcJbUw4gjldZ6IrnfKZvMKXmW_qytXzEFP8cxqqW4knNH56or8D6R79WaEyT1kv9ETnAVNJlprAsgzPlTy",
+   "widthPx": 2208,
+   "heightPx": 3920,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz4owE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz4owE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYt1SUIT3cM6w5usXCJynqVBtTs2jPtyWXd7WQ7a1yK3YSSDeFF81gIDQBk_hxnnGOLDKmahscg4rZkCI2dzMMyNEOramkzFRgKGOB27kjXc6ARF0nQjCDcYR5-13XXkDPDmMTNHXHHaOOZjYJBtv1GAvuBEsmRQaH3Uz6R0D_vwkG2ryiz9Fw8amHyDSoeLW9-KMq8Q1_FM7qlxKAznUwmSGk3pnhAwigeOt0VSO4RBdsRrZVFaMyinE1iNlZfoPOMyUUUjnERnQVNvTTJ9nBMnvYn6OEH7kEJ2F1LjmrhrGR33rLyG-0HtjIk3fv3JZyhPcd6adj2M6EJzdlT2a3GvqOqhV5_fEFcBde5evSjdEUgNO54fTLvQZV_dnsvD9FA1koGd1Wn8y40_YTYD0Lq3QE68VZiNMp2JJNytGY",
+   "widthPx": 3920,
+   "heightPx": 2208,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz4Ew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz4Ew!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYmMmJ5OsnvgHRwv2R1sp0dozsrnBDzuvnB1freU_FLW5TiCbUq8emeUkNqLEyBuFzIvaxTPANMxvROWDJdpgc_Y37V1LBe9N8AKLXE_Y0e36ycfAkLJq4Jj3KmAJkdAdMJT_9Ojiw6gY5xCuU4_NaNeVQ72bew8gSPHTPnoRPbeecANN2g3ZY4IpsuRcL5oDHQOCO628DasACkZwNfd5NM6D60KJVeup6j0w01ha0ILJnuSBkXY8AG6wFAo2qmsivMkWPEO8wGErV5SF6Aq2Oxhf6wx1VhfIMiunbmBuJuZ95T4uDmIbqAgemCQMQX61hw5wJWqN5WfjqDXu-Ig6e1OAzF3GuNp7cnHqRqeGgD24q-7pqoKVZZnIC5ry1WsJ1_x0x84ql2NnPPTjq1rmsM2Ro-l7sMuZkO5YSHF-5ppw",
+   "widthPx": 4128,
+   "heightPx": 3096,
+   "authorAttributions": [
+    {
+     "displayName": "Dante Vásquez García",
+     "uri": "https://maps.google.com/maps/contrib/112537784917411697723",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMKJl_bnieRDNSr-NCebrAQw985-8h3P3KgZ4CuXeW2llBp3tz4w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEwu26KQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEwu26KQ!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMbyE8Q5kR10CyhhKDvcS2PkJ-oQOJao-TYhCsuDZE-5T7A28X5dzuhLhaVKVhgFH8ipyjHQ9AIGgTVvc_zeQckrwcqMDPFt5ytRpcPesIsVb1vTn2Ff-q4ejAobA62PhFxSwwK8henAAmglzC0OSrXgANDd14Kh7NhLUkmE2a0Uh-8jsMhZhLei_QRue4od1KBthbCQ9T5HmHwU8ej2m4CqdvUGT9GRhQWuHHybhL7DyptwYwLqnBNMPnR3YAQcyzZa1k3-naKSSTIp3Yv81cHRN5kLi7KmI0hbtu4oCpelsOhsHf5Al9yAyj-S-fim7qPgfrRpLAzZV_9z1GnjsJUI-284uVTBK0T59fhZOdaGMibVC1Tp1ZrR1GyTnigoG2kSzbajFi6pam9MbP7geFi1TR6kg-rkVe-CGxB4FClwVg",
+   "widthPx": 3920,
+   "heightPx": 2208,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz4Aw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz4Aw!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYm6kwmM8JRZIqluIv-GzwiNdW2JkcAt6ch8-iS2SR7TPbCaLvRJqyipaxxNUOJ1IPJKkdL2y0QLQXKtsIJV8O9p1KzX10xpU47BUXKEiRTmx5_RLJKToicWU7x3T6haIOiIrwkQXyXaLImzF2fUrEAQ4PQfWzdUlxPAYZDFA9jD15kVPiYuAlFbEAgYooP3wPWW_SmMro0i7nmYZy2AWT-1c8glixJXttLmq0VnfM7rCDuEmQjE1hfmCJ5HhhIkLpkV4JN2ibphzhySze-Z6JZrq2HlZZrUCfNUi-sDGI_4mHdfwvoLFrAVczyCQgemuVBZ35cdpV-oEHqmxXWVlGatbBeryleOUkttApHIA0TDo4emQI7-1Fwl2Zq-OpXN-TQGu7vxUArw3q37yfiTcglLD4xZInfl7uGmK3yrPCCqY_W",
+   "widthPx": 3920,
+   "heightPx": 2208,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz4zQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz4zQE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYJ_XG_eZpDll7ooG7EHqSz790yJrPRU6aCobJg9tghx2VoqNbmWSIs9L33QJ3hjdoevPC6Sq_m6qIIWRLNvySOf4Ngpq-UP2-LXhDp0gaXryNRyB1Vyu21G32ukUYLNpj10roo0jrz7atrhpZGz0j11mB30v4oWAreFW3GMOwmsc2fqmDzdBU5htxwemEiaJdVK5Nmna-s1bI9_4kycsdyYKoJvgl3gkDst6LfyYAcEAGW51xXGIUSoG4msFQ0an_pMNqwfPfHgUsAEcOKdmWtxGS1P9ArKfwgQSFmR5OBeQ3l-P3fdI6yFSMdn-mCwzxQF_Y2qGt2QGGKwm-Xu7p1Ft5KFdFFTp71oCDk__a-yk1Dfi9qPszuGBsESSu_V6_CY7BUTaEsfj_MgX26Il5kZ0xaQLNCsHjap2G0KZIItk4",
+   "widthPx": 3920,
+   "heightPx": 2208,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz4nQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz4nQE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMavJpt5n1JZnvYUo6SR_CRfi4QTBn7McCRdS164owaT_BkPD1fR_GEojXxG3lVIzpaYmEizsb8HVbGbN80NLlwwD1Lw4Hq9CIR9gmo_7SkRE0VkPtWvE7NCtT3g4TxmNI6sTzaQJjxNj5O1BlDp2xBmkeFOU92geyPdSShs5HzqBG45JYEKIDazd5gvw4C2SvN0B2G38oA_I-ok8m3Hrm9avhsvptZrzGgS2cmSL8lrM8kqMOP5O5VyczNRRGZu-LW31yyOay79CH6Lwke7g02qUOrsc-K0BqbzgFbA-flBJDj_dhTv73LT2nXS1i6gxsRa3HgNpvQyUAbAm3B97bnHSt4R5ZHdM2_bG_x6hJEpODFWJramuXTxPhIbYuIImQiDzR-LiksW0KjO6Hm_t-2oXhZcI7qePRcK82UD4CYfIY74",
+   "widthPx": 2208,
+   "heightPx": 3920,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Fernando Ruiz Laos (Dental Machine)",
+     "uri": "https://maps.google.com/maps/contrib/108221755773069135201",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMoM6sqBXjn-8SNKpItmrm5v1nQKRhHzeUxj7uA2wtlghl0ro_LA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU6uz44wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU6uz44wE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMappQZK0RrK8UeAnxxun804h-1EF_QmR4JbtoTjqAsQqhGF4EA5UkmPb70aGqlkq4JTZNamf997kdoqp_q1VoMp6sECBtGeteL97kuAlNpgfZizxSDU6wfLk01P-yc22C4nJe1zwAypXE6sQYmhp1EOYc1Z-AlqlPBuTU-uoUw7FfZw5izsn86YzZfAdWdM3WK9j4T7Z5inDxm3i_MnaRDOYp8mGgs41R05VeoWm7iOFPUxW-gQ8iA_yqSi6zTUfp4BxexXbfBAsAR4Lm2lSRwOllIvmLRyOz1rV2OYAHz7MEd_oZromSgNgHUoEddEOqPZ3LjAN__YpdmilcZTnEvQiIfWogNH5k9mDGJQ63tvfeZxuB66Xp5T2bMsG2qxlDCrKY6RRH0u0JTFsAXWC-ZIPgiWqletzxpU3Re31NGOw7c",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Martha Bazán",
+     "uri": "https://maps.google.com/maps/contrib/117757571535661261502",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv2ayCDoDTajlqrQTWdESCFVEFXOqrpqp4JukhJE0e6kkIDFdKpg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmgITR6wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmgITR6wE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  },
+  {
+   "name": "places/ChIJ5wbiR6DJBZERBnnWIPRQkVg/photos/Aa-ngMYy8gpxb3rIoldfK71cfjIk9arjVDhKJ90Zzz76Rxe22s-yj0n3B75RKXftqOMUv9LSCsbA7NrFtLNqiw_-geOKeq5mEToIe_-unyi_jF6DIfE_zyH4opgtiSSijI6QQQf6WIzhQAimJuPUP-XUfMkcae6ITL5KyEoOz2UK2ZYzMoSSPBp0XsYglXfJyiBWfAj44Rbw3yMo4K-xv8b_Kb0e1RVbXPJu_TacNp1pTiuAk2gNFcRb7OLs037sDn6DFE30iSrb0shROl3F5i1XRLv4swFN_gUWpBRB5gjIkigoSmSnBgjK3Orlylv1zMy0qaOVmllz2UXUOBpO6EufNAloh-k5rnOQMEOZ6r80rlPRj4IL_kcmsJEbvJPtngT7MyW-T44cNb116-RF_HJjnZcuC9YY__f5gn9bK6GxWKeVsQly",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "José Miguel",
+     "uri": "https://maps.google.com/maps/contrib/104157326091650279234",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWizDrJ-O0doG2JPA4sU0hC5VDwSH-cuRU0Ds8CHpzLymToVLu-hw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaveKZzAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaveKZzAE!2e10!4m2!3m1!1s0x9105c9a047e206e7:0x589150f420d67906"
+  }
+ ]
+}

@@ -1,0 +1,619 @@
+{
+ "id": "ChIJXcAycKfJBZERqEHpk_6So2c",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4070081",
+ "internationalPhoneNumber": "+51 1 4070081",
+ "formattedAddress": "Jr.Leoncio Prado 1020, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "1020",
+   "shortText": "1020",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Leoncio Prado",
+   "shortText": "Jr.Leoncio Prado",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0882729,
+  "longitude": -77.0714689
+ },
+ "rating": 3.9,
+ "googleMapsUri": "https://maps.google.com/?cid=7467974229211300264&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 128,
+ "displayName": {
+  "text": "VETERINARIA PETS SMILE",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr.Leoncio Prado 1020, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWeGFYZ3hVakJITjB4cmNsOUpjazlLY1U1WVZtYxAB",
+   "relativePublishTimeDescription": "Hace 4 semanas",
+   "rating": 5,
+   "text": {
+    "text": "El motivo de este mensaje es para felicitar y reconocer el alto nivel de profesionalismo del cuerpo médico de esa clínica. Recientemente asistí por la atención de mi perrito Mapache y quedé sumamente impresionado con el rigor médico, la claridad para explicar el diagnóstico y la dedicación de los doctores. Es evidente que cuentan con un equipo de primer nivel, comprometido con el bienestar animal y la excelencia en el servicio. Les extiendo mi más sincero reconocimiento y recomendación. Muchas gracias!!! 🙌",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El motivo de este mensaje es para felicitar y reconocer el alto nivel de profesionalismo del cuerpo médico de esa clínica. Recientemente asistí por la atención de mi perrito Mapache y quedé sumamente impresionado con el rigor médico, la claridad para explicar el diagnóstico y la dedicación de los doctores. Es evidente que cuentan con un equipo de primer nivel, comprometido con el bienestar animal y la excelencia en el servicio. Les extiendo mi más sincero reconocimiento y recomendación. Muchas gracias!!! 🙌",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fernando Gonzalez Junco",
+    "uri": "https://www.google.com/maps/contrib/101200117567989347246/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPLYp4yiiax3H-6e9Oi5S-HgvTOETraPfAqnWBb8uZE_0cFsOC=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-30T00:52:35.787766121Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWeGFYZ3hVakJITjB4cmNsOUpjazlLY1U1WVZtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWeGFYZ3hVakJITjB4cmNsOUpjazlLY1U1WVZtYxAB!2m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/reviews/Ci9DQUlRQUNvZENodHljRjlvT214TFpEZERjRE5zVkVWdmNEWjFWUzF6Ym5KaFowRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "No tienen cuidado con los perros. Mi perro salió sangrando de ahí porque le reventaron un grano grande que tenía. Pese a que se avisó que tengan cuidado en esa zona. Su respuesta fue, que lo traje así. Y me querian cobrar la consulta.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No tienen cuidado con los perros. Mi perro salió sangrando de ahí porque le reventaron un grano grande que tenía. Pese a que se avisó que tengan cuidado en esa zona. Su respuesta fue, que lo traje así. Y me querian cobrar la consulta.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alvaro Mendez",
+    "uri": "https://www.google.com/maps/contrib/111588278865264127332/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV898bfE1lE9B-N8OJCUmCT6awHLl5hbMbhUyljmgnaCOmwCk04=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-21T15:56:18.686286324Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214TFpEZERjRE5zVkVWdmNEWjFWUzF6Ym5KaFowRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214TFpEZERjRE5zVkVWdmNEWjFWUzF6Ym5KaFowRRAB!2m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUk9VOXlOM2N5UjNOR1FXVjNiekpRVm01NWNHYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Estas personas son unos completamente irresponsables y poco profesionales.\n\nEl día sábado 14 de febrero 2026 llevamos a nuestra gata L a hacerse unos exámenes. L había bajado de peso (casi 1 kilo) en muy poco tiempo lo cual era un signo de alarma. Mi esposa decidió hacerle unos exámenes de sangre para saber si todo estaba bien.\n\nPrimero, tratan mal a nuestra gata L. Nuestra gata es un poco arisca cuando se asusta y suele arañar, pero se supone que si trabajas como Veterinario estás capacitado para manejar esta situación. Los doctores se negaron a siquiera cortarle las uñas. Y no es la primera vez que pasa. Nos querían cobrar 350 soles por colocarle anestesia para sacarle sangre (como comento, no es la primera vez) y esta misma doctora no quería siquiera pesarla y tenía una actitud poco profesional y desinteresada.\n\nOjalá este hubiese sido el inconveniente principal, pero, al llegar a nuestro departamento mi esposa decide llamarlos y pedirles que para aprovechar las muestras de sangre se haga una prueba de descarte de Leucemia. Al pasar un par de horas y quizás un poco más esta misma doctora llama a mi esposa para decirle que la gatita tiene leucemia y que cito textualmente “no hay nada que hacer y hay que darle una buena calidad de vida”. Recalco esto porque mi esposa está embarazada, en la etapa final del embarazo, y esto le afectó en demasía.\n\nEste mismo dia 14 de febrero decidimos llevar a otra de nuestra gatas a otro sitio diferente. A la sede de Gattos en Magdalena, y hacerle un descarte de Leucemia. Para lo que están familiarizados con el tema, si uno de tus gatos tiene Leucemia, es bastante probable que los otros también porque se contagia por fluidos. Al sacarle una prueba un poco más avanzada en este sitio, salió totalmente negativo para nuestra otra gata. Decidimos no sacarle prueba ese mismo día a L para no seguir estresándola.\n\nEl día domingo 15, le sacamos la prueba de descarte a L en Gattos, y cuál fue nuestra sorpresa de que salió totalmente negativo. Y aquí quiero dejar dos punto mis claros:\n\n1. En esta veterinaria son unos completos irresponsables que nisiquiera están informados de cómo opera una enfermedad en los animales además de lo poco profesionales que nisiquiera se aseguraron que L tuviera al 100% esta enfermedad alterando a una persona que está embarazada.\n2. En Gattos, L estuvo calmada y la trataron y nos trataron con respeto. Le sacaron sangre y L no se quejó, los doctores no fueron atacados. Y nos podríamos estar más felices que hayamos encontrado un sitio que la traten con amor.\n\nTenemos pruebas de absolutamente todo lo que está siendo retratado acá, por si tienen la osadía de contradecir las palabras que están siendo escritas acá.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Estas personas son unos completamente irresponsables y poco profesionales.\n\nEl día sábado 14 de febrero 2026 llevamos a nuestra gata L a hacerse unos exámenes. L había bajado de peso (casi 1 kilo) en muy poco tiempo lo cual era un signo de alarma. Mi esposa decidió hacerle unos exámenes de sangre para saber si todo estaba bien.\n\nPrimero, tratan mal a nuestra gata L. Nuestra gata es un poco arisca cuando se asusta y suele arañar, pero se supone que si trabajas como Veterinario estás capacitado para manejar esta situación. Los doctores se negaron a siquiera cortarle las uñas. Y no es la primera vez que pasa. Nos querían cobrar 350 soles por colocarle anestesia para sacarle sangre (como comento, no es la primera vez) y esta misma doctora no quería siquiera pesarla y tenía una actitud poco profesional y desinteresada.\n\nOjalá este hubiese sido el inconveniente principal, pero, al llegar a nuestro departamento mi esposa decide llamarlos y pedirles que para aprovechar las muestras de sangre se haga una prueba de descarte de Leucemia. Al pasar un par de horas y quizás un poco más esta misma doctora llama a mi esposa para decirle que la gatita tiene leucemia y que cito textualmente “no hay nada que hacer y hay que darle una buena calidad de vida”. Recalco esto porque mi esposa está embarazada, en la etapa final del embarazo, y esto le afectó en demasía.\n\nEste mismo dia 14 de febrero decidimos llevar a otra de nuestra gatas a otro sitio diferente. A la sede de Gattos en Magdalena, y hacerle un descarte de Leucemia. Para lo que están familiarizados con el tema, si uno de tus gatos tiene Leucemia, es bastante probable que los otros también porque se contagia por fluidos. Al sacarle una prueba un poco más avanzada en este sitio, salió totalmente negativo para nuestra otra gata. Decidimos no sacarle prueba ese mismo día a L para no seguir estresándola.\n\nEl día domingo 15, le sacamos la prueba de descarte a L en Gattos, y cuál fue nuestra sorpresa de que salió totalmente negativo. Y aquí quiero dejar dos punto mis claros:\n\n1. En esta veterinaria son unos completos irresponsables que nisiquiera están informados de cómo opera una enfermedad en los animales además de lo poco profesionales que nisiquiera se aseguraron que L tuviera al 100% esta enfermedad alterando a una persona que está embarazada.\n2. En Gattos, L estuvo calmada y la trataron y nos trataron con respeto. Le sacaron sangre y L no se quejó, los doctores no fueron atacados. Y nos podríamos estar más felices que hayamos encontrado un sitio que la traten con amor.\n\nTenemos pruebas de absolutamente todo lo que está siendo retratado acá, por si tienen la osadía de contradecir las palabras que están siendo escritas acá.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "luis machillanda",
+    "uri": "https://www.google.com/maps/contrib/116006301429057575226/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHEgJZBN6AkSzGGFTUY8TB_2niL1QcvUfJ-SLHU0zyMlnaMhjU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-16T17:29:01.030002966Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paUk9VOXlOM2N5UjNOR1FXVjNiekpRVm01NWNHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paUk9VOXlOM2N5UjNOR1FXVjNiekpRVm01NWNHYxAB!2m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xObllVcFFVRFZ2WmtkbVNYYzJZMVZ2Y2pKSk1FRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención, irresponsables, no cumplen el orden de llegada, indolentes, encierran a la mascota en unas jaulas obscuras, indolentes.  Primera y última vez que me sorprenden.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención, irresponsables, no cumplen el orden de llegada, indolentes, encierran a la mascota en unas jaulas obscuras, indolentes.  Primera y última vez que me sorprenden.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "MIGUEL DUEÑAS ARCE",
+    "uri": "https://www.google.com/maps/contrib/113823113298475640346/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfLblxScqU38IlR_DHeIpy7UV5nqKXGd7l_imsBhpjtrKUcw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-04T15:19:08.534603513Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xObllVcFFVRFZ2WmtkbVNYYzJZMVZ2Y2pKSk1FRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObllVcFFVRFZ2WmtkbVNYYzJZMVZ2Y2pKSk1FRRAB!2m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/reviews/ChdDSUhNMG9nS0VMalU3ZE85ck0tZl93RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! Tengo 3 perros y siempre se atienden ahí felices",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! Tengo 3 perros y siempre se atienden ahí felices",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Viviana Barrantes",
+    "uri": "https://www.google.com/maps/contrib/113736450174914665746/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRUll_6n7-EIrs05OhOl56zd5rgMjJSjcWmxmFF667Ns3AwJRh=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-24T17:38:30.044325Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VMalU3ZE85ck0tZl93RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VMalU3ZE85ck0tZl93RRAB!2m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMZ4bkyA6Lxr9fRk9v0LutO_c9_0y4WjNt7JCFDqpC6kXbdzte6iQSS3lDISqUyZA4fyZ4TOz2-izGMDR_FvQp6VEI9fJrLMIriY_8P1ejC2UrsbF1jNXEbulGBIdzJyZjzvX-1hH8xbX9Op3bfiKX0dQkgZJLnzPP_rcQ9xrb3FUL2jhFoGSr68IqqvYzVUCff-AbKaOl93VWXXAsLCKjiVhF1voa3d_lS7aXGkU2nc1L7m8Bwaj9KFvt85_yh8k99xXUb91ZXUUhyJ_iM-76jDWXIzq5N5Ff0ueTfgMQQzYUdSQga-md9D79cTp2JHpbmopZm9A04jq1jaIz7AZwzI69ckRjtswv1F4AaYb0Cxam1CG7xLA-BHc8oeXrFQ4unG9JhOXW5jj7jPplrigR4LyJnH",
+   "widthPx": 4128,
+   "heightPx": 2322,
+   "authorAttributions": [
+    {
+     "displayName": "Iza Delgado",
+     "uri": "https://maps.google.com/maps/contrib/108576299568478164760",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK20z694Tu_ZdneSmiG0jO4Ffl3LGPScgk-If51MzyBamCEUA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4pPzFzAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4pPzFzAE!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMa0QregdkYAAxs6gzuZCe9x5jsHWIeJubo9hfHyyocCOaX-WznUNjD0u09Kepf1GPWBXO1nvHJDGyBDUH-2Aa2xmjiblOcKY4WaBWm0YInwQ83vmt3kT7GkcteCX23u9ErOEAROnpKPdlbtFd4QoaHvsOTIuwMAPrUyjqlQFXNtmdefuIATYmfaU1Ja11x32T6gF7sEGN546CX4QkJepgF7XSeU3XLbTQvIleTbhNGFZlEbhyoyoC5lLTRASxRwdhZFFX96QtwXaRynpDlZRNFnZaPy0lME_fdSzbiA3N0_KbRywWdUx6g0E3qom3kb3EH46TmhRMWS3N1hTojMeqC7iVJdV7fG3ONVKZ2jkJcxo2fDnsrl23txx9To-48tb3w-nJmwvv48tKHOCfdTwsn5OsFYH2KdbkNKb70FLajODQ",
+   "widthPx": 3072,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "José Jesús Matheus Almaida",
+     "uri": "https://maps.google.com/maps/contrib/104769566673305362484",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaQgj7kYXeSqvgi1Apx_1EOqZ0j9s1TPtv5KJ4cEOR3WfrIA978g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCjUHDkBCrSOkQIdVL0NKmC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCjUHDkBCrSOkQIdVL0NKmC!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMa5yIgiztl3QUAl03OE2xCSBIWH_6FUnR2P9q3zmBVal8cGNWRvBoFmTFP2TKZn-W1tScR9ycazqzseJbJxhTZsXV5Opp7GPvkcRFjXGjFYoTByaWTwKS3BrRbe_4s88ta4Ljtrr7DZmQ61hXUAVF-u92vcixfc39ER04bURL0Ov17pBCVQnQ-M8kgD5DkYNr9sX9KxAkNqQ3mkQVu9NTEcmv6oiX3Q-292coniAlYoBoqynuqAlCBlWoW38jIwschwQIqKsJsB1RDjsygFvrrIIO0XBv3YCIflW12J4XRSztIAXWVQp7JfMY69b8r4Bc2Dnl2XCP7WnvBebJMxjvIhv_Pnq3fmEowsikRvcaYWLzk7ZbQ0U47_ALgJNTqdcFlu44hUOG0rNvGvIaSrwbORqCU",
+   "widthPx": 3968,
+   "heightPx": 2240,
+   "authorAttributions": [
+    {
+     "displayName": "TONY LUY",
+     "uri": "https://maps.google.com/maps/contrib/111464091613144289725",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCLYPsMV3rEtU2rX2Wm3IyAAEntJOzhJ-r9LkDU0HrUdvL9vNA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE14bHUw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE14bHUw!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMb3QEpHtDaHLXhQTbHPrku3y41ZlZXQdj7HU289P3xxg5woBtJHbwzs5OCj1655-GVPHrvp7qwGOuebT7w5WLrO7yk-LhHzSmawF-eS6h-nvj65zjWiHXjSky1G5X8sJ1Gi0wOuf2xfYM6vACIX-bp234Ktz8BnEUh1xqkNpcTmAydYeGqRPsYED08CBs8xbokau5NSxSqCA3bRzdKS3QqtQ72OM4fbBCnUSJqZQoQL2bnPJA7LOCgM0pm6RyWWaawnHGl-Smh5hB3eu0p7JTlOIKbPCVihDwMoBtaFqfVxHt1ChyzDyQ80iLXgePSi7tKoWewgzbWpBZZ5TB4JQvzMrMTCjRtuv2tOXxWRB0OupWFEFLvQUfT-sNGVfYIL7efhzgZjjFc3y0fQYXUJ14awINwuaVE",
+   "widthPx": 2560,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "camilix . com",
+     "uri": "https://maps.google.com/maps/contrib/111126392095614003853",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPA9RFKH0aB-b1-rVxwMDvngs6eyWQHRtC7WesWIf0lPFMmg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC44sHWswE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC44sHWswE!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMZJfJ9dSPz-2LbxTi2iRUEUmAjT7vNRu44maxoXsRWA2WG2VAKzbKyMsx62efGRSHMuNz1pA0OQhDgish-rkbdntLVUbKVZQm2nbCVoabZvt0yATMcQYTry30CEPtW8arlBxYFF0AlQFS5qZHsdMfPzvZ7fD4xk1vsYpn8yM3kJTJfnNkHyQWAnYzX6L8e8XRjTch6kCQWniEyX3ZxC94v5BfNqrscpBF-zmLoBiCyha09UMidDj3mBjgfztEO46RIktTWV2VK477p1Kvq3zOE8xFYQatMO9R1jW7dKGmVBYiS8ixeJyVUvU4uFMgc7TNXiLwzrQaCpZvNbzv_o_6R0UvdmRZR5hqRGJfFXvlsZ7su9R6pVukyu2lI3KeMEhe8cRFIy9TrHqawt23dKgGNj0Hw",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Retroceder Nunca Rendirse Jamas",
+     "uri": "https://maps.google.com/maps/contrib/109216348654038206128",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8qTuiWPtk1lHvoAjg8D1hoetf7qs_OhKTEv6uQ8jkIKs4D1Y=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-opLwGg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-opLwGg!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMYJZZL0hwh4C7Lzd_2W6A4kWVoAdN6AWiahLNYK-au2un7B28DW4dsehrPaRyReroxdsh4R7hvsqlFpij4lZc5NNU13Wx_WLwBSV1Tqi0dViChFoUhnjj7_rDYKYeiMKNky-RJVGvrzijdSmYyR1zruAtaVTEIeqf-0Vecrftd5_poZZ_YBVOqtXB0xvLitAESXlSaXB4x3qFE2mgac0LdZHJgCd0GrDFGMNbBc1czNozcBMwohF9RQMbTnTDP7qlSzlasoB9YQR0ccKS9ImAhHQFEXwmNFnKLf_d1-5hVCFoi1Hanc0Ym9pWccUComsL4bunNJ1tqRScsaGAgsSUsS56HyyLeyS4MIwuw9lLm8mLbDWZb1MrmazX-xwmMJDSqPvGfksG-gIJUKiZ35Vd7yZrvimTM",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Cecilia Farro",
+     "uri": "https://maps.google.com/maps/contrib/101533322105948003602",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRNyz_5y1vBy2wsPQyWeo_lltfQhpovdA6HGcvwTn6gyk5KQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE65KCoQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE65KCoQE!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMY1mvKvpgdvRotJfmHON-ggyzG7DmsOQ7O-WNb4zV0OP1Mb-a7ChYFRyJMBVN5Z7sDdmCmgc-kOkkcazu-_SikpXKTMsKTwH5GaxAbiaVwtTzsR-ke3iADfbhmPSAdtbfxzdFgNIyGCtpGvTT-5XgGknZawziW8NcQbXqpW_gh_QV_B6RNqMJCj_X6TrA_VvZsN51CrxRGDJvevVfqPqgI0B366zjiGNt9j1QN8ZYdNkybGxpJB5JRNVaejyaBt0VSnRDgOrzB-MXudmbf2gSnVtgLUnvw7Y64zDVhiD7dW1UlcQ9gr5IaxHLLw51MgKGjCIXYLgT_8SK-ASQw9zm0OtmAknPwiggkiZKMgz8VMK8PlEbOdrd908KPTq8SfystBZ29tHLA5xgHyytec2PAHYP8",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Retroceder Nunca Rendirse Jamas",
+     "uri": "https://maps.google.com/maps/contrib/109216348654038206128",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8qTuiWPtk1lHvoAjg8D1hoetf7qs_OhKTEv6uQ8jkIKs4D1Y=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-ooKmEw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-ooKmEw!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMaA_aeOK_6Kv2G56_2XClganQXtIXYP8201yDRgEhtcfahumQEdgoajrliL8HCc6EFRpellMM92WTHr941WUeY4e5l_NK2mQyzKkCnkIXUsdEGpgev7JR5sMf0GlNyjbTJNk5MGJG4ikwhLGALt3WaFQuDPXIo3Q2KvDTypZOCm6X0WK8dUKJXa_OXkTqQ4ApvsS1ToatHUZ4DPiqvF2JWyhVDao-sEsnlOeXjJMDv5rnKP3PTCaYKl6knhpblngn-MPeA4ZrIYZEHDMcZ0gGMGxI83vvMRaiguRcUsbzmQZjQbEuuuX3rFPpP-o5rTLT4pD-3sMAJVyIbxXSrSTjGP6b-BVqnnxYusQcKvjyL66Wl20DUN1GFOQ4FRyEGBrA-FXjsTYd9hDXBLjm5Q7F3TMCM6DJacD7Kva6p_WMYHcA",
+   "widthPx": 3072,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "José Jesús Matheus Almaida",
+     "uri": "https://maps.google.com/maps/contrib/104769566673305362484",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaQgj7kYXeSqvgi1Apx_1EOqZ0j9s1TPtv5KJ4cEOR3WfrIA978g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAVWzJFXpJguhmqIE9x4Q24&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAVWzJFXpJguhmqIE9x4Q24!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMbmdJMGcXPwwQoVRurWRtbUJEo0CKGU7tUt5o1sbuDqQGpG3TYY-ehoFWuU_hQks4riKEzYv9Qsm7J1qTWpHIjSfk-TkBmhDLuHPB85hQYDvKn0uqXlMs26BDRfllVlxWQLhnpar0Bw3bud52BhDdT-SumSr6z1mtgJvkG4Fo0xid7pb7q1DdEHFgTTfJB11olszdk-i4LVOLmPpWr2N42CvEZTklQ44Go8Glw8HbSppwMiXnAPgk9oKx5jKpxvxb3mV6uEGW1yJ0K77kDGC4fDazaDXA5Q6NpYhQc1ycIWfBqrbzjdJnu5VUdsP3_Nrr4x-fwqGQJkaTaLilA89gkgmXx3srurheAUR0sbUkUSdAHRemAy2YtXYO31iMXTWtJlXBv-t25-q4X7htKxLe8tmeY",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Fred CB",
+     "uri": "https://maps.google.com/maps/contrib/112611081077256821977",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjIS09BLEz0c0CicAax7KG-dIF-bUpvIiKt52ci9deTh-6wW7vmg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4qJ2zQQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4qJ2zQQ!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  },
+  {
+   "name": "places/ChIJXcAycKfJBZERqEHpk_6So2c/photos/Aa-ngMYyXLTGzlJ1rwrIJ5wCLRr9r9zHvvR3gm6fHWoInNrPHmu5AJOGaxL9-0t2W67CsjFOUau9DkW6mGXt5rMGuMR3Ujt5kGLnt0qoYoJQhW8wVEG-oPUcmaKys7__QQauml9UTo1oOOvRHRo2_Zd_Xk1pK_254ecLax4zjAtoZMwAHbEsYwp0mhgzFrj02myYIsPhnZA8uy5yPcJGkG3IzdPcEs99zafiTgLHxlDQXKsCtSBCpksJthrl8skaNbucmFiazZ4I6Kv5s-Z7G62zqEMmzobiFTnwtp8HOwMQJpWYZIxwewKvc7DhZhhj2KIpY-SNttR-Dfd88p2EtiTWXEczh3c9uHES_9B2Dxi-g_kzcLs9aLTaV6IZ-aVenWK0xfRZoFr0jaso33uUJWwKRP0Hew",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Viviana Barrantes",
+     "uri": "https://maps.google.com/maps/contrib/113736450174914665746",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRUll_6n7-EIrs05OhOl56zd5rgMjJSjcWmxmFF667Ns3AwJRh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEOr_2YrVt5GgNw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEOr_2YrVt5GgNw!2e10!4m2!3m1!1s0x9105c9a77032c05d:0x67a392fe93e941a8"
+  }
+ ]
+}

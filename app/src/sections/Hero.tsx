@@ -103,7 +103,7 @@ export function Hero({ S }: { S: Scope }) {
   const months = monthEntries.map(([, v]) => v)
   const monthLabels = monthEntries.map(([k]) => { const [y, m] = k.split('-'); return `${['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][Number(m) - 1]} ${y}` })
   const distLabels = byRank.map(d => d ? shortD(d.district) : '')
-  const scopeTxt = S.all ? `en los 5 distritos${BUFFER_N ? ` · +${fmtN(BUFFER_N)} vecinas a ${fmtN(BUFFER_KM, 1)} km` : ''}` : `de ${fmtN(PLACES.length)} en total`
+  const scopeTxt = S.all ? `en los ${DIST.length} distritos${BUFFER_N ? ` · +${fmtN(BUFFER_N)} vecinas a ${fmtN(BUFFER_KM, 1)} km` : ''}` : `de ${fmtN(PLACES.length)} en total`
 
   return (
     <section id="hero" className="scroll-mt-32 pt-8 pb-6 md:pt-12" aria-labelledby="hero-h">
@@ -115,7 +115,7 @@ export function Hero({ S }: { S: Scope }) {
           ¿Dónde abrir la <span className="text-primary">clínica veterinaria</span>?
         </h1>
         <p className="mt-3 max-w-2xl text-[15px] text-muted-foreground">
-          5 distritos comparados · {fmtN(PLACES.length)} clínicas · datos al <span className="font-medium text-foreground tabular-nums">{GENERATED}</span>
+          {DIST.length} distritos comparados · {fmtN(PLACES.length)} clínicas · datos al <span className="font-medium text-foreground tabular-nums">{GENERATED}</span>
         </p>
       </Reveal>
 
@@ -154,7 +154,7 @@ export function Hero({ S }: { S: Scope }) {
             <h3 className="flex items-center gap-2 text-[15px] font-semibold"><ShieldCheck className="size-4 text-primary" />Semáforo legal: ¿se puede abrir una clínica nueva?</h3>
             <span className="text-xs text-muted-foreground">según índice de usos municipal</span>
           </div>
-          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-5">
+          <div className="grid grid-cols-2 gap-2 lg:grid-cols-4">
             {RANK.map(n => {
               const d = byName(n)!; const L = legalStatus(d); const sel = S.district === n
               const col = L.lvl === 'good' ? 'var(--good)' : L.lvl === 'mid' ? 'var(--mid)' : L.lvl === 'bad' ? 'var(--bad)' : '#94A3B8'

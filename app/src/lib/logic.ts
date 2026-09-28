@@ -228,7 +228,7 @@ export function makeScope(district: string) {
     .map(p => ({ p, name: p.name, rating: p.rating, reviews: p.reviews_count || 0, share: totalRev ? (100 * (p.reviews_count || 0)) / totalRev : null, is_24h: !!p.is_24h, chain: shortChain(p.chain) }))
   const src = all ? G : d || {}
   return {
-    all, d, P, Pall, B, Ball, district, name: all ? 'Todos los distritos' : district, label: all ? 'los 5 distritos' : district,
+    all, d, P, Pall, B, Ball, district, name: all ? 'Todos los distritos' : district, label: all ? `los ${DIST.length} distritos` : district,
     count: P.length, n24, pct24: pct(n24, P.length), avgRating: mean(ratings), ratings, totalRev,
     tickets, avgTicket: mean(tickets), ratingDist: dist, lowRated: ratings.filter(r => r < 4).length, top,
     themes: (src as { themes?: Themes }).themes || {}, coverage: validGrid((src as { coverage?: unknown }).coverage) ? ((src as { coverage: number[][] }).coverage) : null,
@@ -281,8 +281,8 @@ export function buildRules(): Rule[] {
   const d24 = minBy(DIST, d => d.pct_24h)
   if (d24) R.push({ ic: 'moon', night: true, d: d24.district, t: `Hueco nocturno en ${d24.district}`,
     metric: { v: fmtPct(d24.pct_24h), l: 'de clínicas atiende 24h' },
-    b: `Solo ${fmtN(d24.count_24h)} de ${fmtN(d24.count)} clínicas atiende 24 horas, el menor porcentaje de los 5 distritos. Una guardia nocturna tendría poca competencia.`,
-    bStat: `Solo ${fmtN(d24.count_24h)} de ${fmtN(d24.count)} clínicas atiende 24 horas, el menor porcentaje de los 5 distritos.` })
+    b: `Solo ${fmtN(d24.count_24h)} de ${fmtN(d24.count)} clínicas atiende 24 horas, el menor porcentaje de los ${DIST.length} distritos. Una guardia nocturna tendría poca competencia.`,
+    bStat: `Solo ${fmtN(d24.count_24h)} de ${fmtN(d24.count)} clínicas atiende 24 horas, el menor porcentaje de los ${DIST.length} distritos.` })
   const A = coverageAnalysis(validGrid(G.coverage) ? G.coverage : null, G.count || PLACES.length)
   if (A && A.rangeTxt) R.push({ ic: 'clock', t: `Franja desatendida ${A.rangeTxt}`,
     metric: { v: fmtPct(A.lowPct), l: 'de clínicas abiertas' },
@@ -294,7 +294,7 @@ export function buildRules(): Rule[] {
   if (lr) R.push({ ic: 'target', d: lr.district, t: `Competencia débil en ${lr.district}`, metric: { v: fmtPct(pct(lr.low_rated, lr.count)), l: 'con rating bajo 4.0' },
     b: `${fmtN(lr.low_rated)} de ${fmtN(lr.count)} clínicas tienen rating menor a 4.0, la proporción más alta. Sus clientes insatisfechos son captables.` })
   const hp = maxBy(DIST, d => d.households_per_clinic)
-  if (hp) R.push({ ic: 'home', d: hp.district, t: `Demanda menos atendida en ${hp.district}`, metric: { v: fmtN(hp.households_per_clinic), l: 'hogares por clínica' }, b: `El mayor ratio de hogares por clínica de los 5 distritos.` })
+  if (hp) R.push({ ic: 'home', d: hp.district, t: `Demanda menos atendida en ${hp.district}`, metric: { v: fmtN(hp.households_per_clinic), l: 'hogares por clínica' }, b: `El mayor ratio de hogares por clínica de los ${DIST.length} distritos.` })
   else R.push({ ic: 'home', t: 'Demanda por hogar: pendiente', pending: true, b: 'Cuando lleguen población y hogares por distrito se calculará qué zona tiene más hogares por clínica.' })
   return R
 }

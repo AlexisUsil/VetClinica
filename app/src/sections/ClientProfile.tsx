@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { CalendarCheck, Frown, Heart, ThumbsUp, UserRound, Wallet } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { ALL_PLACES, DASH } from '@/data/dash'
+import {ALL_PLACES, DASH} from '@/data/dash'
 import type { LabelPct } from '@/data/types'
 import { fmtN, fmtPct, isNum } from '@/lib/format'
 import { COLORS } from '@/lib/logic'
@@ -70,7 +70,7 @@ export function ClientProfile() {
     <div className="mt-10">
       <div className="mb-4 flex flex-wrap items-baseline justify-between gap-2">
         <h3 className="text-lg font-semibold tracking-tight">Perfil general del cliente</h3>
-        <span className="text-xs text-muted-foreground">NSE A/B · 5 distritos</span>
+        <span className="text-xs text-muted-foreground">NSE A/B · Lima</span>
       </div>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
         <Reveal className="h-full">

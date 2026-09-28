@@ -43,14 +43,14 @@ function CompareTable({ sel }: { sel: string }) {
     <Panel>
       <CardHead title="Comparativa lado a lado" sub="Verde = mejor valor para abrir; rojo = peor. Clic en un distrito para seleccionarlo." />
       <div className="mt-3 overflow-x-auto">
-        <table className="w-full min-w-[720px] border-collapse text-[13px]">
+        <table className="w-full min-w-[860px] border-collapse text-[12px] xl:text-[13px]">
           <caption className="sr-only">Comparativa de indicadores por distrito</caption>
           <thead>
             <tr className="border-y bg-muted/50">
-              <th scope="col" className="sticky left-0 z-10 bg-slate-50 px-4 py-2.5 text-left text-xs font-medium text-muted-foreground">Indicador</th>
+              <th scope="col" className="sticky left-0 z-10 min-w-40 bg-slate-50 px-3 py-2.5 text-left shadow-[1px_0_0_var(--border)] text-xs font-medium text-muted-foreground">Indicador</th>
               {ds.map(d => (
-                <th key={d.district} scope="col" className={cn('px-3 py-2.5 text-right text-xs font-semibold', sel === d.district && 'bg-teal-soft')}>
-                  <button type="button" onClick={() => setDistrict(d.district)} className="inline-flex items-center gap-1 rounded px-1 hover:text-primary">
+                <th key={d.district} scope="col" className={cn('px-1.5 py-2.5 text-right text-xs font-semibold whitespace-nowrap', sel === d.district && 'bg-teal-soft')}>
+                  <button type="button" onClick={() => setDistrict(d.district)} className="inline-flex items-center gap-1 rounded px-0.5 hover:text-primary">
                     <span className={cn('font-mono text-[10px]', rankOf(d.district) === 1 ? 'text-opp-ink' : 'text-muted-foreground')}>#{rankOf(d.district)}</span>{shortD(d.district)}
                   </button>
                 </th>
@@ -65,14 +65,14 @@ function CompareTable({ sel }: { sel: string }) {
               const worst = can ? (r.better === 'high' ? Math.min(...valid) : Math.max(...valid)) : null
               return (
                 <tr key={r.l} className="border-b last:border-0 hover:bg-muted/40">
-                  <th scope="row" className="sticky left-0 z-10 bg-white px-4 py-2.5 text-left font-medium">{r.l}<div className="text-[11px] font-normal text-muted-foreground">{r.n}</div></th>
+                  <th scope="row" className="sticky left-0 z-10 min-w-40 bg-white px-3 py-2 text-left font-medium shadow-[1px_0_0_var(--border)]">{r.l}<div className="text-[11px] font-normal text-muted-foreground">{r.n}</div></th>
                   {ds.map((d, i) => {
                     const v = vals[i]; const sc = sel === d.district ? 'bg-teal-soft/60' : ''
-                    if (!isNum(v)) return <td key={d.district} className={cn('px-3 py-2.5 text-right text-muted-foreground italic', sc)}>pendiente</td>
+                    if (!isNum(v)) return <td key={d.district} className={cn('px-1.5 py-2 text-right text-[11px] text-muted-foreground italic', sc)}>pendiente</td>
                     const isB = r.better && v === best, isW = r.better && v === worst
                     return (
-                      <td key={d.district} className={cn('px-3 py-2.5 text-right tabular-nums', sc)}>
-                        <span className={cn('inline-flex items-center justify-end gap-1 rounded-md px-1.5 py-0.5', isB && 'bg-good-soft text-good-ink font-semibold', isW && 'bg-bad-soft text-bad-ink')}>
+                      <td key={d.district} className={cn('px-1.5 py-2 text-right whitespace-nowrap tabular-nums', sc)}>
+                        <span className={cn('inline-flex items-center justify-end gap-1 rounded-md px-1 py-0.5', isB && 'bg-good-soft text-good-ink font-semibold', isW && 'bg-bad-soft text-bad-ink')}>
                           {isB && <ArrowUp className="size-3" aria-label="mejor" />}{isW && <ArrowDown className="size-3" aria-label="peor" />}{r.f(v, d)}
                         </span>
                         <SrcMark d={d} field={r.src} />

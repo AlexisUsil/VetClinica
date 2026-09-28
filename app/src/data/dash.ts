@@ -13,10 +13,10 @@ export const WEIGHTS: Record<string, number> = { ...(DASH.weights || {}) }
 export const DNAMES = DIST.map(d => d.district)
 const RAW_PLACES: Place[] = Array.isArray(DASH.places) ? DASH.places : []
 const cleanD = (s: unknown) => String(s || '').replace(/^\d+\s*/, '').replace(/^Distrito de /, '').trim() || '—'
-/** Zona core: dentro de los 5 distritos. Las vecinas (buffer) nunca entran en KPIs/rankings/gráficos. */
+/** Zona core: dentro de los distritos analizados. Las vecinas (buffer) nunca entran en KPIs/rankings/gráficos. */
 export const isCore = (p: Place) => p.zone !== 'buffer' && DNAMES.includes(p.district)
 export const isBuffer = (p: Place) => p.zone === 'buffer'
-/** Todo lo mapeado en los 5 distritos (incluye petshops/kennels, solo para el directorio) */
+/** Todo lo mapeado en los distritos analizados (incluye petshops/kennels, solo para el directorio) */
 export const ALL_PLACES = RAW_PLACES.filter(isCore)
 /** Solo clínicas veterinarias reales: KPIs, mapa y gráficos */
 export const PLACES = ALL_PLACES.filter(p => p.is_clinic !== false)

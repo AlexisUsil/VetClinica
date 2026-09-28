@@ -17,6 +17,9 @@ DISTRICTS = {
     "San Borja":        {"low": (-12.1150, -77.0150), "high": (-12.0800, -76.9800), "alias": ["san borja"]},
     "Santiago de Surco":{"low": (-12.1700, -77.0250), "high": (-12.0850, -76.9500), "alias": ["santiago de surco", "surco", "santiago de durco"]},
     "La Molina":        {"low": (-12.1150, -76.9800), "high": (-12.0400, -76.8700), "alias": ["la molina"]},
+    "Jesús María":      {"low": (-12.0900, -77.0650), "high": (-12.0550, -77.0300), "alias": ["jesús maría", "jesus maria"]},
+    "Surquillo":        {"low": (-12.1300, -77.0300), "high": (-12.0950, -76.9950), "alias": ["surquillo", "137surquillo", "1848surquillo"]},
+    "Magdalena del Mar":{"low": (-12.1050, -77.0850), "high": (-12.0800, -77.0550), "alias": ["magdalena del mar", "magdalena"]},
 }
 QUERIES = ["clínica veterinaria", "veterinaria", "veterinaria 24 horas", "hospital veterinario", "consultorio veterinario"]
 # Anillo de "ayuda": distritos vecinos; sus clínicas cuentan como competencia cerca del borde (zone = buffer)
@@ -86,17 +89,30 @@ def search(district, query, box=None):
     return out
 
 def district_of(details):
-    """Distrito por el componente 'locality' de Google; si dice 'Lima' (ambiguo) cae a la caja geográfica.
-    Si nombra otro distrito (Lince, Surquillo, Ate...) se descarta."""
+    """Distrito por el componente 'locality' de Google; si dice 'Lima' (ambiguo) o no viene, se usa el polígono real (point-in-polygon)."""
     comps = details.get("addressComponents", [])
     loc = next((c.get("longText", "") for c in comps if "locality" in c.get("types", []) and "sublocality" not in c.get("types", [])), "")
     for name, d in DISTRICTS.items():
         if loc.strip().lower() in d["alias"]: return name
     if loc and loc.lower() != "lima": return None
     ll = details.get("location", {}); lat, lng = ll.get("latitude"), ll.get("longitude")
-    for name, d in DISTRICTS.items():
-        if lat and d["low"][0] <= lat <= d["high"][0] and d["low"][1] <= lng <= d["high"][1]: return name
+    if lat is None: return None
+    for f in _geo()["features"]:
+        if _point_in_geom(lat, lng, f["geometry"]): return f["properties"]["district"]
     return None
+
+def _point_in_ring(lat, lng, ring):
+    inside = False; n = len(ring)
+    for i in range(n):
+        x1, y1 = ring[i][0], ring[i][1]; x2, y2 = ring[(i + 1) % n][0], ring[(i + 1) % n][1]
+        if (y1 > lat) != (y2 > lat):
+            x = (x2 - x1) * (lat - y1) / (y2 - y1 + 1e-12) + x1
+            if lng < x: inside = not inside
+    return inside
+
+def _point_in_geom(lat, lng, geom):
+    polys = [geom["coordinates"]] if geom["type"] == "Polygon" else geom["coordinates"]
+    return any(_point_in_ring(lat, lng, poly[0]) and not any(_point_in_ring(lat, lng, h) for h in poly[1:]) for poly in polys)
 
 import math
 _GEO = None

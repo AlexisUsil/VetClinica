@@ -1,0 +1,576 @@
+{
+ "id": "ChIJe_elC-jJBZERmCNOwJ26meU",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "938 997 448",
+ "internationalPhoneNumber": "+51 938 997 448",
+ "formattedAddress": "Av. Parque Gonzales Prada 287, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "287",
+   "shortText": "287",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Parque Gonzales Prada",
+   "shortText": "Av. Parque Gonzales Prada",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Oyague",
+   "shortText": "Urb Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0936787,
+  "longitude": -77.06638970000002
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=16544459892821205912&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–22:00",
+   "martes: 9:00–22:00",
+   "miércoles: 9:00–22:00",
+   "jueves: 9:00–22:00",
+   "viernes: 9:00–22:00",
+   "sábado: 9:00–22:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 73,
+ "displayName": {
+  "text": "Veterinaria North 1",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–22:00",
+   "martes: 9:00–22:00",
+   "miércoles: 9:00–22:00",
+   "jueves: 9:00–22:00",
+   "viernes: 9:00–22:00",
+   "sábado: 9:00–22:00",
+   "domingo: 9:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Parque Gonzales Prada 287, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aRVFWZFFkMnMzUXpoNFlUZ3RSblExU2pSUlZtYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "El recibimiento cercano y cálido de Zu hace que el nerviosismo que se siente al ir a una veterinaria sea mucho más llevadero. El profesionalismo del Dr. Elio, junto con su experiencia y la atención detallada que brinda, marcan la diferencia. Siempre se preocupa por que, como dueña, comprenda toda la información que me explica y busca en todo momento la mejoría y el bienestar de mis mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El recibimiento cercano y cálido de Zu hace que el nerviosismo que se siente al ir a una veterinaria sea mucho más llevadero. El profesionalismo del Dr. Elio, junto con su experiencia y la atención detallada que brinda, marcan la diferencia. Siempre se preocupa por que, como dueña, comprenda toda la información que me explica y busca en todo momento la mejoría y el bienestar de mis mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Monica Milagros Castillo Cardenas (LATAM)",
+    "uri": "https://www.google.com/maps/contrib/114490909225941240339/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTW7lYp-Xx2SD9Xk8WbcIxBx_OyQPPbnra1FxROYiNflm0H6A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-16T23:23:57.366949754Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aRVFWZFFkMnMzUXpoNFlUZ3RSblExU2pSUlZtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aRVFWZFFkMnMzUXpoNFlUZ3RSblExU2pSUlZtYxAB!2m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4NVNHNVZNbTUxYWxWTWIxcG1kMFJDUWtORmRuYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Excelente el servicio de baño. En general siempre envían recordatorios y son atentos con mi mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente el servicio de baño. En general siempre envían recordatorios y son atentos con mi mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Martín Cantorín Velásquez",
+    "uri": "https://www.google.com/maps/contrib/113072925628308740539/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb_Ji2xX9Foev6iNUmR9d_8ZUPAjvTOLDr3mZyM-m3WC9lBAvy=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-31T15:53:40.479472594Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4NVNHNVZNbTUxYWxWTWIxcG1kMFJDUWtORmRuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4NVNHNVZNbTUxYWxWTWIxcG1kMFJDUWtORmRuYxAB!2m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GU2FtVkpVV1l0U1hVemNHZFRaVkpZUVZad05XYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pongo en conocimiento de la comunidad y de los dueños de este establecimiento la pésima experiencia vivida en sus dos sedes por una urgencia con mi mascota.\n\nSede North 1 (12:50 p.m.): Llegué con mi perro en un estado de salud muy delicado. El veterinario Elio Poma se negó a brindarnos atención, indicando que se retiraba a almorzar y que regresáramos a las 2:00 p.m. La falta de empatía fue absoluta ante la angustia que mostramos por nuestra mascota.\n\nSede North 2 (Parque González Prada): Ante la negativa en la primera sede, me trasladé de inmediato a North 2. Sin embargo, la recepcionista nos dio la misma respuesta: el veterinario Sebastián Chambergo estaba almorzando y no había personal disponible para atender una emergencia.\n\nSiento una profunda impotencia ante la falta de humanidad de su personal. Es inaceptable que un centro veterinario no cuente con retenes o turnos escalonados para cubrir emergencias durante el refrigerio. La vida de un animal no puede esperar a que termine un horario de almuerzo.\n\nAdemás, la recepcionista de North 2 se negó a identificarse con su apellido; cuando alguien realiza un buen trabajo, no tiene miedo de dar su nombre completo. No registré el reclamo en el libro en ese momento porque la salud de mi perro era la prioridad, pero exijo que la administración revise estos casos. No recomiendo esta veterinaria; si no mejoran la calidad de atención y el criterio del personal que contratan, perderán la confianza de sus clientes.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pongo en conocimiento de la comunidad y de los dueños de este establecimiento la pésima experiencia vivida en sus dos sedes por una urgencia con mi mascota.\n\nSede North 1 (12:50 p.m.): Llegué con mi perro en un estado de salud muy delicado. El veterinario Elio Poma se negó a brindarnos atención, indicando que se retiraba a almorzar y que regresáramos a las 2:00 p.m. La falta de empatía fue absoluta ante la angustia que mostramos por nuestra mascota.\n\nSede North 2 (Parque González Prada): Ante la negativa en la primera sede, me trasladé de inmediato a North 2. Sin embargo, la recepcionista nos dio la misma respuesta: el veterinario Sebastián Chambergo estaba almorzando y no había personal disponible para atender una emergencia.\n\nSiento una profunda impotencia ante la falta de humanidad de su personal. Es inaceptable que un centro veterinario no cuente con retenes o turnos escalonados para cubrir emergencias durante el refrigerio. La vida de un animal no puede esperar a que termine un horario de almuerzo.\n\nAdemás, la recepcionista de North 2 se negó a identificarse con su apellido; cuando alguien realiza un buen trabajo, no tiene miedo de dar su nombre completo. No registré el reclamo en el libro en ese momento porque la salud de mi perro era la prioridad, pero exijo que la administración revise estos casos. No recomiendo esta veterinaria; si no mejoran la calidad de atención y el criterio del personal que contratan, perderán la confianza de sus clientes.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pedro Martinez Ucariaga",
+    "uri": "https://www.google.com/maps/contrib/111356964422623294661/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWrpxoDbuOcy2-Zo-zqNeqj0Bd8wE-m1xC-uGv7zfHsaLZ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-31T02:31:55.447683724Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GU2FtVkpVV1l0U1hVemNHZFRaVkpZUVZad05XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GU2FtVkpVV1l0U1hVemNHZFRaVkpZUVZad05XYxAB!2m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/reviews/Ci9DQUlRQUNvZENodHljRjlvT210VmNGVklla2hYTVhSd2VXRlZPRU5aWXpoaVFXYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Muy bien todo, súper limpio y bien cariñoso con mi mascota",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy bien todo, súper limpio y bien cariñoso con mi mascota",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "gustavo bolivar velez",
+    "uri": "https://www.google.com/maps/contrib/116294678991472076231/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmO6MkPE-rvQePuWK-XU3hCbUI3nFRo9MTvTXoPrPsNF7I0I9C=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-01T16:22:45.199906097Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210VmNGVklla2hYTVhSd2VXRlZPRU5aWXpoaVFXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210VmNGVklla2hYTVhSd2VXRlZPRU5aWXpoaVFXYxAB!2m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkb1NsVkNTWEJZVGtGb01HaEllVFpRV1RWMlMxRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio de baño. El personal fue muy cuidadoso con mi mascota, la recibieron con cariño y se nota que aman a los animales.\nMi perrita quedó limpia y con el pelo suave. Muy buena atención y ambiente seguro",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio de baño. El personal fue muy cuidadoso con mi mascota, la recibieron con cariño y se nota que aman a los animales.\nMi perrita quedó limpia y con el pelo suave. Muy buena atención y ambiente seguro",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "pamipet",
+    "uri": "https://www.google.com/maps/contrib/109305939609177785481/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7yuaUiuHyDbD-2CXLlHX7rQplFvYT1BVVRQ3JAAcn0pVz5Xs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-04T17:08:02.797969568Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkb1NsVkNTWEJZVGtGb01HaEllVFpRV1RWMlMxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkb1NsVkNTWEJZVGtGb01HaEllVFpRV1RWMlMxRRAB!2m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMYhaYw0MpBvTDq2pzFcgYhU6o0a3L3hlt89wKbbkqLYNxuIaVwwlIMA4TmqDRnsOwRNDW3_u28KN3YDIKUsUwc7dpsKfJ5lihWl5vslw2HEIqXGtbVe4G0VvSGTnF1yikUrKXSKXPA9RrPqP5inSlWzOKb2r6w7LiLMKk1bbDc3n56MkDbolxr9ghUJlAMrTNQkok-6KySbJNzileorlWPPjjTst-2TmU0d4bAorZzcY5FlYfnXTuR_4YM9X_eKgiuReDn87yqyhcFdhJ0bPwiCHNYrfFdJtzeIM6J9yhJMr0sgG1eUXzDEpoC1OOzNd1iplZDKiFCJ-iSdp6Ou6QfU9jjmTXzSWvt2rqtrDIiFh_zdjEkAe7WpQMpbtizp1OqyJteCdndmSj7ABZ8upQNqzjI4FHvfnETUfUvY1hJWeJM",
+   "widthPx": 4800,
+   "heightPx": 3600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria North",
+     "uri": "https://maps.google.com/maps/contrib/110094027244267634028",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkjBD1QJUZ3XPV6lDlqqBn6m3yuTRvX6GqwFCTWskiqEn52w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6992J0QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6992J0QE!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMb4vy9cVDGuxnPwybI21CZKzROCl0rxufSWRmZt-sAXlO5Zjd7Y3IdOQ_ifG1Muz271gjXj1Jbn6WLGuK3Bsp7iPcXIkDVFq4an-VsAwVz21c_x_QSvYKGt9JTu_eu_hMuq7AcIDtGSBQZ6iXu-upeaiknaMfoYuPgx0fhARgjgCq5sAlsDJIiWsiXQIBufxErkhmqJxFsaQk2AaA7KM7Rsb0FPPZmT7aiuNRhVTAWDMCeahTgiNgTE0mzmG_4LYJa63TLrP6cq_cuh6LO3rLLcxx6UFI-KgMIjWEAwI92IgTzyIjrN7QzZ2zX16pq0vNN42BpRNwZYlec1cUlZbOR461SoLRQU3Tq9UR3h37VjzWhSh34YoZ_izL4MutP8HN1TtOyLw8rNCpAqPzcd4Wl0ZGhT0ei1wncB7t8Nm4U23g",
+   "widthPx": 4800,
+   "heightPx": 3600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria North",
+     "uri": "https://maps.google.com/maps/contrib/110094027244267634028",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkjBD1QJUZ3XPV6lDlqqBn6m3yuTRvX6GqwFCTWskiqEn52w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6993BCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6993BCg!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMbf3gzmxlD7nTuJFz3VHmEZp84Tds8ZTv9gma5xLz73smGvooABHxXP3JXnw3ZNx3cxAORPcbYXvAlrA3PNR1dVNM87trusBenfAZoWQAkusQmbL2p7HbizQT8slOpehUBbwOnkfV-2JRrscxaEOM8i8dhofYhDCDAAAE_ixBAvgiiYey43PA9UaID72fuhbhF_WtSJZZKF72yxl69ASbtXqaCUL2Yz6F49VkOtyhoXkrtTVOASYhaV13X23bC6eInnFbwovRxS8YDzo00L2IlEMjMTbZEHEtTnecyQayhIkQwRF6gz9_hT9qJfAmJeUnSBp7vjZumtORDRrR3taoj__FXZXFq4tjN5pjFs0VP0W1UY39v0frpkPbRyZCFN-VLPnDNnGFt4LTmYRN--5HUL6WEv_jclFL7SzDF5ijOtQgiH",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Rosalinda Guzmán Gonzales",
+     "uri": "https://maps.google.com/maps/contrib/107152296993610447903",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmGXqWSmgT2z7AWafJbrZlC6LWWMu79ts0V5_PkSOey9l6Ja_SPQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB5JzBvQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB5JzBvQE!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMbpu4JvsYhSbMVEycpZDXnDlEAyJoGRN1APqg4353mI5vRYgkE6vLSYTBbSzz1BXXQsPuYsr70MpkmX8VdC7X6tv1zA1PqbvqRZ4Z1fS0mPODbK-zJfzsHl1sOhR2__njIhb0NiTSVYyTWwQWfsNABJfXXLndO0NrQiUMmDvTDYUNkxZPiSeT7A6Ehtsqh8WCDqRzyn2B5QqP2HyI-lFi-ByjDkbo5XivV8voqYhgvdRCm9baf_nxZEiDrZAueSfaYZWV6NB9K-C_Y4Azx6OAzBl8G4FWufuD6XlfnDt64xWCmsDq4kar8jI8v7bTckajQLu62w08MVXO_8OZAEKbejwbjHdmIh6ha-YHCs-y2vYh18IJF9C6ZMSpJ0t1OBL_hVtfjScbCEZVTaVsLpAscY5qsFGDpG_81j3O_MDXQ",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Marquez",
+     "uri": "https://maps.google.com/maps/contrib/102175183724069889974",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVifOuKZUCOKMebk2NnUmQ6rRM2YMUVR0MiLqAfGbHlaMOk9ye0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICizpXqCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICizpXqCg!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMZd8lt3F51XDrOWu0BuhIoA0KOWWQJw4SqVIX9VWkRVU8PsCFN09Hr5eCcMio7SA6OVJroM-GTpaFUEEWTPfdTYQu4EoG-xOzQiNSIQIX7XDDGYl1oFFkDPJidQxCZV7TkLBw5Vq76NJ6pOQjTznVv_FJYQGF8RBbwjdhEdSJQgJ3ASmULWIe8JadKILsUutCxvDPipQc35dWPcLuVU4D6LviL_nlI0tn_YH0EKeCdA4vLTuRO5Dsuh0DvlXAHrYZWRPdk9Z9FD8OMW8aLiELwI53UcRkjXLmqlRsuvHDgVWaMse24eaiSLQTAjoaGZimfFis-9QTavssPh0hf6A5mvA-wzDBJHWlpzxR9nusN4kLf5TdgB1GsC8D_t7T0_01zmd_-lWyDQb4dHRTt5cUm4DPtucs74sKGZKrKR3RT8Tw",
+   "widthPx": 622,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "cheni duncan",
+     "uri": "https://maps.google.com/maps/contrib/106594028509841273074",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhO-OA-P3AjLNU-xtJi9zBdyvb5Fm8ZXLEH4I-6ntFGe5O6Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK3LbgTQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK3LbgTQ!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMabux3EfIjGYwsKkjB1KVXhJDLUYLdgP1UtlYCdyyMss89acXbI-5yMM3zmtvL_ewxTq1Hy7kEpnORlRsbXmbFDC2dyYh3Fghq0-Dliv5tu6zqEIMBJBylyRgT9xQmjUgFAYvJ-ZvuIfh5236UAZldmdF2xPhRzzcDBcVH6emAg84OcWocUStU-z7SvlsvjHnyi63g7QnuKG_DFsLB24AAa2NCvcmeUwfSjQ6zKocxsXSPGUI5bRDM0VZfjzubSi0qiDN7r1wa56Hku7izX3HrqxVIvt_GDDG1gP_4mdp4U3MEjAbvSgEceFSOY4nMXofnIU_7D7Yxp8ZCfaP7Zdd9T5ND_B-3x-XT9vDk4WLl6F5EkYPjwN-fQz-daEfbTITn6RPPlFCFxwkrnGIFESLjDXzFd95XzEIYrixlJS_31yIoV",
+   "widthPx": 596,
+   "heightPx": 596,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria North",
+     "uri": "https://maps.google.com/maps/contrib/110094027244267634028",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkjBD1QJUZ3XPV6lDlqqBn6m3yuTRvX6GqwFCTWskiqEn52w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6972x9QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6972x9QE!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  },
+  {
+   "name": "places/ChIJe_elC-jJBZERmCNOwJ26meU/photos/Aa-ngMZcgs8T9qPTkQjyxAHm_jlVxxbeK9Xmcfwz7IHhAHHQ_4xVu25XpMjAsg0y4sFfSyf124lX0zeQSeNFjkZ09wYJt9mSHjmSdN3dZUbqRWsXzQeb6RMgU7y_9zmGLuwhzCd2EIpDG6-pYZp2FvN8X4Spv73GA8od5J2XggAm7-f1cMTZvobjUfJJqJF5MJyF5KVCW2S-G8MBtlp2S1jxOMzYPpCj8ECIjBl1dCm9Ei8f8itRG8HYxx2dg2YFE46T6JoOp7xV6U-xPEMRn4NwiZ5R1z2g8kRZtm1Yqlo2mFu9DVV2RlMpLaEMJ2fP3Huz2qy07X0bNenkxKsmaKnGQd2GLMsbe8MJrO6uu7f95HDC4BN8REfAwj5lp8QeAGkeqdGAYzyGyar32Dv84AcFeQX4wVoo9oGzBV71zmLgvlITpk1HGzyInDAmJVA5TWJU",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "gonzalomgt",
+     "uri": "https://maps.google.com/maps/contrib/112079574525831209988",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITqohshHOQen87QkTmuBjtw3kAoBD5Ngb9ej0sNIiB6SLbnw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBrXsVHbddFI4JYVLz040X9&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBrXsVHbddFI4JYVLz040X9!2e10!4m2!3m1!1s0x9105c9e80ba5f77b:0xe599ba9dc04e2398"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

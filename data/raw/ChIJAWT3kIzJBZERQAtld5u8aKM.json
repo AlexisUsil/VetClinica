@@ -1,0 +1,331 @@
+{
+ "id": "ChIJAWT3kIzJBZERQAtld5u8aKM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "962 359 527",
+ "internationalPhoneNumber": "+51 962 359 527",
+ "formattedAddress": "15076, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "15076",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.097715299999999,
+  "longitude": -77.07119089999999
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=11774868601669225280&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 6,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–6:00",
+   "martes: 8:30–6:00",
+   "miércoles: 8:30–6:00",
+   "jueves: 8:30–6:00",
+   "viernes: 8:30–6:00",
+   "sábado: 8:30–6:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T11:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "VETERINARIA SAN AGUSTIN SAC",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–6:00",
+   "martes: 8:30–6:00",
+   "miércoles: 8:30–6:00",
+   "jueves: 8:30–6:00",
+   "viernes: 8:30–6:00",
+   "sábado: 8:30–6:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T11:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "15076, Magdalena del Mar",
+ "photos": [
+  {
+   "name": "places/ChIJAWT3kIzJBZERQAtld5u8aKM/photos/Aa-ngMawdGs_LU_1kfCwaaBexjQyg2ci86AmyJztwIkzL7rEAFHs3XsJ1Q5bT8IINubtK-lRtDdV_54JpJd4YDRxF4cgHBW4cdoNIwvaGEY2k_AwjDy93lvXJGuyz_4xIbDLRIHzLS25d6GDGoenNTwsKa8ZfuQu6zccC0yR_IKb3UaOUMoMGIUAjaRA1I6AWNYS6J2ZSXkPtsRQU2i2NIOzkV99PuJP24TQAHbWd8J2QJrDmarQMHbxJ2bojalhIGb1LUge-1pSVy_5O4m1QJJqaJEIq0_WrFOuYJ7IvfE5304gXm4m_lqMrMrdyakpNia0IY1x4J_ku7BgzFZr8XhWHp_7mijZaNSzBmpUQU8fs_ojSHNxlICHGFBv5lhf4OfFETv_p2twZ3U-tc2GP0slENNoKQU-eTF13wEGUCAnsP6_DRfoAriz_Ul_QKeOCA",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA SAN AGUSTIN SAC",
+     "uri": "https://maps.google.com/maps/contrib/113020609943979584200",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJT2s29kNo558qW5su5MQF9Pq19eASfx_AdAPJQwwTpga5MJg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydERYw9PxGfutT8ABA4P&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERYw9PxGfutT8ABA4P!2e10!4m2!3m1!1s0x9105c98c90f76401:0xa368bc9b77650b40"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false
+ }
+}

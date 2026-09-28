@@ -1,7 +1,7 @@
 # Requisitos municipales y sectoriales para abrir una CLÍNICA VETERINARIA en Lima
 
-**Distritos:** Miraflores, San Isidro, San Borja, Santiago de Surco, La Molina
-**Fecha de investigación:** 23-sep-2026
+**Distritos:** Miraflores, San Isidro, San Borja, Santiago de Surco, La Molina; ampliación: Jesús María, Surquillo, Magdalena del Mar
+**Fecha de investigación:** 23-sep-2026 (ampliación: 28-sep-2026)
 **Método:** descarga y lectura directa de los TUPA vigentes (El Peruano / portales municipales / gob.pe), de los Índices de Usos para la Ubicación de Actividades Urbanas (anexos de las ordenanzas metropolitanas), de la Ley 30407, del Manual de Ejecución ITSE (CENEPRED) y de documentos del CMVP, SENASA y DIRIS. Las tablas de los índices se revisaron renderizando las páginas del PDF (no solo con extracción de texto), porque las marcas de "conforme" son gráficas.
 
 > **Advertencia:** esto no es asesoría legal. Los índices de usos citados son de 2006 a 2013 (algunos con modificaciones posteriores). Antes de firmar un alquiler, pida el **Certificado de Zonificación y Vías** o una consulta de compatibilidad de uso para el predio exacto, en la municipalidad que corresponda.
@@ -17,6 +17,7 @@
   - **La Molina:** la clínica solo es conforme en **Av. Los Constructores (CV)**. El hospital no es conforme en ninguna zona.
 - **El distrito más fácil es Santiago de Surco.** En ATN III la clínica y el hospital veterinario son conformes en CZ y CM, en las vías comerciales del índice y en toda la Panamericana Sur, la Av. República de Panamá y la Av. Santiago de Surco. En ATN I también se permiten en RDM/RDA con frente a avenida. Además, Surco tiene los derechos de trámite más bajos (TUPA actualizado a 2019).
 - **Los más difíciles son San Isidro y Miraflores** (restricción de uso casi absoluta para la clínica) y luego **La Molina** (un solo eje permitido y el trámite más caro). **San Borja queda indeterminado**: su índice (Ord. 1429-MML, modificado por Ord. 2502-2022) no estaba disponible en línea.
+- **Ampliación (28-sep-2026): Jesús María, Surquillo y Magdalena del Mar son de fricción baja.** Los tres usan el índice de usos del Área de Tratamiento Normativo II (el mismo cuadro en Ord. 1017-MML para Jesús María y Magdalena, y en el índice ATN II que aplica Surquillo por Ord. 1076-MML). En ese índice, "Clínicas para animales" y "Hospitales veterinarios" son **conformes (X) en VT, CV, CZ, CM e I-1**; el consultorio además en RDM y RDA. Ninguno tiene tope ni distancia mínima. Sus derechos de licencia (riesgo medio S/ 167 a 234) están por debajo de Miraflores, San Isidro, San Borja y La Molina.
 - A nivel nacional **no hay una norma que clasifique los establecimientos veterinarios** en consultorio, clínica y hospital con requisitos mínimos. Esa diferencia solo aparece en los índices de usos municipales (CIIU). **El DS 008-2018-MINAGRI no trata sobre veterinarias:** crea el Consejo de Recursos Hídricos de la Cuenca Pampas.
 
 ---
@@ -32,6 +33,9 @@ Los costos son derechos de trámite del TUPA vigente, en soles. Se muestra el co
 | **San Borja** | 299.50 / 445.50 (Decreto de Alcaldía 009-2023-MSB-A) | Medio: 2 d.h. (ITSE 9 d.h.). Alto: hasta 8 d.h. | **No encontrado.** El índice (Ord. 1429-MML) no está en línea y el portal munisanborja.gob.pe no respondía | La Ord. 2502-2022 modifica el índice solo para asistencia social (no toca veterinarias) | **No encontrado** (no figura en el TUPA 2023) | No encontrado | **Media (provisional)**: costo intermedio; falta verificar la compatibilidad |
 | **Santiago de Surco** | 166.20 / 308.30 (TUPA actualizado al 15-ago-2019; puede haber una versión más nueva) | Medio: 2 d.h. Alto: 8 d.h. (plazo estandarizado) | **ATN III** (Ord. 1216-MML): CZ y CM (X). Ejes viales del índice: R (solo zonas comerciales con frente a la vía). Panamericana Sur, Av. Rep. de Panamá y Av. Santiago de Surco: X. **ATN I** (Ord. 933-MML): VT, CV, CZ, CM, I-1, y RDM/RDA solo con frente a avenida | Nota metropolitana de ATN I: no se permiten actividades urbanas en departamentos de edificios multifamiliares | **No** hay registro municipal propio; usa el RENIAN nacional y lectores de microchip | **1** parque temático ("Mundo de los 4 Patas", 1,000 m²); el total de zonas caninas no se encontró | **Baja**: la clínica y el hospital son conformes en muchas zonas; costo más bajo; hay veterinaria municipal (SurcoPet) |
 | **La Molina** | 316.20 / 572.10 (Ord. 470/MDLM, AC MML, El Peruano 23-ago-2025) | Medio: 2 d.h. Alto: 8 d.h. | **Solo Av. Los Constructores (CV).** Hospital: no conforme en ninguna zona (Ord. 1661-MML) | Consultorio: CV, CZ, Av. Los Constructores, Av. Flora Tristán, Jr. 11-Las Madreselvas; Av. Javier Prado solo en centro comercial. Nota (9): no se permite en edificios multifamiliares | **Sí**, "Registro municipal de canes" (TUPA 2025) | 1 parque canino proyectado (2021); total no encontrado | **Alta**: un solo eje para la clínica y el trámite más caro |
+| **Jesús María** | 234.40 / 405.50 (TUPA 2025, Ord. 739-2025-MDJM) | Medio: 2 d.h. (ITSE posterior hasta 9 d.h.). Alto: 8 d.h. | **VT, CV, CZ, CM e I-1** (Ord. 1017-MML, Anexo 02, índice ATN II; plano de zonificación Ord. 2213-MML). Hospital: igual. No conforme en RDB, RDM ni RDA | Consultorio: también en RDM y RDA. Sin notas especiales en las filas veterinarias | **Sí**, "Registro de canes" S/ 18 (S/ 50 razas potencialmente peligrosas) | **1**, Parque de las Mascotas en el Campo de Marte | **Baja**: clínica y hospital conformes en todas las zonas comerciales; costo intermedio-bajo |
+| **Surquillo** | 167.30 / 352.70 (TUPA Ord. 485-MDS, El Peruano 7-dic-2021; la Ord. 515-MDS de 2022 no cambió estos montos) | Medio: 2 d.h. Alto: 8 d.h. | **VT, CV, CZ, CM e I-1** (índice ATN II, Ord. 1015-MML, aplicable por Art. 5 de la Ord. 1076-MML). Hospital: igual. No conforme en residencial | Consultorio: también en RDM y RDA | **Sí**, registro obligatorio de perros y gatos (Ord. 271-2012-MDS, reiterado en Ord. 558-2024-MDS) | No encontrado | **Baja**: mismo índice ATN II y el derecho de trámite más barato de los 8 distritos |
+| **Magdalena del Mar** | 226.00 / 421.00 (TUPA 2025, gob.pe; escaneado, el medio podría leerse 228.00). Hoja de requisitos del portal municipal (sin fecha): 197.90 / 425.60 | Medio: 2 d.h. Alto: 8 d.h. (Ord. 215-2024-MDMM) | **Sector ATN II** (la mayor parte del distrito): VT, CV, CZ, CM e I-1 (Ord. 1017-MML). **Sector ATN III** (zonificado junto con San Isidro por Ord. 950-MML): la municipalidad remite al índice general de 1995 (Res. 182-95-MLM-AM-SMDU), donde "Servicios de veterinaria" es conforme en las zonas comerciales y residenciales R1 a R3 | Consultorio en ATN II: también RDM y RDA | **Sí**, "Registro de canes y otros animales domésticos" y "Licencia para tenencia de canes" (TUPA 2025, págs. 464 y 466) | **1**, Parque Canino "Esperanza" (Costa Verde, 6,000 m², ago-2023) | **Baja**: índice ATN II permisivo; el sector ATN III usa un índice antiguo que conviene confirmar con Certificado de Zonificación |
 
 *d.h. = días hábiles. Plazos según el procedimiento estandarizado (el TUPA de San Isidro los describe así: riesgo medio, licencia en 2 d.h. e ITSE posterior hasta 9 d.h.; riesgo alto, ITSE en 7 d.h. más la licencia en 1 d.h., total 8 d.h.). Los TUPA de San Borja y La Molina usan los mismos plazos.*
 
@@ -44,6 +48,9 @@ Los costos son derechos de trámite del TUPA vigente, en soles. Se muestra el co
 | San Borja | 281.70 | 299.50 | 445.50 | 731.50 | [DA 009-2023-MSB-A (TUPA)](https://cdn.www.gob.pe/uploads/document/file/5370571/4808769-decreto-de-alcaldia-n-009-2023-msb-a-el-peruano.pdf?v=1699039035) |
 | Santiago de Surco | 148.80 | 166.20 | 308.30 | 479.50 | [TUPA-Licencias Surco](https://www.munisurco.gob.pe/wp-content/uploads/2022/12/TUPA-Licencias.pdf) |
 | La Molina | 285.00 | 316.20 | 572.10 | 997.50 | [TUPA La Molina 2025](https://portal.munimolina.gob.pe/wp-content/uploads/2025/09/TUPA-LA-MOLINA.pdf) |
+| Jesús María | 213.00 | 234.40 | 405.50 | 683.00 | [TUPA 2025 Licencia de Funcionamiento (MDJM)](https://www.munijesusmaria.gob.pe/wp-content/uploads/2025/08/TUPA-2025-Licencia-de-Funcionamiento.pdf) |
+| Surquillo | 145.10 | 167.30 | 352.70 | 662.50 | [Ord. 485-MDS y TUPA 2021 (gob.pe)](https://cdn.www.gob.pe/uploads/document/file/2635936/Ordenanza%20485-MDS%20y%20TUPA%202021.pdf.pdf?v=1675460870) |
+| Magdalena del Mar | n.d. | 226.00 | 421.00 | n.d. | [TUPA 2025, anexo 3, págs. 364 y 366 (gob.pe)](https://cdn.www.gob.pe/uploads/document/file/7909497/6658932-anexo-tupa-3.pdf?v=1744321780). Hoja de requisitos del portal (sin fecha): 170.50 / 197.90 / 425.60 / 726.20 ([docx](https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/requisitos/a-requisitos_y_derecho_de_tramitacion_para_solicitar_la_licencia_de_funcionamiento.docx)) |
 
 A estos montos se suma el Certificado ITSE (tasa aparte en cada TUPA). Para riesgo medio la ITSE es posterior a la licencia; para riesgo alto es previa.
 
@@ -133,6 +140,25 @@ Fuente: [Índice de usos La Molina](https://portal.munimolina.gob.pe/descargas/p
 - Hospitales veterinarios: no conforme en ninguna zona.
 - Consultorios (nota 9, *"No se permite en edificios multifamiliares"*): CV, CZ, Av. Los Constructores, Av. Flora Tristán y Jr. 11-Jr. Las Madreselvas. En Av. Javier Prado, "O" = solo en centro comercial o supermercado.
 
+### 4.7 Jesús María: Ord. 1017-MML, Anexo 02 (índice ATN II, El Peruano 16-may-2007)
+Fuente: [Índice de usos ATN II publicado por la MDJM](https://cdn.www.gob.pe/uploads/document/file/2179845/indice%20de%20usos-ANEXO_2-%20ORDENANZA_%201017_MML.pdf.pdf?v=1631649358) (pág. 345411 de El Peruano; también en el [portal municipal](https://www.munijesusmaria.gob.pe/wp-content/uploads/2021/09/2-anexo-nº-02-ordenanza-nº-1017-mml.pdf)). El plano vigente es el de la [Ord. 2213-MML (2019)](https://busquedas.elperuano.pe/normaslegales/aprueban-el-plano-de-reajuste-integral-de-zonificacion-de-lo-ordenanza-n-2213-1841268-1).
+- 85.2.0.01 Clínicas para animales: **X en VT, CV, CZ, CM e I-1**. No conforme en RDB, RDM, RDA, I-2 ni I-3.
+- 85.2.0.02 Hospitales veterinarios: igual que la clínica.
+- 85.2.0.06 Consultorios de médicos veterinarios: X en RDM, RDA, VT, CV, CZ, CM e I-1.
+- No hay observaciones de "solo existentes", ejes ni notas especiales en estas filas. Revisé las filas renderizando la página.
+
+### 4.8 Surquillo: índice ATN II (Ord. 1015-MML) aplicado por la Ord. 1076-MML
+Fuentes: [índice de usos publicado por la Municipalidad de Surquillo](http://munisurquillo.gob.pe/portal/wp-content/uploads/2016/10/ORD-1076-MML-Indice-de-usos.pdf) (pág. 55 de 58) y [Ord. 1076-MML](http://munisurquillo.gob.pe/portal/wp-content/uploads/2016/12/Ordenanza_N_1076_MML__Reajuste_Integral_de_la_Zonificacion.pdf). Su Art. 5 dice que en Surquillo rigen los índices de las ATN I y II (Ords. 933-MML y 1015-MML).
+- Clínicas para animales y Hospitales veterinarios: **X en VT, CV, CZ, CM e I-1**; no conformes en residencial.
+- Consultorios: X también en RDM y RDA.
+- La Ord. 1076-MML permite, en RDA con frente a vías metropolitanas o avenidas con separador central, destinar el 100% de una vivienda unifamiliar existente a actividades comerciales compatibles "que se señalan en el Índice" (Anexo 04, B.4). Como la clínica no figura como compatible en RDA, esa regla solo ayudaría a un consultorio.
+
+### 4.9 Magdalena del Mar: dos índices según el sector
+Fuente: [página de licencias de la municipalidad](https://munimagdalena.gob.pe/licencia-funcionamiento/), que enlaza los dos índices vigentes.
+- **Sector ATN II (Ord. 1017-MML):** es el mismo cuadro que en Jesús María: clínica y hospital X en VT, CV, CZ, CM e I-1; consultorio también en RDM y RDA ([copia municipal](https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/plan_de_zonificacion–indice_de_usos/i_AREA_DE_TRATAMIENTO_NORMATIVO_II_ORDENANZA_N_1017-MML.pdf)).
+- **Sector ATN III (zonificado con San Isidro por la [Ord. 950-MML](https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/plan_de_zonificacion%E2%80%93indice_de_usos/ord_950_MML.pdf)):** la municipalidad enlaza como índice la [Res. 182-95-MLM-AM-SMDU (El Peruano 8-oct-1995)](https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/plan_de_zonificacion–indice_de_usos/Res_182-95-MLM-AM-SMDU.pdf). Es el índice general de Lima de 1995, con la nomenclatura antigua (C1 a C9, R1 a R8). Tiene una sola fila, "512 Servicios de veterinaria", conforme en I1R, I1, I2, CE, Cln, CI, R1Se, R1S, R1, R2, R3, C1, C2, C3, C5, C7, C9 y ZHR. No distingue entre clínica, hospital y consultorio. Hay que confirmar con la municipalidad cómo aplica esa tabla a la zonificación actual; no pude verificarlo.
+- La [Ord. 215-2024-MDMM](https://busquedas.elperuano.pe/dispositivo/NL/2266855-1) (licencias) remite a la zonificación y al índice de usos, y no fija topes ni distancias.
+
 ---
 
 ## 5. Normativa sectorial común (SENASA / CMVP / DIGESA-DIRIS / Ley 30407)
@@ -166,9 +192,12 @@ Fuente: [Índice de usos La Molina](https://portal.munimolina.gob.pe/descargas/p
 | San Isidro | **Licencia de tenencia y circulación de canes** S/ 7.90 (TUPA); implementación de microchips (2021); sanciones por ruidos de mascotas originados en maltrato o encierro | 3 "Diverticanes" (2016): parques Bustamante y Rivero, Alfonso Ugarte y Talamantes | Atención veterinaria gratuita en campañas; Bolsi-can | [TUPA Salud](https://cdn.www.gob.pe/uploads/document/file/4945547/4421570-10-gerencia-de-salud-y-bienestar-social.pdf?v=1734708889), [Diverticanes](https://msi.gob.pe/portal/2016/03/17/diverticanes-zonas-exclusivas-para-mascotas-en-parques/), [Ruidos](https://msi.gob.pe/portal/2017/08/22/combatiremos-actos-de-maltrato-a-mascotas-que-generen-quejas-vecinales-por-ruidos/), [Microchip](https://msi.gob.pe/portal/2021/10/07/iniciamos-la-implementacion-de-microchips-en-mascotas/) |
 | San Borja | Registro municipal de mascotas no encontrado (no figura en el TUPA 2023) | No encontrado | Servicio "Adoptar una mascota en San Borja" (gob.pe) | [gob.pe/41662](https://www.gob.pe/41662-adoptar-una-mascota-en-san-borja), [TUPA 2023](https://cdn.www.gob.pe/uploads/document/file/5370571/4808769-decreto-de-alcaldia-n-009-2023-msb-a-el-peruano.pdf?v=1699039035) |
 | Santiago de Surco | Sin registro municipal propio: usa RENIAN, con 9 puntos de lectura de microchip. Certificación "Pet Friendly" de comercios (Jockey Plaza, Sodimac, etc.) | "Mundo de los 4 Patas" (1,000 m², primer parque de diversiones canino del Perú) | **SurcoPet**, 2 veterinarias municipales (esterilización, microchip, desparasitación a tarifa social); albergue municipal | [SurcoPet/RENIAN](https://www.munisurco.gob.pe/surcopet-y-vaguito-impulsan-el-uso-de-microchip-en-las-mascotas/), [Parque](https://www.munisurco.gob.pe/municipalidad-de-surco-inaugura-el-primer-parque-de-diversiones-canino-del-peru-denominado-mundo-4-patas/) |
+| Jesús María | **Registro de canes** S/ 18.00 (S/ 50.00 razas potencialmente peligrosas) | 1: Parque de las Mascotas (Campo de Marte), con veterinario que registra a los perros que asisten | Brigada canina municipal; campañas de vacunación en el parque | [Registro de canes](https://www.munijesusmaria.gob.pe/tramites-frecuentes/registro-de-canes/), [Tenencia responsable](https://www.munijesusmaria.gob.pe/jesus-maria-comprometido-con-la-tenencia-responsable-de-mascotas/), [Parque (RPP)](https://rpp.pe/lima/actualidad/primer-parque-canino-en-jesus-maria-es-un-exito-noticia-560608) |
+| Surquillo | Registro obligatorio de perros y gatos (Ord. 271-2012-MDS) | No encontrado | **Programa Veterinaria Municipal** (Ord. 558-2024-MDS): esterilización, vacunación, desparasitación y atención integral en un local de 65.94 m² en Av. Tomás Marsano con Av. Angamos Este | [Ord. 558-2024-MDS](https://busquedas.elperuano.pe/api/visor_html/2357020-1) |
+| Magdalena del Mar | "Registro de canes y otros animales domésticos" y "Licencia para tenencia de canes" (TUPA 2025) | 1: Parque Canino "Esperanza" (Costa Verde, 6,000 m², inaugurado el 5-ago-2023, abierto 24 h de martes a domingo; ampliación prevista de 8,000 m²) | Campañas municipales | [TUPA 2025 (gob.pe)](https://www.gob.pe/institucion/munimagdalena-lima/informes-publicaciones/6658932-texto-unico-de-procedimientos-administrativos-tupa-2025), [Parque (gob.pe)](https://www.gob.pe/institucion/munimagdalena-lima/noticias/814092-magdalena-del-mar-ya-cuenta-con-el-primer-parque-canino-del-pais-de-mas-de-6-mil-metros-cuadrados-para-recreacion-de-las-mascotas-fue-ina) |
 | La Molina | **Registro municipal de canes** y licencia de can potencialmente peligroso S/ 26.70 (TUPA 2025) | 1 parque canino de 400 m² proyectado (abr-2021); total no encontrado | **Nueva veterinaria municipal** inaugurada el 3-sep-2026 (MUSA, sector 6: consultas, laboratorio, ecografía, albergue temporal); campañas de esterilización | [TUPA](https://portal.munimolina.gob.pe/wp-content/uploads/2025/09/TUPA-LA-MOLINA.pdf), [Pet friendly](https://portal.munimolina.gob.pe/la-molina-camino-a-ser-un-distrito-ecoamigable-y-pet-friendly/), [Vet municipal](https://portal.munimolina.gob.pe/municipalidad-de-la-molina-inaugura-nueva-veterinaria-municipal-para-fortalecer-atencion-y-bienestar-de-mascotas-en-la-molina/) |
 
-**Nota competitiva:** Miraflores (MIRAVET), Surco (SurcoPet) y La Molina (veterinaria municipal de 2026) tienen **veterinarias municipales a costo social**, que compiten en servicios básicos: vacunas, esterilización y microchip.
+**Nota competitiva:** Miraflores (MIRAVET), Surco (SurcoPet), La Molina (veterinaria municipal de 2026) y Surquillo (Programa Veterinaria Municipal, Ord. 558-2024-MDS) tienen **veterinarias municipales a costo social**, que compiten en servicios básicos: vacunas, esterilización y microchip.
 
 ---
 
@@ -185,6 +214,11 @@ Fuente: [Índice de usos La Molina](https://portal.munimolina.gob.pe/descargas/p
 - **Registro de mascotas de San Borja y de Surco:** no figura en el TUPA de San Borja 2023 ni en la sección de licencias del TUPA de Surco; busqué también en noticias municipales y en gob.pe.
 - **Número total de parques caninos** en Surco, La Molina y San Borja: solo encontré notas puntuales.
 - **Una norma de categorización de establecimientos veterinarios y un reglamento de la Ley 30407 para clínicas:** no existen, o no los encontré; revisé la Ley 30407, SENASA, CMVP y MIDAGRI.
+- **Ampliación 28-sep-2026:**
+  - Magdalena del Mar: el TUPA 2025 está escaneado sin capa de texto. Leí los montos renderizando las páginas 364 y 366, y el derecho de riesgo medio puede ser 226.00 o 228.00 (resolución baja). No hallé el derecho de riesgo bajo ni el de muy alto en ese TUPA. El portal munimagdalena.gob.pe rechaza conexiones directas (se leyó vía WebFetch).
+  - Magdalena, sector ATN III: no sé cómo se traduce el índice de 1995 a la zonificación vigente (Ord. 950-MML). Hay que confirmarlo con Certificado de Zonificación.
+  - Parques caninos de Surquillo: no encontrados. Jesús María y Magdalena: solo encontré un parque en cada uno; puede haber más zonas caninas en parques vecinales.
+  - Surquillo: el TUPA de licencias vigente es el de la Ord. 485-MDS (2021). No encontré una actualización posterior de esos montos.
 - **Nota de proceso:** se agotó el límite de búsquedas web de la sesión. Los datos finales se obtuvieron descargando directamente los documentos oficiales y usando los buscadores internos de los portales municipales.
 
 ---
@@ -290,6 +324,70 @@ Fuente: [Índice de usos La Molina](https://portal.munimolina.gob.pe/descargas/p
         "https://portal.munimolina.gob.pe/municipalidad-de-la-molina-inaugura-nueva-veterinaria-municipal-para-fortalecer-atencion-y-bienestar-de-mascotas-en-la-molina/"
       ]
     },
+    "Jesús María": {
+      "license_cost_soles": 234.40,
+      "license_cost_high_risk_soles": 405.50,
+      "license_days": 2,
+      "zoning_allowed": ["VT", "CV", "CZ", "CM", "I-1"],
+      "zoning_allowed_consultorio": ["RDM", "RDA", "VT", "CV", "CZ", "CM", "I-1"],
+      "zoning_allowed_note": "Índice ATN II (Ord. 1017-MML, Anexo 02); plano Ord. 2213-MML. Clínica y hospital veterinario conformes en VT, CV, CZ, CM e I-1; no conformes en RDB/RDM/RDA.",
+      "cap_exists": false,
+      "cap_note": "Sin tope numérico ni distancia mínima. Las filas 85.2.0.01, 85.2.0.02 y 85.2.0.06 del índice ATN II no tienen observaciones ni restricciones por eje.",
+      "pet_registry": true,
+      "dog_parks": 1,
+      "friction": "Baja",
+      "sources": [
+        "https://www.munijesusmaria.gob.pe/wp-content/uploads/2025/08/TUPA-2025-Licencia-de-Funcionamiento.pdf",
+        "https://www.munijesusmaria.gob.pe/tramites-frecuentes/licencia-de-funcionamiento/",
+        "https://cdn.www.gob.pe/uploads/document/file/2179845/indice%20de%20usos-ANEXO_2-%20ORDENANZA_%201017_MML.pdf.pdf?v=1631649358",
+        "https://busquedas.elperuano.pe/normaslegales/aprueban-el-plano-de-reajuste-integral-de-zonificacion-de-lo-ordenanza-n-2213-1841268-1",
+        "https://www.munijesusmaria.gob.pe/tramites-frecuentes/registro-de-canes/",
+        "https://rpp.pe/lima/actualidad/primer-parque-canino-en-jesus-maria-es-un-exito-noticia-560608"
+      ]
+    },
+    "Surquillo": {
+      "license_cost_soles": 167.30,
+      "license_cost_high_risk_soles": 352.70,
+      "license_days": 2,
+      "zoning_allowed": ["VT", "CV", "CZ", "CM", "I-1"],
+      "zoning_allowed_consultorio": ["RDM", "RDA", "VT", "CV", "CZ", "CM", "I-1"],
+      "zoning_allowed_note": "Índice ATN II (Ord. 1015-MML) aplicable por Art. 5 de la Ord. 1076-MML (zonificación de Surquillo). Clínica y hospital veterinario conformes en VT, CV, CZ, CM e I-1.",
+      "cap_exists": false,
+      "cap_note": "Sin tope numérico ni distancia mínima en el índice ni en el TUPA (Ord. 485-MDS). Surquillo tiene veterinaria municipal (Ord. 558-2024-MDS).",
+      "pet_registry": true,
+      "dog_parks": null,
+      "friction": "Baja",
+      "sources": [
+        "https://cdn.www.gob.pe/uploads/document/file/2635936/Ordenanza%20485-MDS%20y%20TUPA%202021.pdf.pdf?v=1675460870",
+        "https://cdn.www.gob.pe/uploads/document/file/4090140/Ordenanza%20515-MDS%20y%20TUPA%202022.pdf.pdf",
+        "http://munisurquillo.gob.pe/portal/wp-content/uploads/2016/10/ORD-1076-MML-Indice-de-usos.pdf",
+        "http://munisurquillo.gob.pe/portal/wp-content/uploads/2016/12/Ordenanza_N_1076_MML__Reajuste_Integral_de_la_Zonificacion.pdf",
+        "https://busquedas.elperuano.pe/api/visor_html/2357020-1"
+      ]
+    },
+    "Magdalena del Mar": {
+      "license_cost_soles": 226.00,
+      "license_cost_high_risk_soles": 421.00,
+      "license_days": 2,
+      "zoning_allowed": ["ATN II: VT, CV, CZ, CM, I-1", "ATN III (índice 1995): zonas comerciales C1-C9 y residenciales R1-R3"],
+      "zoning_allowed_consultorio": ["ATN II: RDM, RDA, VT, CV, CZ, CM, I-1"],
+      "zoning_allowed_note": "Sector ATN II: Ord. 1017-MML. Sector ATN III (zonificado con San Isidro por Ord. 950-MML): la municipalidad remite a la Res. 182-95-MLM-AM-SMDU (índice general de 1995, fila '512 Servicios de veterinaria'); confirmar con Certificado de Zonificación.",
+      "cap_exists": false,
+      "cap_note": "Sin tope numérico ni distancia mínima (índice ATN II y Ord. 215-2024-MDMM de licencias). Derecho de riesgo medio leído de un TUPA escaneado: 226.00 (podría ser 228.00).",
+      "pet_registry": true,
+      "dog_parks": 1,
+      "friction": "Baja",
+      "sources": [
+        "https://cdn.www.gob.pe/uploads/document/file/7909497/6658932-anexo-tupa-3.pdf?v=1744321780",
+        "https://www.gob.pe/institucion/munimagdalena-lima/informes-publicaciones/6658932-texto-unico-de-procedimientos-administrativos-tupa-2025",
+        "https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/requisitos/a-requisitos_y_derecho_de_tramitacion_para_solicitar_la_licencia_de_funcionamiento.docx",
+        "https://munimagdalena.gob.pe/licencia-funcionamiento/",
+        "https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/plan_de_zonificacion–indice_de_usos/i_AREA_DE_TRATAMIENTO_NORMATIVO_II_ORDENANZA_N_1017-MML.pdf",
+        "https://www.munimagdalena.gob.pe/storage/licencia_funcionamiento/plan_de_zonificacion–indice_de_usos/Res_182-95-MLM-AM-SMDU.pdf",
+        "https://busquedas.elperuano.pe/dispositivo/NL/2266855-1",
+        "https://www.gob.pe/institucion/munimagdalena-lima/noticias/814092-magdalena-del-mar-ya-cuenta-con-el-primer-parque-canino-del-pais-de-mas-de-6-mil-metros-cuadrados-para-recreacion-de-las-mascotas-fue-ina"
+      ]
+    },
     "_common_sources": [
       "https://busquedas.elperuano.pe/normaslegales/ley-de-proteccion-y-bienestar-animal-ley-n-30407-1331474-1",
       "https://www.midagri.gob.pe/portal/decreto-supremo/ds-2018/21790-decreto-supremo-n-008-2018-minagri",
@@ -310,4 +408,5 @@ Fuente: [Índice de usos La Molina](https://portal.munimolina.gob.pe/descargas/p
 - `license_cost_soles` corresponde a riesgo **medio**, el escenario base según la matriz CENEPRED; `license_cost_high_risk_soles` corresponde a riesgo alto, el escenario con hospitalización o más de 750 m².
 - `license_days` es el plazo para riesgo medio. Para riesgo alto, el plazo es de 8 días hábiles en todos los distritos.
 - `zoning_allowed` se refiere a "Clínicas para animales" (CIIU 85.2.0.01).
+- Para Jesús María, Surquillo y Magdalena, `zoning_allowed` lista las zonas del índice ATN II. En Magdalena se añade el sector ATN III según el índice de 1995.
 - `pet_registry: false` en San Borja y Surco significa "no encontrado", no "confirmado inexistente". Surco usa el RENIAN nacional.

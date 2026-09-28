@@ -1,0 +1,587 @@
+{
+ "id": "ChIJfQgmIrDJBZERkYmvJXk0JQo",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "medical_lab",
+  "medical_clinic",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "970 109 722",
+ "internationalPhoneNumber": "+51 970 109 722",
+ "formattedAddress": "Av Ricardo Tizón y Bueno 499, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "499",
+   "shortText": "499",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Ricardo Tizón y Bueno",
+   "shortText": "Av Ricardo Tizón y Bueno",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Fund Oyague",
+   "shortText": "Fund Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.078638699999999,
+  "longitude": -77.051203
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=731048209445521809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 38,
+ "displayName": {
+  "text": "Veterinaria Yupi Blu",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Ricardo Tizón y Bueno 499, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kYVZIZERValJ1YVVwWWFWQnVWWFZMYWtveGNXYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "La atención en Yupi Blu es de calidad. Mi Shiro se hizo la castración; el Dr. Eduardo fue muy paciente con mi gatito, ya que él es inquieto, y lo atendió con mucho cariño. El proceso de recuperación de mi Shiro fue rápido y sin complicaciones, y la veterinaria estuvo al pendiente en todo el proceso.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención en Yupi Blu es de calidad. Mi Shiro se hizo la castración; el Dr. Eduardo fue muy paciente con mi gatito, ya que él es inquieto, y lo atendió con mucho cariño. El proceso de recuperación de mi Shiro fue rápido y sin complicaciones, y la veterinaria estuvo al pendiente en todo el proceso.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mónica Ayuque Zambrano",
+    "uri": "https://www.google.com/maps/contrib/110738734327696194813/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDbnazbJSB5lWUmhvE9Avekcy3IGV1bOLTvdl_SfLXaXnnZw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-12T16:10:00.445746158Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kYVZIZERValJ1YVVwWWFWQnVWWFZMYWtveGNXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kYVZIZERValJ1YVVwWWFWQnVWWFZMYWtveGNXYxAB!2m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WE0zVlpkbGx1UWs1TVdWQndOSEpOY1Znd2QzYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente Veterinaria , Canelita se atiende allí desde los 2 meses . Hoy en día Canelita tiene 2 años y  siempre  ha recibido la mejor atención ❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente Veterinaria , Canelita se atiende allí desde los 2 meses . Hoy en día Canelita tiene 2 años y  siempre  ha recibido la mejor atención ❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lucero Ramos Palacios",
+    "uri": "https://www.google.com/maps/contrib/109652264373518521863/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwbrzCIljwfcb1ACqK-UwkrBQxIjPcK2OKUoZaTyy_KLLgp4I=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-01T20:06:45.357928263Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WE0zVlpkbGx1UWs1TVdWQndOSEpOY1Znd2QzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WE0zVlpkbGx1UWs1TVdWQndOSEpOY1Znd2QzYxAB!2m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT204MmFrVlJhM2N0WVRCb09UbDVRVEpwYW5CWVYxRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "El Dr Eduardo es lo máximo, mucha paciencia y amor con los peluditos, hay ecografias, baños, hacen cirugías de todo para nuestros amados peluditos, SUPER RECOMENDADA, ya toca volver para engreir, a mi BB",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr Eduardo es lo máximo, mucha paciencia y amor con los peluditos, hay ecografias, baños, hacen cirugías de todo para nuestros amados peluditos, SUPER RECOMENDADA, ya toca volver para engreir, a mi BB",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patty Mora",
+    "uri": "https://www.google.com/maps/contrib/112641655752080776387/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLwJzaDqOZ6tvWahtaFl3adCjgfj6RhK8ogyudaxYkzidrZXg=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-05-27T03:24:39.373502341Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204MmFrVlJhM2N0WVRCb09UbDVRVEpwYW5CWVYxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204MmFrVlJhM2N0WVRCb09UbDVRVEpwYW5CWVYxRRAB!2m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkTVJtRmxVVlp5UVhOaGRHdGlXRkpUY2xCeU5HYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Solo puedo decir que en Yupi blu atienden a mi Lalita con mucho amor y profesionalismo, es nuestra veterinaria de confianza para todo lo que mi Lala necesita, sus baños, cortes de pelo, vacunas, profilaxis dental y su esterilización (que le realizaron a comienzos de este año), lo super recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Solo puedo decir que en Yupi blu atienden a mi Lalita con mucho amor y profesionalismo, es nuestra veterinaria de confianza para todo lo que mi Lala necesita, sus baños, cortes de pelo, vacunas, profilaxis dental y su esterilización (que le realizaron a comienzos de este año), lo super recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Coronado",
+    "uri": "https://www.google.com/maps/contrib/106012000337734612989/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFGBSSp4t19JL2SKnEHEfzrXkzb6GVM0KLRoILxpHJqDTTpQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-08-02T18:13:19.658852430Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkTVJtRmxVVlp5UVhOaGRHdGlXRkpUY2xCeU5HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkTVJtRmxVVlp5UVhOaGRHdGlXRkpUY2xCeU5HYxAB!2m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UFp6UmlURVJuUjFaSlNrMURkV2RaV1VaU01VRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen servicio. Nos dieron un trato realmente amable y el veterinario se ha vuelto de confianza. Un éxito!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen servicio. Nos dieron un trato realmente amable y el veterinario se ha vuelto de confianza. Un éxito!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Enrique Agustin De La Cruz",
+    "uri": "https://www.google.com/maps/contrib/103154329616670836826/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9tukdNVT1IpxbTyY2bUZY0bjWGMOIk7EyCCI0o_9pIg0U4A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-12T15:48:02.154288168Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UFp6UmlURVJuUjFaSlNrMURkV2RaV1VaU01VRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UFp6UmlURVJuUjFaSlNrMURkV2RaV1VaU01VRRAB!2m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMZsu1tX6hMAOndc7eFjB24DiRYtbhzJnUiD_MqVhmR_42R9pTcFUqr-dzvq2V84Ss8jEjL9hEEqZ7BiFC3hFhcVXuEvM8xZALJVfZUYIQtWe7ynNkt6eCe58s__ucfj1Cowgjs24pLn0AkKuEhryb749Z_G5YEumRpxQCLi27x-KlirkXpB0OZtr9g15P4RMXKKdH2Y3lHhs4HmDAzqNaIyqdsej7eeosBgDi2pcQ-Eeg5IJPGAKSSUrAHZHuLmnkn5K-qsXvbLAsqIIWxFPGpKz4asEKIIYDersd0hGRxYEcEQ9bdGZfFz2XBCcHBh2BOV6PXYnV903tzfcs_NymGqWGxyMNu12MA7RX3HChewNwJoj2lgYbWlR7Eud9nHL-nNv7ufhDiyj40m1GTLWaeeHDDLkJMj5L0wvL-KXzAoNw",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Yupi Blu",
+     "uri": "https://maps.google.com/maps/contrib/107385086929438320496",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKurAK62dHcNkwMl1cAR8saPawCCyFy-NMM14BGAL_tOz1XJg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDe0OLHeg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe0OLHeg!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMbce-fm8cKsW04WWPbEN5e0FlCkjgcO9QbSqvS2JLJxlUkL5E0HpVGupSDOnRk4diZGW4bNo0NrDWH6bEhOnGIQAWe8Bdv0n4gO1ZfN9p3Aqx06e9sh-c2vLfQ2IGJA0L3k67TJyDfiTRXym0VPCfHbFxGnsHbm34oacaEsy05WCA9HFzW41m3zXLi2WQXEa7tkkAq7qFyp8TP5zf2PlHKhv22Oi8tasTIwmSQPKV15uhi7IhwLEBEmLDwx9qrwS3eIKTrSPsLZKHD0ii5uVmw1c8XMYk6abDnZYyJz_XMuQx2QDpfchxPBRpTIr5n8LbhunqBgnpUQU-Hp3N5IygGPTSG_a7yTHinx9eYM2A2HdGYCLHnU-rc9-ZH2kxMdKJ55nTy-BMtZhJqRnrCvSHsiMeAUsCv0RsUbjKnlu72CJg",
+   "widthPx": 1024,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Yupi Blu",
+     "uri": "https://maps.google.com/maps/contrib/107385086929438320496",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKurAK62dHcNkwMl1cAR8saPawCCyFy-NMM14BGAL_tOz1XJg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDt2onSFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDt2onSFg!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMZC8B6Kuz0f2gR37OZr99TM9-Zv_1Q2KK5eVXur3gVwtjn_a-JBNeewFQGRUJMNwNPKpSIqcpi93CMkfnLYiT5M71r2N3s2Z_dxkCEQYk2jLBHIgKnrJ6kuuxsPJ-GRvowWolDc6JEFFtgLkcc9EAKR_dhrUBaLfBeipy9GY2cekaIb4yPggwG6re4vP_vg2A4mGhdN96NWvVHwfNXC6eifxKS0dipHiMhPMQ-kdwxOfdASCMHSJGmgJUsux6DAP_QL6ur1aLvqDUp6-bYO-Ct9SeZJGmIt8sJlHkXTlGDdrpU-qbiInL2_b4H-PsW8l9CMutsotw-mCs4MdKOVzvHe8cNuLgEv-ienOXgVwLOxP4UztB2vKI_YoFiFjeCpbJkk0ax_mtYwLkSVOlMxWbjQEXtfzWCNNe-wXdlPwFo",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Yupi Blu",
+     "uri": "https://maps.google.com/maps/contrib/107385086929438320496",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKurAK62dHcNkwMl1cAR8saPawCCyFy-NMM14BGAL_tOz1XJg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDe0OLdXg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe0OLdXg!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMa5mC9Crb5EqN8Xywp_9sX_Qe1LzoToE7qe_aP0AE88UK_m-SizPJD2_fSgiCYJ6X8m59fy9zvLEbv5rsppUzW1gOZ0zpNOru05Bux43qDZl4EJ_TnXNm4ek5qDHbb5uRvkE1f1sIMhi3kqM5tKWauGCi2GwPYA2tz7Yc6FY1ul6SKuJsw8B7AOmboFAW7ogvVfmkl5dzWZhkpNt2htt0MnjWNBBnHtCJ7T-Wya4cVBdYmYPxTFzgh8DNaCCV-MiB5nFkVnsx2-zleDk-T7XMqE1vPZ-wW6k43OpFsrIkd85sJp8o4XNQ0WgexQuKvgirbHOPP9jPM2NU19lCi0L8S7o7Cp09PKWVx2ZlKYfzqDeAFUoUOl9A4qrvSFldXJEsdwLnLf0-7aeUNuXouN6uoAVXWPtVigqnIRIRLYbBZIzQ",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Lipari",
+     "uri": "https://maps.google.com/maps/contrib/106450255876794680850",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0T8_qdk2W3qbT-DRuMU-7LLEzaf0M6M49HRpONEv7Vn9Hyvo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu64m1bQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu64m1bQ!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMYmDLxy4ZbuvG6kAo3bqZgI9AsUfij0oECyL4GtxuASFKXyLw2dhB6gH2zWvZcJaEM7d2yh_-lGHVIW4gcKDCCHmkeuT8PH9_mSu_ojpQFOyE5b3-sYGLn5alD87Iv2Q8nbozxhRnooJK96vzgDJEs2KwXEALVgpVG0bFg0HQsNHsTteLIr1MEzteBwDpUV4UMlaFz-vjoLY5fCwgkajFC4E6hU85yV7WmvBk2e_wYvY_UDyqt3u0Cf86teKtFPsta277voKJyBJ753leqe7ER1zsJQkwhG97k64u7K74xkFblG594ZsKRInNXN1clXBUVVWZzIhMVmnBNAQuThmi2_-VgK-lwhr1ao56jv-DSj-cbfXa0dYxykXJ-YqgJ8rDM7S8xwiSvT-AyIiCx8-SWnXL47CsxgqM45Upv7ClttOg",
+   "widthPx": 1024,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Lipari",
+     "uri": "https://maps.google.com/maps/contrib/106450255876794680850",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0T8_qdk2W3qbT-DRuMU-7LLEzaf0M6M49HRpONEv7Vn9Hyvo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu64mzag&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu64mzag!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMaYSIXBq-5TmqEnC_0eZjBWsmlN7SneoEvAwlAuUmiN_a4a0ZoQiWDmlBAvVkKDblEkbnG8wBkB1moqRe1o3pgWHxMhgTuZ3XBz5hrbRJlZ6cXLmaTNyzQqhBy4DDd3r5zB1z1iOBuVURHD0oi9Dt8gG8gNpGbMX6nLWHNkZuz3Y-fUB0VYgT-2WMrzrJsE8o1nAWa0LOnlasa4BV5_h1Xcard-eTBwVP9NPjDYWi9eYJBA3tbQTYCqKyKXQ-gl_abbqIkblvonYjT6gsujPNUjA6mXSQGrurKypudnVSIHxJP1uIux3pZLMcphBdOvxaG7OHc9VZJZC547qoRJfZOo5vff6le1em5z6U-0WcndC2goQYy1NVxteyuiHgOEOLz4fPlSqpm4PWkO8sXhsuY-9bYJ9WnQ8Un9muCHSmb94kSM--zzte-9D2FLO2aW",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Lucero Ramos Palacios",
+     "uri": "https://maps.google.com/maps/contrib/109652264373518521863",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwbrzCIljwfcb1ACqK-UwkrBQxIjPcK2OKUoZaTyy_KLLgp4I=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD6IizSi4p-XA6t9ji9xNR0&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD6IizSi4p-XA6t9ji9xNR0!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMY7NoPiqNaEo_BgHir4MlvISHQxXFbhAAcQ8YstA3yDa0PPHv5IgBDFPCSTluOV4uBynyRnEk2eyIv5LGbrIF9SLKcBk574b6KjSP4BhyNG3uJvw3qs_GPujCzKL46P6Du5AUGPIum98NCFGlAeokPOdgLW4omuwHLuxBKYpnt6fpC3pvsVPNBfYPXqNS1WBEuj9wpist4W-uoS4OnBA0KGUcxqdtMVZlLBDmPpYzM2cuqXtvxebqcbV2Itf-4daO9QA_J2UMhSJarOObMqZsry5OvnHDDTU1RNkAC1nq-iMu4sdCVWBN-rercCxWUASGo9jPP-C8TQ05T_M-hoeuBx_3oTnZsI4EMaVnExNDvxCVv3d0tqrLUd9HYdUf6uWtgqfE2fhZwZrVyO19Ue_naS5kuNGgtiQjW4qr3JchCZCw",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Lipari",
+     "uri": "https://maps.google.com/maps/contrib/106450255876794680850",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0T8_qdk2W3qbT-DRuMU-7LLEzaf0M6M49HRpONEv7Vn9Hyvo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu68m8Pw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu68m8Pw!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMaB9-VvVbCg-eN-VsHOCpOvrXp-C5TgS0iRzBFn89TRB0rqITmyHR7sKQc-7ZcPQm0tjhF3XmdJln7ueYT_f4bllWdb6qhyOq-xNIJR3ET1JEcgLpy3zS_-Dihu5idwAYuuqInbF2NgjHyXTKuCVcYnOmq_IzWhgqGoG8q-ghxPHqd2vtRxJR1WOKm_WDYnjPL1_PgC80vhcSbYuH0FBC3baOXKVToGm5L6UX_6RtIRfufeMDS0drdxrRge4qt0PoD1h0y_jPx2bm5iDfsLAbg4MYG2w0rRqASEX3u_7vKCJ-8mZ16LhrdRMO0fDS9UnhnGPV1klOn88C5tyKAuxsNCfxgnvrSIQdPR16nuiRIIqjQqCxC3koMm36i8oPK1XxfP0muO4j8GjhfpN9H-nPxlkNZYf_Em0ND93J-ZHxh5IU1Z",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Lipari",
+     "uri": "https://maps.google.com/maps/contrib/106450255876794680850",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0T8_qdk2W3qbT-DRuMU-7LLEzaf0M6M49HRpONEv7Vn9Hyvo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuufzG7gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuufzG7gE!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMYwGQjH2HiDpJHQBLe4M3HjTMp0PAKPBxm-WrSbUMDySqNM7sQ-le-nsSdlc8IWvbWCVQcGBlmhyFfVQXxo-p6sZPxXiuS_Odo5AQ1KEO0Y0F4KheAcVvScxvMux2V7RSr3pYCnRhZ2YrWxHxDFQCNkLyHzEpHCHplXXXqKS6MkX2uqrbQq1OPrfLKzNzWvGdPzLDS6ehDF3L7XAPHetacJtt1Chn5zkRkFN64FcXxfqjfq4xvwvX0ju4-Kvugexopj7FXPDOnThpe_y-3Ad_ZbFFy_KuH_a1TemsY6oW8AxsZ4rIxSq827tjMy_8o-5Q75M0i7TOFpiZQIFm68rf_f1UNsXXFKSgGKFrHU1r3ryy9kaClRN0B1moY7f5cOLL-k2tNPkVoLQeBn-xv4QW5mpOVPXa0e078__ApNKcrO0edyUMJRrWnOoSsudptr",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pamela Coronado",
+     "uri": "https://maps.google.com/maps/contrib/106012000337734612989",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFGBSSp4t19JL2SKnEHEfzrXkzb6GVM0KLRoILxpHJqDTTpQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDAXxaBL_YMobCWLjFoPvhL&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDAXxaBL_YMobCWLjFoPvhL!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  },
+  {
+   "name": "places/ChIJfQgmIrDJBZERkYmvJXk0JQo/photos/Aa-ngMYHBwvLh7gBog8vgkZfu6udswfZEU6KUejiCJazIP6Hqgx1A18xkmrqZCiB6XbQzL_sqs0Zy8OYfqnprF26npdnQJnASEKg2S1CqIXexX9YJhDv83y9ueIG7frjKLFJAW9x7TNA2EnznRw6KzJa-hfg9alMiwgmn3OwGqUKF-Znxzw31ecBszYZmZmO-zGsJfSWkO10N_T0yTi0jhcDXGxg2n_i-5ajkXJHsVl_91WzED8ZTeRqImB7Ys_BehCTuw0d54bUAELToIGD1jtnrdV7QL_eOWzBCJLlravma_iQBQejIO2OSTcOkIAFpInD9Er1jS1AqAaBhhr2cYZ6x84-BzHoRytJq9gj2aSlmqkTI6gzBEgaumttUaiBghxzHv_vZHwNSDyQ2sZKhW7CP7TQI6osruI5-5O2nV_RWv2q8tPU",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Eduardo Lipari",
+     "uri": "https://maps.google.com/maps/contrib/106450255876794680850",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0T8_qdk2W3qbT-DRuMU-7LLEzaf0M6M49HRpONEv7Vn9Hyvo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDu64mhnwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDu64mhnwE!2e10!4m2!3m1!1s0x9105c9b02226087d:0xa25347925af8991"
+  }
+ ]
+}

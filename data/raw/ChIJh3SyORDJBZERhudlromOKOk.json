@@ -1,0 +1,525 @@
+{
+ "id": "ChIJh3SyORDJBZERhudlromOKOk",
+ "types": [
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "920 694 244",
+ "internationalPhoneNumber": "+51 920 694 244",
+ "formattedAddress": "Av Antonio José de Sucre 1212, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "1212",
+   "shortText": "1212",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Antonio José de Sucre",
+   "shortText": "Av Antonio José de Sucre",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res Oyague",
+   "shortText": "Res Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0873829,
+  "longitude": -77.0687336
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=16800835131893213062&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/Clinica-Veterinaria-ICAZA-1405533966429796/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 167,
+ "displayName": {
+  "text": "Clínica Veterinaria Icaza",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Antonio José de Sucre 1212, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhN2FfRHFRRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta la atención y el dermatólogo es muy bueno bueno su trabajo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta la atención y el dermatólogo es muy bueno bueno su trabajo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bianca Minaya",
+    "uri": "https://www.google.com/maps/contrib/115128197880102430012/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI5yRqK6nKPKn_YJNQLzv6FduDJx6oyfYvmHgFHb13BsYQqUgRjA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2021-08-07T03:20:42.812037Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNhN2FfRHFRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhN2FfRHFRRRAB!2m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4eFpYZWpnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "La atención de la recepcion es amable y el dr Icaza escucha con atención y realiza las preguntas con interés y brinda una consulta completa. Su diagnóstico fue acertado y volveremos para continuar con el tratamiento.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención de la recepcion es amable y el dr Icaza escucha con atención y realiza las preguntas con interés y brinda una consulta completa. Su diagnóstico fue acertado y volveremos para continuar con el tratamiento.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Milagros Ruiz Neira",
+    "uri": "https://www.google.com/maps/contrib/102894108300190544259/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISdBPZzlMbnpmPnqBh7IkJeqBRUWKHX4eXR4cfD7bKJXkcYA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-06-12T05:50:07.806279Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR4eFpYZWpnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4eFpYZWpnRRAB!2m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/reviews/ChdDSUhNMG9nS0VJQ0FnSURJZ1BtbTJ3RRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Hace poco nuestra engreída pasó por una fuerte infección y el Dr. Icaza y el personal estuvieron pendientes de ella en todo momento, durante su internamiento, recuperación y controles. No por gusto es su veterinario desde que ella tenía seis meses. Estamos muy agradecidos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace poco nuestra engreída pasó por una fuerte infección y el Dr. Icaza y el personal estuvieron pendientes de ella en todo momento, durante su internamiento, recuperación y controles. No por gusto es su veterinario desde que ella tenía seis meses. Estamos muy agradecidos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karim Ruiz",
+    "uri": "https://www.google.com/maps/contrib/109651695308014476544/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzh3aRYzPAnge5yx427PEGcaHihbhG9g-Ufvs3QnmnAbY6FQMF-w=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2018-12-23T20:29:36.997272198Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURJZ1BtbTJ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJZ1BtbTJ3RRAB!2m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/reviews/ChdDSUhNMG9nS0VJQ0FnTURBejh6Snh3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena experiencia, profesionales super empaticos y buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena experiencia, profesionales super empaticos y buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marisol miyoko",
+    "uri": "https://www.google.com/maps/contrib/113446081049933972553/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6hZl5xWVkxeUIh5qzX4Fzz3waotkIaW4kk-KzG5MkumSTv7X9=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-12T18:02:24.797794Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBejh6Snh3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBejh6Snh3RRAB!2m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcm8ybXBRRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Fui clienta de esta veterinaria por 4 años. Al inicio todo bien me pareció de maravilla el buen trato hacia mi mascota(perro), iba por consultas simples vacunaciones y baño/corte y además tenía buenos precios. Sin embargo con el paso de los años surgió una inflación tremenda y al día de hoy por lo menos todos sus servicios cuestan 40% más comparado al primer año (excepto baño/corte), pero eso no era una barrera para mí y continuaba siendo una clienta fiel. Mi pensamiento fue cambiando en este último año que mi mascota ha tenido más problemas, muchas pruebas de diagnósticos casi cada mes y uno de los tratamientos recientes que querían hacerle era el uso de fenobarbital (droga anticonvulsiva designado a perros epilépticos), mi perra no tenia diagnóstico de epilepsia pero querían usar la droga como anticonvulsiva por tener 2 episodios en un periodo de 8 meses, dude mucho de eso y para confirmar fui a consultar un neurólogo veterinario que me afirmó que ese no era el protocolo a seguir y me dio la razón en negar ese tratamiento. Por otro lado, un día decidí hacerle una profilaxis dental y al día siguiente orinaba sangre cual me dijeron es muy raro y me sugirieron una ecografía y luego un examen de orina, en el examen de orina interpretaron que podía tener enfermedad renal y que sugiere un examen de sangre para confirmarlo. Por todo lo último que ha pasado comencé a dudar de todo, entonces llevé mi mascota a Estados Unidos y les entregué el análisis de orina de Perú y me dijeron que no tenía nada relacionado a enfermedad renal. Habían un par de datos que en Icaza decían es anormal y aquí en USA me explicaron con manzanitas para que entienda que era normal y no había preocupación de enfermedad renal ni más pruebas de diagnóstico necesarias para aquello y además me dieron a entender que la ecografía no era necesaria a menos que se detectara algo anormal en el examen de orina ( en Icaza fue al revés, primero ecografía y luego de unos días ex. de orina). En conclusión, en un solo año de servicios en Icaza he gastado unos 3 mil soles sin llegar a diagnósticos correctos y puros exámenes con interpretaciones erradas es por eso que si aman a sus mascotas y tienen cosas más complicadas no recomendaría a esta veterinaria, sin embargo debo aceptar que el servicio de dermatología es lo único bueno de este lugar.\nY para agregar el veterinario Jesús Gonzales no aparece en el registro del colegio veterinario del Peru.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui clienta de esta veterinaria por 4 años. Al inicio todo bien me pareció de maravilla el buen trato hacia mi mascota(perro), iba por consultas simples vacunaciones y baño/corte y además tenía buenos precios. Sin embargo con el paso de los años surgió una inflación tremenda y al día de hoy por lo menos todos sus servicios cuestan 40% más comparado al primer año (excepto baño/corte), pero eso no era una barrera para mí y continuaba siendo una clienta fiel. Mi pensamiento fue cambiando en este último año que mi mascota ha tenido más problemas, muchas pruebas de diagnósticos casi cada mes y uno de los tratamientos recientes que querían hacerle era el uso de fenobarbital (droga anticonvulsiva designado a perros epilépticos), mi perra no tenia diagnóstico de epilepsia pero querían usar la droga como anticonvulsiva por tener 2 episodios en un periodo de 8 meses, dude mucho de eso y para confirmar fui a consultar un neurólogo veterinario que me afirmó que ese no era el protocolo a seguir y me dio la razón en negar ese tratamiento. Por otro lado, un día decidí hacerle una profilaxis dental y al día siguiente orinaba sangre cual me dijeron es muy raro y me sugirieron una ecografía y luego un examen de orina, en el examen de orina interpretaron que podía tener enfermedad renal y que sugiere un examen de sangre para confirmarlo. Por todo lo último que ha pasado comencé a dudar de todo, entonces llevé mi mascota a Estados Unidos y les entregué el análisis de orina de Perú y me dijeron que no tenía nada relacionado a enfermedad renal. Habían un par de datos que en Icaza decían es anormal y aquí en USA me explicaron con manzanitas para que entienda que era normal y no había preocupación de enfermedad renal ni más pruebas de diagnóstico necesarias para aquello y además me dieron a entender que la ecografía no era necesaria a menos que se detectara algo anormal en el examen de orina ( en Icaza fue al revés, primero ecografía y luego de unos días ex. de orina). En conclusión, en un solo año de servicios en Icaza he gastado unos 3 mil soles sin llegar a diagnósticos correctos y puros exámenes con interpretaciones erradas es por eso que si aman a sus mascotas y tienen cosas más complicadas no recomendaría a esta veterinaria, sin embargo debo aceptar que el servicio de dermatología es lo único bueno de este lugar.\nY para agregar el veterinario Jesús Gonzales no aparece en el registro del colegio veterinario del Peru.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "anita",
+    "uri": "https://www.google.com/maps/contrib/116860347742733774140/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnVzTUtbVVytUj04plwCSgoYzO-ohUvKugdN5XxQU-ukB4vPs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-07-05T19:14:14.814263Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPcm8ybXBRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPcm8ybXBRRRAB!2m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMY9JJxIu6snOsVhAFJ8kEFfxO1UJs0B8KpiIDndeMkC4VfDV0ufEmuSHkm3sfR1AU6WuV0WjTitUjpKYsqnP1FvocyGMLEnhOOKLEUb5LumepdaUJ64ahrySbT067d8Fwt0kkuusCSxlc3-ELwTGHoaVOPi5rmWO7tsSU-sbaKmRbKEvhseTHrzW0WQTjBisbcIVKASxkzNkbLp7rKBkatnU2coE30Jb6bSRILC1Rq8B6-gRpUkrD5m0nyZ9SXiudij7LdDe3JT-0UlMXFB4jEYjoY0D4NSEvjNz_6dqxCSSKaq1SrJPrIb-dulHC5wLTi2aqeHcwSgBmAUkKGc7Ik4DssaWeHkr86Je2ggZan7lFAXz-pYTrVrHYAC8C3MNjpBzVg3QbieySK9FLq05i1uE6qOdHO3Zt7kYf_xHvsU",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Icaza",
+     "uri": "https://maps.google.com/maps/contrib/113780369665077398551",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTezC7BGfycJ41Im7C0PbPbQnpJYGyqsBClftbyCPxidta1n0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAmXKUK8IQAUx5XbzGO6Thl&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAmXKUK8IQAUx5XbzGO6Thl!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMb0-c6E1RYgXqf37xnj5EQaC7cY_DhFWXTYxyX2OjOhWfNOW6CLAz8tYbopemY0QjtWDz5lI10eDvlSaNGvhtT6-z-LrUOLfEjg7A3Dcj0bRJlb-CFVsp0XqkwZkp3YY7n-92ukcMIJYHpdsjfnb-EVVd0caIcj3kAH9-BlQypyZIebH5f6MxPhbRDImOabJuFpEbE31kPYSdelzGvIzjmyh24isaGdOkzB-qPt-gFFrv9ALVkMuuEaOByyyn0yfHo6bmUkxZqisJ2VK177paiKJmErpapavU8bq_0Al2x-OiJtofNpMovSkropD3AgNEYvVBUAY3ZRtWB9lqs5SModt-oa5CFVm5yKbNnb8bv9hFCDXRpN8-qmy8NBA1aZllJcjKsUD8cEzUfJ_fsN-w_BXAg",
+   "widthPx": 755,
+   "heightPx": 800,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Icaza",
+     "uri": "https://maps.google.com/maps/contrib/113780369665077398551",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTezC7BGfycJ41Im7C0PbPbQnpJYGyqsBClftbyCPxidta1n0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8oMPzQw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8oMPzQw!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMb0blorH2twFtU2bqcLfbNh4biJl2Yf2SXK1ANL9Fn3dTcNkvCddn_aQq998lAUf5WZAXK1N0waieyOmJvSfaceqYas6e_loD6JKhsTaXl8_1eqzXWzmdoBNwS2DTWYk7UNvHHeNYaRqkP3GyixOeMhy36sjptkiJIDOsA_3TbOZvMFujJbpyFWfIxJsm49Auh2QRNRqptX6LoNRh8Xn_qz4PplmwWa3sePIWU7Bg_7jo3KYJWGznTpl4t40iOzTDu_bs9V2WgRTJ3WEYzvCHoaAkHBcltvsO4vmsK0kMw3isljOmKg7aFUAgG8s2MYcmzzghu7Q7gqn3pAfgPP1OyEgnzE0HeeshtgDp3i0dKjhup8xTMWsZRLxTiE_16LBcBnNUGJHxoOpe9D7FyNTL1eD4A",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Bianca Minaya",
+     "uri": "https://maps.google.com/maps/contrib/115128197880102430012",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI5yRqK6nKPKn_YJNQLzv6FduDJx6oyfYvmHgFHb13BsYQqUgRjA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa7a_DGQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa7a_DGQ!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMYUfcq72KJcLXQUOiHXjiSsmjoxK-qsa0HZDXBBZM5KZzDuP1V3eeA-zRCA_xMlDaZ03uqJYrHe3IAoS_MVi2xyySbjZrsHbJt-v5g8YUZsNe0mFO6K8l4udjB5OxsMrGQ9eVFitgoW0u709s2v6T5CYDOsWxuGHw1R3sjYn8KnTwwKRE9NonD1kKu-2l7Uq2MasTVhdokEnp9o9UF9PZa9CLKDLus57ZjpXJjEaNR53WR2OdV5QjnByRwGEg6QSj2pTbfziNL9FSAyGQojoTpFZ4sOKaf_pl2KT2Gb3lchX4Z7SmXZdwqGNiEjHQJ3frMd1K8-agHpwOYQ8JIq_-3e0lXbbDnuxod2ijeDBcFf99llESHOeravk6YoYZ8RInFSBwLQ10nYQCHLSGUa2eMtQ6XHklU",
+   "widthPx": 4128,
+   "heightPx": 2322,
+   "authorAttributions": [
+    {
+     "displayName": "Víctor Sipión Suárez",
+     "uri": "https://maps.google.com/maps/contrib/116669572376917129930",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUi4aIRpRDHqJbeNUFuz6RlseKDUwqhca0ivlgi9U-rjo-wgk7sOQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE3f2ztgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE3f2ztgE!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMawRKnFLKsr58UTkI7SW4iDPWHrudW5wo-jcGr-rbEOsR1cfaAjeVMhA8ZmS5DRdtr_9nG_Sf-S2T7YfRIbbF2_XQwjQyIW_K0D938_jObzbdhMhWvaqYDcOmuY9VHdpcyekaB8ZIzXGv5Zn5YjeLsOOBZWdGt7Po1UV2ePXcAu_clsCvbJ_NqbAavNYOOwtwtPS5qJYWkjc7TJccA6MmLBIsk8mbraO9tX4TnBIat3FvPuZVDi55-2dJDCP9nAB0WAxikYEZhRnpXjk-jMLR-jewDtFkDGIHLc8ZapFdUIpjsmLYqHlBQepb_eMs6UV5nl_Fvqwp2GI9BMg61N6Xpxh0vBXymkCOqBdyg7xRBpmvE5b13F4PCynJQNhClwFFX1LrO-vdq-uvN6CnY-uXn0ervSv5M",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Bianca Minaya",
+     "uri": "https://maps.google.com/maps/contrib/115128197880102430012",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI5yRqK6nKPKn_YJNQLzv6FduDJx6oyfYvmHgFHb13BsYQqUgRjA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa7a_DmQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa7a_DmQE!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  },
+  {
+   "name": "places/ChIJh3SyORDJBZERhudlromOKOk/photos/Aa-ngMYHsG6YUk91gPUNsLMTnCtGnOH1HhhwrN61hPFSy7D_qGrmLfgFuv_ux-D_OQ1itRQ_j1Xz4SUZNTBJXJtDu1fvwDSe1un8g8K4oxQBAV7zDHJKt3LHRy6g5iFJo1ffIpXxvWLQ_znYVE_HHk-T5TLwlnjOl7FxadXsL9FuWbDuP29U1Z853LlwWpx-4gvWx1N4-_0tWg-rfJwJmqLirL7x63fXzBOLrr_uzq03bbuYRaWB8fmgNm6b7uq4N96tGFdGsjHqoWkbB9eq4bRn97IQTRSUBou_adAdOZiibDcOSki-d9qIZnpVSTdb8YzBcQmbLhGL0rmnEDAaDnAIsl4OxPsRDURGpGPb6bcsqZUob0nO0He5Y5D1hjVuOcjThYwXEahAYpx2biMqkIxbebxcS4ITjWA",
+   "widthPx": 3472,
+   "heightPx": 4640,
+   "authorAttributions": [
+    {
+     "displayName": "eduardo de la cruz",
+     "uri": "https://maps.google.com/maps/contrib/112242915162677607119",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqF2HJnHCtcL2jb3zzAKLYQnGD0j8OZw0kL2zAK8s6MTuELg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqmOf3kwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqmOf3kwE!2e10!4m2!3m1!1s0x9105c91039b27487:0xe9288e89ae65e786"
+  }
+ ]
+}

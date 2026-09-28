@@ -1,7 +1,7 @@
 # Indicadores de decisión: ¿en qué distrito de Lima abrir una clínica veterinaria?
 
-Distritos comparados: **Miraflores, San Isidro, San Borja, Santiago de Surco y La Molina**.
-Fecha de la investigación: 23-sep-2026. Moneda: soles (S/) salvo que se indique USD.
+Distritos comparados: **Miraflores, San Isidro, San Borja, Santiago de Surco y La Molina** (sección 1) y, desde el 28-sep-2026, **Jesús María, Surquillo y Magdalena del Mar** (sección 1b, mismas fuentes y métodos).
+Fecha de la investigación: 23-sep-2026 (ampliación: 28-sep-2026). Moneda: soles (S/) salvo que se indique USD.
 
 > Rigor: cada cifra lleva su fuente. Lo que se calculó o se aproximó aparece como **estimado**, con el método. Si no encontré un dato a nivel distrital, lo digo. No hay ninguna fuente pública que publique la tenencia de mascotas **por distrito**, y el NSE APEIM se publica **por zona**, no por distrito (ver notas).
 
@@ -34,6 +34,33 @@ Fecha de la investigación: 23-sep-2026. Moneda: soles (S/) salvo que se indique
 - **NSE**: APEIM publica la distribución por NSE de Lima Metropolitana (2025: A 2.6%, B 18.4%, C 45.5%, D 26.9%, E 6.6%; [Síntesis APEIM 2025](https://apeim.com.pe/wp-content/uploads/2025/12/Sintesis-Niveles-socioeconomicos-2025.pdf)). La distribución por **zona APEIM** (la "Zona 7" agrupa Miraflores, San Isidro, San Borja, Surco y La Molina) solo aparece en el informe completo para asociados, no en los PDFs públicos. Por eso uso como proxy los **estratos de ingreso per cápita del INEI** (Alto: ≥ S/2,412.45 per cápita al mes; Medio alto: S/1,449.72 a 2,412.44). Esos estratos **no equivalen** a los NSE APEIM.
 - **Ingreso por NSE, Lima Metropolitana** ([APEIM 2024, data ENAHO 2023, p. 51](https://apeim.com.pe/wp-content/uploads/2025/03/2023-2024-Version-WEB.pdf.pdf)): ingreso familiar mensual NSE A S/13,923, NSE B S/7,545, promedio Lima S/4,501. Gasto mensual NSE A S/8,109, NSE B S/4,905. Gasto en salud (humana) NSE A S/665 y NSE B S/446.
 - **Veterinarias**: no existe un conteo oficial por distrito. Se reportan unas 650 clínicas veterinarias en Lima en 2023 ([veterinariasperu.net](https://veterinariasperu.net/cuantas-veterinarias-hay-en-lima/), directorio privado; la metodología no está clara). El Colegio Médico Veterinario Departamental de Lima dice tener más de 2,500 colegiados ([cmvdlima.org](https://cmvdlima.org/)). Para un conteo serio conviene usar Google Places API o la búsqueda por CIIU 7500 "Actividades veterinarias" en SUNAT/SIGEP (ejemplos de RUC en Surco: [datosperu.org](https://www.datosperu.org/empresa-hospital-veterinario-24-horas-animal-surco-eirl-20606977698.php)).
+
+---
+
+## 1b. Distritos añadidos: Jesús María, Surquillo y Magdalena del Mar
+
+Mismas fuentes y métodos que la tabla 1 (investigación del 28-sep-2026).
+
+| Indicador | Jesús María | Surquillo | Magdalena del Mar | Fuente |
+|---|---|---|---|---|
+| Población 2025 (miles) | 92.0 | 110.1 | 73.2 | [CPI, Market Report "Perú: Población 2025", cuadro 9](https://cpi.pe/wp-content/uploads/2025/11/CPI-Market-Report-Proyecciones-Poblacionales-2025.pdf) (filas 29, 25 y 32 del cuadro; lectura verificada por coordenadas del PDF) |
+| Población 2025, fuente alternativa | 105,776 | 119,236 | 82,146 | [citypopulation.de](https://www.citypopulation.de/en/peru/lima/admin/) (columna 2025-08-04, basada en INEI) |
+| Población Censo 2017 | 77,955 | 97,652 | 61,656 | [citypopulation.de](https://www.citypopulation.de/en/peru/lima/admin/) (serie censal INEI) |
+| Hogares 2025 (miles) | 27.3 | 33.3 | 22.0 | [CPI 2025, cuadro 9](https://cpi.pe/wp-content/uploads/2025/11/CPI-Market-Report-Proyecciones-Poblacionales-2025.pdf) |
+| Personas por hogar (estimado) | 3.37 | 3.31 | 3.33 | **Estimado**: población CPI ÷ hogares CPI |
+| Hogares en estrato de ingreso **Alto** (%) | 100% | 51.7% | 100% | [INEI, Planos Estratificados de Lima Metropolitana a nivel de manzana 2020](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1744/libro.pdf), cuadro resumen de cada plano distrital (págs. 29, 57 y 36 del PDF; tablas revisadas renderizando la página) |
+| Hogares en estrato **Alto + Medio alto** (%), proxy de NSE A/B | 100% | 91.9% | 100% | Misma fuente. JM: 23,699 de 23,699 hogares en Alto; Surquillo: (15,052 Alto + 11,689 Medio alto) de 29,090 (los otros 2,349 son Medio); Magdalena: 19,121 de 19,121 en Alto |
+| Ingreso familiar mensual promedio | S/ 8,258 (zonal) | S/ 8,258 (zonal) | S/ 8,258 (zonal) | [Ipsos, "Las 6 caras de Lima Metropolitana 2025"](https://www.ipsos.com/sites/default/files/ct/publication/documents/2025-09/Perfiles%20Zonales%202025_V3.pdf), zona "Lima Oeste": la lista de distritos de la zona incluye expresamente a Jesús María, Magdalena del Mar y Surquillo. **No hay dato distrital publicado** |
+| Hogares con mascota (%) | 59.6% (Lima Met.) | 59.6% | 59.6% | [INEI vía El Peruano, 08-sep-2026](https://elperuano.pe/noticia/304297-inei-el-64-de-los-hogares-peruanos-tiene-mascota-perro-o-gato-cual-tienes-en-casa). **Solo existe el dato de Lima Metropolitana** |
+| Hogares con mascota (estimado) | ~16,300 | ~19,800 | ~13,100 | **Estimado**: hogares CPI 2025 × 59.6% |
+| Mascotas (estimado) | ~29,300 | ~35,700 | ~23,600 | **Estimado**: hogares con mascota × 1.8 mascotas/hogar NSE AB ([CPI 2018](https://cpi.pe/images/upload/paginaweb/archivo/26/mr_mascotas_201808.pdf)). En Surquillo (8% de hogares en estrato Medio) es una cota algo alta |
+| Veterinarias mapeadas en OpenStreetMap | n.d. | n.d. | n.d. | La API de Overpass no respondió el 28-sep-2026. El conteo real de competencia sale del pipeline de Google Places del proyecto |
+| Alquiler local comercial, mediana USD/m²/mes (estimado) | 15.6 (p25–p75: 14.0–22.8; n=23) | 12.5 (10.0–18.6; n=32) | 17.8 (15.4–26.3; n=16) | **Estimado**: mediana de `price_amount_usd` ÷ m² construidos de todos los avisos activos en InfoCasas ([Jesús María](https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/jesus-maria), [Surquillo](https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/surquillo), [Magdalena del Mar](https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/magdalena-del-mar)); 28-sep-2026, avisos ≥20 m² y con precio visible, solo avisos cuyo barrio InfoCasas coincide con el distrito. El portal listaba 24, 34 y 18 avisos en total. Son precios pedidos, no de cierre. **Magdalena tiene muestra chica (n=16)** |
+
+Notas:
+- **Surquillo es el único de los 8 distritos con una proporción relevante de hogares fuera de los estratos Alto y Medio alto**: solo el 51.7% está en Alto (frente a 65% en Surco, el más bajo de los 5 originales). Al usar el proxy Alto + Medio alto (91.9%) queda cerca de Surco (95.3%).
+- Jesús María y Magdalena salen con 100% en Alto, igual que Miraflores y San Isidro. El estrato INEI es de ingreso per cápita del hogar, a precios reales de 2017 (Alto ≥ S/2,412.45 al mes); no equivale a NSE A de APEIM. Esto se debe leer con cuidado: el plano asigna un estrato por manzana y todas las manzanas de estos distritos caen en Alto, lo que no significa que todos sus hogares sean NSE A.
+- El alquiler de Surquillo (12.5) es el más bajo de los 8 distritos, y los de Jesús María (15.6) y Magdalena (17.8) quedan en el rango de San Borja (16.0) y Surco (18.3).
 
 ---
 
@@ -138,6 +165,7 @@ Fórmula sugerida: normalizar cada indicador de 0 a 1 entre los 5 distritos (min
 - Número oficial de veterinarias por distrito: no existe. El conteo de OSM es una cota inferior.
 - Alquiler comercial por distrito en reportes de Colliers o Binswanger: solo encontré rangos de Lima y datos de San Isidro. Las medianas de la tabla son **estimaciones propias** hechas con avisos de InfoCasas.
 - Penetración de seguros para mascotas en Perú: no encontré cifras.
+- Distritos añadidos (Jesús María, Surquillo, Magdalena): no hay conteo OSM de veterinarias (Overpass no respondió) y la mediana de alquiler de Magdalena usa solo 16 avisos. No hay reportes de corredoras (Binswanger, Colliers) con precios de estos tres distritos.
 
 ---
 
@@ -202,6 +230,30 @@ Fórmula sugerida: normalizar cada indicador de 0 a 1 entre los 5 distritos (min
       "rent_usd_m2": {"value": 14.6, "source": "Mediana de 28 avisos InfoCasas al 23-sep-2026 - https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/la-molina", "estimated": true},
       "pet_households_pct": {"value": 59.6, "source": "INEI ENAHO, valor de Lima Metropolitana (no distrital)", "estimated": true},
       "vets_osm": {"value": 8, "source": "OpenStreetMap vía Overpass API, snapshot 2026-09-22 (cota inferior)", "estimated": true}
+    },
+    "Jesús María": {
+      "population": {"value": 92000, "source": "CPI Market Report Población 2025, cuadro 9 - https://cpi.pe/wp-content/uploads/2025/11/CPI-Market-Report-Proyecciones-Poblacionales-2025.pdf", "estimated": false},
+      "households": {"value": 27300, "source": "CPI Market Report Población 2025, cuadro 9", "estimated": false},
+      "nse_ab_pct": {"value": 100.0, "source": "INEI Planos Estratificados Lima Metropolitana 2020 (Censo 2017) - https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1744/libro.pdf ; 23,699 de 23,699 hogares en estrato Alto", "estimated": true},
+      "avg_income_soles": {"value": 8258, "source": "Ipsos Las 6 caras de Lima 2025, zona Lima Oeste (valor zonal, no distrital) - https://www.ipsos.com/sites/default/files/ct/publication/documents/2025-09/Perfiles%20Zonales%202025_V3.pdf", "estimated": true},
+      "rent_usd_m2": {"value": 15.6, "source": "Mediana de 23 avisos InfoCasas al 28-sep-2026 (precio pedido / m2 construidos; p25-p75 14.0-22.8) - https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/jesus-maria", "estimated": true},
+      "pet_households_pct": {"value": 59.6, "source": "INEI ENAHO, valor de Lima Metropolitana (no distrital) - https://elperuano.pe/noticia/304297-inei-el-64-de-los-hogares-peruanos-tiene-mascota-perro-o-gato-cual-tienes-en-casa", "estimated": true}
+    },
+    "Surquillo": {
+      "population": {"value": 110100, "source": "CPI Market Report Población 2025, cuadro 9 - https://cpi.pe/wp-content/uploads/2025/11/CPI-Market-Report-Proyecciones-Poblacionales-2025.pdf", "estimated": false},
+      "households": {"value": 33300, "source": "CPI Market Report Población 2025, cuadro 9", "estimated": false},
+      "nse_ab_pct": {"value": 91.9, "source": "INEI Planos Estratificados 2020; (15,052 Alto + 11,689 Medio alto) / 29,090 hogares; 2,349 en estrato Medio - https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1744/libro.pdf", "estimated": true},
+      "avg_income_soles": {"value": 8258, "source": "Ipsos 2025, zona Lima Oeste (valor zonal)", "estimated": true},
+      "rent_usd_m2": {"value": 12.5, "source": "Mediana de 32 avisos InfoCasas al 28-sep-2026 (p25-p75 10.0-18.6) - https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/surquillo", "estimated": true},
+      "pet_households_pct": {"value": 59.6, "source": "INEI ENAHO, valor de Lima Metropolitana (no distrital)", "estimated": true}
+    },
+    "Magdalena del Mar": {
+      "population": {"value": 73200, "source": "CPI Market Report Población 2025, cuadro 9 - https://cpi.pe/wp-content/uploads/2025/11/CPI-Market-Report-Proyecciones-Poblacionales-2025.pdf", "estimated": false},
+      "households": {"value": 22000, "source": "CPI Market Report Población 2025, cuadro 9", "estimated": false},
+      "nse_ab_pct": {"value": 100.0, "source": "INEI Planos Estratificados 2020; 19,121 de 19,121 hogares en estrato Alto - https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1744/libro.pdf", "estimated": true},
+      "avg_income_soles": {"value": 8258, "source": "Ipsos 2025, zona Lima Oeste (valor zonal)", "estimated": true},
+      "rent_usd_m2": {"value": 17.8, "source": "Mediana de 16 avisos InfoCasas al 28-sep-2026 (p25-p75 15.4-26.3; muestra chica) - https://www.infocasas.com.pe/alquiler/locales-comerciales/lima/magdalena-del-mar", "estimated": true},
+      "pet_households_pct": {"value": 59.6, "source": "INEI ENAHO, valor de Lima Metropolitana (no distrital)", "estimated": true}
     }
   }
 }

@@ -4,7 +4,7 @@ from collections import Counter
 
 ROOT = pathlib.Path(__file__).parent
 D = ROOT / "data"
-DISTRICTS = ["Miraflores", "San Isidro", "San Borja", "Santiago de Surco", "La Molina"]
+DISTRICTS = ["Miraflores", "San Isidro", "San Borja", "Santiago de Surco", "La Molina", "Jesús María", "Surquillo", "Magdalena del Mar"]
 
 
 def json_block(md_path, name):
@@ -51,6 +51,10 @@ for f in glob.glob(str(D / "enrichment_*.json")):
         print("! enrichment", f, e)
 
 
+def jload(p): return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+RUC = jload(D / "sunat" / "ruc_match.json"); SENASA = jload(D / "senasa" / "senasa_match.json"); LIC = jload(D / "licencias" / "lic_match.json")
+
+
 def by_district(raw):
     src = raw
     if isinstance(raw, dict):
@@ -62,9 +66,10 @@ def by_district(raw):
     out = {}
     if not isinstance(src, dict):
         return out
+    norm = lambda x: x.lower().replace("santiago de ", "").replace("del mar", "").strip()
     for d in DISTRICTS:
         for k, v in src.items():
-            if k and not k.startswith("_") and isinstance(v, dict) and (k.lower() in d.lower() or d.lower().split()[-1] in k.lower()):
+            if k and not k.startswith("_") and isinstance(v, dict) and norm(k) == norm(d):
                 out[d] = v
     return out
 
@@ -160,7 +165,7 @@ def is_offtopic(r):
 
 # ---------- merge por lugar ----------
 # Reportados por los agentes de enriquecimiento como NO clínicas (tienda, distribuidor, guardería, café, equipos médicos)
-NOT_CLINIC = ["animal club", "p&g", "gama medical", "petland", "soluciones veterinarias", "balto", "petmarket", "petshop duke", "master kennel", "unove"]
+NOT_CLINIC = ["renian", "groom perú", "groom peru", "ecoimagen", "veterinary sutures", "h.p.vet", "animal club", "p&g", "gama medical", "petland", "soluciones veterinarias", "balto", "petmarket", "petshop duke", "master kennel", "unove"]
 merged = []
 for p in places:
     e = enrich.get(p["id"], {})
@@ -182,6 +187,16 @@ for p in places:
         "segment": e.get("segment"), "chain": e.get("chain"), "founded_year": e.get("founded_year"),
         "notes": e.get("notes"), "review_prices": prices, "themes": themes_for(p["reviews"]),
         "sources": e.get("sources") or [],
+    })
+    rec["district"] = re.sub(r"^\d+", "", rec["district"])  # "137Surquillo" -> "Surquillo"
+    r = RUC.get(p["id"]); r = r if r and r["conf"] == "alta" else None
+    sn = SENASA.get(p["id"]); lc = LIC.get(p["id"])
+    rec.update({
+        "ruc": r["ruc"] if r else (sn["ruc"] if sn else None), "razon_social": r["razon"] if r else (sn["razon"] if sn else None),
+        "ruc_estado": r["estado"] if r else ("ACTIVO" if sn else None), "ruc_how": r["how"] if r else ("senasa" if sn else None),
+        "senasa": bool(sn), "senasa_regente": sn["regente"] if sn else None, "senasa_fecha": sn["fecha"] if sn else None,
+        "licencia_fecha": lc["fecha"] if lc else None, "licencia_giro": lc["giro"] if lc else None, "licencia_fuente": lc["fuente"] if lc else None,
+        "formalidad": ("Baja SUNAT" if r and r["estado"] != "ACTIVO" else "Formal + SENASA" if sn else "Formal" if r else "Sin RUC identificado"),
     })
     merged.append(rec)
 
@@ -315,6 +330,10 @@ def agg(plist, name):
         "low_rated": sum(1 for r in ratings if r < 4.0),
         "avg_ticket": round(st.mean(tickets)) if tickets else None, "ticket_n": len(tickets),
         "chains": Counter(p["chain"] for p in plist if p.get("chain")).most_common(6),
+        "formalidad": dict(Counter(p["formalidad"] for p in plist)),
+        "pct_formal": round(100 * sum(1 for p in plist if p["ruc_estado"] == "ACTIVO") / max(1, len(plist))),
+        "pct_senasa": round(100 * sum(1 for p in plist if p["senasa"]) / max(1, len(plist))),
+        "ruc_multisede": [[k, v] for k, v in Counter(p["ruc"] for p in plist if p.get("ruc")).most_common(6) if v > 1],
         "with_web": sum(1 for p in plist if p["website"]), "with_instagram": sum(1 for p in plist if p.get("instagram")),
         "segments": dict(Counter(p["segment"] for p in plist if p.get("segment"))),
         "top": [{"name": p["name"], "rating": p["rating"], "reviews": p["reviews_count"],
@@ -390,6 +409,8 @@ out = {
         "avg_ticket": round(st.mean(tickets_all)) if tickets_all else None,
         "themes": themes_for(allrev), "coverage": coverage(clinics), "activity": review_activity(clinics),
         "enriched": sum(1 for p in merged if p["id"] in enrich),
+        "formalidad": dict(Counter(p["formalidad"] for p in clinics)),
+        "formalidad_note": "RUC por cruce nombre+dirección con el padrón SUNAT (sunat.gob.pe/descargaPRR) y por la web del local; SENASA = registrado como establecimiento de expendio de productos veterinarios (servicios.senasa.gob.pe/SIGIAWeb); licencias solo donde hay datos abiertos (La Molina 2025, San Borja 2023, Miraflores 2020-22, Lima 2024-26). 'Sin RUC identificado' incluye personas naturales que no pudimos cruzar, no necesariamente informales. 'Baja SUNAT' = la razón social hallada en esa dirección está de baja; el local puede seguir operando con otro RUC.",
     },
     "places": merged,
     "grid": GRID,

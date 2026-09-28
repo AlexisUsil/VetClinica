@@ -1,0 +1,558 @@
+{
+ "id": "ChIJE_qErafJBZERBb_p_v9Mnv4",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2636762",
+ "internationalPhoneNumber": "+51 1 2636762",
+ "formattedAddress": "Jirón Arequipa 108, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "108",
+   "shortText": "108",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Arequipa",
+   "shortText": "Jirón Arequipa",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0899509,
+  "longitude": -77.0701406
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=18347186594331082501&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/pg/Veterinaria-San-Antonio-1522205138055078/about/?ref=page_internal",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 96,
+ "displayName": {
+  "text": "SERVICIOS VETERINARIOS SAN ANTONIO",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Arequipa 108, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1c3NudS1RRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Agradezco la atención del Dr. Alberto Crespo, un Veterinario experto en oftalmología. Se recuperó rápido mí mascota.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Agradezco la atención del Dr. Alberto Crespo, un Veterinario experto en oftalmología. Se recuperó rápido mí mascota.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "VICTOR BAZAN",
+    "uri": "https://www.google.com/maps/contrib/117949654032709362949/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK_j3vfrNbsfDNN8uk7Q9iAOrNJAsOMjwOthwDmLAPnmCthw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-07-25T06:56:16.196867Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1c3NudS1RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1c3NudS1RRRAB!2m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBdGRubmtnRRAB",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 5,
+   "text": {
+    "text": "Es un lugar excelente, mucha paciencia y atención tanto a las personas como a las mascotas... Yo LO RECOMIENDO!!! 👍",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es un lugar excelente, mucha paciencia y atención tanto a las personas como a las mascotas... Yo LO RECOMIENDO!!! 👍",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Clau Lobe",
+    "uri": "https://www.google.com/maps/contrib/105787091088668703150/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYaZDIfwxXYGuNlZJhXv_i-GRVh29Ta5X2sLEIcYq5p1C7xTcXvw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2018-09-25T13:46:20.024847Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBdGRubmtnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBdGRubmtnRRAB!2m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcGQyV1hBEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente veterinaria especializada en la atención oftalmológica de los animales. El trato es muy bueno, todos son muy amables y el doctor es un capo. En este lugar también venden algunos de los medicamentos que se recetan. Algo a tener en cuenta es la puntualidad de las citas, hay un tiempo de tolerancia de 10 a 15 minutos en caso de exceder ese tiempo se podrá esperar para ver una cita extra en el mismo día o reprogramar para otra fecha.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente veterinaria especializada en la atención oftalmológica de los animales. El trato es muy bueno, todos son muy amables y el doctor es un capo. En este lugar también venden algunos de los medicamentos que se recetan. Algo a tener en cuenta es la puntualidad de las citas, hay un tiempo de tolerancia de 10 a 15 minutos en caso de exceder ese tiempo se podrá esperar para ver una cita extra en el mismo día o reprogramar para otra fecha.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "César Miguel Cabrera Changano",
+    "uri": "https://www.google.com/maps/contrib/111188721595509009029/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-TOJMOOF-3nE9GRzjLpenDHk3cHoQ7QRPKGcMKdhQulaUJJDt=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2022-12-05T05:18:00.817233Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtcGQyV1hBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtcGQyV1hBEAE!2m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/reviews/ChZDSUhNMG9nS0VJQ0FnSURIamNpb0NnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena y recomendada, salvaron a mi gatito.\nExcelentes profesionales y muy amables.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena y recomendada, salvaron a mi gatito.\nExcelentes profesionales y muy amables.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Steve Jh",
+    "uri": "https://www.google.com/maps/contrib/108661638239554920664/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7rW6utTDU0yef2RFhmicv3AYtyo-TBhs2vt5kwJPsR7QuJiEo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-09-18T18:39:38.681468Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIamNpb0NnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIamNpb0NnEAE!2m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/reviews/ChdDSUhNMG9nS0VJQ0FnSUROanB5OXZBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, me explicaron con detalle todo lo referente a mi gatito, el trato excelente, muy recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, me explicaron con detalle todo lo referente a mi gatito, el trato excelente, muy recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "norma marin",
+    "uri": "https://www.google.com/maps/contrib/117154957985865978357/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIen1REMr69oDd62N05qZhiukX6U39uTzeY6TmMspzaaP99uA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-01-22T11:50:28.075078Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROanB5OXZBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROanB5OXZBRRAB!2m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMYz0DN8M4cvHD2ioaSvHHTD2JFYKfxfdXhB4ttQsTNh1FYwWufaYVZBnPe61U7URpcDXlocSqUlZYE8RuPZvtkIcGlvb5p2lntDnGGcwjSo_-7462G4DmrN78b_UHcNWF9MA7e9f5MsYCqoPfFYIFJvNzFNek-zAaTcD2s-8k7oAjUgzI6mmUN7dcCShBAMObC99z2mSJyiLK0Bq1jJT7M_66a03f6VzdIHR-Z7bMVqzcf9Aj6rJw77tM0IohDOSlthkP0uV5BCCfYlo7PgDMQMZzlppBbxmS13LNQjbbq7Rh3ilIEFo9SW2s621Ap82SpeYYmbgmcGrFhu9FET5-7vnX-bfyPjW41EWW51KyXs1Kl4TM92OG7O7jh9YwGzNQmx3xEc4T8cZQVi0kvuexjvfMcOsBGjCRluBX3ijMC8SQ",
+   "widthPx": 2240,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Clau Lobe",
+     "uri": "https://maps.google.com/maps/contrib/105787091088668703150",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYaZDIfwxXYGuNlZJhXv_i-GRVh29Ta5X2sLEIcYq5p1C7xTcXvw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkvuLmew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkvuLmew!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMZVy4LnSOYjB6sAv3HkLFznQmOXXpaqK0NIyNp9NX7thoVpkUkbIcQrsft0n5L8pYLS343aHdJW3rZp3KMQjSjtp5BmrPnkdRco4a9qKx_QQlOrHo2CJpjnoY8VL8V7F4m-IAaLTkQHXdmf-SXYic4ugUDAlXbg1dgPOlSanY7Zjn0_f1hqn3_pHDZn7eZlksf6hrdxH-jaSeIgE5mQ31WfnTeKiv30ynnYvONnJHPdbHqQaldzzeUf_437n06dXlbV53xpuoZznzyhtA5htwkrNk_RClYKTADuw1u2URdkzBiEaW2HwUYMHQGBWjBWaExk7DU0niAfONxZZ8DsLqUEZVRzQScuff-JTr2a__qQW7dtzBavLpWwhB6JVY8hT4UXPnfukd6IVdqnqxlWiWla1EJGtlVsZwjgjycZsEPL8hc",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "VICTOR BAZAN",
+     "uri": "https://maps.google.com/maps/contrib/117949654032709362949",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK_j3vfrNbsfDNN8uk7Q9iAOrNJAsOMjwOthwDmLAPnmCthw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICusum8sgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICusum8sgE!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMYzFSGc8Vo_HLaR3PXnPFwY1Yn1kanUP2NHtP5p6sOm-F_LPEZQXoLFnp08wwXCwcjSkFr-lJMXJt5xRRc6GhPQzIzetaN1xrWN76yKBKHMEy9r0xkqm8PY-WVDyRwumal722A61h5kr06NfvrdDM7FwOB_X9Uk6Cbk3HDONciCncHrzzf_ShImB6kkBtfK326nElYK3KHJSlzvJDDzvuFq65anQ3mpAvyjrZya5i7Nc5qAAARDOtG6dbU1cKFg6wN-hBErf2ib5nBZdXMD4opke2jVkx-Ph0dKmiPh-KABE-J-buUqfBPdYaTGXC1MdfgacdhCsqEds6ej4xA6V3J5uYrVJm-_KiaVCaL1kfLmMrBo0H9CBodTsUlGr9LeR-Pc1ky0wwEfCQm6CN7mE6Ncs6GGkxIjUs_QT6Wi3VrL8w",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Aldo Vela Rios",
+     "uri": "https://maps.google.com/maps/contrib/105495295450637204510",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMqUu52TxoZS_PEEESNHuFZzMHQ_9WA9crlGjmwOF9h6UJEonh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkxLGDeA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkxLGDeA!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMYIhYT1kHe67_a-_CJg7BiyViCY5z17AZ1m8uymfzP9Enci4TRf0Ljb9gCmwYaIvfOLGb9gANHzp2ZaRXmM1u78G76_zcU4otnPRgi7psjsGX3tM22cFuDBsyqIPxFfs6Ge7ia6fiTj4NmkeI-RSjWmL80BFetNUHW6Bjf6c-ulxhFSDLzzc59Im_G61Y4tcjme4_ZDt0jPg64LZeY-V48UBDw75Vqc23KV2sZr3_KTbxCAbYCijllNiriT02Ir9llqDGxJ8seWFY37y8UxAkuEI0byyEJ9kH2-xczjt28lcU_KiGnFk8QW7QsNA1QAxqyJvpo6M-vSNr3szWAqvUnaEeQA0qhOYZ5gq_p8Uk-wo1KS0k160jLK9VaZIDyIODqzPZU-PGcTiwYwzVIEdxeVxoY0AjgHX0pBf83fYHOdxBwC",
+   "widthPx": 1056,
+   "heightPx": 1408,
+   "authorAttributions": [
+    {
+     "displayName": "VICTOR BAZAN",
+     "uri": "https://maps.google.com/maps/contrib/117949654032709362949",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK_j3vfrNbsfDNN8uk7Q9iAOrNJAsOMjwOthwDmLAPnmCthw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICusum88gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICusum88gE!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMZ28EHWGDtxoI5nhkZxPwDVo1rcTWbi5LSdz-LahovYwpT0HTv7lw3DXW0En6fkw1j68fWQFVhaQVHTOCoRWcIu_2PY5rBzjMVjhxVN_YNAd2O-nZskWrRkgw13Oc3AmgbECbW_Zi4sZ-xqdq0EIQ-urKUqXq2Owvuh2jsLtNeoPgVHkE5GlSoZoe2hv3dLSjz7omUSMQwJYP9iJD631CeeItTk_aDY4CZK3cF09BR_CkhPQaAi8Hx89tKAsHou4RzqtQsk8LKLcWLgAKz_w0RlcjzojuoTAG8Mnju3PTh-93Y9dWlgLwztUlUguDVoQ5BoLThy7v_uW--UFGIN-GwMkMMzmksqg4Y62UoYD9ELPTsK-yxbWyfO48N8Jw63G6Qi3nqnCwtSFlbg9GobqeFq2o4Bn_R1ZqTQAWEFa6c79rpw",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Arturo Coronel",
+     "uri": "https://maps.google.com/maps/contrib/116130051508626309143",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3HtceibMsT9_LjeLgooV7A4NrZJMfuvm6BoK8p3ub336YACw7ew=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe0YiH3wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe0YiH3wE!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMYCxBytr9dP6iQkOgCXsUgrqd1xXsTUgTD-gEYAwey3lkrxfqB-1Wchde5rFXzTJMz81P9pio47t8Zavsm1KFwLbHqwdoM3qTLHG5-IjrFyI159NCAv3LbPcTzSbRlT6knkgqcaadCf3UFJKLRNGRak7QoYRgy37QySKfk48i6tmN9P-izovaJXU1v4hMygZixEf6OQ_HYi3cmvH0XhTmT8qsQ99W662Tzy7SlUz64gdqIs53ktyoZKhRpMBpux3dlWwWtLdpqxpsze_mawY5WbBgJsBOuYKRgTi34iPmfW8hUDCPWWx3lgkVOEPWjGXqa4LtOEvd5K3ZE8xzOHmKzoMJyF_8M9TBPDdmvCPunx_lq176Bx-x9kHARjAXFbf_5V63LCbU738mhWvCRVekS0wJSamoawaM7gQZXNFNy8w7aJ",
+   "widthPx": 871,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Antonio",
+     "uri": "https://maps.google.com/maps/contrib/103245045541969271113",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUizAno5zu66LQZTJzzlnDDH95RZ0VUQPj-ZMHBUvpgfxiabKM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDElrqb-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDElrqb-AE!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMbZh_v_hCR9YeQFRBh2tqMWvWPiXdtkQaY4edsUHDKmgIvCO_GX2cCfikDFyqOj2wgCMCu3PnsrdGnAEuf9f38N5sedPri42c1qKHYGHEnm2LPLmXcuKCGGmBpwTb-ISFQoFYem8ZUFgM1S1FZFsPHtHL1yLGk_VolG4QN87qGh78yMch2odFZ9IBrNM2sTwgCO3yMn7wbh30UjcbZw9ntMxW8nCwX-w4aMCvSv1kQL8VYHl70IIEWmSdySxEnumenJhU3J8EBgJEHABVKwJLJ_XaaDei-_SUE0oyIG2JDoctZiuUvuCaSCpDT3fj_b71eaCrIyblKeQPh3GZyjVzexouwnTfi0zrydBuf0vnwTUJAQFBkBJL84eKfsBKIKUYBzMmPiFM3MgI4cibC80Wjw6vwUIQue86GDGj9g95GzbQ",
+   "widthPx": 1554,
+   "heightPx": 1662,
+   "authorAttributions": [
+    {
+     "displayName": "VICTOR BAZAN",
+     "uri": "https://maps.google.com/maps/contrib/117949654032709362949",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK_j3vfrNbsfDNN8uk7Q9iAOrNJAsOMjwOthwDmLAPnmCthw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICusum8cg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICusum8cg!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  },
+  {
+   "name": "places/ChIJE_qErafJBZERBb_p_v9Mnv4/photos/Aa-ngMYQwVSTnTndNkC4zpBxL8ctbeo21RWM_0vHR5gcQEt6TosBevXNLeuejxP6a5h0bv7WeKsXPSz1WF9PUJfC7DJeIsegUFv6LAaXi37T0AUG71ApXsAnCu8BNx6A1QeaDnCTEkqlubJhHUSXZ5Ik9JVGT_Uad3U4Obl3Ufe-K9MF9mqhoGTZ_D3Y0erY2aTwv5XkiawKU52VCqfO0d6jFc1XHxiDKr6bfSGTMJZnl_hxj5djwmu3yjJRrk6mb4JBzpul6M97gFr-ltAqMfv5pVOtNoSAsAeVWK5ba5UDCDc4f__v_BKgxNAq5aqsR-nOnm1sMUddE7sX59osvpRCI4U0L0RTfg94-xnqoTMBpGtieikrN-GIHc2va0nE9ofLjR-feEEzP51kel-QUDVUVDbiqlGeBYIPijP7wR0XcHwIVe72",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Aldo Vela Rios",
+     "uri": "https://maps.google.com/maps/contrib/105495295450637204510",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMqUu52TxoZS_PEEESNHuFZzMHQ_9WA9crlGjmwOF9h6UJEonh=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkxLGD-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkxLGD-AE!2e10!4m2!3m1!1s0x9105c9a7ad84fa13:0xfe9e4cfffee9bf05"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false,
+  "wheelchairAccessibleEntrance": false
+ }
+}

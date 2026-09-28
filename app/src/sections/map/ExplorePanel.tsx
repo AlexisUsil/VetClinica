@@ -1,6 +1,6 @@
 import { Building2, Coins, MapPin, Moon, ShoppingBag, Star, Trees, Target, X } from 'lucide-react'
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
-import { byName, isHighCell } from '@/data/dash'
+import { DIST, byName, isHighCell } from '@/data/dash'
 import { fmtKm, fmtN, fmtPct, fmtSoles, isNum, trunc } from '@/lib/format'
 import type { Analysis } from '@/lib/logic'
 import { LegalPill, Meter, Pill } from '@/components/common/common'
@@ -25,7 +25,7 @@ export function ExplorePanel({ A, lat, lng, radius, onRadius, onClose }: { A: An
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <div className="text-[11px] font-semibold tracking-wide text-[#0F766E] uppercase">Explorar ubicación</div>
-          <div className="text-xl font-semibold tracking-tight">{A.district || 'Fuera de los 5 distritos'}</div>
+          <div className="text-xl font-semibold tracking-tight">{A.district || `Fuera de los ${DIST.length} distritos`}</div>
           <div className="font-mono text-[11px] text-muted-foreground tabular-nums">{fmtN(lat, 4)}, {fmtN(lng, 4)}</div>
         </div>
         <button type="button" onClick={onClose} className="inline-flex items-center gap-1 rounded-md border px-2.5 py-1.5 text-xs font-medium hover:bg-muted"><X className="size-3.5" />Salir</button>

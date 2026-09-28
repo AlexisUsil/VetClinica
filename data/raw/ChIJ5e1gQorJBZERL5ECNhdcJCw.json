@@ -1,0 +1,584 @@
+{
+ "id": "ChIJ5e1gQorJBZERL5ECNhdcJCw",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6542750",
+ "internationalPhoneNumber": "+51 1 6542750",
+ "formattedAddress": "Jr. San Martín 523-497, San Miguel 15086",
+ "addressComponents": [
+  {
+   "longText": "523-497",
+   "shortText": "523-497",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón San Martín",
+   "shortText": "Jr. San Martín",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb San Miguel",
+   "shortText": "Urb San Miguel",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Miguel",
+   "shortText": "San Miguel",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.090630599999999,
+  "longitude": -77.0765284
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=3180768491590553903&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 516,
+ "displayName": {
+  "text": "Clinica Veterinaria Municipal",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. San Martín 523-497, San Miguel",
+ "reviews": [
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNVpVdG5TWFZhV0cxbGFYRk9OUzFtWkRKeVQxRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "METALIZADOS, PRECIOS NADA ACCESIBLES!!! Rescaté una gatito en muy muy mal estado, les comenté que no contaba con mucho dinero, aún así la dra. me recetó 4 cositas que resultaron más caras que en una veterinaria cualquiera, cuando supuestamente uno viene aquí para conseguir mejores precios, en la caja tampoco me quisieron hacer un descuento o algo al ser esta la atención para un animalito callejero. La dra. no supo detectar qué era lo que realmente había generado que el gatito esté asi, solo me dijo que creía que era ppr un virus, o sea, ni eso pude tener claro. Y tanta cosa para que al final me diga que para la cirugía que tenían que hacerle, que por cierto, no la hacen ahí  (entonces no sé qué clase de cirugías hacen) posiblemente el gatito no sobreviviría, que era muy riesgoza, entonces me hubieran dicho hecho desde un inicio y no me hubieran sacado plata! y es por ello que luego me dieron la opcion de eutanasia, y cuando consulté en caja para una eutanasia me dijeron que estaba 140 soles, cómo es posible que por un gatito de 300 gr me vayan a cobrar 140 SOLES, cuando solo una mínima parte del producto a aplicar, cuando supuestamente este lugar es una veterinaria MUNICIPAL, LOS PRECIOS DEBEN SER ACCESIBLES!!! en otros lugares que eran veterinarias privadas encontré en definitiva mejores precios! Y para colmo a todo esto se demoraron más de 1 hr y media en poder atenderme, eso debió darme un indicio de lo que me esperaba. NUNCA MÁS",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "METALIZADOS, PRECIOS NADA ACCESIBLES!!! Rescaté una gatito en muy muy mal estado, les comenté que no contaba con mucho dinero, aún así la dra. me recetó 4 cositas que resultaron más caras que en una veterinaria cualquiera, cuando supuestamente uno viene aquí para conseguir mejores precios, en la caja tampoco me quisieron hacer un descuento o algo al ser esta la atención para un animalito callejero. La dra. no supo detectar qué era lo que realmente había generado que el gatito esté asi, solo me dijo que creía que era ppr un virus, o sea, ni eso pude tener claro. Y tanta cosa para que al final me diga que para la cirugía que tenían que hacerle, que por cierto, no la hacen ahí  (entonces no sé qué clase de cirugías hacen) posiblemente el gatito no sobreviviría, que era muy riesgoza, entonces me hubieran dicho hecho desde un inicio y no me hubieran sacado plata! y es por ello que luego me dieron la opcion de eutanasia, y cuando consulté en caja para una eutanasia me dijeron que estaba 140 soles, cómo es posible que por un gatito de 300 gr me vayan a cobrar 140 SOLES, cuando solo una mínima parte del producto a aplicar, cuando supuestamente este lugar es una veterinaria MUNICIPAL, LOS PRECIOS DEBEN SER ACCESIBLES!!! en otros lugares que eran veterinarias privadas encontré en definitiva mejores precios! Y para colmo a todo esto se demoraron más de 1 hr y media en poder atenderme, eso debió darme un indicio de lo que me esperaba. NUNCA MÁS",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fabiana",
+    "uri": "https://www.google.com/maps/contrib/109498762977765394151/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgHiZgIS89YF1vqR39TL1LVSvu92eAyoDzC8PrZj2kkTT6WHQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-24T23:17:04.484524209Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNVpVdG5TWFZhV0cxbGFYRk9OUzFtWkRKeVQxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNVpVdG5TWFZhV0cxbGFYRk9OUzFtWkRKeVQxRRAB!2m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVVJqaHVjWFpuVTFweWRFbFphMFZXYW1wR01IYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 3,
+   "text": {
+    "text": "Me da demasiada pena que las doctoras que atendían a mi gatito ya no esten y literalmente hayan sido reemplazados por practicantes cuando estos deben ser supervisados,al gatito de mi amigo le pusieron mal la inyección. Ya no tengo la confianza de seguir yendo , espero puedan arreglarlo porque de vdd es un buen lugar . Atiendo a mi gatito ahi desde que es un bebé y es una lástima que hayan tenido que bajar la calidad del servicio que ofrecen en cuanto a la atencion.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me da demasiada pena que las doctoras que atendían a mi gatito ya no esten y literalmente hayan sido reemplazados por practicantes cuando estos deben ser supervisados,al gatito de mi amigo le pusieron mal la inyección. Ya no tengo la confianza de seguir yendo , espero puedan arreglarlo porque de vdd es un buen lugar . Atiendo a mi gatito ahi desde que es un bebé y es una lástima que hayan tenido que bajar la calidad del servicio que ofrecen en cuanto a la atencion.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diana c",
+    "uri": "https://www.google.com/maps/contrib/111208279772513446573/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU14-pyDA7ZtBCqdi3Pj72GfPI8Vvg03DzxSmhH-zc8yr7j9bdO=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-31T05:52:22.022965367Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVVJqaHVjWFpuVTFweWRFbFphMFZXYW1wR01IYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVVJqaHVjWFpuVTFweWRFbFphMFZXYW1wR01IYxAB!2m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkTVRUazNRalo1UzIxUGJUZzRTVzl5VkZwMmRsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Desorganización total y mala atención por parte de la señora de recepción del primer piso. Varias personas notaron que la persona que está en recepción tiene las boletas de consultas desordenadas y deja pasar primero solo a los pacientes que se quejan. No recomiendo este lugar a menos que se organice mejor el pase de pacientes y que cambien a la señora de recepción.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Desorganización total y mala atención por parte de la señora de recepción del primer piso. Varias personas notaron que la persona que está en recepción tiene las boletas de consultas desordenadas y deja pasar primero solo a los pacientes que se quejan. No recomiendo este lugar a menos que se organice mejor el pase de pacientes y que cambien a la señora de recepción.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Joseph Macarena Garcia de la Arena Ledesma",
+    "uri": "https://www.google.com/maps/contrib/115127191673043297302/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL_6YhNJIri1-1CtXVOtEuMG9E08k7NIHw3YJQT0t4D4d_Vcg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-11T23:29:38.952826636Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkTVRUazNRalo1UzIxUGJUZzRTVzl5VkZwMmRsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkTVRUazNRalo1UzIxUGJUZzRTVzl5VkZwMmRsRRAB!2m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNFZVWXhPRmhVTmtwNWNXOW1RV3d3UVVkdFdFRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Atención rapida y muy buena",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención rapida y muy buena",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Max Gonzales",
+    "uri": "https://www.google.com/maps/contrib/116369386073270225404/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyPKPsF1EjbyCOjaY2aRsR914hArpdqufQhBBVECDcAcN3TboyJg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-08-15T22:53:41.054947330Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toNFZVWXhPRmhVTmtwNWNXOW1RV3d3UVVkdFdFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toNFZVWXhPRmhVTmtwNWNXOW1RV3d3UVVkdFdFRRAB!2m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUUxXNDJSM0JDYW1OamFsSnNibWhNVGtRdGNrRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Había una excelente veterinaria . La Dra Magyoli Cuarrt , fui hace días con mis mascotitas que son sus pacientes y ya no está . Excelente profesional empatica sensible con los animalitos\nAlguien tendrá su número o sabe la dirección de su consultorio?",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Había una excelente veterinaria . La Dra Magyoli Cuarrt , fui hace días con mis mascotitas que son sus pacientes y ya no está . Excelente profesional empatica sensible con los animalitos\nAlguien tendrá su número o sabe la dirección de su consultorio?",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Margarita H.A",
+    "uri": "https://www.google.com/maps/contrib/104123688703801074631/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZ1JisFz-m5zHP4OpHSW-PxbK_Ftazub1yyyHq414OmuAF7Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-07T17:59:00.691236612Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwUUxXNDJSM0JDYW1OamFsSnNibWhNVGtRdGNrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwUUxXNDJSM0JDYW1OamFsSnNibWhNVGtRdGNrRRAB!2m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMbjfQne8gmQjC9Vtj4oiv-d8KFqnBzxCDpY8A2TAv0q5KpNzx78sE5Nku_TO8RMkjrIlnKwrHdP8Ey6q2POOUmA1KyrP_rkfn4U8Hdqwc8Ty0VRwcybZOX2PMsxvE3XYClOQnKJG-m9nE3BX2ZP3xNeXx5Q0dfm9GRGS-PvwqS_FRyKjVz_bS8bcs3viXRlUi8FDu4XPxV4jO7lH-MUmSoQwK8mEe37Yi8wYteGzNKe7vKB8tyvMPUyLbnjRzD5vVaJCqB0VoU440m_UVoPMJGFBokFSux_lKMW1oBRmgxE5oiokkHvYNoC8hlLbksAbA9GoZduk6jTCNnCu4_g15EETfBdHrAuyEChT6Tc6AJtQv4chCcH_gFBprcLU3JEgRbYgGIDkkqd1Q8O1VF_GMRbqKBZ8EY",
+   "widthPx": 3968,
+   "heightPx": 2976,
+   "authorAttributions": [
+    {
+     "displayName": "Jonathan Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/102836659940240319038",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJQoOaALaVG-4SF-9tgrPo85JKqqLkuILrifKQATebaT83PjE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDZ9JyF7gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZ9JyF7gE!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMbkjdubcKI5t17uEamTjtvM_eA7Xu117_EmjY61iFQ9Y8CGPZLVkkhadcMZot9wHC8-vsSsQjd6p2jAA_swEGbz9bZbZwvfu4uGiBXuhJcbswzx13oieFv5tx_v-tR-oEma2C2_5Gd20ma5NDa838hXgbnTU-X-nl5lHK9A3-zEGH0JkUu-zrrAISeUXzYO4RDzgvHo-IG1ZLNq_UkMG65tU6feXeqscrkzYinCwg1QVE12RRyt2RdifveHUO5x7ExiAhX2lphHJc7M2xFHgt03h1Lm8w8tly66n2auHvVOxe6BnGas2Kek3Ped9B3IZQK7ZDKEHjVKuS1OS-eXC8F_yOTBCnjNQEhAdFkvHb4d6CPDB39fJJz2WXw0gXDoiGgFIYB3EafvcvN9-tytrKWGG7s",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Edson Choca",
+     "uri": "https://maps.google.com/maps/contrib/100770356210417779114",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw-JjWPGYHHfTEl0WG3MmfoitcU9SYbeSK_ymp_Utc4hbJMroObw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDU4_mYdQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDU4_mYdQ!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMZpi_jSyyJekXRiX96B1l1a0DB76TcwJOtYZuLr1zy3ZNEE9ShnsNB3_HSVXZYJiIfFNGkCQYKniIZnXeJOvDbTbsQxoD5glu-vN1wsC-Ln514vcirNP1F1DIu5RbI5Juh2IZ8_9isd9YjLcrE8oeKCKjviCe7fwGs7F94EfVDgQCfvYgmk2_k5rWCo6BV076f0Jg03mu6xyo-SOt71GrsFNVJ8BGhLhYlD3EL6EgoykopriqRWquAPt0-zs7_pyTrrsmR8KIPQldTz6TQ3gekmXSQWPusEJimzwujwEO-QQMPciOschVGtMRSQ0RU_xBOtHnAWaVYcXuspUSM5LUcE121yCkZuNfWyoKQnhRTlskWUrN1BA5IZvnj6_IZVcwojQti9iWAmFK3PG_u0wTqDQNg",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "carla saavedra",
+     "uri": "https://maps.google.com/maps/contrib/106634704146485264534",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0Teu23PoiUsv7zEFEcSI-PmEucqYlQx4QHIIBWTokZCJHX4M=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID0997Pew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0997Pew!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMaKPL4w-UArLyYFBuWKiVFp9uFjohGQjp3AkU-aXaAwWsJor51hs4vSkagNVdswow6SbLCGZj0qrB2RhiuHhMZxFkIrpV2FGdC9POaEz0OxysDH9m9ekgJPrdekaF1xvttQ9nM0YTGEcju2K7VgxMNxiCJ_cnUqi2UvOml8ohq8zA3evyNbccK9tCNulIYmhFmvCOoaqjWiMdsZDsMcQhWAWVtvfKsj9FjTm2wctsEdcnRuU6VTNlZqSvfhjy3HlDljfexmLWtbgvoZW5g6zF5ikmw9M3Yq7Ry3f2LaRl8UZ5zFpmdf65UKtPqSfbSau44qWPJd8YuO6A8vlisXdwo1bUaOmnGV20W9If1ow0ef4vLZCLlNWRDKkAlBP8X4B05bdZ1uLV7rX9zPFBlLFpDbu0Q",
+   "widthPx": 1458,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Gloria Morales",
+     "uri": "https://maps.google.com/maps/contrib/109347204084230389735",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKV24_FbnIgrubR0MKwCO9EGmRgp1t8ELO7f4Zg6Hnex3C6jQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDy3LDQEQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDy3LDQEQ!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMZXx_Lez2xWBS6VagwuX-403lAu_19ZLDKHh0PjO105C6lOk6vfw26NXVktDpkBxoBSxyudq0UVd8ZP0SKDmbUnFe8pIvHPE5M0NljRpdBIK3kNfScbYdzTY7WESjGTrEWjNjjegGSckuwzdSdZdu5tkPqoM7pY0uk5dHcZDbiQxAhW6UJa8KadFhMMVkIty47YHokCZIiaorAH6I9lMDTVMFCCXWz1SnVJeOBjmaZLjmK3XJhxT3tUjtYZw1-0oKRUju6QFVoGTxHpzCalD20n5bcuJs5-zlv2qWLaeEWmL5TvtsP_Hb2tVS9rHSwejtU6Z7l2VrtPBF79Aa5Yv3EXsG5uAA1TWx4z48LywQYd9NuPrejYSTzWQYOBmFE7zec9LjjTrv9EzGbwnPcIWJqPeA",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Sandy Pérez Garay",
+     "uri": "https://maps.google.com/maps/contrib/113512986628169654134",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgJrs423RukK7RpLRLuGmsDtYGZ1KtWgzbMhvO03hdt4F-8iWX=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEoPvHag&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEoPvHag!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMbyKYUJ0db15lkfrQkyocBeA425Vrjc8ufi_CLvvqmK9ZX_tAmbTC3-lYkHnwrgZA07gfgP2rzVW5anEGPTNUh5qnt2SCCJKRFFLi0uZAjDUBPrv-2bVugrAlDF-TVFbhnJsXsONdwd7yEigFUW2TnXBazPTTKZihusyGJHrzUx7KrBf0CjR9OJ031-Zz-Hmo3-YmeHhxNDPgCpST2uO0njJw6IKlQoVvPdykIm3FJwjJfW9pqLao4Dxfih9yb8VLBWoTyQ8-ZS0II775OaBKm23TKVn4k1fkjZNw-joNMskECj_gIRAKhkdMI-mQoHTyeRZL39irswd6-XyGiSAsKjC4LyrSTq5p65zpLWINR8-cEMu3568O4d5cutdgHcBlDBBBCgBC580KHGN4jhlkzfoD3Y",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Elio Alatta",
+     "uri": "https://maps.google.com/maps/contrib/115530281334207805580",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-OjM2smdp1QJK8RhJyQwDgqmObzPblOgS-hA3QN_kOOo-kg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2qujT2AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2qujT2AE!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMZT__hTTkdsjwFyto4n6qUJKlhwS4enUjX_PPLbSwDhdLVpMx0njBlwShw1dQ7giIHRjgjjB2xtE_YaCfdK91DUUGG22dax1IOsn0LpSONhnWRsUEAm0YXupctYGDMnlwMgzaJNfnKPvvMzCU1vWB_qsRxlNNqdjdvCxS1igjFDwuxJbWUTxFQmzajFmRdLXxk9d0vsyp80gugQm_BLJiCpV_UwGJwI48vbxViGNIC6a4gYhhrNallkqJVlQbcKWgLcZKdqD6Vce_OHU4_q8ARVkZuII9r-LlJdLi5HDf7X6YMrGtVsoqnmILVNQcvlcT1mxnEcwYyWA13mMiAD9hDoFyf599w8lzQu4tCAUmaVqXgaxWbNz6HSr1L7jB0bVmaerfPl0oy-lFxmtA999B5pW8s",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Christian Marengo",
+     "uri": "https://maps.google.com/maps/contrib/116972010226247092677",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrGKO--t49erpPF7c3SyjgS5_FZ0MA7asXLK9WBrGdu1mfp6upIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk17nZWQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk17nZWQ!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMa1j6ip5oH8w3lCtmB8Uwe5PMyEi6T-yn5LuM0VdEvZphyqEVfyEuB0LFFEbiM6TsO_TGpfH1_-95_NR7P0QzFyQvyHfTxnBibT0qKRzM5Oz-gT9Z-cuSUq-i6eo3O9QMpILGqHHejYnpGdcAnnXnO0tdR44FQHB79DKthREloM1gamMm5VYT2_xdTxuh0m7hIZmcif9VzoOZtlYRIbmzlY56s43e5imMeHL1_q7YOThfGZMWlrlncNYFNvKaHQE_hyFRJmsOsZ0KMxw3K5q98PbXKijWT3P4Jg9NJnwMJJ21xOMi8mdJK-iOofLQLj24P8s8VnoxUCMXWrK_aLs7kGIiNqi620tK1XFuNYEfbaAPcUW8s1zWoroxSiz8r35MgbOga8Mv43RiGjJuXr-MRqHbA",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Edson Choca",
+     "uri": "https://maps.google.com/maps/contrib/100770356210417779114",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw-JjWPGYHHfTEl0WG3MmfoitcU9SYbeSK_ymp_Utc4hbJMroObw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDU4_moMw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDU4_moMw!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMaFeu6CgEDBPvxPLv-sTzqF4b4CSZJO4m5U_daUGJT6Y7uz6D3jAMHp031DoLlOTwVFhzo9YsZtvrgiGA9J3OlH_T0FNhiy8XqatsF14ncjK8lug-IEXZs7NVTDuDFPTc1zyZwD8IWheMMldrkoPs4SGnlWRmJciNuonEWmht-95HcKGwmC-f01fLYw5o7psgV8F8_8m0jWpMwaRhXe41lz6nKQbW-FABpop8glQwSHo_JAshLfjDx7MbcPrJaQDodwWVqcVDorm2N-r3rcKabB0epJoLbzKQxXL4fNiX00nf6EJathvNjmfp8zXl8R3qj2z6-XDlJ1oVnrVy7q8NbjSYTqH3iZQVQ3fnLdpwyhXaOP49RLfzbZcpug4uOCQ4VYfXRByZckvB-7_hqokjnubCJBq-M",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Patrizia Castillo",
+     "uri": "https://maps.google.com/maps/contrib/112857174224708318970",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyPoR8JABs2z4yIh0gmEB1lUkMmBc-jnQL4oR0LtnGSy8eQbDXKw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC0ypP64QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC0ypP64QE!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  },
+  {
+   "name": "places/ChIJ5e1gQorJBZERL5ECNhdcJCw/photos/Aa-ngMaUJKY_9TO8qkYJZiJI_XTLvfDvXWUB4f-DKx8ZI7S-SEssW_hMpYQb_hZV7SpOUS6Q9Dm05Xo7t3EOqFLLGlY77lWvkgzGCIy7Pzihssp0KS37_ewvRI2YwwKSIZ_pmEKJOCADL89zaS_2gvjnODSkG7kQpDb3xVkTdzAyd_uLppQ0WYikhCDqnA9MeWI1da5iMzSZyqmITBYCLK7AWNwpIyaeW_K1a4EqIJOPzBOAvZkBEt9WvagAjS79YWT_nYqkwACCN-eGhQQOrZbDY590QSkBXETdUYORw_mewJhVxykPTwreSz_h6kzRtcx1Vbpjfz5HYY981BBtjAGQf2fmI3KPDI6Pi6JWiDdJmcwfIAZRKSevS3lPZPRs6Oouj-gEPcUDbC1FRdPVS8B9QucnqA",
+   "widthPx": 2128,
+   "heightPx": 2134,
+   "authorAttributions": [
+    {
+     "displayName": "Olga Edith Begazo Donohue",
+     "uri": "https://maps.google.com/maps/contrib/111384463380230383085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt2V42CYOuPGJohDW6KFTXWhRDhG1HDzvrSEHtJyVImlnYZ7BQuA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi88L6XQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi88L6XQ!2e10!4m2!3m1!1s0x9105c98a4260ede5:0x2c245c173602912f"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

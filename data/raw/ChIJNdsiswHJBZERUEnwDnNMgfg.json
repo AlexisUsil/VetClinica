@@ -1,0 +1,581 @@
+{
+ "id": "ChIJNdsiswHJBZERUEnwDnNMgfg",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3049916",
+ "internationalPhoneNumber": "+51 1 3049916",
+ "formattedAddress": "Jirón Diego de Almagro 280, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "280",
+   "shortText": "280",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Diego de Almagro",
+   "shortText": "Jirón Diego de Almagro",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Patricios",
+   "shortText": "Urb los Patricios",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0839295,
+  "longitude": -77.05838399999999
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=17906677650457381200&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 41,
+ "displayName": {
+  "text": "Happy Pet House",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Diego de Almagro 280, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVaUkzU3VBRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención de inicio a fin. A pesar de solo llevar a mi cachorro para baño, el trato y recomendaciones fueron buenos. Además, el precio de la consulta es cómodo a comparación de otras veterinarias de la zona que, incluso, tienen menos productos, espacios más reducidos y con ambientes no tan agradables. Para finalizar, lo único que le falta es alinear los precios de algunas de las croquetas que venden ya que en otras vets de esta misma zona están más baratas (precios varían entre 10 a 30 soles por saco).",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención de inicio a fin. A pesar de solo llevar a mi cachorro para baño, el trato y recomendaciones fueron buenos. Además, el precio de la consulta es cómodo a comparación de otras veterinarias de la zona que, incluso, tienen menos productos, espacios más reducidos y con ambientes no tan agradables. Para finalizar, lo único que le falta es alinear los precios de algunas de las croquetas que venden ya que en otras vets de esta misma zona están más baratas (precios varían entre 10 a 30 soles por saco).",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jaime Yampiere Zamora Vasquez",
+    "uri": "https://www.google.com/maps/contrib/109127044713327664508/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCYMHrK5srGSobBzvgUhG_kaZ1RhWxepou3ku26COT0eTM47xTuA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2019-07-15T15:53:04.802833Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNVaUkzU3VBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNVaUkzU3VBRRAB!2m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxLTZhVEVREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes, muchísimas gracias por salvar a mi perrito, la verdad llegué súper preocupado, ansioso y sobre todo triste, pero al final todo salió increíble, mi familia y yo recomendamos a happy PET house… de verdad mil gracias, incomparable la atención y disposición, sobre todo me quedé con ellos para así mantener su control médico baños y más, los baños y los cortes son espectaculares… bendiciones.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes, muchísimas gracias por salvar a mi perrito, la verdad llegué súper preocupado, ansioso y sobre todo triste, pero al final todo salió increíble, mi familia y yo recomendamos a happy PET house… de verdad mil gracias, incomparable la atención y disposición, sobre todo me quedé con ellos para así mantener su control médico baños y más, los baños y los cortes son espectaculares… bendiciones.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "jose tuarez",
+    "uri": "https://www.google.com/maps/contrib/115028539399513255358/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU75kR3vL0cpR_9OMgbVDusfk_V68REBXZC1xk-Kw1q08XPHvt=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-01-04T02:36:45.568462Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxLTZhVEVREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxLTZhVEVREAE!2m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/reviews/ChdDSUhNMG9nS0VJQ0FnSURXN003T2x3RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Fui con mi cachorra recién adoptada y parecía todo bien. Excepto que en TODAS las veterinarias de la pared no aparecía ningún certificado ni diploma de titulación ni bachillerato ni licenciatura ni nada, detalle del que se dio cuenta mi madre. Al terminar la consulta, le pedimos su tarjeta al \"doctor\", no nos la dio así que le pedimos su nombre completo y empezó a titubear. Le insistimos que por favor nos apunte su nombre y al rato recién puso un nombre y un apellido, a insistencia nuevamente accedió a escribir ambos apellidos. En la receta no quiso poner NI SU SELLO, NI SU FIRMA.\nUno entra a la veterinaria y no tiene NI UN SOLO DATO de quién o quiénes están tratando a su mascota.\nEso fue un martes en la noche, nos habían dicho en la consulta que regresáramos al día siguiente para otros análisis pero eso fue antes de pedir los datos y ver que la receta era un papel cualquiera. Al día siguiente en la mañana me llaman para decirme que ya no podía llevar a mi perrita porque el doctor (el mismo que nos dijo que la llevemos ese día) había pedido vacaciones de 15 días. Pregunté si entonces otro doctor me atendería y me dijeron que no porque iban a suspender la atención hasta encontrar un sustituto (?) para atender.\n\nEl viernes tuve cita en otra veterinaria que sí fue recomendada por amigos veterinarios y tuvimos que pasar por la calle de la anterior en mención.. resulta que estaba abierta y en pleno funcionamiento. Lo cual me hace pensar que no quisieron seguir tratando con nosotras porque íbamos a buscar el nombre del doctor y ver que no tiene licenciatura. Pusieron en juego la salud de mi mascota dejándome días sin atender (la veterinaria recomendada requiere agendar cita).\n\nDefinitivamente NO recomiendo este lugar. Particularmente yo ya no tengo ningún problema puesto que encontré el lugar donde atender a mi mascota, pero hay muchos que pondrán la salud de sus mascotitas en manos de un principiante y que por la preocupación de la salud seguramente no se percatarán que entraron a un lugar sin respaldo profesional.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui con mi cachorra recién adoptada y parecía todo bien. Excepto que en TODAS las veterinarias de la pared no aparecía ningún certificado ni diploma de titulación ni bachillerato ni licenciatura ni nada, detalle del que se dio cuenta mi madre. Al terminar la consulta, le pedimos su tarjeta al \"doctor\", no nos la dio así que le pedimos su nombre completo y empezó a titubear. Le insistimos que por favor nos apunte su nombre y al rato recién puso un nombre y un apellido, a insistencia nuevamente accedió a escribir ambos apellidos. En la receta no quiso poner NI SU SELLO, NI SU FIRMA.\nUno entra a la veterinaria y no tiene NI UN SOLO DATO de quién o quiénes están tratando a su mascota.\nEso fue un martes en la noche, nos habían dicho en la consulta que regresáramos al día siguiente para otros análisis pero eso fue antes de pedir los datos y ver que la receta era un papel cualquiera. Al día siguiente en la mañana me llaman para decirme que ya no podía llevar a mi perrita porque el doctor (el mismo que nos dijo que la llevemos ese día) había pedido vacaciones de 15 días. Pregunté si entonces otro doctor me atendería y me dijeron que no porque iban a suspender la atención hasta encontrar un sustituto (?) para atender.\n\nEl viernes tuve cita en otra veterinaria que sí fue recomendada por amigos veterinarios y tuvimos que pasar por la calle de la anterior en mención.. resulta que estaba abierta y en pleno funcionamiento. Lo cual me hace pensar que no quisieron seguir tratando con nosotras porque íbamos a buscar el nombre del doctor y ver que no tiene licenciatura. Pusieron en juego la salud de mi mascota dejándome días sin atender (la veterinaria recomendada requiere agendar cita).\n\nDefinitivamente NO recomiendo este lugar. Particularmente yo ya no tengo ningún problema puesto que encontré el lugar donde atender a mi mascota, pero hay muchos que pondrán la salud de sus mascotitas en manos de un principiante y que por la preocupación de la salud seguramente no se percatarán que entraron a un lugar sin respaldo profesional.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alba Lucía Pacheco",
+    "uri": "https://www.google.com/maps/contrib/114538926131116417324/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNacuMWHfgKjjVndiX0D48zhCPO018n0NMx8dahCFrnzp4pqou=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-03-17T15:57:00.821328Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXN003T2x3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXN003T2x3RRAB!2m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNodFlENXZRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "No recomiendo esta veterinaria. Mucha desconfianza, principalmente porque la chica que reviso a mi mascota no sabe poner la aguja haciéndole herida a las patitas y encima quería operarla. Además que a la mascota de un familiar cuando fue a que le dieran servicio de baño la sacaron con herida.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No recomiendo esta veterinaria. Mucha desconfianza, principalmente porque la chica que reviso a mi mascota no sabe poner la aguja haciéndole herida a las patitas y encima quería operarla. Además que a la mascota de un familiar cuando fue a que le dieran servicio de baño la sacaron con herida.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Copo de nieve",
+    "uri": "https://www.google.com/maps/contrib/107718631219268280694/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaqEwEm_YAjHo67iVQmaYAEoen5hKCXVShCOBLr3ZSPKuSKMM=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-18T15:56:41.431126Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNodFlENXZRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNodFlENXZRRRAB!2m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1eXBfQllBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "horrible, mandé a bañar a mi perrita 3 veces y las 3 veces salio con heridas y el señor que hace de grooming porque no creo que de verdad sea un grommer las 3 veces me dijo que tiene pulgas le revisé y nada, no entiendo esa necesidad de sacar dinero yuna pena totalmente por la gente que no para pendiente de sus mascotas y les saca dinero extra. Vivo cerca la peluquería y siempre veo a ese joven que hace de groomer paseando a un perro (a veces dos perros) por las noches, SIEMPRE ESTA FUMANDO, el pobre perro ya será fumador pasivo, así sea propio es lamentable ver ese número cada noche, cada que el perro quiere hacer sus necesidades este hombre como más para con el celular solo jala al perro, ni si quiera se da cuenta que el perro quiere hacer sus necesidades. Las veces que lleve a mi perrita veia como dejan a los otros perros mojados por como 10min pueden enfermarse o algo. Urgente cambien a ese personal que da mala fama a este lugar, totalmente pésimo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "horrible, mandé a bañar a mi perrita 3 veces y las 3 veces salio con heridas y el señor que hace de grooming porque no creo que de verdad sea un grommer las 3 veces me dijo que tiene pulgas le revisé y nada, no entiendo esa necesidad de sacar dinero yuna pena totalmente por la gente que no para pendiente de sus mascotas y les saca dinero extra. Vivo cerca la peluquería y siempre veo a ese joven que hace de groomer paseando a un perro (a veces dos perros) por las noches, SIEMPRE ESTA FUMANDO, el pobre perro ya será fumador pasivo, así sea propio es lamentable ver ese número cada noche, cada que el perro quiere hacer sus necesidades este hombre como más para con el celular solo jala al perro, ni si quiera se da cuenta que el perro quiere hacer sus necesidades. Las veces que lleve a mi perrita veia como dejan a los otros perros mojados por como 10min pueden enfermarse o algo. Urgente cambien a ese personal que da mala fama a este lugar, totalmente pésimo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maykold Abad",
+    "uri": "https://www.google.com/maps/contrib/104727769187732564686/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgmp46WN27FE2vGRh4tLV-ODoqh5gRfhjcgESZx6QPSDD4og=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-07-25T19:48:05.845931Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN1eXBfQllBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1eXBfQllBEAE!2m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMYy-ezhANNHYe43W2IXRSZn_3ArCZyI2cIpXVM6cRlfZ8hCd1RzDbI0-fLNPjNyHGhXg_b2C9yyALjB_V0ZVoAauPh0OfGPtyZxWSx4L7aZs7WU56_i948oWTFoPTB3UdD5mEJ3a72bmZcfSnkcaOlO-5nZQiBCUSMUwqEMjYG68SYp2FZjjhdYAa5hn66XZmDXepxQKNfs7CSdIY4HnbyMzhfv5QxY4iXyh2izMuu1ggLbgg_PG9sdHh5pMX_47v3W5Ng80nZXLc5lAg3uCUUsSKQ0sRkwMxgPnRWmapWJDqdnT_vHD_5ubjvvbW0GbwIUC1Yux1PRa7jFFVYiuEEe-WWhTTDBhZ8nVLfJopYiSk9bkSVBBKowWxDrf07SVCFhcwT9P2k1h-Szj9ys51Eykzw-PKiKPQvsRHAg6xYvCLn9",
+   "widthPx": 1234,
+   "heightPx": 828,
+   "authorAttributions": [
+    {
+     "displayName": "Romina Reyes",
+     "uri": "https://maps.google.com/maps/contrib/113448485606388044931",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBWDikJeYz0Vf9DCLJEMTpOEt-1hCZBtFJZz504VJxWu7qEEQM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICU08W--AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICU08W--AE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMa_okLEDwoNMnv4Ekr9kvB91Xr3ovXgxb1UqLpCul2I08qZ4pHJcF8VOIkOjhGS_DaHLDImJT8jJeJQCb93dx30oXkZvQRfi7Yho5FjGlcpx7jBd-NgBHoAALoqaXQg_vrzxybc8v6M5d6vUVKBSGpF1Hh7ImRqb9bOsIaEZ2-ELS_IZex3g2Ozr7vLO3OxNhgKbSXae7G3YWWon1KvqlScur3NMP-DLwdGkYReoMc8DDz1gZL8k2vCzVKt0WtEfSAppYFdy4xsGmUOlp706Q7jzvWS2YxUo2naqf7Se81rr5SjmNKsieEoRS8f5-xm9nJLm8r020XudacJTfgwMH_xxHD42CCtw8dgmv9jlXjl2_ZVxv9RD3aSqHydRb7N3N6l459YWZm-TgPjVZtbe5nWNWPbfjzSDxO87qxrZG-MvJoH",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Jose Prepo",
+     "uri": "https://maps.google.com/maps/contrib/100603212749742124107",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9PssuPfG8ck7TX6IYQ7vB75WtO8HngGxYcmQWwrNKQEjmCQsFsA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICclumI1AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICclumI1AE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMZq9BH9y42rfSjQ6lalAnOCSAsRUwKuVTa1dXDErFx3MP6UY1Y0O5UPh1-K9pTMPq1lvy5wz3Gqow1SStxsMBe62FW7fbU0ujWztPh_p75yAxnBoA6h7WfwWt1bHYiOTqgPoNzV5QMC_ATobRaSaz1due0kT2fsHzd46KjBRRlVIU9m6l3--3Pd8-En5U5BiJBJ4bFpF6Dp3SahAsHPH4L7g8ieJHWHAdAXIpLFUktQaCxgadv5zrYDJ5VDcpD4oAgpaUIFdN5qbYNqCwmXGz4NVHf73mMEmlsexK5M7N_bzsXzoGsofw3B99W8FChtYG45CC80EET0ATpnArgyENFrYp_DWsrDhiAaaLw-PngWVR_se-Zo46ExCuOSZdFiV1p9Me5MBY5x9nC3lpYVM6TDazH_bixNqAZUnvBXn0nIuZqs",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Castro",
+     "uri": "https://maps.google.com/maps/contrib/117388094238919804319",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO5pA9ex0kLyag8Jlxpcdfb0uKIzyKoIhlKcRac5qvNY531JQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICugvz1vgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICugvz1vgE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMZD2gzqCSfsLMh07rIms6XiJYB1FLAqQQhPw4NCAsYkvi6_6nW6wCVXCWr13OP5lgv9fN6OyQFZuhTIOc0Hp-mfqmslncbazdOAKVCCYIWaXC4qwQwV7qKXoKHXQvvICi-TPmQkfpWvTimQ6KgvJRuROz8pYkkqnSw_6i3Nm_SsF7N3YLgp2rD5Eu_ITx_pjWM5c-paCmHGiD7iNDOlWTVK9Lx12rGyOOEU7DNKPvCrkSrClZj_NdmPebe08J73Ks9-Wo2phcvfMoagFdF8kEqpD2nfRpzrNBXKsW7qBIq6xbJKRCY9GhDsQ0UHY6toVA4azeBD40tjHd1jE2V_gCS2Bv7LEiiX0Mg6hpr0OVqEBeNOCGeCaNEFB-wluDxF1f12Kt-7eZCpwerZWrzUDd3nEBy7XrAXa5rFSXbqj-5y_R0R",
+   "widthPx": 2739,
+   "heightPx": 3432,
+   "authorAttributions": [
+    {
+     "displayName": "Rossy León Bobadilla",
+     "uri": "https://maps.google.com/maps/contrib/102115585288326021047",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFWGtlaCS94MJAa9AjnhRRR7lyPVddKiN2mpwL1VHaAcsFPE5JPA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICc7JDn3AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc7JDn3AE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMb9w1VKG-DC-Z5FPjP_Bx66n0zRA4C0dhraWcdshUdJ9xCkMWZVBntVo0hzD_ERfIXylCnWHH9dgOOHEPwlBexVlkSWMz9eMwv9n7u6ybKKlX6K2lxiOjaKrMpjFKciVtjV8ZCb0TSezEhr9UbxfPYVAtr15hrYJESr3ly9BvNKyNAo5G_juB01jPissCKtPpybSHx2teKKlPDUPRBLGRsW2TEJd7MfiFRJ5w0-B-EjYYLcVGsePaxA-QnBbS3WWWuxR-1a_5S1ReVnMqK6cLRVoTjAYlV0ZJQuehf9c1r8HKFOZwOS-5Fxn5b6zG2pefP2QfRrhT0NQXAaXsrziCK0QppTXwyoYGZSGNEh7ggTFS2Xr00dOC_MFLiIrcLWmdpBdOu0IOFjA7rN6CxMnBJApYlkPpGrqr2b8g7-E1g",
+   "widthPx": 2448,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Castro",
+     "uri": "https://maps.google.com/maps/contrib/117388094238919804319",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO5pA9ex0kLyag8Jlxpcdfb0uKIzyKoIhlKcRac5qvNY531JQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICugvzVZg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICugvzVZg!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMZFskWKWJTvvFcqtHKEbjfhl_DXwIZFibheoLQobRCfQGq4kWRwtkQvOOAc89Bxqicesg0T37zCziss6djVAkXr7fyY2g74ePZfxS-9E8DyUICVWiQRHZES0IXYYzJIJlUUJ8401Vve-RuV78HGODOER_TmyQY_ABaQhutiAS_19538h8e25Ced1jFYuljuv-R-GxtQVQUomG6zEFQVPR2DnF0efAkypZ4pe14yx26Tujv1rHB2A4dsZoR4y2FvnjiraOHdGq2nKa9KDivll5FuSMAhYjHdyzt9Dwu38V5ukI50eQ5mif8wrxACHD4qKe3hyQ_AX2NK6JhqZ3zg034ONkx_xw9cmC_ljVFp-XpZ5G2Qxg1M9ClBGeNHVbJRubp_knhph0oWlBV5q741kzeeX_Xqqg55PsYc59R5reZIuw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Rossy León Bobadilla",
+     "uri": "https://maps.google.com/maps/contrib/102115585288326021047",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFWGtlaCS94MJAa9AjnhRRR7lyPVddKiN2mpwL1VHaAcsFPE5JPA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICc7JCLNA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc7JCLNA!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMbHNcqyJXKt4hCReTJUiNCuVGach01UYcVpVE77HjOyZ4uJH4idX-NiSB_za3IXb36iiTYETtgmYKfkodSJWSk-IX6I7rxK9ZXbcNcFnLvWybiWUcPD8JlkmkzvmEZeM82kzREECyUUp0l06rU9kfw6zscPA6hkLEVnHTcqcVhH1dJ88acyIq1h6CIGaTC8RXEW47BLhaOv0rQD90qiMznZT9O21MZcoy8yNPFdKm75JOMm9VzrnopQDyEWU4Jyrv5YCh6OuJLPBL9nzIlGkJ_qAQmpwjC8XJ7FGLVtqecPx_A2iQxd7gbdFXt9qOCI-rUD8Z-2SfQr1-v3QCKgoiu6xnbCMUlm3br91MKX-FSUzA8v-8A1DC46OuYdy6gOLkxCzUMsPrXjUjM-HR1Y-hwh3UGtI6JmaqrALwRtStNPD6U",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Jose Prepo",
+     "uri": "https://maps.google.com/maps/contrib/100603212749742124107",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9PssuPfG8ck7TX6IYQ7vB75WtO8HngGxYcmQWwrNKQEjmCQsFsA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICclumIsgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICclumIsgE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMZryDU-_HkbxbI_yJo76NtbvRPJ5MycYBhT5ADTmQKXWsaxInzA6HzyESXxm1A0ncq0npfvdj9YU4T9VtbsREqnZOVm5sIEccRYPtgDVt3kuFm6YjUFwYokjsr9Xesen7WjAJZHoPitefId-Caq0cPCZC_jbr4bJ035qwfX7P0gk9gQSs7B1KcEE-Hwdbn36MxkznGeB4bNmTJhNhzFaEWtXG7jgxlHdPZy0fCU7WQEx1YQCf874UvuDy5yax5_MTZZEK0Hc-ZDTHLruXdczMZxfEELK8u6_aF6NfoxrxAPh3qwU_6tYhiIFomvdaiL_bdAKmXmZ8n1rJ3fYmtm56VqR7hbeRIzF2gVEXw9Dz1fyIg8r7fLVr3-POdqimlZ0OerKEzF_LPb7OQ0imm437Az84_-ysCSBM2YMiuNqsDqrgLS",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Jose Prepo",
+     "uri": "https://maps.google.com/maps/contrib/100603212749742124107",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9PssuPfG8ck7TX6IYQ7vB75WtO8HngGxYcmQWwrNKQEjmCQsFsA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICclqmfgQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICclqmfgQE!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMZHpEkXvjMJaMeqFfdBzOsiX1D0EP6K5CDtDUJhltg1CpJaPMI0rIptQ-OORw6dLilczKE9KNhRza5AGJo7TVtlBBS_GA_4i9ICBav8NQl4h6AHsOuzed_GJx_j9YTTN54aho7LBqU15sxmG2r5lSRfTJs5-UfYDr9eZxmgtPIS9IinFsQRu5YU2bdHw4DFOoSTN4U2Bs4ThNCTwRAC8MUrEWhSzav66wRfTbojYX0cAtr4i9eg0eJ8WgK9dFsdDFLP-UbKBlwWQaREmiofvO-z57VDC_FPzRlyX3zaarJcCotecTfSeGoMO-1OZNmU2828zsU70hFB_qDDcyIStQgD1qz13BDa5VHJHMlQQdBH_7UGLUOTsOzKoozX4kSEnIUSLvHFIejEke2BMOBKPRMH8ZMtw7YoSY5RuvEcIWSxFA",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Castro",
+     "uri": "https://maps.google.com/maps/contrib/117388094238919804319",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVO5pA9ex0kLyag8Jlxpcdfb0uKIzyKoIhlKcRac5qvNY531JQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICugoLkeA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICugoLkeA!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  },
+  {
+   "name": "places/ChIJNdsiswHJBZERUEnwDnNMgfg/photos/Aa-ngMaAcTi5vksLNbghLJ5wu4B89Xt1wcGnYafiSyrMNyYXrO1HdSw2pFoRL7tnM1vUPCeVgPXmx44YdjEUoSBwMkfQvWgNVPeLoovGBqSwIrR8H1K3RKqpDGsQTrqP5W73IotfzmKkj7pseJWj01NGRzMJmzifMaO5IfYytPROctqjT_gL3wmeTouGcbq5WeaGeuNRftgKz6ElEcjVI_2O4-UbPGftnEhAzBtw4RBT0sfn10zdW_ZFKXl7fPeE4wZ79RZ5PhHtjlZqvI5ie5imSAQgLq2upTYJiiY1HXo4p1ho6ZyhdfbYY9EU75nXPt2XPX7a-YDi4BSyW2lGLWG21VJNGX5JaEP7h00BFLagdH7i-u9CzcvOnSSLBt0Q_w9C-CzYoE9xVfvaGitJMMY1bmy8Qd81Xkcmo_GH9MK7Jn2mYg",
+   "widthPx": 2048,
+   "heightPx": 1536,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Raúl Osorio Muñoz",
+     "uri": "https://maps.google.com/maps/contrib/116066378000697338643",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULna_erA6lTgCdJffEFDqmzVQUB-SsgzwGcy4U_-c15ATuAOu0qg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4zYLXNA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4zYLXNA!2e10!4m2!3m1!1s0x9105c901b322db35:0xf8814c730ef04950"
+  }
+ ]
+}

@@ -1,0 +1,632 @@
+{
+ "id": "ChIJFQh3QxzJBZERW1razfqOdpo",
+ "types": [
+  "pet_care",
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "953 634 349",
+ "internationalPhoneNumber": "+51 953 634 349",
+ "formattedAddress": "Jr, Jirón Coronel Camilo Carrillo 107, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "Jr",
+   "shortText": "Jr",
+   "types": [
+    "point_of_interest",
+    "establishment"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "107",
+   "shortText": "107",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Coronel Camilo Carrillo",
+   "shortText": "Jirón Coronel Camilo Carrillo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0737539,
+  "longitude": -77.0374068
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=11130240736939367003&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–21:00",
+   "domingo: 9:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-29T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 25,
+ "displayName": {
+  "text": "CASONAVETS - centro veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–21:00",
+   "domingo: 9:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-29T02:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr, Jirón Coronel Camilo Carrillo 107, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkR2MzSnpkWE5aVVRsQ1ZHaFpSa2ROY0V4aFUxRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 1,
+   "text": {
+    "text": "Muy mala experiencia en Casona Vets (atención oftalmológica)\n\nQuedé realmente decepcionado con la atención recibida hoy. Mi perro Chess, quien ha sido paciente de Casona Vets desde hace más de dos años, necesitaba atención de oftalmología veterinaria tras un accidente. Siempre había tenido buenas experiencias allí, pero lo de hoy fue lamentable.\n\nLa oftalmóloga que atendió a Chess demostró cero vocación de servicio y nula paciencia desde el primer momento. Chess estaba asustado, evidentemente traumado por el golpe cerca del ojo, y no se dejaba revisar fácilmente. En lugar de mostrar empatía o profesionalismo, la doctora me repitió con mala actitud que “así no podía trabajar” y se notaba su molestia en todo momento. Al tercer intento, decidí retirarme: no iba a permitir que alguien trate una zona tan delicada como el ojo de mi perro de esa manera.\n\nFuera del consultorio comenté lo sucedido y llamaron a la veterinaria Viviana, a quien le pedí el reporte de la atención anterior para poder continuar el tratamiento en otro centro. Ella accedió de mala gana y me entregó un informe en una hoja sin membrete, sin el nombre de la veterinaria(Casona Vets) ni de la oftalmóloga que atendió a Chess, lo cual me pareció muy poco profesional y dejó dudas sobre la seriedad del servicio.\n\nIntenté pedir los nombres completos del personal que lo atendió el día de la emergencia y tampoco quisieron brindarlos en el reporte. Me fui realmente molesto y decepcionado, sobre todo porque Chess siempre fue atendido allí desde cachorro, y nunca antes tuve una mala experiencia.\n\nLamentablemente, ya no regresaré a Casona Vets ni recomendaré su servicio de oftalmología. Una verdadera pena que un cliente frecuente reciba un trato tan poco empático y profesional cuando más lo necesitaba.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy mala experiencia en Casona Vets (atención oftalmológica)\n\nQuedé realmente decepcionado con la atención recibida hoy. Mi perro Chess, quien ha sido paciente de Casona Vets desde hace más de dos años, necesitaba atención de oftalmología veterinaria tras un accidente. Siempre había tenido buenas experiencias allí, pero lo de hoy fue lamentable.\n\nLa oftalmóloga que atendió a Chess demostró cero vocación de servicio y nula paciencia desde el primer momento. Chess estaba asustado, evidentemente traumado por el golpe cerca del ojo, y no se dejaba revisar fácilmente. En lugar de mostrar empatía o profesionalismo, la doctora me repitió con mala actitud que “así no podía trabajar” y se notaba su molestia en todo momento. Al tercer intento, decidí retirarme: no iba a permitir que alguien trate una zona tan delicada como el ojo de mi perro de esa manera.\n\nFuera del consultorio comenté lo sucedido y llamaron a la veterinaria Viviana, a quien le pedí el reporte de la atención anterior para poder continuar el tratamiento en otro centro. Ella accedió de mala gana y me entregó un informe en una hoja sin membrete, sin el nombre de la veterinaria(Casona Vets) ni de la oftalmóloga que atendió a Chess, lo cual me pareció muy poco profesional y dejó dudas sobre la seriedad del servicio.\n\nIntenté pedir los nombres completos del personal que lo atendió el día de la emergencia y tampoco quisieron brindarlos en el reporte. Me fui realmente molesto y decepcionado, sobre todo porque Chess siempre fue atendido allí desde cachorro, y nunca antes tuve una mala experiencia.\n\nLamentablemente, ya no regresaré a Casona Vets ni recomendaré su servicio de oftalmología. Una verdadera pena que un cliente frecuente reciba un trato tan poco empático y profesional cuando más lo necesitaba.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cris Loayza",
+    "uri": "https://www.google.com/maps/contrib/105659082124237197347/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJHIYCTPdRiMOz06aMVkk1n48b6KCjvNsGntGCuh8YsTCw3Yoa=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-10T20:14:35.856411019Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkR2MzSnpkWE5aVVRsQ1ZHaFpSa2ROY0V4aFUxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkR2MzSnpkWE5aVVRsQ1ZHaFpSa2ROY0V4aFUxRRAB!2m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKUmRWWklaMlJpWHpNeVNtRlNiMVZtTVZkeE9VRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "CASONAVETS en el servicio de Esterilización. Es la mejor opción para comprar un paquete quirúrgico integral con un flujo ágil, seguro y profesional. Su venta especializada garantiza monitoreo constante y los mejores precios del mercado veterinario. Si buscas ofertas reales y necesitas cotizar una cirugía con respaldo médico de alta gama, recomiendo su atención directa. ¡Garantía de salud para tu mascota!\"",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "CASONAVETS en el servicio de Esterilización. Es la mejor opción para comprar un paquete quirúrgico integral con un flujo ágil, seguro y profesional. Su venta especializada garantiza monitoreo constante y los mejores precios del mercado veterinario. Si buscas ofertas reales y necesitas cotizar una cirugía con respaldo médico de alta gama, recomiendo su atención directa. ¡Garantía de salud para tu mascota!\"",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yolanda Palacios Aguilar",
+    "uri": "https://www.google.com/maps/contrib/113865610145094381512/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-EFWVDM7PB-4OETsYGcbALvIuS2C0uDO0hRCOAnDzIAcx-w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-27T02:43:12.525959939Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKUmRWWklaMlJpWHpNeVNtRlNiMVZtTVZkeE9VRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKUmRWWklaMlJpWHpNeVNtRlNiMVZtTVZkeE9VRRAB!2m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGbWNETnFSbVJ5WmtkaU56VkljWFJVVkVKTGVVRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "\"Excelente gestión en Casona Vets para el servicio de Esterilización. Es la mejor opción para asegurar un procedimiento quirúrgico integral con un flujo de atención ágil, humano y seguro. Destacan por ofrecer paquetes especializados con monitoreo constante y los mejores beneficios del sector veterinario. Si buscas una atención con respaldo médico de alta gama y necesitas una respuesta inmediata para la cirugía de tu mascota, recomiendo su servicio directo. ¡Garantía de salud y confianza en cada etapa!\"",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "\"Excelente gestión en Casona Vets para el servicio de Esterilización. Es la mejor opción para asegurar un procedimiento quirúrgico integral con un flujo de atención ágil, humano y seguro. Destacan por ofrecer paquetes especializados con monitoreo constante y los mejores beneficios del sector veterinario. Si buscas una atención con respaldo médico de alta gama y necesitas una respuesta inmediata para la cirugía de tu mascota, recomiendo su servicio directo. ¡Garantía de salud y confianza en cada etapa!\"",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Max Perez",
+    "uri": "https://www.google.com/maps/contrib/107801749533225932032/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLL55aLgivKx4K-C1OTYmTlALKgTyI-QObnNiFLgGZVBjt8rw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-27T02:44:03.980732441Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGbWNETnFSbVJ5WmtkaU56VkljWFJVVkVKTGVVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGbWNETnFSbVJ5WmtkaU56VkljWFJVVkVKTGVVRRAB!2m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paMWEwMVBWbHBMYjAwMlZGcHhkMFpKYjNoQk5rRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "\"La mejor experiencia en Casona Vets para el servicio de Esterilización. Destaco la asesoría técnica previa y el cuidado post-operatorio que brindan, lo que da muchísima tranquilidad. Es un centro con infraestructura de primera donde ofrecen soluciones integrales y una atención personalizada que marca la diferencia. Si buscas un procedimiento con garantía médica, equipos modernos y una respuesta clara a todas tus dudas, este es el lugar indicado. ¡Recomendado por su seriedad y calidad humana!\"",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "\"La mejor experiencia en Casona Vets para el servicio de Esterilización. Destaco la asesoría técnica previa y el cuidado post-operatorio que brindan, lo que da muchísima tranquilidad. Es un centro con infraestructura de primera donde ofrecen soluciones integrales y una atención personalizada que marca la diferencia. Si buscas un procedimiento con garantía médica, equipos modernos y una respuesta clara a todas tus dudas, este es el lugar indicado. ¡Recomendado por su seriedad y calidad humana!\"",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ImportarMac Ventas",
+    "uri": "https://www.google.com/maps/contrib/104572016456726734493/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsgqUAQJURuSHc8nFys1LRIt3TBl1h-LdUpaIVeEI6Mvriug=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-03-27T02:44:46.099967643Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paMWEwMVBWbHBMYjAwMlZGcHhkMFpKYjNoQk5rRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paMWEwMVBWbHBMYjAwMlZGcHhkMFpKYjNoQk5rRRAB!2m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnX19tNHRRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Nos dieron una solución rápida y eficaz a un problema que ninguna otra veterinaria quería aceptar, tienen un trato amable y se nota que le gustan los animalitos, además tienen centro de educación canina, peluquería y petshop, muy recomendado si deseas que está sea tu veterinaria para toda la vida",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Nos dieron una solución rápida y eficaz a un problema que ninguna otra veterinaria quería aceptar, tienen un trato amable y se nota que le gustan los animalitos, además tienen centro de educación canina, peluquería y petshop, muy recomendado si deseas que está sea tu veterinaria para toda la vida",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Kaleb Ugaz",
+    "uri": "https://www.google.com/maps/contrib/116168245880618962253/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvrUhJTWi7qHSuD7NXrN5E3A41ec8lj2N99cHr18sHM_fi_fNL=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-02-21T21:31:49.993058Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnX19tNHRRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnX19tNHRRRRAB!2m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMacYlTRbTSIrGg3_wzt-A25ANX1PzZvD6o1RcTkcBXBSrMvNGcBdrTwPa7eaFtPkOsD7sCLfIe5i8VnweMa7p8UJsVTcoFtSk1Rq0jH3MokvIf3R4C6u07yMmVtl-IriOSGjJgKxU1y5O6Lbt7K2PX_fmGjLIOOK_kRRMqLsbax4kf07qMHbzl2dMjXA_OPtCG96oqrx5OCrLcggi2CUQYKAx1teH__l2jCPDBZ4PRquvs6jbgqca9IL2Ezsxiu6SV1GIowvKJhfOpwe2-y1DIQIv4EU-EmKhyW1a15IWukaETEXuAOJqVzUJBa57oLzydbTFUuQhyKXTA-MKYeV8U5brAXWGN_CUgY3OFMoP_P5JrS_zieNBM7u_QaZ3xNhQvLGeziF3u_cCTsJC_r6U2S6zXqvmnd85eDeu_ucNzDavCyRraHq6WLhhxa3Q",
+   "widthPx": 1536,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCDlLwAX04zuJA4xmnlgEz5&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCDlLwAX04zuJA4xmnlgEz5!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMaQzw4iQJf0HCRmV-GZjAGCdAOQyev25jDx-XfUc2IJAR7AlCrO7eb_dFxhfZleo2SbY3ubNcLNpRvayaIJHFwtukIo2qLzpFm7oBJ6vFoWUFj64I8Zv_BYGGt7c9ZCkkN0Ra5D5DmJV4-TPU6qBUD3XI0SnYZfUWSuPwiAfcW7ZLcKEEqD5LRMzNg0DTIu8idAeTKIyPWextOlu8GJtdVkqhr0ArIQUC03GBz4JDmfdhMVlPj_fvrmkajpuLFvG2H5NsnOctxYheb6bePxnBpAAIvVfGphQHOQ1M9ulj3joGnxaLE7nioH7vdj6AO1Yfwjs9tCsOT-RHHMC_t4EEsU-q8-vCydgODzjhBzjuxmLFU-ugdVxSuUJJ0uvIetQ-Ift7hNCYADEwtLsf9X7HaRL29yT5OAbdpjOJgc3HsARrmniyYLaTxe5sJ-vwhq",
+   "widthPx": 1086,
+   "heightPx": 1448,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCcvyVdTGqhlTn3DaDR1S49&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCcvyVdTGqhlTn3DaDR1S49!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMZmORjBLhqx5vrigaZw-YOQICCrkgGS3x6KtjYnZ6gnZgJV_DEMLKF2-eHR2dHt89y9u1HCy42vAlHF38KWaCuYQ5QT47o5AQAQOH4WSDkp30MeosPrPyUZLuEUOSXibJ6Cj5wS-I0ZGZAahoSMcd40rxkKMEVEVf9MQh6xFtPEmVXhV0fZmsteR9P6Z8Yy0NA_F3O1nlCeW484BUc_DZdp9d-qx4eeXX5P3jMgB7VZy8nn22DXOYBSr5m2s3HnlZmAnkPGN3jKVBwNiC8Gj9e7FmnjFPZWYGrbm7iqWxa6QDu387DVEpYFCargAI_kCaVLB32z6ynVBTcHl0yZT4Z2r1vB5lCui22poiH9VLRJj_OneO1S2PVMLpaCOCn2NhrkTiGCZt2j6BVqb-UYAOkvgz8b1Iw8fHfgfwPi9-SqVqlYBbyZdRuv4R_a8Q",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBfmdltkbfIqPAHje15YwI8&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBfmdltkbfIqPAHje15YwI8!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMb0pttb0A7-ILcVlsIeiU4PHETdGorlfTA2sqqXWFecKbZRoPrMbQcC47j900v3ohJ4sFiI4ExKYCHKi3VM8487x_DR7Uj4rtl1OD-28Llef98yhhxWb2VRf_bJGfO5bEbYdL4iyaJ4I1gy4gNxEnS1_vkID5h9Na-gnhxDP0yKCZFF_QW94NtTTYWBmeBnaYb9Hl6rbrpcXvdDJSlY-gq4ltTDjskT6yML2BFkCEhREPRPOpkCC_hiIF7qzTYhS8f3auXYvCtfXAU6PGKdD9mxzMsez31BWJTYsMBnbx-5QRQijj34b32rlMLoG74xd9d2ZHBitoS_CvC_nelLBTiL03LLZDnCJNxQDGABb0NBPYM4YxQl_hQVTkU-Y7DZsi_T0JBH1JzOLMOjenYc2y50ayDA0GxUkm1iiPpnVxAVoG83o41kMVFSLMY0lV0S",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCzlZV6FimHY18F2HY6Tnx2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCzlZV6FimHY18F2HY6Tnx2!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMYD2z_pwoFikpFAMkrKcMp-tt4aU07CW6K7DgpD5jpEXcA-sploj49H14WrjrV_X55bM2Czwyt27eUZqt2tkaOZDTb1pbdwnjP4FVh9F6S5zpM42zjoFUEKQ9BtEexKsdhzlg5XX5y2ZEKjOwUT_dnvFojSr1HE89TNX4c7aMM9z5SpeZk-DNNcf5kX_mpkBx4C4YGSivupCvYCfAzRl2zIhLUtA6UMOHhoMGWtcKIhLK5IU8ggiSbXw3DW4_EabhHtLyZehvBhC4E6UsLh0ocg6muVaruBbnbjRY7m65cIE8akXR9ormby-DB6G5nCONu_6643YcipClkZFfouHPi-kzImBKJOhfzmyTxSFAfKJ1iu87UyDXYMOA9aWr-I-xCfXtcTPBzlTRai9-ku2nyRmyOgLj2GGIPVrGZy9IJwB7-uQOovqIz7kXPbEqgE",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDLAxk28V8Lh_IH0_nZ-oLc&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDLAxk28V8Lh_IH0_nZ-oLc!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMYkXYWgz6PJbjT0HZepGABdjpdMvsxsSHBaYd8zMca9DFoTtat-qH4gz2wj0Q2uDOuGugnHRnmoo8zlgfAkiIVbRKdHx7_YFB-l1UCPdbh_XR9O_VVFshVPVqymLi_lWsrs_tRbsAYvX2YGWpUmPg_IopKTaOt7S7ojV5aR-hAM8NjdJi8eRoKUhwaLHlwSkKj3VYhvI5CqUnikH4nhc-03cu3uzuI9kYrNEsAgld7b9MZTew8wTIPS-AjrL1_NLDovDbfI56hFB91xRjTGUBlSkg0sPHe-jp2r9pgoddWt2xOWPbDBdCr2qNZUgWu1O1SloBsncPqKC0DgJLx926_LEGnwGtULoe3vJghgijPdaWc9nh8xKGFSruMKNr5H6NO4Kp8Pfk8kcPAo-UfwBJ9ZwiY7Ky4T2LnQV4PVbraVjg",
+   "widthPx": 2604,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "JEGALOV",
+     "uri": "https://maps.google.com/maps/contrib/116574384431703889809",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdAAIUNAhBwiyAhbAoPo3rxT_dT5xxWHgIXsEAlj_nS-x1mlEpMA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC7oOu5bA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7oOu5bA!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMZZzjc4gfPeuNZadMzPL18c9pNAR2ANUn7ppj11eZNpjCjre4RE0-sMyOSPsDvEHJvPFuTEh5yPrOO5aWx70nPEPeXQYRMkQUpsC21KacplWJeHy2hmuLXtfaOi9KgW3n_8LKhOH_VAkXyNPQD9etHKBuGho0SStJYFonrGY00ivbqajz6HC-UD72ERY4816Slb68br7EwkzwoM-vUzULdueqgKzs_BpMs2D7eI5wSic-8psRzIE28E8FSHTmxww8rYcUK7yABzR5ahgvuNPwHe0aasBkZJCyse8czWzGNpJyAMwV7aoFbTmXRYd5IJt_5vvEWRL7SFCpCglRtITc-7Bh5abTMH1QWbwJFpcfvgjCPXNJ49f65igM9jmWb2bVDSqJLPjwF-hK-pEMygk9S66BV5kaXedJHcOCWTSwu4yPDSvUiPQHT1MB_Izdzh",
+   "widthPx": 3072,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC1OnB-NxGhDsqcT-gvkaJ6&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC1OnB-NxGhDsqcT-gvkaJ6!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMbnenfUfppc_Lc5hEnpay7mCWqKOxyEzZTGqihaob0oG3TW3uBf03Fgll91GPcw05QMhG010eCGO-lt3lTL3FcW4OIz7q-cMauL1iGzQUL5sfnlVbPLlQlg4p5lT9gpuc-g-PVftIcW3sHBysqkEq9v6_zJZREODFNC5uxJ2jGLgGq4-sDD2td-tIeAuYEcTIw_9T1bM_fTyA5rnFdhooWlGlhIO321yKlQNkjxYOorGjkYshYVVsj3Lmt0Rj5w1_rgXZybeWf_6JuYx9XybB0MvBYauWn9CbFKn1chnif_DVFE8YFmp_OHqxCYWQqBJUvuNUrK2fe20Ir2WfUCjpUu9KpJZU2rS50zrrs1SmuUNmRk6aakh0_0WYmi5EmsZThJV4fsY5EW4axHWXdqjRV323zM0e6waDdbkjU4n69UcnWOvOcrOPRETSWso82j",
+   "widthPx": 1086,
+   "heightPx": 1448,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAJoTkxeFHZUUVic4USN3Av&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAJoTkxeFHZUUVic4USN3Av!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMZrJ6fujxfmT8rdSXobV-l7pCbe10GbzP2ruA4AQVh9-yLILIHbGI33wgmB5wCjOh9NXqO2GznRo7gF9BtDdOrhH9PsP1kM7WoSuuqWyxnRzAuywywxdwMwMDmb0nAtmKyE8gW9CsfoFUJGoITJlomeQmfQzrZgvVqCEU7Qy-tzA_arK3Ba8Ko32H9P-yBAyNo_LtOJ6lngu2EJLFWzu3jcc5QiGBCFpk2SJmmWxbGGTc38MDCVx3bVIj2I5M47co-3rJYno-8j_fqxOze591bSdR660qhfwQy65AORJbRxSc9AxyROKbINEmqg_k4jc7D1_wBeXeQ-vYg-_fU-v38s1L04goJIP4xowaiSwXO42PPAxX62xmo2OwNOfqQRSvcWrkLdPA9j6XwOmE6wjKAnThV3usmm-Xc34xIb-scjKQOKUv01qEqYbumJSARR",
+   "widthPx": 1086,
+   "heightPx": 1448,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCfqk3OWc4wnI2ES_LYcawb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCfqk3OWc4wnI2ES_LYcawb!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  },
+  {
+   "name": "places/ChIJFQh3QxzJBZERW1razfqOdpo/photos/Aa-ngMYixHuw6WG5NMiuKIIULV7JXj63vh_tbSO42GX8NvsPWx00Tc_bFuzTATckDpJnnBuT9e8vm0Zt5u44JxlvlReot_xPElZS4KMCf0LP8HpyPmoZ0VGJ1k9RtTx4WBZKzgCcUSQLO7n0sD473sj0iZImeOZ7ZSBo-jZ3R4naBwrJTWPdaNzxhLOm4WQKo3THrOwYA3HkplndinpC9WWSDm2ChjXbBMIjxTrmYgHnRmq1Z4mjrKgWa3h1pI5ZAlsoq630fICCahDzQIQ-mOHVs4kK3uxGclsq9gbGFNyuetFqlTixPapI8EAjrAXZ-1Ou2YSrn9xRdgGwH3ue5D61wRpgbMxUzsW-M495gfGYAgZTSf-lalFyf5TPlBA6m3N4L5LK4FrnHGL4quc0UCdfMYnluLC7Y86_KUE4AEzVsLwTXg6u",
+   "widthPx": 4080,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "CASONAVETS - centro veterinario",
+     "uri": "https://maps.google.com/maps/contrib/107522865423253422418",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX57tQenqMqBg0DUracCcuXdmkutYt_B0weego9hMtk2IhYLj0v=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDF2unjyAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDF2unjyAE!2e10!4m2!3m1!1s0x9105c91c43770815:0x9a768efacdda5a5b"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": true,
+  "freeStreetParking": true,
+  "paidStreetParking": true,
+  "freeGarageParking": true,
+  "paidGarageParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

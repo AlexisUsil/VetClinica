@@ -1,0 +1,533 @@
+{
+ "id": "ChIJH6YaNq_JBZER7JbRYV8fUqU",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 615 893",
+ "internationalPhoneNumber": "+51 952 615 893",
+ "formattedAddress": "Jr.Leoncio Prado 1051, Lima 17",
+ "addressComponents": [
+  {
+   "longText": "1051",
+   "shortText": "1051",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Leoncio Prado",
+   "shortText": "Jr.Leoncio Prado",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "17",
+   "shortText": "17",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0881732,
+  "longitude": -77.07166819999999
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=11912618458871863020&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 261,
+ "displayName": {
+  "text": "Convet - Magdalena",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Jr.Leoncio Prado 1051, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMldWUjZRV3BPUkhscGNUZDJSR2wwYzNoYVNsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "En este aviso dice que su horario es hasta las 7pm, pero según el personal cierra a las 6:30 pm. Actualicen el horario para no venir por las puras.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En este aviso dice que su horario es hasta las 7pm, pero según el personal cierra a las 6:30 pm. Actualicen el horario para no venir por las puras.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Silvana Cabanillas Pastor",
+    "uri": "https://www.google.com/maps/contrib/110866769554050031064/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgvfrlPavrQyB5liCWtpK_DXEXnVyJDC7LW6_dO2jBDT7uGpVUpg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-24T23:54:28.305977811Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BMldWUjZRV3BPUkhscGNUZDJSR2wwYzNoYVNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BMldWUjZRV3BPUkhscGNUZDJSR2wwYzNoYVNsRRAB!2m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQmIxSkhVMDl6YmpneFMycHdObkZQWkZKdmVIYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención y rapidez. Solo un defecto, nunca te brindan una bolsa",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención y rapidez. Solo un defecto, nunca te brindan una bolsa",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fernando López Dávalos",
+    "uri": "https://www.google.com/maps/contrib/109454748105622643389/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVe9bk3pTQh8lJcxMXq89eptArFiZNGCMrqj7Hq0wfCos6Wdj3Z=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-07-04T15:21:56.014705516Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SQmIxSkhVMDl6YmpneFMycHdObkZQWkZKdmVIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQmIxSkhVMDl6YmpneFMycHdObkZQWkZKdmVIYxAB!2m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taS04zQnNNM1JmTFMxS04wVmZNelpIVGtrdGNtYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Tremenda opción de farmacia veterinaria. La atención es super buena y te responden por Whatsapp súper bien.\nA veces, cuando no tienen algún medicamento, te indican cuando podrían reponerlo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tremenda opción de farmacia veterinaria. La atención es super buena y te responden por Whatsapp súper bien.\nA veces, cuando no tienen algún medicamento, te indican cuando podrían reponerlo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alejandro CamGius",
+    "uri": "https://www.google.com/maps/contrib/104134896586729659575/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh9hYrmkJUeNgCupJ2MAWgW9zy227P-jbv2URW0XuepBqVafdHBg=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-04-14T19:25:13.324053316Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taS04zQnNNM1JmTFMxS04wVmZNelpIVGtrdGNtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taS04zQnNNM1JmTFMxS04wVmZNelpIVGtrdGNtYxAB!2m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT201T1RuRnpaMnhTVURCUlZDMUVjek5aWHpjdGVuYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 4,
+   "text": {
+    "text": "Muchas horas se toman de refrigerio, deberían poner más personal",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muchas horas se toman de refrigerio, deberían poner más personal",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Castro",
+    "uri": "https://www.google.com/maps/contrib/103293174604105374383/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaS2_iW20rEqnt0BaEWKaVjdb9wl386LOc2mOXlYc4-09r_qk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-19T02:43:28.292919212Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201T1RuRnpaMnhTVURCUlZDMUVjek5aWHpjdGVuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201T1RuRnpaMnhTVURCUlZDMUVjek5aWHpjdGVuYxAB!2m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeGRXZzVTbEZ2YmxaNFRXTTBjbVJQU0V4cFJXYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 3,
+   "text": {
+    "text": "Mal servicio, cierran antes de las 7pm a pesar que su horario es hasta las 7pm",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mal servicio, cierran antes de las 7pm a pesar que su horario es hasta las 7pm",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "David Valencia",
+    "uri": "https://www.google.com/maps/contrib/103895432854551854992/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHug7JsO3Z9eO2FgOdY5E8xt2kUMtaWI1J4LJX7GymVTYU76s=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-21T00:24:30.609969153Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeGRXZzVTbEZ2YmxaNFRXTTBjbVJQU0V4cFJXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeGRXZzVTbEZ2YmxaNFRXTTBjbVJQU0V4cFJXYxAB!2m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMZ2w0pA1jeVv_UuD1Sly7TKD2nblFSrOCeWy60X4LtMR4fowgIhFwd_1xBdtS7KxqmvZwWMIhiy5xrecyWbc_lF_NUAxnniMNEe8umG9seENEoMlXz9y_RxeexQFH54AXFoUn0QiZr-DoC7OTYkgol2IZfLwe-iABK7ZSU00dwv4vgFyLj5BivbXLB8BMSr_2-dsH1yFMILbg4-3sn4WLOrcYGyMEiwT4TJIpXOnxhNJEFKxuQoGMApK1ZkARiiKP_80nkQdVcGhQXG9CHHKSNh8r4vyAW2M7nTZTZZNZIs4aRK_EVuz_cpu7RqaDbP4kPVhKuEkAxiCf82O3mVPIrFFNeDSdtY7dCO0uskp2bsJuDKRiB9TMqs505C2YqifDsZMRIRkaz2cG-LI9aYhyfME33VEAI",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Magdalena",
+     "uri": "https://maps.google.com/maps/contrib/107489256173248442932",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU5gJjD6x-A92yK9AtaecE2xy2EODUnrKC6BL8M8AaXMJKl2c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC65JugvgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC65JugvgE!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMb9XG9mdKeeradioi6fvwuHhLHC0m9MNAnl3JRHPcAz1vhzdnu741zwZAzdZAbWHVsY3kiQp3aVw0_9ZIdmltFArMVSN-Wi4iqulnAaOLWMejsbapMue03RJFUGaNHa0xiil5ARd1NBiLL1B18G5vXHOCOy3fk1iWD5wqi4Vn8W-8ldIYqMV41SwJrLDI6PJiJKDd3oSVAMRGHxVSxOmsPTYD9E90Ixq5eUZ3H2GvFC62OONBb2z8OPXYV_JR68hnumuwsyWIlmEr49WQ_ZVb0dks68e4Ybl2A6_8ikgLxbISTU6eyX6GSUaoMvgXOjys-gAhyIdhCyQdlHOJe6dWeCFZSXfOzNJgCjQkjVV8n376OvClCRxhB2LBXxN4ItNIQ-eBs6t34WvWrREo9WAbYsziKvL54",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Magdalena",
+     "uri": "https://maps.google.com/maps/contrib/107489256173248442932",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU5gJjD6x-A92yK9AtaecE2xy2EODUnrKC6BL8M8AaXMJKl2c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID6zbu8hgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID6zbu8hgE!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMa7R45KsY-CzAvOfjoYht9w6VqOBnOQ1UyRAFkOthdsRJrTBOQ48Y0J4Xm6zLketslk2VxMTxuMYeUV5uq0pG0RXLvDCf9Qn14NRdfYmzKWRGOuFSTH5G_jxh3KHtg5y9KEsVBMkNjLMNPn0AM4xMw8nPo9L4kCQBvc3jMigo7rrTz0S5AmlPjK6LcVKXxz8DpET51XXHvUXtbjH8udcKS1ze10ZU3tY_VwqfB0vEqDoNejoUok7tJ4OfM_U-VXuLZCCIt2G3lOb6O_aS_mwcw2lDZdkmctiKhw51RxnmuCt9M22DMJW-xdZRYlyyKEbvJFIojPRTAnKbLwtWmDIrD6Xj6Hy7NonKPVaSHkMviGDqdP64ecCQniRRruqfW-fmnzST2WarcDTWBA2k8sq_yuY87Y",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Magdalena",
+     "uri": "https://maps.google.com/maps/contrib/107489256173248442932",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU5gJjD6x-A92yK9AtaecE2xy2EODUnrKC6BL8M8AaXMJKl2c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDSr86F2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSr86F2wE!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMbsGv6JL7xkoYmRtzlvOohsHuJg91WtNOWzmQVgxz5ouLcnlGPi5x0OcbzypW4Ex-ynvm62OjNowW2Mg18yF4OmUAyEv-V9BLRTRmDNPxRB0abnf0_NA_fd8Fd3bQA5-FqQ2yKaHH-QzhzHUT9JHqXdJN9_aVnD16iVIEwZ-iew2Ijqf3e7YJ9vZfqKdV7gp_3FfVaFdVgwHlb90eAvbOR5dayMBjwgHkRbjHjuwVfUCnveaKci7zMkyIL_FKwrzFvdNVabTYoECuPX86wxNc12P-W7iPMeR6eyCnB4laa59gesH9dfqE1mdj2sV4bAN9vkptcAvYMU_4YsP1n1DZf8v0Jw3DQ5DmQTdkn0uGrEP33-iz9ek6r8RjjPvOUM_GjVS8XfKpQZqgh-u4S9oN_sta4",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Mauro Ramírez Pillaca (Business Manager)",
+     "uri": "https://maps.google.com/maps/contrib/102080151698297815474",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzpQ2SQp14jCW9fxqr7KIGj3XvW1AgmbKWr4J4QirGdU52E5F39A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhteLgFw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhteLgFw!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMaYyomjc4nNUDz6cDoANIa3yeaCvoUJUWuoGIN7Wv_ZEbyoj0npRa3110Fupn_h7KF1uj9nKxANf-jnHA5LUSXjhh01L-o7afbwWsfubZRLEcnj5T38o1XxXBBt8pjQfAUj_4XhCHj54VjISItYQVyHMYQG2p2NeBmE6SBF-gxNx8q42NSWMH9x3z8emxUB6Ti9GA8z_sCtuhFbWxGWHz8F8AfxERDXHBCirWDUDNyNuOewchy6tXOF7nX7pxstIq3RS6Txc_wR5JIBrwkd1iVaTsFlaSd1X74lQ1UrsbPgRVBSs5i23tKjrpHhCfbKtcGXiJXKHCpOI0xHTq_1-cxmfFscK51Y88F-sUZFhxXVVQ3qVqaVHLYpu9aXsa1-ip_J-MNuPZWrd9UwIhBpZgGIzC5ZNGk",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "RAUL",
+     "uri": "https://maps.google.com/maps/contrib/112676786837478592405",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKECDAWx2_U0ezxqyTrfh-OdCCT8iuROl2zHrZBFvaG6NoZrYc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICs44Gt2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICs44Gt2wE!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  },
+  {
+   "name": "places/ChIJH6YaNq_JBZER7JbRYV8fUqU/photos/Aa-ngMbM0b8hbAaweAiJ7hBUK8TA3ld5cNWyLuNgubLEvHXAzeyiN5EYvpbz0Et8w39uRcPj7IPG-VnvP_PqXlPVPhaKEI9es8399FOBTv7YkpV6KpPwDMFYDd-MhJG9ngMFeZimKd2RDFJvKgpWiTHUYG3KCH7hbd2kwsdO9RHfnPIyIz1nHj3GUgpb1XnN0M1NI08eqdpEERSE7v7hwW3TqCqXgGJyKFztG4EGnu3XBbV_DLQRRcbfdKcAwiWy_1ZXrjOPoYUEVKVRqr3F6iWlo-2qtw18g8A7l6i4-ovKyYIbpoVf0I0MSEqKVFkiyYLTjiCeXBLk0maHkDTNj5WaK27xUdrjSlvhTWnTLaAcvXW_cjkV5i-zgm4ydXy_VGvN2dzBXpIE7seK0rKDMklHRIFbPw",
+   "widthPx": 581,
+   "heightPx": 1032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Magdalena",
+     "uri": "https://maps.google.com/maps/contrib/107489256173248442932",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU5gJjD6x-A92yK9AtaecE2xy2EODUnrKC6BL8M8AaXMJKl2c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8wZafFA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8wZafFA!2e10!4m2!3m1!1s0x9105c9af361aa61f:0xa5521f5f61d196ec"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

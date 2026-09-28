@@ -1,7 +1,7 @@
 """Descarga polígonos de los 5 distritos desde Nominatim (OSM) -> data/districts.geojson (cache)."""
 import json, urllib.request, urllib.parse, time, pathlib
 OUT = pathlib.Path(__file__).parent / "data" / "districts.geojson"
-NAMES = ["Miraflores", "San Isidro", "San Borja", "Santiago de Surco", "La Molina"]
+NAMES = ["Miraflores", "San Isidro", "San Borja", "Santiago de Surco", "La Molina", "Jesús María", "Surquillo", "Magdalena del Mar"]
 feats = []
 for n in NAMES:
     q = urllib.parse.urlencode({"q": f"{n}, Lima, Peru", "format": "jsonv2", "polygon_geojson": 1, "limit": 5})

@@ -1,0 +1,581 @@
+{
+ "id": "ChIJqfhYLCDJBZERSbZ5frUBzCk",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3859466",
+ "internationalPhoneNumber": "+51 1 3859466",
+ "formattedAddress": "Pedro Donofrio 183, Breña 15083",
+ "addressComponents": [
+  {
+   "longText": "183",
+   "shortText": "183",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Pedro Donofrio",
+   "shortText": "Pedro Donofrio",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Nueva Azcona",
+   "shortText": "Nueva Azcona",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Breña",
+   "shortText": "Breña",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15083",
+   "shortText": "15083",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0639756,
+  "longitude": -77.0591311
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=3011784129826633289&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–20:00",
+   "martes: 9:30–20:00",
+   "miércoles: 9:30–20:00",
+   "jueves: 9:30–20:00",
+   "viernes: 9:30–20:00",
+   "sábado: 9:30–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 109,
+ "displayName": {
+  "text": "Veterinaria El Mister",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–20:00",
+   "martes: 9:30–20:00",
+   "miércoles: 9:30–20:00",
+   "jueves: 9:30–20:00",
+   "viernes: 9:30–20:00",
+   "sábado: 9:30–20:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Pedro Donofrio 183, Breña",
+ "reviews": [
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvcllQWUhREAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "El veterinario es A1, llevo a mis mascotas desde otro distrito a verlo porque es excelente, muy buen trato con los pequeños y siempre tu animalito sale feliz. 100% recomendado. Aquí no hay temor de que algo malo le pueda pasar a tu pequeño. Las instalaciones son adecuadas y el precio tambien es bueno. 😊\nEl último pequeño que lleve era un callejerito, llego muy nervioso y tuvimos que ponerle un bosal para que le pongan sus vacunas para que no le pase nada en adelante pero se fue super tranquilo a su barrio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El veterinario es A1, llevo a mis mascotas desde otro distrito a verlo porque es excelente, muy buen trato con los pequeños y siempre tu animalito sale feliz. 100% recomendado. Aquí no hay temor de que algo malo le pueda pasar a tu pequeño. Las instalaciones son adecuadas y el precio tambien es bueno. 😊\nEl último pequeño que lleve era un callejerito, llego muy nervioso y tuvimos que ponerle un bosal para que le pongan sus vacunas para que no le pase nada en adelante pero se fue super tranquilo a su barrio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elena Reyes",
+    "uri": "https://www.google.com/maps/contrib/103438910142242708072/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiqXU4J42nLcHqh_WjqwdRpLaYjFiShkWXxDSy3Yt5ab_qIeRZag=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2019-02-23T12:58:34.322129Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNvcllQWUhREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNvcllQWUhREAE!2m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnM1RuTnFTRmRNTTBsdFRsZzNYMDlyVGkxc1JFRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 3,
+   "text": {
+    "text": "llevé a mi perrita de un año a que la bañen y se supone que el baño incluye limpieza de orejas. un par de días después noto que la perrita se rasca mucho y veo que su oreja tiene suciedad, se supone que le hacen limpieza de orejas y nunca me dijeron nada sobre su otitis, y ninguno de los que la bañaron se quiere hacer responsable de eso.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "llevé a mi perrita de un año a que la bañen y se supone que el baño incluye limpieza de orejas. un par de días después noto que la perrita se rasca mucho y veo que su oreja tiene suciedad, se supone que le hacen limpieza de orejas y nunca me dijeron nada sobre su otitis, y ninguno de los que la bañaron se quiere hacer responsable de eso.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "aaa a",
+    "uri": "https://www.google.com/maps/contrib/106220570158415847615/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLjGLMDLSVHFLqBl1LEqPtEbvlwXPQIja6gfQ-1G0FPUIufpJOZA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-06-18T20:51:40.287234469Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnM1RuTnFTRmRNTTBsdFRsZzNYMDlyVGkxc1JFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnM1RuTnFTRmRNTTBsdFRsZzNYMDlyVGkxc1JFRRAB!2m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwN3ZtQ3B3RRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "EXELENTE PANADERIA Y PASYELERIA BUEN SERVICIO  CON PARQUEADERO",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "EXELENTE PANADERIA Y PASYELERIA BUEN SERVICIO  CON PARQUEADERO",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ALBA L.P.C.",
+    "uri": "https://www.google.com/maps/contrib/107991066113935872030/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDdi3x79ZPwaTIoIJEtiQ3wsjl3s3yN7ENyT3cFYemZlyzrg=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2019-11-06T02:19:18.471222Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQwN3ZtQ3B3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQwN3ZtQ3B3RRAB!2m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIb3Myb2h3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi bebé Georgette por un caso de piometra. La llevé un lunes, el doctor la operó el miércoles. La trató muy bonito, se hizo todo muy rápido, y mi bebé salió de operación muy bien. El doctor Edgar Muñoz fue muy amable, muy empático y también estuvo muy disponible para nuestras preguntas y dudas. Ya han pasafo cerca de 10 días desde la operación y hoy le retiraron los puntos a mi niña. Todo salió muy bien y no ha habido ningún inconveniente con su recuperación. El miércoles llevaremos a mi otra bebé, Milusca, a que la esterilicen y confiamos en que todo va a resultar muy bien. El doctor trató a mi bebé con mucho cariño y empatia, y creo que ese es uno de lod atributos más valiosos en un profesional de la veterinaria porque nosotros amamos a nuestros animalitos, son familia, y alegra haber encontrado un veterinario que las considere y trate como tal.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi bebé Georgette por un caso de piometra. La llevé un lunes, el doctor la operó el miércoles. La trató muy bonito, se hizo todo muy rápido, y mi bebé salió de operación muy bien. El doctor Edgar Muñoz fue muy amable, muy empático y también estuvo muy disponible para nuestras preguntas y dudas. Ya han pasafo cerca de 10 días desde la operación y hoy le retiraron los puntos a mi niña. Todo salió muy bien y no ha habido ningún inconveniente con su recuperación. El miércoles llevaremos a mi otra bebé, Milusca, a que la esterilicen y confiamos en que todo va a resultar muy bien. El doctor trató a mi bebé con mucho cariño y empatia, y creo que ese es uno de lod atributos más valiosos en un profesional de la veterinaria porque nosotros amamos a nuestros animalitos, son familia, y alegra haber encontrado un veterinario que las considere y trate como tal.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melyssa Revilla",
+    "uri": "https://www.google.com/maps/contrib/112870687453701804301/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvBNa0jLfuif0JZR_zt92lpJxnsBMwhw-v1fgcwdvSeP4pf9CK=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-09-02T23:46:38.581404Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIb3Myb2h3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIb3Myb2h3RRAB!2m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjeWNFNWxNakpsVUd0RVkzQmliMEZtV1ZKeFpYYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención del doctor. Mis peluditos salen contentos 😊",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención del doctor. Mis peluditos salen contentos 😊",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Esther Valencia",
+    "uri": "https://www.google.com/maps/contrib/101200336848896789736/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOYKe8bcOCeDy3pOfDsxzMl2nZ5V6VqZXtpQdbMPZXSDo0N0og=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-21T03:22:05.964248832Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjeWNFNWxNakpsVUd0RVkzQmliMEZtV1ZKeFpYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjeWNFNWxNakpsVUd0RVkzQmliMEZtV1ZKeFpYYxAB!2m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMZEKm-IIN7x9UPTCx1Rf8-ZGJgpWwRsb3pi4rt-4EXg4yv3pnnmUjwC11-6WqvnMtYd-uOr4BKzB3KvMdrhrQMuJWHbjjcY0zzaMjbQo1yj8ZQCLPOYcouSyDhp8UyOJ9w29CS0uoIlyfQxlLso7eDcolGiWzSThWKDhRLNWosEatdzR_Bk8ntCazwnbWrbkMgYfxqrcP_T73aAFjhBPQ1HoFig7_aUjNkfyKkRkUTclOaCExa4q3gqHW1BoRtBA6Tsd7S-r0DUkSbsnZRz-T_WYl0U4RV_n-5xCT7w8hXu0vHVX94BoOgUbrLvtHl_ka6B5dg7zF5QeQWgXS8M32TbR8-Yzdnh5JmaCMn23cqDlEKV7QJiimbLUa2XMOh5gg0btYMmAf7pwb07a4IPqJFTBnYirNjCDrHSD3fxFwh_Zw",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Stefanoo ooo",
+     "uri": "https://maps.google.com/maps/contrib/112462215118514031819",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGQGIbPh6_6n8KaVNqKNYhiZUwq5VH8-d5_2tKzBL2izNvPARM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE7Jrwfw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE7Jrwfw!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMYpHc8TPbCIXLtpIike8mqwOMcxjpFBSWD7PBxrALYvtGUGtc1PxDUEHUAZnwhbg2Vw4X-x7V_0SO2ydIawBVIhiHHmYXVJzFdsgUt6MxzlzTfnsJ6w6Xgc_Exsybzr9zpOMY5fOZf-MYeHjhtmICLIT6l47z_bDEcR9-votu68-CkCelC4ZeD49gtsSoBmbqx58AO6SC1Jig_X9njEpVbc3hnMuhIkTnQIZCOomevB5RQrYeF7d8_eLypnopXaOoqPjpHHZAkgi32udtSE9BBjcQE0aAxQmq-JjwGUgnlH7PYobBlk-Zex_IMe2JpxtBidX8wfPJmu3cgbuOX9Jsdt1lGSXouNyyQE1rCOksvJjvWzvMExGXshY48K8V8fbSQHeniRy7SGKaVk4IOpPRCtRWD0LRdaie4enktz_IF_bPw",
+   "widthPx": 4800,
+   "heightPx": 2214,
+   "authorAttributions": [
+    {
+     "displayName": "Marcos Rosadio Colan",
+     "uri": "https://maps.google.com/maps/contrib/116559796671370471657",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9lh5ff8OxnUpZa3FXaMj6xzyGriQliJCL-GjmhRO49vOZVQeNVw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDenuqhwQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDenuqhwQE!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMag_C7-J7fYKpSaiFG2VG85zmR1Oix0HibEB6noELeRQILJW0IL_YJnmUjlYf99w3La5th1hNQAtjg4ReU-26dDaYH3pXv57FatqwNt4t2k5V34bBcLJtwA07IuHXpeMG6M2541zHkcmHvqFpW48GKybWl9QZbuFTVjRq5g17U8-ub1_GBm1DyajqQgxl4EY2QsmlQKXLMDlL4D3HTnXRUrPy85rILcd0VPAw86UedF-Ko7JhvKKdBOUOs5e4ne3roBd_2EbmkJ3mgkS3qYQfQ86N0Gv2Ts6RWwsc_FwQoiyXMrEQVNEcA9MMUvXPmUML1wQDo3x_Ie-D92IfaqquVa1vWJga1nWnVQjAXESOGwvZY4qthEmvNQES27jcDPXKXghzyDWU4KrEbsVFpPIGLxgKa9mnL9AWuWllQxmbV7Mg",
+   "widthPx": 1040,
+   "heightPx": 584,
+   "authorAttributions": [
+    {
+     "displayName": "Karol Milla",
+     "uri": "https://maps.google.com/maps/contrib/116807508486945471056",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE47O3nqcShYKnQz72xkmIyTt5SRncNxXvnmVaJFX_tY1A4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEl8LfAQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl8LfAQ!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMYqxFXfTIpTNgRL9CICf46c4L_Y5_2ydugqEwGSpR3VvQZBWDCy3bTBSA4R5nEa5RmAhfofPNKGLcUsfNOs9vQUMkrin00zgxpyw0vj79vjvxyupjWv63RvQcH6X32nhlEPaixuI6DQLqhujosVv3Y2B0y5xhl07gyVAZDg9yR77sFO00WIa4VBKrGA1ar1AwjSssej5HTZJUqB3KHPrvlwPD8-0n3mtFUo95ChqL-ldhlZC4wCquoAoHvY4YIhkQNTPsPGdvGP6qxnoHBYrLV2LKGBzimR47np-SlFf0s-Tz8KjINphG8Cz1QsKnd8YCUX3JTzaPr96Dv6ChhKsctWUTSh7YYAiZG_dvMBsmJAwuwJx2tjvSyoTSqSUl1SjrR_D7NQ1m3UmUqvMl2PFzqvB1aaH0zKEj_hdMIeQjh3ww",
+   "widthPx": 4608,
+   "heightPx": 2128,
+   "authorAttributions": [
+    {
+     "displayName": "ALBA L.P.C.",
+     "uri": "https://maps.google.com/maps/contrib/107991066113935872030",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDdi3x79ZPwaTIoIJEtiQ3wsjl3s3yN7ENyT3cFYemZlyzrg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMpuf5GQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMpuf5GQ!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMZEwOL_VGeNl1FUQmFLPk9wXRC2o0NuakZo9m9eRqqFO0XgEV4YtgJ_K1Y8Z0RI5syht5md5mzYK8UtehlwCeJl-UXjaxFBjSgrpkd29akwdCwbUgfKx0cWcCoT43PQMbx5mtLexHSkgaKTX_fprvTxHLpy7oHol2d926dEHyRaeKoDX3U25c1u7V76iEef568jfnE0ofys4X1p2Ed7E4LN3FHcpGbcxs04tzttRfelgEdDUtnUhOJWYp2Ssprtb1oiZEFCiD11pu0aQP72e3InZsplmGuJCmLnbKCEKB0ltw5ZQ06jA11rYfjSdgeYwkRU-Ca3w9_gsMHTT8D_Dxgv30FLBiRcr5QzJThCr_AgwPIdAyjNchVfroRgkFTDtLdTgP6UsS71yEkQPNWkPie-XplpEVbQqqYODu66nCya1vFH",
+   "widthPx": 1040,
+   "heightPx": 584,
+   "authorAttributions": [
+    {
+     "displayName": "Karol Milla",
+     "uri": "https://maps.google.com/maps/contrib/116807508486945471056",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE47O3nqcShYKnQz72xkmIyTt5SRncNxXvnmVaJFX_tY1A4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEl8LfvgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl8LfvgE!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMZmL8HS4_wV9oIij9ljJaqPKQfbZMkjIxh_D7hme8aAQ40A5Ls3inSEdUdhM4U1UdaxEJ0uTpS63-2LmFfm4ZdjjuM0CwVpcxgME9Z-Jdy_6r54MRZutTi05d3d4vpYQzQIZ0bbQoWSJZCDWiDK7txmmWYq3QjwwsAAE-4gO9Bz4w5ewa6eKILy4oF-76cbn-S-gwNsBXJecayjcZ8WsWBe8TF0Q2wkTAyCWBAV-yQobw28Ahx5YnMwYQZH8M39_Csb_RN1z2iZJXe3lAbL-LiRWGBZQP1CDZTvmqlg8BnpFv3TWInC2QGIK1gpH8AqQGNF1kM09EzoEUVZC2Q1nxwKWHhtZguMWG7fwUuUsGDjTN5Ih0mUCYLsAUA3ULfhl5USTcfVWPbWTmHHeELdyLJNvnKPCwdQnVpJ3g",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Stefanoo ooo",
+     "uri": "https://maps.google.com/maps/contrib/112462215118514031819",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGQGIbPh6_6n8KaVNqKNYhiZUwq5VH8-d5_2tKzBL2izNvPARM=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE7JoI&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE7JoI!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMauNC1yGOOFlubJB0VObVAh9D03_Szv-7MSNmMbQ4gbey3C073nE3CkNOEZz8QUqx1zr8VXnEZU16lGLBjKYvHFVzZXlmsyztqpzcVfi_TxeC70GOjPi5meYpgGoWYAHHSKY5BN76taiNEEVtSqSWbkQqoGiII9URVZrS7hMjz1230ty8b40lS5MMkAvrmrnriR-Hd1-9JUBIanmdGd6aNke27unmRhsg4IiftoFyfcNQFNmDh0tKDdAPD_1KObshA9J7pOc8awIH6EOUKgY2ar1Kj3cIGq2HAoCaQqtsDYF5AKKdBnwNDqYJ8T-dVp-I22bHbeHWe7d84tOy3oBjT3ccwbyu7PDAcfQysg3Ypus5JdePRmMtymztap2bGJ7uTqODAZbou5A0zZXTFhwEjqR5m3p3poe_bic2UuTEk",
+   "widthPx": 1188,
+   "heightPx": 2576,
+   "authorAttributions": [
+    {
+     "displayName": "ALBA L.P.C.",
+     "uri": "https://maps.google.com/maps/contrib/107991066113935872030",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDdi3x79ZPwaTIoIJEtiQ3wsjl3s3yN7ENyT3cFYemZlyzrg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMpumTQg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMpumTQg!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMb5_R30BckOCmfl_XKKyZgmpY9aYElbzRDbXUaiTm-iU-ICeKM_QzRwJcpD0HaFww4BLZwomW-yXeOT7-Uk3XEJVmI3esmPL1KEFuTizoUpq6G6kfl0y8k2fvI2X2U0H8zktveN1R0hS1PDkArU82PF_JcJZy6FWUXGGNvxkPCKQvMjmTNJZRWLpSJjVyEXaTzIOAzUAPdwc49IROk7UhqnbZUpJ8zPdbIIsAKTbpbkncXP8-jty_m_JsMi9T-5OukVl_K-wyM0OILdGNKzyOgArZBXYEc2opb50yMNKqwFP4Se_nU4w0nZGA3u9NE7bxRdwT9GR_-t3MSnifla_6qUalu9DGv-BwF0lqP2WgJC71jR2-cce-u6_OmA7ZLGppJ6izn3e_if-YgDjiEpsKCVEoOl6PBMHCvIKyDMMHJFZW8",
+   "widthPx": 4160,
+   "heightPx": 2336,
+   "authorAttributions": [
+    {
+     "displayName": "Karol Milla",
+     "uri": "https://maps.google.com/maps/contrib/116807508486945471056",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE47O3nqcShYKnQz72xkmIyTt5SRncNxXvnmVaJFX_tY1A4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEl8LfgQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl8LfgQE!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMZx3S-HFqZvbTISp3G2zxqu7GtIQGLqH2HhSDp6YpVGv7qD9yGFBxFbpDVwGLN69NddF9OtV907hvtk5vcY1tHuLvBWDc6GgKZffIGQ1L5N1svKnqKBX557K53aHft6GkrLSyVPIPKZwi6tOW6LrFcowh0OOvdU9HvH6Skom1_B6-dDOoGxS68G94T0lBHz-BePomru9HYJvDuzBZyUWifYW5ITCk4kG0ExBgEsaJa4ko9UW4vfsDSImOg0S2AaFd6l2iP4nCYrXOal2YfFgyAOdA4EBlYJcYwQhcELzBlWgGyacaIuoAIc8aRpo-pYbn0mw9kZBnetaIdO5G6JFraJSoe4AeRaFgnoCQWKsxwJ18VLZ_n8nT4aK86H2Bw_zqHDIt1lYzXmPyBzl9sxiXNDioLOqaiyeli02tMc9lHnfWQ",
+   "widthPx": 1188,
+   "heightPx": 2576,
+   "authorAttributions": [
+    {
+     "displayName": "ALBA L.P.C.",
+     "uri": "https://maps.google.com/maps/contrib/107991066113935872030",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDdi3x79ZPwaTIoIJEtiQ3wsjl3s3yN7ENyT3cFYemZlyzrg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMpoHEpQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMpoHEpQE!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  },
+  {
+   "name": "places/ChIJqfhYLCDJBZERSbZ5frUBzCk/photos/Aa-ngMblc5CiAZsmqjJeKfKHNb8me0xJGJdJ9aaHBq7kGfx72bukAXtD7tkP-SuTvxyLmQPstddkba1P6_IY2p4V7k-U_RkfTihoel0BZf7yR3QpBUhSJjcxjCBqYapnXR_JJ1xobw7wC5cSk-J6Peifb1a6A7_5Uv54Wd3vVR1oQUT3FMHhC4FpXDZrXPZoF93fkf_IdSKfIHVUeRTQ5131sIsOtGVM07m0_dzFYMw2mWg6bEJbaaJRzwUSos4c3b7ujba7vq5buSjtmMaTYuf2RmxJYpuYBIZEawE9Vgf5AaHwXhBbp20TNEE8vJtFQ0jYSFWOCT-E5WuIj1fMUB1-dmgg_7He2d2Hj2Z7pCcRRV84lnH7T65KEodl7RGxqdC8l0vODXXMrdTd4MxAApCQexm2oPfthJJuHqHUZIrRax5RFQ",
+   "widthPx": 1040,
+   "heightPx": 584,
+   "authorAttributions": [
+    {
+     "displayName": "Karol Milla",
+     "uri": "https://maps.google.com/maps/contrib/116807508486945471056",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE47O3nqcShYKnQz72xkmIyTt5SRncNxXvnmVaJFX_tY1A4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEl8LfPg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEl8LfPg!2e10!4m2!3m1!1s0x9105c9202c58f8a9:0x29cc01b57e79b649"
+  }
+ ]
+}

@@ -28,7 +28,8 @@ export function hh(h: number) { return String(h).padStart(2, '0') + ':00' }
 export function plural(n: number, s: string, p?: string) { return n === 1 ? s : p || s + 's' }
 export function trunc(s: unknown, n: number) { const t = String(s ?? '').replace(/\s+/g, ' ').trim(); return t.length > n ? t.slice(0, n - 1).trimEnd() + '…' : t }
 export function slug(s: unknown) { return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') }
-export function shortD(n: string | null | undefined) { return n === 'Santiago de Surco' ? 'Surco' : n || '' }
+const SHORT_D: Record<string, string> = { 'Santiago de Surco': 'Surco', 'Jesús María': 'Jesús María', 'Surquillo': 'Surquillo', 'Magdalena del Mar': 'Magdalena' }
+export function shortD(n: string | null | undefined) { return (n && SHORT_D[n]) || n || '' }
 export function shortChain(c: string | null | undefined) { return c ? String(c).split(' (')[0].trim() : null }
 export function joinY(a: string[]) { return a.length <= 1 ? a[0] || '' : a.slice(0, -1).join(', ') + ' y ' + a[a.length - 1] }
 export function cap(s: string) { return s.charAt(0).toUpperCase() + s.slice(1) }

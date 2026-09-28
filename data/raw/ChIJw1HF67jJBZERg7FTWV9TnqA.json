@@ -1,0 +1,586 @@
+{
+ "id": "ChIJw1HF67jJBZERg7FTWV9TnqA",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "907 270 127",
+ "internationalPhoneNumber": "+51 907 270 127",
+ "formattedAddress": "Av Antonio José de Sucre 1105, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "1105",
+   "shortText": "1105",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Antonio José de Sucre",
+   "shortText": "Av Antonio José de Sucre",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0882217,
+  "longitude": -77.0693002
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=11573779761374409091&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.terrapetsperu.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 188,
+ "displayName": {
+  "text": "Terra Pets - Consultorio Veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Antonio José de Sucre 1105, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KSVpIZFFaVGhEUVROeFJtdHBZWGhUYW5wb2IzYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 4,
+   "text": {
+    "text": "Esta veterinaria mis felicitaciones, la doctora es realmente amable y cuidadosa con nuestros peluditos, a la hora de los baños medicados cualquier problemita nos avisan y siempre que sale la ponen muy guapa con adornitos y sus famosas pañoletas.\nMi único disgusto a sido en estos últimos dos meses que hubo un cambio de chico que se encarga del baño, a raíz de esto, Reina, mi perrita le ha agarrado miedo en ir y este último mes que se fue a bañar, salió con un indicio de otitis por el agua que le había entrado durante ese baño. Por suerte, la linda doctora la está atendiendo y haciendo una limpieza para que esto no avance.\nCierto, en esta veterinaria, además del servicio, venden gran variedad de productos tanto para perros como para gatos, además de vender ropitas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Esta veterinaria mis felicitaciones, la doctora es realmente amable y cuidadosa con nuestros peluditos, a la hora de los baños medicados cualquier problemita nos avisan y siempre que sale la ponen muy guapa con adornitos y sus famosas pañoletas.\nMi único disgusto a sido en estos últimos dos meses que hubo un cambio de chico que se encarga del baño, a raíz de esto, Reina, mi perrita le ha agarrado miedo en ir y este último mes que se fue a bañar, salió con un indicio de otitis por el agua que le había entrado durante ese baño. Por suerte, la linda doctora la está atendiendo y haciendo una limpieza para que esto no avance.\nCierto, en esta veterinaria, además del servicio, venden gran variedad de productos tanto para perros como para gatos, además de vender ropitas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Vanee",
+    "uri": "https://www.google.com/maps/contrib/117389148025844336353/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwoE9qsUZ1lmZB3Vtp58p6mTzVpHWSgmmd2l8NvTBvvz1VH4w=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-25T14:45:49.360860148Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KSVpIZFFaVGhEUVROeFJtdHBZWGhUYW5wb2IzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KSVpIZFFaVGhEUVROeFJtdHBZWGhUYW5wb2IzYxAB!2m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kc1p6TlROMncwZUd0b1pWSnRlakJIVmpORk9YYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención por parte de la dra y personal, precios accesibles y lugar pequeño pero limpio (lo más importante) ... recomiendo escribirles al número para agendar cita, ya que hay muchos pacientes.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención por parte de la dra y personal, precios accesibles y lugar pequeño pero limpio (lo más importante) ... recomiendo escribirles al número para agendar cita, ya que hay muchos pacientes.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella hilton",
+    "uri": "https://www.google.com/maps/contrib/103038650228662602216/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQRZCjEfUBwVvAHJD-4_7GlyymqeORqTPSueyYUsTNCF7EpA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-04-14T19:29:23.624336329Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Kc1p6TlROMncwZUd0b1pWSnRlakJIVmpORk9YYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Kc1p6TlROMncwZUd0b1pWSnRlakJIVmpORk9YYxAB!2m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/reviews/ChdDSUhNMG9nS0VJQ0FnSURfNGVlamxBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, serviciales,  empáticos la Dra una genia. Execelente veterinaria, muy recomendable, ellos ven x todos nuestros perritos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, serviciales,  empáticos la Dra una genia. Execelente veterinaria, muy recomendable, ellos ven x todos nuestros perritos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Manuel Zapata",
+    "uri": "https://www.google.com/maps/contrib/109087137810175371631/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRArF-ssEpBqFt0gFQxRmqE2SyeK_ZkV1F-1KhPK3EgC-pDw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-24T21:46:45.043065Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfNGVlamxBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfNGVlamxBRRAB!2m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxT2IxSm5TRVZGU3pkZlVuSkxWSFJHY25jMFgxRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, calidad en la consulta y cuestiones claras y concisas. Precio accesible y un ambiente verdaderamente limpio y ordenado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, calidad en la consulta y cuestiones claras y concisas. Precio accesible y un ambiente verdaderamente limpio y ordenado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alejandra Carrie Guilllermo",
+    "uri": "https://www.google.com/maps/contrib/100959194094769163034/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3IA5wdoSuUw95alyxnL7NewxJeicdY25_1cVnI_cC-4OL8g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-05T22:43:58.433640792Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxT2IxSm5TRVZGU3pkZlVuSkxWSFJHY25jMFgxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxT2IxSm5TRVZGU3pkZlVuSkxWSFJHY25jMFgxRRAB!2m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdi12bWZ3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi Toby para baño y corte quedo super lindo, buen trato y atencion, ademas compre accesorio con descuento para el baño. 100% recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi Toby para baño y corte quedo super lindo, buen trato y atencion, ademas compre accesorio con descuento para el baño. 100% recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patty Briceño Alva",
+    "uri": "https://www.google.com/maps/contrib/113682587524265835599/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYHK3js6E8Vq3XpDVffQ4hZM9tctBXI0pfbKvKtL_X1123L9GJ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-01-14T18:21:30.422180Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtdi12bWZ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtdi12bWZ3EAE!2m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMaBAaDNw0qN3fUqLExf78_6_YZx8jVFfs9UjP9DtQ5rqjVFWu3bF46o6Q0dE3xqphI3BIH4j9xFiC4klwZKCrcAhcMQxlw-J8r1RFaQ2-x-6cVz-YldT2QhAOJNeQjwPPK5pL6XgVWK9ze7nPh3kyEsPj8YdUkw5hiPVY96-MnYQDmw9H_O_52HzYypDt-CMZ5C3CWPm0r9LkQhkAdQcokkx1WfsxID2EiM5QfSxUtW_QGMed_cvvYF7ltBrYBlChpibAXMAbAg_qSw1jT4lQb7CCsC1zwEYwzi6qStlEcCDDPe82vJ36B5BHJMq9yPFES0qH-6eJ6z7IkSpmVuzpZFjx8m7ZtvV3J0T1ij_zGIs1fcOVfLExLCf2zwp7LTvlC9tbRNtTyXhFPnbyYnilRIsROFGuYt2fahQM7seuNSfwJpD9N1UrVlTA1GEIF4",
+   "widthPx": 2153,
+   "heightPx": 3440,
+   "authorAttributions": [
+    {
+     "displayName": "Vanee",
+     "uri": "https://maps.google.com/maps/contrib/117389148025844336353",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwoE9qsUZ1lmZB3Vtp58p6mTzVpHWSgmmd2l8NvTBvvz1VH4w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB7Hw9uCxdXZKRezjeq0SJK&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB7Hw9uCxdXZKRezjeq0SJK!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMY9XGvT15QLMpwxBv2uxPRf6uKwimkHb1m8Bsi6X8TTuK010RGOmJPoYLB8_JG5rp2UIueGrEUL-xFyxGytlH9trvW94nMqk4GnmrJhPa-wD-0j_pPwVFb4bFAz6c9ApgRIx8dwp3at6tVOexE-m7ZnvjwYVG8AxxsNTxDOb_UhROE8pIBrwggt_wgSvzvsoBkfTRXYbSMEp-bakYv455cQjnVAShVtRrs_4GHcSr1MoSQ7eeJ3rKgzAxpYA2s1J5TdA_DaRorGWxBxnXN9utzR51_FIffdF3PC6AKYVNFF-H22K2TjaXU2WDkXF9z6Ohf_Seew2flJV4fBdGX_1who6PU_BKXRnVVYKlhMJPY7cqDJGfJTI0n6evrEEC8jSFGHbHPhur0u2-E-kI1fmHFrdYsqigMzmqiVfrK14boizA",
+   "widthPx": 828,
+   "heightPx": 1472,
+   "authorAttributions": [
+    {
+     "displayName": "Terra Pets - Consultorio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/105482406284151579571",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK7JTg3nsfH0St2Q-ya8yI8G-P7kKGNsBnoLcMgictJZI-PLhf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICalpnjJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICalpnjJw!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMZz9N4ZhnjzclIx08YALwLaZzCPuJKYkb7Lzokq7caZzIVrWGklxNQUjAiyM-p7UYbI2hNvjPIiKvngz4HuKhsT-jXwGR3vCrO1Lpk9-Rk30TELM6dzSZ7-CJLEsHvxTUc-dm_aANvABs3SENwtsy79QEfGRvu5MBPIzTFmy4dzqWEjPAsYyR9tC81q4FTjT4bxtv1FHp4ljghhe2Uh1rAi6WZ7K3zK-6xFqU7S8WEcT_pQG8NsBKKBIHFDRvx7JWITMyHjTTHO1zuXmZ2BHpXy3m9ZbEFT-YkzIHWEGCU-Qp1bLzz7P9yysjBKP3fM2MwyjYnSmNQXHTq53zvyjLl-qxeI-wlx6XFWvS9jObyAL2WOdLT0du4iRGZQbd9UoEXvjPK9ifStN37N4JYJQh59gGLhqqWrDghDzC4EnCtZ-g",
+   "widthPx": 4000,
+   "heightPx": 1800,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Luis Garcia Ortiz",
+     "uri": "https://maps.google.com/maps/contrib/116429123844446735337",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmqwrGV9MEyV4xA7G7lMCu_ypRKikbvb6wvoERZs6IgCZYbU6T=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2oLWELQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oLWELQ!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMbZIykwnsQ_igVAuXF03VegpBK6qLdngxKLzOk2lIRViMXO7MEdUKb4Y7As2yPnWkh9Torr0SWGnzr_CF8i-H1VG5UuARcRqMXOw8x_wRk5O19tMUzJDyNcCuEz5yhIaMecvHQFkWt4TjS_lERcCF2v-87eGZYEtoMCXMWWeHZD8D0C-YldKQT5hFVUQZEFMmC84tDCPQkHsGRT_7TQdQzC5eIBzTNlZZJCJMor70wEcYZ1EVeyPbiJdOt5XHTXQZGGGY9yRBJkxrKl7CD273WeFAJ1jENfAZ99cf3A6u7H4pI73gOB2LNSIgBz10_q77P_a-sun30e2kV_6RmSUnGZ1DddZFgOhKORoHC4kejyQQ34zVIocc12chUO96gM8mCZqqL2dSZO6n_q5UDcGqN3RbvjBzuvWUXFRoEu115e084",
+   "widthPx": 720,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Omar Emilio Giron Vera",
+     "uri": "https://maps.google.com/maps/contrib/101827167534647448171",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXItpwp4cpeE0K3vAO9odERsRyCiCAPYaEA5VefUWKq_gxFLGBz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICC_vznrQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC_vznrQE!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMZr952dYZ6vjiVZCGn_8Idx4Jwv006QzW7vHhv0cA8mG8eu_r3WG6KreDjWg0tDk7H5tI1eCQPRIeoxvdvsPU2HAaTq3HN-bE1MOI1q1KQktIIc5LOs2woxVuohv7MbtQqfGbtOUm35xDqv3ajWQp2wsPFdpPgi0ZWTPBE27hv9s7mJnX_KRtJH7PFnTlpCrY33x5b6o5KMyvTZoLOVVjhuAGrp93R3knDVD1leedv7I58lvbe9oRTaPS9eSgBG_0ZacbOZ070qSrJzS9rGzAiANG_iSTbGOz632q20Q4sOth1rn0XFBFZ0dK7AqWd7WWFooBm284giJNjfsEciiM0aGi4LCcXSooCi56l6NRj4SM3AJtGrRreqsodTEsfj07_PMqKOzH2Jf_I-gMWd6IUkEUU7xG00qKbyP3XofWCw4g",
+   "widthPx": 720,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Omar Emilio Giron Vera",
+     "uri": "https://maps.google.com/maps/contrib/101827167534647448171",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXItpwp4cpeE0K3vAO9odERsRyCiCAPYaEA5VefUWKq_gxFLGBz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICC_vznLQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICC_vznLQ!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMajiAhcHoeddKiAjHPkVFhdYnuNEaGE42D8kEZ2Hqxo7peJEQ3hHPkpBYdt42r79QR4gvo5UG8tb-haVxuYG6vvg33TJ5ja-ilBCsxlSTbPrzUfw8L6Wn9wOyF5AVn9Px4NX2QmpJsMZL4vn8PdJPTrjPGiHT2urPgrJDsQa-V1MWOvfJvsg3wc9oK0Q4kw0CwLTv2s98lpc3zTVv1erPi8RquCcnPGgve2Wkibj86K6Azn8opNR59m7XLXAM9nVBfhP6jC8v6oSzMElSUROuGiZteY0d-h37O34gDSdWwzmsGYxMrOEpKdf-MS69h3uDWWh3tAEG_YCrggerS8DLay39G_QvdTr1bv8nhaZtjtcA8kQq8K0ti7V_R-NXWbsUVGt8YmE3XDXrVArLJUCuPaSBjjSGuZlnzymgfGLlUKyKs",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Estefania Martinez Lachy",
+     "uri": "https://maps.google.com/maps/contrib/108047760108175991141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe35OdfAEf1iZDPZa0c0byZmbr80Tpsr_FvLMIE-IQNpc6IYQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICLicCM9AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLicCM9AE!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMafrIfV0GPtejx89ld9n2bQ85j9i-nOYJ9xmiD9MacouQDktERLcy7UJwbXKFDQAwPgqq84F4j2Flv4dxqVJ9kJCuXTDyercHj81w0vQLwSvvo5dZkO_v7YyUkpkcUc4zoKzVdAHICLHFpa5yhfnwAuxqxPXpicQrHtXylEyo96hFiw88k8Eo1gmyBdY5MXa_gJ9EDYhAnKmlKYj5Ilz8QSFppgo22W9my-sImmvulIO-wLAIPxtUt8txl2tbzVngHWjHH38jBuwysAIj09J3etP33_fVz3t2EZieuQpy9Zkti0OeNBs5_ZxAc7QzPDBR6COfqT7jMyELZykmTgWTnT8u2Gz7rDep3N1DM5rY31Kl5Tw4joeAThnJZbtm06sLsFg7f30O13Zu2cjsSpxlPfqucpLNci2Wt2E8GJ8nRXLW87",
+   "widthPx": 828,
+   "heightPx": 1472,
+   "authorAttributions": [
+    {
+     "displayName": "Terra Pets - Consultorio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/105482406284151579571",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK7JTg3nsfH0St2Q-ya8yI8G-P7kKGNsBnoLcMgictJZI-PLhf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICalunP9QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICalunP9QE!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMa3F9SSkAy85VYM33DItrtyea_Z0z2BLqtokgGFeUlDgulmKHVh-OZzJCTXRpsR9F6oDrnvVNmztmKdhp14ENokQaBpzKAWkqOMRIhNNJMx3HYKvucME36BV_I1rd6aL_SjyTCnm2qPvxSBnLtdxWzraVvR_Sqrqv5tNbGElRKLLuEZbgcxrWkGd9QxTYF-hv8G31gQYsh4Uf7f2VEBHRbcmw8YQqtAIY3BPw88yAVovaurSLHOc3pth5AbKv7l88-VPfAj8BgaKN3oEmAYfun7GTICc-JgmHG88Z5QWsELngp65CyXd51yQxTDIqX188OMDhuAjPxWLr8N6OmT883vCU6vQ9DNpChS9VwCE4bzyC7BnHo7uAB6175FJuhaatPtSFYqdoLEQriBAGhj52RbEjDTkY8vXsdj6tNv9zaF6Rnece6NpASJEk_SBQK3",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Nathaly Tarazona Mariategui",
+     "uri": "https://maps.google.com/maps/contrib/112583673389762976959",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLivgkQrWYfW58meV6JTb6-kXUMbVv9j7dQncnZmrTq6XHeWw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCIQk95l6vrxHPEvo389Hj2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCIQk95l6vrxHPEvo389Hj2!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMYr-nd7gctm6ydHdsM34_a-X6g5JYvbLCkbR9tfpEe-qchWsdOsoDLjnBsSn4r3yBPjznMbI1FVsKnUN9MzgD2lSomv-BmQ7mkCQ070DL6i5Pp5ide4UNFiNc3fBCNr9p284MPvhdkKkGx5eRU51hVDfitNUWGt9gOw4J-JFjp2B4nhxSMsCSt5lYBAM20BPe8KhrZp4eNLci8MMnqOU1jDpLWnCjNxFYJHClt9_Sos-WXsMfVx8Y4csf1AurLYEUpAFO38-h5h-anEUzxOwKk3iNmZ-q7gRSoMWTXQkmtp_5Dm2l6Yvl1-1plZALXmz6AjDG38vsZUFYOHROsDllpP1tfsebBI28_ZRSY0V1LfMfDyMwv6RlTWlh1fNbZhhjxbfl6nTqwh1wUKEyaxxiJCH_xKhJ8g6ifqV34dFCc",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Estefania Martinez Lachy",
+     "uri": "https://maps.google.com/maps/contrib/108047760108175991141",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe35OdfAEf1iZDPZa0c0byZmbr80Tpsr_FvLMIE-IQNpc6IYQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICLicCMDA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICLicCMDA!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  },
+  {
+   "name": "places/ChIJw1HF67jJBZERg7FTWV9TnqA/photos/Aa-ngMZYCd65NMHRuKC3kC1T3FwztHOFNvXk9N6aHfTawfd_eaj25CFa68N8Gkoa3vtnpCyuC0MKyjrY7WQN5tubpcXJFHpCaICRhZ0M79XarwmXS67mbCI8ULTksC-0nvCrmcCWJ_gikawkgBAgrj07QR_LcRRb60YUXgNVTOZqoE4Pje5Miky9lkIoGzZFIGul-0Yk9UJjj7_8mEApJap5bsHQ5OBSISKYpOn_kzmwlGGQ4Z1-0hH6311pNnAE1XaRHs7oNGvIPk8b1dPbxq3-mYjeXHRZfxQLvCKmVCR7rf7J3jzGJItF6w-VP3Iaue8KECFWlgyWfebLkj3-MhecksRsoHIlboWY_-GpQ99_3ofUZOrQOd3eWZuTSS4rY0ChiFAcj-Xli6BFUxPZ7xf_8zjzqSvnwsSVQC8wdgTjxkw",
+   "widthPx": 4000,
+   "heightPx": 1800,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Luis Garcia Ortiz",
+     "uri": "https://maps.google.com/maps/contrib/116429123844446735337",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmqwrGV9MEyV4xA7G7lMCu_ypRKikbvb6wvoERZs6IgCZYbU6T=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2oLWETQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2oLWETQ!2e10!4m2!3m1!1s0x9105c9b8ebc551c3:0xa09e535f5953b183"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false,
+  "wheelchairAccessibleEntrance": false
+ }
+}

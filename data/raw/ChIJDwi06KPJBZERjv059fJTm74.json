@@ -1,0 +1,345 @@
+{
+ "id": "ChIJDwi06KPJBZERjv059fJTm74",
+ "types": [
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3758765",
+ "internationalPhoneNumber": "+51 1 3758765",
+ "formattedAddress": "Jirón Castilla 320, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "320",
+   "shortText": "320",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Castilla",
+   "shortText": "Jirón Castilla",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.093969099999999,
+  "longitude": -77.0747346
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=13734663791557868942&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Veterinary Spa",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Castilla 320, Magdalena del Mar",
+ "photos": [
+  {
+   "name": "places/ChIJDwi06KPJBZERjv059fJTm74/photos/Aa-ngMaAZ9kouWmSf_RJmHQOxkt2uSzbcTWS5KbhMNG_-6MBWsLCsMVgrEOuMRr_kkybKqbhbxfDJRlA60uy7LutC0izdcatY9JY9ZFew1Iq4AbPUv2QOUAJVM6-J856uSsYIBj9-8RjAtPSxCYVnxvHHEYDqsSaWZFl2_reU8VPVIOfb5Lrj4jrFNZi2WCNZ-Afvdd_W1W-vpCnxaT2NLuU8Occbd95AyLJXaGyKgNR8rdrnncmGroIzO2fftsvX5SpaR8JSasSr6f-AKbOF9Fhpbuk3tnz6SscgXPQQckmiTezxrU0pX3ekUve64tWdva9H4OxGKk8EasLark3gAPJ5q_rJSvAFKDrlNQNioumDqApHk13K5U5Gw9A8rwAIDS3S5DOxOgnbvpYnII6IH6EF7UZSOsTAos",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Erick Gonzalo Rojas Carranza",
+     "uri": "https://maps.google.com/maps/contrib/117988398691821335618",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIv5jpQBcqAtT3TrHh3EhLBmjWH0YyfO7ysqllcmIqNMPLmeak=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkvbOg9gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkvbOg9gE!2e10!4m2!3m1!1s0x9105c9a3e8b4080f:0xbe9b53f2f539fd8e"
+  }
+ ]
+}

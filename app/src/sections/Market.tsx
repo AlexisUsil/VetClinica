@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Bar, CartesianGrid, Cell as CellFill, ComposedChart, LabelList, Line, ReferenceArea, Tooltip, XAxis, YAxis } from 'recharts'
 import { Building2, CalendarClock, Cat, Dog, FileSearch, Heart, Info, MapPin, TrendingUp, Wallet } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { DASH } from '@/data/dash'
+import {DASH} from '@/data/dash'
 import type { MarketYear, Persona } from '@/data/types'
 import { fmtN, fmtPct, host, isNum, maxBy, sum, trunc, ANIM } from '@/lib/format'
 import { COLORS } from '@/lib/logic'
@@ -324,7 +324,7 @@ export function Market() {
 
       <div className="mt-10 mb-4 flex flex-wrap items-baseline justify-between gap-2">
         <h3 className="text-lg font-semibold tracking-tight">Buyer persona</h3>
-        <span className="text-xs text-muted-foreground">NSE A/B · 5 distritos · share estimado</span>
+        <span className="text-xs text-muted-foreground">NSE A/B · Lima · share estimado</span>
       </div>
       {PERSONAS.length ? (
         <>

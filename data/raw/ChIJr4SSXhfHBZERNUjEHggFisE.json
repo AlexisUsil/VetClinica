@@ -1,0 +1,474 @@
+{
+ "id": "ChIJr4SSXhfHBZERNUjEHggFisE",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "996 388 892",
+ "internationalPhoneNumber": "+51 996 388 892",
+ "formattedAddress": "Calle, Jr. María Elena Moyano 148, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "Calle",
+   "languageCode": "es"
+  },
+  {
+   "longText": "148",
+   "shortText": "148",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón María Elena Moyano",
+   "shortText": "Jr. María Elena Moyano",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Capebco",
+   "shortText": "Urb Capebco",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.118929,
+  "longitude": -76.9976262
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=13945964728540219445&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/canismenorvet/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 21,
+ "displayName": {
+  "text": "CANIS MENOR Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Calle, Jr. María Elena Moyano 148, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4MW8zdXNRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, a pesar de la hora en que me comuniqué con ellos obtuve respuesta inmediata para agendar una cita de suma urgencia para mi perrito geriátrico. Los precios que manejan son accesibles al bolsillo. Además, la atención, puntualidad, paciencia, rapidez, recomendaciones y profesionalismo del Dr. Gilberto Bendezú fueron totalmente 10/10. 🙌🏼",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, a pesar de la hora en que me comuniqué con ellos obtuve respuesta inmediata para agendar una cita de suma urgencia para mi perrito geriátrico. Los precios que manejan son accesibles al bolsillo. Además, la atención, puntualidad, paciencia, rapidez, recomendaciones y profesionalismo del Dr. Gilberto Bendezú fueron totalmente 10/10. 🙌🏼",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Aileen Carrera",
+    "uri": "https://www.google.com/maps/contrib/107298455512361122225/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLASmG1bIN0bTYQvbmMQ_90APHGSMeIu5AyCA2Q6js8qSrjNqYV=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-05-17T04:54:51.935803Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4MW8zdXNRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4MW8zdXNRRRAB!2m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  },
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkc2VERkROVTFwVmkxckxWTnFOR050VDNGUFprRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 4,
+   "text": {
+    "text": "El Dr. Gibi Bendezu es un buen especialista en traumatologia veterinaria.  He tenido casos de fracturas con mis peluditos, y el los ha tratado con acierto.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr. Gibi Bendezu es un buen especialista en traumatologia veterinaria.  He tenido casos de fracturas con mis peluditos, y el los ha tratado con acierto.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Padilla",
+    "uri": "https://www.google.com/maps/contrib/100460673667734278834/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkS-huPHaZfNZiWHQ3RLMBBJplQ8nR0HXv-nJ3uY13DRHdTH-Y=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-02-02T22:38:26.774555233Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkc2VERkROVTFwVmkxckxWTnFOR050VDNGUFprRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkc2VERkROVTFwVmkxckxWTnFOR050VDNGUFprRRAB!2m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  },
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOM1dHSnpaSFJhVkROcVlUZGxOWE5PTFd4eVlVRRAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "No puedo estar más agradecido con esta veterinaria. Operaron a mi perrita de su patita y todo salió perfecto. Hoy ya camina nuevamente y cada día mejora más con su terapia. Se nota el profesionalismo con que trabajan.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No puedo estar más agradecido con esta veterinaria. Operaron a mi perrita de su patita y todo salió perfecto. Hoy ya camina nuevamente y cada día mejora más con su terapia. Se nota el profesionalismo con que trabajan.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diego Moncada",
+    "uri": "https://www.google.com/maps/contrib/112349913848554478226/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_lhMt_kfRbjXHLYOnt90eE8d_IeJ2gb8Asv0kpiq2NmDnuY-hPQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-10-12T04:28:46.263969306Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOM1dHSnpaSFJhVkROcVlUZGxOWE5PTFd4eVlVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOM1dHSnpaSFJhVkROcVlUZGxOWE5PTFd4eVlVRRAB!2m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  },
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMWRYZGpSRFpCUjFJeE9HazFjRVJ5ZUdVemFsRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes servicios, excelentes profesionales y una muy grata atencion, con buenos precios.\nMuy recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes servicios, excelentes profesionales y una muy grata atencion, con buenos precios.\nMuy recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "GARY BARREZUETA",
+    "uri": "https://www.google.com/maps/contrib/100628336384730205545/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXng7FjDIHP00fsGGAjoRKa86Fkf1J-qlwGJ8OV0GehUzMlNtOlmg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-07-02T19:15:15.181389744Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prMWRYZGpSRFpCUjFJeE9HazFjRVJ5ZUdVemFsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMWRYZGpSRFpCUjFJeE9HazFjRVJ5ZUdVemFsRRAB!2m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  },
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5bTlPWkdREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Operaron la pata de nuestro rascatado y ha mejorado muchísimo con los días. El doctor es muy atento además. Especialista en traumatologia traumatologia",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Operaron la pata de nuestro rascatado y ha mejorado muchísimo con los días. El doctor es muy atento además. Especialista en traumatologia traumatologia",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Brigitte Jouannet",
+    "uri": "https://www.google.com/maps/contrib/112840622157547719365/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-DHIxUss7rfARKkA2z6qf2Q4PqY5ils5ic4Eh3YRIDuaYhvAD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-02-14T03:18:15.613573Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5bTlPWkdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5bTlPWkdREAE!2m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/photos/Aa-ngMbXq4Z5XrSbWVaDLQGDcB-jiael2Yeb8TkZAC52IrAfIRQvtrtjWBfPNZw0ipgWL395EhPun-bARqJ3vAliUZe6ltJml6W9HSkACfMAseCCt1Gog_47UaVZHbTBJW0QLMQYkkCjjJnKeaXAOdl2bYYYRWO8XuYSNTBktsHkRBYwDXjlSgrNGIgHrjVaeVfqFkz8EjBu06oN7G10PpZB9U4Lu0FSVMKNWGG3EF4_lTx__IsdDxNwCdQfC1axXlZ9ymEdZB9-Sy7dAelt9rRPgSBmK1NFhLfGKKcpvlkZYT32tAu6Qzgxx3b1bKqbO7ANSSiAzCIxO0FIFUbQrm4KaPJCbb5-kizM7j7oyRXV7mP17Ar9-e-jDposWgsHZ_Qu8zow2fg6sNIjYYflqmhQpbyaV4qFQBnpVrg7_jrMlNU",
+   "widthPx": 1656,
+   "heightPx": 2139,
+   "authorAttributions": [
+    {
+     "displayName": "Aileen Carrera",
+     "uri": "https://maps.google.com/maps/contrib/107298455512361122225",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLASmG1bIN0bTYQvbmMQ_90APHGSMeIu5AyCA2Q6js8qSrjNqYV=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICx1o3uCQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICx1o3uCQ!2e10!4m2!3m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  },
+  {
+   "name": "places/ChIJr4SSXhfHBZERNUjEHggFisE/photos/Aa-ngMYmLDMgjKtyQVLU4ttTBEwYERQA1z2F63jXndR_iEFDtepsp0uDaBjxTNcqzfXvKNtT9IeCpkF7T3KdN-dILAZ345BnZMI3DW_nLw9foPa1sx5W_T-iMCNikb7e-CH6MCaJ7zxy6eyseZZ09cvcWTHtX4iiQ2ouNz89sWr-nbXid5Q_N1qJICxJ_ANkAzxywKIJuktLLkHBvlOAVw78YIcZBHNHQ-vIJorep_ZzsyAN90jKuXsuNIOQMH2z16o992gpos3vx5iZuZ5j1cR_9YBAgWZrQwGmkIkdN1jcnoLlPusN4J_PiH6uWrOhdKEIGuqi7nY9mEXkgLhT0Vb0gntHkw1ghGdcARUHd7w19f-Gnf_gDwXrK9_i6HChai5BT-IrA87v8C18n35VPVUcfy0JsGvjTby14BCz6Hblb4KmEhPJ",
+   "widthPx": 720,
+   "heightPx": 712,
+   "authorAttributions": [
+    {
+     "displayName": "CANIS MENOR Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/101969198796411211577",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICVk4wGsIC8ujyJq5ZPDCtYWmTyUjal1EcxoI0bbOV5E7Q5w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBz9yUxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBz9yUxQE!2e10!4m2!3m1!1s0x9105c7175e9284af:0xc18a05081ec44835"
+  }
+ ]
+}

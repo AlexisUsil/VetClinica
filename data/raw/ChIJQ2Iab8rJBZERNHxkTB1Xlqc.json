@@ -1,0 +1,389 @@
+{
+ "id": "ChIJQ2Iab8rJBZERNHxkTB1Xlqc",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "992 358 684",
+ "internationalPhoneNumber": "+51 992 358 684",
+ "formattedAddress": "Jr. Grau 101, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "101",
+   "shortText": "101",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Grau",
+   "shortText": "Jr. Grau",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0940148,
+  "longitude": -77.06971279999999
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=12075935234187885620&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://petstationperu.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "PET STATION MAGDALENA veterinaria, estética canina y felina, hospedaje y pet shop",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. Grau 101, Magdalena del Mar",
+ "photos": [
+  {
+   "name": "places/ChIJQ2Iab8rJBZERNHxkTB1Xlqc/photos/Aa-ngMb5KHNRmS1wbkCsMYKt7xUzSb4YekoDN9cppYaM8IkBOQmiMTEqAgqAozvGXvCNAzJ0hqKV73OmuoFuC5xYgNCuJ6OzxU2ZbzFnetP58wj9kn4iGsFY_ZabnoWgqb0caZ44qLM3bfYftzEoqQxBGTJc7P-oP4s94Q622baWlRmpPkbaIXHMevk26LLuH_l-5kVOUqaztSjqz-AtqFn3bnQNjXbd2okGKsqByRVVObAvDrkg9--mtFwKp_KQhGDJqI6mCfmb-d8XWhf9qVW4poms3_6_4X9hK7kPQxWIhIgZRdJEAKEDpIO_zrOMsHEwHMH6hKHTMfY_dwlH7J16K06nYYjfZnDjcbe863dE9ymJFbA-voRO41E-HfY7OUId5X3CSWwqZFMhXH4vnSf2fkkzlKcPjXrA4rSyhOE9m3U8oA",
+   "widthPx": 1280,
+   "heightPx": 561,
+   "authorAttributions": [
+    {
+     "displayName": "PET STATION MAGDALENA veterinaria, estética canina y felina, hospedaje y pet shop",
+     "uri": "https://maps.google.com/maps/contrib/100320286425236277847",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKB5rwDeHmyyV0axodbRlHmLwmV5FTTFvxwoMTSsZKhjY5HAw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDtoKKh3Aeo9M53JV3F3kvM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDtoKKh3Aeo9M53JV3F3kvM!2e10!4m2!3m1!1s0x9105c9ca6f1a6243:0xa796571d4c647c34"
+  },
+  {
+   "name": "places/ChIJQ2Iab8rJBZERNHxkTB1Xlqc/photos/Aa-ngMaMitW3BiDrE30EB2gi6xdigkDW3CP-Ehop4rr8HRKkSs0JC-KzbJwn7OHInSDR1HjBpq3Ow75r2MXth7MyCNov-TwLdLdBFwhe1UOQAboESwCS7DEumWqlERgenZfyRTWxH4CNKAuW42HXrBMo6mce3Y4grDotX9C2BHkEpW1cAtZQbhZm9y7nyF3eMh1e0uSE9Yvx2VUsfFdMCPdidKO16MM8JChDFVGVyO36ebSaJdnJZfcV6jTyKTfQZxlCckL8r7aU566pRggtFCokU5btnm3oHjOee4jyU--B0aJw2nPGqCBE4RrTS6C_r3JzVNaZ038W7jL_YQhFdPe2FlbTOPw7c5TzEaKrRyITmKZg2DIU8r2B2HCzaSeVxP9RglmO2_6L4uGUowhquCki2imwjjrfvgTl-Q5e0kAsDQEMvg",
+   "widthPx": 902,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "PET STATION MAGDALENA veterinaria, estética canina y felina, hospedaje y pet shop",
+     "uri": "https://maps.google.com/maps/contrib/100320286425236277847",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKB5rwDeHmyyV0axodbRlHmLwmV5FTTFvxwoMTSsZKhjY5HAw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC6yroL2JKIBFDm-W2IdVXI&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC6yroL2JKIBFDm-W2IdVXI!2e10!4m2!3m1!1s0x9105c9ca6f1a6243:0xa796571d4c647c34"
+  },
+  {
+   "name": "places/ChIJQ2Iab8rJBZERNHxkTB1Xlqc/photos/Aa-ngMa48V-xCpmtPiIFr3-ugLg4zPBg-HStPmUQYWX1ZGc8Uw0E5oRvffHtuiOz9N8I-LPN_2QgxoaCuqNJ9MhbQ-zpiPlywYsz7WXUg3-DcCP7Rvnhue7aqDenBLUFdyUW4qo1DPzfDvYuhIbVJVAJqP5l9wF-xVkNM1OLyi-9ZREqB4-CKLrO_2QMv2vR67JzJkmQdxUFoRJlfgmEr-UXR887zuC_PBmCZf8UF0y-vhO5E4IVDGRMmGi1nPHvd5E92ld8EBD_eHySjqMpCWbkEnEN40lq30kyvQmW7tZ3_7yRV2oIbOrOnIhKQ_r8ZHg9B9SJHv9TCnj2grnkEmUSFyXiI6ZbJNcAySZiGDJXrA0ytZk4QoWdQFyV1osy0IGgv-rKzCxT-12EHG8F3o6P5YrmFBCgaSP91kTGB6_owtZ6_Q",
+   "widthPx": 899,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "PET STATION MAGDALENA veterinaria, estética canina y felina, hospedaje y pet shop",
+     "uri": "https://maps.google.com/maps/contrib/100320286425236277847",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKB5rwDeHmyyV0axodbRlHmLwmV5FTTFvxwoMTSsZKhjY5HAw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCF2n6nSTBRq-8i-VzMOyXf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCF2n6nSTBRq-8i-VzMOyXf!2e10!4m2!3m1!1s0x9105c9ca6f1a6243:0xa796571d4c647c34"
+  },
+  {
+   "name": "places/ChIJQ2Iab8rJBZERNHxkTB1Xlqc/photos/Aa-ngMaX1Cabjl-uMUq3WObrH_nm1xowqjUdtkEpqErnef65Haez5rrEebcf156_CnMBy8o1fRiU2sGeGYwn_PWXjJjcIuARVtIb9axByetbCZM9vyR9DjnI5Fg1f1hbXI1vDuJMBEopXBxeazFVHuY05bwwWro6YJdJ6K_ILlommSiwEgIQF4XJqTUe-JLRLidc_NKGTjgUgfynSVBu67ho17V77FUnEf43zV7vKNHkbDa6WUtyO4MoQpzyscF_XeV5i0C9PXPyzMmG3o-mr_rh8-j7NWggo8btXcAYpZt8ZEz-eIlxcscvH8uwiQ_0svGyIS_5WRJzUtCpfZwRfeljweOLVZagxh7zfEAAm4-7rJLCA-3hKPc20Hi_adlLegzcoFtRhME82QFTDXB0PCVGGfw3CbFzINVj0iYl8CyaVTffuA",
+   "widthPx": 902,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "PET STATION MAGDALENA veterinaria, estética canina y felina, hospedaje y pet shop",
+     "uri": "https://maps.google.com/maps/contrib/100320286425236277847",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKB5rwDeHmyyV0axodbRlHmLwmV5FTTFvxwoMTSsZKhjY5HAw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDdW9Fb1fATvFN6C-I2ChTO&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDdW9Fb1fATvFN6C-I2ChTO!2e10!4m2!3m1!1s0x9105c9ca6f1a6243:0xa796571d4c647c34"
+  }
+ ]
+}

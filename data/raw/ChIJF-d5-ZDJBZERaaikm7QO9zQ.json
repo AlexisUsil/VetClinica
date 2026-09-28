@@ -1,0 +1,535 @@
+{
+ "id": "ChIJF-d5-ZDJBZERaaikm7QO9zQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "970 807 818",
+ "internationalPhoneNumber": "+51 970 807 818",
+ "formattedAddress": "Av. del Ejército 1042, Magdalena del Mar 15076",
+ "addressComponents": [
+  {
+   "longText": "1042",
+   "shortText": "1042",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida del Ejército",
+   "shortText": "Av. del Ejército",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Salaverry",
+   "shortText": "Urb Salaverry",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15076",
+   "shortText": "15076",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.100924400000002,
+  "longitude": -77.0616939
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=3816535378087946345&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.dogcatperu.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 50,
+ "displayName": {
+  "text": "Clinica Veterinaria DogCat",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "store",
+ "shortFormattedAddress": "Av. del Ejército 1042, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeVFWWnBlVVZOYlVzemVGWjBaVmszZWw4MGNrRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Quise agendar una cita con rayos x, la señorita encargada le falta vocación para la atención al cliente, me manda la información donde sólo me dice el horario en donde sería atendido mi perro, y como no hay más info y sólo eso yo respondo con un OK PERFECTO AGENDEMOS, a lo que ella me dice: Srta tiene que pagar para reservar…\n\nSi no me dice al momento de mandarme la información del horario ese detalle uno que puede entender? Luego le pregunto si al 50% o 100%, me dice que el total y como no le respondo AL MINUTO, me dice que le indique sino para decirle al médico que YA NO…\n\nMe diò mucha pena que ahora las vets solo sean NEGOCIO AL 100% y cero criterio que están tratando la salud de pacientes y al menos por eso FINGIR preocupación por la salud.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quise agendar una cita con rayos x, la señorita encargada le falta vocación para la atención al cliente, me manda la información donde sólo me dice el horario en donde sería atendido mi perro, y como no hay más info y sólo eso yo respondo con un OK PERFECTO AGENDEMOS, a lo que ella me dice: Srta tiene que pagar para reservar…\n\nSi no me dice al momento de mandarme la información del horario ese detalle uno que puede entender? Luego le pregunto si al 50% o 100%, me dice que el total y como no le respondo AL MINUTO, me dice que le indique sino para decirle al médico que YA NO…\n\nMe diò mucha pena que ahora las vets solo sean NEGOCIO AL 100% y cero criterio que están tratando la salud de pacientes y al menos por eso FINGIR preocupación por la salud.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariajose Alban Guerrero",
+    "uri": "https://www.google.com/maps/contrib/112427445597692838121/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvvelqo2_FgLhxySRleDfWOASn_D6vBK_F0s_iVZPJZR69cpUdpA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-23T13:11:48.132022590Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeVFWWnBlVVZOYlVzemVGWjBaVmszZWw4MGNrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeVFWWnBlVVZOYlVzemVGWjBaVmszZWw4MGNrRRAB!2m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeVpHRXRSREV0UjE4NFlWOVpOVXhCYW5sMFdWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mi gato ha sido perjudicado en esa veterinaria, por dos meses lo han tratado por una infección cuando en realidad tiene una neoplasia, ahora tendrán que amputar su cola, ls Dra que atiende allí no sabe donde esta parada y será denunciada por su mala práctica médica.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi gato ha sido perjudicado en esa veterinaria, por dos meses lo han tratado por una infección cuando en realidad tiene una neoplasia, ahora tendrán que amputar su cola, ls Dra que atiende allí no sabe donde esta parada y será denunciada por su mala práctica médica.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "JUANA RODRIGUEZ",
+    "uri": "https://www.google.com/maps/contrib/111807609346710917830/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7AgD3ELX7u7qHN_aRxiydDU5snKNMdQws43IfS0diZXEJYdc=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-25T23:17:44.978553768Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFeVpHRXRSREV0UjE4NFlWOVpOVXhCYW5sMFdWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFeVpHRXRSREV0UjE4NFlWOVpOVXhCYW5sMFdWRRAB!2m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURQOHZqekR3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buen servicio, amables y, tienen experiencia con perros senior para tratamiento médico y quirurgico.  Les agradezco mucho por el servicio que dan a mi perro viejito. Los recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen servicio, amables y, tienen experiencia con perros senior para tratamiento médico y quirurgico.  Les agradezco mucho por el servicio que dan a mi perro viejito. Los recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jinnie Y.",
+    "uri": "https://www.google.com/maps/contrib/112706149493463858074/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVyOvM5TH6gBgwOdUGxjm7FXcct8L7vmHhXnCiX_JEiGzMA6Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-30T20:16:44.392370Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQOHZqekR3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQOHZqekR3EAE!2m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RMVIxWmhVVVZYYTBkMFFXMUhWekEyTFd0clduYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente trato y atención a las mascotitas y a las familias 😸",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente trato y atención a las mascotitas y a las familias 😸",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Chela Santillan",
+    "uri": "https://www.google.com/maps/contrib/102798194106540240740/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5i0trqAxQbEODDUA7r4rFFsxPne6kLyckc_8-2zXjbUnmn04XtA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-03T18:09:00.677223015Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RMVIxWmhVVVZYYTBkMFFXMUhWekEyTFd0clduYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RMVIxWmhVVVZYYTBkMFFXMUhWekEyTFd0clduYxAB!2m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOElTZ053EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Los amo!! Tratan a mi Falkor con muchísimo amor! Siempre me envían recordatorios de sus vacunas, desparasitación, baño! Y cuando lo he tenido enfermo, son muy sensibles con el trato! Los recomiendo totalmente!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Los amo!! Tratan a mi Falkor con muchísimo amor! Siempre me envían recordatorios de sus vacunas, desparasitación, baño! Y cuando lo he tenido enfermo, son muy sensibles con el trato! Los recomiendo totalmente!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella Morello",
+    "uri": "https://www.google.com/maps/contrib/101748392995769989980/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUd3NJtttS0qwOxL7SvOWcLEbwsCx-lpe0PjQmQANvBrVZqSApUhg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-08-17T16:17:10.661461Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQyOElTZ053EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyOElTZ053EAE!2m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMZc5fwd5x3Jq4b8ip1pfLXn_5kw9zG7IzU4yn39CBricecKe3PFke4KBi7S_ZtwtWafI02mdB8lELwbIaeWDZ-_Uk25Zs_d3cj5-zTdrLsJZQ7HLS_Fjg_LIw_Vd4PSF6-n9dWnt4OxUJmpxFb79X1B6yTWINjdlaz-CElg9lJEj45hXp0snbnxCv4PG-j2YfZ3DQ_rQ5GULqcoJZFJ3RomcInAR3c-KFranqDqefCAkv_LLHNKLDVHIO9qEiGNtCTeuGySnYXFdAcZMkh6GCaikSgnyNY8mjKy4ZDbWy-EdZxDarYbUsJA6ODwnqkIXi-tiw5dWxUW_M6U217jqTOdPdlcPrxv0qWaKye8Yf-8xw2xS3fDpFqha0UDDkQ8V2Cu5P3wtP3iaQLLzNAbcdIt0LnvMgFPJBZ66Zr5RIkaeQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Miranda sousa",
+     "uri": "https://maps.google.com/maps/contrib/101197290203732156233",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGFEwnz3vJaHJGMRIpojbjxXMaiTWDOQw7Kuw84ke9zZ57Mfhx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID224ntMw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID224ntMw!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMbxMy2ZWNcGerGi_tNLrcQn1G9Huv1aepSs9FmRQCfQ7399TFOkSAi3wj3H4SDWwB3AjX-V_rmeu9N3Pqj4fb7qUfs6VlKN3YGfcoIdB3R4wv9fVHk24zdtfoYJ4RIKr0vEPKDODAQrfjaUDVg8YQRI1IZ2QCkEB4ZT-bXfRqm-NlY9iswsecyLhl8Yw83g_grj5CJQJG5GMwCK_eiN81GF-sl1pc3vfcMakacZHPh2M81erzmLcaU3jpUoCUaa6ol9fHdYdp9SIYRDbBv5SMYYKhE9Lg8ot74RTR2yTjsbeTxDxaZMVoIsBztgiRdgN9E7fht96gTeuCvWAlgO_a8ISLkwWGu0hHEtYZqR_eZg0_Wlo7C8qclMTDM0sn9KW4X-uFZMkLu2Ols6bx-GBiUN4s654fGuRXc4RQmLDtyXRA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Miranda sousa",
+     "uri": "https://maps.google.com/maps/contrib/101197290203732156233",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGFEwnz3vJaHJGMRIpojbjxXMaiTWDOQw7Kuw84ke9zZ57Mfhx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe_e6AZw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe_e6AZw!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMbTBLNufF1HCHFC6iN5a3iAUjTIonoKaP72Qik2-Zpey5XCzVVkVGx2jkUvmsSDcDZ_8hQrG4H9cYqd3vwJ68EV-EfSDalHzKPQoC4k3XZLUAYKh1w2fqvz3dX5Oxffj_dW0G64coW9igy4OzVI8rSxW498e3aHCdL28AuAtkhhVMApMkImgyOd0ZbSoxqmt0DjV4j0c9Q9xz-wbHf8y1n-K7ejSGD8oGbvg3hPn6xMBXHLA1iuP1W4ul3pT4jAzUPiJOYr9nvZ1sO8_4QDNnh1_OrYSHg0W8Fr7S4vXD6_RnbC5cmf73sjOggwn_2NezU5dAd9ckwNU40eTtxYA8rbNP2Dd0QTATjdDJajuzZSLsgtjKxklCzsJ34fieBKwfVMKxKD3JB5Duh5rsm6iAYBbI7jhHqbW2Rk7ddXORVsCg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Miranda sousa",
+     "uri": "https://maps.google.com/maps/contrib/101197290203732156233",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGFEwnz3vJaHJGMRIpojbjxXMaiTWDOQw7Kuw84ke9zZ57Mfhx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICuqpGcGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICuqpGcGw!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMbTeXeyvY7NNIUVJrsjfbElxvGdVg746-S1HNcPfSNdp9TEZJANb03mWBB7XdqZOtGMfRAVxB4stblUB4z0x_LL_iR1t56xD5J0WKfg2dVxAkOZWhbGVar2jomTcNpan7H5VyzAl_5lOXbHuDpGf_VxFT9RwnHtwlSAPBouLwfYC1Oqf_wiNXLJYE-XxiiSIYpuQJwVB4YJHNvzyrMlAWnVobVe5nEqoIxuuE9lhAO-8M1jELHwFeSalaEog2cUP-ytfemH1di4zEJDyrpiKPvgJvsy890AXFFcKkWxtp6SVU-OnI3KPr1P5gQuDsonyaLUZVFhKsbsLvTuSMNqLuhcsnxh6xOpoFzOHgBO4IGxbxoiy1tFMumeKnO2zQn3Tou-9MWPkNm_ISWT2eXeUVg5syVli-w1gt-1kBk7uPI-2bXaba5qLjldGaurBQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Miranda sousa",
+     "uri": "https://maps.google.com/maps/contrib/101197290203732156233",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGFEwnz3vJaHJGMRIpojbjxXMaiTWDOQw7Kuw84ke9zZ57Mfhx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCAU6UUc9kNP1yxBGg19RvO&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCAU6UUc9kNP1yxBGg19RvO!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMYEKNU_42zjyL3RnELA3lCJavwcV3YVzWvRudJud1qJZt75ot5y9i7C9-hcek7swBCRzSGtYDskTY5-8L7ey32oB5ZO_0jxnr5-ERQQS3ZZXCDR-y6prtVL64J96k8lwKogGEp52bcm6DB9y_MSHfPq9T-bAJ8yfXczvQPMOfwQNOnZjBY-wvVYeTkpm0sb-SU_TEKrwyr4cIihMeh39p2XxjhBkp3DUw6n93sIlb28Tq7S9sTeN2LnoI3n39kHjiC5lJsRH_4hJa0zbNcUr2A6vgANRWRYx7BrC1AugSOp9bGN9uxqKHw9Wc6ct4XVgPNjqTGEJco8GFGw_zgGG1gNxYZdI-7OhyZ8KtUDwCqf7esOpjZLjHCKEVswFAt_CxkXGhtL19l8ENzF8ttTT0nnAAgZWgQ23wDik9g1ZR7gMGiG",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alvaro Miranda sousa",
+     "uri": "https://maps.google.com/maps/contrib/101197290203732156233",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGFEwnz3vJaHJGMRIpojbjxXMaiTWDOQw7Kuw84ke9zZ57Mfhx=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID224nt0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID224nt0wE!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  },
+  {
+   "name": "places/ChIJF-d5-ZDJBZERaaikm7QO9zQ/photos/Aa-ngMY-u85WCSoLCZTl3pm2ReU4CFPczASdh_HhJ05CP3_McrqBfYDuLwlDfoAHk8iRX6DcT5e50HgmcDzaIHfzLvXRj5dPYYp0uJGdKVSeqyTfTZdAYfWPpdb_wptQyuWfCz-rKKn7nZov306qtbQW_u5pSQsETfyoJ1I4PqRnFCso_zsu0p1AqxtQcMcAi6m-MOba9bf1CkVOdpBBW4yn9i8XsRvED08qNvMfMMJdQWC396m5Rrhw0tEKgvzFexf_3V18A14QINfCqu6YRib5_4_PEQF68kyt5KW016VRAVA0cypM4K-ykfE72oWTw0kPzD8Zw77jSLPyxv2O-27f1qzNjLHiNu58uysqBv9-e_TyBoTrsx801uC6IrnaFTeLdXkweHmHqQ5fTHqQEkP1WytQrU4N0lZtippuBtEodnXmU3L8",
+   "widthPx": 1080,
+   "heightPx": 736,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria DogCat",
+     "uri": "https://maps.google.com/maps/contrib/100687462381152300456",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmWgdmeVAEV4iEdxIHpj3AQA3COeT62q7sHB5peqCMEudxXEQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6nKPm5wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6nKPm5wE!2e10!4m2!3m1!1s0x9105c990f979e717:0x34f70eb49ba4a869"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

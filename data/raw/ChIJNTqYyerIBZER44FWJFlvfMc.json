@@ -1,0 +1,556 @@
+{
+ "id": "ChIJNTqYyerIBZER44FWJFlvfMc",
+ "types": [
+  "pet_care",
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 602 992",
+ "internationalPhoneNumber": "+51 952 602 992",
+ "formattedAddress": "Av. Paseo de la República 678, Lima 15046",
+ "addressComponents": [
+  {
+   "longText": "678",
+   "shortText": "678",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Paseo de la República",
+   "shortText": "Av. Paseo de la República",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0647668,
+  "longitude": -77.0338891
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=14374486539312202211&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 230,
+ "displayName": {
+  "text": "Convet - Santa Beatriz",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Paseo de la República 678, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVNU5FOW5ja3hYUVZoYVprWm9RMWN3V0VVeGNWRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Terrible servicio de delivery. Le pides bien claro un producto y te mandan lo que ellos quieren. Les pedí media caja de apoquel y mandan a su delivery con la caja completa. Se pasaron de vivo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Terrible servicio de delivery. Le pides bien claro un producto y te mandan lo que ellos quieren. Les pedí media caja de apoquel y mandan a su delivery con la caja completa. Se pasaron de vivo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mayra Guiulfo",
+    "uri": "https://www.google.com/maps/contrib/116898370473653727580/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV37hSQkN81Mt9e4e_Lo5f43vbO8w_IS4WBydvolHMimiauPUKewg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-01T21:50:08.083130808Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVNU5FOW5ja3hYUVZoYVprWm9RMWN3V0VVeGNWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVNU5FOW5ja3hYUVZoYVprWm9RMWN3V0VVeGNWRRAB!2m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsTlZIZFJTVnB2VjBOQlNHbHZlbHBEWm5SRlZFRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Sucursal pequeña pero variada, de buenos precios y muy buena atención.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Sucursal pequeña pero variada, de buenos precios y muy buena atención.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Roger Flores Vicharra",
+    "uri": "https://www.google.com/maps/contrib/104950799213011757927/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVu2HRnZ8Mp_Lhflg73vR9bAAS1KK_UsytCQYYNuiirRGeF_7gN=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-08-20T22:10:34.518022129Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsTlZIZFJTVnB2VjBOQlNHbHZlbHBEWm5SRlZFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsTlZIZFJTVnB2VjBOQlNHbHZlbHBEWm5SRlZFRRAB!2m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyeFpLMHZnRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 3,
+   "text": {
+    "text": "Me gusto tiene variedad de productos a  precios accesibles lo malo es q siempre está llena así que hay q ir con paciencia pero la señorita que atiende tiene buen trato la cliente, seguiré regresando para comprar para mis mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me gusto tiene variedad de productos a  precios accesibles lo malo es q siempre está llena así que hay q ir con paciencia pero la señorita que atiende tiene buen trato la cliente, seguiré regresando para comprar para mis mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Delmy Jimenez",
+    "uri": "https://www.google.com/maps/contrib/112043206041804727993/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgP6u_2czwOmjQGxNNDHzJTr8V9Zw8PS3s7O67ldD3s18_leAbXQ=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2022-04-25T19:27:29.687755Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyeFpLMHZnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyeFpLMHZnRRAB!2m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/reviews/ChdDSUhNMG9nS0VJQ0FnSURaOU5XNW1nRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 4,
+   "text": {
+    "text": "Muy buena atencion y los precios acequibles , lo q deberian cambiar es q el delivery tenga un costo adicional si uno lleva medicinas q sobrepasan los 100.00 soles y ademas q uno vive dentro del sector",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atencion y los precios acequibles , lo q deberian cambiar es q el delivery tenga un costo adicional si uno lleva medicinas q sobrepasan los 100.00 soles y ademas q uno vive dentro del sector",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Flor Ramirez",
+    "uri": "https://www.google.com/maps/contrib/104409829395352899898/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDGNsZiLqwgx0aPD9x6Y9twmyYa92WGqoyVYadKONo9iW7lQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-09-25T15:49:53.723256Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURaOU5XNW1nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaOU5XNW1nRRAB!2m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/reviews/ChdDSUhNMG9nS0VJQ0FnSURNczdPd3pnRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 4,
+   "text": {
+    "text": "Buena atención. Recomiendo llamar antes de ir, así, vas a la segura. Hay playa de estacionamiento barata al costado, pero si vas sábado, fácil te cuadras un toque afuera.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención. Recomiendo llamar antes de ir, así, vas a la segura. Hay playa de estacionamiento barata al costado, pero si vas sábado, fácil te cuadras un toque afuera.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Esteban Tapia",
+    "uri": "https://www.google.com/maps/contrib/103731506313551981086/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXgrxgZXlu_QFfSwfIkLEEvJE2c6_1JR1NAB4rlWcnMBjtpuIV=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2020-01-11T16:03:22.118357Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNczdPd3pnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNczdPd3pnRRAB!2m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMaMnEujSKTWlgj7NLXzOC8iYJM_vKgTl7TNh2poxKxpFJzdvJuU8DcAZGbfxA-fJ0grU6rKYqNEPRZpV5t0sDOBnNcrgSfa2v-OddanNmuJv0y8UUHcGU2cFz7dpB7GhWY8xBaXcuFrnSmAIaMbhD0U6bv5tXjchbbDz_XFMXlgBhNo8j-ORLeh1vsVFjL9AquwLaOYHjdFeUi6BoCUY9ohp45R-1iPMspJ_LQkp_rpEzr55dupiCa2oytMfvTpRE73MSGiU3-MBI6s1hfsJgt6WTY3ZcZQbUVXvqbUl5n-ooS371jYiW9EqnNpkG2Avn3rmoW8o2knOobCqYuBkS3G83pgz5teC5g_ODE-RLdjDNdrWrwldPi8So6TFgidlAqU2md1Ir6wgLKQeyt1kcw0h5H3hdQ",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Beatriz",
+     "uri": "https://maps.google.com/maps/contrib/101192541508700827870",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdUCDlPB3b3HbHXDi0SJahWYVdW-WIELa4O5ZDxN1uHluShE8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC69NCmlgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC69NCmlgE!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMZptbD10sMWO9qUP_ncu9C2sSrTzZTUvVm4ZYseKyPER6dOZfFl2YnSkTeRQqXBDJpdE-n6mNOrJE53M0UEz4W1b_KW7euPNeEJ47rHvFxUKfXb14JiL3ybcbYvVSM1sa5hkiVp67YwjRlrAv4SqslkCnOZ8O-H9gbw8l7dYW4QTlKLnWaGi3JfhSE1nrlEjrM3VeyWyPloE_4psEhS65phcRd4ZBS2jbhiY5cyyWTV1z7omQG_WVFq8lFra9md_S_JHgdiyOBd1j07wzcmEkrtlo44lnV6HOQeJhLL6yka2yqHuukmacU-O6HYMxAi-w5mczKubmQoXtINsvQUDFFRlv6YKraY6dzFpU3Wr7YxAR9iatgqHaW0GFhKiOUiy3NE_CWeAJkCbYW_FBCJuPfXZBnjY7dFkmz5uiMkXwlVzg",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Beatriz",
+     "uri": "https://maps.google.com/maps/contrib/101192541508700827870",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdUCDlPB3b3HbHXDi0SJahWYVdW-WIELa4O5ZDxN1uHluShE8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD5Ig927vXb1ELI10dsaQtC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD5Ig927vXb1ELI10dsaQtC!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMYdgN1HxobUxcdFKKzc4e3xDxwEQKslpIvDRYzS7nb-TPmq9Tws8PPvO4pcLLDF4ewP-FzFgobtbnK03LZbQAydOYnQCJm6ljkFBIasDS4xJdc-0u4o5UEbDqvuKmMOyIynXhTHeE32-F_2kowz3BXq1Iyr0fOaGdrtAMhz0EGOi9ijeV8PIKs069xto35Z4SP2AZUYM61E_FrbGNO69z2AeYwc4coVB-8wlI0rGxG_pPtYQSQ1Z0HT_E99wMHazUssfQQfRYZquNkkEokzkIsgWzx0OOYt6-_14TPY5ZDElp5WTyL5nNEk_0eLeZeb7ZL05AxhmYmLiqB80C86fyN_GsEYpwiOpb12qIt75EYfdsA1V-M0ATmOj1tdBjtMrwVhpGTp-1DU3yduvvQ5vdMx8A",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Jesús Ochoa Pastor",
+     "uri": "https://maps.google.com/maps/contrib/102818230101119669014",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaussdGNxNpBLjSJMU5iewGdM5wmbnL-wfL8e1Yi6y86nhgMEPJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcyrjqHQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcyrjqHQ!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMbCS4hhQu0OzGcMyOZbzTGoPb_2bzCBkHwwRy368fitYfYJDH8QMO4HD85CwAoobPmIYl4g5eutg-J4-g_taXOUpZjm_dxI-Zyv02i2817G1tLPSLz6VZCwCVEGnADSyXsI-cvviYD4eIC0QC6-O3CBAOvPAoq38YzIUlS_FMo9PIj-fFeuIrZ6kRcZFeMOhILzjvyiDt0CnNBA29Le5AeA9W_rLiESWKYcjDmLqSHwv6TrchjfFz98S83D1YMlr3GK2NnFOz7zQQTHBpJRZCbDPV-o4YBrXy6bPA8DVmLz0u7cBpzW7HOe5U218XA77KAj9iG836s1MaUbKgIjvm--YRcyQHvbZ6wpOc38nNtUhtlvpZx0kDKsu78QC0KnwL3YPm5WgjJkUjAPU45TBJF3eQKp3sU",
+   "widthPx": 1840,
+   "heightPx": 3984,
+   "authorAttributions": [
+    {
+     "displayName": "Elena Reyes",
+     "uri": "https://maps.google.com/maps/contrib/103438910142242708072",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiqXU4J42nLcHqh_WjqwdRpLaYjFiShkWXxDSy3Yt5ab_qIeRZag=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu7Oe5igE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu7Oe5igE!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMZGur4RU1T3R-PP6C5sxa0riPdMWMUOcNW6URFplcfPOdFArHk2s83dYHp-scvhp573Yg-Can0JUQ_yIf0VqubuQor9gLGU1RLvLVm9u7NEAk7J9ESwSSlm16AhpxpEHma7ZvY3xvy2HkeKDnuaOoCoUc-0irmBMyt09FhVEbyHFSwVq7oOcnIp6rXuEmzKhdOTKYaaKqez_bCf1u3-bQaGqUtLlqzgDUBkTgigZCLYeFc4A0PfLFCsxIN7ASCx4E_Pxk5DhVts_Db3eztfDGJ3WLptxaPNXFoehpnwvXpqtuATueVrb_PLnwmOB3i4KTo19Vn4_gU_Z6sWD43vtfkLkCgK9BEwXyHjiFhgoRABd6raM_3XTKg6m959TDQGbw6yOE_DqqsZtmjpiyzPsmSg5A",
+   "widthPx": 4128,
+   "heightPx": 3096,
+   "authorAttributions": [
+    {
+     "displayName": "Lucy Lazoriga",
+     "uri": "https://maps.google.com/maps/contrib/110128135511064762121",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJuk3ryXS6lEynNXowFYAysxdc4-wjbQ-WCHhV4-AqqLv7McA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk5r28IA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk5r28IA!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMYKsAx3yQlpKLI5jnNbwjMI_fvrlStticrGIME46DAlED3VdtF_3aZvCmy_UTuFJzwzUtGFqdUBW5lVF9usU-lv6Xp1e0pa7Wyxe6jTUg9k2LYgbkbZ9f-3MU6DgGKwFGX8yOBjmWBNY0Eo49VdMaYtnlbP0H8f30H-f4cEmPl-_g_hOFGnFfaYUovK7cUYP7ZgI7kMwld5eaEZ7CAD-Jw-dasHqDj4kqBafVb_wfShcmxYoCzWzirFppUaIje46m95p_C_zBISRUnZG87CpEd7t48wBaau1YapBQ9mOYuVMVoYBtpuThXPBCy0ataMDfSWr68ggrpKoo4tI9_2DJ84cR3B2_0LCvZDYmEI_eTOlSU1K_Pl1OfDxBd16Zz6vRO9UJnuP72YJNVO0RwDRA9ni1k",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Jesús Ochoa Pastor",
+     "uri": "https://maps.google.com/maps/contrib/102818230101119669014",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaussdGNxNpBLjSJMU5iewGdM5wmbnL-wfL8e1Yi6y86nhgMEPJw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcyrjqcw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcyrjqcw!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMZ8-OKk_F8LglbDmP-IJpFw2xnREmpXMWfwZTWVtLSIU2poqhPM7CkMzyYOTZ-fccK_hgpG7Z8PES3nIj5thDtfyRBbKiEGXvF5SFDgcxREd4SlUpeo_SksjklckPb823iGsYxJWzer03M_gEFFR4XVEVrJxTVx_iL753auM5lq2TtMHWDnXdIf7ItJU21NrSdwvRLxBoLbOtDEHldBxSjz0hM_MdbarwZn9Rjm5ik8Z3TJFROD54-YqM4pUm84zLIlXgHCVjD43k2tsAU9IBMSCbMLROApWf67nZFA9wMXyTnOsSuJiw9ZhdV3nGQx3O7xQg1Wvtb8D6SiFONX4nbVoMzCvAhc3uAS639PZQlmBsuZJPZeN8j7H-d4MAxDeyStQNV4BheAp_MUAHtnhOlzLz7ukVduGi2pclgpuwgFcA",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Beatriz",
+     "uri": "https://maps.google.com/maps/contrib/101192541508700827870",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdUCDlPB3b3HbHXDi0SJahWYVdW-WIELa4O5ZDxN1uHluShE8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA95VKEk8lHXraY_3HQy5gS&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA95VKEk8lHXraY_3HQy5gS!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  },
+  {
+   "name": "places/ChIJNTqYyerIBZER44FWJFlvfMc/photos/Aa-ngMZOKmC6BaJJKerfi16RnKhqY8ApsTRR8pX_HpeTpdCQ3vxBtl5LaIb_5olHviKyhFDv-PXgVbje_jKdsSb_xTgBY0-YDtMjxaDfMUk19stCR4YL7ym2G3A5866Hkmya0mrIyr-HFFhr_yjTmH5f6zZ690Mjcq2eRRCeS_nbEy3FpMkMU2S4M0BlpF9_2cD4OdKCLIWZNqmmfI8fsor7IhGrW3a0pQmabooTGIREpxHpu_peZtOIh7qvq0mMP_lBqq-B2V7MyiNy7gnsziNZhlBAQ2A-Zq5_A7KQ_QKIBDcYgZMmOOSuARrxtt4WFc_coqrl5YROzYfCnDQTZkSyU4v--5ZeSsJkQUefAdfzv-vIHdT3QBqoH1NfxB-OyxWAqUwFlJs2lU-vEVjT9-XoN6gUnrk",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Ricardo Santa Cruz Mendoza",
+     "uri": "https://maps.google.com/maps/contrib/114837959618123872390",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5DQxKhcW7J1zsgSSj4biQ8ozectlB5qWYUce6EJ7XEA4g1Dk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi2KqLGA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi2KqLGA!2e10!4m2!3m1!1s0x9105c8eac9983a35:0xc77c6f59245681e3"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

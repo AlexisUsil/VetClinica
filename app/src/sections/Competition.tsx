@@ -136,14 +136,14 @@ function HHI({ sel }: { sel: string }) {
   const max = Math.max(3000, ...LZ.map(d => d.hhi)) * 1.1
   return (
     <div className="px-3 pb-4">
-      <ChartContainer config={{ hhi: { label: 'HHI', color: COLORS.primary } }} className="aspect-auto h-[250px] w-full">
-        <BarChart data={LZ} layout="vertical" margin={{ top: 18, right: 44, left: 4, bottom: 4 }} barCategoryGap={10}>
+      <ChartContainer config={{ hhi: { label: 'HHI', color: COLORS.primary } }} className="aspect-auto w-full" style={{ height: 40 + LZ.length * 30 }}>
+        <BarChart data={LZ} layout="vertical" margin={{ top: 18, right: 44, left: 4, bottom: 4 }} barCategoryGap={8}>
           <XAxis type="number" hide domain={[0, max]} />
           <YAxis type="category" dataKey="name" width={84} tickLine={false} axisLine={false} tick={{ fill: 'var(--foreground)', fontSize: 13, fontWeight: 500 }} />
           <ReferenceLine x={1500} stroke="#F59E0B" strokeDasharray="4 4" label={{ value: '1.500', position: 'top', fontSize: 10, fill: '#B45309' }} />
           <ReferenceLine x={2500} stroke="#DC2626" strokeDasharray="4 4" label={{ value: '2.500', position: 'top', fontSize: 10, fill: '#B91C1C' }} />
           <Tooltip cursor={{ fill: 'var(--muted)' }} content={({ active, payload }) => { if (!active || !payload?.length) return null; const d = payload[0].payload as (typeof LZ)[number]; return <TipCard title={d.full} rows={[{ k: 'HHI', v: fmtN(d.hhi), strong: true }, { k: 'Top 3 se lleva', v: fmtPct(d.top3) }, { k: 'Lectura', v: hhiLabel(d.hhi) }]} foot=">2.500 = pocos dominan · <1.500 = repartido" /> }} />
-          <Bar isAnimationActive={ANIM} dataKey="hhi" radius={5} barSize={22} className="cursor-pointer" onClick={(e: { payload?: { full?: string } }) => e?.payload?.full && setDistrict(e.payload.full)}>
+          <Bar isAnimationActive={ANIM} dataKey="hhi" radius={5} barSize={20} className="cursor-pointer" onClick={(e: { payload?: { full?: string } }) => e?.payload?.full && setDistrict(e.payload.full)}>
             {LZ.map(d => <Cell key={d.full} fill={toneColor(hhiTone(d.hhi))} fillOpacity={sel !== 'all' && sel !== d.full ? 0.35 : 0.9} />)}
             <LabelList dataKey="hhi" position="right" className="fill-foreground text-[12px] font-semibold tabular-nums" formatter={(v: unknown) => fmtN(v)} />
           </Bar>
@@ -165,7 +165,7 @@ function Services({ sel }: { sel: string }) {
   if (!SERV.length) return <Empty msg="Sin datos de servicios." />
   return (
     <div className="overflow-x-auto">
-      <table className="w-full min-w-[640px] border-separate border-spacing-1 px-4 pb-4 text-[13px]">
+      <table className="w-full min-w-[760px] border-separate border-spacing-1 px-4 pb-4 text-[13px]">
         <thead><tr className="text-xs text-muted-foreground">
           <th className="px-2 py-1.5 text-left font-medium">Servicio</th><th className="px-2 py-1.5 text-left font-medium">Margen</th>
           {cols.map(c => <th key={c.n} className={cn('px-2 py-1.5 text-center font-medium', sel === c.n && 'text-foreground')}>{shortD(c.n)}<div className="text-[10px] font-normal">n={fmtN(c.known.length)}</div></th>)}
@@ -173,7 +173,7 @@ function Services({ sel }: { sel: string }) {
         <tbody>
           {SERV.map(s => { const mg = MARGIN[s] || 'Sin dato'; return (
             <tr key={s}>
-              <th scope="row" className="px-2 py-1 text-left font-medium">{cap(s)}</th>
+              <th scope="row" className="sticky left-0 z-10 bg-white px-2 py-1 text-left font-medium">{cap(s)}</th>
               <td className="px-2 py-1"><Pill tone={mg === 'Alto' ? 'opp' : mg === 'Medio' ? 'teal' : 'gray'}>{mg}</Pill></td>
               {cols.map(col => { const v = val(col, s); const t = isNum(v) ? v / 100 : 0; const o = opp[col.n].includes(s); return (
                 <td key={col.n} title={`${shortD(col.n)} · ${s}: ${isNum(v) ? fmtPct(v) : 'sin dato'}${o ? ' · hueco de margen' : ''}`}
@@ -200,7 +200,7 @@ export function Competition({ S }: { S: Scope }) {
         <Reveal delay={0.06} className="h-full"><Panel className="h-full"><CardHead title="Cadenas presentes" sub="Top 5 por sedes" /><div className="pt-4"><Chains S={S} /></div></Panel></Reveal>
         <Reveal delay={0.12} className="h-full"><Panel className="h-full"><CardHead title="Ticket por visita" sub="Distribución de clínicas por rango (S/)" action={<Pill tone="mid">estimado</Pill>} /><div className="pt-4"><Ticket S={S} /></div></Panel></Reveal>
       </div>
-      <div className="mt-4 grid gap-4 lg:grid-cols-5">
+      <div className="mt-4 grid grid-cols-[minmax(0,1fr)] gap-4 lg:grid-cols-5">
         <Reveal className="h-full lg:col-span-3">
           <Panel className="h-full">
             <CardHead title="Líderes débiles que se pueden desplazar" sub={`Rating × reseñas × ticket (tamaño) · vulnerable = <${fmtN(VULN_R, 1)}★ y ${VULN_N}+ reseñas`} />

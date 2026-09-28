@@ -1,0 +1,516 @@
+{
+ "id": "ChIJgek8OQvJBZER1SRuu4XfFro",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "formattedAddress": "C. David Matto 153, Lima 15084",
+ "addressComponents": [
+  {
+   "longText": "153",
+   "shortText": "153",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle David Matto",
+   "shortText": "C. David Matto",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15084",
+   "shortText": "15084",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0815706,
+  "longitude": -77.0658381
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=13409150706010432725&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 22,
+ "displayName": {
+  "text": "Animedica Vet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. David Matto 153, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHN1l1eHJBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, profesionales, buenos precios.\nAmplias instalaciones, variedad de productos alimenticios, trabaja con marcas de calidad, súper recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, profesionales, buenos precios.\nAmplias instalaciones, variedad de productos alimenticios, trabaja con marcas de calidad, súper recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Manuel C",
+    "uri": "https://www.google.com/maps/contrib/100443253907601202758/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfn4vbPqEMKNGayjwCh4wm9P7WWXrFZCDbFgk3GWPmZAEaOg=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2021-11-06T14:58:00.291560Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHN1l1eHJBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHN1l1eHJBRRAB!2m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/reviews/ChdDSUhNMG9nS0VPeTltSXlUMTR6TzhBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención.  El veterinario fue muy amable con mi gatita y conmigo. Entablan conversación para saber más de tu mascota y saber su rutina. El doctor fue paciente y se nota la pasión por su profesión. Muy recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención.  El veterinario fue muy amable con mi gatita y conmigo. Entablan conversación para saber más de tu mascota y saber su rutina. El doctor fue paciente y se nota la pasión por su profesión. Muy recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jacquelin Pérez Halanoca",
+    "uri": "https://www.google.com/maps/contrib/107383273826387323116/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnZZvN8mJVxZgErdr3tuWhzho-xpYAoG2d9-NDlbMyN2W1dNa8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-16T16:44:46.768288Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPeTltSXlUMTR6TzhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPeTltSXlUMTR6TzhBRRAB!2m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2dVlhZXJBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, el trato es muy personal te brindan confianza.  Las mascotitas  son super bien atendidas tanto en los servicios médicos como en grooming. A1",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, el trato es muy personal te brindan confianza.  Las mascotitas  son super bien atendidas tanto en los servicios médicos como en grooming. A1",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia mondoñedo",
+    "uri": "https://www.google.com/maps/contrib/107734379568694690052/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUja1tPD2p-Uxf8Nf2ppdFEg50WWbnz1p1QxE3GJStNGRrSKEGX=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-09-24T19:12:43.976534Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2dVlhZXJBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2dVlhZXJBRRAB!2m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/reviews/ChZDSUhNMG9nS0VJQ0FnSURHb3ZYSmNBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "A pesar que tienen historial de mi gato Benito y saben que es nervioso, lo aceptaron para bañarlo y cortarle las uñas pensando que lo iban a sedar y al final me llamaron para recogerlo sin haberlo realizado el servicio, pero no me contaron que le habían sacado sangre de sus patas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "A pesar que tienen historial de mi gato Benito y saben que es nervioso, lo aceptaron para bañarlo y cortarle las uñas pensando que lo iban a sedar y al final me llamaron para recogerlo sin haberlo realizado el servicio, pero no me contaron que le habían sacado sangre de sus patas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Julio Zuñiga",
+    "uri": "https://www.google.com/maps/contrib/106103214257436324545/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_2vRn0xBqNDq-mxcH0AXnxyDZTyMcPEHlPLbBGy-ty8ezlblV=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-11-22T17:17:58.869889Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHb3ZYSmNBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHb3ZYSmNBEAE!2m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/reviews/ChdDSUhNMG9nS0VJQ0FnSURpcWVUMTdRRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, personal muy emopatico y profesional para cuidar a nuestras mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, personal muy emopatico y profesional para cuidar a nuestras mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Armando Beraún Negrillo",
+    "uri": "https://www.google.com/maps/contrib/103344846560026287852/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGTuX6myWoD9Yy_895TXmtJaLZyY6V18eVXv51NkCTFhZ96uablw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2020-12-07T16:22:31.400827Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpcWVUMTdRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpcWVUMTdRRRAB!2m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMZhAVL4rapqVVVQuPyahNTa7E07hmXa4T0m-g8txWQc6Wc0EmTLd7SkPE8JqpdK65iShoqlRJ3uDsqL3908BDpuVNdZpU3eAIprIKk8K4jL32bZazWWVJbQVeGbOR2oamlw6fx9YtMl-7N01yaVKHb_LGUjFh31eEvlrshHz_WGBMXDjfbuEWEmlonZ5Rw9A8bLH40YuIyqF6uLA5rbUNMOlDHS58azyfkCvNCbo33t-O6U9KT3_2qHW_hNgt3ud9BfL3OKmlsr3dIGopBKsS91iEakXhq0AUo7T_q7wWAkpT-Ga0aVCartnD5yx4Atz2ulKck4O2BYOkkODchX1WaFhdjT6W2Cw7JBJbUULD8uHuEfNBrX5t-1EmWk-tGsS38Bvxwn8hKGPTMdtJ-nmuKE4XUxLTY8OrN-2p6b4Fs",
+   "widthPx": 4640,
+   "heightPx": 3472,
+   "authorAttributions": [
+    {
+     "displayName": "Manuel C",
+     "uri": "https://maps.google.com/maps/contrib/100443253907601202758",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfn4vbPqEMKNGayjwCh4wm9P7WWXrFZCDbFgk3GWPmZAEaOg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICG7YvjSA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG7YvjSA!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMaSpK-jmwctdf4PQjHmi2fS55500yiLe8fC5X2CgTkWyU9pLy9qzoKG37MNS2odcV6BmUcLDO7rARtqJQICgdbRvDm5Ah6Um9rf-fHr4ljM8N3Vp-6RBHX3-lWZWsktMNlaySHY9p1TmSOMf7iFEZmON14tpnWo7LXPmxdWlqNe7oCb7wG3Ae9dJdxf3dXGUdgnRgb9dCHo-s6sgg0Swo1bFea-164apzWaxSUIQiOfqR5cNs5gb6upcp4IUQQv_8f6PNVlLGJ1JtdbyE_g3Nf6GRqwx2Of4fAtJORhQB7_-aAKICjMNJwepNqTzyQsjfZ3mEG3IWGTuIgksuUkXdI7cyQ38borFI9Bp3PtrglgatggeIii0JrRjLVXUPdWTpg_d805NExs_l8rVx8XYfoKwOx-oMmAOSu2M9MTGMNxBg",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Mario Motta",
+     "uri": "https://maps.google.com/maps/contrib/101458829325793984592",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgulgEh--Nb73xNUiR90s_q9g4te6XK34z1Hs246ulvDygG3k=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC83bH9LQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC83bH9LQ!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMbWfMxKxZduQAbmbCUUDquYMb7FFEOjOOWY9CeUOeEWwCCXg0hCcBarvevpTAv3h7CAYl40VBPyF9DCf3HzOdABq2MNxuVataGQCFJnPm0rT66IxEaRd_gi5YG-hGPQ4cpA9GZ85hr8WCwMlHoZ3qMFHvPb9hoF6Zhcs9pgHhb2UZA_Wbgjss_X3GDxAc-VjbiNOS4T_SxTo3KQnSh656JMTl3W6WEUXco4UQEbkZwSCBL5MuHu4X2cBqG_zM-yUE0PtWGbdYm1AbLknCuiiGGztj6E0aQxXJPbrkRYZVt7dx6TOLjraX_a2vQ0OuDsEh_cgKPuLLVh9zIxTz7NRe6T1CmFBjxO0TSOXFArRKpjs-lOaBmp8XH73U-pMiav3JjKM6cq5_H5SmFmEHKFYVvqLGuIbVCybBRVQ8GvH89jZX3G",
+   "widthPx": 3472,
+   "heightPx": 4640,
+   "authorAttributions": [
+    {
+     "displayName": "Manuel C",
+     "uri": "https://maps.google.com/maps/contrib/100443253907601202758",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfn4vbPqEMKNGayjwCh4wm9P7WWXrFZCDbFgk3GWPmZAEaOg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICG7YvjiAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICG7YvjiAE!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMahnEKjSAfH0lByTkGc_rHYRgxUodWPBSEdX9ORrCqtM6jO0yeRzYgvfSOxVZqROxZdKqu5CjupCWAQVJ8pPa0Al81cOZ1mjpbrsx3VcRw2VdW-2sYIznfABOdr3YnwSx6UHiX3XrLnbmSKrR39PZ-zDcWpxk7tQ0PKjbOAdriwzAUUNl5BlvE7b4uW_KWYNF69ID9VljJ1idyHHcS5LYnIPww96KrljlIUWtVDuW_C-Lmq2Uw7D_G3US0uKzKhvH4lt2sb6xKYaAeTHQCpGaelBws6SWy4YoMSoo1iKQeKmnKhVoYHw_JGv4jMu1WDqhguuiN0InX47IbL8KEvz8y42EP8s0x5n6livQ9ZaUg6PNmxG3fuIqelL2t8jg_eqUJpB7S2ezr624gt6ZO1Y5s8a-3iDrrlYRpokiVkHGngow",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Foster Foster",
+     "uri": "https://maps.google.com/maps/contrib/103017572324459844859",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb1awf5XBj_BIRDh_g_sN6ZQNIDyf1iusV-t2skWh_SHvyC43z=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOyJD8Qw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOyJD8Qw!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMbA-Wo4Oz_8LZ1YJG2QOyxhFmX59B7-phqGzIc0xR3bk32xgB9b9DlSQNaDfHomYEX4734QlH8HFi5n_RNCjtftZq5qa5LRJ1Tx55BKpMmMrJQS_OfWeAUiteAV8RH03C_ALuLYZa6AIx-n63DMrI1tSpl-tkq8b5YKgRAQE-pNTBBaA4KuwDlz-APfVjBNgZuOSXNAF_MWCD1AAZqJF_LTRcMOnl6UcRdsSsEzHkED4lVLoSurJaBysbmKnoa3vsU20O9AlElBcIMazYUkJkiFCzs43W3A-6pdzwP7T_EIXplMO0X9_6mjBDhtW4gwZpunwpmdvidU33NrArSjgjNlUJF2yVj0OMooI3_TONZ65z4olMghOzg01zEQsh3Eo9y8wl68AxHEn8JGJMMBIwW5pa5SlvsOvP-73xlHdbA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Foster Foster",
+     "uri": "https://maps.google.com/maps/contrib/103017572324459844859",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb1awf5XBj_BIRDh_g_sN6ZQNIDyf1iusV-t2skWh_SHvyC43z=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOyJDwJQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOyJDwJQ!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  },
+  {
+   "name": "places/ChIJgek8OQvJBZER1SRuu4XfFro/photos/Aa-ngMbVjThdMm-ki5ZSakdVtO2-FTi4A79Hn5wYizoLjRyTOafzUM3SQFmFVbCo46CWyM8QFfPnEZrJvcUn2zWqOvmoaoBQc7iPZlLEXYdQ3DKK6deKqRcCJydaaZVXCJAC0kbPcX0enZls-M-DVmj0VcFI3Jyb41umT7nbYosRaX2AP3laFCQzWwJf6FgZ7olSiu_AqGIOLOPYT_suTHsR805_iAasOE0xMU1rr0AqNnej9srSlJwGOapZiiv_DjvX3H4LuO-4RH7KZWJHLxt0zeaN7SoOT68pzqxUnLiah6BeuAD8kgdLCa6d4BPVnwk3FL1ruULYaKUVbTo8zWyRtKp9AEoSyk2mNXoRh-JZ1wdFUxPxG-OHBKDwiZGYGzEH9EpevOrEXn_lNpXKeGPKOerhstom7Kb45qGYKms3HgCkKXy3",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Foster Foster",
+     "uri": "https://maps.google.com/maps/contrib/103017572324459844859",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb1awf5XBj_BIRDh_g_sN6ZQNIDyf1iusV-t2skWh_SHvyC43z=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOyJCY9wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOyJCY9wE!2e10!4m2!3m1!1s0x9105c90b393ce981:0xba16df85bb6e24d5"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

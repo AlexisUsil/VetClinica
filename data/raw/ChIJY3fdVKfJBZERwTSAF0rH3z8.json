@@ -1,0 +1,619 @@
+{
+ "id": "ChIJY3fdVKfJBZERwTSAF0rH3z8",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 852 646",
+ "internationalPhoneNumber": "+51 999 852 646",
+ "formattedAddress": "Jirón Echenique 922, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "922",
+   "shortText": "922",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Echenique",
+   "shortText": "Jirón Echenique",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.087764799999999,
+  "longitude": -77.0735486
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=4602616465231721665&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.veterinariadogtoras.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 231,
+ "displayName": {
+  "text": "Clinica Veterinaria Dogtoras S.R.L.",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Echenique 922, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GM1ZXTm9RM2cwT0RSb2JHNXdhR1ZOY0dveldYYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, lo recomiendo, me explicaron todo a detalle, evaluaron a mi becky y me dieron el diagnóstico, muy bueno el doctor y muy amable la atención. Los recomiendo 🫶",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, lo recomiendo, me explicaron todo a detalle, evaluaron a mi becky y me dieron el diagnóstico, muy bueno el doctor y muy amable la atención. Los recomiendo 🫶",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Val Seo Prta",
+    "uri": "https://www.google.com/maps/contrib/106765248673726173526/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeKTvUPCO82gHk8YI9Sck313Wj0R1Pb_rHdGBImGS42vmFmHc=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-09T01:33:42.775583043Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GM1ZXTm9RM2cwT0RSb2JHNXdhR1ZOY0dveldYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GM1ZXTm9RM2cwT0RSb2JHNXdhR1ZOY0dveldYYxAB!2m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxanBfQmd3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Son un super equipo. Muy buenas veterinarias, conscientes y eficaces. Es mi veterinaria y médicos de cabecera de mi Coffee.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son un super equipo. Muy buenas veterinarias, conscientes y eficaces. Es mi veterinaria y médicos de cabecera de mi Coffee.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Ynes Aragonez",
+    "uri": "https://www.google.com/maps/contrib/115956263274069456349/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURDGIerhVrSLXZQAO_W8Vmh7vZC_B7J1c3I1UqnQTxUfTGPCC65w=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2023-12-29T20:23:23.646996Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxanBfQmd3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxanBfQmd3RRAB!2m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0eHBPZ1hBEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 3,
+   "text": {
+    "text": "No es un lugar cinco estrellas pero atendieron muy bien a mí gato, sus precios son accesibles en realidad yo llevo ahí a todos mis animales, lo recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No es un lugar cinco estrellas pero atendieron muy bien a mí gato, sus precios son accesibles en realidad yo llevo ahí a todos mis animales, lo recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Susana A. Huatuco Rowe",
+    "uri": "https://www.google.com/maps/contrib/109500832860812907909/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVP9WERwzh0W96uVGQSovos-FcB8n9eJI8fCL0vKFUNVvL7xqGi=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2019-06-05T17:31:29.013446Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0eHBPZ1hBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0eHBPZ1hBEAE!2m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNGI3U3d3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Excelentes profesionales..la Dra.Viviana atendió la emergencia de mi Morita dando un diagnostico acertado.Asi mismo las dogtoras qué la intervinieron tuvieron mucho cuidado y seguimiento.Gracias al equipo ahora mi Morita se encuentra a salvo y en recupeeacion..Recomedadisimo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes profesionales..la Dra.Viviana atendió la emergencia de mi Morita dando un diagnostico acertado.Asi mismo las dogtoras qué la intervinieron tuvieron mucho cuidado y seguimiento.Gracias al equipo ahora mi Morita se encuentra a salvo y en recupeeacion..Recomedadisimo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carla Cornejo",
+    "uri": "https://www.google.com/maps/contrib/114889727596613967241/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_GqIApcclcmg4TMd6W4DzVH8EJOIqUYIKtG8ZN9WQ8G0QeyNC=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-04-10T15:38:39.911285Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNGI3U3d3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNGI3U3d3RRAB!2m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/reviews/ChdDSUhNMG9nS0VJbVhzc2k2dGZ5eW1nRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 2,
+   "text": {
+    "text": "Pésima atención,  es la última vez que llevo a mis gatos, la doctora es mil oficios no sabe atender bien porque tiene que estar viendo al mismo tiempo al animal, contestando el teléfono y viendo quien toca la puerta, no tienen laboratorio para sacar exámenes al momento, te mandan a otra veterinaria para ir a sacarlo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención,  es la última vez que llevo a mis gatos, la doctora es mil oficios no sabe atender bien porque tiene que estar viendo al mismo tiempo al animal, contestando el teléfono y viendo quien toca la puerta, no tienen laboratorio para sacar exámenes al momento, te mandan a otra veterinaria para ir a sacarlo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stanley Bautista",
+    "uri": "https://www.google.com/maps/contrib/110385737827295885284/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnjYZQFmsZQ2EGSe8Wr3n8Gau3a3_WMsKQv0KjGKUoEKG_tTB_=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-24T04:47:37.140345Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJbVhzc2k2dGZ5eW1nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJbVhzc2k2dGZ5eW1nRRAB!2m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMZ0NOhyB8oGAzsRokKbr8vhwHjkufm9-cY0J4vOWknBFImhphk6FCxuIwJRHv9t3vcVcqzftM6cbqzYyWUbvxGSk7UonV-CTy48-mIcBPXLzELVmTAILaDcxk7R2FJXKIls-YXt500MqbkwO0fi12ztfLoWSrid1c7K8HhE70bDOIhrnjtmVtA_8fX_7XB4sNLfp519Gxu2_PL0dWshVjovqqsOiM127q7g-VZ_Qot1oIbmEicrtF-LAQ9cMFDOuIO9eCKoJzeekC-F2FuwpRmyQkqduo_NQGQZH8BOze_74X67sRIVO0RY9FdQqZTDgfhatRLxgCM8Aej9QsYFP_57crHdcM8p8UoP0lOr2craMopwWTPIKvgK-KBJcifF0ns1izB6rFrSHKHRnbODByTz0NvsAv0",
+   "widthPx": 711,
+   "heightPx": 400,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Dogtoras S.R.L.",
+     "uri": "https://maps.google.com/maps/contrib/111913870668127296404",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTne0HLJOlvUGE-ZLJ3P7XRDxJprdbkZBE_agf7lLRgE3r00Oz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6nJ77owE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6nJ77owE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMaWDJ--FqtZ0UQGPFLOp4KqaTmF8J0l0L_xjemdao3MuzukTOGnqYF4nl6xR6QFKQq_6w2Ki0-qOB3O8LO3qKUlZKuCJzh_KVqFVQXvXzBTX59YU724T5OO_a6lxH6LJXVhDENUWT53l_GzKQ03pSJbsQEqyh6u4rA7C9ADFpaeVg8H6yAGaMI7EMmFH43PXhgL_rwwxZQPk_ZNyalDdSYrEwBMK-oeGCNdtwfwgcLLcwO46VVKd91dOVbwWisoyof8Pa-cyN020qO9Ia_bRE-tfSeK7JYosVtm9VMM9208o8rccrTJXCPehXl8DqEostd57woIqVzItO0mvMDRcSyll5rqN79fNrwkd5oGX1gBzBlKPEt46gR4rWoz4JZD3112XdJzYqNQsRMUh48eqVTJMw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Kattia Cruzado",
+     "uri": "https://maps.google.com/maps/contrib/109126293723561596293",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIn6TRWJPMj1W2Y9zWYyrZR9Sdu0tm8IIpF0KUqrVa49n7eWQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe_7TBRA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe_7TBRA!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMa-23-zfPm6Sk0DMcYflZAgYi4zbUfkJ_onu_UNTUM-WqgoY8zwyLvakIPTeONcke7kUnAZIyvtN1Ap8HNM62QbICuoTlT0GZe3QXIR2kaNNgV_T7T_76LdtsOQ6AkvejozcfVrOolAYyDFB--FCInSVM6IW_yb67al22lKcYUQFRKb1VP_FZge5g_s96q1_0nFG-q5yqBQDjs8xGA-Hli1ZNjKxcX4kPshO-z0q9qOas181BBhWqAjwPrAqu1FmsRNkY5aVWjPhhDuTJbC3SVDs3Ff6NOQPaonhbUpCmxtLMescg7kcvzbyXvr38F2_enEcpRtcCEVGIeF880rGUK689TEy_Hw8jfNDcUS8QtFo8aIMA1GA4dcFL-6B7udNli8WaITnvIj9znIV9JDq4xbuCp0Byk",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Kattia Cruzado",
+     "uri": "https://maps.google.com/maps/contrib/109126293723561596293",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIn6TRWJPMj1W2Y9zWYyrZR9Sdu0tm8IIpF0KUqrVa49n7eWQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe_7TBhAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe_7TBhAE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMZKY-30g1kwB8a14nm9sTJWxOxwQDxh0KC1-SiVv8ui_zHZ7Hz38MDxe_IeygpnAfZErskD51OnOd8oMJj3M25igjY0qyHROt7RGqYCaRksj5oatyUD02yEOYQwLKqeiHxG3wIdJoxoEaoZZBcfNRaHfLG2bsbIXtT6-aI5SPvP2adpoTXg76M7oFW8jvfi-2FNi61UiiCpP26V8CV82pYGDpth3wqdQ7CTvNytlAJoX13Hn42KXXxyPVdMGiYgv2loJrd1Jf6cARfMKNx9Jqm_TF-0OSPK2RkpWtcW_gaPbV0kZJq5tPONxHhtcmwPQAYpmjuUlRtizP-_ii3l4-SqEToWsQKSNfFuq1A5VdJ7w9l4CaKvA3Df6U-Ye6ObFbe9lTYYu3vHzcsTZZQn769L39g",
+   "widthPx": 2976,
+   "heightPx": 3968,
+   "authorAttributions": [
+    {
+     "displayName": "Gaby Grados",
+     "uri": "https://maps.google.com/maps/contrib/102073778322774579585",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVC_O-_sMRFIHbl7-IJ99bhhKeGq51mdrpnMsJWvg-iKoiDrdvtTA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUluycDA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUluycDA!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMbB01iuQfTf4Fpq3zHNjmb6Sf2LOOtKLayTILWVWYe2Fy6fFuMghK_6fQGzoP3_d7MytYHgzQcLFJAzQy_eISqH_trgLTQWDXA522ZiebQ0VOx7EAprwdabBU0JMeRCiLFluAKng8Ji3Ms6n5NDwDzA5o2jD2taFKk8vIcA3lSzTm23pl_MMB0755VOODgwn6eqb33EgCGfqTUej4yUJ4gCKJnynTs_vUBHYh1nv06TVsfAaWV-sqDrgsMjZqq_rTtzNYLJWoNWgwzIa1JB7-dGmGR7JyEvod34jjcnYV8xS_wzB5UzHrHR48gr_c_5npI6Cn1HgNfAQKQ_zHAqXQMdChNI5fDQCjXfaKOz7tSkUJD_TSv2Lb-lAUfUGI2mc1xAYVu3qfKqzfv5AnTiGSTdvg",
+   "widthPx": 4128,
+   "heightPx": 2322,
+   "authorAttributions": [
+    {
+     "displayName": "Ivy Suica Loyola",
+     "uri": "https://maps.google.com/maps/contrib/112880730924877537068",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHRuRHnqjz9iOtFcPM0QqKH-_m8qTlWxWscWVTIr6dLEeHFIE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK_KnHew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK_KnHew!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMaoIDVE8DjLzkFiNchsq7jSJv5RIx94JUBVWm01xPmjJxJ94JTlrLLpF0FhJUiXxUqRwI6dJ50lLE204e3zJpFZMOQH_RtoC2bQLIjej8WV2RhGCniQsN6DWj5PEv2eDDkk8JEiae7WAIXUkayp-zacNvDZW_W9C8WnHjZ-xHoPq9sQ849MOcCOVPS2J5jwfQjvzb9vDa9R8ZkreSX910qXDidjePD1Hro1LSuHdynhGa7IinRepBZy-hgDmAMXLN1qlHV0k4idzzY_D89X28kg67Z0CrwUYrxiUA1yOP5-Bd2sQkn2s7HbhYLqwrI86NhVqGTCd6FdI1FQipiX4Qt1AK54bc4TGjXBHGVRaWun5Z_kaXYoD-GRhLNVVVYdcx6NS9M7Twc4Sugb0vxIx8xYk751",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ivy Suica Loyola",
+     "uri": "https://maps.google.com/maps/contrib/112880730924877537068",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHRuRHnqjz9iOtFcPM0QqKH-_m8qTlWxWscWVTIr6dLEeHFIE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICZuYvv8gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICZuYvv8gE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMb2NaKQJhPXci3EmMpEeQKJkjs9Sb72wp3uKfCGLtqyeZVOek6lcFd73MdEnlIBY9H914ozHPDDi1VFdmS0FAp6KG8Cm738n0aNHb2jF5ARuJTHxWQ7GPm7_E0OpiesZeM_XeLMe-O7drUebdOgr3_96lwRuRBcLtfE6E63ucXVUldE9Htwr1uIk8_XI2OSDChGDOtmHMaJPRT4ssZ_F8GlhjSBETBWMZaNuRYV1psREP2eqCtB93M907hk1F5qtYZgneoCbE5jvFnUTLfoXzwmJGvigDf4fMdsqxST76OYnUkkcn7ecP8YNeLfMvp6fF0kSOn3Jwtj-8iP0ZB2wWKbEVABYzmtLn7SCXFrRkRYVuFWwOFqZ7Pl46W7p1hbJpSZ_UgNJCGwwvYQ43eiySuZRJs9Tk8",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Gaby Grados",
+     "uri": "https://maps.google.com/maps/contrib/102073778322774579585",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVC_O-_sMRFIHbl7-IJ99bhhKeGq51mdrpnMsJWvg-iKoiDrdvtTA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUlrzJuAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUlrzJuAE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMZHemLW9VW0IntImc8OSKDkBQ7Dh-1zUh8zpHaB8pgf6mIqx3nvqhJDjyDWREnx9CbIpdiUn3sx6OEj7L1mpkWW-kSzmuedWlfovYVlLTcZfUdUl5wTc1s0QZEHLTR4znm2NzsHxmKqDNdad39cRpZjG-cbIs8IfJ9PKHiGB5BtsSsytHg-uEcjW-DfarfMJpz5FhlbohMnFKo2AkcbNrGz7to4nTCOdOgGNiLsjcHUidcCO2F4EWLqGEKPyNd1_8Y1EIJ2K4_fDcrE26C6fJjIB4OPh-Gd7RItqJbkkn3jg02rvrOeincwVexjQ8WR8ODivt-Esu8wi0rtJcHo-VGttL0-MDsb8zlcUhj0z_ACprkSVE7DXzfkxOYxTLsgWVeIGKEb1t_jKZvowSs9pK1NFIa_Ojk",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Susana A. Huatuco Rowe",
+     "uri": "https://maps.google.com/maps/contrib/109500832860812907909",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVP9WERwzh0W96uVGQSovos-FcB8n9eJI8fCL0vKFUNVvL7xqGi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEvN24iAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEvN24iAE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMZ00m3zvTr3DKXOaN49c20iSGiCR4fcjQH2nKXEL-03HJ7Xd4fT-C5vTtUHgAfeoOYqUHCTx7ayyIY5gRN-GM_eI84sOuD4oVMDvSNUNkCyQhisrECwJNpzPufWYn4czRYC05UxY4-VG0EBRSwcHOeWm8wWyDP3XayHhPNMWsWqri-17lCvP0ndCgsIEMFJkMFqgFJrPWDVir2SBQW2l5-gFD_yCnfm5Ndp2e_sLwTqvL0aKKFAAvoXfwVPxID7Xvm0_tof7CNSN36YzIhm8F52L_LnBCp6fgPkX7O9Jo0qN2NCeD923HerrwK_6kXr3bNtwQw0KVjLyMNpHRhl3-tf0c7FBB7kmkStcL7D3EcTH9D5oSLjM_wWy5JibuNnfQsG1KD7O_IGmyrM-zeARvhy7Oc8VIE",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Gianina Perez Farro",
+     "uri": "https://maps.google.com/maps/contrib/110196850360265974148",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjtY_4hJbN7Kfm-6ne5QiuS5PhNJ_cC6-c2fJBe2xEeTQLoA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICMxJntrwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICMxJntrwE!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  },
+  {
+   "name": "places/ChIJY3fdVKfJBZERwTSAF0rH3z8/photos/Aa-ngMY1Jdrm1lijtenDOFkj9o3LC8QGlxwQyLN0YnPRJ8b1iKUxc4kASc6_0ehxxGRlcctqbeqZxUQWJ1w4HTqxZTFYIhfSMiI8rpm9KY8qsdzTFawdv69ZfbyPwLNBVb_xtAkDIsOkJG69ViGextMXp0gS0SYHScrkjgJl9qtSg3_PJUc2bQ8tQSKc-P-vt8B6jDq8q5Wcn6aPCx7wICAVk2_pGKeEP7epwQHeL24zyvpjHjlfmKs5pOSYqHSCnU85dTnKxwljteNLNgz7PUupEuk-HYmD0B1OM21fPCEkav035g_HeVBQ4MWNT_NfzYkgZPZFO_Ndc1KFB-Pp5flhmxIj0i8Vd3eOi5CH_k3X_I76WOVAreBuO9oNsd3F_87ZnCkIlqismhFRoQxwNxAG-ygaow",
+   "widthPx": 1800,
+   "heightPx": 2694,
+   "authorAttributions": [
+    {
+     "displayName": "Ivy Suica Loyola",
+     "uri": "https://maps.google.com/maps/contrib/112880730924877537068",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHRuRHnqjz9iOtFcPM0QqKH-_m8qTlWxWscWVTIr6dLEeHFIE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICu5srTbA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICu5srTbA!2e10!4m2!3m1!1s0x9105c9a754dd7763:0x3fdfc74a178034c1"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

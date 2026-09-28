@@ -171,7 +171,7 @@ export function MapSection({ S }: { S: Scope }) {
           </Popover>
         </div>
       </Reveal>
-      <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_320px]">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-4 lg:grid-cols-[minmax(0,1fr)_320px]">
         <Reveal>
           <Panel className={cn('relative isolate h-[440px] sm:h-[520px] lg:h-[600px]', exploring && 'map-exploring')}>
             <MapView district={S.district} layers={layers} exploring={exploring} pin={pin} radius={radius} analysis={analysis}

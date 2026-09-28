@@ -1,0 +1,412 @@
+{
+ "id": "ChIJ9eDD0IHJBZERTKlK4KRKWLQ",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "food",
+  "supplier",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "970 273 704",
+ "internationalPhoneNumber": "+51 970 273 704",
+ "formattedAddress": "15086, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "15086",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0906361,
+  "longitude": -77.0746777
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=12995218796775647564&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://petmarket.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1,
+ "displayName": {
+  "text": "PetMarket - Petshop Lima",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "store",
+ "shortFormattedAddress": "15086, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJ9eDD0IHJBZERTKlK4KRKWLQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWelZFTXpZMEp2U25oek9EZDBha0ZPY2tGNU9XYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "José Romero",
+    "uri": "https://www.google.com/maps/contrib/103771870780883116455/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdwVeZzSHcdQch_UiGwsraDrf8OCsYCsdBV4RaiGgp8TMC49X9=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-22T23:55:52.287694819Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWelZFTXpZMEp2U25oek9EZDBha0ZPY2tGNU9XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWelZFTXpZMEp2U25oek9EZDBha0ZPY2tGNU9XYxAB!2m1!1s0x9105c981d0c3e0f5:0xb4584aa4e04aa94c"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ9eDD0IHJBZERTKlK4KRKWLQ/photos/Aa-ngMbTd7cRzSivnRnRGgvCe8q4_1etExtbdFKvQRxgvBEmrQLW7f5CTagIUNmr00Zf_Xizi3dzQ-0f77mP7tR2BKj6-pEJn1gp7Nun-zx5l_Sod341kL7zLWX2PWYc5QXkYp18Vfuy2_RGClqygCor87SOedqIo2zWSmzNWPZGdZDxwKlEbPNW5bp1OmCsofvhY1zx1XHczlDpMlwQIFZMAH5WJNLKyll8AeSc-54mI7LCa9NSGthUWA7Ez1S36PQQu2_m1uUJx9UIel32HvjYYfVworV5CICZWVS33ZIdOcPrXKi7ibEZb5LKtgZ0j0VoGQhmZRXDpcleJG-ZQpxqaFO5y7WhZpicBd2gZpX8X3Xy_NrxtV7WU4q8LgMgdB-XRl0LHEDwB30RWjINl99AIL7pZON_M6W3iMEooBgiMj6GtA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "PetMarket - Petshop Lima",
+     "uri": "https://maps.google.com/maps/contrib/114014546335189288443",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjZPENgj6NQXFusWRDxJ85bq3vFr6WL4QGDPmiUmEMvYJVEw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBtLXJ0rVYINMgFAeBwKD0p&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBtLXJ0rVYINMgFAeBwKD0p!2e10!4m2!3m1!1s0x9105c981d0c3e0f5:0xb4584aa4e04aa94c"
+  },
+  {
+   "name": "places/ChIJ9eDD0IHJBZERTKlK4KRKWLQ/photos/Aa-ngMZ7iTBxG4FEHYjfZiPjgAw2nQ2T6fzHPe4dSX14HC4andgM7GYe1NLA_x0V0vdsLpXR3uFqA0ddCqSjstKMzRCJ0kGS3N_kgjlYAB6tfgl2wzm9eQ1c6GAJidLzCc55mRAEBfnhsVhKL2pBSFsIJlrrtpoiuvbebdFXKicspPKqMicYUsjwFulj3Z0gZh9W-nWTunqP_TjCDoQPKJTGrxmB_RFeeETzmSJhfMb1yvhi1K2QEeHxuADJ04UzRERhTWD0ZWGB4u40s4PfNPfFALpezJH3JmG_o4TVPHP-ejeebq9xENntM-mElk0nW_k8q5-OdjZCwcOUSuAOOL6rVlj8mrQPqVCyxfK2Ceg9GwLzK1YCvKXalUxSX7Avuo7tKTq5uyG4EenF--p8peYPbJ37rjlQDxlTZ0051uwhYKOB",
+   "widthPx": 1890,
+   "heightPx": 1890,
+   "authorAttributions": [
+    {
+     "displayName": "PetMarket - Petshop Lima",
+     "uri": "https://maps.google.com/maps/contrib/114014546335189288443",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjZPENgj6NQXFusWRDxJ85bq3vFr6WL4QGDPmiUmEMvYJVEw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAphOkTWxpvKf5h2tE0m1sA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAphOkTWxpvKf5h2tE0m1sA!2e10!4m2!3m1!1s0x9105c981d0c3e0f5:0xb4584aa4e04aa94c"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

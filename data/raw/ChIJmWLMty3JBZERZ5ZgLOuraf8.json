@@ -1,0 +1,582 @@
+{
+ "id": "ChIJmWLMty3JBZERZ5ZgLOuraf8",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "967 246 095",
+ "internationalPhoneNumber": "+51 967 246 095",
+ "formattedAddress": "Av Antonio José de Sucre 669, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "669",
+   "shortText": "669",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Antonio José de Sucre",
+   "shortText": "Av Antonio José de Sucre",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Orbea",
+   "shortText": "Urb Orbea",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.092640699999999,
+  "longitude": -77.0710211
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=18404430378776434279&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/raymivetclinicaveterinaria/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 71,
+ "displayName": {
+  "text": "RaymiVet Clinica Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Antonio José de Sucre 669, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdFgxaHRhWFpPZEVRNExVUlNWMHRQVkhWWFJWRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Nuestro Bonnie falleció minutos después de llegar a casa tras la consulta. Lo llevamos porque presentaba síntomas claros pero la dra. Vizcarra indicó que todo era “normal” en un conejo con gases. Durante la consulta le administró meloxivet de forma muy invasiva, metiendo la jeringa hasta el fondo de su boquita, lo que evidentemente le causó malestar. Bonnie nunca había hecho sonidos y en ese momento lloró. Al llegar a casa su estado empeoró muy rápido: no podía caminar bien y prácticamente se arrastraba. Intentamos comunicarnos por whatsapp sin respuesta inmediata. Luego de su fallecimiento notamos una pequeña herida en su boca que no tenía antes.\nBonnie no merecía pasar sus últimos minutos así! Realmente espero que puedan cambiar su forma de atender a los animalitos, ya que encontramos diferentes casos similares en redes, así que no es la primera vez que ocurre algo así.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Nuestro Bonnie falleció minutos después de llegar a casa tras la consulta. Lo llevamos porque presentaba síntomas claros pero la dra. Vizcarra indicó que todo era “normal” en un conejo con gases. Durante la consulta le administró meloxivet de forma muy invasiva, metiendo la jeringa hasta el fondo de su boquita, lo que evidentemente le causó malestar. Bonnie nunca había hecho sonidos y en ese momento lloró. Al llegar a casa su estado empeoró muy rápido: no podía caminar bien y prácticamente se arrastraba. Intentamos comunicarnos por whatsapp sin respuesta inmediata. Luego de su fallecimiento notamos una pequeña herida en su boca que no tenía antes.\nBonnie no merecía pasar sus últimos minutos así! Realmente espero que puedan cambiar su forma de atender a los animalitos, ya que encontramos diferentes casos similares en redes, así que no es la primera vez que ocurre algo así.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Hopper The Pug",
+    "uri": "https://www.google.com/maps/contrib/104686997793825393591/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLhDJZ05jIZ76A4IcxtKOwAFiFA32VrNkCC-9pWrirCkMQHEg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-19T18:04:08.844893599Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WdFgxaHRhWFpPZEVRNExVUlNWMHRQVkhWWFJWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdFgxaHRhWFpPZEVRNExVUlNWMHRQVkhWWFJWRRAB!2m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NdFIxRkRMVFZmV1dOelJWbElOMEUwVjNOT1pXYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi conejito porque había dejado de comer y no hacía sus necesidades, presentaba signos que para mí eran anormales (temblores, momentos de flacidez y cambios en su comportamiento) pero la dra Yvett Vizcarra minimizó todo indicando que era lo “normal” en un conejo con gases.\n\nEn el momento que le dio un medicamento, introdujo la jeringa hasta el fondo de su boca e hizo que mi conejito llorara (algo que nunca había pasado, escucharlo quejarse fue muy feo). Incluso la vet lo llamo “engreído” y se reía, minimizando toda la situación.\n\nLamentablemente mi conejito falleció apenas llegamos a casa. Entiendo que su condición podía ser grave pero me quedo con la sensación de que no se le dio la atención adecuada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi conejito porque había dejado de comer y no hacía sus necesidades, presentaba signos que para mí eran anormales (temblores, momentos de flacidez y cambios en su comportamiento) pero la dra Yvett Vizcarra minimizó todo indicando que era lo “normal” en un conejo con gases.\n\nEn el momento que le dio un medicamento, introdujo la jeringa hasta el fondo de su boca e hizo que mi conejito llorara (algo que nunca había pasado, escucharlo quejarse fue muy feo). Incluso la vet lo llamo “engreído” y se reía, minimizando toda la situación.\n\nLamentablemente mi conejito falleció apenas llegamos a casa. Entiendo que su condición podía ser grave pero me quedo con la sensación de que no se le dio la atención adecuada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marcia Yabar",
+    "uri": "https://www.google.com/maps/contrib/108333832328864111812/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1JxTaTFmGAdtS-42_oIZgnBfI8LAHSi59RnwzNoct-53jh-AS=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-18T14:41:46.234446101Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NdFIxRkRMVFZmV1dOelJWbElOMEUwVjNOT1pXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NdFIxRkRMVFZmV1dOelJWbElOMEUwVjNOT1pXYxAB!2m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4czlxN2hBRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Súper recomendado para consultas y cirugías de conejitos 🐰 ❤️ Operaron en dos oportunidades al mío, la primera fue de un absceso en la patita y la otra fue una cirugía en la vejiga y salió excelente, mi conejito se recuperó súper rápido 🥹🫶🏻 Los Doctores estaban al pendiente de el todo el tiempo, antes y después de la cirugía (con seguimiento) Lo recomiendo 😊",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper recomendado para consultas y cirugías de conejitos 🐰 ❤️ Operaron en dos oportunidades al mío, la primera fue de un absceso en la patita y la otra fue una cirugía en la vejiga y salió excelente, mi conejito se recuperó súper rápido 🥹🫶🏻 Los Doctores estaban al pendiente de el todo el tiempo, antes y después de la cirugía (con seguimiento) Lo recomiendo 😊",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia Malqui",
+    "uri": "https://www.google.com/maps/contrib/108627577657419114066/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjQ6nmbKu6WU-E0EiFkN6azoy2n3g7JytlYn69kePbWJ7OuMWOIQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-05-25T14:53:41.187883Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4czlxN2hBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4czlxN2hBRRAB!2m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5bjduQUJ3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención. Mi conejito se atiende tranquilo. Se encuentra de todo para su alimentación y también accesorios. Recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención. Mi conejito se atiende tranquilo. Se encuentra de todo para su alimentación y también accesorios. Recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ma Pa Robls (Mapa)",
+    "uri": "https://www.google.com/maps/contrib/117215688156503474814/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPRWvTbQThWv6e9IHIrdT7u313KD0mR_wxtWPQdaAnGN5loosaIQ=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2022-04-24T01:17:12.474761Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5bjduQUJ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5bjduQUJ3EAE!2m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOM01EQnNjQzE0VW5wMUxXaEZOelV4VkV4dlJGRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi conejita desde bebé a esta veterinaria para sus controles normales, incluso ahí la esterilizaron. El año pasado la lleve por un lagrimeo que aparentemente no tenía ninguna infección asociada, eso in signo de un absceso dental y la doctora lo ignoró completamente. Posteriormente tuvo otro síntoma y a pesar de mencionarle a la doctora que revise sus dientes, nunca lo hizo. Ignoraron síntomas evidentes, y se pudo evitar el fallecimiento de mi bebé si los hubiesen tomado en cuenta meses atrás. Por favor no lleven a sus bebés a este lugar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi conejita desde bebé a esta veterinaria para sus controles normales, incluso ahí la esterilizaron. El año pasado la lleve por un lagrimeo que aparentemente no tenía ninguna infección asociada, eso in signo de un absceso dental y la doctora lo ignoró completamente. Posteriormente tuvo otro síntoma y a pesar de mencionarle a la doctora que revise sus dientes, nunca lo hizo. Ignoraron síntomas evidentes, y se pudo evitar el fallecimiento de mi bebé si los hubiesen tomado en cuenta meses atrás. Por favor no lleven a sus bebés a este lugar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniella Marín",
+    "uri": "https://www.google.com/maps/contrib/115969030813456643571/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWQn2QhzyBaIUDAa9NqRV1ChzfNgu2Cs9HQT5VwUhEgAOl6TWlMQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-19T17:14:17.822616818Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOM01EQnNjQzE0VW5wMUxXaEZOelV4VkV4dlJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOM01EQnNjQzE0VW5wMUxXaEZOelV4VkV4dlJGRRAB!2m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMbjCY_rC9ML1fSzDViMZMCmiLLondtIxZIHoZIf3KinSxtW1a_UEY04GEX4U5rLs0RqOnPqzwenUhnTFVJgmCNt210BXD8QMowWQAnszIxVIEFLbknWT51Os_WuwCoD_ZICL_UbuXBxBZXHedCBuzOaxZl0e_SFPBzORuyH9-6hDn0o401ZU-ksT-IZemiR1ZtNFhUg8BGt7ZeHUKBVFZ1Dzw5-YmvknH_4YrOmRUYWe7stLole5cknFadCBD_RniMOMBzCCey4MZU_JkpuoK7zjKTL_p_m8AQVNCCrptdkGgVM6mC8YYzamzyB3edHY0R5Fkk7uLn-J1OnDp0W6-vPijXDbIXtA02mhl0hEbdi7t1yiyU3avRYPMT0qKZIp7P4wRIkmBoNt-_Iv3xU4S2SqLM",
+   "widthPx": 1280,
+   "heightPx": 1070,
+   "authorAttributions": [
+    {
+     "displayName": "Clinica Veterinaria Raymivet",
+     "uri": "https://maps.google.com/maps/contrib/104184713671650728326",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcXI5u3o9pR2e61VQMLhb0W0ddAzMPbg8NfSVUyLKU4rEJACI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpvq_EZQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpvq_EZQ!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMb_2uhUgxyEXSqmOrmogums-bh2jd_QHOwkPmlkw1ShWXRRv5uuniagg00y9Q23SOfoqODi57lmNM9hD2dETNxppLY2Oq27MILmTYzTxTVovECKusrCol72mQWzRvamBeCl6KFnQMyu77wCtXIZhFm1K8rrz70hvIuk08ng4V-S5jjmtrY6BLT33oPOQKP526yFMyFLS2cJhnN5X943utNIMwkqYM2HLcsMu4dXLVmjW0Nhh862zCxXIyKcwR51n_M3uon-qjpr4P0T-Qy5HHMFpNCHUS5yvTNRvoZqNygrhapZ62vtuvg2LoD1fuw5LMXtW_kRs-YAk76Zolh4a9JsQlwX-YG9Wze6R-tkLGXarOosNC3lrgmkM805xO6RHZ8xFP_qm09KvboLSpmgQ1SVdJ9Iy98",
+   "widthPx": 828,
+   "heightPx": 1427,
+   "authorAttributions": [
+    {
+     "displayName": "RaymiVet Clinica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/101511220819534029033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGPxxdJpFN6FgqK0tt0k-Vmc6XPWB2H0xsc3Hac3TzR1sARsKp=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfz6qQswE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfz6qQswE!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMaOhvsF46dzH4YYY6gfqbJrUoPERh7l6GJEbBIj3x8slx4fTR4OD1-PUhLRtmHypwd4tSrSSTWFmyic1s0vjo0ZrAARP1tVbrooVEHF3Ta2-s_DBovqfr6e5SeYGlmqa7dnNDz547c9rdxaIkK--yHrQFyKxYFyUwLlXBLRpwY15yvhhSxZWUTSHWbbc7ChJJDEM6ykI1koJ7OufWWP4NAXOGPk5yn88d9YSBMdVpSbQTl_8A_W33wGGUx25RmXOp0UFgYjutsgJL-alGxx6ywsdr3OfHDFL6fg3FZiTeVH0UN2vnTHsHxoCjf4IYxXRv8-tB13007guMk5FUiBz2AW9ugUnV_4mupiP02Cj2--nEw6Fvfc9drlE4yK-jyaqgQ0M9JVCER9uCJFbfCTiiKERL-Olic",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia Malqui",
+     "uri": "https://maps.google.com/maps/contrib/108627577657419114066",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjQ6nmbKu6WU-E0EiFkN6azoy2n3g7JytlYn69kePbWJ7OuMWOIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICxs9q75AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICxs9q75AE!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMYRrpTaCZdNsJS2mVmPuB2iwBR4Ul2hBaDYAYfCuii20z4r_bowuo5Q8x9exigp1XdDchE9NIYYaC-CokiHi9j5-aXBMzC9Qho0DyYD6UIjr4zqj2BdC8OaZQF-9vLQ32meu3lbM8rAuoCEbhKnWgehv5XN9eNUkxRtOpR65fx2rsNF5H3JAcp3dQZQfqTpLTnBoWUIWm2HzbWC1X4j-YSBOvndfUnSGKMym_iAYLqGZ8sOsK2myDazqpPXT_QagezoL_ijRVBlSfta50kI9KtMC56yQZ5yi_I9Rqr9TrG-Br6vXzRcx5Ls9Yxzmq8heFsCYvsutfEjViGxLxnw1F6967CUhW2KMQbgIqDLAyrrEPrDinBMi1nOju4N11XC2WOchsu_Mfl29KPGzUld3U_kwg",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ma Pa Robls (Mapa)",
+     "uri": "https://maps.google.com/maps/contrib/117215688156503474814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPRWvTbQThWv6e9IHIrdT7u313KD0mR_wxtWPQdaAnGN5loosaIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa9833MQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa9833MQ!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMa4W-GzvYfjQrU82tN0hZTCuIhJRuAwgCD1FXIiY1gj8ujbzTA1I0jqndufB7lnjP6M-eVDvVg5WLM9JxBfJdr-ewwc5aLVGAFbdBkl2K4eEXXHYUV3W4mrtkwzI2cpidDjNbscX2yV4M6YrugdohutXQ_oduLlTI3yjfbtIDGAVadyt3wwtFXDgy7XizlfDgeOg6IfbywypVD8mp29KXbC14o_C1M36sgZH66iLbP6-oNC5gw8QgwQlMCHAbixO1YYHx4SS8zcloH2a4mw6Q62lszzkZsNjgn3IESZz71--L3KLHImKU9EZN4UKuBWHJEZ1rZsWCyN1XYzylXytRRxpLJ-rNkbI188IvWoqF8YvWfwyz9CAztqvpP3HPlVoe76RVNp7pKf2iwzaQ3mXpD6rl7t",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ma Pa Robls (Mapa)",
+     "uri": "https://maps.google.com/maps/contrib/117215688156503474814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPRWvTbQThWv6e9IHIrdT7u313KD0mR_wxtWPQdaAnGN5loosaIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICa962MmgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICa962MmgE!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMYcczwfRNDm_2vGCrGYVzJCWnFWIdoeVizenFNrnn9Jah9E20upBpp5rl4VJVMIqPlykD9lE6PDCtwauO0pPCsPExJQL2SA36LPRxwKmoedNPu4tVGmJsBlfjhXWCCxFlwrK9x8axd4ndJLG-y22P5zaq9CU5ZYYm90ZBtTlP1v5e-__bKvuncbomyRe_oaknW4ve4AbTDZdE7WBuZ3YT5SXATCeA17f63CCeqCjgLZXNy1nebkS7ufZdK41S_vG-hc7aLBZ3xLhHvgIKDWtxw6ljiVWVj-tx2nfxEHd837lmA1OHFqffMgq4nJv_e0xV2qSHuZP-C_v2n0gv6w4nuvWYVVa_tY6c8n6i9Yvu1AgCubPQrXw9n9-2kq86zea8ruMcycv7ap2Bhl30RTixde9YE",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ma Pa Robls (Mapa)",
+     "uri": "https://maps.google.com/maps/contrib/117215688156503474814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPRWvTbQThWv6e9IHIrdT7u313KD0mR_wxtWPQdaAnGN5loosaIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC28cuTVA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC28cuTVA!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMYMSkxZhFh9SKm1VAxK8XyFyUl6iMj5e_Rf1WM52deudwzDGbGSmEfdMYIakcRwaF7f8ofkjz9ZT37VIpfm7_KSBl78mV_FCGg2qkxHJspx0_4X3FZyttqqZ1dN8bwoJQMECRH_dv3HzMZrQwwzbXe-TAYlb1BWciKvkkHScwjyqanUASrKgTUl7irgdgvf4QPObUiT5EMJ3C809nXJs2Ob1JK3A0j3xeagQosOkuqfUHiRXq0CR1q8CpgyHir4l5rBo1td9PgKeFKVokDvJVRPh8avixp6ryexYqmSsIthQk1NLJZbr32_1iEe_K10SlyrSc-_npra-37F7xXKY5B3hYN9wjZKCkwdocKTswgZsK-MBD2nAbc7l35cEE15yPzr3IjsraKjteE4J71wwjDaPf0fu3A",
+   "widthPx": 602,
+   "heightPx": 929,
+   "authorAttributions": [
+    {
+     "displayName": "RaymiVet Clinica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/101511220819534029033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGPxxdJpFN6FgqK0tt0k-Vmc6XPWB2H0xsc3Hac3TzR1sARsKp=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfz-qr0wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfz-qr0wE!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMapmFboXvkNohXUXKM-z8aoc8VwdWMs1B1BGbYW228JNCkP40bXP8kVFCbUbJdGHLGeXsWb78UsL3F0MVqY0kg_ccz496RXz75Tq6giioaA86VbaRBC86hFjxWGwAls79reYNh-FUbNw8i1Zv8XboomRxSsSnZL65_eGS1cSHvMabEo5Hai67_r1JlPUQEzfF192mP4tP34jGYu--D7HShuCSBVvoe8kL9cKsrjf8dgtt-D5TqKpY53IlVLu1Sx-e6Gaomz_pJYLQBNHABpGXUbn6VGZ6Va1q2z-_Ayhh8sR5ap4zs19bUlIs1phpj5vhbQ1wqLqkFjLHthvmXfewgVV2vy7lvY_wknd5P9qKEZy0EqJp7MLt1E9EQiD8gSlbjJlsPsmY8lCz7gkpeHDTRoMRk",
+   "widthPx": 482,
+   "heightPx": 793,
+   "authorAttributions": [
+    {
+     "displayName": "RaymiVet Clinica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/101511220819534029033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGPxxdJpFN6FgqK0tt0k-Vmc6XPWB2H0xsc3Hac3TzR1sARsKp=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICfz9rDJQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICfz9rDJQ!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMaZ9wf8cvHNpfIqV7TzUwdAsD2Juh0hO5ntjPTwjFh62dVi12Z0SOMLipV_M2V9eHEx2r6GcyGWxQmoohE9OVrQvfgCmxB1cXRMdb8cCDAHOWHFJFgzZuKTxQwD6WbM_v0gT5KDJhgV8l8ewGAOUeUNxb_dGII0GIAM6Tz5v3k9DRXPvIjKhpRkvsY6SL6pmlp8k4yzrVIiuTZuAJBtHlIfLXGhfc_Ug3S8WfyK-hHTmwu_lBmjEBnw6rgUSo9rqagNcnNGYyf1EC4LpnniQLBMxgwpNdMu7KrP7rjurxbn4yd-ljexxi4spZKetqrPTdU3umGy8gvpxd4YY4lpw_o748Fs75yBjiZeAgBp_9lHPYWhKjOaMdIoxkC2nhkJPfv2w2jLY9rfE4f4bTWCR5oO1Q",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Ma Pa Robls (Mapa)",
+     "uri": "https://maps.google.com/maps/contrib/117215688156503474814",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPRWvTbQThWv6e9IHIrdT7u313KD0mR_wxtWPQdaAnGN5loosaIQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID666HxTg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID666HxTg!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  },
+  {
+   "name": "places/ChIJmWLMty3JBZERZ5ZgLOuraf8/photos/Aa-ngMZBW5_SugeketzuT_X6AkGrVObVX3StKHL3aLlGcmqscuIf38vujAqBjkpf9E053C4C9MCwBkrpWD4h3DOhVXHN_sBg6nm96MFZZr3xM4CFeOQ1SQKF_AkRIhzrDSe8JDQM3RBb-FZi7REBiazgt-xafZtOF9mcrPGAJOpA-ppBg-QmfcI4aE3mQJLkeUICSXAVz40019Q2FYhDhE3TPnYP_FnEqji2nJWc8ZU-fl66t8Psayyi63G5WO950HDWru46_ijRZI7T8_QRoARcUG2qSil0hqYxu-JiFqWN6LKoIpGfoAd-mwtyEiu9SmsUT_LdISpQEyc6uiHwcy7j428ELG1aoP5FDr3KtFlSjqHnTp7Bdb9mY9t9wVqoYxTn7BbY9NcF3-c7wR4dvapCewGRVcU",
+   "widthPx": 640,
+   "heightPx": 1136,
+   "authorAttributions": [
+    {
+     "displayName": "RaymiVet Clinica Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/101511220819534029033",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGPxxdJpFN6FgqK0tt0k-Vmc6XPWB2H0xsc3Hac3TzR1sARsKp=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdtNioJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdtNioJw!2e10!4m2!3m1!1s0x9105c92db7cc6299:0xff69abeb2c609667"
+  }
+ ]
+}

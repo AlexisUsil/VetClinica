@@ -1,0 +1,556 @@
+{
+ "id": "ChIJFwKwlKnHBZERfQMT7VANihU",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "924 079 880",
+ "internationalPhoneNumber": "+51 924 079 880",
+ "formattedAddress": "Bruselas 329, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "329",
+   "shortText": "329",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Bruselas",
+   "shortText": "Bruselas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Capebco",
+   "shortText": "Urb Capebco",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1194294,
+  "longitude": -76.9989231
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=1552067662808548221&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 26,
+ "displayName": {
+  "text": "Veterinaria Vet team",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Bruselas 329, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xZmNHbGFTR3MwWmxWT1pISmxPWFpGTWs0eWQwRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi perrita en una situación muy delicada, con sepsis, y gracias a todo el equipo de la veterinaria pudo salir adelante. La operaron de urgencia y desde el primer momento la atendieron con muchísima profesionalidad, cariño y cuidado. Estoy profundamente agradecida por el trato humano y el seguimiento que le dieron. Se nota que aman a los animales y hacen todo lo posible por su bienestar. Recomendados !!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi perrita en una situación muy delicada, con sepsis, y gracias a todo el equipo de la veterinaria pudo salir adelante. La operaron de urgencia y desde el primer momento la atendieron con muchísima profesionalidad, cariño y cuidado. Estoy profundamente agradecida por el trato humano y el seguimiento que le dieron. Se nota que aman a los animales y hacen todo lo posible por su bienestar. Recomendados !!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Soraya Bouby",
+    "uri": "https://www.google.com/maps/contrib/111773592646399849425/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYKsxsw5SazgkWKCTIjPVps1Wy-foGuqY0qUI_qYrhVrcM450W=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-08-01T16:33:10.852539258Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xZmNHbGFTR3MwWmxWT1pISmxPWFpGTWs0eWQwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xZmNHbGFTR3MwWmxWT1pISmxPWFpGTWs0eWQwRRAB!2m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdE5GQTVWRzFUVDBscFFqaFdXa2hhU1dKaGVrRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Super Recomendados!\n\nExcelente atención desde el primer momento, ambos doctores son muy amables, a mi perrito siempre lo atienden super bien todas las veces que lo he llevado o han venido a mi casa.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Super Recomendados!\n\nExcelente atención desde el primer momento, ambos doctores son muy amables, a mi perrito siempre lo atienden super bien todas las veces que lo he llevado o han venido a mi casa.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mary Elizabeth ZG",
+    "uri": "https://www.google.com/maps/contrib/116767155040767757753/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHR_0nBIyWtUbJGkroonR9pWe_VUkh9ICfQuqmo1OJ3Z-8LTmJ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-09T00:31:41.005137890Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCdE5GQTVWRzFUVDBscFFqaFdXa2hhU1dKaGVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCdE5GQTVWRzFUVDBscFFqaFdXa2hhU1dKaGVrRRAB!2m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GQ2RreDNRMEZ1UVdGWE9EUk5SMmRtY1RGcFZWRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria, los doctores atienden con mucho profesionalismo y cariño a las mascotas. Sus diagnósticos son muy acertados y te explican la situación con paciencia",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria, los doctores atienden con mucho profesionalismo y cariño a las mascotas. Sus diagnósticos son muy acertados y te explican la situación con paciencia",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Bruno Poma",
+    "uri": "https://www.google.com/maps/contrib/107786580155187680021/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEVwIH11jzp8Q_fWm0mMAZZKX2fKtkcCPHpTsYsDKIRKDgZg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-18T20:12:44.517248618Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GQ2RreDNRMEZ1UVdGWE9EUk5SMmRtY1RGcFZWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQ2RreDNRMEZ1UVdGWE9EUk5SMmRtY1RGcFZWRRAB!2m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREOEpmZmNREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "La doctora Briscia y el doctor Eduardo son unos veterinarios muy buenos, ayudaron a mi Toothy 🐱 cuando más lo necesitaba y lo salvaron. El es un gatito de 17 años, no puede mover sus patitas traseras, y cuando lo llevamos a Vet team el tenía un cuadro grave de infección urinaria, ahora el está súper bien, siendo un glotón como siempre. Sin los cuidados, cariño, profesionalismo, paciencia y las claras explicaciones de los doctores no lo hubiéramos logrado. ¡Mil gracias! Son la mejor clínica veterinaria de perritos y gatitos que he conocido. 💜 Aquí una foto que guardo con mucho cariño. 🤗",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La doctora Briscia y el doctor Eduardo son unos veterinarios muy buenos, ayudaron a mi Toothy 🐱 cuando más lo necesitaba y lo salvaron. El es un gatito de 17 años, no puede mover sus patitas traseras, y cuando lo llevamos a Vet team el tenía un cuadro grave de infección urinaria, ahora el está súper bien, siendo un glotón como siempre. Sin los cuidados, cariño, profesionalismo, paciencia y las claras explicaciones de los doctores no lo hubiéramos logrado. ¡Mil gracias! Son la mejor clínica veterinaria de perritos y gatitos que he conocido. 💜 Aquí una foto que guardo con mucho cariño. 🤗",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "HELEN MARIBEL CHUQUILLANQUI RIVEROS",
+    "uri": "https://www.google.com/maps/contrib/106759980418645650350/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZHjy_utysY8M8FbWLFLdASRb4CnErScFxx94OqpOI6DccgQ6n=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-04T19:38:56.607276Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREOEpmZmNREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREOEpmZmNREAE!2m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNklXMV93RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y profesionalismo por parte de los doctores Briscia y Eduardo, y también Karla en la recepción. Nuestra cachorra está feliz y nosotros también. Totalmente recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y profesionalismo por parte de los doctores Briscia y Eduardo, y también Karla en la recepción. Nuestra cachorra está feliz y nosotros también. Totalmente recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Rivera Hurtado",
+    "uri": "https://www.google.com/maps/contrib/116978901228674911197/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3yaTSp7LCVnA3bYGmNlygEGFLbaRWgs7LPAT8gV_DI7KEww=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-06-14T16:23:19.092664Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNklXMV93RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNklXMV93RRAB!2m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMax6iwUpLyRCOVYCnVNXQAAhrNWSZ0Q4CBtr-eMpe9NyimDffEHScQ4ewKzqG3RLX4daMuW_Ep3bNtvTQTgsRbfu7O5TU5Qk8Yc6TjFtQZalCmUq23UtqBO6kmdtqI7ESx9gYx2clgIBJgTYR0ZPdjS10pxPpfZjveFuu7M2SATeGIcxo2EB5Oy4LrhPKyDUNcOgFi64Ebbyrive1sxSFB2wMa1OYtbRK6BvgyM7hif6lPKiNR02ZyAY7pYTbtXygAGFOK0_n9NtisdzdmUm1eeI59YvUuoiJa0H5nHapAdZ-h1tgU8-7b6GiutKmbxFtKTcnhE6mXL1otZG9W5ERgW63qeo1q62svlNof9kJ3APgDSjmcdPQ0zYlmfy1HpfWBUp8MT62CcJIqSyJ4W8ZPYquGfk0dkVjfx3FFYnZhg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Soraya Bouby",
+     "uri": "https://maps.google.com/maps/contrib/111773592646399849425",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYKsxsw5SazgkWKCTIjPVps1Wy-foGuqY0qUI_qYrhVrcM450W=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAuinMJYaXYrHDWuogo2nkM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAuinMJYaXYrHDWuogo2nkM!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMbeVEKR0WM0ucSsklMYmHLrOeWejcRTAAmhD67zwrg-hkJcnQ5bnuGSRpOmm_c4ApiCtvo0ffES3qm_mrEq4SKJtgNK4Mkz7ILfdDYfD5vZl05LON25bCHpq4fnYYdkxGmq65EKQFqP10ZHXDEjC2RPfsp9S9Q-4xXog4ETuCSfXcm1totAojwTnmj6UhRNr9Ga06DRc9JnYQlK8qIGuWR7cyf4WI3ZZpixwPKSfSarzDpf48T84XPVpfQtP3iNr4XZQl9XaNxy29TljZp_oaHRa2_snvwwxltFTweEAdoQuS3zeO3dq140QyHvRtQtnSmxAuryqMnU0ezi95lD9XSxPHvXaJmGLgTWoEfdXs8qzMtNnybQHcOVGKann-4t6Ly76MEJzDUw73HMYzzi0TZsYURcH-4U7PCsCcmsG9HIaQ",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Soraya Bouby",
+     "uri": "https://maps.google.com/maps/contrib/111773592646399849425",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYKsxsw5SazgkWKCTIjPVps1Wy-foGuqY0qUI_qYrhVrcM450W=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDcXIRWcE35wBLzlDgguv0_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDcXIRWcE35wBLzlDgguv0_!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMbTXMIXBuvbACPP-1tUffBws9uAkvVydeqBeHKbyc6KSAlzZ1gm8-WIjSLRxtOHaFQ7F7XceNjrtolfKLKNSNvRvBl77V_-qK6KER4FmZcZEmz3090QXSSGuQ95c_jeGiG-xbQHCGH9rJwnxKO0lGh55gk4UZGAWmjyLiQpmlLTU0k4-Dc2uzZMRCV35-kFbnTw7z2v-ErnvS98Anm9MFdPXw2CT3fBWLXWY83MWbUd9-jIf4seL6PUdMjkLGjzhpgY4rJWycwnUp9qKtvL29U8x5szFqacYmKhxto1xzFVWTeHpaRl8rKkvZdzgodgx8-LeZ2AV9B-ExzcsynxVWfiDAzl6JE218hJ6JJN2Sy5lBuU33wSKhwgJX7VdnfXAjAGEnqcWFhjYs_Fbf7MD0QdUw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Francisco Lengua M",
+     "uri": "https://maps.google.com/maps/contrib/102205744603232410551",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWciphzblgaX-4lw8J_LXut4okR2cCurPLFOQ6mMf5017VLzum7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICj0sSjXQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICj0sSjXQ!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMb4KN3qu_twaGteDEl6wd1c-KbRbJeLSW7jRLD6pkknRYwBp0g5I3RAK_KyrXo2YCy9bu1OwAUE1tIIDrCJekLaj5XYua2r9b_vv7w1-euPm5h4ByyTDMPUb_2LNEuL551ugnC31a-NwPAJ32LmG9WDlUYo7WeKTvWblfNxyjME7uDvei22FcPn2fHtD2yC-rrPHNU26bP8sRRw-6-r4JBoteWFI1TpgynqiY4N5g3VO84ROnoIpq5iDG38touAMgjaX3S36AsKbfUIPV3wdmc_Fko2o_nf5WMZEexbWbNUzsvQisGdYWe1YielQdx58VU9lY7c-RJnvKeh6pcKCgk-OETRSiDdUxmY1q33B-Vik6isWccFwB5vxze5zJdQiDYmlZz8pNUVoi73ocgm0zBYYA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Daniella Aguilar",
+     "uri": "https://maps.google.com/maps/contrib/102527738734766366272",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMnT4jYrXo5C_dsSyLA2xVw0xdZKZGMHuzjptPxqOk9kKJgUg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICTk-6CDA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICTk-6CDA!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMaOyG1BBjjtrTz4TO8oDsGa2V4lAZueFUk11EAzFU8RgOESKamlXc4pJswuif_9XwPaOMKjpL7qnynDIHFSWjlweD3Gho7APuNhzXYAK-TFfq1Lky62r5BBGtNwZQx5BHi-wZO3Qx3PtLE2x5ySKHnTV4iDeeLDF41zXoE8sS2razx26C4Rfbl02UvWxyU31KawvGflPFNWMH1UQMuYhZwnp9shsws0oigpSo2NyluuRSk5HJkn4VQilpYBIgqrQJuZqW2lrPMPl2I7XavmqqncLFQzRuulmU_Miru3yz-vhYkb-TfCkDE51vfWf55dRk0OMh4Yy1gklB0bBo6DWqKEiGyAbvQAkehQSPLASfXs5z0AnkTyBJNAs-YTAuof6x3r0F2Ewv_5k0rFxxIKhv1jlz3NclQ",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "HELEN MARIBEL CHUQUILLANQUI RIVEROS",
+     "uri": "https://maps.google.com/maps/contrib/106759980418645650350",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZHjy_utysY8M8FbWLFLdASRb4CnErScFxx94OqpOI6DccgQ6n=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDD8JffiQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD8JffiQE!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMZQS0QiWT749CMLPqbUyypdwcg075_iVAs77N1fpY50WANYfzlx-uDq6dlzr2IOfdzKsYW0-EjdnIPwrDR4hTQnhSBhcIm0pNF3KrAN8wCf1p4ORrXh3-aLQY_g9tHaqmfBn9zcs7IQsdsttnEHDhYHyJmqDJN5DIGIIMhxLyJErIrNcYrjMDmS-Kw4LyO_0IBm0_3L9qWkERoJWTxRgQiuOMu8dGiSu3oI2Ef6JO-vgUgPdNPpYfVEcOIbMwMekV7tIZqTgZrKwIqF1bhQzkgvltJEAxh0Q_H9vZd57CYSVvKfGuScXDUNY5KQK1ejmlCA2Q9ETbDQwGJvB6uRzvNPRTucPtWI75CZFkxM7Gkvc6GSyl6K896KlyB7vYMvOJIjrCbpcvPM6j_IrVI9BhOWBg",
+   "widthPx": 945,
+   "heightPx": 709,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet team",
+     "uri": "https://maps.google.com/maps/contrib/114438901979275802731",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvE380-MT3msdbHx82bBs1NhWxYND0ZZsf2g0b4EGsZU2Scg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID50rHrFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50rHrFg!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMYcPHAKssrZS3mM_Wu3GffQx9YcnCW3qsSTZERS6Z4gw44EzLocsW2DMi0fooeW_JrqeoZ5w6k993uzCK9Sxj1jgZo3aQSxt-Nbwa6QXe8VUdaLjhtkp89ypqs6gyfaZagpTsT-3AiS4OSP1R5RpDLsm3vXssqDPuyq4Ncg1IVPblbUQhyjBvZXj_M9YFDAHVbCMXjW0i7pcx5nMOFy4wFRnpZ9pjGC_n2hCkxW6P1pRKKD9wnKKCtcmsIchotnMsGht8Ygt_Qeb_hDjwhWfwbyFg1c_8xYL_x4tMKWr5zZ49qiCciLy1unkrgTVJk9x7vVxsyjmrM9SOLR86-MHiqzTHj7oNCLq7ZF-Ix7CKKE96ewKoKoBwnW0B960qNtz45tpLXt7rZl0K1WOQ5QXKYM8ps",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet team",
+     "uri": "https://maps.google.com/maps/contrib/114438901979275802731",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvE380-MT3msdbHx82bBs1NhWxYND0ZZsf2g0b4EGsZU2Scg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID50rHXSw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50rHXSw!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  },
+  {
+   "name": "places/ChIJFwKwlKnHBZERfQMT7VANihU/photos/Aa-ngMbJiqMAUKpyKW1F4tXM8PnzHNuO7yZxLBa0FmRA55Wx9FQpjB887RMgVMLL85y2zzPj6yJyzDWGGaVNIz2Pe6EUs_kUiOj9jnbXP1zogl7h0jbj4WFBJ4SrKadcQGBOq9Z44SQl063tzHBDEyp5Ksno38UXJK4VLt9nlvBxsGzeFQaMe8GCPQ7tasygsEM_OnWuWWbKdo7D6AAVtDaYpFNjSEy30CZHW-kx2mCtJ9x3q33D7ab4QUYnwsQo_M0YeaovTnYwI6I3FEphBe-0Z57HsYcVoxHJYnlwmuDBmwHo6Ekpa31bEf6334zyiVjxRvsWqqgDDC-wPn-T2471isDUp-h6nbiWSoghz2VEthbVoc9zVJqIratPA0KXd92PCpomzD2ZcIGQd3Siov0ruToN83I",
+   "widthPx": 1425,
+   "heightPx": 1038,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Vet team",
+     "uri": "https://maps.google.com/maps/contrib/114438901979275802731",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvE380-MT3msdbHx82bBs1NhWxYND0ZZsf2g0b4EGsZU2Scg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID50rHhVA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID50rHhVA!2e10!4m2!3m1!1s0x9105c7a994b00217:0x158a0d50ed13037d"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

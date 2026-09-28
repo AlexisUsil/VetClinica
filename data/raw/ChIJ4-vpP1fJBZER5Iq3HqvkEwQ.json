@@ -1,0 +1,364 @@
+{
+ "id": "ChIJ4-vpP1fJBZER5Iq3HqvkEwQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "973 714 656",
+ "internationalPhoneNumber": "+51 973 714 656",
+ "formattedAddress": "Av Horacio Urteaga 968, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "968",
+   "shortText": "968",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Horacio Urteaga",
+   "shortText": "Av Horacio Urteaga",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0709185,
+  "longitude": -77.0461232
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=293829824315099876&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 5,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–7:30",
+   "martes: 9:00–7:30",
+   "miércoles: 9:00–7:30",
+   "jueves: 9:00–7:30",
+   "viernes: 9:00–7:30",
+   "sábado: 9:00–5:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T12:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Veterinaria Lima Cats",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 5,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–7:30",
+   "martes: 9:00–7:30",
+   "miércoles: 9:00–7:30",
+   "jueves: 9:00–7:30",
+   "viernes: 9:00–7:30",
+   "sábado: 9:00–5:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T12:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Horacio Urteaga 968, Jesús María",
+ "photos": [
+  {
+   "name": "places/ChIJ4-vpP1fJBZER5Iq3HqvkEwQ/photos/Aa-ngMZN-U2UAE8qbYDZgdgLNXIYn91l9zOrSpojomE2pnpWFAwi6mxT3apFo74oHli87QuzK2X1tH5uka4VHbcmDBFdt4rmawM29TGrEqOi2HCJWGb0jTmPn_cr8fd43UYP_KuKKsm9wG_KfhaSiwsHl58I0zf7VAqmigzacZpinR1fk6TVC_QykTsYffrc2MOvNl7WYWKaw5Lid9cQqS2nVfqB9dWajUYskdJ02716L8KjrmA5cB8OhEkeDidmm_aOEUUdroHo5Ja6-njnw1xCoiRr2jLxXL7-0pJtMo7_94Ry587Z860FnplCDZoYCw0ETFD7lnW2QJTFs3IPvqRFNKTJWrbitA8FcZ_yvTu55VtxDvqGrI18WohkGrqiVFiaY1DWvWAi4bGuAkQin-dPd7VVp0QZpXHvzzt1BNQf4VpR",
+   "widthPx": 1254,
+   "heightPx": 1254,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Lima Cats",
+     "uri": "https://maps.google.com/maps/contrib/100838674199908323136",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjcHDA8bJhitVAHbDl2M3DYYbkRB_i2L01EQ9w1Pfn83M8yQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB4dp1IR2NkPNAd1L3u7wS9&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB4dp1IR2NkPNAd1L3u7wS9!2e10!4m2!3m1!1s0x9105c9573fe9ebe3:0x413e4ab1eb78ae4"
+  },
+  {
+   "name": "places/ChIJ4-vpP1fJBZER5Iq3HqvkEwQ/photos/Aa-ngMZ9Xx2ynBnSLGJWFxWRq_sSdvoRDKf_vQgmz2iXnOTIzNcC4bpTg40v7O5Y3gBT0x-GkYy2as5qNvyMRBRFtSd_ZwkxWyJ5-f9lQcVRsIQ87YE7LsJvvTWBNl9XQOMbxURZQK-uWInGGjlyc1jrdww-c_MRUOKgGEeGs5kzJp1qTzAs2F46AvpGwfwFaE-lj-GrKQ0v9Sb0IDpeCidqzmxuJy_iU6AOIxdPYT1obTglLT09ZbJzfnwJjqTeaoLgP5gqRNDbW7tlO1xW5qxc1oFwe9vStlc__l2qCHdnMXbxnKohQjFTXsAcBA60BTeJdLai2qROhG6T63-j5QJR8xWX31s5MuUhQu1lrzQ-OaerxPD4sPhoJ2VV4IqvaJ6lV-iV3jTGmDfi0BAn7aQtXV2rNVOGwCZ47XTEPpF_Aiol",
+   "widthPx": 1254,
+   "heightPx": 1254,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Lima Cats",
+     "uri": "https://maps.google.com/maps/contrib/100838674199908323136",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjcHDA8bJhitVAHbDl2M3DYYbkRB_i2L01EQ9w1Pfn83M8yQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDyq9KcDpaIHmnqSaqbL9wc&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDyq9KcDpaIHmnqSaqbL9wc!2e10!4m2!3m1!1s0x9105c9573fe9ebe3:0x413e4ab1eb78ae4"
+  },
+  {
+   "name": "places/ChIJ4-vpP1fJBZER5Iq3HqvkEwQ/photos/Aa-ngMY86wXA-tv1uSF7DMAxm33hAPVJAze3FRzMOfLUeY3nLC3Frr1yr7DIMd01dWVE8w9OjCSYxoFYZTPZw8gWdKdugfzDt0VuDm1rl4BJ0IOp11yHar4NieVV0QpEBsFGdBOhOWtWW9d1sfSW3viEBft1InvZWoinHD4kvI26z-tdmM9sSSS5aW5AGutn2ZDZD01oWuNuFLTeOeRLsVMv-6XsKgBhnXsN1-NRkV8v5rbVqkAWeml9YdKforS_R_S9dUPO8wzIdZ_b_8U89leG2KBVxYdS024anYlAVPTAkmwnEoicuvki54o_qcztxo3qI7J0IeV-G5Q_kWub9sFbVUg6E9qlN9GpjjzALCKR7kRahaaJXPfTwcqQ7X5PepgRHi-KhgV94f7Ww4d1XebkF38i7vgTzE9ELwHu2o7CVfTsXg",
+   "widthPx": 749,
+   "heightPx": 669,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Lima Cats",
+     "uri": "https://maps.google.com/maps/contrib/100838674199908323136",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjcHDA8bJhitVAHbDl2M3DYYbkRB_i2L01EQ9w1Pfn83M8yQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhClwMenFH74qg_XSjqUDTPs&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhClwMenFH74qg_XSjqUDTPs!2e10!4m2!3m1!1s0x9105c9573fe9ebe3:0x413e4ab1eb78ae4"
+  }
+ ]
+}

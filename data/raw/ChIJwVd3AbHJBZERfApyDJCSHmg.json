@@ -1,0 +1,581 @@
+{
+ "id": "ChIJwVd3AbHJBZERfApyDJCSHmg",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "976 214 306",
+ "internationalPhoneNumber": "+51 976 214 306",
+ "formattedAddress": "Jr. Manco Capac 211, Magdalena del Mar 15086",
+ "addressComponents": [
+  {
+   "longText": "211",
+   "shortText": "211",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Manco Capac",
+   "shortText": "Jr. Manco Capac",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res Oyague",
+   "shortText": "Res Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Magdalena del Mar",
+   "shortText": "Magdalena del Mar",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0883889,
+  "longitude": -77.0659254
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=7502595176627571324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 43,
+ "displayName": {
+  "text": "Betho Pet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jr. Manco Capac 211, Magdalena del Mar",
+ "reviews": [
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaFNqUnBPRTFJWDBkUWJrRmxlRmw2U2t0MFpuYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 2,
+   "text": {
+    "text": "Muy careros, como va costar un baño + corte  100 soles. No te pases! No abusen de los precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy careros, como va costar un baño + corte  100 soles. No te pases! No abusen de los precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeria Miranda Mori",
+    "uri": "https://www.google.com/maps/contrib/108435353919842993763/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnT0aH5rB8Ig7Y6z1Gl9yRVGCfKsv0kwYhn_b9ZCTYAzGcDLl94A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-18T19:51:24.280974474Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaFNqUnBPRTFJWDBkUWJrRmxlRmw2U2t0MFpuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaFNqUnBPRTFJWDBkUWJrRmxlRmw2U2t0MFpuYxAB!2m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/reviews/ChdDSUhNMG9nS0VJQ0FnSURYcU1mR3FBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Mi gato es muy renegón y se solía portar mal, lo he llevado a diversas veterinarias y el mejor trato lo tengo aquí. Tuvieron mucha paciencia con él y ya tengo varios años atendiéndolo aquí. La doctora es muy meticulosa al momento de dar recomendaciones y también al indagar sobre el cuidado del gatito.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi gato es muy renegón y se solía portar mal, lo he llevado a diversas veterinarias y el mejor trato lo tengo aquí. Tuvieron mucha paciencia con él y ya tengo varios años atendiéndolo aquí. La doctora es muy meticulosa al momento de dar recomendaciones y también al indagar sobre el cuidado del gatito.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Julissa Cueva Gutti",
+    "uri": "https://www.google.com/maps/contrib/113293290814820575365/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-yFR2aVHdFTpdcZn1wt3Ig0jxSunGUm3OvchNSqOpLYds12V9=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-10-23T15:20:19.942150Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYcU1mR3FBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYcU1mR3FBRRAB!2m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2czdXTS1BRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "He visitado otras veterinarias.... Y en definitiva aquí les dan mucho cuidado y cariños a las mascotas. Recientemente tuve que operar a mi mascota... Y aun cuando el proceso es difícil, están en constante preocupación, llamando, viendo como sigue, y ayudando a salir de su proceso. Recomiendo bastante esta veterinaria.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He visitado otras veterinarias.... Y en definitiva aquí les dan mucho cuidado y cariños a las mascotas. Recientemente tuve que operar a mi mascota... Y aun cuando el proceso es difícil, están en constante preocupación, llamando, viendo como sigue, y ayudando a salir de su proceso. Recomiendo bastante esta veterinaria.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elmer W. Rosillo Larios",
+    "uri": "https://www.google.com/maps/contrib/107848399007302342736/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3_rLJG_yegStssXf-eDDG10gdG9CY0XJ_lZ0TkJ0JO1zmnp17=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2021-09-12T14:32:07.523988Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM2czdXTS1BRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2czdXTS1BRRAB!2m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNXR1aTV3RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy Atentos y profesionales!! Además de brindarles amor y un seguimiento post consulta.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy Atentos y profesionales!! Además de brindarles amor y un seguimiento post consulta.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "SoyEnyoL",
+    "uri": "https://www.google.com/maps/contrib/114237746141155336731/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6sht5n3Q9H_itcMmk63K46yt69bzSZFgFwhwXxStK3q47__0YlQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-12-27T15:32:16.180004Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNtNXR1aTV3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNtNXR1aTV3RRAB!2m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyc0pQbFhnEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria, la atención es muy amable, hacen bastante seguimiento, siempre trataron a mi gatito Otto con amor, sobre todo la doctora Steffany. Muy recomendable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria, la atención es muy amable, hacen bastante seguimiento, siempre trataron a mi gatito Otto con amor, sobre todo la doctora Steffany. Muy recomendable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jimena Mendezu",
+    "uri": "https://www.google.com/maps/contrib/110718055146164547248/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0vr06q8FPAXV_8IyWnYjAILqopk-fyjc8loaEFjPPXNrb039A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-04-10T14:49:22.352468Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMyc0pQbFhnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyc0pQbFhnEAE!2m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMbq8sV970Ww1I4vPNFI3sB9GI1bJw4A36CRSeWB-ousVNEeORMN9Ng2jA5JvI8S4tJIPqntY2tS8sl-1PHCEldHiaw1nAN6I3qbaJkWRashNS_GGbCv-0AAqT8TuTJcarwpNnIrEOhr6Oh0yV-k2flLRAE1rxbzzMTHvwQee9u77NYbkbdLFFxl_MgvCZkqtBt1NNI9R4s93MfGf1NT1zMdECxI0ARf6e1BL3UBxUytYHD5AMIzi6XLDOJuvyuftX1BMij3tk3JWYzYaW5myux0JDfaFzup1OAwCKBFEhLoKOSfSHKSCXvhhSuw2sBc3lFfEfHnNFpyidAc6xOSp7k4l-aZmdY4Ogxt0jZQOOKBjgtlpY8PW8nNJYXoY6yg2zWJSihZZEhpQggb6v_Q_xRqyGf6OND-95E2klCiwgE",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "edwin guillermo carazas ascencio",
+     "uri": "https://maps.google.com/maps/contrib/106767000439332544603",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpYrbCagbhCT5OVKbHHqWg1mXAeBhtQ7aapRbxpAxKvUEKq1tFAg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6ybuvCA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6ybuvCA!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMaRPm49afTTz6jv2QxX9v-3riXDqp2D_T048-D1omSL4FSS6vmbmKNmtfV4jjG3eM52KuGCH9GJgLZbXvuImMCgY6aZP9GkZdq4wUfH12mJHnYV_8wwrP87XJmACsLZGU4dR4bDLAdmHuJM3B3AhCj7IUYswsshwD-2dHu1xspovZxk2DXw2SGpkIeUEr1QTW5MjnoP66TnhTPAesnAtxTSjRVDOC_ucqHQPPl_B6yKUmq4MZhLswCpZeKQkgSBe9FR6LOEtrVP8eVLpb6rIYuAkaBOh0S9Yq0Rm-_t_xhic8uyf7E0ui7B7ShjUWGm2XuIEVlSbgs5GyFIu2hYXI3zY8vjvy5c92-TeCeTyVRFJDU0ktfqVZQsvhRBoDnZyHIv3L24g3SCoD-jYq8lfYWjs5jj86s_LrvldpmpnLcDNglz",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04_8kwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04_8kwE!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMZOQt5bXoCkhEKT2HKHn51EOX4wgGtK0_EyTSPcvJlOUryGgL02Zatad4pShs8T07h32nLiwQdeHQSPTXJsKCR0JfJt3xq3-jQyH8ctcv-f5umsFu7Ujb3BGJS4docsOOsTHWHBcKJBP85d8lhxzOo_obyP5TuuuLNLEq_iBIkeSnufF1N5-W_UyA4rqyshnqmQJeMAkYhArcl1nJ_-473-GmV1qUA3i3fP4HaD3TuHt-lfsNuwwd6HxwMaFsN-rpnhmbXTsB6889r7Bgvs4UHNoERTbOKseZW-1Yikp7XGSjn0frgr4LooZK8ZCNCQs6IWT5w3K0ibzo7eE1byumlqRsMGXnKLSGWrNAUbp1-VkhugyTdWR3QvMAveC-kcY7kQKjokDP-hGATcodzvXGCQM26lMd7Iwlh4c-QUuEOatw",
+   "widthPx": 3984,
+   "heightPx": 4016,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC1onSSQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC1onSSQ!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMY61PGdkHUfM8W4IkFfP-AtE8BPOOVx18o7mw6X7Amo4GZof-I49e31JXOlJiFmniZfPmrsrAYuFxY4nLrfqIcjjKgvzUKVrEBzQ1skjm0ZivZCBwxm5Gywlcdb7cGYK3teIGE_pOHwITUy1K-vLJMsZkYWyId07FZLU9XE3e5lkbfnxDoGudpQfoofrKGPKpriqFFFOhbSjoxcn09-InQ_47aIdjcinrohjaP5cHza2mvOPlX6Rlg-2iG7m8_DFNj7gG5wzlKv9_34WMn6qgwm3K1R3oDEC57-WSJrobiPYXNZafL9a50cxD5aepAVOQUKsu4_yGXrWT1iE95cYy6iHx1pFlk5I3txoJzrd7eN39MGELe6luECgGY0aC3rjQe7qQ2t8fpg2E4a1LrqIRvU00eCBjio4ZjrcpdQRBmsTRk",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04_W3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04_W3gE!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMYJ_S_Cno7dbQStcfSSeyg_UzoLasNc13xL8p0c-ua4BChBY8ZgKew5hj4uW0vWsmDH8X9i_4pVoBadYMy19kEjIe_9VWHa2NIebgkRGVEeRNvodb488TkjSUnq_APjVSXTVFK-RzJsSEfF7OdI4OT4GEonqYdaeN34HcM1xPsA8-W-ZDX2YeoNXD4yWBcKkxf51dgU53S4W8VBLG9rBzOTqq0_kJcMdK7cutL5hjOAzHPxkhT9XMYEGNyO6-Qvz-S0us0TSpcUFnoCDkYTFIsAGpMtco9KNnPmxBJzj1A8lM3KQpgji_3KmRXQ7KpuAblQG91-3z9YDliCNa5InZNWBzfqhUvyfYGlnzAigWrL-zQTQV0di-mKAZCaU706UFbsejULW96TVitfnesxziMm1quJXzoaP7lGk1Zg2R-kig",
+   "widthPx": 3659,
+   "heightPx": 4006,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC1oniKw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC1oniKw!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMaPWno50Pw879MIuQyShXbn3mktiQED35LQA7wI4R-VEkwTc5XiBFvNisg8_30PudAW7rtdiz0qumuN6cEkFiT89odMzQFXyme8-UTffYVKTVjdpmgrEs95HqvcHln0M-vpIYr05-1fsyNNQUN2IVRYdO1FSq-3sRES1c4GMDiG5GvwwMRZJLJVe-AXRkv_176ThyO6zXM9VdNK287DG4m5QLKlyYhNa8BdjAusSZ8d1H495eCXb4eUc_s55pYjdNL9Gkj_pGBCESzPinzoX3kNMxNuZdm9yopv6cb8u-lKHwX3tycUkT40_xF4FdgPWhdL5Nu0Ko9sHzyhCqmJdpWOo7lKb26jfZbCEVgdtA5Ka7AKm3zomPS0Hs0JySQkte2VvJPnc4PlA18_L8a7CshYEpIRPGRbc2LoI7TEdUptbQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04_MeQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04_MeQ!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMaDD9wcckZXmny3wvP-v4PsZA4vN01fnMcvbORbWZD_xis-hFAr_iCfsL3KHbfT0X5lZpZQ24x6-esq4R0I7d9_kXliqqxolq4RPJZM-kRhFIJDm99W65cbqYH9hzGReHegWy5CMpm6ySe3MRFAn1_biVqkir9-26xANr8I7hDbpSU0c_2Qxaa5u0iYCH6ZSyRpTzSqp-MMaY8G3pTIiysKDCdDferJKJD90CQk1ugjw2TWRlBPWidqHJmMnQ6XAfoVZpXyq00AZQaUmi0-ypHytt69zIcP0U4BkxI_fk4UO0Be8vw7S9Ojdr4OTBIywWIFOeqU4Uj6ZQkvAdRoTh-GIA4GSSAfFNLMQfDdw0Xbr0dUcfQIUwnKJ_8FNindbk0pIsSzkUH6ep8JY7SAyBusPpC1Gk8yxgLD65UWgMn59w",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04_Weg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04_Weg!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMZOwA3mjp_nTfJOYbJrwlXcMdisGyJpDeDzW14U78JoX3m8zpPF7OdoMaoNXHteMonYBoHApqoxd1yd3cuidBEuoa_jtjbs2gsWPhSTOxlZb35_GGWkV7royflqcJfohUdKUXsF9hmlw3aK9WQ54wDxiXoXTzVashOzuO6n7948VBh3PKLmoUZXsHDUdgmrP-AQvRY8F9fqjCIOz4CMsvNQm6S4smuDjSpHN6BX8LVh0lHQu4Y2KhBlr1clkxxMJlRSSzONcehOQLAkaYPACXobHCFI8rUln1p_XrbkrOA-NF8vtpSplESp1UnEUyPGsN8eLl-icQlmu_y4rOpUH6xZg7GwFA7_nFiNcRjK-ZLi4TX_GWTHGcPNzgRsvVpmWpsF_4r6ftdYLZlgSkiLR-L2PuSh3t-LsNMAZpk45g509g",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04-CYg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04-CYg!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMbj6CtZ8tGlrEFhZ0CQDD52TtTzQXHBCdnuZvmk-IZiGhFWqQDNPy9ZEUPkVA7k7HHJ-p-f76H9CX7s6rZ6QLfHYaZmy511k3SrHSw9CnGyU_MUAULSF907jmor2TV7tY7ZSJjR5MAHomjB_d7bsWG45x3qimmrpKRFOLvmAz0cgxHB8KTGvExz3rD4HGjw00ne_3RVrOG71m76lA3Lk8VnOWJ0iYlyX0FQA1GWCAJC1UEaexaIhRUp0vLy3UA4mW97nk3MYyKWVPpHC-vDWOix8zvDV6KSkm9IxA29lKg7KrQkgAvqtCwdnAYfstzIRFjICwMvybSZiwOIu-GKjjfN00wzjX24GZy7_OCd1yPzTqxWC7lwKTc1gslX6_PCQ9IT3nFu7XG6zV-8p_EcZoEqEqBhv_C9cgbTB8SeJYs",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Stephanie B. N.",
+     "uri": "https://maps.google.com/maps/contrib/116041207410431043712",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlCybthdTWMfth-LXRelrZhhcSB_ws5Cp7eSik31ad89cV6zTm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICiuPzRPw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICiuPzRPw!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  },
+  {
+   "name": "places/ChIJwVd3AbHJBZERfApyDJCSHmg/photos/Aa-ngMZXxVRw3L2H0JakAGvJj6VXhxuu7O-yZime1Ru04UynT5LpnXt06DHn9E5E4YyNABV5UKWYph2Z5rYMu9uKKzXUKwgsx3tlAvZQvbPhTinI34jIYV7KAV9BsSkxfz4rV3B_3XW-9zKkTABgjqvApwTQE7pBHgz45iiJjEr0bfVAyaDiXjiJ9suCKigqzHZZflt5XF16d-bjyAUXSGmgH78e-eQ8gg2GkHEhAiuZqWPjUH4RsKRsgcd1mizEIIFOS0buu2BvFf6IG2Ky87_diV2k-L_M967xsGrAFyH-kkQicGR0B_TbiU-W1zRYfkHibMn_vQJo-hJ2oizIjhjt0ZhEv8o3CAb3xk8TJZHAIgo0-d1qB5R0RAtCpKppbuPG4_7VUUXdkD51ycabskq4d8Xji7I6fCp4fcA2yGDpON_smA",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100422279054310065054",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi04-sHw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi04-sHw!2e10!4m2!3m1!1s0x9105c9b1017757c1:0x681e92900c720a7c"
+  }
+ ]
+}

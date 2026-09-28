@@ -1,0 +1,620 @@
+{
+ "id": "ChIJ_wXP6J3JBZERvS089S_mFsg",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "946 475 735",
+ "internationalPhoneNumber": "+51 946 475 735",
+ "formattedAddress": "Av Ricardo Tizón y Bueno 634, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "634",
+   "shortText": "634",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Ricardo Tizón y Bueno",
+   "shortText": "Av Ricardo Tizón y Bueno",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0797291,
+  "longitude": -77.0501616
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=14417964350725434813&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.lokipet.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–15:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 20,
+ "displayName": {
+  "text": "Lokipet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–15:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Ricardo Tizón y Bueno 634, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poc1YwNHhTM1pFVUhkUFVXUnViRzlMYUdkclVuYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a Leo para su vacuna anual y me encanto! Leo de por si es un perrito nervioso y no se deja tocar pero la doc. Lo trato con cariño y paciencia. Recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a Leo para su vacuna anual y me encanto! Leo de por si es un perrito nervioso y no se deja tocar pero la doc. Lo trato con cariño y paciencia. Recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Garcia",
+    "uri": "https://www.google.com/maps/contrib/100422279054310065054/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfdCWhb_7cVM40B504I9SJ7ft0nsaZ6vQgbhThOqDDpTB7DjzKhQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-08-04T23:24:01.631546538Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poc1YwNHhTM1pFVUhkUFVXUnViRzlMYUdkclVuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poc1YwNHhTM1pFVUhkUFVXUnViRzlMYUdkclVuYxAB!2m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sek0waGpUemRTTTNWUlZqVkxWRzFmU1VOeFFVRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Lander y Nena después de su baño y corte de pelito, felices porque los engrien mucho en Lokipet.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lander y Nena después de su baño y corte de pelito, felices porque los engrien mucho en Lokipet.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leticia Anaya Causillas",
+    "uri": "https://www.google.com/maps/contrib/113329366000788419060/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9gyge4nrXWGUmw-RF9EqBrU3DftBaoIA3IsO_4AZ2_svb4cQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-07T19:32:09.425679418Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sek0waGpUemRTTTNWUlZqVkxWRzFmU1VOeFFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sek0waGpUemRTTTNWUlZqVkxWRzFmU1VOeFFVRRAB!2m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGNloweExPRkZ5TUVOdk4wSndjMDlzZFdoSU1HYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Yo llevé a mi Toffee 😺 por una inflamación en su patita. Lo atendió la doctora María Del Carmen. Fue muy amable y eficiente. Mi Toffee, aunque asustadizo, pude notar que se sintió cómodo con ella. Me parece que, en general, LokiPet es una veterinaria preocupada y atenta. Siempre se han mostrado dispuest@s a resolver mis dudas y preocupaciones ¡Recomiendo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Yo llevé a mi Toffee 😺 por una inflamación en su patita. Lo atendió la doctora María Del Carmen. Fue muy amable y eficiente. Mi Toffee, aunque asustadizo, pude notar que se sintió cómodo con ella. Me parece que, en general, LokiPet es una veterinaria preocupada y atenta. Siempre se han mostrado dispuest@s a resolver mis dudas y preocupaciones ¡Recomiendo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Pomacaja",
+    "uri": "https://www.google.com/maps/contrib/105980466632467369204/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVb5YkZtdNCBk6lVx9UdzElhalaOpvwEZI3ZGa4wUI4xQA0LmyX=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-21T16:14:17.020044472Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGNloweExPRkZ5TUVOdk4wSndjMDlzZFdoSU1HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNloweExPRkZ5TUVOdk4wSndjMDlzZFdoSU1HYxAB!2m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFM1Z6UlRYemx4TWpKbWNFbEhORXRrUTBOWlRGRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Personal amable. El lugar es un poco oscuro y los muebles sucios. Claro. Por las mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Personal amable. El lugar es un poco oscuro y los muebles sucios. Claro. Por las mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alely De Jesús (Xendra)",
+    "uri": "https://www.google.com/maps/contrib/105825723916130284342/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNKBYmUQrjnaIyeARrZRyIQmLv3hHt0EQgiiT6eCpCteYprYyf=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-17T15:01:27.923946166Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFM1Z6UlRYemx4TWpKbWNFbEhORXRrUTBOWlRGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFM1Z6UlRYemx4TWpKbWNFbEhORXRrUTBOWlRGRRAB!2m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/reviews/ChZDSUhNMG9nS0VJQ0FnSUREN3RtWlF3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Lleve a mi perrita para que la duchen y corten y vino con el ojo rojo e hinchado. Una total negligencia de esta veterinaria, procederemos con la denuncia correspondiente. No aconsejo a nadie que venga con su mascota a este local.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi perrita para que la duchen y corten y vino con el ojo rojo e hinchado. Una total negligencia de esta veterinaria, procederemos con la denuncia correspondiente. No aconsejo a nadie que venga con su mascota a este local.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jerson Rodriguez",
+    "uri": "https://www.google.com/maps/contrib/105669676649326298510/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIXzsFr7S79JzAfx0lMxplVUTrcy7k3wQb1-rYNENwi5Y3PK7c=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-09T18:54:22.502773Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREN3RtWlF3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREN3RtWlF3EAE!2m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMbbgI4F93wq_Z9m_lQvhfONxQiR6LrTwQYG_KiGbJE8z3-qy_Su294RSX6B1ZmSy9pAb8SVr_vGVgHMsfiuNLTVis_2Fd6rq3xEsF_kgHExBm0GC5_uuD0HSJJvoPUsRvF-1oIypRo7tKqP1wVS63ph2EdwZUJEigzTuYZzo6vQ8qkX8h2ax7iM49yxl2K3oYs5RjswLkOyK7IIe8sXeMGDjJ3hoLSUQ75XclcA0OHKy0s0y7NERz5cnJjJniSXYM_PpGjzOq-Peiq2aAxixQFTeERJuv05etSKnNOMC1rr8hnI3iqJ-_xRiU7f6psmaiWtk7bJZk2QhRvRa5F7qhPCBejEJwDu5coP54WwOMgyjRedrHCc55oBwlsYOxgBhRHv6umGIkMADm9HYmF18kzg5A",
+   "widthPx": 1600,
+   "heightPx": 900,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICNjMbmLQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNjMbmLQ!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMYE641HpDkk0U8l6M-kPjkuU1dChvqkYRzMopyxcSPwbTgKwlkDMEBg9cdR7jE02WmDqKKD-L_VpktiIqPk_mlq5qVXcpZxE6qQz8IqclXKPPfMqoiaFT0jAGov-KwKhCaC0gXzmEHqRuzEgTSgS1-iAsMgFLCSQWOdkaZfK98wu6dIIm7B1kUgv3J7w5S1LiAXuvpIQsyMtj3Zuwg4Y4vnE1AW9_TvYRfc7O5xodjFqJb8B-78GwFTMSBTSWVO56EkgYpvj699BHyzyV9tkrC17ytKnVlkxoIo8g_AGJDNuEYwoCLMdtUazBmZx4J8C2ffTU37djaTA9ERB5qtOWiYcC35bCGYcpkZUqr0MOIWArmH6xvbTpsZn8VZ0QdKvQZIPfuYabLN7-hfhIlYeVh-bn3NDY4kN-c64TZJX-ny",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCtrX3GhzC1uqmgc1PhmohM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCtrX3GhzC1uqmgc1PhmohM!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMagopEmurV-fmYEqQr1QFemkXMB3i246uKtMZCuTawKwEcbGoObgUYobvFeAMm59D464nZksgz-laz0XeStWiMYZU5RChpUMC3cgmSlf_KRSm8FbaP-4gzT5y4388DIPK2P_Z4ERd4VB9EBRkG816jPIdgEUCgyVzmVgPOldGkVgMsVih_agQih0vVTHOnpRTJUGV06bYj7RtGmYDPSWBPHHmvy2V18AhIlGAIZ6FlV9H_KKIATc9QYfQjCi5eBHF9j0WLe9pK7CRYiufNATL4lY2n9HAPJQ0zzu7lbJwHAgiosAppe0w7WWQSyyntvU4nW9q2G6GHN2Oal9f2GZafMjDcrLqewNu21bZFle1ETAXLu1Rsw96Sf-oOszR5g644ZAjQO9pgPt6_6-H8xNom6tH4TGxk9T0xKy3eICqt-vA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCnjzkB8qHOQHOqJeCN0oJm&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCnjzkB8qHOQHOqJeCN0oJm!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMbmKardbqwhms91hwlYWcJtB-au2SrqanEyElX72AfKROE50mjdaDCi13jT4TCRr8VwcQztHt_p4M4aVDQn8TffTprq71clLAT4WXkkXWxo8a1j8SEpZCJCcoYyt6TKEwZAzRxqxij3FGijVeBJlDNmluUVZmrTTxxf2cTZWE6lJ3vzXJpeDGwTN6pxU_N4mu1l2y2pKIMsdT0moSERKX9j-nkHCcEMBIdhhAGUvZaegV7x2wf-m-s5axWJQAiMX--dVXjNBkUk5d3_9DI5kNG1j0BI6W2zDG-P9RSVgStCdI7cDX3a-3qjkCPWyIcyzMQQG4JwIU2nK6ojTVEL3TTv3z-2I0602bCERXhma6WcIQYGt1gL9yL8WhdSPsywHJ4xcsWPdogVWTvK7Ky3anpqxlqVEtk",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9n9X_-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9n9X_-AE!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMbRxUo0ciV8Axtu-hQZHmdpy05pYQRxj1U1mxGez-eAqpb-G4JdhBL_Z8ta7JuzfGQs9j0tAe-ywIPxUtXjfRdMN4YJ58vkXqSTlbJ2zI1flcAtw-EeZTUw1taZm6hDSJUdd7t5SG_HWQsG23Em9ftnzPHf_N3YQp6Mu-Ej7XleTFohvVh0lIiKxTsBj-m3Yinb-x5hXQeM-ig7DOoz3g3oKn4SXWHKIHdKrUPmglreaQW07eImUVHAHLaUvzAdBJRHJt-o5N0TdU-PIi8H0RnragUijhAFZRNXRG905Nnn56FPaBIPh10gr6-ydM_G0WRtUHBVNoGF8pEh80dNUyH6Ekv1m96tZPtcxot3BkXH8lgEwKOjg93V7Fqw8Yov0-hCxJY24cwFok7UpriVBNIaxeODGE702f3h_sDhYoa5Lg",
+   "widthPx": 889,
+   "heightPx": 829,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAV_zXReJ3AdWP1Wbh_dtGv&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAV_zXReJ3AdWP1Wbh_dtGv!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMbBZhIqrA6lclS9xiVU_U-UqeKjwKVnZgDE35yW-Q166zx8jgrRfw4-niRPcxtvyO4lh6muZaZVd6dUUG5_2_kd-TNlQixfeHtHmZeIwx8__3wU6gorg4RkatclFNzs9uUX6zdPvB7ONFBDF6xecyXhCeZrh2wvYLr4E_9Qll0WL8OFPzlE9KNL7u8LuJ9MFpMdhkPP1dUZ9gmsLsbgyZ3e89DdWMRZHtBxG0JRLLowyZ3AdcBBwlmS3EybAvnBFvM6LMb_EYPAoS_eemJ5fFOeZhUBOnnumLQYFXqz1bCkLxXxdX7TvcpVlgxdVCCdSjHC7yLACYgVzQQYpWpyC8ek9JRWyQayy5a1a2qCSrrYrEOdfmB651q5osjUoQmypmcQByEcs9Y94oPPMdHhDgOWPTk",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9n7WwNQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9n7WwNQ!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMZmliLhPSAouRwNPF4bUsQSs9ckoT1r_gLDUcYnGFjGHKGHRemIzmCG8oENMFsWV7Mo1OsRkvdzYIG-38u4eei7d9Sv3znZ1151fHqto8kn2fu-Wx5TQdqau9S5qYi-bIOYvTvD08HC0ftBa63OFYQLF1OdxDwtXqBrplZMdH4A1knAzAuoQ5IgrnwDN3qPs8NjN9-uSzLpLODq6AilW9KUC3EqdpJQU-TLbelwLjHFG89u4laY-QKs4Bd4jP1E00I-py6kWwxFjH3oBJK5XHF3ytHeg7PmhzybSFKhA99k2O8AR-33bAUz5kBm1RPuXqL18IJOFO6RWs01NlnXCNkoQeEMAGr8iXu0-IImSjGkag7QKOob_9kbVLA_HEsvzDyczaB3DRjYuL2tWTjAQGmSRw",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICjodn4ZQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICjodn4ZQ!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMYe4GHrefn9WUfJk---YVrUPyTqAQvTBNA1J0-zP36ICXSQOZhHLStmq8aPHCTlaMzqJZvzuo84vi-0qf_n4uTxfqjizK21MS3hrlilisKhDJZzma-MuPBuRvxqUwPxns7RrZG14XlRy2715wTa-psRxAYYVPJHL2fRzihtq4wFsTl9vaPGoL7oZQqIndJIZZS8YdFEozpbDUHoF5gJReTG2v1Winf-QRDyGthrhn6QChIOVpHzGJtBaycu4ecuBQBMtVUvJcnmb9aUKHJryWOPvShy1qhziaNg9jzUkNQrP4xKYsPyY2KkRv9FZjzUdb9rFjZhrHNMb-51_FrIw410tp6oAcfKcqoH616YjORmVk6eadNGn5QQqB8IiGxYbw2uQXoIcL4JzMDgdORJr3N10HwyevY",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9n7WwtwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9n7WwtwE!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMaxN9XyQfyjqhj46FYjKPKr5d0gqBqDjnvRc6Gm5ITVzJY8z99FJCpyWJrZrk0SFZfc0cPoKvzv19Uqa0Aqhe4kT-4f5dNhCguj_boPu1cnKlJTPsiwg7si6C0ftCoO2aQsFNMwBJx-SeNfoeaznRfIkNu1LH_4lwAyinTsv_lPj7tW8JXV-aSSXRKL8eWqkGGKGs78eemVk10uVP-PdO5iIkgrMdBKS6Eu3XhW4Wyto21SMlDxiKSnnINQCKSN6Z_EvFNnkZNBFbzCK9NYikKfCcQGBLoQiUDZZWEtXxwJ13YxtePYQLBi79xKfRKsJe5PgidHtVjjaHE3g9PX4NUB7TEKLNkQShngk4Z0TnfS2MNd_dVIxJyLwaytkH2TDGAysY0DYASFK9NeseKRAdIsfdipRZgC3_i1OQDTonMYEg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCYZThK9K0TXQbkjr7n9qJK&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCYZThK9K0TXQbkjr7n9qJK!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  },
+  {
+   "name": "places/ChIJ_wXP6J3JBZERvS089S_mFsg/photos/Aa-ngMbailNCqZWM1afm92P289ToDmshiqrDqkvg232C8OYcH81rPmyB6stnfN35RSfzEs3r5GOh5Mxk4XpRVpse5U5kYpfz_yERyyZ8MnCEQu7YkTlWP0gPOPIL6VdfdIKaNQGHQh-D9zUTopx5EAwc8yr2EekOuYmhbR-nRQddAQHWUAhQ7ovLUcnZDx9zEb7QemLDmZjzmdCqVJJ-YjxuBXuiXTpltN2YHPiU-IrwjDbnpU5CJjFUWFMK47uD3VeP7j3zkyVwhKy4xst-vYMpidxRAHg6nVydT8mkidMG9tFJj1Tn9lXUKmEZu3cKCHfsoWjJO8udPuw3Nartns4tewqvORn49JE2-A8yHEm5dZkFST3Y0aIfS6Aax2ud0Rall6QD4y5M0idXZy-THri4BuodAQE",
+   "widthPx": 1197,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Lokipet",
+     "uri": "https://maps.google.com/maps/contrib/113520571148227656716",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-COnZlos-fJQvX0lLYteZAE67sVJZJ7cygRgYHFNZUR642xZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGnc_lQg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGnc_lQg!2e10!4m2!3m1!1s0x9105c99de8cf05ff:0xc816e62ff53c2dbd"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "paidParkingLot": false,
+  "freeStreetParking": true,
+  "paidStreetParking": false,
+  "freeGarageParking": true,
+  "paidGarageParking": false
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": false,
+  "wheelchairAccessibleRestroom": false,
+  "wheelchairAccessibleSeating": false
+ }
+}

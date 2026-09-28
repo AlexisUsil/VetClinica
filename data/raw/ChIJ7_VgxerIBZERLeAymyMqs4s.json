@@ -1,0 +1,614 @@
+{
+ "id": "ChIJ7_VgxerIBZERLeAymyMqs4s",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3328484",
+ "internationalPhoneNumber": "+51 1 3328484",
+ "formattedAddress": "C. José Díaz 140, Lima 15033",
+ "addressComponents": [
+  {
+   "longText": "140",
+   "shortText": "140",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle José Díaz",
+   "shortText": "C. José Díaz",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15033",
+   "shortText": "15033",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0650281,
+  "longitude": -77.0341514
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=10066435924519215149&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.agrosuni.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 9:00–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 906,
+ "displayName": {
+  "text": "Agrosuni",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 9:00–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. José Díaz 140, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkTVJVMHpVbkJTTm5FNE16TnljVTVxVjNoRGJsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Quiero decir: gracias a Dios encontré este veterinaria 🥹🥹, muy buena atención y mucha genorosidas con tus mascotas!!! Muy bien recomendado y sus doctores también! Gracias! 🫶🏻💖✅✅👌🤞✌️✌️💖💖💖 🐣 🐣 🐣",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quiero decir: gracias a Dios encontré este veterinaria 🥹🥹, muy buena atención y mucha genorosidas con tus mascotas!!! Muy bien recomendado y sus doctores también! Gracias! 🫶🏻💖✅✅👌🤞✌️✌️💖💖💖 🐣 🐣 🐣",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Kaliz",
+    "uri": "https://www.google.com/maps/contrib/114010304739233502661/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMk58juu2wpXy737tvoR-dH0CHC-3Anh5NJBNhfKlluSCZ0Uo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-23T19:23:23.859457830Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkTVJVMHpVbkJTTm5FNE16TnljVTVxVjNoRGJsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkTVJVMHpVbkJTTm5FNE16TnljVTVxVjNoRGJsRRAB!2m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aSGEzcDFjbWN3WWtaMVVFeEVSbXhqUnpaT1JIYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "PESIMO servicio de baño para mascotas, los dos chicos atienden super mal y de mala gana, ni te contestan el saludo.\nMe entregaron a mi perra sangrando del lomo y me dijieron que no se dieron cuenta capaz fue por que se rasco saliendo del baño.\nYo pago 130soles del baño de mis dos perras, si no quieren trabajan pues que se vayan y traigan a un personal con vocacion.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "PESIMO servicio de baño para mascotas, los dos chicos atienden super mal y de mala gana, ni te contestan el saludo.\nMe entregaron a mi perra sangrando del lomo y me dijieron que no se dieron cuenta capaz fue por que se rasco saliendo del baño.\nYo pago 130soles del baño de mis dos perras, si no quieren trabajan pues que se vayan y traigan a un personal con vocacion.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ximena Alejos Caycho",
+    "uri": "https://www.google.com/maps/contrib/108311719016888167011/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU2tUwkMuwthrnqisARq6t1fkDaJF2EP8sRlDwpVaXeyhkO2EIhA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-11T14:17:29.967078039Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aSGEzcDFjbWN3WWtaMVVFeEVSbXhqUnpaT1JIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aSGEzcDFjbWN3WWtaMVVFeEVSbXhqUnpaT1JIYxAB!2m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psQll6UTVZMFJYYzJwVWJqTXdhVE52Y0hGaFZuYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 3,
+   "text": {
+    "text": "Fui a comprar la famosa teta de la vaca que es para dolores articulares y yo sufro de artrosis tengo desgaste del cartílago tengo pata de ganso en la rodilla y entonces me recomendaron la teta de vaca en pomada la compré y me alivia mucho el dolor no me la cura pero sí me alivia ya que se alivia a los caballos cuando se tuercen las patas en las carreras entonces a los humanos prácticamente nos alivia un montón así que hasta el día de hoy sigo comprando en agrosuni y sigo comprando es porque creo que me está yendo bien",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui a comprar la famosa teta de la vaca que es para dolores articulares y yo sufro de artrosis tengo desgaste del cartílago tengo pata de ganso en la rodilla y entonces me recomendaron la teta de vaca en pomada la compré y me alivia mucho el dolor no me la cura pero sí me alivia ya que se alivia a los caballos cuando se tuercen las patas en las carreras entonces a los humanos prácticamente nos alivia un montón así que hasta el día de hoy sigo comprando en agrosuni y sigo comprando es porque creo que me está yendo bien",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Martin Otoa",
+    "uri": "https://www.google.com/maps/contrib/102328049642447437168/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEREECpFFERpeQAkuuM9sg2ISTl1ttfRVVmz8D_-1Wh_Y5=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-15T20:41:21.276150824Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psQll6UTVZMFJYYzJwVWJqTXdhVE52Y0hGaFZuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psQll6UTVZMFJYYzJwVWJqTXdhVE52Y0hGaFZuYxAB!2m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDdnJYNFNnEAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Tienen de todo y a buenos precios, yo que vivo por la torre interbank (santa catalina la victoria) lo llevan y lo traen gratis a mi perro el costo del baño es 30 soles y eso que mi perro es un golden lo dejaron hermoso",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tienen de todo y a buenos precios, yo que vivo por la torre interbank (santa catalina la victoria) lo llevan y lo traen gratis a mi perro el costo del baño es 30 soles y eso que mi perro es un golden lo dejaron hermoso",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Tamara PS",
+    "uri": "https://www.google.com/maps/contrib/117189137619080914635/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeQ-RpOrFuHOsizQiG-kcoN4qjKOZ99bXHyuRLrUETzct76p4BEw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2020-08-24T13:16:28.383143Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDdnJYNFNnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDdnJYNFNnEAE!2m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aUlV6aGllWFI1Vm1SSGFIRldXRWRYVTBSSFRWRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 4,
+   "text": {
+    "text": "De todo para comprar los servicios veterinarios si son un tanto caros, no hay estacionamiento",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "De todo para comprar los servicios veterinarios si son un tanto caros, no hay estacionamiento",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Joaquín F. Velásquez D.",
+    "uri": "https://www.google.com/maps/contrib/109826630821948309937/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURC2q82aUVLXuH98Zj9y-d_GUz2hmOm623DOxqNuHDtKU-M1wQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-17T12:58:00.430802210Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aUlV6aGllWFI1Vm1SSGFIRldXRWRYVTBSSFRWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aUlV6aGllWFI1Vm1SSGFIRldXRWRYVTBSSFRWRRAB!2m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMZTNpbQy6vV523m6XXeHO_YnVYEEyBMMaoRSU9JkNU3QMlq8xkmuFALIqwMzqBARuV0qcnfJ_MknNg3zdvnY28gTJ47eNSjKxfDF11TVq6e-hY-MTFsQIDN4mYoevvnT3KiyG-GsIflatIALeacbyGQ9aslq9Lhehh3XvluNgMFFoxkrWoT8kTd0si83PHVESQu-E9g3xlAJdIFT8V1ze3O9uyb7t6ydq-DM5lUDD_tg8Vc1BMUQGPcnhBqVkwPNKtcJhEcUzotYiAfhaux1g7aQaLBw9fjhHOdYkgIqgAVYipwY9Xk2da3I-XM0F-AGKR64j7yfTnR3p20C_dZnrjiaMunMvEi_3mkosR8CmKzrYZ_troJoVN9rwLtGhAi_nH3UtyaRH83dMYVifB5oQo5ZMU",
+   "widthPx": 1080,
+   "heightPx": 608,
+   "authorAttributions": [
+    {
+     "displayName": "Agrosuni",
+     "uri": "https://maps.google.com/maps/contrib/105330299265528794362",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7-DVZ_kZJImP9AQt47l5eg_890-NuM0W1Z9Xp3_S9EBEvMtQ6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmosq5PQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmosq5PQ!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMZrpvC4YCkQHFH76_Fz_OYkbQ6b2nmdcx2VbNN1enGTh1tcrqnAw_DNT2asQWvADWqJlxieQ2ZGOx87jl6CjpaOmPhG_EaWzvJIvOZzsB1he3h1L_Pw-AGOK0h6xjTpca4AJgnL2PHDEJEuc1k3hlZLaMa5nRam40J1bOHiga0pMkK6WWh_GpBO2t6E_pT8rL5GbgIxtYm50F6wuhqDtTkqcAH-xvNpHAXuL6a8rCHBZHEYGl28gvbVjsJxucJUN4DBlxiRqdbwMfxe_urRdbargHUkSoBL8suzAYevitbT5vX0_Felac3FmiNzweJPMy2OZ-yOH_QoXenTUWGH9rBfgSNRg43PsgDOTRN8l_4vXW7Gi_iszGqbrkSSs689nOuVTNnMUqpmpiafYtPTnZFbTWc",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Vanessa Meza",
+     "uri": "https://maps.google.com/maps/contrib/116156732650814947883",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyNVbWuvet1Uz24iZGaRTII5wBMvbjOZLFYWca3FYqR97P6GaYjA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq8MWlFA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq8MWlFA!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMZ4lA3gS_XdASwgf-4Hq8sHEcS0JmaIvcrzzNPxHAb7JNJNznaZADepkIJaBM4bYPQ_BV0zmhQsp4oYgSZALyX1-52jicxbGAP0B7Fld9lotSikHQajGnMEFLBdP9NieLAoLkUsNAoApZpEB3vtefJ2yNqTZY0qUjH0RnOLpq-HbGsO4y6oMPHhP69KqbZ8ffNvzHpEDFlQWq-x1UFRh2TwMUQ7qgimUIBKLfULi2ZA4daY1e1K0WwoIYuxdA4J6u_x2bhuv0fQkKMBei8w308FdDMnqhVOHwdNtTvTuEVkSBUs6T-ULU4g2-7M1zdw51qONadd79ppT1byq3AFhBfiqHSn2fAWL6EbTrg-Zer4K_QYRYoeuu7aZF0v8KigPoWSoP7YrKYpjM9qQhLYqNgSqjB3mRkrwWYzVS4QjWBe",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Leonardo Valencia",
+     "uri": "https://maps.google.com/maps/contrib/116073293476097420872",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs67Qx0stVo4Us7ohkqLfGL_DFDMeu-fn8xWiFLQz69KEIctUG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBFyJdtqyFn9A6kZiTF25zy&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBFyJdtqyFn9A6kZiTF25zy!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMbtewwCQBV0HDgTbfIB1h8tCoollvtzPLWGeMU9W7sW8m2OlFrHxuOUh5vfpF15LSv5ya_8lGPO9f9sr3Z8KNgvwvh6xc8n_UucPkIE-DIzcoUM5VicqDPHdVmiUNci-vXA5Wm1MO391nOAKM80qjwKP9YBFaade0Krsa3emn4kJpjMHu9Jd_mM8nDIUkcmHOtvR_MmhV0-T5OWAXXblG8vkuSxjhBdC_nLQc9Xw1mjaXvSF87Pd_fHEEfJVIvRfw4ukQI1PD5BexrglRNZL9WXDSxJfQ4vCe0ytNbiwBkmirdkXJjRqW5xa7U1-eG5eVCvmZ3cLS-5Ck6MYqpUdYFQzlc1RiRPZs_2RY2nbxFB6gS3FflqKW-g_jWdFUBU3pejeNbrESHAiQiYnh-azzG-NAMB",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Daniel Daniel Daniel",
+     "uri": "https://maps.google.com/maps/contrib/102431257605398067793",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVDMN33VUvUqJ7Gr4oldd5vFOqXZYUDFqIhKToBH1-XVRzk3ko=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM-LqF8QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM-LqF8QE!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMYiab17EF-lG_hH5UWEBh4p12Br3txzBd0mpZgJtqz6F9r9aSx8bcO4XCm7nagDEpC-RonzoSqvhrP796QcueiJBydgbZ7neFrE083K73XNZUvnG_UPR72UpVQ_NXS3_HQP4gDBz3Tl-Lf2uBCVBj46EXl89D41hfoZ16_Elocw1pCjRDID0X1iIJSFUjMS9XkkXMkKnigItifJmo6UgRtyTKQxFeziFQXoyLJmF43GTqHVNLE_zj5FdM6h3paX8ChQWs9lMCbfrpoSWLnummqOyHr0Wk_IkVr2epo5MpsrLvdBzrtvACwgKMlxZR0QL8BcfTrePDarshMh4IbGlue4wDNU7ae2hfm9X6E89W_aNFbfGFxMFA33HNC67MxwQuVpSjOGyGYSHtNtpWdKxR0SoM8",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Vanessa Meza",
+     "uri": "https://maps.google.com/maps/contrib/116156732650814947883",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyNVbWuvet1Uz24iZGaRTII5wBMvbjOZLFYWca3FYqR97P6GaYjA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq8MWlGA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq8MWlGA!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMYkx0rlVIrsnWkmJmjuKdpFriG7j-i-L3K9kRiOAMaw0qdxd4CViR9xgjQrw6P143WiKMDHSj0Hv8IbOtIySY3iG2SmsThtVsAs0XezhQSJgu9kT4YdhiT2_urwzhaC7EdQUaXTZwDroeoBEiIqDCri_uSya67qF8RwyQV83FvodbUK3kYRyaxmZ8G0AdLhbyaY-LVxzQrFg6ecvXxagm0ya1F3sB9y1kKMmQMyYfGPp2bqGsO2NdZcaR_3mrqiiSx9A7HgjevkoNk56VgIhR0nmfvqnHYKa3Nl7-5_9znMKIc5jMmS4OsqBwr_tKAJ-nBSVLVtSvWyiGkSmcv8M0sxpf-nDVENZT-n6D37wkNOkys9F7NnbcHtViCKy0nFQrPq6jI_3y8LDMwZgLqShOflPUmG8l8",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Mark Durand Orihuela",
+     "uri": "https://maps.google.com/maps/contrib/112455025580637366218",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMtK-hcILNgfYP2YQ6CecOAMWLm3nxMRCtV3ELRjApa1k7Vy38=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEwqSFzwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEwqSFzwE!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMYgsSAkhb4WAkht892PuKxLawg7HcduTGZMtFQIf3ITF_52NxFEWbguLPto25IY4AHzIaBdYaHOu0cXdGwT6Y5TNJAY2pOsjSWfj13U2Wuy2k5MBgFbuOsnMWf2nyyFvyQJ2h-Kn16015qmLkc4ZTwDWnNuTERQTX2X5mg2LIB60ksPE7HY44mfWLz3HshOXWTiHoVMxUVPvaBP4qfAaFtLIz9JV4Dpn_6Ws4je01KcyFHlXaQTWaRBEw-tKgI3gXPmS5_xgtP7Jl3b0qrdR9dTODLzCyFyukulZxodMfrItbhlwEf3tpp16_Ar7w4ZcgvFqCOCBZfju1Y2MMEG6ogd8pK-vdVDwLpv106I5fWqzV6fVmswssRRwnZvFQO9Zu0G2waPNZlD1WN3MQHwfjacpIw",
+   "widthPx": 4608,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Pepe Herrera",
+     "uri": "https://maps.google.com/maps/contrib/114552685216804145412",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw963Jdc62v31r8roWES7F2669ISncpXcbpZhRdOV2CKI-vUxk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCuOjMYg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCuOjMYg!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMa0DxUHZP3vLWKo7ruTa2HI9J2zgVBXO7Y1m0fN8aiMCfO3wxJa8BxV_oInr2C5XUGi8mGmSpiwvms8Zel2-1Z2dQ8a2UX98-iN9SVOp-F1EDeUYZyyv-XmiyiKEvgXnivcuNeQCbNyqeqcru3muouZ8y-JVYSP2TRRoGTfM4RDZG8dTsa3F7wsrGB7ra70ovnSWUDvwe66pH1z6PK8Pqrt5Hqsp4LsUPCsKsg3he0_dDDISASrdXO72stPFfGstiz1gacmtRUn9LbQfEYgrSBPWHKIjWcuSEdLtPQNgcFxGH5Gd1KaKUtFp3e2dm25DRJaHTmxacZDJzLMAOU9wcs__1SRq4xPt_xNgx3Ulo-zQbmYFm1PWXkrxSSmEFgXe7yyKnRQj7EWlkf7KDDsHxmslVyrZ8E",
+   "widthPx": 4608,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Pepe Herrera",
+     "uri": "https://maps.google.com/maps/contrib/114552685216804145412",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUw963Jdc62v31r8roWES7F2669ISncpXcbpZhRdOV2CKI-vUxk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICihvG55wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICihvG55wE!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMY-MjITyFw0T6VuvIESMdsimYHnpWZKan1VAaoFI3yOszZj6YwxjYdouv_FnhE7T13xi9wbinbHr1FdhKxemuhM2UZ7Yeh9p1hno1e5KPpk9Pvg9x-JzvB_aGVoVIZAsCazwvEjPO73YkdOjfwmxSd2LlPIt1l1odoMM3iVvp2_HcKov2FSp9pZFTB75iNFlrG82bfzKvpmweNCiXbfqzfLnp5-VrsNg3x2L1dUtgbAn9acyGJYmkLaJBeqDZ5aBuCZrkp-Jf2NRRvQGjMCnC2g9DL-KrOc8HJUWVcMlWhMCD2_kWcI5qozWaJB9eBHei9vmT2ZTLFRRsmlWcOVKqats1c6Wj1uJVDRgHmoqMHkVKhC717G7SL3ukk2NizumVQYjKhfdBMHf0-C82FsLJVviKJOLug",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Elmer Peña Armas",
+     "uri": "https://maps.google.com/maps/contrib/104368028438684427295",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMmPYYzaVuMyC4yFnU8KjRmSPNyUZLBMMSmrXPf8KOo-rsPdO9=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE2aTv9wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE2aTv9wE!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  },
+  {
+   "name": "places/ChIJ7_VgxerIBZERLeAymyMqs4s/photos/Aa-ngMZpFTkCs4rbwV_AkiN87IeFVL2jKHb5rxbV0uh6kbh8hYL8bXkBo_wiQ0X3NsYArXoICaWL5Sl7On_Vz5gryjfymnqbP4RXJOXxwn1V1-vv7WkvCwNZb2E18FKRCeDZWzZwGAEqn6fH3sxX-6MKOwiqlaq0w9E1_Jh5Nzc7ik8kjgAz4AdUorOlp200aKhqCr2tJrdoD-NbXh5-v14qwVssye-pMUzoUiH520uKwyIS5kRjZkEgs3JD4xwrLZHU7bGRmNnyu1YndACMbQWQiXa8f5O2yxo7GqhLjpHIod3eFs5c04uD88pV8JNCMEEO32FB9oJMjPs8Go2I83SgYQSHI57xAglEdB5HoBA8R-oswZx_0MXmynK3RbjbvE855raeFi02kxcGd49T--MLdL54-pn1Upw",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Martin Muñoz",
+     "uri": "https://maps.google.com/maps/contrib/107988297559011181368",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6jg3-ZZXpZPtCzKB_tcaOP2ZUxz6l8UXX-kaclYBFdJP2R2PMUg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICk_LK2iAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICk_LK2iAE!2e10!4m2!3m1!1s0x9105c8eac560f5ef:0x8bb32a239b32e02d"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": false
+ }
+}

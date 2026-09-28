@@ -1,0 +1,483 @@
+{
+ "id": "ChIJxfjxKObIBZERm20qWS5Jkc0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3311168",
+ "internationalPhoneNumber": "+51 1 3311168",
+ "formattedAddress": "Jirón Juan Antonio Ribeyro 217, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "217",
+   "shortText": "217",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Juan Antonio Ribeyro",
+   "shortText": "Jirón Juan Antonio Ribeyro",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0671868,
+  "longitude": -77.0451255
+ },
+ "rating": 4.1,
+ "googleMapsUri": "https://maps.google.com/?cid=14812701112811548059&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:30",
+   "martes: 9:00–20:30",
+   "miércoles: 9:00–20:30",
+   "jueves: 9:00–20:30",
+   "viernes: 9:00–20:30",
+   "sábado: 9:00–20:30",
+   "domingo: 10:00–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 48,
+ "displayName": {
+  "text": "CENTRO VETERINARIO ALFA",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–20:30",
+   "martes: 9:00–20:30",
+   "miércoles: 9:00–20:30",
+   "jueves: 9:00–20:30",
+   "viernes: 9:00–20:30",
+   "sábado: 9:00–20:30",
+   "domingo: 10:00–16:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Juan Antonio Ribeyro 217, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RMlNuQkVkRWhTWjNoaVNWcEJOREEwVG5FeVVtYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "El local descuidado, lleve a mi perrita por primera vez nos dijeron que a las 2 pm y  cuando llegamos  no estaban y teníamos que esperar porque aún estaban en almuerzo media hora más, nos fuimos y cuando regresamos entre por primera vez y el local está descuidado, las paredes como cayéndose, iba a bañar a mi perrita y solo se la llevaron y ya, no me preguntaron que corte o baño para ella. De inmediato pedí que me la devolvieran y me fui, pésima atención, lugar cero agradable, me dió mucha desconfianza.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El local descuidado, lleve a mi perrita por primera vez nos dijeron que a las 2 pm y  cuando llegamos  no estaban y teníamos que esperar porque aún estaban en almuerzo media hora más, nos fuimos y cuando regresamos entre por primera vez y el local está descuidado, las paredes como cayéndose, iba a bañar a mi perrita y solo se la llevaron y ya, no me preguntaron que corte o baño para ella. De inmediato pedí que me la devolvieran y me fui, pésima atención, lugar cero agradable, me dió mucha desconfianza.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María García",
+    "uri": "https://www.google.com/maps/contrib/117879709611077125630/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy8rXhGgDJ7THNE4I1ZhaSiMi0KMaFEaoeuDS8MjouDVj8TehMXw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-16T20:08:39.329367519Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RMlNuQkVkRWhTWjNoaVNWcEJOREEwVG5FeVVtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RMlNuQkVkRWhTWjNoaVNWcEJOREEwVG5FeVVtYxAB!2m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  },
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3aGZMa0dREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Me gustó mucho su atención, aunque le falta mejorar un poquito la cercanía con los pacientes pero si lo recomiendo porque llevé a mi gatita para esterilización y para cirugía de extracción de tumor y todo salió muy bien. Ella está muy sana y se nota que el doctor sabe y solo recomienda los exámenes necesarios, según sea el caso. Ahora es mi doctor de confianza.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me gustó mucho su atención, aunque le falta mejorar un poquito la cercanía con los pacientes pero si lo recomiendo porque llevé a mi gatita para esterilización y para cirugía de extracción de tumor y todo salió muy bien. Ella está muy sana y se nota que el doctor sabe y solo recomienda los exámenes necesarios, según sea el caso. Ahora es mi doctor de confianza.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marjorie Villanueva Chávez",
+    "uri": "https://www.google.com/maps/contrib/108471542313375144430/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9p34s3ipZveIrk9sduafkr6B6iqOd8-6IKRLHoPeAALhhFQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-08-17T07:38:44.170410Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3aGZMa0dREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3aGZMa0dREAE!2m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  },
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/reviews/ChdDSUhNMG9nS0VJQ0FnSURfc0plVzRRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención nisiquiera  toco ni resivo a mi mascota,ni peso nada. no me dio receta,apezar qué tenía lastimada la oreja. Y me recomendó alimentación de solo croquetas de más de 300 soles, diciéndome que alimentación casera no servía. Apezar de haberle exicado qué le daba una comida balanciada. habiendo explicado que. Fue adoptado, no me dio una solución me dijo que la vacuna tampoco es necesaria.  Y que  al final mi Mascota morirá.\nCuando solo fui por una. Alergergia esperando una mejor  sugerencia profesional.\nEstafa total.\nNo se los recomiendo. Aparte que cambian los precios ridicualmente diferenciales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención nisiquiera  toco ni resivo a mi mascota,ni peso nada. no me dio receta,apezar qué tenía lastimada la oreja. Y me recomendó alimentación de solo croquetas de más de 300 soles, diciéndome que alimentación casera no servía. Apezar de haberle exicado qué le daba una comida balanciada. habiendo explicado que. Fue adoptado, no me dio una solución me dijo que la vacuna tampoco es necesaria.  Y que  al final mi Mascota morirá.\nCuando solo fui por una. Alergergia esperando una mejor  sugerencia profesional.\nEstafa total.\nNo se los recomiendo. Aparte que cambian los precios ridicualmente diferenciales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Keyla Montesinos bengoa",
+    "uri": "https://www.google.com/maps/contrib/109449783296941535871/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiwcHdhsKBPV8mQ76T2_Zz-xpsoHhPTlC_dMQy9Dx6OCbfVFs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-21T00:01:51.989805Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfc0plVzRRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfc0plVzRRRRAB!2m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  },
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/reviews/ChdDSUhNMG9nS0VJQ0FnSURxajhMR25nRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "He tenido mi primera consulta con el Dr. y realmente quedé satisfecha. No solicita exámenes en vano para gastar dinero. Primero evalúa bien al paciente perruno preguntándonos todos los síntomas que presentó durante su malestar. Me encantó!!\n\nEl Dr. es de la San Marcos y lleva 30 años en su profesión, es un punto extra para decir que puedo confiar en él.\n\nSe los recomiendo por completo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He tenido mi primera consulta con el Dr. y realmente quedé satisfecha. No solicita exámenes en vano para gastar dinero. Primero evalúa bien al paciente perruno preguntándonos todos los síntomas que presentó durante su malestar. Me encantó!!\n\nEl Dr. es de la San Marcos y lleva 30 años en su profesión, es un punto extra para decir que puedo confiar en él.\n\nSe los recomiendo por completo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cathyuska 87",
+    "uri": "https://www.google.com/maps/contrib/101881533809889671080/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLO39GnoW0hAIbk_9BL7pu7vGnu3O-ybLBTuA1o08cc4EDszw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-07-18T17:50:31.949372Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURxajhMR25nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURxajhMR25nRRAB!2m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  },
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4Mzh6S1RnEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "Con decirles que el matasanos nos mató 2 perros, dijo que 2 de nuestros gatos estaban desahuciados (pero se recuperaron), no puede hablar porque todo es \"si....  no..... eh.... creo\", encima tiene sus hamsters ahí en la ventana, bajo el sol todo el día, sin espacio, para que \"decoren\". Solo en Perú van a ver a alguien así trabajando.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Con decirles que el matasanos nos mató 2 perros, dijo que 2 de nuestros gatos estaban desahuciados (pero se recuperaron), no puede hablar porque todo es \"si....  no..... eh.... creo\", encima tiene sus hamsters ahí en la ventana, bajo el sol todo el día, sin espacio, para que \"decoren\". Solo en Perú van a ver a alguien así trabajando.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Hethzel Diaz",
+    "uri": "https://www.google.com/maps/contrib/109201254417995194513/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEl-ABOnTOH1R_Meekuedzuyr9qqLi3_P-etwG8XRftOu8hQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-06-17T21:37:16.604198Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4Mzh6S1RnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4Mzh6S1RnEAE!2m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJxfjxKObIBZERm20qWS5Jkc0/photos/Aa-ngMYnrhHRMy3A7Y0M8Ay0N1TT8mqtCqJJshqlo4jFk-3J6KYq8OcS17wx2vEtKspVPqvVH7df1B1LqQkR6Xn5lBa1RLL82SkhXDRFabYjFCvYEsxe__TohuiQAoHBdyZjGKpvZEpLOzn-85fgMAaLaUohxODMvdaEuHp_HD8FHPBFCi7sJb8XDUNfUFrcnKPdORCWP1jUWvaUmO-Z7LgMXYnzM8YalmDOU4jRUTE8dPFSZOIQ86_eX3b_ObxM_iGF7wJVI0v7C6-l5hge1BSdw2PsDuquoAuyLjDszj3AMWYxy7XaoPEHEWOXrGqmdlY9w7a97oKWaYhd4LfGeHAP5IINU2bdGUY1e_Z1hPOQAnDkQGMeAV2Bi5KL3UxrpU8NVOAhTs6x9oDdg8UJAZOSJu9ygVeGg0Y",
+   "widthPx": 1170,
+   "heightPx": 2080,
+   "authorAttributions": [
+    {
+     "displayName": "Marjorie Villanueva Chávez",
+     "uri": "https://maps.google.com/maps/contrib/108471542313375144430",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9p34s3ipZveIrk9sduafkr6B6iqOd8-6IKRLHoPeAALhhFQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC7hfLk2QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC7hfLk2QE!2e10!4m2!3m1!1s0x9105c8e628f1f8c5:0xcd91492e592a6d9b"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false,
+  "wheelchairAccessibleEntrance": false
+ }
+}

@@ -1,0 +1,582 @@
+{
+ "id": "ChIJyykWJuXIBZERMWfbeWetVhw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6583729",
+ "internationalPhoneNumber": "+51 1 6583729",
+ "formattedAddress": "Jirón, Diez Canseco 493, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "Jirón",
+   "languageCode": "es"
+  },
+  {
+   "longText": "493",
+   "shortText": "493",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Diez Canseco",
+   "shortText": "Diez Canseco",
+   "types": [
+    "route"
+   ],
+   "languageCode": "sv"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0744255,
+  "longitude": -77.0474928
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=2042010140996757297&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 10:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 50,
+ "displayName": {
+  "text": "Veterinaria San José",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 10:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón, Diez Canseco 493, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSeVltRlVkSEpwZHpkWVdraHZRaTFLWTBaS2VtYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Rapidos para cobrar pero para entregar resultados tienes que estar detras de ellos. Una pena",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Rapidos para cobrar pero para entregar resultados tienes que estar detras de ellos. Una pena",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Guillermo V.",
+    "uri": "https://www.google.com/maps/contrib/117351119476625018613/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrgm0ipuTSqzPhHOu6HBAua-aM4HdjjfWS0ZxjIdZHHRnyZ2I=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-04-27T15:21:02.908079009Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSeVltRlVkSEpwZHpkWVdraHZRaTFLWTBaS2VtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSeVltRlVkSEpwZHpkWVdraHZRaTFLWTBaS2VtYxAB!2m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsM1lpS3dnRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Me decepcionaron grandemente, por años confié en la dra por su trato amigable con las mascotas hasta que se habla de dinero, ellos son comerciantes, revenden medicamentos y servicios, por una ecografía que después de pagarles averigüe, ecovet cobra 160 o 170 soles la ecografía y ellos me cobraron 250, pastillas que cuestan 17.50 me cobraron 50, así que mejor averigüen antes de pagar y no se dejen sorprender como yo 😢",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me decepcionaron grandemente, por años confié en la dra por su trato amigable con las mascotas hasta que se habla de dinero, ellos son comerciantes, revenden medicamentos y servicios, por una ecografía que después de pagarles averigüe, ecovet cobra 160 o 170 soles la ecografía y ellos me cobraron 250, pastillas que cuestan 17.50 me cobraron 50, así que mejor averigüen antes de pagar y no se dejen sorprender como yo 😢",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marleny Manrique Campos",
+    "uri": "https://www.google.com/maps/contrib/100405206460891268890/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVen7K4JIKBaPfl_riF6-7Zur4mSUNIFjuoCZ4VPgXYohlf42zwEA=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-11-24T21:47:27.355270Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsM1lpS3dnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsM1lpS3dnRRAB!2m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1OFBLb1N3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Ayer llevé a mi mascota y me trajeron super mojada por lo que yó iba a pagar para que me la puedan bañar e igual su correa , el día de hoy noté que sus ojitos están rojos al parecer se le rompió una venita algo que me enoja porque me la llevaron bien y me traen así de mal . No recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Ayer llevé a mi mascota y me trajeron super mojada por lo que yó iba a pagar para que me la puedan bañar e igual su correa , el día de hoy noté que sus ojitos están rojos al parecer se le rompió una venita algo que me enoja porque me la llevaron bien y me traen así de mal . No recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fabian Diaz chaname",
+    "uri": "https://www.google.com/maps/contrib/112350315326752385995/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyrMBsfvEHMZa-D0i3kcld16ekJ80TLZdZObZFlDCGBEtPhw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-08-11T18:28:40.535547Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1OFBLb1N3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1OFBLb1N3EAE!2m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdmNiaTF3RRAB",
+   "relativePublishTimeDescription": "Hace 9 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, no tienes nada de que preocuparte si dejas a tu mascota, además de buenos precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, no tienes nada de que preocuparte si dejas a tu mascota, además de buenos precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Junior Segura",
+    "uri": "https://www.google.com/maps/contrib/106002465994854484824/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXB9xifcFfpZVlyJ_HfYZGL9qC_sr2Zc2o5YBo8NqgJW7lCGKE0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2017-09-22T14:41:28.105Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRdmNiaTF3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRdmNiaTF3RRAB!2m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5aU9hRjZBRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Una excelente atención. Fueron super amables con mi gatita y me explicaron todo sobre su salud, atención y salud.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una excelente atención. Fueron super amables con mi gatita y me explicaron todo sobre su salud, atención y salud.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Paola Uribe Zegarra",
+    "uri": "https://www.google.com/maps/contrib/110180991529747818940/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv3PmSgx2-FYWCYUfJbNeQ6gAuHpnRbIV6eh_rL_8qngEGiPKl=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-02-22T01:18:41.463667Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5aU9hRjZBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5aU9hRjZBRRAB!2m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMaZo5JHbDSu3F8VtBBWWdRR2TOcXhsoQVeVLvy2ewu0iHXVT08quAb2Ke9LAgiLpdl5o8ZOhosFTgrVc4aC2CDepKrm8f9tKa1raxffIRVuurqR-u_eTr_wNUB6hIXH8nc8UePtDUuSDBf2aKymho0Uh1pMFTGBkSoEHl-8zkhymUuBaCqxWEfbALxsmc6KRc1RL3pafPPaUQ0zkVzYNtzY9Iam3FvXWBGWmFlJIQYEkB3GuAvQW6FrkEhYBr4CL7avMy_4jXHtt9uWRk8LNQM7iU66dyGrEtRKLQfN4adC5z3hctKURXT3p_s184iSEAYd7HlVay8vG0osyWDvh3Bq8rZRrzynKPdU24E1MVNjXedFAdxPjOD56pHRmDcRqFO4LdCJ0LFO8EqO8tOYOghUpkrXh1bLFzhOT78NHyVAV_OI",
+   "widthPx": 472,
+   "heightPx": 266,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José",
+     "uri": "https://maps.google.com/maps/contrib/107597861258815841645",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSTXMEk_eIO8Amxwq7JPm8zHnrFDhFLY5El1C1CS5qUzAWn98=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC67NPy9wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC67NPy9wE!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMZVlL7q2c6wYaBXG0FB2fWMKxlw-uPiACc2mrYwSxRSmoKc5KAK51Lfo8EDGtMBYU52yAyGX64KOl3y_G3cO1tojwDOwZUffBAaIxsx10v456uSl9GWj_4vWCry7XLkr-RYMNvp4R_BEh16Jf8I_mr26aIwcCMq5BAtp2apXSbXGm8ssNT7tGh8pQSluhg1cXpWmXjCqN41OjW_DO2hbpNyBG78lgQ10vdC1pkvnXVRGSsM6GhYLBYZ-iRe2nDyewYisj3kX0Qcovn7C6Tyn4BgxWfff_cQ5l1iX1gBlfJwCwz0ySfnkcq_NsQ6NPo3dWGuAhWFUSfZPUyCCvgFJFH7MGVpGlx8XKhmsZ4HDcx1J4Cd_UmNerR8rTh0BkUEH85CTEvPhJ2DBCN9L-qfgBO_U9gJfFgJCOVucF4nSB4",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Diego Velazco Guillen (DieguitoxD35)",
+     "uri": "https://maps.google.com/maps/contrib/109851181830162055946",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV24tBjZsGzghZZoD0av13-n372dhNMEa87nINZ3PzgJfuAlHJcfA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE1vHIRQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE1vHIRQ!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMauIzsmzkzvT3UHfO3NLTsD8jkiXgDHsFid2WjT0ifbTIeU3D01Ci3nGJtt-Ry-ObHm7h_kY7VOIhEjQELk4ePbFlLSN9XqSTYJs00cfI4sQb3q6426BkO_KddNdW9NoBpOEQ0IhL6RHKkxPC_QFqBO_twIyDLe75iVH90DSUrMjYyTF1Jr8vqLikwkuMuraxy0g1gCJt4uneBzkgc5mJ6z4hatDp0phhp5kSBoW1_70eSzrGqBrOXt6Zxlq7sRRknPHi9TdvUVcira2M-_DhrTpsr1nW8IwPzDjApx3Om0kTyBRfFujQSnBqntysLXrg_2Q93svjqIOA0p4kbSSJUgE76f-ZvRzdEV6zh3qwkwp2mgskWzWgl43ddJfMlLEU5BfcqqT1TRs2ZAZ68UYmSQh65Kqe5KA--DSGcCj18",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Martin He",
+     "uri": "https://maps.google.com/maps/contrib/117897896076754198583",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5sR8WyJX39kHTXxBVmuE6Fzm7QqV_VFDN5slS6B4CsYZHxjBB=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICszOf4bg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICszOf4bg!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMbgEvD3MWjkvkeFnWpizrdacrR4mKEyqBqR8kXgpHusI0lEEvbpmVWQUimOl-aLZctvjkpcyQ8qKLpY6tAAR7XJU_ES2my11odPdsWYDBA4PNH2skLQ7Y8VWzte4KCJ0nCsmMRtblBCsxUb1zNyiRniyVJNdShLlrZmcWfOYPskwaxNSP0ByfGhxHJ034u58FE-Is15IzHNnxQH_VwpmQdrgawarXGCIP582m7HmVhusVGPS1NoVdp_yAhLlZmqP5lOitDaA6k8PoSRWsZ-KK85ZMCPsvKxhMeJIyVl7f214GvFp5lcf-1m7HZRHCvlLwjSalY853Ss8M-ef_h390AgRLdimdwWPydiVIxXRNmTljHQJuFHSzGZ4cLrmLUdUZVMPVacYmysldzbml34LoSqsUl31Qh7cpSNY2afLtQ",
+   "widthPx": 2982,
+   "heightPx": 1406,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José JM",
+     "uri": "https://maps.google.com/maps/contrib/112807880985869013589",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMDOTo4Re8A4yksL4oN167JXTcQKTvYVXCZN2RBdyKYVp2g_hH=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICE7YSIDQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICE7YSIDQ!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMb4MrOaBiFYTtsvAMk2U-tp8FQhsHxFwK9bqGATM7iVQtCLtzzYIWlbHZmiqNIkFspNY5JLGtMUpzEk0NYysN7zNr9NYI-wm-4_BkQklKS06uOL-PL3QwQruxY-peNmsrgLzuDen-J_4C7--1KUnGNCZnrSOEyokGxs1vnmKilYVwY_HFBwzL3fx4i6IEgE9ETcX5khJGvBEiVT2Oa81uJFUsoapRK7WLU4iKeGtxD_RHmqtaaVXebaOPEK0BOipWbUhhGgR6OjuTYErJbtkUgoG6Ht2tQx472bVbGG64fNP-_REhlloe5TOjMRPNVZiJ6OQS3vJaIxzKdk5hVyfUUZEn2_gV2msm-G21utTYsh1qZekk1P3V4YQUkTuQQyNNbS15uQW003h3PoPAKLsbxyaEKEiSxTmE6omlxumRGZSA",
+   "widthPx": 1587,
+   "heightPx": 2245,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José",
+     "uri": "https://maps.google.com/maps/contrib/107597861258815841645",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSTXMEk_eIO8Amxwq7JPm8zHnrFDhFLY5El1C1CS5qUzAWn98=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB-9exDg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB-9exDg!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMYQ5NCigZYZMOzb2MNiPWqJT49g8O3FKdFQFhtmG_hBzSLpfnCR4hP6Zjw1mY3I2jPhR0VfjG7P2pGJnKEJWlXx4uYH3WlCdVEqqAiIITx2CmclDdkZAP8iJSwbARvLRenH9Y-rhfMsikDU2q9uCO55H17jcFPYe-w9wVW87sANkMVkXTXzIJjUiL44m9pDDAbm2ttPAsS9aTg3NdnT8w_lpMae7R8WOFluMSx-vtc3qRpSHGaAqTbBz5t8YYJwql5Q1fRYAnX9rDhpUB2GmDy1drEfI_LgEwA_IYxoZnxvwY7JhtEgl3t2JLsEM6Y30LLFqhIt5trzvFX4WaRaXT4TkuUMMe73BH-wSaw4P9vA_1WcI_Hzhe66nuurQXbhasKzupqF-Bkk7Q6h8IuyIVxUNHaTRjB9WDazyuHcCFiJLVU",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José",
+     "uri": "https://maps.google.com/maps/contrib/107597861258815841645",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSTXMEk_eIO8Amxwq7JPm8zHnrFDhFLY5El1C1CS5qUzAWn98=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB--fPwwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB--fPwwE!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMauOcilKbumSnYTW3P7bTccbyNwCfrj_Q5NSJ83eKOIrShzzc4G4YfRvE-oYx-Lu0VwDxZaymPySlQgpiz2ZlllYYNqGywuMmBI32M106Gp_vh55s7rn3t1JHSaEBkkNXil9mjmnqGSgkHEKe7GADttgqBsSpbNQ2JfHXFPeu-hyV_vEZg0nRVL8iCNgSE7iefwSkCSokqaRA-6pZY63hJDO9m5bc8z9CLJg-XyvFcsGyoiQu_o-TYz31AXThaN3HInXNUY31g3Kn-91uSA4d0EhlzWFG4avoAqucfJp8iVcMMGnYMDgv9Xt0lWGOZ7RDkq4IVTg40h7WQfZpR3xcr88ze87YYAju93BhRnq69UJMJuDX7uav-I8cr_tgMa93dwcp6BxVDzQaSeb8--md58D0M0U90CQ6uqWAsO6XfztX8l",
+   "widthPx": 1280,
+   "heightPx": 914,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José",
+     "uri": "https://maps.google.com/maps/contrib/107597861258815841645",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSTXMEk_eIO8Amxwq7JPm8zHnrFDhFLY5El1C1CS5qUzAWn98=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8zvPt0gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8zvPt0gE!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  },
+  {
+   "name": "places/ChIJyykWJuXIBZERMWfbeWetVhw/photos/Aa-ngMaFaZLrp_c1PPxdIya_6jl2ZQ0-ESUnF2ZnckGEDhCFzXneifwSCD7tTFVYfYMWLiiKssBOv-2MpYwgLBWli46MYkSgplVQPWBFaOM3AsQO9bFbhTT9-C1S88XgKbhP_Nu1qCDFHCxrQDbUUgYS4HZpDDTjEgHzWGzCq7CpnDPy7VKjzA0MW4kip25KdbG8TPH8Dx78GcT7VbdC3PiPIe1glX3EdYiuDhmaR5LsyRuKuTvfBzvoE0CyzyYYQoLddRPX4cHLdcCxiD36hMJMPpglHGUfH7VSrSsLJvfyi8SbgfTZYKYrcGQrWYQJKvCITPYlXarNUC9PpowIetkfNrUox30RhnrKg7RoOnqZ3fJJzqUt1bQrAwWPJHVjOzRCmg7nK1fW8xp6KSZU-ItJ28RdF0LSokzYWldZLPeei2zZsA",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San José",
+     "uri": "https://maps.google.com/maps/contrib/107597861258815841645",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSTXMEk_eIO8Amxwq7JPm8zHnrFDhFLY5El1C1CS5qUzAWn98=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICB-9fYUw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICB-9fYUw!2e10!4m2!3m1!1s0x9105c8e5261629cb:0x1c56ad6779db6731"
+  }
+ ]
+}

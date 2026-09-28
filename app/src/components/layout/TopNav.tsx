@@ -69,7 +69,7 @@ export function TopNav() {
       </div>
       <div className="mx-auto flex max-w-7xl items-center gap-2 px-4 pt-2 pb-2.5 sm:px-6">
         <span className="hidden shrink-0 text-xs font-medium text-muted-foreground sm:inline">Distrito</span>
-        <div role="radiogroup" aria-label="Seleccionar distrito" className="flex min-w-0 flex-1 gap-1 overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+        <div role="radiogroup" aria-label="Seleccionar distrito" className="flex min-w-0 flex-1 gap-1 overflow-x-auto [scrollbar-width:none] md:flex-wrap md:overflow-visible [&::-webkit-scrollbar]:hidden">
           {items.map(it => {
             const on = district === it.v
             const r = it.v === 'all' ? 0 : rankOf(it.v)

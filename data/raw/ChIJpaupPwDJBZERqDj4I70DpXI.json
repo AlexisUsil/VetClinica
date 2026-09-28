@@ -1,0 +1,626 @@
+{
+ "id": "ChIJpaupPwDJBZERqDj4I70DpXI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "977 359 444",
+ "internationalPhoneNumber": "+51 977 359 444",
+ "formattedAddress": "Jirón Hermilio Valdizán 110, Jesús María 15084",
+ "addressComponents": [
+  {
+   "longText": "110",
+   "shortText": "110",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Hermilio Valdizán",
+   "shortText": "Jirón Hermilio Valdizán",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Fund Oyague",
+   "shortText": "Fund Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15084",
+   "shortText": "15084",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.078270199999999,
+  "longitude": -77.0561134
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=8261013202368215208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 51,
+ "displayName": {
+  "text": "MuniVet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Hermilio Valdizán 110, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aWVVreFVhV0ZRVEZWQ1VVaGlhbW94TFcxbFkwRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Una buena clínica. Salvaron a nuestro perrito que tenía un ataque de pancreatitis. Nos dejaron estar con él mientras le ponían el gotero. Fueron muy amables y atentos. Muchas gracias.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una buena clínica. Salvaron a nuestro perrito que tenía un ataque de pancreatitis. Nos dejaron estar con él mientras le ponían el gotero. Fueron muy amables y atentos. Muchas gracias.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maks K",
+    "uri": "https://www.google.com/maps/contrib/109018774037477356958/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMbRXCWnZaIif2yPIZn0hm7PHLU4J_C7-uIWDmEVgzVeAPvhX_=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-01-30T01:21:14.233363720Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aWVVreFVhV0ZRVEZWQ1VVaGlhbW94TFcxbFkwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aWVVreFVhV0ZRVEZWQ1VVaGlhbW94TFcxbFkwRRAB!2m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSQ2JuVkhZMjlMZDA1b1NrRjZjMFEwWTFka00wRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi perrita para una operación y desde el primer momento recibimos un trato cálido y profesional. El equipo mostró un compromiso real con su bienestar, explicándome cada paso del procedimiento y cuidándola con cariño antes, durante y después de la cirugía. Se nota que trabajan con vocación y respeto por los animales. Gracias a su atención, mi perrita se está recuperando sin complicaciones y con mucho amor. Recomiendo esta veterinaria a quienes buscan calidad y humanidad en el cuidado de sus mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi perrita para una operación y desde el primer momento recibimos un trato cálido y profesional. El equipo mostró un compromiso real con su bienestar, explicándome cada paso del procedimiento y cuidándola con cariño antes, durante y después de la cirugía. Se nota que trabajan con vocación y respeto por los animales. Gracias a su atención, mi perrita se está recuperando sin complicaciones y con mucho amor. Recomiendo esta veterinaria a quienes buscan calidad y humanidad en el cuidado de sus mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gina De Marzo",
+    "uri": "https://www.google.com/maps/contrib/100825122117364934630/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpXxtiowl2Zyjna52DiIO4nR9-1F5w9mi79wx2-paAUNuQRyXz=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-07-23T16:08:12.573741168Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSQ2JuVkhZMjlMZDA1b1NrRjZjMFEwWTFka00wRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSQ2JuVkhZMjlMZDA1b1NrRjZjMFEwWTFka00wRRAB!2m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTmFUTmtWRFUwVjJaT2FucG1VelEwWkdodWNHYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Atención de primera, el trato y respeto con los pacientes es excelente. Mi Muñeca fue rescatada de las calles y gracias a la doctora Fabiola y todo su equipo que la atendieron con profesionalismo y mucho cariño, mi perrita está recuperada; cada vez que vamos a la vet. Muñeca las reconoce y corre a saludarlas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención de primera, el trato y respeto con los pacientes es excelente. Mi Muñeca fue rescatada de las calles y gracias a la doctora Fabiola y todo su equipo que la atendieron con profesionalismo y mucho cariño, mi perrita está recuperada; cada vez que vamos a la vet. Muñeca las reconoce y corre a saludarlas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Dehysi Erazo",
+    "uri": "https://www.google.com/maps/contrib/110577532616986797082/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJStdlXFt5Dc2puUWaMksToT-qN-CfCTJkuxcB3L9UAtYnpHw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-06-24T22:34:38.020713417Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sTmFUTmtWRFUwVjJaT2FucG1VelEwWkdodWNHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sTmFUTmtWRFUwVjJaT2FucG1VelEwWkdodWNHYxAB!2m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMFpWZFdUVmRmUkhCT2JuSldZV3RmWVdobVJVRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "En el caso de mi gatita no tuve una buena experiencia, la llevamos para que el doctor Gianfranco la evalúe y dé tratamiento para lo cual se hizo todo como él solicitó , y cuando nos la entregaron con un esparadrapo en su patita donde supuestamente la habían canalizado para que pasen sus antibióticos fue mentira .\n\nMi gatita empeoró y tuvimos que optar por dormirla ya que se quejaba demasiado y no podía pararse ,cuando decidimos llevarla a otra veterinaria  al momento de retirar el esparadrapo para que canalizen ni siquiera le habían rapado para poner la vía ,nunca le habían puesto ninguna vía ahí y sin embargo cuando revisaron la otra pata que aún tenía pelos y la raparon  estaba todo morado de tantas pero tantas veces que le incaron y lo peor sin ni siquiera haberle retirado sus pelusas , pésima y mala práctica aparte de todo este horrible momento otra cosa que no entiendo es por qué no dejaron que entre a estar al lado de ella cuando realizaban ese procedimiento, muy equipado y todo pero mala práctica 😞",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En el caso de mi gatita no tuve una buena experiencia, la llevamos para que el doctor Gianfranco la evalúe y dé tratamiento para lo cual se hizo todo como él solicitó , y cuando nos la entregaron con un esparadrapo en su patita donde supuestamente la habían canalizado para que pasen sus antibióticos fue mentira .\n\nMi gatita empeoró y tuvimos que optar por dormirla ya que se quejaba demasiado y no podía pararse ,cuando decidimos llevarla a otra veterinaria  al momento de retirar el esparadrapo para que canalizen ni siquiera le habían rapado para poner la vía ,nunca le habían puesto ninguna vía ahí y sin embargo cuando revisaron la otra pata que aún tenía pelos y la raparon  estaba todo morado de tantas pero tantas veces que le incaron y lo peor sin ni siquiera haberle retirado sus pelusas , pésima y mala práctica aparte de todo este horrible momento otra cosa que no entiendo es por qué no dejaron que entre a estar al lado de ella cuando realizaban ese procedimiento, muy equipado y todo pero mala práctica 😞",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leleina Padilla",
+    "uri": "https://www.google.com/maps/contrib/105727634501203429455/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA0IdY1QdWO1YxKF_jgtcLmb1shWYTCkXoMfQFZx7XQ5XYkA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-14T02:55:44.937804134Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMFpWZFdUVmRmUkhCT2JuSldZV3RmWVdobVJVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMFpWZFdUVmRmUkhCT2JuSldZV3RmWVdobVJVRRAB!2m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oV05tbGtkRmQ0YW1Wb2RFbHpVSEpZY2xWVVVGRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta la atención que le dan a mi perrito desde la primera vez que lo llevé. Me brindan confianza y su horario de atención es perfecto. Además, el dueño de la veterinaria también es súper chevere! 🐶",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta la atención que le dan a mi perrito desde la primera vez que lo llevé. Me brindan confianza y su horario de atención es perfecto. Además, el dueño de la veterinaria también es súper chevere! 🐶",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeria Zapata Isasi",
+    "uri": "https://www.google.com/maps/contrib/113773287008030212781/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUO4bHe5iUeJwtwcK4CkhI2WXiocwi4jLrDa80Mn2Z2BGm9BIzuHQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-08-11T23:58:47.195886796Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oV05tbGtkRmQ0YW1Wb2RFbHpVSEpZY2xWVVVGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oV05tbGtkRmQ0YW1Wb2RFbHpVSEpZY2xWVVVGRRAB!2m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMbzdEJlY-M4P7WYnbEFL5U0c2HU_SYCpX6rwSSx4W9_kzLFfv36vLBgQ2VIm6BoUcKjqWqaoowdQ0B5CPjPjjFj7frgrNMohpKSWBhrOZaEK-D6uB6H2Cn-VQoBVV3uY8BdmrwPXGFW_qEMBY5oJiDasjg-tj1ZOe2VEcGGtiLa-_XnO0t-UZcHSzOYjV68ba4ca61ZDZ4Y9oojcyOH0krdwMrizIQSspEbug7lDYCdSKQgHd9HpZD9MZ0Z2WwyNrl8WQbEmH24VpkP73zm5GhAKhVyyYPiXgPwaO8UMtbu1WdLQzNMHfJflzapsDWae66kjd8oWD4PMAwvKnoXx4cOFGbCS_N8PuFgr4UqrnPWs1qKvYeeq9G4jXFdbuycmYCb9DU8Q-3ME2Nj4HxMEtE6rUuV",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Orlando Roca",
+     "uri": "https://maps.google.com/maps/contrib/111959813278701752176",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFcg9CzJTUjPxd6W8Wb08oZIlmtTzBsXFv14JquQKugCA0aKU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDtn8Km0gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDtn8Km0gE!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMaRYTGVjDyZjTlhaKjR281-i0mwumVXSrCuUGtnHRn7oLVUAwCvl4GAkrLFJfY3Vt9rk0fhxanRc55TC-uSEoDOpXIr-4FwtZw6n-OHiXdOCsdcMgHBoW5kc-4pD9dIvt3vma0bDwFOhWdiafm5SnjiPYomlC4XojKaWSzt_9hc2fnI5VJs6gtxny1dV8vQLz5tnh02VqdDgrmQhc0OWsHcKcCVOQJUYcW_WT-FyzoYk6uP_oW8e4DpefRPIn4lDeRqiIiD_QstulS7dw6Ak8-mDo8B0VqbCZu-pe_41WmhCIK04aUmNlSUR3eR5XqNmrEBXTg5EtbJ3dE0a2hmMI80MAR5qCqtPTFe2XN-GvEW197CcJWqkYqBd9iCZvrQjMduj5HLBhomO7Siijvhv1z46mGBhL_XLDL0Q-QKf0KXTQ",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Maks K",
+     "uri": "https://maps.google.com/maps/contrib/109018774037477356958",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMbRXCWnZaIif2yPIZn0hm7PHLU4J_C7-uIWDmEVgzVeAPvhX_=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDdquW12aJD9vANJ5mOHqTk&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDdquW12aJD9vANJ5mOHqTk!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMb3uBghhKozHze6gmrDchYVF1FQ1GE_qONYhndJGgTHWRdNEnTZGY2Gg10BetFGtrMXZF7VGQ6vj07uUz8WUFedajNV-LoRPDENg8LPcKtlVZf-IKcYFeBjHEV_Xkz0WOj0cyXtx3tysMjHJEr6aueqxRB1pXNLsaTaHMSeNKTXKeKVRhiDZpVKS-7wQ-aObJF6Hhv5AraMlaJ4C2BTAP3RUyHvLi-baBa5vhEsaXmmqpebbigjiUvzXAkrS6K3nJ8ATWhW9pxWkyNmwVKdIxZIJSKTBwOaLCZJ-57GP11m4iSftiZjHT-B0QIG0dP5rLEtckAxvqHblmqG4xNSJZimROfVbBxVJ4cAMnSkQ0enhllTj9sYXv7enT9-LdoMSkYfL2kJ5wq4U7orYDpn6xnWPOll",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Alexander Seminario Koosau (AlxFua)",
+     "uri": "https://maps.google.com/maps/contrib/113673340342934935936",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYTZ1Htx_xgEND7qUb1y79H2d_aq49Z_iOmaf2znqH0y9FJp3S=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDNx6DO7wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNx6DO7wE!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMZVm1wnmy7NmDVNkoh3EhboKfAanUV_BFnRwJkFYt3IGm3ACsDsc4XLx6d2vRvd6KQW72E5BaxBcLdzq4gOX_OUIov4fddzf9WdpqBL-Dja5xi94PT_C6jz5r6gwmZ6-2aFKLvO4A-Xk_dKxTdISzXKXVi7VYFB-pAXNNOGLr7hVX0bcqXoqCPN637yCPEufOaCQ1Y8pLpcxKIvRWhbUalhhW1lFMlHoDzeKcaxx2eSJVZbw0mRfukvxooYntt3WxGebmCCbnzrtQfvJPtTHwglTVOO5ef6Ko9Fwvlti-j41hse2fYSafcEPe69FcmXW4ihDJls2hyQxzDGYBTZVKeTY1-bpQi4zuwlh91ErxcZJWM31suo5ChvgNK80bJEqWCJsoq5EN5DxkSWWSmZeqqEpkg",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Alexander Seminario Koosau (AlxFua)",
+     "uri": "https://maps.google.com/maps/contrib/113673340342934935936",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYTZ1Htx_xgEND7qUb1y79H2d_aq49Z_iOmaf2znqH0y9FJp3S=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDNx6DOHw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDNx6DOHw!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMbSPsFewhUbSAcnOMCUyxBicgrd_fHdEDLOHZo9q8fSBprkh_bNRE6rR44IaJVBRBerhd4GLcUyonigv5NszT4r6NgHJSFd74YsHQxoyIh6B5IyJw1mbLWQLVcoC9KAD4BbdsmG5QDj2zfmgKb_O0yni_SRynhrKtwBSViSu5ROeFqhJ08jcuBZQs7Wf9etURUsBqzD41AciTKyuZiuaGMNSuEn1Fxa-CiLz49JXhr4fC3L6eQ_Yr_ei7ZY5PvaWLkxQ_S-PZm7R4ErVZyiuuAXY7PpQVhnjwPRAFjWbExEbO-iel_JIvUgppxExUDrLHwdHVS-5Y_q0hq-kxpUInEkHuenGj86OmXGu3T9ZiHqa9rmClLMebeTj0G9Ptp5i0XBz09xu_ZYgbn54WclFImXg9fp",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Orlando Roca",
+     "uri": "https://maps.google.com/maps/contrib/111959813278701752176",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFcg9CzJTUjPxd6W8Wb08oZIlmtTzBsXFv14JquQKugCA0aKU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdqKjQngE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdqKjQngE!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMank2dXJoWBiz4lhmdjjdFBC7pevrQwqVITitXD4sNR7t4BYkoZSzshbfJN9cCXvYHlO90cqZw9TC7xfTb7o9Uv9gl74--lmNZK88XCEpk8NRNPAgXQ4BM9uwU9Rc3j9HjNpq_UhJUZno6aZ7Zjdh2wv1CX0V-m9Nb8VZirrEfKR4--xM3tR_xxK2ZPCTA_aip-HUcEQpzD3TMosYJIKSN1ZjEVkpCi1Kw0Kk8Id8p4w8gISVR7d30snpjyil9AVWG-t20TTHaVaDtXibX_oyVJ0AziJfmD8st0SDr4zyO-_tGtyJJuT3qr3U3-PxGYtCUiYXfrlbva5RXGHJN_3J4zp3OHjvRtotY8XpyQozMv67WNLAc334JRfVJOozhI5hU-qA1qNwvXC0zQbl_t8BB39g",
+   "widthPx": 3264,
+   "heightPx": 1836,
+   "authorAttributions": [
+    {
+     "displayName": "Patricia Palomino Pacch.",
+     "uri": "https://maps.google.com/maps/contrib/102562073277482005876",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOg8vAb318IOOyWMJU-mTqjaWBAG9d4qRtlRwCkDFWCXL9BZZ7=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDH9IWhLg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDH9IWhLg!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMaX7I3WOx6hr3xjrhOCa5gdDwFo238zziNAK69DKQ1DdI5ec2bUFec2ICA2QwS4smEwGJ2JzJ9RUKAl7-xryjHzV3sW6yk7rIxRIdjL603jPR2EnxoTsLg5WT6DsSGMqU08MUboyq4yjz6fYmkA-cA7PM2HEPiwpb6gkuUHjQXNrHZ72jTReHKU7teinr4s3LBPv4f1AwQqa8mkWmbFVCCSAz-tf_sfJznLu7pCWHpJqYPkGbpXIzICXmCHhKrSpCe9Nu3SKzmm4aOYu1wEcerAUk7P9v9rWjl0pTx_Qnl_hhi8CZVuW_9D1vp_i6pRcCmP_eYQusr_I8efiMMVdTh8Hti_Sbp_yAo11cRsmX2_w9CMeNjPNFA7ezWiziTyNfOOGmoaq5B-rQLP851lSIjshC7jb3qAD5Zbtni3sTqr9w",
+   "widthPx": 738,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Dehysi Erazo",
+     "uri": "https://maps.google.com/maps/contrib/110577532616986797082",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJStdlXFt5Dc2puUWaMksToT-qN-CfCTJkuxcB3L9UAtYnpHw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC74E0EpsDb1wWTed3SE0eA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC74E0EpsDb1wWTed3SE0eA!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMYmwKoIYuS90ZnlYL3Co3S_fYUqsiwTLjPvxfIas7XU6xP6LPPpVjFmKNT7EcDNMnB9xrd4LlKdgqzUoI0guYHL2xPDY7_A4ylM_hudX7txjTH9D-pEZTNBAfI_0L8sUQ86fCJiTYyqXBAVXcJZ8lCmcoctbFUnT8e4NZh4LimMKTbh9KfPxiQ1wX257Z98rPzskbA8a47LgbbJPuzCIxY59ntF8S10tOcG8mGPg3Y_hGKxS-ljMkkgJEyLTMSSYPN3Tkqaym45WDVzk0cm5dAn06gkkjfmY2QLT23FJzj9rTDytCRPDX6SvCkJ1-uNmB9Nqg1DgZOeCa-MjTmpBCShkI0tuBZgK9ssi701FW36DiiBcs_He66oZgVwVyT6lrVJs599i3vH1QlwQdebmahy8OZ1VyPCe87OcY1yRHhFig",
+   "widthPx": 2252,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Gina De Marzo",
+     "uri": "https://maps.google.com/maps/contrib/100825122117364934630",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpXxtiowl2Zyjna52DiIO4nR9-1F5w9mi79wx2-paAUNuQRyXz=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDsng6iapyPHcUb4lkvtb2i&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDsng6iapyPHcUb4lkvtb2i!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMYMvn4CZJx6ZeeX3bgCbOq_Onhe7KtNjo3uJW2yP9KCfjxp7mm7f6BapjS-SsYiiNSZjW-qAD-TjiEzqtOtQwHLmgKn1XSosMK00ynUribiAesRMedB-TbVZAln60krFuQPtYsUBD3Umbh8RsSQOgZd51gTz_N6gHualkUQT2sE6-RXuwkAaixkGCXQopUXV5s57rkQWs_JXAaAoMbYoc2x3DEjylM59e8lj35-Y-2pZGyT0DOiZxMDO1SAMotO_dv8mWrN8gxV7-cLTdZdfuma7ggR65Ldt5PQjAoK4UApWI4oKJ9aZXJ0PPAmxfjJurSASNtSSs4wOTpy5mPtaSPsmTdsup6cguJOxn6pB53XHwJfzESt5z0FLmSt01zyJjmbeYzjtLbSi433wbKB6Igv5BY",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Orlando Roca",
+     "uri": "https://maps.google.com/maps/contrib/111959813278701752176",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFcg9CzJTUjPxd6W8Wb08oZIlmtTzBsXFv14JquQKugCA0aKU=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdqKjQXg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdqKjQXg!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  },
+  {
+   "name": "places/ChIJpaupPwDJBZERqDj4I70DpXI/photos/Aa-ngMZgsWGvH252uDwUqT3N2sVfHVdbsmAJ_Y3Lk6v3eoMIjIpnYw3Atb3WCLHAr5viVvWV0FgrzcwBaGSPqWVNhbUhmOFh0qPcvdsxB3Uozh7kN-u72BJqRIbA8XW6LXfm8zXZ0BbtYZJlQggx7OT2kgnpRsCRw-MT15o4QaG_Ra8JVa0-iYFGKMyAEHT5ptmtoH3kIKh4P5iOzM00aw8q4TybziOW7gVDI0FgB302cTP8szYSDJLsGlXlygCk6jw8ZfZghZ5iTxKee0NkTDlEvBPQZl5TweXNSFNy1fz3GmCS-TYTlCXZOr9F9mZBIk0bkANvTvX_H5sA0fEyMdRwwXZBPGl_MOnlVCJ3__7fnkYmd8-xqCb1o1QVMDzFQ5WBCwFg4KqcwnahbrUU3M7DOv5uWAo",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Jose wilmer Silupu zapata",
+     "uri": "https://maps.google.com/maps/contrib/115701643072649238488",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWxwoevqtPhoJ_j6B_AbkxtUYrjKvsK65iEUg4p5R0JGnxpug33A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICdkKbmRA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICdkKbmRA!2e10!4m2!3m1!1s0x9105c9003fa9aba5:0x72a503bd23f838a8"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

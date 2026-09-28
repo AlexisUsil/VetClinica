@@ -1,0 +1,441 @@
+{
+ "id": "ChIJPU5T-wvJBZERJtdoJyH31eA",
+ "types": [
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6478409",
+ "internationalPhoneNumber": "+51 1 6478409",
+ "formattedAddress": "Jorge Castro Harrison 368, San Miguel 15086",
+ "addressComponents": [
+  {
+   "longText": "368",
+   "shortText": "368",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jorge Castro Harrison",
+   "shortText": "Jorge Castro Harrison",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Miguelito",
+   "shortText": "San Miguelito",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Miguel",
+   "shortText": "San Miguel",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15086",
+   "shortText": "15086",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0827361,
+  "longitude": -77.0739767
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=16201126956302391078&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 28,
+ "displayName": {
+  "text": "Dogguie Vet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jorge Castro Harrison 368, San Miguel",
+ "reviews": [
+  {
+   "name": "places/ChIJPU5T-wvJBZERJtdoJyH31eA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOS1QyVnZibHA1T0dkelVYTlpVR2hVTlhsMlVFRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "Mi experiencia con Dogguie Vet fue muy decepcionante.\n\nLlevé a mi perrihija Kira para un servicio de baño. Durante el proceso me informaron que tenía unas motitas detrás de las orejas y en las patas traseras y que, para retirarlas, tendrían que cortarle el pelo con un costo adicional de S/15.\n\nAnte esto, respondí claramente por WhatsApp: “buenas no la corten nada” y posteriormente indiqué que jamás le habían cortado el pelo.\n\nA pesar de haber expresado de manera explícita que no autorizaba el corte, procedieron a cortarle el pelo. Recién después me enviaron un video explicando que las motitas estaban muy pegadas y que era necesario cortarlas.\n\nEntiendo perfectamente que pueda existir un nudo que sea difícil o incluso imposible de desenredar, pero considero que, si el propietario dice expresamente que NO autoriza el corte, corresponde detener el procedimiento y pedir autorización antes de hacerlo.\n\nNo estoy reclamando porque hayan encontrado motitas; estoy reclamando porque se realizó un procedimiento que expresamente indiqué que no quería.\n\nTengo la conversación completa de WhatsApp y los mensajes donde consta lo sucedido.\n\nEspero que el establecimiento tome esto como una oportunidad para mejorar sus protocolos y, sobre todo, para respetar la autorización de los propietarios antes de realizar modificaciones al servicio solicitado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi experiencia con Dogguie Vet fue muy decepcionante.\n\nLlevé a mi perrihija Kira para un servicio de baño. Durante el proceso me informaron que tenía unas motitas detrás de las orejas y en las patas traseras y que, para retirarlas, tendrían que cortarle el pelo con un costo adicional de S/15.\n\nAnte esto, respondí claramente por WhatsApp: “buenas no la corten nada” y posteriormente indiqué que jamás le habían cortado el pelo.\n\nA pesar de haber expresado de manera explícita que no autorizaba el corte, procedieron a cortarle el pelo. Recién después me enviaron un video explicando que las motitas estaban muy pegadas y que era necesario cortarlas.\n\nEntiendo perfectamente que pueda existir un nudo que sea difícil o incluso imposible de desenredar, pero considero que, si el propietario dice expresamente que NO autoriza el corte, corresponde detener el procedimiento y pedir autorización antes de hacerlo.\n\nNo estoy reclamando porque hayan encontrado motitas; estoy reclamando porque se realizó un procedimiento que expresamente indiqué que no quería.\n\nTengo la conversación completa de WhatsApp y los mensajes donde consta lo sucedido.\n\nEspero que el establecimiento tome esto como una oportunidad para mejorar sus protocolos y, sobre todo, para respetar la autorización de los propietarios antes de realizar modificaciones al servicio solicitado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Ausejo",
+    "uri": "https://www.google.com/maps/contrib/116755726614638731107/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWu0WtDXsYaJylM35eaiXkRAmrhhHJRezTnyCEcuOCtHJfZhvSozg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-13T16:42:09.304735256Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOS1QyVnZibHA1T0dkelVYTlpVR2hVTlhsMlVFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOS1QyVnZibHA1T0dkelVYTlpVR2hVTlhsMlVFRRAB!2m1!1s0x9105c90bfb534e3d:0xe0d5f7212768d726"
+  },
+  {
+   "name": "places/ChIJPU5T-wvJBZERJtdoJyH31eA/reviews/ChdDSUhNMG9nS0VJQ0FnSURENzdPSGdBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, de todas la veces que mi engreído recibió atención, siempre muy atentos a sus alergias y a sus síntomas, además de estar pendientes del seguimiento de sus medicamentos. 100% recomendado!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, de todas la veces que mi engreído recibió atención, siempre muy atentos a sus alergias y a sus síntomas, además de estar pendientes del seguimiento de sus medicamentos. 100% recomendado!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Julio Vera",
+    "uri": "https://www.google.com/maps/contrib/115753285632690973466/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXllvcEebQf1q-SRlqQC00ZtgFuEpoaJ01yQKkQ0_LPK47l0bk7Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-16T02:52:51.628283Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURENzdPSGdBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURENzdPSGdBRRAB!2m1!1s0x9105c90bfb534e3d:0xe0d5f7212768d726"
+  },
+  {
+   "name": "places/ChIJPU5T-wvJBZERJtdoJyH31eA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gc01FaFBkMmh0YkZSVWJHWnVkMkZCVGxCSFdVRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Las doctoras son muy profesionales y dedicadas, siempre llevo a mis bebés atenderlas en consultas y vacunación",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Las doctoras son muy profesionales y dedicadas, siempre llevo a mis bebés atenderlas en consultas y vacunación",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melissa Alvarado",
+    "uri": "https://www.google.com/maps/contrib/113742663223762018522/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkiLXNu1sAafdahpET9qc5o-TieBek8vEXKm0hfDmPTrVUrQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-12-08T16:12:36.209289414Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gc01FaFBkMmh0YkZSVWJHWnVkMkZCVGxCSFdVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gc01FaFBkMmh0YkZSVWJHWnVkMkZCVGxCSFdVRRAB!2m1!1s0x9105c90bfb534e3d:0xe0d5f7212768d726"
+  },
+  {
+   "name": "places/ChIJPU5T-wvJBZERJtdoJyH31eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUREai0tU0dBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Encantada con el trato y atención a mi perrita sin falta todos los meses la llevo a que la bañen y le den su buen corte porque se que están en las mejores manos los recomiendo 🥰",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Encantada con el trato y atención a mi perrita sin falta todos los meses la llevo a que la bañen y le den su buen corte porque se que están en las mejores manos los recomiendo 🥰",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stefany Mejia",
+    "uri": "https://www.google.com/maps/contrib/102163217172728907404/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkzHwNTYQC2L-F90lUHfHMxstVXOHBKkHLpfwGIT6wIgvOJw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-15T19:23:02.105580Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREai0tU0dBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREai0tU0dBEAE!2m1!1s0x9105c90bfb534e3d:0xe0d5f7212768d726"
+  },
+  {
+   "name": "places/ChIJPU5T-wvJBZERJtdoJyH31eA/reviews/ChZDSUhNMG9nS0VJQ0FnSUREajl1QUZREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria muy recomendable tienen personas muy profesionales en sus puestos excelentes cortes trataron a mi perrito genial 100 % recomendable !!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria muy recomendable tienen personas muy profesionales en sus puestos excelentes cortes trataron a mi perrito genial 100 % recomendable !!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "kenneth leon",
+    "uri": "https://www.google.com/maps/contrib/110436031332254291398/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSG_qSTagc1kSXX1FvngVq5npVLfLtx0E4-jby0FrO8A6Ro04N=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-15T19:07:56.865929Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREajl1QUZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREajl1QUZREAE!2m1!1s0x9105c90bfb534e3d:0xe0d5f7212768d726"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}
