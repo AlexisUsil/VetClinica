@@ -1,0 +1,584 @@
+{
+ "id": "ChIJHanJy-PHBZERrSbaoL26zMk",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2990184",
+ "internationalPhoneNumber": "+51 1 2990184",
+ "formattedAddress": "Avenida Principal 296, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "296",
+   "shortText": "296",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Principal",
+   "shortText": "Avenida Principal",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb el Reducto",
+   "shortText": "Urb el Reducto",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.113681099999999,
+  "longitude": -77.0072392
+ },
+ "rating": 3.7,
+ "googleMapsUri": "https://maps.google.com/?cid=14541202620482725549&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://es-la.facebook.com/VeterinariaMascolas/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 22,
+ "displayName": {
+  "text": "Mascolas Centro Veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:30",
+   "martes: 9:30–18:30",
+   "miércoles: 9:30–18:30",
+   "jueves: 9:30–18:30",
+   "viernes: 9:30–18:30",
+   "sábado: 9:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Avenida Principal 296, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SWWIwWnFXVUp3Vm5GZlVHSnZiRUYxWWxwSGIwRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente sitio para ir a bañar a nuestras mascotas. Buenos precios y lo mejor es que puedes esperar y ver mientras alistan a tu perrito. Eso es importante para que estén más tranquilos en algunos casos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente sitio para ir a bañar a nuestras mascotas. Buenos precios y lo mejor es que puedes esperar y ver mientras alistan a tu perrito. Eso es importante para que estén más tranquilos en algunos casos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leonardo Barrios",
+    "uri": "https://www.google.com/maps/contrib/109727030638875875866/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNFe5s9C5i0kCL-uKdGIY9fLOOkne4tz1471ET6lNHDLJJF9VD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-31T03:41:49.014391538Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SWWIwWnFXVUp3Vm5GZlVHSnZiRUYxWWxwSGIwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SWWIwWnFXVUp3Vm5GZlVHSnZiRUYxWWxwSGIwRRAB!2m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3aHA2WEJREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Más de 1 año llevo a mi canhijo ya lo conocen xq no le gusta q le corten la barba y lo tratan muy bien",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Más de 1 año llevo a mi canhijo ya lo conocen xq no le gusta q le corten la barba y lo tratan muy bien",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sandro Cavero",
+    "uri": "https://www.google.com/maps/contrib/114606166076929563734/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1612bgwV5R46evMBeAKXdPsICaEQXfCoemPK_dyO8drdqde7g=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-08-23T19:57:02.253817Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3aHA2WEJREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3aHA2WEJREAE!2m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/reviews/ChZDSUhNMG9nS0VJQ0FnSURMblppSVlBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio. Agendas cita pero no respetan el horario que te dan. En mi caso me dieron cita para las 11:00am y luego de 2h fui a recogerla y aún no la habían cortado, me pidieron esperar hasta las 3pm. ¿En qué mundo podrías dejar a tu hijo de 4 patas encerrado 4h? Eso se llama maltrato animal. Cero recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio. Agendas cita pero no respetan el horario que te dan. En mi caso me dieron cita para las 11:00am y luego de 2h fui a recogerla y aún no la habían cortado, me pidieron esperar hasta las 3pm. ¿En qué mundo podrías dejar a tu hijo de 4 patas encerrado 4h? Eso se llama maltrato animal. Cero recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sue Ying Wong",
+    "uri": "https://www.google.com/maps/contrib/100752207190084700118/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqm43-NCHpe-tTVOyY-aXi-cTw01M4sxpNIqFmvEJjuiKtFs9C=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-06-29T18:32:41.234438Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMblppSVlBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMblppSVlBEAE!2m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYaUs3OFV3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Coordiné por el whatsapp el servicio de corte y baño. Me presenté puntual y la señorita que atendía se mostró indispuesta e inclusive le dijo un apodo ofensivo a mi perro. Excusándose que pensaba que se trataba de otro perro parecido. No quiso atender a mi mascota a pesar que ya había agendado. Pésima comunicación y poco servicio al cliente. Fui en vano hasta su local.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Coordiné por el whatsapp el servicio de corte y baño. Me presenté puntual y la señorita que atendía se mostró indispuesta e inclusive le dijo un apodo ofensivo a mi perro. Excusándose que pensaba que se trataba de otro perro parecido. No quiso atender a mi mascota a pesar que ya había agendado. Pésima comunicación y poco servicio al cliente. Fui en vano hasta su local.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diego Zapata",
+    "uri": "https://www.google.com/maps/contrib/106244711535483435011/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWGccvVOlOANKlOxnjtRkg691Tk7QKDg0zxJQvvDLyUlAd9Fk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-10-12T16:05:47.421787Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYaUs3OFV3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYaUs3OFV3EAE!2m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/reviews/ChdDSUhNMG9nS0VJQ0FnSURGdU9ETHV3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Me dieron cita para las 10:30 am y llegué a las 1:15pm y seguía en su jaula esperando el baño, cómo es posible que los hagan esperar tanto se supone que para eso se agendan las citas y lo peor es que se le consulta a la señorita si va a demorar sino la traigo después para esto.\nNo regresaría definitivamente, es una falta de respeto y empatía con mi perrita.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me dieron cita para las 10:30 am y llegué a las 1:15pm y seguía en su jaula esperando el baño, cómo es posible que los hagan esperar tanto se supone que para eso se agendan las citas y lo peor es que se le consulta a la señorita si va a demorar sino la traigo después para esto.\nNo regresaría definitivamente, es una falta de respeto y empatía con mi perrita.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gianella Mestanza",
+    "uri": "https://www.google.com/maps/contrib/112061823616679885049/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzKWhaoPoMDA4Pl6GCp5fJqQ6jFViPxOxjL2TiOwexDLTahRSk=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-04T19:49:54.222742Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGdU9ETHV3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGdU9ETHV3RRAB!2m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMbBNsz0DDXdlLdb86IosKKVVdorwFwxuTwGrVSIaAqig2_2jXylY91_l7MC8uVgU5x7Ybr5b0_grPGh5R0-oVB38hdGjNm_KcEEyXL3wGovSwWTZV2DsMOFNvsoqi-UieoZRIk7kt4dZdY6y775uDmsYrl8t9_xN6lVZnXQwohO4hRCowkXRq1Ifp7po5PyOnqRn0iIVFT77QOBu5KWu_9bUUr-yF65GHmKCUvM7BH5zKrE9scTaoP_pjAOG6N0rTLK0NWzCoJJU2TBf07W0rNk8U7KIzJRFETvLF8iCPLSuyfQsKs7hWluiC5RjdFveifl9IpSV0oKgl6y48lnhgsfvR2QbWx7r8D9Giw1sgrtUwydEfCCwMB1AP0fvXS6DhGWEvatMujEqEUUyECtC_C0QNsMUcE",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Mascolas Centro Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109743536240276656834",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgoafLCz7_cK6k8nFThhrzJUBS51pXhogPv-RWTjSH0DVJXes=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9v9nDrQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9v9nDrQE!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMbJu24TL4xeB1b_PHx33UxeWlemFWL8BTLkVytJ64TPpElRi4NM2U9YvthrnNAmSv2gR0KtcoDMt1Xj4UUbcqvkxxm00oY6QsfqySE8AhpD6cwNOEKEH3dTN9yj7SWMCnmHGZ3-al2zp979TVyhIJCUldH4L8aAEmdb5qdshsjIoVFQlPnM78U96R04T-_mA9l_yxMsFZ_cXI5CnZnjbJnIqtR6uhEEI5MumlqAydOT96yiHLNiZoNRhSLzSU20BhcG_nIXPx7MTwC4pQiVUEt3gJUgcNTsEUHgS66aRzaVzQXC8mBohl4zRLnRqmYtftyvO8BYwdSs3oTifltRD-0GE9BvmQZp1KwT6kNaPxJr4TKcWwJiwyZGaYxx2wCbadLFPJIV9oLseywqlItlKVpmZes",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Adolfo Emigdio Arango Peña",
+     "uri": "https://maps.google.com/maps/contrib/107425410313172585531",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyUQ4GxWTjbOY8CZxgatYiBiqHQnTYvO8X3TSdmgOhGhJ-ELeo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkrr2ZCw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrr2ZCw!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMY2iO5cfuInbnT1k7AmkOGA6tLQFd-VI12FSjbw_-QsuH2Qy8dqbCqDqi_umfCXVFi_wmLz5QaNrGqmoL5_ZPfvKtXOX7owUrH2AintKewCwHX6eUclhK7vWSSGmf4xFrgjvVebph8bcOnk2dj5h4Xyt8PbynYTmtmEbLKJKZetynbpAKG4sRvH8WIofa8t-9J8XNBN4Px9y_pjV9YDE4X5t-wuUPfaLf3I-lJR-Lykwzetef6CTfHw7dd84naru7AuzzifDZ9MWhMvpMmPLQNUS4tuoxeAXKmk-KUogldUXSeNDVEnXFOTw_G91rUMI-mPWZKxF3MvsGvYQF_-hp_TY_oc1kMNpd_ObSwHeCYvqZH-xg23nbTyQ8QpHQV7l7k3qC0oIMTX-neMFBU1aX_hDw",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pilar Chu Castillejo",
+     "uri": "https://maps.google.com/maps/contrib/101732839921970196006",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkIYkAKxtu4-QzrjwbXayMJmYBIKMonOK5AvZZcXwirUIv73S6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICHrdO2CA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICHrdO2CA!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMbtF4YwmlyG3YQqqPcCAmZuWuktRiJycGerUpJhQB5gSJfJpA7loLq1t27EiXTrAdvyQ0o_Y5m9OIaGAYY4GqjUkrrln1ijDxQLvi2ZQYbJCpEN2q9cMxSOwVj6SCSXLaN56hlctrz5xnQ53ba-PWwb7yIgI-TFCXKoUqeAQeFkbf8grJnI72f4UiWs_spFYEI8NCeQgQsiFIS7r2CTb4VW1VyyCW2EukYB_tmLYBv0juBUEg56aq__V6FFTe6WWf8YZ5rX7r1ToGKX15vnhknBj5MvE5b1a1bjRrfQjRqQmj22ICrjMCwfixSfnSdL1ZwNiQXKGsbCTtcl00mWNqpBNOiBDXlfxCAk18FPuJXUZTA5MG4iwp3PtYKYSSzXh_Zr8GihDilYhgW9u9I56MvZX8s",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Adolfo Emigdio Arango Peña",
+     "uri": "https://maps.google.com/maps/contrib/107425410313172585531",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyUQ4GxWTjbOY8CZxgatYiBiqHQnTYvO8X3TSdmgOhGhJ-ELeo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkrr2ZGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrr2ZGw!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMZLMOGNpY82quos-YwspIXsXBXqT6km9FrGBKFNjVuzGG51mvmAXtdW_ll9ziKSCSCTlmRjGsWXZH9fTZJJnhS7CQC7AHnfPQpDrSrOIFZo_cQYAAshrb-oEm622kJiCpH2t3IYglCFMXRc7Vw4ShkkAWYJakOEHiE-W30XnDeFI5xFsBjffaKeQdfzj8reSPHPqEQsEV_qDGWAw4w6b7VjcymH-PePQVJ6Lsmaj0BGZnixbKceyMAaIS6A965ZHwMybtqtMEhTIjwXDbMUw3NVUUcMM2UlVegVSSbWKzx8wt56zoDlgy9LzqzXeaxBJEkJfkjWGAzycbwJD9Hbnmm1RJUnqh2gIVAKKIva0wOKmAxwUdjfbTvYFzbNwbVLdBTDB_wLGOiPkX6oDtOQat-d70ALtug",
+   "widthPx": 603,
+   "heightPx": 517,
+   "authorAttributions": [
+    {
+     "displayName": "Sandro Cavero",
+     "uri": "https://maps.google.com/maps/contrib/114606166076929563734",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1612bgwV5R46evMBeAKXdPsICaEQXfCoemPK_dyO8drdqde7g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7hp6XxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7hp6XxQE!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMbFIkVUhp5GuAqhgsrK3UADHrg4BlQkHMPFjyCBfR-5NU-YEKdlyjTmsy8ojQSv67CwDbbqlTSR70FZiTI3dzP9QS4Od15iuXk5blMHazslfOqBv9DYdETvOpM_nuqSMWMfKUp4CMLeneBU1QJBfImwyR8iaIcIHxpuU6Y-_R6eI4lPA2rB4MMf8noLuncyN-v5whbB4Sa0PnrC7kFNrc0c0FkVOzG8S8IZMGUoHfdX_ep_qO_LXVB5q_TWVRHN57ZShMGtrhqgfI9Nh4-wmMwHA2MWwtEDg9TOwkvngRuyfsx-0qYcj0qCgcz38F5HBgRuUvZ-T1HT6KkLQ47mbuplRSx4nGad7_WSoAgIdrvFi_AEcsulp3B7kjEmhaPJbAvs8SGUMzgXad-m9QyreJmP0qn6",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Adolfo Emigdio Arango Peña",
+     "uri": "https://maps.google.com/maps/contrib/107425410313172585531",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyUQ4GxWTjbOY8CZxgatYiBiqHQnTYvO8X3TSdmgOhGhJ-ELeo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkrr2ZuwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrr2ZuwE!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMYnbyCMZq7U4SHPmHQBT4Pp01UbWBoC0KyTRlfQZwAWbyXNPa5cE57R-t4OgkoxaMxM82yjKMwGqvMfhAyYtGupS7NMtZX-KRE9Hl0sZKXkCgF2slxuESQx6hz0hOq_zfra10qHzEsNbu-Arp3NGgx9hzua58L8v91YPxg6Fh12O_HYaNJkWE4xf5AlBPjSXkcuF4k2-jXGTqpIkA1QuqR2sLkxYtW_zTkZiRIZz17CxLxsJvI6gJTfwRo_bIACjfBMPX2iWYxEpyDAhhcAO8Kre3e2LwW7dt03FmdyMKaRHO0987aEkgMld_HYpBAiwH83dHm1jwoqr7FfsO1zmmxxBUBVnhQ8s1Ieh0Ncid9GqXiqfLxMAsYwLB6eexIclxC_279BwP_Oh0LTQog2PcdGqk4Teyg",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Adolfo Emigdio Arango Peña",
+     "uri": "https://maps.google.com/maps/contrib/107425410313172585531",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyUQ4GxWTjbOY8CZxgatYiBiqHQnTYvO8X3TSdmgOhGhJ-ELeo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkrr2ZqwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkrr2ZqwE!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMZdXnstyFsDbSvjJPyJ7_PKd2bJvPLZVmaAJAbu9IKp-xXa9gKnBXnlu8G42K7TGFMcrKPaWkcJtcEOs3sf_w0xneTopf-skPjtS0E7FTU8xtdF1uXfnkC2sU5I4JVtOdtwPMgd6JhvjzeZ6FG2xmWS6YUujmj9cEFEP3JqlE8eqsOUvjhtF6l64cauG-jrT_c5BILkQPe2RCkhhx6ThzTDS2tPaF8rVto9IKUwO9AY2hhZ1yyspqhPijS2jJGhM_Eew7ifaaWIr4c8Ccq2u4RagJ2q_xZ4rYVpLKcH2UCnehL8Ro8OvBPOLhNlvLarVaadOb7Q8pbDhakwnf8ffGwih822GFLIIp68igmjMiNVfaf5hy4V_oFJStuim0JDJRrDromrHSFRaUZkLeeDGUt8HQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Mascolas Centro Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109743536240276656834",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgoafLCz7_cK6k8nFThhrzJUBS51pXhogPv-RWTjSH0DVJXes=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9v7XOPA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9v7XOPA!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMZgQbTvXyvufsUkqO7nrAr90NY1YOPi6RYQLDV4fCjCIyBup1djSCFObWhOLbT0oL9x2L8XX58N0NlimtujuHRK9wY3Ica_btKSTWtqlnIjQTcQmanMD15Cqs614DZc5AQ7JKFcHcUFPARGjWF4B_G3OZnUypCL0aTb4rkkf3_LWBhtibrqXitcOKrojHbyjVxcPpS1YDmTyCNEF6bEaS5rGBPtd5gNm-6KMThpZXCcRLBtFRuCMtF2VZS7ayYAuo1TBRzXwFrE7bJeXMkILb0UT7auUVy7WoN0DQPdy5CNzjsA_ybHdIJ6mRlpK-Myl9nrufD-sBCRHMQQ_DKkGsQ6YulrH7yWpU0lk0rvw9t3LBXITHYl0Ut1WlWUbev0lRfjVsLwlAoclSHtUu0P7m-VUUk",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Mascolas Centro Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109743536240276656834",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgoafLCz7_cK6k8nFThhrzJUBS51pXhogPv-RWTjSH0DVJXes=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9v7XWKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9v7XWKg!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  },
+  {
+   "name": "places/ChIJHanJy-PHBZERrSbaoL26zMk/photos/Aa-ngMYzzXCs11LscM4eS5evLfmcthdro_GQ3o7G9Ta6y88GPzzkFL_DYqS34L_pkZ7FMYruDwJ9xih9ICf_gpYkFYzc0DNLvBVKwyjhitovBPhJ8t1K2nRS6SnmBInoH8vomGL12FwDQB6X1EUQPYtc8O11568C4XKvSxIoCbyCFYdnyJAuftEm4kxNXpCjhXLKQm1dNKNYcVVGs_6IFUMiIsx9h169HO_Kf2-dzAwD41CJ4sybpF8h5B-TslwVDzI-nIkWy6Yf-JdCoQKT4F7ni0kZNdQDcKz-wqXO-ngAfo5mPjewSpdZDPFaxbZxj80Tj0Vf7j8N8v5kInPDZkStGT9HRkuCkB4tY9fEG6WAWCgGraTXL3cyNU4iVsS679UO9hf5qlhPhOt7zzMXjcWKvwkmyNHC",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Mascolas Centro Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109743536240276656834",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgoafLCz7_cK6k8nFThhrzJUBS51pXhogPv-RWTjSH0DVJXes=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9v7XOjAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9v7XOjAE!2e10!4m2!3m1!1s0x9105c7e3cbc9a91d:0xc9ccbabda0da26ad"
+  }
+ ]
+}

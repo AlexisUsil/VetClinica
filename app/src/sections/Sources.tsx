@@ -15,6 +15,7 @@ export function Sources() {
   const items: [string, string][] = [
     ['Clínicas', `${fmtN(PLACES.length)} clínicas veterinarias de Google Places${NON_CLINICS ? `; se excluyeron ${fmtN(NON_CLINICS)} lugares que no son clínicas (visibles en el directorio con el filtro)` : ''}. Ratings, reseñas y horarios según Google, corregidos con investigación web cuando se confirmó 24h.`],
     ...(G.search_cap_note || isNum(G.raw_places) ? [['Cobertura', `${G.search_cap_note || ''} ${isNum(G.raw_places) ? `La búsqueda devolvió ${fmtN(G.raw_places)} lugares` : ''}${isNum(G.excluded_neighbors) ? `; ${fmtN(G.excluded_neighbors)} de distritos vecinos excluidos` : ''}.`] as [string, string]] : []),
+    ...(G.buffer_note ? [['Vecinas', G.buffer_note] as [string, string]] : []),
     ['24 horas', `“24h confirmado” usa la web y redes de cada clínica. Las ${fmtN(f24)} que dicen 24h en Google sin confirmarlo no cuentan como 24h.`],
     ['Demografía', 'Población y hogares: CPI 2025. NSE A/B: proxy INEI (Planos Estratificados 2020). Alquiler: mediana de avisos InfoCasas. Hogares con mascota: 59.6% Lima Metropolitana (INEI). “est.” = estimado.'],
     ['Regulación', 'TUPA e índices de usos (ordenanzas MML). Verde = clínica permitida en 2+ zonas; ámbar = 1 zona o no verificado; rojo = ninguna zona o tope de facto.'],

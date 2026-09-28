@@ -47,11 +47,11 @@ export function ExplorePanel({ A, lat, lng, radius, onRadius, onClose }: { A: An
       </div>
 
       <div className="grid grid-cols-2 gap-2">
-        <Stat icon={<Building2 />} label="Competidores 1 km" value={fmtN(A.n1)} />
-        <Stat icon={<Building2 />} label="Competidores 2 km" value={fmtN(A.n2)} />
-        <Stat icon={<Star />} label={`Rating prom. ${radius} km`} value={isNum(A.avgRating) ? fmtN(A.avgRating, 2) : '—'} />
+        <Stat icon={<Building2 />} label="Competidores 1 km" value={fmtN(A.n1)} sub={A.b1 > 0 ? `(${fmtN(A.b1)} en distritos vecinos)` : undefined} />
+        <Stat icon={<Building2 />} label="Competidores 2 km" value={fmtN(A.n2)} sub={A.b2 > 0 ? `(${fmtN(A.b2)} en distritos vecinos)` : undefined} />
+        <Stat icon={<Star />} label={`Rating prom. ${radius} km`} value={isNum(A.avgRating) ? fmtN(A.avgRating, 2) : '—'} sub={A.bR > 0 ? `incluye ${fmtN(A.bR)} vecinas` : undefined} />
         <Stat icon={<Coins />} label={`Ticket medio${A.tEst ? ' (est.)' : ''}`} value={isNum(A.avgTicket) ? fmtSoles(A.avgTicket) : '—'} />
-        <Stat icon={<Moon />} label="24h más cercano" value={A.near24 ? fmtKm(A.near24.d) : '—'} sub={A.near24 ? trunc(A.near24.p.name, 40) : undefined} className="col-span-2" accent={far} />
+        <Stat icon={<Moon />} label="24h más cercano" value={A.near24 ? fmtKm(A.near24.d) : '—'} sub={A.near24 ? `${trunc(A.near24.p.name, 40)}${A.near24.p.zone === 'buffer' ? ' · vecina' : ''}` : undefined} className="col-span-2" accent={far} />
         <Stat icon={<Trees />} label="Parques 500 m" value={fmtN(A.parks)} />
         <Stat icon={<ShoppingBag />} label="Petshops 500 m" value={fmtN(A.pets)} />
       </div>
@@ -62,7 +62,7 @@ export function ExplorePanel({ A, lat, lng, radius, onRadius, onClose }: { A: An
           <div className="grid gap-2.5">
             {A.share.map(s => (
               <div key={s.name}>
-                <div className="mb-1 flex justify-between gap-2 text-xs"><span className="truncate">{s.name}{s.is24 ? ' · 24h' : ''}</span><b className="tabular-nums">{fmtPct(s.pct)}</b></div>
+                <div className="mb-1 flex justify-between gap-2 text-xs"><span className="truncate">{s.name}{s.is24 ? ' · 24h' : ''}{s.buf ? <span className="text-muted-foreground"> · vecina</span> : null}</span><b className="tabular-nums">{fmtPct(s.pct)}</b></div>
                 <Meter value={Math.max(2, s.pct)} height={6} />
               </div>
             ))}

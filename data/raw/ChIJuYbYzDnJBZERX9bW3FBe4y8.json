@@ -1,0 +1,424 @@
+{
+ "id": "ChIJuYbYzDnJBZERX9bW3FBe4y8",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "903 178 114",
+ "internationalPhoneNumber": "+51 903 178 114",
+ "formattedAddress": "Ca. los Topacios 271, La Victoria 15034",
+ "addressComponents": [
+  {
+   "longText": "271",
+   "shortText": "271",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle los Topacios",
+   "shortText": "Ca. los Topacios",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Balconcillo",
+   "shortText": "Balconcillo",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.077280400000001,
+  "longitude": -77.026414
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=3450705440891393631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:30",
+   "martes: 9:00–19:30",
+   "miércoles: 9:00–19:30",
+   "jueves: 9:00–19:30",
+   "viernes: 9:00–19:30",
+   "sábado: 9:00–19:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Clínica Veterinaria Sheepdog",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:30",
+   "martes: 9:00–19:30",
+   "miércoles: 9:00–19:30",
+   "jueves: 9:00–19:30",
+   "viernes: 9:00–19:30",
+   "sábado: 9:00–19:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Ca. los Topacios 271, La Victoria",
+ "photos": [
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMYc5LUKljO3j8RKL3bCMx2ZX7_7aSglu_KtGs8RxwDK6ICWyd9r2ZXiSqq4oAdnzAcTwogjnwJo_p_VEFtbIIEi61VXkY8kAPuBQ5N2C_vu5ZIeKL4EW7APS9QJ7S08GF9lT5BwYRumY0egBClZicLNst_2Yc4FWkwlZdyG5UwlcHoCBan7t9pgaD_eWoudHOewxGGHo7eU7y0aXdvRX5fmNz_V893xWo0b9x1kJay-fgZ_I4bkcPfQyPmT24IndI_jlEGaDXk0ArDXxMhQcN_OsThg_Y4vz_mHJLWaxN0ZTHlYcruzvNBPTovSdNuAEoHPP2iYSPa_z7op0Lc7m4_TwDfdV-xEME0S3FvFujlD38aGHdowfO5fBklhVx-ZY2txw0QVJbge9QOWvINSybJ6c7pJIxhPq2d7QmJn28OJ8pBnZ3l6uiP1cnYYilow",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhChDTI-x4G_y1plKzieAuff&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhChDTI-x4G_y1plKzieAuff!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  },
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMZmGChJ6x0ja7ZIcxCoRufmHw-Kxft9NjAWJQSMlVql4Fe698IlhXhtdM_OrY6ubzneWV35T0V1N0symNbFJJYfNMBYFN3AC-cdqLT9uyPLA6m73Ix8sa3aIrEJgM4dtTfxoL6xnUvafT6PTOsnZRwN7WMmpALT-Rh5dxI6s7EhmaM_zU8VI4LuIFMLv-cW6tlsWoc6KTkL0nDMEaHOX1BK1XSLXZid969jySI-7PIc2EmxtKOpGy5Ntybpij6Pqg6XGc_G06Q9e2IGYN9b4_Gu-vq5TlrzFvSOCsxaz2x-62iwhiYyvHmbk_8hRBPLINNizTwAWTtCCSoWvBvfvyeAdUEuGtkhED54T9XakbYdSSi2G8Y2ndWFfj_f4R98-LtAivv5F-WV6gtjQtThonzkNRf8Ng7G9mGEEJp0Cb9ZLlmDCxq2rmUDxKjLUHj1",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBo4honqK4wDAuHx1yCJ5HM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBo4honqK4wDAuHx1yCJ5HM!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  },
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMbVYTRW-Tnrym0o9GBwYLzCPYUi7sPYk2CEgqRi2F-O8vU-80KnA19L7wHfDZbN2NLUJ0HArzllqHSS6orpeJ8wzle2vMdmUAmrOEvPoaTc5d1Bs4eEMZUwv5ssEZIVii4sS_BojbWasgdmojEbXZ17OgYCE8aPcxqOHKYmvnJPFUOxx11Q1flNM_OfhzKVH59SujITw-QLFt4GktfCuOsviqZIJVZVHb8Y9k-TyAdGowXR1NJktUFlmCBXbA7-FawRswJhJ7-nAKgR44lVSweqwYD8PFw09lJgL_ZP1_FWUZ1YATV-EilN5qA_xm9Uj1v2mesYgC4Yqz2Yo7DqUj2vgRnfmnaKNWh34qSo8eP7aCfzwzmdRy7lN3MODbQQFXEATOMSRwQ-f2kYQM8Y_Ut7H6Lgk6RFKpkiM5T8FA9bRJbGWrPbsiZuzl8ojT0D",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC0dHm_qfkfgpCv23_wgakv&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC0dHm_qfkfgpCv23_wgakv!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  },
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMZnFIw_TwgBG3l7WJlsyTnTDuum7byPeDP6WYME2oAM_R7XmLQvrr9iwpA4MXS1Xaorr9M0NCDZ5hVHV9GFBNephD-T5OSH5TgUZhtD4sErMYoRc28Xjfgd7brS1CwIP-Ja40Bhkz9asrd6YRI_7Nbo2m0PvqrDaIq-UgJLOg4s3C7hu-qvrXZb8spdFzP0q8eymVvJjYed0Yq2uFPreohM-hpZd34PRDDCoYnetpUiq8-4AvTw9HsGlgJ0ax2H2oxEuAcGMZw922AW7Pw9YkmAY0D7oLJd9-AZh9Pkiocv1s9JEdkX6M6DLhDEINEllL8jHWzRTp5EYWoOCzkPWK3XGhQVAgz_Sxo6CKDa8yPXkzvfoWJaknP-Skjcy_gAYF-OBoIZ-mDZFZmT1Rkfk9ZwUm6_QJl_S7kmkzhJwrEgNy910mX4n6KUP4jvgjXT",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD-pf0ynx-NdQZZClx_EAKL&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD-pf0ynx-NdQZZClx_EAKL!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  },
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMaiBbIAEPdNjXqLegG_MGBi5mSzlYugtN0gAaSt1Qcb_RNEZmpUur9bBQfsnhYRotRs-6nBAh49d2jzSzDUWUUC2htYR8j0pq19Tjqu9-3LAP9Yy_qg4uNCuL0nEkKHYLNCEhFRozL5SxZnF8ZzEciAA4IraIW03PHDrawvIXfLNilg8SlwOxOKOZnC8SyoUrtHzSiiIb7wNZkDgp7mlQFZFj29qJ-ANvfZ7hgAXZpN6e53udOgEdNj079cC-S0I9UC6ayZZQYZAnq0YuggwZafu4Mz-Lk6t6BchqvV_dstO2wROigyNUQwpGNUSk-YPDGSJo5NYwt60U10N296x9-k49PFVbBvi0HMDJZCtLn0yMKTA7rIOkzwiNdPdtAjgSa_srY2l9Wy66AOz8v10DC_7P3xtkoTbNcRNONudTXUzFTtK-_hhx-NioqJ5PZ-",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCvfl3gNT4xxMMVUvo0XHrV&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCvfl3gNT4xxMMVUvo0XHrV!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  },
+  {
+   "name": "places/ChIJuYbYzDnJBZERX9bW3FBe4y8/photos/Aa-ngMYFgfv70SUsnrRgCFNI6gkYsbImQEhy2Ko7qIoZoLPw37XqXCuFGPd7cPkoNzQBkJ4R1iAhSZ9VWyIK39-lN22abThJu4xOvx6TocxnbJ9N5tNtC6xciItfss3nUbB7IXjuaUG6lQ8IGq13jqQEib_Y0014AEFv4R3BgTXZfrwHFhu-Bly1kk9rfGdlc2LMOPNWZgsKtpJZd6tzmCKRtlnSiLsGvoD7HTqVZZFE_3JRxN8alq5XBr9e67GKpy4_QjxAhEDSlFJkbClx9wuOVIEIjbwxZx4M-cRdjWble_25jprUDS2TRIpvAtf8edSI9-WLuySf9mgmLFvgpWZ_JkecJBPNqIy-9XnnxbRRWPA5N1P2DuuO4mZBmYEmAbSev0bKDDJfoRCbdRbH1rZfr8KRzlkc0T0Wmv9kkKX2EewtX7uwgX-po1wZZZiFRV5H",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Sheepdog",
+     "uri": "https://maps.google.com/maps/contrib/111976882795161363534",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjtBysAQ7U421rW-mnaksNSb-8uvbGoSqsZ0zoSBmujXrZSQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCLKqhOy4_7md9lOrvFS5St&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLKqhOy4_7md9lOrvFS5St!2e10!4m2!3m1!1s0x9105c939ccd886b9:0x2fe35e50dcd6d65f"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

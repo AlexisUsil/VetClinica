@@ -1,0 +1,535 @@
+{
+ "id": "ChIJ_4eBIwDHBZER0FCeUKrLCRk",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "977 506 232",
+ "internationalPhoneNumber": "+51 977 506 232",
+ "formattedAddress": "Avenida Agustín de la Rosa Toro 744, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "744",
+   "shortText": "744",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Agustín de la Rosa Toro",
+   "shortText": "Avenida Agustín de la Rosa Toro",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Javier Prado Etapa 4",
+   "shortText": "Urb Javier Prado Etapa 4",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.077752799999999,
+  "longitude": -76.99489179999999
+ },
+ "rating": 3.4,
+ "googleMapsUri": "https://maps.google.com/?cid=1804197058096025808&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:30",
+   "martes: 10:00–20:30",
+   "miércoles: 10:00–20:30",
+   "jueves: 10:00–20:30",
+   "viernes: 10:00–20:30",
+   "sábado: 10:00–20:30",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 12,
+ "displayName": {
+  "text": "Veterinaria Bunny Exotic Pet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:30",
+   "martes: 10:00–20:30",
+   "miércoles: 10:00–20:30",
+   "jueves: 10:00–20:30",
+   "viernes: 10:00–20:30",
+   "sábado: 10:00–20:30",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Avenida Agustín de la Rosa Toro 744, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMU5FMWtWRk5ZZVdOUExVeDFhemR2Y1hSeVFsRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Exelente profesionales, mi conejito salió feliz",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Exelente profesionales, mi conejito salió feliz",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Franz",
+    "uri": "https://www.google.com/maps/contrib/113638776486592247897/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBTQqTx_1XOuBHHIk1a9ryS8SLfmXkkGdi7jKv-MRgIRQxEwE=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-12T23:56:49.675154287Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aMU5FMWtWRk5ZZVdOUExVeDFhemR2Y1hSeVFsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aMU5FMWtWRk5ZZVdOUExVeDFhemR2Y1hSeVFsRRAB!2m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwd2VHbHBTMjk1VGtKaWNqZGZhakoyYVc0M1ZWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, muy buenos profesionales y precios bastante cómodos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, muy buenos profesionales y precios bastante cómodos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Kin Garcia Rojas",
+    "uri": "https://www.google.com/maps/contrib/117870795497429174920/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-xc7T1nP8WOQhjNmk7oWIKnY0woqkyNyDnakz8UmT3RkeEA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-16T01:32:17.784427800Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwd2VHbHBTMjk1VGtKaWNqZGZhakoyYVc0M1ZWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwd2VHbHBTMjk1VGtKaWNqZGZhakoyYVc0M1ZWRRAB!2m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FNU5YSnlTR3hVYjBvemVFRm5SWE0xZW1jM1ZFRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "buena atencion es lo mejor me dieron descuento el 20% que xvr",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "buena atencion es lo mejor me dieron descuento el 20% que xvr",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "sebas rodriguez",
+    "uri": "https://www.google.com/maps/contrib/104634872162556947546/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxDwqhdolUM36tiwyKWvqlLRJW0Dhoy8KgfHeUsWsMjyc6cw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-13T00:30:11.307907236Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FNU5YSnlTR3hVYjBvemVFRm5SWE0xZW1jM1ZFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FNU5YSnlTR3hVYjBvemVFRm5SWE0xZW1jM1ZFRRAB!2m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STWVsOVpNVk5xU1djd1MwWlpialprWWsxU1VGRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, buena recomendación para el cuidado de mi callejerito, y buenos descuentos. ❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, buena recomendación para el cuidado de mi callejerito, y buenos descuentos. ❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "PET SHOP NERY",
+    "uri": "https://www.google.com/maps/contrib/107671391089277578836/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZAfKjh5FFrn4nTx9zJl7nD1-K9wkvShYuS0mB7FxgaCaU044=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-13T01:27:13.217844286Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25STWVsOVpNVk5xU1djd1MwWlpialprWWsxU1VGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25STWVsOVpNVk5xU1djd1MwWlpialprWWsxU1VGRRAB!2m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUmVrTnZkWEpLWDI1WGJ6SXpTbkJwTjJWaFpHYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Atienden animales exóticos y el dr es bastante minucioso.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atienden animales exóticos y el dr es bastante minucioso.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Iris Marixa",
+    "uri": "https://www.google.com/maps/contrib/116778737200094075893/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeNMyI_FwLz9dKDDh_GR-9uXPnh-VN8CKfWcOydLgnVOC2yQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-16T01:34:06.016019904Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUmVrTnZkWEpLWDI1WGJ6SXpTbkJwTjJWaFpHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUmVrTnZkWEpLWDI1WGJ6SXpTbkJwTjJWaFpHYxAB!2m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/photos/Aa-ngMbdKoygn6SssQwAcfbQk1OITI5u70UEBn-ucpfFo4aAS6_U5h0euvsAe60plZ9nkz6d2c95xjdv7yJzXGCeQFUcv3PkHglFj49re8AmhgLeiTp3YgFOuAjtqgOwmk8nwJoPNvqWtdb4OJROJuSU9nyrzJB66oBEehJGaCCqttwr8HHNAb9L_k5XGWRWvjn5TMUU8eyQSefoQ8l0GbemE5RV7hG_5t2yHl18TIr2DH4iSIVL2pbuHwFSLoQJPARf6_PmXO2pFbLpLlxalLHFoarhbB-zhxi-UqyTnFVd0zv_vDzB1edtxSVhQysmdBMGbmipKZeUkU0qIOdOQ7EMuaQIpiIUfnQb2NhKJU6JB33XEKzz2602B50AZ5CN_sREeFK0vsueWU1VDPqvDpLmjikkDpVvZwzue0uYTLdJgAD6dA",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Franz",
+     "uri": "https://maps.google.com/maps/contrib/113638776486592247897",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBTQqTx_1XOuBHHIk1a9ryS8SLfmXkkGdi7jKv-MRgIRQxEwE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDm2NJuB8AQXqpufpBXTXtT&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDm2NJuB8AQXqpufpBXTXtT!2e10!4m2!3m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/photos/Aa-ngMY2LtZekfIQesXRUbgrwBcNK7nG6Zdxcy7ETDUf1G8Uo3FJzVTD1T-Dg_dgvBvGI5C6MvIwPuusHBUvRgpz8CkPYfgKPYbm_BaKzwS6iSuo-rBb_AZdIY69lVmfiT4Ax214HSsfyyg6CLcHozqQGFDTc0RMWveULTfT7qRWkIz-bFAr5Ta4-H4TD9qG6OL9QO8M1LPCb1suRgwML97lt_zS8IG29NYoLm8byb06L7gvaTJjQ3sG4A0yP8lkAzssAJLOtxTalfHipehUkcNVl5Uwz8E2ZxzVvPBpBQOcIK7zzz7xmPGZCNjrnfZkhw4TcBmjkMP3_rItbo7LQ5h917ZIKE7i_kCJaUr461oXFXfYC1UWTqfW8YUROCUqly6cvzJd73E6w50rZDaSuIQ4yeQsmyffyXQhDT9QcgEFG0f10g",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Franz",
+     "uri": "https://maps.google.com/maps/contrib/113638776486592247897",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBTQqTx_1XOuBHHIk1a9ryS8SLfmXkkGdi7jKv-MRgIRQxEwE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBa5BdbDaLh5qlxxmtWSZHg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBa5BdbDaLh5qlxxmtWSZHg!2e10!4m2!3m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/photos/Aa-ngMZYUjCVV9-E0scyYhU9I1dxAVXNUExSGf6nb8UjxDQeMaEOnuFt6aiNxgwu-UM4JRmjUGNqQNPHmPqy60tDqz7kBI-v3aaX4G40ViXvkp83ROKZN3VpGE0z7UUrXRsWELdrXGWlqfjr8ktoGzx970R6O8nm6vEShwCnFyQEnEjNWQu499VkS5qJ-6EtskR0PBkPw2RkzKZxBVuY2_N-vn9u02lf_zklQpsnCgH1qiGfv0krwVPsYTusvQBHc0a2vZd2rrfPnaTQFPRjDY6WGUXkW3LxNYTs3VUrPlgbTo1M9mBIfiiK1bahljJWHqAZvxoWsVmOxvvHxmCK2WAUWB5S6hVpX4wjcP_KfnEN12ZUXyWUxCvNNGGF4i6IP29PNSid350OE-L0TBnkj_4C0QCCJCI",
+   "widthPx": 1600,
+   "heightPx": 900,
+   "authorAttributions": [
+    {
+     "displayName": "Daniel",
+     "uri": "https://maps.google.com/maps/contrib/100833074261980881500",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtd_LzkE_lu1dFqK88LALM8jFDTtltOFO0VOnQjYxNK-uitw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID7ntv6Qw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID7ntv6Qw!2e10!4m2!3m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  },
+  {
+   "name": "places/ChIJ_4eBIwDHBZER0FCeUKrLCRk/photos/Aa-ngMbGTeh_D5TcTDe6cj9SUS7rD5IwBCrD5jlQdg6NDUylzLLUyhHvPew6xMQtMwVVGAV6rc_c2g60u_l3mr4rlAGhaf5V3VV_kaSlJXAE52pyW7W3n86zTqTwS4X6heqq-VjrSAdwFKhGF5AHCYnb8Jf_996Wv-nCxyfAraOQw36o4Ng7TJs1CUNEbgXzQJwi0PIsSWB-3l7UE7Z2LNj8b7g1MsSu7_ZgA5DpQD90ULwGq0FhAh_ihbJ9X1SnJ4XtLPbOHSk317tn3eWuPS6RWL_ScPbM-ZRNqyDR9bptp7dj4-Z2aUKktQxwA9AexJGxlmLVzu0aacTB22Og-tkDeDTh2cISWASNAztrztIrgZdJlqfqJSXIkWTfaagZdUrxx1p0UQmmRksPaAMj2ykFB3-9TgkhPoD-Bme-JSPMng-PTA",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Franz",
+     "uri": "https://maps.google.com/maps/contrib/113638776486592247897",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBTQqTx_1XOuBHHIk1a9ryS8SLfmXkkGdi7jKv-MRgIRQxEwE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA6SoW0ZO-XCTzX6DNRrTk3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA6SoW0ZO-XCTzX6DNRrTk3!2e10!4m2!3m1!1s0x9105c700238187ff:0x1909cbaa509e50d0"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ }
+}

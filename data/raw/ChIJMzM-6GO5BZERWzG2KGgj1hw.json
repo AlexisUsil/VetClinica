@@ -1,0 +1,554 @@
+{
+ "id": "ChIJMzM-6GO5BZERWzG2KGgj1hw",
+ "types": [
+  "veterinary_care",
+  "pharmacy",
+  "health",
+  "point_of_interest",
+  "store",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "985 594 252",
+ "internationalPhoneNumber": "+51 985 594 252",
+ "formattedAddress": "Av. Santiago de Surco 4304, Santiago de Surco 15049",
+ "addressComponents": [
+  {
+   "longText": "4304",
+   "shortText": "4304",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Santiago de Surco",
+   "shortText": "Av. Santiago de Surco",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15049",
+   "shortText": "15049",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.140591299999999,
+  "longitude": -76.99315560000001
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=2077887208344662363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 25,
+ "displayName": {
+  "text": "Convet - Surco, Tomás Marsano",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Santiago de Surco 4304, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSdWNFVnlRa3cxVkV0NFNGTkZjRnB1U0ZkSWNIYxAB",
+   "relativePublishTimeDescription": "Hace 12 meses",
+   "rating": 5,
+   "text": {
+    "text": "Encuentras todo y a buen precio y la atención es muy buena",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Encuentras todo y a buen precio y la atención es muy buena",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "César Rodríguez",
+    "uri": "https://www.google.com/maps/contrib/113759014747394639946/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTF-fibhP2I9t5eAgEZ-VYu-uY4LMayY2VKjcq2H1AZWi2rK-Y6w=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-09-30T12:06:06.880301426Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSdWNFVnlRa3cxVkV0NFNGTkZjRnB1U0ZkSWNIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSdWNFVnlRa3cxVkV0NFNGTkZjRnB1U0ZkSWNIYxAB!2m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwMldYbHNSVzh0VFhOMGRURnVXbE14YkUxMk1HYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención y tienen lo que necesito",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención y tienen lo que necesito",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "alejandra jara tuesta",
+    "uri": "https://www.google.com/maps/contrib/114023933380421125294/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaCVfj-perucu5b0BS0Frs6KDyMmhTRh1vG-49eIEnt241nSSU=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-02-21T18:49:49.481845416Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwMldYbHNSVzh0VFhOMGRURnVXbE14YkUxMk1HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwMldYbHNSVzh0VFhOMGRURnVXbE14YkUxMk1HYxAB!2m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkV2IwWk9Ra0ZTVUZaeWNIbHFVRFZHVjIxNlVIYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Precios accesibles,  buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Precios accesibles,  buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adriana Nuñez",
+    "uri": "https://www.google.com/maps/contrib/109161122946919971230/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBTAl75yqwP48MeIVnS1G3LQxqmmWb_Vzvd0eK8Nw1XlH1fFQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-06-11T02:34:44.781533138Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkV2IwWk9Ra0ZTVUZaeWNIbHFVRFZHVjIxNlVIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkV2IwWk9Ra0ZTVUZaeWNIbHFVRFZHVjIxNlVIYxAB!2m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFMk0zbGZlblIwVm5JdFNVWnhkMk5tUkhWUFJGRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 1,
+   "text": {
+    "text": "Son 2 días seguidos que voy en su horario que figura, y lo encuentro cerrado. No sé si cierran antes o está por actualizar su horario de trabajo :(",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son 2 días seguidos que voy en su horario que figura, y lo encuentro cerrado. No sé si cierran antes o está por actualizar su horario de trabajo :(",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fritza Milagros Santos Vivar",
+    "uri": "https://www.google.com/maps/contrib/113438846341433562136/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcC_8LPM1cGlYaBbdFSpUBUfq3qDbV3ig6gique63riBVD4L4=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-05T23:20:06.711979085Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFMk0zbGZlblIwVm5JdFNVWnhkMk5tUkhWUFJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFMk0zbGZlblIwVm5JdFNVWnhkMk5tUkhWUFJGRRAB!2m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUdHN2M3Z3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "En el local de Marsano la atención es mucho mejor que en el local de Benavides. Fueron también corteses pero la vez que fui en Enero a comprar 6 vacunas, las pagué y bien gracias. En cambio en este local de Marsano, la señorita que me atendió me regaló cartillas de vacunacion, muu detalladamente me dijo que vacuna la correspondía a mi cachorro y hasta jeringa me regaló.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En el local de Marsano la atención es mucho mejor que en el local de Benavides. Fueron también corteses pero la vez que fui en Enero a comprar 6 vacunas, las pagué y bien gracias. En cambio en este local de Marsano, la señorita que me atendió me regaló cartillas de vacunacion, muu detalladamente me dijo que vacuna la correspondía a mi cachorro y hasta jeringa me regaló.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eduardo Jordan",
+    "uri": "https://www.google.com/maps/contrib/117240129097444608592/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVadLjnRMOv9zl2Wi6pkE1i-_DmWmBuFWjcibmY_o45LuuFC1k1Ag=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2024-05-14T15:17:19.955276Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUdHN2M3Z3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUdHN2M3Z3RRAB!2m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMbRQpkEOqzrA3qAndRV46l8hZUBHychf3e-NpX16ClISPJHvx28Pv1U0bEwpJlPw6jlvS6XldXundgv3msmfA7DtlPDlv4Rk9vaXoutVzKojNQt4ChHc9ICV0LISCXJFxlTQFTbSkmRvPyj1RZ7UdrZ5xCAcqWmn_CriSSipYN1qQLQv8E3jDuokFwfpihzcYusrnHhEKeLqu6RVJyD__1qzjDbS-zpDttjBcfcFixUa1gEvc1YchDzvK_BOaPViqGohnfwNKOXwbzLZbzkYeI8c8LSYOUZVaIzSvMR5FdCqaByL6AeukVDZkZHTQroXPpU1SB2Iiyholx8vRdjwZLDpbTHg_nc-pzvClCTMGguGimEYQ3H1_TqmhvxrzVyc8xggJZcnuDnhZpHE4pqjAyXuVdr2-o",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICtsrjP2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtsrjP2wE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMZsAXd1hvnWArZHSNFle-QQk7nlTBrwBiweYqAU5cPwKpNys_x8stZ36i8hgFFQgNdGh7Dx-4O6xrSq8rEE75kIWN2V9XFKjEcQr2ULXY9PMigyGsxAG_QZxzt_iIwvaW0A_VzRN2ZyvJFrySij1ORFKjATK3oDH7tGsPXWkcdtCe2gf_rnneST4f1y5YyvSrpzM-M5MENlZ3huReonjm-8NgbTm_qpNuOthlfa_bIYgkIb35JSGTKqkgKwLVJnLL-cy5jIM75v0PMN0PbcyEQzezYf1zFH1m8Qce5eN4fmpiN-ilmsgkDYkIhw_gTA-atA8arjLdP-kwJKQfTn1Mp3MwD2NujRCWUQ58A1X3J18UuTp7_E3N441KFFxnK_jpDHAR-gkBFs0uN1VDvl5wbDf_b7jsw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_stinpgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_stinpgE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMaGnJbHkZaErOyAw659P32p4Tgi7D8vN1ET9B12NpgyOEYFvPTjUeJUIQkfIJnVom0pSQxmZIeGgfeTWF6k4dGcDjqm4w5fSbb8SZ3HNsCb4kFET-8opBLpwIRhZLt9n02olb4TLBdXf6S_7_9-605fwGHRrqOnl-ixTTCy0PlasaQ3_KpRjO3Anlwzla3nen_XAftqfNcUHhsH-6uVYfndcktOeQQXrYHN8a1U3jFmsz9KAeQ6iKblNK-ynB49zJ4UgDaMxIRooO3tQbD0OZ5EM-MbQ3Es_9QvBZowF2zlaQf99Z1ycJkA7zhAy9Qx7f2jlTCY8PWlqPWQHTmXqY7zr9xWIH3VihFFQLK7mO3tqbQTEEgk5gvtiGMBWTtUIejaNKD0N4bs9PaXyNvRJaa8jYRRmdw",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Martin Leyton",
+     "uri": "https://maps.google.com/maps/contrib/116336773551286914902",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLCdGQK_1NW3F8w0WaJCdNTRb9OXoJibf5kJ4qfl1YEA6y0g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC9-qDRsQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC9-qDRsQE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMbguUGJ35q_QrVVdrwvIGtvvSrYF15m_iVAc-WRV3IbB4YsORao4ORxyvZcwK4V7MDDu8zccVdIEaOLnquc7inic1rOE-iE_ta9x4YlTr6p0C2U3HL9OXLfNn1FSHOTVRzjdVYr75stCID9yKtyxW0OHhR4ZJ_9k6oVPkfhVTA2t5VzWIhrxO1Nw0gXmpDtSv2aBEgrLaafki2U_Kd2WvjvsOQ3TDYuEG3kOvs9UxgHkEbkD-S2tgvbZf1aEteWM0601etc_9s4dA7VUWpDsXCNzkqbzPNGoZe1o0BJOsnSJkaczF9i1Resvc7eik0IylrRP1tngzXEOFfAofBr5Ta87hU2VZELXIOrVUQRTYJWLXmJdF7cgiWxRRhPGnzo5b8NOhhwGPaKNVTL5t7aig4BQA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_stinZg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_stinZg!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMbndmG5v8AHw1mqnlvY1ZhUl6N8UvDNZmdrfOCqoZpJlhuEySh_5nDg3KJ7WzTGLRBAZwxlqX2dbspvWSDfRYvlEN6S_tvqL8yD52P4qXIMSpJtYrVVDpBfnFeocUouug6gNFPJeSRlQC8JskDi7WAW8rPDBbAipYIdHv19YaZdJZoHugri4pw37Mzg9IVuhrEpJe0SPhHUHHHRlKVQZY4IYHoSuk_KD0mnpf8jhWZWRpw8nsr1Gnk5JVDqYpmqf-zyuD9OSQabyyGIS0adjSnn1ZdeTA7hYIQbuaSpyJwjP_40Qx01U842J2JS5M5APISPhB_8Is29YUvdmUTmsUp0HMbbNXjcxklEqPbeuNE-y0SydtPu2Z7YhQVvbXGHp6r_MC7NQfvNxyAN2cJyL6w2GWNYxcE",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_stjnhQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_stjnhQE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMb44ciypeTH7QeWObH09fgOeoe8jDFQj5g5-L-WEX8OYYt5EdwB5oBw3TZ8S2L6yAv-HtaTaPbYgZ9_sM18O05CXiDnnpiUZRHPosnnp75-4oTQyY-mHUKgTnxtKYzrDy78V5J-a7nVHcJcYXrXecbF1HPPfUAUoVpZOpYiwB5pIVCsjkRndq5cRmWApkNIChfGlMa1PDZXNa8jFspCLQRWwKvyEYbWd8DYGj9fV2dvzU6RaNgABAsFNeeHRIYs9KXJNM_gXg3h76ScJvmg24MYQLZuIFYPnfawSKqqipRjXAnajpOu2fJ0kQHjld-cbCbB7_Wbg-frE-b37epRIlLhlsl-0DryaG6QvLKHktaojTsbehoxHUjcr8adR7M4AtIJ3X8rz6rba49U4oR8qwtlKR0",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_stiPHg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_stiPHg!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMZbBhz47VvQ23nu0OBMJG9v8Yggqz27j5NhQHCs9KYlOQnFchRVSm4vi9GMCUI06VJ7jUwkuscyp3lTuPiIBxzkBum-JeNjoRH1FYiHEQUPk1yugo6LuTpQ-rjG9ivbXrnRDRICXEIfPNWjNT3gaonQMgFquE2cJDBfRbgdAMaPUbAzMHCAdGWBI6z3upaCwwGO7MiuxLwvB3ajly3szksCM1ydhpk04rVFIXRxZoseV4X2zFn5betd0IAKR6yGSIwqFss8_Y11zP4jjfmT1YXfOwg9QHi2Jt2Rc25AaAQnaErfUxS--DfQ08SEPewqMMtnNGYbJ0nYFUfDR2srghPXM52is-9-gtNtOFTH9KVoM5K8S73z7u3JjoPwWm-HalgO4WfJAm25qFZxZL4LDH0FQA77oVA",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICtybuozgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICtybuozgE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  },
+  {
+   "name": "places/ChIJMzM-6GO5BZERWzG2KGgj1hw/photos/Aa-ngMauP03PrdvuwVJickj3xKImzgRIiNQmrVo9P8ImV6U_eik4tuaBhxjt52TyAlBwRyU2nxJs2vc9Im9aPZ86psDxbXsf16w0tQUj1FINYazUFHbwDCtARU8famuh2Be4sOrQ_4hpF2lOc6Am6PszojGh0oMj40eP9-FfP1YQDHuUZZwxouMyQuuKLe-dg1VafxNMxpuJWhN4y1055nDLBBFGBB1BE0-6PEzMIbRA2MOUhgHSfR1Tw_BzRYBetzh-hBAE66SeiS9O0j4k4JgNx5JyRpOZpmBPNTFbKsd-273ZtRiAcyBojpSiWQQBdvweDsTbh-0Ra-gJ62QdzS7NytnCsXSDnPtvsye359mdCkg-_MHtPz3Sje9Bbd4QWTjETdpVUtbqXjy1uZiuKBFc_gBcK7wgqDQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Surco, Tomás Marsano",
+     "uri": "https://maps.google.com/maps/contrib/115685643149994105009",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-g9FGBEHgm05UuRY6qzmnKv1McTJA8mxtwEdVPPKx6fyxJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_srjQrQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_srjQrQE!2e10!4m2!3m1!1s0x9105b963e83e3333:0x1cd6236828b6315b"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

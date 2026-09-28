@@ -1,0 +1,342 @@
+{
+ "id": "ChIJeYqNElLFBZERKqTY164l1KQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "992 840 356",
+ "internationalPhoneNumber": "+51 992 840 356",
+ "formattedAddress": "Cooperativa. X lote 1 tda 21, C. 6, Santa Anita 15011",
+ "addressComponents": [
+  {
+   "longText": "Cooperativa. X lote 1 tda 21",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle 6",
+   "shortText": "C. 6",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Vina San Francisco",
+   "shortText": "Vina San Francisco",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15011",
+   "shortText": "15011",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0320757,
+  "longitude": -76.950623
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=11877159550158677034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–21:00",
+   "sábado: 9:00–21:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T02:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Lucas & Wayra",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–21:00",
+   "martes: 9:00–21:00",
+   "miércoles: 9:00–21:00",
+   "jueves: 9:00–21:00",
+   "viernes: 9:00–21:00",
+   "sábado: 9:00–21:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T02:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Cooperativa. X lote 1 tda 21, C. 6",
+ "photos": [
+  {
+   "name": "places/ChIJeYqNElLFBZERKqTY164l1KQ/photos/Aa-ngMbT3nDU3WNFzOKq0JxUUco5VKCBHz7f8X9YUD1vskW9M1pECM4UbXIK9LSXR3FjkG1hbdwiNzCVGa4ZEqBdSRPadPTo5IQE2boVEUk3IE5Z6RiT-xSlUey7W-Aj85adHTGu317-q5aJJfp09d9xf6y62DtnzUlVptq2wEMHEhgLk8U3S5Tk_8St0ZtdD-1OcsLt9i_Fa-VCamX9wpGNPPGaRX_6Ci87eWsvET53Gw1opA1FasAELDtlEoL95zpEh-1IAgyUisKDsVblszp9t7-fdNPMd2VJ4dfBi8FmI_L-fL8rTyXtB_TAIPAODb3LDB2tIG7brMN0t_DObu9mijjssJmHdPOCkWzJJ1bwits6t9HXKuNfycc-ahkuMWFKQ31T_V8E8bPXtRXMqKdxuGKjeWQ",
+   "widthPx": 736,
+   "heightPx": 1104,
+   "authorAttributions": [
+    {
+     "displayName": "john reynaldo trujillo ramos",
+     "uri": "https://maps.google.com/maps/contrib/103518837556932614872",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKACRGSEdcPFqJnwBm_BS9B0eNgK2Gi_Mcy8c7v_PGvrqaufw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC264WLFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC264WLFg!2e10!4m2!3m1!1s0x9105c552128d8a79:0xa4d425aed7d8a42a"
+  }
+ ]
+}

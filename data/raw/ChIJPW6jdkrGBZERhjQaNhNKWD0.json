@@ -1,0 +1,592 @@
+{
+ "id": "ChIJPW6jdkrGBZERhjQaNhNKWD0",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 571 553",
+ "internationalPhoneNumber": "+51 952 571 553",
+ "formattedAddress": "Av. Canadá 3551, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "3551",
+   "shortText": "3551",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Canadá",
+   "shortText": "Av. Canadá",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Almudena",
+   "shortText": "La Almudena",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0806045,
+  "longitude": -76.9933526
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=4420364480636662918&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 53,
+ "displayName": {
+  "text": "Convet - Rosa Toro San Luis",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Canadá 3551, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/reviews/ChdDSUhNMG9nS0VKYXFqOVhvdXB1NzFRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "cierran antes de la hora muy mal actualicen su horario",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "cierran antes de la hora muy mal actualicen su horario",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diego Isaac Velasquez morales",
+    "uri": "https://www.google.com/maps/contrib/114374239380752857912/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_lS0GPe0o9VOwL-eH4Hwupo4EhhTQnseNxP88GP5-vMwgDLQU3g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-06-05T23:32:25.334184Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VKYXFqOVhvdXB1NzFRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKYXFqOVhvdXB1NzFRRRAB!2m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNkp6emxRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención encuentras todos los productos que necesitas a un buen precio , también cuenta. Con delibery",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención encuentras todos los productos que necesitas a un buen precio , también cuenta. Con delibery",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Faruc Yunis",
+    "uri": "https://www.google.com/maps/contrib/109088167225998535388/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIWThCsfsLI7gisn-EVlIbl8fc9XlBJSx-ks5k4Ivwm_O0knA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-03-08T17:45:25.620790Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNkp6emxRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNkp6emxRRRAB!2m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eG9XbThBRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 4,
+   "text": {
+    "text": "Buenos días dejo otra queja, en la sede de Magdalena la persona que atiende cierra el local para irse a almorzar, antes nunca había eso y los clientes esperando una hora y cierran temprano a pesar de salir a su refrigerio por una hora, y no atienden su horario completo cuando uno tiene una emergencia para comprar, corrigan eso o busquen una persona para atender en su horario completo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos días dejo otra queja, en la sede de Magdalena la persona que atiende cierra el local para irse a almorzar, antes nunca había eso y los clientes esperando una hora y cierran temprano a pesar de salir a su refrigerio por una hora, y no atienden su horario completo cuando uno tiene una emergencia para comprar, corrigan eso o busquen una persona para atender en su horario completo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patty Azañero",
+    "uri": "https://www.google.com/maps/contrib/110730885694059401602/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJcPyLN9Bi-7mcqn-zNbXjFrQTCFVy9cX98KeaQLmdhsJn7rw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-05-16T13:05:27.530880Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4eG9XbThBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4eG9XbThBRRAB!2m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poNFpsbDVOMDV5VjBKWlRGRnBYemhYWW1aVWJuYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención\nBuenos Precios ☺️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención\nBuenos Precios ☺️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carito MV",
+    "uri": "https://www.google.com/maps/contrib/105349863894814273900/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXXDv91Ewq7wGpLB3tGS4tVvwiFv6uyiVDKIn6gJt39WWYtrUM3Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-06-19T18:37:09.234506653Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poNFpsbDVOMDV5VjBKWlRGRnBYemhYWW1aVWJuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poNFpsbDVOMDV5VjBKWlRGRnBYemhYWW1aVWJuYxAB!2m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaHJyMHdBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La doctora que atiende el local es una profesional y con mucha paciencia a la hora de explicarte sobre el producto que vas a comprar, siempre te da soluciones ☺️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La doctora que atiende el local es una profesional y con mucha paciencia a la hora de explicarte sobre el producto que vas a comprar, siempre te da soluciones ☺️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Tania Zambrano",
+    "uri": "https://www.google.com/maps/contrib/113580502151178430791/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtxny7ICpcQHfRQvKEL3Md01YuIKxMihiOB4p0N7r3PCwL=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-02-08T13:09:32.525206Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaHJyMHdBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaHJyMHdBRRAB!2m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMbLKa1ZRC-MVX7MQGztgEANOea5PCXVAL4Ie0wxF1HuDvZf49ZoVTDpls5hV5YSWzjrSZ4HlDYuWh5u0ykRFlZ1WNgu5xtaDLzE0Hb_8SeX-Gv7wk5p3ZssVM1lJq-S_GKYJOADFb2SZqLAV6jWAOKOEMgY5i9BPNpTKP-OCeVjd3894y0FO56gHs_xlGBJfmJFtq-YIlp1F5tmL8IqAHQheAI9zE4Z9qZgtfiteRKClHb_AN3PQb_Cht0_dahoqsTR7T2aSV9cr9v98IDU-NeFEQQOLElql5aysXImp0cxzhHV5U1qp9ZsKC28sAl7y9JDtfDOLn3ErcZ5PHuSDFtO1dGLGyg1Z-G_bLf1uCZ17E654bKHvl9r3SaeBNe7ce7bE228xb0pdMPO72LwsuDOKWz0Tb8",
+   "widthPx": 1877,
+   "heightPx": 2886,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICau7qIgQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICau7qIgQE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMZkzm6ALasFV6onbF3PLpiwe0WmMkEra7J38mFGzRVwzh5m1gnZnMQAwz8g0nihy32I7NqkZTg52zujw2LbnYGxmMbg1YS8RxmCEJ9qXPuA1DS1cQOUvYOxogo5hTSiIXmDBzEi-6ekp1c_n6Ush1I9xozhv53lHtnKxYGHF2FTUQm0DkanOW9cfi--RqvhtJN5vwL7DVV-He7lJACd_yfUUjUvyWDO2tUo6QPqb9Pcy45uA0Noqut947xnYrL3F2ZJuiVN5W4noDseAJ8orjHNGnyMXJFHiM8bUihMYl3nWzjP08BH6mFuE1VlrPZyL-GVuqjocI4qCLolv7zXZG_vcch95YUqL3S1HyJLRQ3fcZWeu4L7Mi-dD3I-FTxsMcQGXvwmaEZbR_CexQYDbUPaCzlnPqI",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8q9rVjAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8q9rVjAE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMasvDJis9UyQ_JvHucBr44t-SVxfpG3BS05i7OSAybcNhkL29Wai-4m0MC8g_l4vIhnrpuIA4o0A1VAWoSMgn9_0WUR_F0-YkY-rxBAi66CdKzjo8w2QodqDCnFSvdhsXP9OPzIo0Tru5hPYZuvZN6n69ubMJSaZOjtsAJm_GwBhItVtE67CKnw75kGjOQNNN7M1bD3Xz2dMF7bw8nLhXXKPs56t7tZvQcVOP1KyZ6FxzcQM6GoADTHIczV3U3wM6HGqqkGoN9y86F0b1p4aXuN4XAzdh2V8p0JZIccOFBTQl_FrPHy0WDEHs_riXDXAljJFqjJKtRlHKswSrcugD1SP1AQSgvvHxsMMkp3t7RxmS8mjlT9X1cSxwSP-gqHm3E00sOrQp2WXyMCIjqS5_hTJMs",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Consorcio Veterinario",
+     "uri": "https://maps.google.com/maps/contrib/109343095692149545801",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7z9K7qAgQdRHYykYcsvLLrlBsq9tv5cP6l5bs8NHQKqUcBJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8q9rVSw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8q9rVSw!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMarNjlNF1axkEjiARV7n0tIUe5yzoAo-cSXULo4GQDvbRbi7BGCGGvaEyVgOzKk1ubFTjJId9W87rYtrRsgRVOi7p0H_sgS4sGfF4CfPF0XLo3Gi53JcaTc7FXrcKv5Cys9DVv-zwt2kNj8aFou_tR8HP3KI_PiTSrSqHEurWPndYrK22eF7cSN-klDeUe39XqKhqjJW4iThCHhGftiqJBQ2CNQxLYEE20VDH5PwRrs-4RkkDhi-RieCVAB4e9oJS4ZTbgGm_ACci_EpxF_03R1BRYpN4SV7WbyCsuSCNYXaZYjgty1KJhfldPWNsQPKgAiQwS30Ug2bgSH8YscdpIblCch4VctlasThPhNc4yDdmVSYlhCUgnIjxmH1dok0Fe6T3vI6-ErhRiBwNAbh7NnpAOhksc",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-suvnQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-suvnQE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMaBQKlIFsdyVoHL3o-abmGIHq_deSNK5vmlAW7XWNBCXTjcT2JxZXidafcg3iQjfvc9NPcOLlJNmwRCEMka9hKEnp0lhZe5BSSLy1nssR-TMUJq_euxN5VoCjy3HPvsG0qdkS5B3VS3CWyt_WeEVPZnwo78n0Jy8GnhcI6fwWnclmJ89K8AQd8hTz-NYqbvm4VQKSLoWwF1uOvW78un3OvJonvtLZUAbJ9lsMVA9IyFj3XNL7gjRkxkEi7I7DNqWZ1d86EXSzjQBrcYjBlFd-CjKf6WP1AOeds2t8ixbxKFrfNs-snYL-QDTqG9QMsWlVzRJtJujVF4wkLGuKaOwCn_qa_OPr4ZGvhEf_doPjwHNdtCRgpn72Wdm7xWK426rQyCZuWJjaseSCUSPnPMmfu_3HJUPVU",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-suvtQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-suvtQE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMbkrr8OHnqvYLmd4CKb3q4R-GjQzpRPT7C6NVeSEVC7VQ0R8xrXyZ2WIJ541Au9370EV80QvgNNvisoVgGzgX-Lq_6qB5bmFDU1KH5I00jnD8mt97itGgUI88R-YqE5l4_fzo4_cCGCJV-7bppsIeKU0Ho7sFgzzdddg7Q3yYu4BI8PMvxgeK-Ix9EXxSTugYtvggaOlbx-az4d1TgSrLdgpGad__H_-E4XFmL2b2sDMMD8N8mNzRiirnZshh5_haomYZTSyzK_h3qImCYYDpsadbfKfTl-AowPSP4co5DKinpHbIPkrPgECcl1pCVztfETtAQXNlW3XAtBMGgvObFzU1xYEz7vIW-GQv1cLstMTV3-DbOTeaK35OlFCpSDrN8LTW8U9AYXNQ8H-caJBSrPhTkU",
+   "widthPx": 1728,
+   "heightPx": 2304,
+   "authorAttributions": [
+    {
+     "displayName": "Diego Isaac Velasquez morales",
+     "uri": "https://maps.google.com/maps/contrib/114374239380752857912",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_lS0GPe0o9VOwL-eH4Hwupo4EhhTQnseNxP88GP5-vMwgDLQU3g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEN-M-Zy1iqGklQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEN-M-Zy1iqGklQE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMZke7U02rzOfodVVmPvPOG1c7_rQyLm4Bkgo-_lgsMp8HOg9_GEdmWM6TzArKYuP7sPjulfpmZi0YBrh8N5eBoUXOKWcs7CZaxdAqv6MoQFFPY-7OndgK_esefSAR3PItwS508zdSkQW8qieYnh_Ca3pNXmLcSdfjyKFBMrJaf8whP57cg4OEqHRK40OcLxdxG40268wUVydZJwUcKKe7hpz4qkAFLo-v96H2F3wzksKyRoMy6vqm3uVUp2lUWTIyDeEHPgdT-XLlYUBdVxCoScFdITgTwQrEWZsb3b9meAMeb5cytfEbZJciPgcFXgLM_wSyo9MKCxgX0t5y6bxAMb_vfagdzzNnMneUs9fI6wQM50WfkP0v0I-hv1NkciKwo6fev1Zvu4OWQluLPLAy20oMg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-ouGBQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-ouGBQ!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMYsGCCcCrUUXAH4dgk0mQSYdvWmwSyoJik8YKY62kSAFfCMDd1GkT2OHDDo7aGW890UqpnnGEWXQEcKiKaD29K19K8qcQRPAKzg4__c1vnjbJkceNswgqaCsNV64BBio_4gLVSboz9Ap24LaQkf9nsHWUm0brZ3paHtupFGrGqFwbVVJ1F92ULw5HeJYjSSD0Qqlszz5nEpIuKr5jWIGT1LZKNnseCbCZ-pZZgynaXcqa5okPflqiKTg-fxnMnhhGMjK8MUTUula0xO8aRynsMSxq9JePw-eXm2l1ODR6cvnGgxFDI1dFTyvacUbkt-kACsV5S_tXGS-asf6YQQ6fWuXA9e4LqIzsNAs5gYIaycbGBet0hrvZHg8RuZqQVShN42qTYABCMkU6cr1BISQLGTpoQ",
+   "widthPx": 1877,
+   "heightPx": 2886,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-ouGeQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-ouGeQ!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMYo7ZECkp0KmxfMpZ8ptitvRYVDvkmQsiSXo22sDSbf8Wklp6og5Y_1WGFQbeqwDxs2oWOVrmWScm5zTRAth4Tl0vUTU_5ogQrlOnFgb3e98SnyqcDwwI-WbYmYtTdWO1rZREuo52qUQkGj-PtWd2HhwdHKS7Wk8lBUdCm8ZUp9-0rLFjMplJ6FDwtEubcjHuQWjxzAYeXMk0kYV0uUmAIwvBMWcFCISRyjWNueOtMBmiZeYBi_gnfloI394b9Nw-wE96xzUemlZdHMdabuOhyDqH5TT4YBqmuBfckNvryz4HC7_tt6RqbycZfDu6pvhT81ExXVDY3sEie--tdxvThU8AF-PrdNi5C6PZ2fap-x84X9ZTh3MgG0PfQUIeLSLD6sH50JwxiUg4GlnmaRQlPbTDc",
+   "widthPx": 1728,
+   "heightPx": 2304,
+   "authorAttributions": [
+    {
+     "displayName": "Diego Isaac Velasquez morales",
+     "uri": "https://maps.google.com/maps/contrib/114374239380752857912",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_lS0GPe0o9VOwL-eH4Hwupo4EhhTQnseNxP88GP5-vMwgDLQU3g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKENHhtO3k6LyjQA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKENHhtO3k6LyjQA!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  },
+  {
+   "name": "places/ChIJPW6jdkrGBZERhjQaNhNKWD0/photos/Aa-ngMargH6mzyZu0AZ8IJO1ppDvJCcWyFcQb4KnMEDk7WqbkIsv0heCXLssDEVXJRkkrmTgnMNvlcT06NzrW1SGuSSQoljXEggswtNIRXmhT8WuLcbk5ln6SQG3UHmjKCGoPqo-7R9b511k1-4DgCNXoRmJyRrZ89RvNR-IS1HbAsliXZ1wz5zlFROFuhlXdaKo5vtPpkCX8TL3WcbEsdMvosANI8T3huLYvIAdj-QD4LzNp3Z_3oQnWGCz-4y-jKR6lxA06O9OOjFXlU2awDpqevA2YUTK7PnP4JKL_KAvatoiDd_-AZ2xdqQ7PDyvdFm7p-3mfAnD1oOBW0CsDpeRDHN2c6zxOvecCk9fUyJGC7X0IRjL3nQObe8ZMKdsMhPy9G6ABMMcSwRQgdFRfp29hml9c0gRdw8",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Rosa Toro San Luis",
+     "uri": "https://maps.google.com/maps/contrib/103780962605793550085",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8mF-ykm0Rf8GmvEvUssWjnP-CuSMvnr91dZlcqhL9UOnmPEwi=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8-suv9QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8-suv9QE!2e10!4m2!3m1!1s0x9105c64a76a36e3d:0x3d584a13361a3486"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

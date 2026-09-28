@@ -20,7 +20,14 @@ export interface Activity {
 export interface Place {
   id: string
   name: string
+  /** Distrito real (para vecinas: Lince, Surquillo, Barranco…) */
   district: string
+  /** core = dentro de los 5 distritos; buffer = vecina a ≤ buffer_km del límite */
+  zone?: 'core' | 'buffer' | null
+  /** Solo buffer: distrito de los 5 más cercano */
+  near_district?: string | null
+  /** Solo buffer: distancia al límite (km) */
+  border_km?: number | null
   address?: string | null
   lat?: number | null
   lng?: number | null
@@ -145,6 +152,10 @@ export interface Global {
   excluded_neighbors?: number
   excluded_not_clinic?: number
   search_cap_note?: string
+  buffer_km?: number | null
+  buffer_count?: number | null
+  buffer_count_24h?: number | null
+  buffer_note?: string | null
   count?: number
   count_24h?: number
   avg_rating?: number

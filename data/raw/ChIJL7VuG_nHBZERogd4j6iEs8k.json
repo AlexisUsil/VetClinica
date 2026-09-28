@@ -1,0 +1,473 @@
+{
+ "id": "ChIJL7VuG_nHBZERogd4j6iEs8k",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2713976",
+ "internationalPhoneNumber": "+51 1 2713976",
+ "formattedAddress": "C. El Sauce 117, Lima 15048",
+ "addressComponents": [
+  {
+   "longText": "117",
+   "shortText": "117",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle El Sauce",
+   "shortText": "C. El Sauce",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15048",
+   "shortText": "15048",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1257372,
+  "longitude": -77.0025895
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=14534106281951102882&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 42,
+ "displayName": {
+  "text": "Dr. Tong",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. El Sauce 117, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQmJrazRUVnAzVnpkcVFtdHNlVzVXUWpaNE5HYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hoy discriminaron a mi Bichón x q en su baño anterior le encontraron pulga, q seguramente se contagia cuando lo saco al parque, me dijeron q como tiene pulgas y parásitos x salud de otros perros y el personal primero tenían q revisarlo, yo llevo 13 años llevándolo ahí sin ningún problema y hoy me ponen excusas p no atenderlo, y cuantas veces me devolvieron a mi perro con la piel irritada y nunca me quejé a pesar q se los hice saber.\nCreen q nunca van perros o gatos con pulgas????, algo realmente fuera de todo criterio y lo peor q no hay ningún cartel q anuncia esas condiciones.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy discriminaron a mi Bichón x q en su baño anterior le encontraron pulga, q seguramente se contagia cuando lo saco al parque, me dijeron q como tiene pulgas y parásitos x salud de otros perros y el personal primero tenían q revisarlo, yo llevo 13 años llevándolo ahí sin ningún problema y hoy me ponen excusas p no atenderlo, y cuantas veces me devolvieron a mi perro con la piel irritada y nunca me quejé a pesar q se los hice saber.\nCreen q nunca van perros o gatos con pulgas????, algo realmente fuera de todo criterio y lo peor q no hay ningún cartel q anuncia esas condiciones.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cecilia Fuertes Espejo",
+    "uri": "https://www.google.com/maps/contrib/115132472690791444506/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmLkNQYn7c5bMuKg7qf0FdA49eY5QWAk5H7uitkOI-_nrrP1kX=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-11T21:50:26.892999590Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOQmJrazRUVnAzVnpkcVFtdHNlVzVXUWpaNE5HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOQmJrazRUVnAzVnpkcVFtdHNlVzVXUWpaNE5HYxAB!2m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4MHBXcVRREAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "El Dr. Tong es top, curó a Camilo de una alergia que tuvo por años y posterior a eso lo operó de la rótula y ligamento cruzado, excelente trabajo y precio justo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr. Tong es top, curó a Camilo de una alergia que tuvo por años y posterior a eso lo operó de la rótula y ligamento cruzado, excelente trabajo y precio justo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Juancarlos Sala",
+    "uri": "https://www.google.com/maps/contrib/100483370616536852036/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL56Ir538snkjyivv4WQ0gIhJJPDgeFl3Tz22dwXBSKZGzecn8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-06-30T03:17:49.100475Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM4MHBXcVRREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM4MHBXcVRREAE!2m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5T2VFNDJSSFZsUXpFdGVIZFBVREUxYm5kMmFHYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Hace años tuve una terrorífica experiencia ahí,  no tenía infraestructura adecuada en quirófano y sobretodo no contaba con internamiento, sin embargo hacían operaciones muy riesgosas, mi perra murió 🥹.\nObvio nunca más volví, quedé muy decepcionada del Dr. Tong.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace años tuve una terrorífica experiencia ahí,  no tenía infraestructura adecuada en quirófano y sobretodo no contaba con internamiento, sin embargo hacían operaciones muy riesgosas, mi perra murió 🥹.\nObvio nunca más volví, quedé muy decepcionada del Dr. Tong.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marlene Caballero",
+    "uri": "https://www.google.com/maps/contrib/105476599395737547254/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_RVEK0BzW11VMfbdlJ_Y0Lchy2gKCskYcwrZQRbVvIEyvv-bC=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-06-13T04:43:20.694637744Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5T2VFNDJSSFZsUXpFdGVIZFBVREUxYm5kMmFHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5T2VFNDJSSFZsUXpFdGVIZFBVREUxYm5kMmFHYxAB!2m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5d3BXa3dRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente profesional! Ha tratado a mis perros y gata con mucho cariño y profesionalismo. Tomo el tiempo de explicarme su diagnositco y respondio a todas mis preguntas, muy paciente!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente profesional! Ha tratado a mis perros y gata con mucho cariño y profesionalismo. Tomo el tiempo de explicarme su diagnositco y respondio a todas mis preguntas, muy paciente!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jenni Ahern",
+    "uri": "https://www.google.com/maps/contrib/102826535860164791458/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqyeohLacXPhS7bRexiNxgYd2gea7OqSIaYX6HrcreFmZ4salHMw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-03-14T17:23:55.978157Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5d3BXa3dRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5d3BXa3dRRRAB!2m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/reviews/ChdDSUhNMG9nS0VJQ0FnSURDdkxIMnRBRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención. El equipo del Dr. Tong es muy profesional. trataron a mi perro muy bien.\nAltamente recomendable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención. El equipo del Dr. Tong es muy profesional. trataron a mi perro muy bien.\nAltamente recomendable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luis Rios",
+    "uri": "https://www.google.com/maps/contrib/109234879879145189263/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyUje39m0xb7w4SJajQ0ttFu5qfjERUKPqWFuTZBuHialdMW4e=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2020-09-18T20:22:31.724027Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURDdkxIMnRBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURDdkxIMnRBRRAB!2m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/photos/Aa-ngMbOCso-FRSBTJ6f6c_ZlDsSJPEN-mO0pC5E5yXV3Yyda8XNDVKzYejfo_ELTl9cpUfJNYLOSQc4qyh2rHPXl0Q2Q-TgtmPIvVypTU0L39C1VbnzJlgnwbtRGnt9ACa7ynAhHtSBlYXwhHO4hhl0ZLKyedOqWWcCqXdFDV_HJy23_jY8e2RrELhVBCrjDRf0tCUQ450g4LBLWulGh9v3hyf06aMI7MlWYru6uqgxxCSFUw-iZHaDEP-GEWe5Yr8y9FVr8Vl9mW0YwXncvdGI5btvehmu6um42SSiK-gmq7Q5Td9kfJHYDocXy06k2pQJfw-gharlWfLnP1XU0FhRF4pOmhe9ljpwtS41OGan2qfU2YF0jcITaI3XT5jTyIRsO4a_nhJgGCLp2RPhsz9IdFy86-XLPKM",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Juancarlos Sala",
+     "uri": "https://maps.google.com/maps/contrib/100483370616536852036",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL56Ir538snkjyivv4WQ0gIhJJPDgeFl3Tz22dwXBSKZGzecn8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC80pWqrQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC80pWqrQE!2e10!4m2!3m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/photos/Aa-ngMZRmfsG_VVtMfymQ_TO3IeGfN62M33cDIHwujSVTkjGAh6OYbn-t1c9jM77HdDZnYaadOv2C2u7pqifcv6xuHOaE4CpZObsfrn31KeZZiPJXOXY8Nhbp3xqKGMzSa7W45MGXwKeq5pPtoYqec1mEPC61s_b73djMVyEwfQpXrgJc7YA-kfctlM0U2Xb_qfrnA00DHGyaA56z27BmKudVNK2DtctHwtKxHm2w-uHU-Xt_DA_cW9IiNBrVYz33SE8Gtv5eFzUVDjXFe-kxV5ghXGGogQDpYVFXpfi2aYYBwIQXVLOtTA4HdWTexxUbhkRYfiPmFM5EqjuB8aPEmxrU-qjh-nZwKInUxDoGnbHRy_COOQNy3bxPDWP8ViHUzuqLxB_GRR9n7ahFaob45PqUmFForR7lGM",
+   "widthPx": 780,
+   "heightPx": 1040,
+   "authorAttributions": [
+    {
+     "displayName": "luis perez",
+     "uri": "https://maps.google.com/maps/contrib/103855943657265763666",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAm_bzSjx6sxTpoGGjXhT9tmL48mVlihDT1hKr6NQiJUyyslB3=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKsvuV3AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKsvuV3AE!2e10!4m2!3m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  },
+  {
+   "name": "places/ChIJL7VuG_nHBZERogd4j6iEs8k/photos/Aa-ngMYM0ApJmaq838OgGHwFhY0n37tgdCQo9eJWz-EZPUVgWIaJmW9unLYaLZX_t9I_zJ9LFYVpPZcaV-eO0elgSV1dumcDXulfxgSwQUbGjgAaRNq-xR3yfjFuOs8anfwEHOCqlsQNnCjEBE_xfBPhRqMgjILcQkYCn6fidv1TGYuvZMF4zniKXtj2MVsdTmQlR5l_w5Ep0DDO2W6teis4Vku8pkCRceeVgMhioTz7kheOO6llUskGl1GIZCmYbfPRlP2Uxu3vzbZ2XPQoF2S87B86AMIWrqtnD0EsdbwOa3GyyuXoRPKS3GvKj12O-NoWrVOAymo9eGPo3_CK6FBsde-hqMO3oQwrfn4pGLc1EP_XXxHPQQ7SRl_869-2kiFg4roiR5U8ZmIXIv7GFPx5BuMzO0E",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Franco Minaya",
+     "uri": "https://maps.google.com/maps/contrib/118176484688141235813",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlAJypyaH7qNjzb2_bdZbtszb2RKthNQ3MT1oRR2kx0WEL_g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICawOukUA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICawOukUA!2e10!4m2!3m1!1s0x9105c7f91b6eb52f:0xc9b384a88f7807a2"
+  }
+ ]
+}

@@ -1,0 +1,437 @@
+{
+ "id": "ChIJ_X9KLoHDBZER26gKG60HvNg",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "971 932 222",
+ "internationalPhoneNumber": "+51 971 932 222",
+ "formattedAddress": "Av. Nicolás Ayllón 718, Ate 15491",
+ "addressComponents": [
+  {
+   "longText": "718",
+   "shortText": "718",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Nicolás Ayllón",
+   "shortText": "Av. Nicolás Ayllón",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15491",
+   "shortText": "15491",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0242521,
+  "longitude": -76.91442769999999
+ },
+ "rating": 2.8,
+ "googleMapsUri": "https://maps.google.com/?cid=15617366047878457563&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 6,
+ "displayName": {
+  "text": "CONSULTORIO VETERINARIO",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Urb. Cinco Estrellas, Av. Nicolás Ayllón 718, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/reviews/ChdDSUhNMG9nS0VJQ0FnSURXdGY2MS13RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 4,
+   "text": {
+    "text": "El doctor salvó a mis gatos de un envenenamiento y una infección grave, estoy agradecida por eso. Si tienes una emergencia, acude a él.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El doctor salvó a mis gatos de un envenenamiento y una infección grave, estoy agradecida por eso. Si tienes una emergencia, acude a él.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karol Moon",
+    "uri": "https://www.google.com/maps/contrib/112525192290191578667/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU32N1t6yEAInnI2WpnuHW_APg9qXbwsQ4W5k-NewEosVQgsI=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-03-30T21:07:31.031163Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXdGY2MS13RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXdGY2MS13RRAB!2m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  },
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5czl5NVhREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 1,
+   "text": {
+    "text": "NO LLEVEN A SUS MASCOTAS LOS MATAN AQUÍ, NI SON HIGENICOS NI GUANTES USAN MATARON A MI GATO",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "NO LLEVEN A SUS MASCOTAS LOS MATAN AQUÍ, NI SON HIGENICOS NI GUANTES USAN MATARON A MI GATO",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pikaroon_ Zecrett",
+    "uri": "https://www.google.com/maps/contrib/105729626213018226290/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLG3aab1SAjkRxtl9OMDkiJxZRv-qIeo-Gu_lRG_oJVLbWYD0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-03-16T18:41:53.410140Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR5czl5NVhREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5czl5NVhREAE!2m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  },
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/reviews/ChdDSUhNMG9nS0VJQ0FnSURpNHZhb3pnRRAB",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena información",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena información",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Paty Saba",
+    "uri": "https://www.google.com/maps/contrib/110393320814887928549/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVHVEAYhAaLa9EkzSXyWXH2I1rNET26hwBXme3tgnlZAxn9wqg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-11-30T15:25:03.778253Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpNHZhb3pnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpNHZhb3pnRRAB!2m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  },
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/reviews/ChZDSUhNMG9nS0VJQ0FnSURTemZfdlBBEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Diego Caccire",
+    "uri": "https://www.google.com/maps/contrib/109167566471750520275/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_sMfwrZfDLkbN4O3sNI2GMe5Km_p3AY1v-kusJplasyGjXg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-01-04T22:36:48.755312Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTemZfdlBBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTemZfdlBBEAE!2m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  },
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/reviews/ChZDSUhNMG9nS0VJQ0FnSURxMGIzNEdREAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "cesar escalante medina",
+    "uri": "https://www.google.com/maps/contrib/118412346352379183032/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNfMH8zybB20SXF6H0bNmNYU6kybEkp5-L2R2il9CMq3IxT1vD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-07-11T18:35:51.007513Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxMGIzNEdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxMGIzNEdREAE!2m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ_X9KLoHDBZER26gKG60HvNg/photos/Aa-ngMZx62A5majQL92Q6joV78nrzH_VmpFDw5FynwX5yZcnCNQjPA3VrmXyBaFpHkiYH60hT2JRGvM45OwK71qrUX75W3hhl-sPx7-GuaiVVCwY0cKyeOjYJlRkGNigMG8AztV0G3lIEYE_P3aDTYe9YHRu_6Mf5CbB50eGVPO3e1eq2hkqCXBY-6ayVcUd2kV7s3W_zFXfAKLMJYcBnS4rEPl5uxqxYxwyPGw5IXHYY4uex4q-gCKNDteDuqKd_AhH_1Pyvyk9xfVsFl8AKOUyHY4oUPKqy7ZLSr-MB6-pyG5UO8w0xw6wloADiT0YMZGQjeVjnx26EtFTvsfi8qAwF2Fj9nMbaWSEu-ggUJQSLQZSfyeZAt3wzjbdAR5syvxnRuWlNoZHBDl6R9qYxhPZwzGC1w",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Kelly Dominguez",
+     "uri": "https://maps.google.com/maps/contrib/112535538907577007405",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5D8Gd-BWIU1qeExrXBsiYQ7-unY3hljc8qRFPbAYQratgRo4k=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCkqDEWg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCkqDEWg!2e10!4m2!3m1!1s0x9105c3812e4a7ffd:0xd8bc07ad1b0aa8db"
+  }
+ ]
+}

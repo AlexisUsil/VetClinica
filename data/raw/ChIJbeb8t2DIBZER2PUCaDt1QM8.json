@@ -1,0 +1,575 @@
+{
+ "id": "ChIJbeb8t2DIBZER2PUCaDt1QM8",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 078 325",
+ "internationalPhoneNumber": "+51 999 078 325",
+ "formattedAddress": "Jirón Soledad 354, Lince 15046",
+ "addressComponents": [
+  {
+   "longText": "354",
+   "shortText": "354",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Soledad",
+   "shortText": "Jirón Soledad",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lince",
+   "shortText": "Lince",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.090512799999999,
+  "longitude": -77.03199010000002
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=14934065262369109464&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/Clinica-Veterinaria-Delgado-191533124200689",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 204,
+ "displayName": {
+  "text": "Clínica Veterinaria Delgado",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Jirón Soledad 354, Lince",
+ "reviews": [
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ONGEzWnROamRFTmpacFZUVmtTSGN3UzNkT2FIYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Súper recomiendo los servicios de la veterinaria! El Doc Max es muy acertado, además se procupa siempre por hacer seguimiento y solucionar el problema de raíz. Atiende a nuestras perritas hace muchos años y estamos muy contentos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper recomiendo los servicios de la veterinaria! El Doc Max es muy acertado, además se procupa siempre por hacer seguimiento y solucionar el problema de raíz. Atiende a nuestras perritas hace muchos años y estamos muy contentos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "wendy benites",
+    "uri": "https://www.google.com/maps/contrib/113401932725400919506/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeC9twR0fr_AykRydAkq7klxAa88UbPhzRC7F9s6LpdGu7YQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-13T23:30:25.675507647Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ONGEzWnROamRFTmpacFZUVmtTSGN3UzNkT2FIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ONGEzWnROamRFTmpacFZUVmtTSGN3UzNkT2FIYxAB!2m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZM1VtUmpRMVpuTVZGVGFUbFVYM2QxVjBSclYyYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Agradezco mucho haber sido atendida por el Dr. Max Delgado, me gustó mucho. Su paciencia con mis gatitas, su dedicación por explicar al detalle cada parte de los procesos y mis tantas consultas. Y obviamente, su profesionalismo y amor por los animalitos. Estoy muy satisfecha porque me da seguridad.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Agradezco mucho haber sido atendida por el Dr. Max Delgado, me gustó mucho. Su paciencia con mis gatitas, su dedicación por explicar al detalle cada parte de los procesos y mis tantas consultas. Y obviamente, su profesionalismo y amor por los animalitos. Estoy muy satisfecha porque me da seguridad.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ines Elejalde Franco",
+    "uri": "https://www.google.com/maps/contrib/112504042211186972663/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSvD2QHqD8CU70bR-OpUH9oqMrIXsGcwi7bAZtQ0j9Wh8fxtov5A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-29T23:07:33.779513740Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZM1VtUmpRMVpuTVZGVGFUbFVYM2QxVjBSclYyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZM1VtUmpRMVpuTVZGVGFUbFVYM2QxVjBSclYyYxAB!2m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21scFh6SmxOSGhpTjJGUVNXUkRSREJaTUV4blFWRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! El doctor Delgado es dedicado con sus pacientes. Mi perrita empezó a tener fiebres seguido y el doctor le hizo un montón de estudios para llegar a una conclusión, me dio mucha confianza saber que mi perrita estaba realmente en las mejores manos, ahora ella vive tranquila y controlada cada cierto tiempo y su calidad de vida ha mejorado notablemente, adjunto foto",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! El doctor Delgado es dedicado con sus pacientes. Mi perrita empezó a tener fiebres seguido y el doctor le hizo un montón de estudios para llegar a una conclusión, me dio mucha confianza saber que mi perrita estaba realmente en las mejores manos, ahora ella vive tranquila y controlada cada cierto tiempo y su calidad de vida ha mejorado notablemente, adjunto foto",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "daniela zamalloa",
+    "uri": "https://www.google.com/maps/contrib/104247443306011145052/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1aAeoye0ESw7TH7QMtxq4sbJIgCxUrKVwJTc-yzOyXqA3UhY=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-08T21:42:28.684864811Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21scFh6SmxOSGhpTjJGUVNXUkRSREJaTUV4blFWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21scFh6SmxOSGhpTjJGUVNXUkRSREJaTUV4blFWRRAB!2m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSS1dtdGhSVmswWkVKT1dGWlhVVEZSVWs5S09VRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio y calidad de atención del dr. Max y su staff!\nMuy preciso con su analisis de cada caso y transparente con las alternativas de planes de solución o mejora para nuestras perritas que son sus pacientes de años 🙌🏽",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio y calidad de atención del dr. Max y su staff!\nMuy preciso con su analisis de cada caso y transparente con las alternativas de planes de solución o mejora para nuestras perritas que son sus pacientes de años 🙌🏽",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carlos Torres",
+    "uri": "https://www.google.com/maps/contrib/100566814524561545663/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_SKkk1j0l6nju8ZMBe4TcqYg9_ENUSS2Bm9OSdU5pZ0WBzw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-13T23:30:31.435539020Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSS1dtdGhSVmswWkVKT1dGWlhVVEZSVWs5S09VRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSS1dtdGhSVmswWkVKT1dGWlhVVEZSVWs5S09VRRAB!2m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toWmJHcFRSVEEwWldsdVpWVk1SV05EVEZOWU9IYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio! el Dr operó a mi perrita que tiene 15 años de edad, la cirugía fue un éxito, nos dió mucha confianza hacerlo con el, nos explicó todo al detalle, la atención del personal también muy buena, 100% recomendable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio! el Dr operó a mi perrita que tiene 15 años de edad, la cirugía fue un éxito, nos dió mucha confianza hacerlo con el, nos explicó todo al detalle, la atención del personal también muy buena, 100% recomendable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Silvia Huaman",
+    "uri": "https://www.google.com/maps/contrib/111577047734261082300/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUIFiKnvcXbe8uvgpIVovxfAACdxwka3gn9vOIR9a1RH7Uag=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-23T21:34:02.146887117Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toWmJHcFRSVEEwWldsdVpWVk1SV05EVEZOWU9IYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toWmJHcFRSVEEwWldsdVpWVk1SV05EVEZOWU9IYxAB!2m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMa7e9XvmepCTOBBRNS6A5ZRSh-a4ZcQpBILq5RALZn6vbk4OVTUPdJYAPVmqIzSGaWC7IGo0STAMs50MohOUyf216pYgZX3nluBktZo-kqheSFOApZeSF3X_wrg6sHj4HO8-Xk-HwkENWwFvH-MfoUaMiKotnEfkHVgsWhDlNPjasVRbT4A0IPSdeJI9yM0UyRfui5cnS6dAOUC9ylu-4n3VzKvliq5VOeNaZ2jAaF13N-rG0zqQ4MTRzK7b2XSB8bGZEoinPYiOkJnLpHAZkr_UGRsGDA_-qKnNROxkIHWreCldyu9YGIEUJlkLMPEcGe4QIvg9QtuHEiwp9PZbtmJBvSRA2pxd8BSHCXJWhXPk5LvWQGtM8zSztfzIpyDaOmAHC74MW0MsXyYU-0f7Cb0Y4SsR6XohPis9TtXPXIw",
+   "widthPx": 1439,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "hector cabada",
+     "uri": "https://maps.google.com/maps/contrib/111833974466216908945",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUi_-IrS7kPFJoxj4y-8Qz_ctSe6FL7DksW0JvxTpuBrBgHJtZAvg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB8wJ8eQT5h3kX3u-F6W6ib&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB8wJ8eQT5h3kX3u-F6W6ib!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMbHkBw91rHwYnpASnVaMMcCWImTUyp9c383B61-4vElC0D-9rwmZDjwIvtS5QcNgKbcqYKca1BXBPPUIHBegETwaQVgTLuOiQVeZXyjEa4Nn8-IfBhgAniJ4lSBR2hHvMeoM6pcwf17UdowX25UhtoDD9xwDMl0fFtyu_qnP8wahYJL8ggBdkPrHp5slQYsQMBMlWJqc0glGs5Wjoh6Aj-X4d9Sc2NIrIdjmLePR1bALDdcIEtZPDNz5pHlFiMcW-nLbZFOHNHgRma22Dg2yBTYFUrRaG2z6Gh6q-2qmfRM-KoJ4W7uwr9k_1jw1s_eHBDA6lsVFiaeWR8WBRZCI6uO-uU3ZO183DlYi2jKzH219VMJD1G0jFR34dbjPGleLGe5BsPpTu8Rrl9FzWcWbxIpK7LB",
+   "widthPx": 4160,
+   "heightPx": 2340,
+   "authorAttributions": [
+    {
+     "displayName": "Cristhian Martínez",
+     "uri": "https://maps.google.com/maps/contrib/100397034240287046630",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW79XfvRA4mB5CooPB9kLUXcJjf_AwtdrRENZl3W8kjH1ZZ67GagQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkuPPG9QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkuPPG9QE!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMaiAHHnc6l0iOYgS8iZW21nY5Py46N8HdrG9BVF82T6mcf9vXNefoAQLnd24SV6JtoA8TX6TX3UeJqbUuX8Tfjxnfz6Ggs5Ba92b0C8oXPLSLSEB7AgKsl8KCfKUK17OLcCQbp1eshO9zt2GtAV9rDLF0T650Rzi_LetK-MmW27dZLC9ZsnTGkAXWMeWL2eB-6aP-iWJLFqrSpDtPwRvfgTQKdlabfvQJ1ptsaF9ZeMR10SeidEKzXel-5w7_RrdrWcVlkCUzFkw0m4J3jnHkPl-lor2ib3SAJOdiFFA0Eta9vGYFUQHOy5t_QwHpc6Qxel6UVTZCJGH5LF3_7nPevMMK5u0Ijbqr54HYrwtCM_P_s4s1Sj6mNKMUdHK4w_yCD67ziYB4fj3DF8lOOCZeIzag",
+   "widthPx": 794,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Delgado",
+     "uri": "https://maps.google.com/maps/contrib/108627727488150063998",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsz_tU-O1h4hSp1_q6-022KsGTeYd5-xeb-2SwiniRdrHa1Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID5zqD6UA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID5zqD6UA!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMYVMuKCA9DpM-y5cmS3_-qODPCjhXzyz9_74vfsdbCkVCF2b2s8v2y75l_2PONZCeWng7ynVBujkbxtA3NtQR4WIUkMIwS-R7Mv72fmS8clrQOBe8bngqLczPOc1fYqWuSrjVv-kYs8gjq6B280iisG0-mrySIkl3UQGy0FwA8cahjbvkq9b89euuTEylzyeG5fbnWKUZ6j73IplXyPamTWBGEHmExKwBdcqhAUMNS0ecj5qJW93R-PLgZZKiGjWBBY2fIIledlW5AmqksoMSWxqO_CYIbLpnubmhyrxh68Kb2BIZbLlAluSdxj_y-HGMdzUw2y-ucIAZhQXP2BSiztLOlNfOincMBu6FnWOlcpVz2v2BjNkXWqhue3a8kG7RhOfnV0IQkgORZskkZ_iMeBpQ",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Ferrandiz",
+     "uri": "https://maps.google.com/maps/contrib/117610862121926209364",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6DFpqkBXKj2EJsKe-DNSRs1q8OrnSMJcydTWNd9hYtyuAYz_oRA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmvdCESg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmvdCESg!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMaS8NgoWkZq_HWZtu4Eg9IEwZHeaN5RGVY8eJfrMbZZGWc6x9YoFE6nYZDwzE9TsSh0Z80ZLehgwK-rP4FvUJgoT2ZI6i_5VvUM9T_3SKF7nUK2fNXirBSzRqI0KzY2MdV8gcefKupo30cG5edDNwRWeaeaPLg_nacbFFwHulftdI_T9qQ2s7Up1hNgp6SvUG9pHY8-xUl0fcFAk_hCBIC-qDFia_c1kQtZklFr87VdudqhXQAcjn2FrbSI62W_bA6hO8VZ7D71VOGlP0N6LzC0ZrwGiYjQjQf1bE2tGfHkinXHPUctkD2sbmqM1V8wm4VfmnXZSvaZq6usfvY_RpJ-Q2vBtTcYIUPo_Ns87y3-Xg_dnYFw6pn3NKuHikmD8RWlS3BNyY6mGUyR5El-PaR-hlk",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "carlos ortiz",
+     "uri": "https://maps.google.com/maps/contrib/113248267410693989736",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKW5PzohKDlIhBz2sRvgzk-6CWlXk8QwJwCPN74f-3b_nE_AA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE5PjAdg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE5PjAdg!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMaS_64zR_0lMz9tRooB5VC_7oqhw8h-FzABABB4AE8qVdI1tQAoM1bcKT3WZj1dQzvRr6VTlrR8-RIV-DnBLpTfnsRNT5MsZ7ECX_bhixh1slc0f7GrQYaDjMP6KzcLqN_Feg46errj8DTLY2rJb4rCtw40uVdnQFgCUyt89rBfckwMQkb8m7WmbHmpxuuKyT-yFitIpE3mhugTa3Oe_LFd0QQAazK5Q5A2SbzIwRFk7zgeym3uj7xFX_VHOMAaLKVno1_kdzhnsyi_65vfVEEO1-HGEc_gI5RnHmkj4LdCJUrO4WADvqv2ZOn_JHKAv00BFQMy3606xpvK-VREji0lL1iCJH46Mn4IsSSMmL9JGXcBxgyuWZSa8B7RDu-fM2fLVm7lMPipN79nKRlOTZyRi_nTIKg",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Jimmy Quispe",
+     "uri": "https://maps.google.com/maps/contrib/117332179771853728050",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKd5dlIFs-hZ52nrLHeRjZh9pNiEMzLzxUa3E6TFlowW1SoD88=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUwIv-0gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUwIv-0gE!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMataCvUeQ54t2viDDTxsHI1BB8A2n32GQo9_Jssri0XPmQzJPRb8jFT0JwPbjgS_oa5gu0B1l47ioRLr9Y45z0ApwtLuUIo9GvkvdZj3WQXP2htG7TB54sLHOfuhIVnYFnhs_uqsoPAnzASu-43Upafbll4NUkVmuBrwf2bvyp4DDPYSkGPZT-_BCsnNHzkcsvX0FdycpDsroXxaeA992iB3dn47UY4_jjvM5gC44emDOq16_8qGABOUh-OKHAHKeqqZCgLmcGZhCiq5cWOHgrcyFdsfspkOMQwXS3vQ2yfZWz35pHZ5Zdj_V390JMVZoFy5GgJvSfxawN58dnis73pj_Blo3XglBdvHmbw4B5DFkGanMuUH5Pkst3iGttztSXk28w1xn-RuvkEGfkEkGYf8vrvHGGS3I3CdAc7rFQ1Qw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Malaga",
+     "uri": "https://maps.google.com/maps/contrib/111124380181544266884",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKKOvpPdrUITlHZfO01eyXR9ll39HpsypGcVUZ5EXXcNAoCw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAmZjsxGYt8ixinnuc0JhjD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAmZjsxGYt8ixinnuc0JhjD!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMZM-KCJwHViu9WrB_fbyKxz-BLt6mxro30rKTs-reZiSWb6eT0hUhEHuo_xGaWI3cYQUeQenjgwvDNATskNUQco_-gELwIZBdezLAZFRc4TYVOja65NLKzE4qDX-QX9EsUaW7p7itNZM_wrj-xvN6sxFAV1CFLMact37Kjdqu25SeSjzFt9t6Rmw3dRqhzOEiF2EgJtWs5uwd1orTUH3hdgtj2tBJmYZEx6ChGIrouZBXffPE4uVjLaCNJGScx86rklQONGAoiMfUxDbFm-KcX40840bSlYWSt56pFc25KwtM9PSTgbDgzZqUKoXYHG_iyUQmiER_UA4lmHMlMZN33foGYY_ahskIZFdgs5CuN0xsQlHnY8vspbPyidUcJK3qQIrVzBsmBLGPrtI4v4yTERvDkPxyunMJjyshfTHSkAfQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Malaga",
+     "uri": "https://maps.google.com/maps/contrib/111124380181544266884",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKKOvpPdrUITlHZfO01eyXR9ll39HpsypGcVUZ5EXXcNAoCw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC2rznAhQm9-ihJDQ8N-SsE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC2rznAhQm9-ihJDQ8N-SsE!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMaRl-98Z7M8X2BQBdTWGVjUqQ2SGDirNklwUa_KoceuWyGcsAu32DeHpiaybQwG0_y7lmNdgDIrwWyUPy4zYcLltScXa17Y2yMqnDUw6f6t0qwqqe7H6slxlZnKZ2QeQYeRXe2fjfXqI5h3Kk2mXRxc1s2modfb0p4Q7ecY3URhgIuXoQtIFPXU3vnWhY_AZXQQn121j5MXuI_3QV7sQVeyDxrDuz1oChSSfaIEnD8sPnR8tDKwVKnysZLNc8wqe2UruBnitAOnk1NRoPmfloxuu3EIoZE8ao2lxo2ZQjhQUCCKg_LViaDzAtZb1hA9anbXb71_QUfW18pnkOW6GB2U-dM9TIM6OQFmQ2mnEFvE7pfuOhwims8-y_gyCaEvYRRKLLpsMv2V44bvyZGteT9PBp7jyUs",
+   "widthPx": 1385,
+   "heightPx": 1513,
+   "authorAttributions": [
+    {
+     "displayName": "Ana Margarita Medina Valverde",
+     "uri": "https://maps.google.com/maps/contrib/103973489723011772600",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX26tyWxLgMuEV3W-JUFfl2nWaUxQLXOFsNdgNtHm3VvWPw3PsPxg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDrmZT9yQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDrmZT9yQE!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  },
+  {
+   "name": "places/ChIJbeb8t2DIBZER2PUCaDt1QM8/photos/Aa-ngMY-RBUhXUdkZrx8Xv8cMqizKQVP0HH6RdsXRYJve23qv1fYxPCCHQiBMedHG3zHVjE6nB0kk-fW4uTQO4VXUkeWFzQ7rOvtHrRQm2l0Xho3m9aZ08CRKpoBGBwIdQ9lSvOq_gUGetB8IzBSrIjLwxx37FMhU9dcKsOEdlRSj-7iohAGffU9ByJGiyujNWCpX5pp7SmgEYghXB09DI5MvibUAXvbhNeOqa4E15rpHRBjdSRbpfcVRighOAB9Y6uDZLiO3F7GoIv4o3f43YhTNiNEgHckUNITGghQ7DVdJRY4SOH0ex2jd6uOfYhUJmmibPfBMsD1ijfDopJVDt4wUcr5UeVvkKwHBl9SFuK9UjvI7hdj-ZdHRC8mFiz5FTaaJZq6JYN1Fbq9AHUZcrRGYE2ATCNX9Ys",
+   "widthPx": 739,
+   "heightPx": 563,
+   "authorAttributions": [
+    {
+     "displayName": "Bethy L. Cajincho Ingaruca",
+     "uri": "https://maps.google.com/maps/contrib/101045813535364326447",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7KFtO4ejcjTrpWpPVZBu2vLtneNm1cjfsqHQ-tF1h6LLojeDiKg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDP_YWq6QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP_YWq6QE!2e10!4m2!3m1!1s0x9105c860b7fce66d:0xcf40753b6802f5d8"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": false
+ }
+}

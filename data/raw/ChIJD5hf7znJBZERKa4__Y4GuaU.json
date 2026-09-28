@@ -1,0 +1,532 @@
+{
+ "id": "ChIJD5hf7znJBZERKa4__Y4GuaU",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "912 601 927",
+ "internationalPhoneNumber": "+51 912 601 927",
+ "formattedAddress": "Av Nicolás Arriola 533, La Victoria 15034",
+ "addressComponents": [
+  {
+   "longText": "533",
+   "shortText": "533",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Nicolás Arriola",
+   "shortText": "Av Nicolás Arriola",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Catalina",
+   "shortText": "Santa Catalina",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.085005599999999,
+  "longitude": -77.0152781
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=11941583098153512489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 11,
+ "displayName": {
+  "text": "Convet - Santa Catalina",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av Nicolás Arriola 533, La Victoria",
+ "reviews": [
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaeFRGUTBRVWczVTB0dlExSnpObmcwWW1GV1JWRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Hice una compra vía whatsapp y telefónica, fue una grata experiencia, me brindaron muchas opciones, y todo a excelentes precios. mi pedido llegó a tiempo y bien empaquetado a Trujillo. Sin duda volvería a comprar allí, 100% recomendable!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hice una compra vía whatsapp y telefónica, fue una grata experiencia, me brindaron muchas opciones, y todo a excelentes precios. mi pedido llegó a tiempo y bien empaquetado a Trujillo. Sin duda volvería a comprar allí, 100% recomendable!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luis Jara",
+    "uri": "https://www.google.com/maps/contrib/116179293990948511192/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFOpElscnw7x91j2r1uua-lf1tuynh_m7QdNi66eAC05QyB8CcmA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-04-29T12:27:19.903165022Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaeFRGUTBRVWczVTB0dlExSnpObmcwWW1GV1JWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaeFRGUTBRVWczVTB0dlExSnpObmcwWW1GV1JWRRAB!2m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwc1pUaHdjRmx4VHpONmJUQndUMnhyWDNwWlZXYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención. Realicé un pedido por  para envio a Huancayo, y el producto llego en buen estado y en el tiempo indicado, la atencion por whatsApp fue rápida, ademas a un buen precio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención. Realicé un pedido por  para envio a Huancayo, y el producto llego en buen estado y en el tiempo indicado, la atencion por whatsApp fue rápida, ademas a un buen precio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "NIEL YAMPIER MELO MALLMA",
+    "uri": "https://www.google.com/maps/contrib/109367848521372450394/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIk8wuZb9OnTSsSthlMMxt0W3aGjl1lwd7rrd5AE1oFce2PwA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-19T15:59:32.581736367Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwc1pUaHdjRmx4VHpONmJUQndUMnhyWDNwWlZXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwc1pUaHdjRmx4VHpONmJUQndUMnhyWDNwWlZXYxAB!2m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21STFlsRjNiVU5YWlVoaFQwNU5jREl5ZWpKbGJWRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención de la Srta, incluso me aplicó un DSCTO, excelente! encontré todo lo que necesitaba",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención de la Srta, incluso me aplicó un DSCTO, excelente! encontré todo lo que necesitaba",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Milagros Bravo",
+    "uri": "https://www.google.com/maps/contrib/101345085544637647117/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWerB1fXOkn7AouiVv3Ciod3yNvHjXRKRaRANvwElMkES0uKkYS=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-05-03T16:59:21.198927484Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21STFlsRjNiVU5YWlVoaFQwNU5jREl5ZWpKbGJWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21STFlsRjNiVU5YWlVoaFQwNU5jREl5ZWpKbGJWRRAB!2m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsclNtdERSSGhuV0VOSlMwSnBOWEIzUjJRd1UxRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, te dan alternativas para envío a provincia, te mandan las fotos de las medicinas, y te orientan cuando tienes alguna duda, lo recomiendo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, te dan alternativas para envío a provincia, te mandan las fotos de las medicinas, y te orientan cuando tienes alguna duda, lo recomiendo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Astrid Alexandra Chuquipiondo Alván",
+    "uri": "https://www.google.com/maps/contrib/114316163513621876581/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUB8JIXcp2WRnCVwCW7vzg-I1KZyuItXNF2-_PA9n_YOPEBcG-K=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-22T16:48:58.848613696Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsclNtdERSSGhuV0VOSlMwSnBOWEIzUjJRd1UxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsclNtdERSSGhuV0VOSlMwSnBOWEIzUjJRd1UxRRAB!2m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdFdFWmtiM2xuUkVKSFNVTTNaamhzWVZaYVVrRRAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 1,
+   "text": {
+    "text": "Vine y me dijeron que están de refrigerio, deben poner en sus horarios de atención de qué hora a q hora están de refrigeriom porque figura de corrido y están dando mala información",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Vine y me dijeron que están de refrigerio, deben poner en sus horarios de atención de qué hora a q hora están de refrigeriom porque figura de corrido y están dando mala información",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "César Peñaloza Tovar",
+    "uri": "https://www.google.com/maps/contrib/107168401733469209065/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh7hOl_93xV9SVQfTwttxDp7szfhGyYM1r4_342oXm0X2xHgmd=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-10-29T18:42:33.400512086Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGdFdFWmtiM2xuUkVKSFNVTTNaamhzWVZaYVVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGdFdFWmtiM2xuUkVKSFNVTTNaamhzWVZaYVVrRRAB!2m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMbXCvcwbPtC7QzdFABZTcCfw1UUR3HOFtPxDNn6WR9YppFfZatdEOQWq6jvFSjSxxtYoHlKrttA9Jy1FdTxXkzOtpfE2B9TQf5CHdoK4cy270g4yRq0i06KO4IN1jt98z7p2xvknxP8nG2V6pln91rBGOw4NwujeRm_ckbyiywJoBXX9xZXXGPu5yaoNQ-D5n_SYn7-j2cLSzdQjqd5QGbxR5v70-1vvnsWxAQ2wnDQCcyC7MVno5hIpD-tPXoFxRAJrTCmRebTY1lFv87XmRBPjTJ4xu9-02qVK5QoNO-r3sNqtKJFBMqpLgtW2gf1y7JHrJ7UWN9BKY3FAERILWSOjFYBcSRmv5iw1AONuhgOm3UEO3di7poV-6huC3dG8GHGi1TLk_VWNuz7QwV1gvR4q24miIPeHlEOuzRb-7nj",
+   "widthPx": 917,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Catalina",
+     "uri": "https://maps.google.com/maps/contrib/112890990940938895108",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyLO26Jk1Ts-q1LBKCOLtWLhCtexWbOOshsbamQuum1r6r7Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzcQltgGfmxUkACP96&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzcQltgGfmxUkACP96!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMaHSesftlSLffyQGItNQXcZ55HIQ4I1rHSrTRenzcxmX6VQ4Cbgq4WTrKJ5MsFtUI15TUJgBSYPcncIDGITnzjrYkgvijDkZ_ltAHCDs7_3jDHADVuX3nosIdeNDxZf_2xRsYnxksf-n7RDz8TJvo2tGPNXdafgOph-DAq_yZeC3hm8ikEFkN7kQYOCaIcxtBMbZW_3T6KN_EpXzRvxM98_VThPbaTgxFuxDHerzyQ-1ajvuXNwWcjO7rNdkZ013A4own8IiLWPooaegAh4mLegYQ14w0rD16T9lx9vGMYn5FvQUd2bB2nbj8SYL_dIzYOtiOyKBtDwfBIhlzFOBAAopfrzWHzPs--KHP2UWz0UWEO_GtOLhs2HnTsZe_BynV37BU3IDPxGYUtSWUtKuOx2Ur93CAB1aOJoMxeifcVUsA",
+   "widthPx": 904,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Catalina",
+     "uri": "https://maps.google.com/maps/contrib/112890990940938895108",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyLO26Jk1Ts-q1LBKCOLtWLhCtexWbOOshsbamQuum1r6r7Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydERSCsWAWfmxUwACsrh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfmxUwACsrh!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMbxZC7Jh-jyP0ik1x1B_2wZygiWppX-5udOYmOwfkBk3fZU98m8qizaHUgVUdaQgdLYvcJaLOH6-6anxVkC7BjZkDrphh2FzCk8Xq4Dg40LhXswxI26WXqQrHHjEWYbR5F-p27KmaYWVzen9fAAuOhCTJ9iwF1DjqBgbLIYvWc--IbYujwCx03yVBpps7_rHe_H4QyAT-mXunNnBvHo0xPqixsjfCupQurDonfhu0jk5lPKkTVqjqNoWfh-q53MLU-mjvRKqRVt2bX3hD2LBML99PZ5vWNCLJt9GepZQgaUKNPSZrpQe8fIM9HfUetba8Xal-KQEGwwm-oUjMqQozVCeWi5lT4oLzsULne5d4xGi_E-QXrTPw-AwuGNOmFt6iF2oXXQQYQaqw7MjxhvtRL2OuoL5toGELjp3CoxCQRf",
+   "widthPx": 898,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Catalina",
+     "uri": "https://maps.google.com/maps/contrib/112890990940938895108",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyLO26Jk1Ts-q1LBKCOLtWLhCtexWbOOshsbamQuum1r6r7Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydERSCsWAWfmxVYABvjJ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydERSCsWAWfmxVYABvjJ!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMbPgu7WqlmoAKby-DwWHLMuG--8-p481mNENgYLthEFPzYckOhg57XUr0xKUCUkRRXHdACcuVSffajhK7cLBHZgbTr2yU824667Cgi575Dedow8lZ_HCeuH9QZuX2VPASQy5OKhZjj_trK3Z_0vRQ-qViuQvp87b8T_DZ_Jc7DkFrWrEwF1lzmZD4i2xAUowERuEijcbLRVwt__CGTYfR3Zx1HYz4SxPpc3MKSmrCeuOSXOXiFZXPZvrf2YjUoxdukfGKof726gdbLkwwj9H_j_JbKYlBlgZpxGMlWhFLs9SG5ExsmW-kMMmQeOF-SiBglH10_583akFeCovAZCOobfjziyiBqENRjwRZ382Et03J-B2GtgDK4m62RkZCzMHoYviMPcoebLuwwPFnu9Y7hzE0CXA9PsjGwHEDiDovr14w",
+   "widthPx": 917,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Santa Catalina",
+     "uri": "https://maps.google.com/maps/contrib/112890990940938895108",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyLO26Jk1Ts-q1LBKCOLtWLhCtexWbOOshsbamQuum1r6r7Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAA3ilW-yR_E2fmxVYACstS&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAA3ilW-yR_E2fmxVYACstS!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMZ56m6NKx4sReSfexrYK_-wmAHTUgwL0IxZuLG0Gs8f1hoHTVt3nKTzQe5TnRAmVEklmXXU-aUv18FlJvmq7WR4AAex8xnFul-8m73jgdza6iN-OQ7Tt7P75Jer9IlnLxJoP4WQgHHtLj484nBmCj2EwcOn6KWNXxAU5AjruIk86ZZO1LaVxdIBkk6AAJVuVER6hqVhwfApba5HHHdgXq_EY9QqNr50_lmsq2yz6l8XRwS9Wql_J4DhBbDkc32vpSrZqe7H6kj7RsRTwNrPYi7JlwSGIjIWYQtyINkguQlMtRkewRTIfwKHCcHIlCyBKzigzaPfeAhzVmYi3QbIY-WrIjd0c9dfjow9YRrh7jBilm0SO_PGX3HyFcEyUpGnYUDDCFFEJXjVdTSgv_MJ4TvKQKjvfTeDdYOrAFJGFdGVuQ",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "César Peñaloza Tovar",
+     "uri": "https://maps.google.com/maps/contrib/107168401733469209065",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh7hOl_93xV9SVQfTwttxDp7szfhGyYM1r4_342oXm0X2xHgmd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDfXEWu3xeb5E__z9PPMEBe&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDfXEWu3xeb5E__z9PPMEBe!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  },
+  {
+   "name": "places/ChIJD5hf7znJBZERKa4__Y4GuaU/photos/Aa-ngMb5Ic3Y-cGAzEozdAub_tDvvviB_ch_WrIjy_Wp6qcba7Ahi1m5zIXsx08MXgbp59hNI4a7ybk-nFgqQiD1BtKHVJ7HoSZp3558orPzZ0aTySiLPbH20pAO8y60Xo9mqPQTqQsOPT79ubBaR3j4Z8y5gqJP48drdDju88w8JOpA9wrXer7qFX59Mzk9drymSoCAfyoZkqIbABUAlie2n58Z9V_rlWJ5n_myv_1UQbn7jKI_PuS7lDi_lmSSgKQ8pycehSm0N6nuDe1DEEVt5PoWfJeS3tlJ7qKYostzYIoprBqCS2cVe8bhyNbb1eC_57ZWeVeZ1u1Qd47y29aM4XYgDSuQJKQAMV2Xp1Z08mkyB5zg-xxWBreKtMxAdxYCZ_X_URGSbbGwmM8Zx83Hxjm6eZ3xPxao2ey6zYfsIMAF",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Milagros Bravo",
+     "uri": "https://maps.google.com/maps/contrib/101345085544637647117",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWerB1fXOkn7AouiVv3Ciod3yNvHjXRKRaRANvwElMkES0uKkYS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8XvrxwBT5cbUrfBVkHIjf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8XvrxwBT5cbUrfBVkHIjf!2e10!4m2!3m1!1s0x9105c939ef5f980f:0xa5b9068efd3fae29"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false
+ }
+}

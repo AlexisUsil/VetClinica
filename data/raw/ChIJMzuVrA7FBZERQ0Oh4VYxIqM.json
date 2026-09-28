@@ -1,0 +1,618 @@
+{
+ "id": "ChIJMzuVrA7FBZERQ0Oh4VYxIqM",
+ "types": [
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "formattedAddress": "Av. Los Virreyes 175, Santa Anita 15011",
+ "addressComponents": [
+  {
+   "longText": "175",
+   "shortText": "175",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Virreyes",
+   "shortText": "Av. Los Virreyes",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Benjamin Doig Lossio",
+   "shortText": "Benjamin Doig Lossio",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15011",
+   "shortText": "15011",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.032656500000002,
+  "longitude": -76.948259
+ },
+ "rating": 4.1,
+ "googleMapsUri": "https://maps.google.com/?cid=11755012226612806467&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–22:00",
+   "martes: 8:00–22:00",
+   "miércoles: 8:00–22:00",
+   "jueves: 8:00–22:00",
+   "viernes: 8:00–22:00",
+   "sábado: 8:00–22:00",
+   "domingo: 9:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 150,
+ "displayName": {
+  "text": "Veterinaria Santa Anita",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–22:00",
+   "martes: 8:00–22:00",
+   "miércoles: 8:00–22:00",
+   "jueves: 8:00–22:00",
+   "viernes: 8:00–22:00",
+   "sábado: 8:00–22:00",
+   "domingo: 9:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Virreyes 175, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odGVGWkxZVGwyYTIxalZFaFhTa3BDUjBwVlNsRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Fui llevando a mis 3 gatitos  para su peso y su antiparasitario su atención  fue a las 8 aproximadamente pero fue afectado el más bebé de 4 semanas  de nacido a 1 a.m  mi gatito  se empezó a enfriar y su respiración fue lenta y le lleve de emergencia a otra veterinaria  pero no se pudo salvar me dijeron que le hizo daño el antiparasitario y no se pudo salvar y falleció mi gatito bebé eso fue negligencia de los de la veterinaria porq en esa veterinaria me vendieron leche  para perros diciendo que era ese igual para perritos y gatitos bebé pero no fue así",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui llevando a mis 3 gatitos  para su peso y su antiparasitario su atención  fue a las 8 aproximadamente pero fue afectado el más bebé de 4 semanas  de nacido a 1 a.m  mi gatito  se empezó a enfriar y su respiración fue lenta y le lleve de emergencia a otra veterinaria  pero no se pudo salvar me dijeron que le hizo daño el antiparasitario y no se pudo salvar y falleció mi gatito bebé eso fue negligencia de los de la veterinaria porq en esa veterinaria me vendieron leche  para perros diciendo que era ese igual para perritos y gatitos bebé pero no fue así",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Dreick Fabflcio",
+    "uri": "https://www.google.com/maps/contrib/115995938234814307487/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLv31qHmGBztTEeJSRmXo18fQVlhxPtPngPkDRvfaNSV-KulA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-02T16:49:42.676722688Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21odGVGWkxZVGwyYTIxalZFaFhTa3BDUjBwVlNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21odGVGWkxZVGwyYTIxalZFaFhTa3BDUjBwVlNsRRAB!2m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoanR6cHZ3RRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Dr.Pedro hijo el mejor, de ahi el Dr.Americo,muy paciente con mi enano reactivo,y el Dr.Carlos habla serio pero siempre me encamino con mi enana con erliquia y mi viejito de 12 años,  ademas es especialista en cardio y mi enano le hace caso.\nDr.Pedro padre muy bueno es de la vieja escuela pero el salvo  a mi enana.\nDr.Jorge(el mas pesimista de todos, siempre para el tu perro tiene lo peor, enserio, vas para que te sermonee,y a mi no me palabrea porque le hice el pare y tambien porque soy personal de salud,no es que no sepa de afecciones o términos, ademas siempre me trato de informar sobre lo que le dx a mis perros,ademas igual trato de nunca elegirlo si esta)\n\nTengo 3 enanos y los sigo atendiendo ahi hace 5 años porq en general me dan muy buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Dr.Pedro hijo el mejor, de ahi el Dr.Americo,muy paciente con mi enano reactivo,y el Dr.Carlos habla serio pero siempre me encamino con mi enana con erliquia y mi viejito de 12 años,  ademas es especialista en cardio y mi enano le hace caso.\nDr.Pedro padre muy bueno es de la vieja escuela pero el salvo  a mi enana.\nDr.Jorge(el mas pesimista de todos, siempre para el tu perro tiene lo peor, enserio, vas para que te sermonee,y a mi no me palabrea porque le hice el pare y tambien porque soy personal de salud,no es que no sepa de afecciones o términos, ademas siempre me trato de informar sobre lo que le dx a mis perros,ademas igual trato de nunca elegirlo si esta)\n\nTengo 3 enanos y los sigo atendiendo ahi hace 5 años porq en general me dan muy buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leila Matta Santander",
+    "uri": "https://www.google.com/maps/contrib/102180694364064146643/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhn-qveEjjiWInKrmurM1rm7u5rZmwtCKdtsKqhDbykcAquBxG1w=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-02-12T22:51:27.621716Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoanR6cHZ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoanR6cHZ3RRAB!2m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkMWExZG1kMVUxTmpsU01YaE9RbEYyV1hSalVrRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención, mis perritos ya le llevo más de 3 años y no eh tenido problema, se les recomiendo corte y baños..",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención, mis perritos ya le llevo más de 3 años y no eh tenido problema, se les recomiendo corte y baños..",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "luis layza",
+    "uri": "https://www.google.com/maps/contrib/104759118016495319719/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoLJ71C_ne8vDhilOuGC4_IsFfZfsarCMfVwEqneHoli2_Gtc=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-11-26T14:12:48.278428867Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkMWExZG1kMVUxTmpsU01YaE9RbEYyV1hSalVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkMWExZG1kMVUxTmpsU01YaE9RbEYyV1hSalVrRRAB!2m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/reviews/ChZDSUhNMG9nS0VJQ0FnSURrNmFiN0NnEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Buena atencion del medico vet y precios accesibles 😊 pero  counter atienden mas o menos les falta amabilidad y atencion al cliente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atencion del medico vet y precios accesibles 😊 pero  counter atienden mas o menos les falta amabilidad y atencion al cliente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Linnet Mendez",
+    "uri": "https://www.google.com/maps/contrib/101046664799254233353/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHjVZXoeOuGhp1RBmVgHSBi4MRKBIV-IRqFxhq7UToxhtl4NkgtA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-06-30T09:07:12.204597Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURrNmFiN0NnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURrNmFiN0NnEAE!2m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsbHJUMV9BRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "La atención en la recepción es media buena, pero tiene un veterinario totalmente despota,pesimista y no tiene trato. Lleve a mi perro y lo único que decía cada momento que si tenía la posibilidad lo llevé a una clínica mejor o que mejor le ponga a dormir. Le tomo la temperatura y tenía fiebre ni siquiera le dio medicación, lo lleve a otra veterinaria y supieron solucionar.\nDeben cambiar a ese veterinario, no contraten a personas que no tienen vocación.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención en la recepción es media buena, pero tiene un veterinario totalmente despota,pesimista y no tiene trato. Lleve a mi perro y lo único que decía cada momento que si tenía la posibilidad lo llevé a una clínica mejor o que mejor le ponga a dormir. Le tomo la temperatura y tenía fiebre ni siquiera le dio medicación, lo lleve a otra veterinaria y supieron solucionar.\nDeben cambiar a ese veterinario, no contraten a personas que no tienen vocación.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Román Carlos Narvaez",
+    "uri": "https://www.google.com/maps/contrib/106082443914567794385/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgQ9vIIH_Sc7RvDOxZUG8RwwvEC2OrKbDx2zrqFlF2hjPg1z71=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-17T17:46:03.825385Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsbHJUMV9BRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsbHJUMV9BRRAB!2m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMZD29uzaeY5-MSTSlWm5AeyvNiiAFy_FmBCmN9t4iR9v0J2rBoI5F9Z5_VD3mPM2vFuIvqkYs94F_aBM9KzS1zR9oxOm9CvTm1m2gvyfyBkUDsj7iS5LANCHEPKfUDFknHaS2YB78DcC9wiMWSWy8juboSPxgrFSu7Ll2TMtl-VFqHZE_pH_VJOc9OOQ1fOCdRmEM1sGjXE8mnlvEznhAHM1J0eVa7uC8uZ_N7odyzldlA4RERcQTC8FHl3U42PyHXCBF2tI0W4T7rP5kACTsgWC_a_9aCefmvXoKqjCI_5aY7JgdHkKXLdBIJyAlochXxzRsEuB3ySdNSyW0YndU2cYrZPICIR692A54Y0PgImxhz61MTlrrSg0Fy8WouY788ym11lnCcmx_d1gPCY0wLr2Q",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Verónica Lira Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/101361241999569807504",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW63mx-uDqRoBw6O5ooAgOlJ-oZZ9d0O8E_z_iY4InwIkEmzqjCEg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGgtKjIw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGgtKjIw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMZVE9-GWC-VEUf9nBQg5bJ-WkgwxnSHbFUwNGf6NS7DEqKEZt5V6EMoJr4c_80v7Es1iRl8a-xy4Rmgw0T2NBOC1SHcOvsCSywqBV9Dc7od9EUlspebdP6E7WZDxqjCa4cwlZ8hfr8iAHj7xDIYzjUC1xWoEMbG1nZ1IECPhoWBuE4JRfb6dp4-YnSsFfrFQDxoF2rw87LhF2gOlFNo7UzScWi4ocWd3o7XzIQFVP079axffyJQY4QU0Hb6PmIHwn_HVs15jlheGElKPAsD1FlawpcoAH4Lk9HXWR0MMLREcoPGcqp7qyHqkeU93lb41WPwdVOmTK_Ai6lQdcvQnax7R5BDSxkr1OBT9NAy56Njdrik1HA1c3bf4FYuhsg9SPx6aUUsEZ3fuZUQvdouV55avNM",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Percy Salsavilca",
+     "uri": "https://maps.google.com/maps/contrib/114883220221012968789",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLE2xtzj8LKjGqMcqCiRYW2szNKFULSG3sN5tAwQXShLRsGPA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8ifKoJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8ifKoJA!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMbpEkhdAWjvM1YWZkunGZpnRIvDoHAzfWWcyltt1Zb2_oAcRWH2D4KoKZKtUM300criZiLOlXyHprlTyBZGeDssaKxVc5xYWsjTKQ70VixQnjdNT_bP1FXANXqDHVlBO07KsmGoOsvRStld8KS-Trh1BWLbENqV4-sEswj-cY8dHJ82wz45aLqQe4YGPWAW_RKM5q6X6vXM1NuQdwKepGajk2-RulXcQaHlWXmBkjuK73B0Z2xFk57cGfio0l1dulH6NPx2Zqjd14sSyNK-F5YzQy8pPMfRPk0PezvMWEfINF2v8LKSsI8cW76749OSRCPCzO0MPtfYdOiPFg0Xq-RWlY4c8DV2VX_HDYFVs0HmuiMn9gUyZTlSWDnr_ZcetUi3CXCuNh_uEEDdzVR1inj4FgQ",
+   "widthPx": 3472,
+   "heightPx": 4640,
+   "authorAttributions": [
+    {
+     "displayName": "elparce",
+     "uri": "https://maps.google.com/maps/contrib/112835820301839967077",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFFJhS6j4tmNT5z7uuFhKMVcv3zZLs9BOYpzkGQwNaaogjDVwu=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWquTkIw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWquTkIw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMbDngluXabZ4GY8Led3h6QiZdQkz4TrusUTDGvgLzGs66H7vBNGkvoZi5jHH6Fnh0NlgUZFW4xbA62rAkD8N5_PZ8WfeXKNtk_ihEhcqnz1a3OK-5yCIfiBnlDIamutuqUb4w5atfTrQSPQF7r5IpnwxuGWhnuecKfWw4Cv5Y06FvmFhAwpGqcu5fOYQbhC1JAYeZj31P_hE61AGt2BtLkDBxb29hNO-PaegIdRhVlc-TZGjIAK4Ihg_Pzto8h2ND99yA8y_G1ocS5VX34gC6PK5w1O_UHndnXx8PseGPYgOYxkRUSuAITl6yT2ANl_ak6YaZVQwqz2gPE8QGDxmaYa8VPuJBweO8gazAVsrmwfOYRLf10P6UgoqqnortTHjlSvFrLrYocFX6XWZ-lzVylOBo4",
+   "widthPx": 4608,
+   "heightPx": 2240,
+   "authorAttributions": [
+    {
+     "displayName": "Melanie Xiomara Colonia Salvatierra",
+     "uri": "https://maps.google.com/maps/contrib/117466166496904273666",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEIEsGQJVnSwr8CVrSmrTYlefAb_H0AMRf5ii7hE1K8OeXbA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcysD_Gw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcysD_Gw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMYQA1XqwCcAIEW8t2uMAUspORBsYOW97clqDVo8gRz9M0i3SEdVzr2HUyYfBfE-6Iu4ESJHNdDU9rSg0QqJ-noVPgp9cLl2lvPRQfjSu21zMsJiELMpH01ALDGqf4h1g7L-xYIHY8lyJHKHZ2fFdEOHCgWISI_tIYVxXkbP3CRBKckzaA_pMzfXDBet6O6N69rkHPXISmreO6I70YZ_XUwKzPawz5oXkBr-I7PRG4viC3H_t-bga15UYW3t8Btum-q-J6jKa6UGa3O2Y9ZOzKICGfXGtHkrxnXBSncPSIVkAS7NjWKP1EEZ0E1hTt70WhFEcDUVf6PCxG40CHlsJIOcvBjyE2JjHIWGQ2usDqP5Ki8Ov-5DBI6A2v35FtYVZCziLn7Yn5FmA17-IrqKW0sT9Vw3",
+   "widthPx": 1360,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "angie baldeon",
+     "uri": "https://maps.google.com/maps/contrib/114487059329215091302",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxn3JIrgZ7btnLNoEGKGjjd7YPTHX9Y9-ZkO5a95kFk2zFQFl9zg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkmp3q3AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkmp3q3AE!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMb2LwPQaWtqv-7xAyJf-nGzy1EMaZLagqQdjgSWFgtZvp9H1gotAfkVao3dVKFU8cSxXLvUOPcq_teyXt7bO6YXXIRM8mks7lPfhp7ug-cG3742V0wIsNr-bdi4XJ1kV6PiEw8qHG4y8ZtaxH5oigLLEz3GjGjepMDnBXHLes0WZToas3XAtXFqGiJPy6EAnZGqMYFrlLIf7-rr-Iwh0gwVTU4n8wBu0PuKRGd5cOqUaBeEPmw28dWMspSS6kVBRn5vHJB_6n98rTDGCAPWjCGjDW9Hg-Dpu_Yn2C1i6kH8EbQRM9FGXDpntcvg2wITaHeMEi-UInqoKYrOQPw50cJAHXW-5U_JlAdzWjI7LBBnjTDJN8Ded8xoiaNcMnvOPYnovpRpDZLASO-SRxLVcFlOynib18I",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Leila Matta Santander",
+     "uri": "https://maps.google.com/maps/contrib/102180694364064146643",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhn-qveEjjiWInKrmurM1rm7u5rZmwtCKdtsKqhDbykcAquBxG1w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIChjvyM-AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChjvyM-AE!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMYoybBp52AbW-L7QyP_df_Ubvo9-DzpruS-w8IKBioDmEFCFLa8Ap_-N_IbZKNxAmvZluLxutKyRe4usdMtDJBuRksr9583v7CMATVY0nEQ0CDT0U6_Y1vGf712wVnTqdVDFRtWb4Fe-xuB0BfPLvCqxiarm6a3YLSciHk-FiE7DRdPT-rbsZiB_05nVFuz8JzXMUWRhXqIg94ACC7BRLhVQZr7m7zJAuyHwY4CoClDPoT8AlpuQ2rwdIRHSBEuLJWhrNwKq9R6JTnAQvrAxoYsPQZhNkTd51kqNwTR8zdCY9jl-_nG0UAQoFu5oD9bjk2hqd5O9SQDbplvM4ePUHB47VPcrHAjLtZI8-a2W-htWGxYQNK2tdJ-A8MxOsvdN5S_R1XdXIS-tL2dpih6XPbIyRE",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Leila Matta Santander",
+     "uri": "https://maps.google.com/maps/contrib/102180694364064146643",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhn-qveEjjiWInKrmurM1rm7u5rZmwtCKdtsKqhDbykcAquBxG1w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIChjvyMBA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIChjvyMBA!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMZ2UfEhPM4LcF_pyo38jVdqFryy88WOKFuG4S_XRCwW64uDv_E07oD77a6xXV3C9oLjYg22ilVaTnfzUsKLzE5RFklzjDY8x-J-1d0N_2tOQXzin7wibY4G1fJ4L-28cqbbbiT_X_jeMlZ70vg4GMsx_fbA1CeEBNduzVBXirgBumBjGVtJXOCdNt5VYk5DL2Jt-YOwW1eXhbJ6PZocpM3hJT09UdATyaouWj3gExWT-OVd-ZYWHJYUqj1IsmSvINognE8x79kI5gqk8teB3UmhcTKXPZURbS6A8r4MYNrhtxOCwXUCBTmdz9qQBU1Q7LJ9tQOkJ8yKlIg8e0izrMYFvYOkYw7E7JTWIN1oj5sUYtdkjnSv86fXds6qB5suJtVnpdq1kC1YlxPN0AX83fLwB1s",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Orlando Cisneros",
+     "uri": "https://maps.google.com/maps/contrib/108545560346344634532",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPvH3fzrYnT1SgitX7d3RvYmhreDHBmLUGGcvYvIpNTux82PiZ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID20YOSYw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID20YOSYw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMZJlvxCP8Mxa1CQUEYRt4YHPX84UhB698WEEj-ATOGR4WrQAdWb9tt915ejHL08bsA7PEXkgkBcQ-MmHDsFZN9jxrjgfey6lpJNhCpS0WTBxOjHFpWxOiY4vArjbBxvBpBD7NvmHTn7InwG3tH35cIp68GbAkfffYZPcbB6qSLXm6QKkKyzZaI94p_dJvWwse9xyALQxSf036oJcOtOF-0LMSnX1PdLZ0n4OoiSvWvFJM_VYj7i3L8Q9OZc7uXgkMXwJQnwXyGGuE4FIwoShgyHulyi4gQjyElwtr6Kpa94JwBSZfVOlQZ0aaz5e7Fn2uwKoEJT5LzKwZP5eP5ZhjTisOVdw5cGBTvTuE_2DVgAWoatEpucmrKCfPhP1j31-Sex34YcF9AGDDkaKYVwdglF7V8",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "steve noel zarate",
+     "uri": "https://maps.google.com/maps/contrib/104096405695077981778",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyYnlXCwXEYbekoai9RwGLBoHblOdQW-gGujNrV1f98opMYfE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDO2-vIdw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDO2-vIdw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  },
+  {
+   "name": "places/ChIJMzuVrA7FBZERQ0Oh4VYxIqM/photos/Aa-ngMb_PrrnmkgzYmXGoq6mRxFSmL_r2UWRaAxclHOwHXt9eMbH6Xl2UliYBNxszRJOpx2R5fRJ8dJeKYdOO_MRZa56W07tcUEwpt7ICWu8uG0C_F-9NPQiRgGSDJ3-HyVZn1raURSlqZeNHL3A8p7kgp9IxzeDQKTyeYx57g_V5Vt5Y0k9X1-oaMh4rj25SBLHUoBebHqVOF8UM7KPV2w2L52IHOqC7k8SF2tutkHOJxG2hAWEpPIp0PN8-f-3l4Ds3Ua-y2IVAMDIo_SdAsVZmL_-8Dg6khU2CNlHMZ_lKwHiBJPA39jQrfMRVFjJkgTACcMTclrNRn5Z2nKIKrVIRmWubUK6Z3NM4h9X3L9_RfxbPfu-UHfGJSsV26UV2Hwi40HK3FMgeIjrLl6IXV0Gx1mCMT4",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "JF RÑ",
+     "uri": "https://maps.google.com/maps/contrib/108370698936522813261",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZthduEmfbw617DwnS6CAJhJvcMa4HfaR58NSuVcE82Hr2yh0ceg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICymvTdHw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICymvTdHw!2e10!4m2!3m1!1s0x9105c50eac953b33:0xa3223156e1a14343"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false,
+  "wheelchairAccessibleEntrance": false,
+  "wheelchairAccessibleRestroom": false,
+  "wheelchairAccessibleSeating": false
+ }
+}

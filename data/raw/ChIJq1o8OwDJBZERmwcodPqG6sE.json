@@ -1,0 +1,515 @@
+{
+ "id": "ChIJq1o8OwDJBZERmwcodPqG6sE",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "formattedAddress": "C. Luis Espejo 1089, La Victoria 15034",
+ "addressComponents": [
+  {
+   "longText": "1089",
+   "shortText": "1089",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Luis Espejo",
+   "shortText": "C. Luis Espejo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Catalina",
+   "shortText": "Santa Catalina",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0836893,
+  "longitude": -77.014863
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=13973129204119111579&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 8,
+ "displayName": {
+  "text": "Vesavet Clínica Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. Luis Espejo 1089, La Victoria",
+ "reviews": [
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRGFsRjJhbGxOUVdabmFtVkNaa05pUVdaRVltYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 1,
+   "text": {
+    "text": "Hice mi cita con una semana de anticipación para bañar a mi gatito y les escribo en el camino porque y estaba llevando a mi gata y me escriben diciendo que ese día no pueden atenderme porque el gato se va a estresar???? Yo quedé como que?? Pero si no es la primera vez que ir baño a mi gato aquí luego le empezó a escribir más cosas y dejaron de contestarme, no pueden decirle al cliente 30 minutos antes cuando ya está en camino que no le harán el servicio porque si ya sacó cita con antelación, separó su tiempo para llevar a su mascota y que me hagan ese desaire. Muy mal y eso que siempre la llevaba allí ahora nunca más por irresponsables.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hice mi cita con una semana de anticipación para bañar a mi gatito y les escribo en el camino porque y estaba llevando a mi gata y me escriben diciendo que ese día no pueden atenderme porque el gato se va a estresar???? Yo quedé como que?? Pero si no es la primera vez que ir baño a mi gato aquí luego le empezó a escribir más cosas y dejaron de contestarme, no pueden decirle al cliente 30 minutos antes cuando ya está en camino que no le harán el servicio porque si ya sacó cita con antelación, separó su tiempo para llevar a su mascota y que me hagan ese desaire. Muy mal y eso que siempre la llevaba allí ahora nunca más por irresponsables.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeskka",
+    "uri": "https://www.google.com/maps/contrib/104082789268579078519/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7TDtBtQNT9sA5KKito2rxEWfNivqeWEcVfaLTzKgfYzLyDUee=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-24T13:36:41.682861337Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GRGFsRjJhbGxOUVdabmFtVkNaa05pUVdaRVltYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRGFsRjJhbGxOUVdabmFtVkNaa05pUVdaRVltYxAB!2m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSmIydDVibnAxYTNKVWRUZHZhRlE1Wm5aYVNFRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mimi esterilizada y recuperada por completo :) Gracias al equipo de Vesaver ",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mimi esterilizada y recuperada por completo :) Gracias al equipo de Vesaver ",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Denise Lewis",
+    "uri": "https://www.google.com/maps/contrib/100435643225893485656/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5o-u3p_hFE2qmIfGagns2OahhdlIZoMdYNuSJ6f55f3zGJ18=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-11T06:15:41.951830700Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsSmIydDVibnAxYTNKVWRUZHZhRlE1Wm5aYVNFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsSmIydDVibnAxYTNKVWRUZHZhRlE1Wm5aYVNFRRAB!2m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ORk9XSnRiVVU0ZFdjNFRWTndlR05SWkhCM1dWRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención del Doc 😊",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención del Doc 😊",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Khelly Ramallo",
+    "uri": "https://www.google.com/maps/contrib/104187328403823698572/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSIZ8tgKr9ybWxqZb5lshpvrHVDdahgIcVPQc402SDIVTCmA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-20T22:50:47.465965732Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ORk9XSnRiVVU0ZFdjNFRWTndlR05SWkhCM1dWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ORk9XSnRiVVU0ZFdjNFRWTndlR05SWkhCM1dWRRAB!2m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxclJUVmhRVXBYU2pKbU9HdDJjbXhuUnpSRlkwRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Sparky regresó super feliz de su baño 🛁🐕",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Sparky regresó super feliz de su baño 🛁🐕",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "ROMARIO SALAZAR",
+    "uri": "https://www.google.com/maps/contrib/103472887048290986035/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKoF4nzQQs_bSZFLMIclSrCpu7TFsPhc86LUsizOP8fdx8TA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-11T06:11:15.563592750Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxclJUVmhRVXBYU2pKbU9HdDJjbXhuUnpSRlkwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxclJUVmhRVXBYU2pKbU9HdDJjbXhuUnpSRlkwRRAB!2m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKd1ZHaDVNekpDVW1nM1VqWklObkY2YW5wVWVXYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Gracias a la Dra. Gabriela por cuidar de Pandora ❤️🐶 Excelente servicio! 100% recomendado 🥰",
+    "languageCode": "pt"
+   },
+   "originalText": {
+    "text": "Gracias a la Dra. Gabriela por cuidar de Pandora ❤️🐶 Excelente servicio! 100% recomendado 🥰",
+    "languageCode": "pt"
+   },
+   "authorAttribution": {
+    "displayName": "Gabriela Cardoso",
+    "uri": "https://www.google.com/maps/contrib/100923376366743453034/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxgTCaXLEeN_6yl7i7pmAl6-9Dhy2_9gMwnD5Mwv2W9CLE5Q6m=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-11T06:07:02.480929686Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKd1ZHaDVNekpDVW1nM1VqWklObkY2YW5wVWVXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKd1ZHaDVNekpDVW1nM1VqWklObkY2YW5wVWVXYxAB!2m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/photos/Aa-ngMYkZUgO1DqSpPpzM8Dswsp9epmuCNxksEEsw_yi41iqFQpXJT5jpBTjT-eB3GDpXNf9bCssdb_GDbr-iMtBSkO30fpYDdFNsm5TjkWtZ5TAKZHf2vK2x8be6CUVvBtBqq3-ufXWlBy3Y8Cfv5XKBSH_ExS8NLNCE6TcEx5gZLNRf3vdm19NdpH3-L6CeYiuZoSphHUH1lJg20ZLqqV2-DegisBIP6eRV1s1OcDV9bfro3jO8vvhsHLwU_vn8TSuuntVa3y5HeLs8n2GrscpGT4BaAZkT9uXxKWi2h328AStq4_b4X2cXjJg_g2fmvL-qNCcTTZ3a-sSQSLg4nms6u-kQw1wz3y4BaJ4Ck3cXfJjQKjQwJfYhNJcBUYQcydr8qjvxQXsgzpli_dEtfuZpaEomgHqOkF38Wetje0DTsbFQA",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Alison Moran ruiz",
+     "uri": "https://maps.google.com/maps/contrib/100450579307754146652",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4tbZQF26VFHFjAxgF-YsGZmE3R1Z2O5BSXweqMempeLjWN9c-Cw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDqdoADb9y6oss8-BUXtdI9&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDqdoADb9y6oss8-BUXtdI9!2e10!4m2!3m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/photos/Aa-ngMYKkKl72Y26fvXV_jN_-mWaX2yHCDxOVUST4zOE0Vq50rEjPyCQ-nUGvWlPyNlxskkB5vLeoL8qkqjjEj6aav0NubOwc-weLR__tf4J7daYQ3PJ2s2GwuGXteD5iQNalLw1RDmZ4f3m6X8IgRfu6X8v4ZCttCg8EkZfy27LJlb938zt9OjOx1bHvxBiHQU8HjnFYyU9tE275PnbqIQySXnsq3SueOHRnbR6R8ZorW3g0LPU9ZQQFEnGS3CuIFpqPp3PIQjhiQ9VrLjOCA9BWeQxWtcgSxIJAQ3SXA3ov_rZ14RKNeCoOao11xvDiOMZViXysPCv2NujHNW2_dK7THNmLktlldY7f3rom7gMA7CsnlvbOLR-LFEOgACM35FDHY3t672bHTpeYH6sWpsMbwNPKNql23XfuAqkjs9EHrnN2Q",
+   "widthPx": 1080,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Cardoso",
+     "uri": "https://maps.google.com/maps/contrib/100923376366743453034",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxgTCaXLEeN_6yl7i7pmAl6-9Dhy2_9gMwnD5Mwv2W9CLE5Q6m=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDkLD3T81nO7KSRfMIPd8Pi&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDkLD3T81nO7KSRfMIPd8Pi!2e10!4m2!3m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  },
+  {
+   "name": "places/ChIJq1o8OwDJBZERmwcodPqG6sE/photos/Aa-ngMbZn5VHSTB71FrTIillGzZJL3jQOofUIoFOms9nRQFbOmC1kqhOUUq4mXZCYL9tjSnJrM3wnxYtCAJQp3Rs_yZLaiA6fQ89wRZOQXnuDQUYluOaBRPD36swZ-KL5P6JYqsOd5l54ku26BYmpyrn3Cv2IrsxHRJeOvo-dq9ENvUBSFXZM1tQAeu_C6U7_t2oghY55KPw-OVTIoEDp9bqJjrJ5GRaGNzm3v-ajNW_6_CwPU0v9caLWLweTKJXzrViLGyrcGPKynCVgncd8jsdGixN9KRwrZ8FXe7FbaEX5ptvd7TLq1qvxc8v47sZEVADM3o3gaRZKcPRE96l0Ox1T2L6nxL-oJkE373QRppeHBD-o0ZIVhbHv_MCdCOIncLDHRUC736M6qiX4VjieO0OlA685b79HM8Mmc3kl4hOlWqsqw",
+   "widthPx": 857,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ROMARIO SALAZAR",
+     "uri": "https://maps.google.com/maps/contrib/103472887048290986035",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKoF4nzQQs_bSZFLMIclSrCpu7TFsPhc86LUsizOP8fdx8TA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDcrFHNzjddxdYZrEmo__-V&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDcrFHNzjddxdYZrEmo__-V!2e10!4m2!3m1!1s0x9105c9003b3c5aab:0xc1ea86fa7428079b"
+  }
+ ]
+}

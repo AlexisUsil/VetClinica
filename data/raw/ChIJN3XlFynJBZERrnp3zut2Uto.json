@@ -1,0 +1,368 @@
+{
+ "id": "ChIJN3XlFynJBZERrnp3zut2Uto",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "924 535 520",
+ "internationalPhoneNumber": "+51 924 535 520",
+ "formattedAddress": "Av. Manuel Villarán 911, Surquillo LIMA 34",
+ "addressComponents": [
+  {
+   "longText": "911",
+   "shortText": "911",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Manuel Villarán",
+   "shortText": "Av. Manuel Villarán",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "los sauces",
+   "shortText": "los sauces",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Res los Sauces Este",
+   "shortText": "Res los Sauces Este",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "LIMA 34",
+   "shortText": "LIMA 34",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1204485,
+  "longitude": -77.0024111
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=15731767203511892654&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Clínica Veterinaria Más Que Mascota",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Manuel Villarán 911, Surquillo",
+ "photos": [
+  {
+   "name": "places/ChIJN3XlFynJBZERrnp3zut2Uto/photos/Aa-ngMb5htwrH4A_zGqaZN887Ovuz2814UHfwDo56oYPx9ru2vWzkD9gf8clY0Km2X1b0AXa_gAyaSivp5Kufz8URDaGNOCov4muNgRIwJyPMOZyjN6A4PxVMtH3acnT2pY73WE-9h0QGnR6bv63atDLVjA3mVbDQfHRVnShdsIdx0-ARVyv8qhJ2hdCscY9Dx1eLmsopS_IDRTER6vhGBmShfFxCji96_nzDFv-HSGtMlb6ybs5zDhc8uETvR5yhkZdrPW8iDzcOFAyM8Er_OxWiKtg4t_ZbNouf6K-ZqxalVXIBibYPxeitAbWEWjwQ7igkXGsHhZoKkHMs_oFeRz-IOLQQC-CTgsk2GysewdsWEGBjTF9wTLqVyLtlfbAs4MXL3X-vcXiI61Px9U_tgJglzgBD8V6_BWpKxZNm2uhCB-wHg",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "yuyulines tv",
+     "uri": "https://maps.google.com/maps/contrib/113167282169015859482",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWoAEuKqLabJHq2VOiS5tOePtA4sf-IPIInNCVRj99Vx7F6vk0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDy9HX6P9Ty_qEhIVgVF9SZ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDy9HX6P9Ty_qEhIVgVF9SZ!2e10!4m2!3m1!1s0x9105c92917e57537:0xda5276ebce777aae"
+  },
+  {
+   "name": "places/ChIJN3XlFynJBZERrnp3zut2Uto/photos/Aa-ngMZUW4iwGE3RRZmhZyVouHD1qVbaBhcUJKHR58MT9JDeFgN2Q8ZRYU9_BL5XcIvOXIaICAhFo03I6oIS9kEhVR_VYUgMId8eXt95oqThqxlAh2LyXeJdL_H0YiOlnMsVrtp0hRCis9OnhOkoVEP97-2qt5sb-4L9kT-7dwawFo3X9OSvUkCik8Bwpbn7kOtRuyOgqphuMYYLbxvpIHVLmWVdLQFsYfv82y83bvQJ0yCsYJZc2OMMzudKPnyJ8Y2V5rjC411-mBFhxNei8ijZ7HOi4GVsR5L3cvwE-HKJexvYfEJkCJa4OQ2VCYI_mm_v9KIoxCw7tZ0ydNbLTy2htEA1mXKFApczFrfW02X56SQRNwFNIfErvRQGF7Vod-kuVRfEbg1o85wz9Rrk2qH68urHKdEzT1CvKCRZXH4_Q6QF",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "yuyulines tv",
+     "uri": "https://maps.google.com/maps/contrib/113167282169015859482",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWoAEuKqLabJHq2VOiS5tOePtA4sf-IPIInNCVRj99Vx7F6vk0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAh6Y2IRWaJNoKv0hZQ6CcD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAh6Y2IRWaJNoKv0hZQ6CcD!2e10!4m2!3m1!1s0x9105c92917e57537:0xda5276ebce777aae"
+  }
+ ]
+}

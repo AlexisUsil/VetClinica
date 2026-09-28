@@ -1,0 +1,399 @@
+{
+ "id": "ChIJ_1ryrkbHBZERE6jjGcIzKkw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "doctor",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "994 444 025",
+ "internationalPhoneNumber": "+51 994 444 025",
+ "formattedAddress": "Av. Aviación 4870, Santiago de Surco 15038",
+ "addressComponents": [
+  {
+   "longText": "4870",
+   "shortText": "4870",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Aviación",
+   "shortText": "Av. Aviación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Higuereta Etapa 4",
+   "shortText": "Urb Higuereta Etapa 4",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.124579400000002,
+  "longitude": -76.9996705
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=5488256004655392787&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.zoodx.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–13:00",
+   "martes: Cerrado",
+   "miércoles: 9:00–13:00",
+   "jueves: 9:00–13:00",
+   "viernes: 9:00–13:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Cardiología Veterinaria Perú",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–13:00",
+   "martes: Cerrado",
+   "miércoles: 9:00–13:00",
+   "jueves: 9:00–13:00",
+   "viernes: 9:00–13:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Aviación 4870, Santiago de Surco",
+ "photos": [
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMZqn0kvveFAEleFUxsDYmHiaxb_EW9W_TWvQCPt1NedYvx7h6ioU8gLL4QeuELhoT-xNeJl5fGx44DmDobsnc-od0YXVqii9lYEBCRmr40iGIOFR8xKsdVhCGpeBVFpXSCksXnF4QAs0CQ0vRo_tQhUqNEsfVl3ITayFXb5IkCrv1sYcX7km3qCa0NSwPEyXkBZ2BEfDaNLBMgNiSDS9D5QEhVEizL78MchMxuUs6DFy2pRRE0JBrMS_m6fLXK07VjPu2C6J3V89idc3vqFQn0RdLHUO34hoB5HcxCr9SAJs4U3DugRcwoVwHVDx2Gt6UQyK3_iNZI5aOaugh7m5EjfgB5v4uq8jxd0RVnq9NZYHqwXEbIjoJrzan040CCcM8JKhTmD7871fSeYPIfO1Rud-E99I0onUi_qU1_7Lm0",
+   "widthPx": 1501,
+   "heightPx": 1082,
+   "authorAttributions": [
+    {
+     "displayName": "Kathy MarPer",
+     "uri": "https://maps.google.com/maps/contrib/101375942533357301248",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUVdSR2ZaT-qrS5E9MyLJHjK00n5tzMATrr918hSPAcXp1dg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8__mtQA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8__mtQA!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMYtheFVGDM-VZ_Sj0tI-dKuDuCUTVpdks9kT6YCZvRdsNMEcqpVlkDRlZiTsqrfXJbpQqai-uWT5bWCieTdt_5lAjwWhFokVsQ-dRjKdBmspACmG7VApBIRHkpaVB7WEojOfIqUD0_Mup3GmNNr8JYx0KJr4hW6HXl-RZ7s43X4wx0TnZawIv0RLdEIDJ049afGUBV0VlfvFHRlD2bGKHZYr79RTmljYdobR7HLXILji-cu7AQdW116OuSxASpIIyADru-dTXVIsjfoOYGLHRO3OYMhzHWED-zNdoP2C6-c0lmcmfMmimsUjopU6JwCS0Fm_HtVu06J01BjZwjn5Y67-UMsMWwEl3rFKO4LdRN8vW64da050XejQU7s_E6edCjNC4Tm_U9b-zc23ifpSz-vGZXUSG-QtZnEoaYypUr9Wg",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Kathy MarPer",
+     "uri": "https://maps.google.com/maps/contrib/101375942533357301248",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUVdSR2ZaT-qrS5E9MyLJHjK00n5tzMATrr918hSPAcXp1dg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8__nDDw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8__nDDw!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMZ3uFYiSu300dZnSon926cPzUfIJxHfQzLgqYXfW0W_TzYIbwhrwsJHlwRIfyYE0VsJlUwFsCQ7s6w9M1agFOmlNm8gqIIIGrzHb9fX5x2MzWX6y5zLTU8SvZDUfsv7W5z6-wOfs8I0N0p-FtalXlV0JzFx9XLlkGahnWysVkJu8ZkZYr3__6pGABb1R9F_z1vM6JW7i_tcXJB6Ptecj69LYQ7IBFGRXzomRQKJG9ci77kL-TwyYyesGKkFplYNMj4HF5oLnRYczszvR2yyJO0KEO9NVb3OZdBC7Hdt2ov-QgIxvUbbAMNd_zhgls1_fj5v1o56eI9RuXuFBV-zSSwpNFLLwbHyqHs4m0iG7SQc-FjxmNhMuWVNTFL9de_ZjGPChN3jN6BT5h1wLjBfdN8fA6uZbe64CaHmW_QNYH596IU",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Kathy MarPer",
+     "uri": "https://maps.google.com/maps/contrib/101375942533357301248",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUVdSR2ZaT-qrS5E9MyLJHjK00n5tzMATrr918hSPAcXp1dg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8__nt9AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8__nt9AE!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMa7Qsf2Xfd45uweIQdNq2lMvAHKjerhyeYkyVGgr1L4NLYx31GjDpKJUWOsVjzPh3d3mQ4YfyNclTeB3qtk_DOlN5Wtb9k7wYWrSuT_mZIi37c7qHl2QXrfV8SgnUyaIIY5U-d-9Fi04tfHCufOucGp6ry8V2W-TzwoPEHAmKvjPhF-Zi-BCvhaCSOnhIJIH-vBpp3huT9p0IWKTnUWxREP9D6qffZHsyV8NLMwkXOI_7m_2w1qckAV_4ZuEJCUYWpfw8O1DFf6pOJNuFqWS2RF8OmRBXtKmPL8e4P_ehgfhakRRwt0JjRgGncCJ0BdBdx_Y_e_aF8o2txgrAyQ88fR6exiS3xhXaDl1t2TWnEfExyDlFflVne9QxvBQDQanu11d_2Y1qE_SKfJ4F0dJ99tY0RZcZGDX_CsZr9FhfA",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Miguel Marroquin",
+     "uri": "https://maps.google.com/maps/contrib/105003274992202006341",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEgXK1PXWL8Xr7yD3CdXWYxSYhJ2JdMG_PIDsaI51utRr_wFA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCx_GGIg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCx_GGIg!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMZEacw3lnAt4G3WrkPsgegTnTDtxpTa9XO9_Wmw-UD8BdLiAnN1uMsQ7Vidt6VV8o2N7u92UOoWLTRT6cUvzUabJ8jTGzT9yv3UKQO85wcCr5n_TYFIp148NHeB0OwSyk0-7eoxWX3tid83t7awYhaiHA9lsPziWdag0OVjmyT6JdPoiekTozKxvlnXzp7rIAr2i0D7P7sBXn1zsZEcuCUWMfNgq8-JY3qeaIwKKt3R49zg7hXIdUSo6rv154w6ufYNynxmnKReF09NQCgPFFRi2GAd7C-yohmbIRatuZl8hECn-uLo9PGrt4snNHhztkE-BJ9btqjPL6nIAG-TCeZmLFXsnk46VNNhzLfNvsz37-r36BqUmOZns9XUE9Tm5Hl6ctGWgL1qguVlgx95IDWffoc1DjA-wr4dDjy0mNA",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Miguel Marroquin",
+     "uri": "https://maps.google.com/maps/contrib/105003274992202006341",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEgXK1PXWL8Xr7yD3CdXWYxSYhJ2JdMG_PIDsaI51utRr_wFA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCx_GGCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCx_GGCg!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMaAo_m0qAuFQnORPGs6OEhfCReDIqQU2O_u46S1cYJ3cIZyjzZ4dyteTrvKkQMWScEdxYh3m_ZaDlfXn0E1hpk4kWedAi4nN-KcmQuKJjZQHkBBEUVxkI6Sh3g7dlD_PEyrjAJ_0mdKP7c1u5sEqkV3VyFODBl1ENyeodVTVESecsiBIWrwGfSDGCvvYbpljMKHqSfbiZ-u5C9jO4K0d68EucVwn6P4uln7OYttoR_2t3BPZgZ6AhtPxGCjgpp8X02vNjozERAFeLniYd85xWqxh4e1-xaALQHx1q7Haq_FKMlpICizXvX3ek24l5BwybBeSBlYhEtiyV-XCRJg6hVKsdq9yAj3I2XyKjZR5uWsqHHxZr4vu53R17rkw-V-kJ4Om03PnNqmvJr--bQ0nR_v9bJAh0IknX2BwThyJb-bi2s",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Miguel Marroquin",
+     "uri": "https://maps.google.com/maps/contrib/105003274992202006341",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEgXK1PXWL8Xr7yD3CdXWYxSYhJ2JdMG_PIDsaI51utRr_wFA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCx_GGnAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCx_GGnAE!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  },
+  {
+   "name": "places/ChIJ_1ryrkbHBZERE6jjGcIzKkw/photos/Aa-ngMZMH-xyt155J9nlyhnotZuCGKzhddjJ8zKfVACgeDwbEtt0lgdOHERrEGV13Bsvd0Ea8UvzqwCrJ0sYiQvV2f6_Q8q2u42KoSKS6nGM41oxXUGS7OUli97FxIROmxaJ0_39HijH0cctQ6iJ05_BD-r22xEGxj1nAtlmjmHfQrm7KcpIk4ZoiDiG-oDPaq28HOImXpYHal8gyHYuGxSbxoDCkF7duc3a71teOk-kc_2r2AhFm2dS6aUncEUWUFIbW1KGqwNRT0Z2a1xoTthKr-FO0ZvHVKr5DUqZCQsHWefiAvdPVfOvxjPv2jOfZjysgbngJwV8jYSEpekN-1JlVGMVe-JeyqRHsQYqg4SgLAZm54Q7yUZQDauBlGO-OWm1h2I4u3iWJLr-ov8Q3L_0Evrqlykaq-fvh6vr3mNs8LTGs-o",
+   "widthPx": 1249,
+   "heightPx": 924,
+   "authorAttributions": [
+    {
+     "displayName": "Kathy MarPer",
+     "uri": "https://maps.google.com/maps/contrib/101375942533357301248",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUVdSR2ZaT-qrS5E9MyLJHjK00n5tzMATrr918hSPAcXp1dg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8__mT3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8__mT3gE!2e10!4m2!3m1!1s0x9105c746aef25aff:0x4c2a33c219e3a813"
+  }
+ ]
+}

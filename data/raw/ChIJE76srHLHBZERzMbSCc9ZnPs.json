@@ -1,0 +1,506 @@
+{
+ "id": "ChIJE76srHLHBZERzMbSCc9ZnPs",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "994 949 418",
+ "internationalPhoneNumber": "+51 994 949 418",
+ "formattedAddress": "Av. Circunvalación 2734, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "2734",
+   "shortText": "2734",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.079697699999999,
+  "longitude": -76.9879591
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=18130464945644685004&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 6,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–6:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 2,
+ "displayName": {
+  "text": "VetPlanet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 23,
+     "minute": 59,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 0,
+     "minute": 0,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 6,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–20:00",
+   "martes: 8:00–20:00",
+   "miércoles: 8:00–20:00",
+   "jueves: 8:00–20:00",
+   "viernes: 8:00–20:00",
+   "sábado: 8:00–20:00",
+   "domingo: 9:00–6:00"
+  ],
+  "nextCloseTime": "2026-09-29T01:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Circunvalación 2734, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT214SVNIRnFYM2RHWmpKNGRVOUhTVFJOTFRaQ2EyYxAB",
+   "relativePublishTimeDescription": "Hace 2 semanas",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Margurith Díaz Sánchez",
+    "uri": "https://www.google.com/maps/contrib/115156497414348032841/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRrjX7nKT9UgAoVZgEUJ71UUM02yDvHPsAEYaLO-Tw3Et51WlU=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-08T03:42:45.831643764Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214SVNIRnFYM2RHWmpKNGRVOUhTVFJOTFRaQ2EyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214SVNIRnFYM2RHWmpKNGRVOUhTVFJOTFRaQ2EyYxAB!2m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WYU5TMUVaV2gwZUhCWFVuRjBSVUpMTFZsNGJXYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Jose Huamani",
+    "uri": "https://www.google.com/maps/contrib/101160891160598989439/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKm5xznTKQnIuGaPCzbor7Vm_Kw9vL-iAtF6FvUOpHZikwKew=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-09T04:33:20.490818969Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WYU5TMUVaV2gwZUhCWFVuRjBSVUpMTFZsNGJXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WYU5TMUVaV2gwZUhCWFVuRjBSVUpMTFZsNGJXYxAB!2m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMZW4LuB9mpmy_LFw0hvVM9gEXnBQ1uifoeNwuzxjwmWqSgVnzdIXm4iOpFNhxar_nf_I8umLV5UqpihkGw90G_cokidN3Xivbsu4Gw7cCk-R3tjk5cWgaLGuUSHs1HaHAEFeZKRl94OckaZyBU6stiI5KvMM_hCfNUHmimYungAApQ84S2lRGwc8T_kz17CiLkx6-VxoxZfkIFbkU19Yf7EjbCBU9iLA2ub4ctkdSIkUL6TEcLQYTJ1L_Q8G-0mGD65BzqhV7EXvoppxdr1koLJfcaMLQMy22Bwsyly1iu1cg72pjJGxHWU5bbkJTXfvuO-eA7NTroa7YEQUJinJIky91H4F-mUUiYXxdEpjVuuaUYGp1eAy77T7j9lWmxJ0x5pkHN02_Q2GiqMG2jxc5omvbgJlEnELYpIoGJaU7sdYPi2C0JOE53egNruj_KA",
+   "widthPx": 2992,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCzR30FazI7ZTWJTmWZdHsy&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCzR30FazI7ZTWJTmWZdHsy!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMZeKAQSQVg62HMSYQG-0s-T2LBWtXw1sKJvhR-w1x1nLJDO-c6XlRrYlI5lEcvBipyFH7hNPVUHIOUhwq3EQtNlp-AaLHkeMhB8WQcm9GUJeFtCcyNl_HdOaRdSjyccB33u3qoKtB7s8lDbVdfwmjrKpBDGEhTpJMugfy7PMn01peZ-cy1z-Lm-N-b_gPX447hNFSuWKd7agHOTtdj1W7hvsvU50e-p5uBN1ZS5xFusGVIRaC9XU1Ps4xCwexOBXxRkgO9XKV0vmXAQhyKeknTayYBE8PNmicKfsB9p06iXgIVdyW46xA0U-ynvdjjmyqLz9Hi7f1UQRB3SmeJVuY34TNkXq-3NaU3wbAl12yBCWNBUMN30ZmjtYoXR_aOZgiXW1wcYUX8dV8aGgdcWg_HZgtQItF11IZ5SF-WrU_jNzbF5X8aHg7tmiKl7MU02",
+   "widthPx": 4000,
+   "heightPx": 2992,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA_4sOzavYOVFzpii2ON0qD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA_4sOzavYOVFzpii2ON0qD!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMZ1w96WIyumvXkbKzPMbP4d2QLU0pDNbLDGspfFPIR8MFZm_jevovMvnHvB9lnD-vw_mdT7tHD3cN6KFHwd-bogzINJ7F6tzWs45Cg8bca7EyVg3YypoLIprhD8uVuS8YV2sZIg0xVNQRxFd5xXTlUGfIug6ZoTb3VaEq2C2O7DyYb6iB0cayTMur5Ldtzk19uqlFcFXIM0XGM_zEnsWKczKfW-6sLjSWb0EMTv60sJx-iexfSLYl1n2AfanazOblZIhVr6UgvpwPD6CT2uhVKrXSyjp4eUyYarudbYugbK_hFeUhNQn7W_ZzGMT3qtApKjkdL4YM6OxdFeKW20uuV2wOf9sQnDWXVA51OsH7wHCs2oZu3IFLooyztmTbsJ4H6wjCwXXaap-ngrOEhISFpydNOnBqKX9G28zYNsc6peeYMfBOvxlqIProvQSg",
+   "widthPx": 1196,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAkYp3SlGp58UqcCsBoeLB7&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAkYp3SlGp58UqcCsBoeLB7!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMa5nhcZkhOOXTzecV3sCi233HlZeGyjwzNLiik9CS6_RRnvwGQmxFTwfSTi8qmsudPGR8nbjjp3f0N3vd5FkS-n8SaZFgZM_sVzX4kxP7RturTigexWGrJpgxn3_-NtRC8JVd4efLJ8XE24KTgwNIyLzNbmaysx4YW4Dypqg7TFBpf0k3zBqpptwBJmH5SuPv3lFblQsBqq4T8TJVIEmYxj5JMId-IirySs57JthWX8tEKO9O-G0kXM-kTJjZAmNwfIz6zz06pyN5uoTPXDk7Fk7bcmR5taaskc7wWs8HtqDrEwCFFuzfyhHLVl4_KCsiuNI9tk08aav-LnIs39vDYqokCxKDYCXiPwAzhSn9hspRt3Ct8p8xtTk7riTYvsCBekJoWAT0rWJjAAYs8KVrws9y4HbxtoaDYJG4X5RWFTabATDhvg1jSaGC5DXg",
+   "widthPx": 4000,
+   "heightPx": 2992,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAAJ3WCtVS8xRdnuZ1nDBza&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAAJ3WCtVS8xRdnuZ1nDBza!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMb0fatJOP-9oIEJLP7JGSBNHKhB73A0sB4Prt57oJuJOuSS_1y3Gydj-Hv302nXGEeaEag1d7dFSb_sGgvsArm7iqugwJtfZo4_DYD8rihm_tdaKdmFaAjkq2iophuhOLI-igT7E8sIQJENM-u5fWiXm6eeHZUbF6dwb1qL1k9gT2cn0yLBq-dOYFVOQcc_u5Vtp7-kzlQTyCR2fVHPXue56xfY3764N4KA3rlYPZ6aH-djcHjTX8UcJU3G67NWYIIBS3BegSfu03PWOHX7oxGbc60igUiqTWk-dgCeeIEVMkMeKzbrHu_C5weGC3cKUVQ776vedmiBCsBcMrpVU6XOp3mj8tnQ9NdqXRqLuTjfHVeKf-uzB_4HkyPFqQ2S3T6SvP-ra_CECwnC9QMvYkVj7fJbGZODbdrEv0Uk_kJ3fxWhdwfZLCJbtZPoBhPm",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCv38hgC8NMQYzhj-VmCF7g&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCv38hgC8NMQYzhj-VmCF7g!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  },
+  {
+   "name": "places/ChIJE76srHLHBZERzMbSCc9ZnPs/photos/Aa-ngMaylbaOLnZKxpgD9HNO9Rf1RNMqHSBJEFnwae4eBaG463GDGp7IXrKJCjZGCCX3WnOL521gb4PIbJt_E48DHLBxaPQJCMd4E1lvEpngRc9U62NMIxfgaalGVh_XL0NTZmefLk8ltypG5j-bE5qXAIARrh7UMo_uQzjMadCEhVzzI6aquH7bkhwAU7TuBjI3fjcMlz9QFwXZtuYghvIk70k_YVk-QD2eBvDbvgdVH36vuIy2OmAs0kewy97H9PFUVLRIYXiBfJni2QysDAg4AdSUbjw45-vOkZft8yZdFl6Ojwy3HRg9Li16_TwVr_xmbWcgBnAY0XCsUcEUkeAedpWJdLLYj7b73sLzf9AOPJnCVuWNVMSR21T4QhJ4Wuc-Wh85rFsGjM4OOCrBnxEexqMxejpScNwu9fHzEjxQXX3e-0tQLIOiDJjowI8_ychp",
+   "widthPx": 4000,
+   "heightPx": 2992,
+   "authorAttributions": [
+    {
+     "displayName": "VetPlanet",
+     "uri": "https://maps.google.com/maps/contrib/103607568374672068889",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtGoh65_52KneFCCM928sN9WlZIcT44__Ij9LQAQnBPYwjUQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB72ju1uwA0FnRE8GM7--ub&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB72ju1uwA0FnRE8GM7--ub!2e10!4m2!3m1!1s0x9105c772acacbe13:0xfb9c59cf09d2c6cc"
+  }
+ ]
+}

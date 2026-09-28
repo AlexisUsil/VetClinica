@@ -2,7 +2,7 @@ import { motion } from 'motion/react'
 import { Award, Check, Clock, Coins, Layers, MapPin, Moon, ShieldCheck, Star, TriangleAlert, ArrowRight } from 'lucide-react'
 import { PolarAngleAxis, RadialBar, RadialBarChart, ResponsiveContainer } from 'recharts'
 import { cn } from '@/lib/utils'
-import { DIST, G, GENERATED, NON_CLINICS, PLACES, RANK, byName, rankOf } from '@/data/dash'
+import { BUFFER_KM, BUFFER_N, DIST, G, GENERATED, NON_CLINICS, PLACES, RANK, byName, rankOf } from '@/data/dash'
 import { fmtN, isNum, joinY, shortD, ANIM } from '@/lib/format'
 import { COMP, componentsPending, isEnriched, labelTone, legalStatus, LEGAL_LABEL, strengths, ticketBasis, type Scope } from '@/lib/logic'
 import { setDistrict, scrollToId } from '@/lib/store'
@@ -103,7 +103,7 @@ export function Hero({ S }: { S: Scope }) {
   const months = monthEntries.map(([, v]) => v)
   const monthLabels = monthEntries.map(([k]) => { const [y, m] = k.split('-'); return `${['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'][Number(m) - 1]} ${y}` })
   const distLabels = byRank.map(d => d ? shortD(d.district) : '')
-  const scopeTxt = S.all ? 'en los 5 distritos' : `de ${fmtN(PLACES.length)} en total`
+  const scopeTxt = S.all ? `en los 5 distritos${BUFFER_N ? ` · +${fmtN(BUFFER_N)} vecinas a ${fmtN(BUFFER_KM, 1)} km` : ''}` : `de ${fmtN(PLACES.length)} en total`
 
   return (
     <section id="hero" className="scroll-mt-32 pt-8 pb-6 md:pt-12" aria-labelledby="hero-h">

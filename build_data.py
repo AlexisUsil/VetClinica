@@ -170,6 +170,7 @@ for p in places:
     is24 = p["is_24h"] if e.get("is_24h_confirmed") is None else bool(e["is_24h_confirmed"])
     rec = {k: v for k, v in p.items() if k != "periods"}
     rec["periods"] = p.get("periods", [])
+    rec["zone"] = p.get("zone") or "core"; rec["near_district"] = p.get("near_district"); rec["border_km"] = p.get("border_km")
     rec["is_clinic"] = not any(n in p["name"].lower() for n in NOT_CLINIC) and bool(e.get("is_clinic", True)) and (p.get("primary_type") == "veterinary_care" or bool(re.search(r"vet|cl[ií]nica|hospital|consultorio", p["name"].lower())))
     rec.update({
         "is_24h_google": p["is_24h"], "is_24h": is24,
@@ -367,7 +368,8 @@ for i, d in enumerate(districts):
     d["score_label"] = "Alta oportunidad" if d["score"] >= 65 else "Oportunidad media" if d["score"] >= 45 else "Baja oportunidad"
 
 ranking = sorted(districts, key=lambda d: -d["score"])
-clinics = [p for p in merged if p["is_clinic"]]
+clinics = [p for p in merged if p["is_clinic"] and p.get("zone", "core") == "core"]
+buffer_clinics = [p for p in merged if p["is_clinic"] and p.get("zone") == "buffer"]
 allrev = [r for p in clinics for r in p["reviews"]]
 tickets_all = [p["ticket"] for p in clinics if p["ticket"]]
 out = {
@@ -378,8 +380,10 @@ out = {
     "global": {
         "raw_places": len(list((D / "raw").glob("*.json"))),
         "excluded_neighbors": len(list((D / "raw").glob("*.json"))) - len(merged),
-        "excluded_not_clinic": len(merged) - len(clinics),
+        "excluded_not_clinic": sum(1 for p in merged if not p["is_clinic"]),
         "search_cap_note": "Google Places devuelve máx. 60 resultados por búsqueda; en Santiago de Surco las 5 búsquedas llegaron al tope, su conteo real puede ser mayor.",
+        "buffer_km": 1.5, "buffer_count": len(buffer_clinics), "buffer_count_24h": sum(1 for p in buffer_clinics if p["is_24h"]),
+        "buffer_note": "Clínicas de distritos vecinos a menos de 1.5 km del límite: cuentan como competencia en el mapa, en Explorar, en competidores a 1 km, 24h más cercano y score de celdas; no entran en los KPIs ni el ranking por distrito.",
         "count": len(clinics), "count_24h": sum(1 for p in clinics if p["is_24h"]),
         "avg_rating": round(st.mean([p["rating"] for p in clinics if p["rating"]]), 2),
         "total_reviews": sum(p["reviews_count"] for p in clinics),

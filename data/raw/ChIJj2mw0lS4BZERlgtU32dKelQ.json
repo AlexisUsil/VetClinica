@@ -1,0 +1,592 @@
+{
+ "id": "ChIJj2mw0lS4BZERlgtU32dKelQ",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "doctor",
+  "health",
+  "point_of_interest",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4662555",
+ "internationalPhoneNumber": "+51 1 4662555",
+ "formattedAddress": "Cooperativa, Av. Prolongación César Canevaro 362, San Juan de Miraflores 15824",
+ "addressComponents": [
+  {
+   "longText": "Cooperativa",
+   "shortText": "Cooperativa",
+   "types": [
+    "point_of_interest",
+    "establishment"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "362",
+   "shortText": "362",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Prolongación César Canevaro",
+   "shortText": "Av. Prolongación César Canevaro",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Juan de Miraflores",
+   "shortText": "San Juan de Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15824",
+   "shortText": "15824",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1720603,
+  "longitude": -76.96789820000001
+ },
+ "rating": 3.6,
+ "googleMapsUri": "https://maps.google.com/?cid=6087259656333560726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 58,
+ "displayName": {
+  "text": "Veterinaria Valle Sarón",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Cooperativa, Av. Prolongación César Canevaro 362, San Juan de Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbFNWaERUbVpCY2pSSFZFWnZibmhhTFVsR00xRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención. Lleve a mi perrito a qué lo examinen y todo bien. Fueron amables con nosotros y con mi mascotita 10/10.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención. Lleve a mi perrito a qué lo examinen y todo bien. Fueron amables con nosotros y con mi mascotita 10/10.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sandro Faustino",
+    "uri": "https://www.google.com/maps/contrib/100229961552467469903/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1IjRcJivUjR4F8B4HUjBiui7AHHMOL5XFSNo4AnzvglzvG2xx=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-08-31T01:16:55.239900679Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbFNWaERUbVpCY2pSSFZFWnZibmhhTFVsR00xRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbFNWaERUbVpCY2pSSFZFWnZibmhhTFVsR00xRRAB!2m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCczc2MXpBRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "De vrd cómo pueden tratar así a los animalitos, hace 2 semanas lo lleve para que le aplicaran un bañado a mi perrito coco, y cuando lo lleve a mi casa estaba todo rasguñado y maltratado, con demasiados golpes, los voy a denunciar, no es posible que puedan hacer esto ****",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "De vrd cómo pueden tratar así a los animalitos, hace 2 semanas lo lleve para que le aplicaran un bañado a mi perrito coco, y cuando lo lleve a mi casa estaba todo rasguñado y maltratado, con demasiados golpes, los voy a denunciar, no es posible que puedan hacer esto ****",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Juanjose Salazar",
+    "uri": "https://www.google.com/maps/contrib/115981838807097792014/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCxUWZJvPLKeMozdsU3JeYNDDqrJ2ODi6CSK5EsE1ZQNjYXg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-01-28T08:05:40.765009Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCczc2MXpBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCczc2MXpBRRAB!2m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURHa1kzR1R3EAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 1,
+   "text": {
+    "text": "Solo dire que este veterinario es un hijo de p*ta, prefiera sacrificar a un animalito antes de intentar algo por el,Fui a su local de emergencia y me cobro 80 soles por verlo y no hacer nada. Al siguiente dia lo lleve a otro veterinario cercano y si lo pudieron ayudar.\nEse veterinario es conocido por mi zona como el mata perros, ahora entiendo su apodo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Solo dire que este veterinario es un hijo de p*ta, prefiera sacrificar a un animalito antes de intentar algo por el,Fui a su local de emergencia y me cobro 80 soles por verlo y no hacer nada. Al siguiente dia lo lleve a otro veterinario cercano y si lo pudieron ayudar.\nEse veterinario es conocido por mi zona como el mata perros, ahora entiendo su apodo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Stef Carrera",
+    "uri": "https://www.google.com/maps/contrib/117255627643999781310/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtHqOjsiAshlHH37ZvP_xj39Qe2OvlVAAiN22ubmkd3XsnOH1UPA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-12-01T00:06:01.846594Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHa1kzR1R3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHa1kzR1R3EAE!2m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURvNklpSF9nRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi perro para que lo bañen y me lo entregaron con La Cara cortada a la altura del ojo y tuve que llevarlo a un veterinario porque el dolor era insoportable para mí animal la única veterinaria y allí es la doctora Joyce, el resto no son médicos veterinarios y prueba de ello son que no tienen sus diplomas universitarios pegados en su local.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi perro para que lo bañen y me lo entregaron con La Cara cortada a la altura del ojo y tuve que llevarlo a un veterinario porque el dolor era insoportable para mí animal la única veterinaria y allí es la doctora Joyce, el resto no son médicos veterinarios y prueba de ello son que no tienen sus diplomas universitarios pegados en su local.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Milagros Olivares Loayza",
+    "uri": "https://www.google.com/maps/contrib/111598886271112526161/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIb25BjiOzL7GPTaGmQ8_uCMViiIukZ91l7zvQNFXvdS82eEw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2019-03-10T12:55:30.390592Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURvNklpSF9nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURvNklpSF9nRRAB!2m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURCczc2S2ZREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "Opere a mi gato  y se puso mal llame me indico mas examenes o sea mas dinero fue a otro veterinario y me dio otra opinion ahora se esta recuperando  ni siquiera dio post operatorio y no me dio indicaciones de como cuidar   a una mascota",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Opere a mi gato  y se puso mal llame me indico mas examenes o sea mas dinero fue a otro veterinario y me dio otra opinion ahora se esta recuperando  ni siquiera dio post operatorio y no me dio indicaciones de como cuidar   a una mascota",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "rosa ramos",
+    "uri": "https://www.google.com/maps/contrib/111912334816744458054/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITQVIvwlqByrV74D4ihJLCS-UT69HBgFzSrNKZhx7dMwSBZA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-01-28T08:04:43.098418Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCczc2S2ZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCczc2S2ZREAE!2m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMbVoLLsL5FOgSo7jJQBXFCzRMBIZ8qLJTXU1p6lee96EnXBqSLy2S95x7ScTZBiwB1LhYMZC_RF4NrFfqfSs9NyNPjMRgC-rRO5neosIGodMMF-t63Lb0UUIdiuxk3OBOJVlhNJaYLeVaE9fp6dtd4N3yj3CRazbTWucbT5uoEqROHunKMJOgO4xCCdQbHZJc3v6K_vH_WWXeSn7C3sFSfWqYITv7Q_11Vg8m99M06gKUUYslitHMYg1je0YILr0sVo8EAFveosZ-vvGT7RPclfcKqlrTUhS92Nyypvsb_TnRmHIThdu701Llwe7nNekM8o-91FW2WHeCYnWZJgOgLOA74zoklzQ0WxTIowSpfnScjJ63dkgLGB3k_s4PqJgopYJ7tlSf_qumtQo-b7ITiAuA",
+   "widthPx": 2592,
+   "heightPx": 1944,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4o_GUJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o_GUJA!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMa1LJvtaAfy2iJo3DA1X4kp2nLHb4AuO9gz87d8yDkHy0AyH5x165uS8nxe-lUajj7ASg4WLdrV4m8PoXMwvxKpLa-tLgSojnYKDR5Fntxined5pzRnTehlRyLGhTqCb8mIibCK9UvZ_fQWDuJJMUQ8lO-kEooGZmLLo9aji-Ud1c82zE_e_PNnZWdMUe6Yde1ANQMDNFP8_LyE8h7Wa8UdpFpHdFbzDP12xtzb8TRxpaJd96hzgBmWQRtYQCwMWQan4ahr4YCcwYF_-SW9p4hw7L70PdSpuDQjtgoi2k_jNE6plmC6PefYhzq5x-NDG9eSmv1tVPTGed-cwmGRzExtt0WOyN0Gbi6qEOE1KcidoWE2YL8z5UFmWgUWHePVOx_zEr4sW1fNOdn5ekdrFFFf0qmvK80",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkqsXlhAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqsXlhAE!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMb33enw_QBQk0QOX7zYoi2YL9CPrgVm_NALOlqLkgxrAvKFEEibsD2cueo1o_wcF4u28f4yJiyrJbdrckWWqbSg7iCcXy5_2bhnXqptG1qoW_qzzELoV9k4BlWSGT2DwKqYU5q2CGMHQi2KB5m1NqMTnIey30UgMW1isZ-LChTtVIavZRq3bVO0vgHBNnEL0AdJGSZ1Au8bQrjwBb72MBN11C3iJcMwPORbwaxjLM-oqt1m2lV25yWRjUUPxjcm6qdWqU5lcmntIsZhfZXnEuvfbOjJv6ys0fhKzHGdGop2Iz8UytBKF3f7Ibmxb1Tvr7FeiwcPsAb_h4SQZinPe70VC0gMSRwOqWr6vVFszM-lI9yiG-cxx0OM5ylOymGz-IBlohGFrrfKneo7XTmiUyFTduVO9s0",
+   "widthPx": 4608,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4o_GU8AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o_GU8AE!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMYXJURcq4h6ZHbICjwpHsHjhRV1Jl6KoWyx5fmDImCfrNToL9a0DwoZUwJzdf2ly8c58ysDISWd6sNOLuDaZ4y8g5OASlBxYotTS0D6dKOVtubLo51qvDt1v2JHvIJ4Q-7NsyB_zRCcK7qezK3fBWsA40k-7feMg3at_jvFlrS0Y17WuDdSeeyw0u_NSLuJvY7fVVR28iTFpe6pimsP9nkBX7LY3B77-T2yYaLiibnkTAT_kShjjbHWgz_K_vVc4M7DHcCEa884s4IpeKrB6MJm4yO3VvrFkFkBAu4v75_QeREOeLqVA3WDxd00Y19QZbSq3CE33u0kq7V5WES-T2EPN8xbn44meqqpog2ouC1Ta3FtoQBsmkVOSTn8oFMJEgMMYlX_1FBnxEOjihxIVm0AWQ",
+   "widthPx": 951,
+   "heightPx": 928,
+   "authorAttributions": [
+    {
+     "displayName": "Alx Berr",
+     "uri": "https://maps.google.com/maps/contrib/102282621372100218974",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW52XJsREzvivnebxJoMcQ9fUEt9f-MwdnnYMfbw6VHpiGuWo0N=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEzImREQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEzImREQ!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMbK6KTn5cEZlr4eJbSXcTZH-V6oorhkstM3-f4W4ZLmf81ee3pgSgbXh_gc4cYciI4c_YNzqyr2bBgy_mqp1D-tgzYnu3HkJK_MvrgpNEmEM-WN8lQsieW0FD9mfYrLD1yXNu7S1F_dnY-vDQFwhZDtNyy5IKFKhaLZDftG7ah0bYvfY_FyqAPFzkZrkdclOnfcLuU_XtBYZ9uewVqhYNUOPEgSXlCeQHI2Ua4c4ofN6xNEYfqw6tqdHnI4djUFWs2az5UUtmiucqXa3SIGUQhFXGIZsaNH1OAc66IHuFVlV2n4tidMp5WX9QU_dX5iMFD7MmbGjaiqVA8V7pYSOaiCVxPA-l9PjKAoy2bH2Nyvt89DU320IYL5CwPPN_uR-ybfTaBoK491dOIThuMo2b2Eghw",
+   "widthPx": 2592,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4o_GURA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o_GURA!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMZ2nwJ9cCs_xEoQ8fyu5xtFS3bzdNv5giI2M8U8Re6k6MAVQ8RE25TyWYn1Y0GuwnnhLZ3mCijHq-KYXhuPZF3XkqsrnoyyKVI5EaWM_ujFccLqJQ13Yig6kn06gwD4pzTw4B4-8gg_LSWtxhliLDmIA1pjS_nMPrZtIXltn1-bdk-l_d421gKAWMVd3JegXJ0uE71AdqLd39gWuOpOhMDarVScTp7AQHTZ0jIYYeC0D9iWkKITmLjhC8MfnJfGGYU2bv0WMXEjR4AhqqAbKFHdHIZ73Xv5fZbADVNQoJsoqcdeoN8vUTc3kFkCUOf-nbEs_Ll9_Gwk6i2L4KSCXnmbQBYMuHoMzBM3TiYwYzzVZ9RU3gS22pYd8nRxkFslOPFafiiQBGaSdqRYknNNIBxpRqQ",
+   "widthPx": 2592,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4o_GUIA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o_GUIA!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMYrJLmtc3796zRmcqS4xomajhHpQmgss9jmNU_ZbWEQkU8z4EzSsz2Fvk5lXzWQitE6glfAQm9IGO_zXO4dyTm41n6z72xL1XRUNUMTYMKBlQ6BeBi_41Z1MHXznNtJGZK9Se2jgKoPUjgw899jS7SgT2wcs5JTj8ceXaSur-gCA-UDfwp2F4m9QnITw1F9keemHeahjOY94awUvyKpqe4bkCSlxV8zbbEhWuqFdNeisssiLciAcrxZ4P9wgGEmvRvNSqmWYzvL8nAnIiEOL15PWEnjuX_UIVkHMkQgpneAuhDDmzoyv3JJjZHVUswA53iHwHPTXey03RCgusiSlbCwxNVIVYmteZWg5d9mBh_w8J-E9tRgWDDehf-riGrJHaIowyG_5MxeYN1MA3mqXpkMfQ",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkqsXlZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkqsXlZA!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMaTZ-APX39ndUd_CFWnWEUqjbhQ9TqNrLLdSi-AwGhs4zb9w6nkD1RZQa82HP81xLIQwH_f_9qd5rR1cy2cQ0tdALbn-U1KRZ6vss2KjDXqsLuEZIdct6drPEzuNm-_12NXE0k4_B8EH_kF2hRkMxWnCV_9wnoS4plDSIiw2BjUXklhAETXWLuBlQrPKm35qiZ2gkKSTdopYfNgzHn3pG7k8SZYLTbRxW1D50-thn_Ls11RU-SDZYPnmNkSV6DhyjbXQv9JQ2PnLgHtdEFvycO-2gmjxmlNVBROqUUHvVc24WCklR_U987N4W_1MApNaaSBvz2YSqyJw006BJW7tw7vOFtZgspAbnyLYHfrdh2p2B7x8WjXPffT8GkiuccJVP0bB2wHzVzBuqIc1DjfMMo6vBte",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkquWd3gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkquWd3gE!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMaZQ1R7TwXA6-P1Y9yoDl_by0d94fP_q_bsg2i3kYHqFxBt1tTTaaigOzuxtnuoMMVbBnr4mh51ffNxnkE00DA5PvhJBcq7-OVu-kqnITluihMF1qHv9qyMA_5ua04-qYmEzHukyiQKtzFUxF4ThAPxLU-GVNa5zQ7a3fyBl-HW-B5_d0TynHHDrxNTVMYWIsM3pSMEiHFEQSswfR36871ot0CFzFPxuc3N9upTGVJHGi057_6h0wWvcsjAs-3dGvl9JpIWYWSg3o6rsfHQ4rqGo-bvvyNj5lwjmovFeezQsHr0mvFyLNrNb1cBPjcprpVwR939qn5Bps0z1I6T3FchOI7UALt-HHoF_LJH0khBrcb5tHALBW-zmdqadE9lPxmRKNDvB4t-VUFkcazNTodbojulzpw",
+   "widthPx": 4608,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4o_GUyAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4o_GUyAE!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  },
+  {
+   "name": "places/ChIJj2mw0lS4BZERlgtU32dKelQ/photos/Aa-ngMbBufU-6qVY8lV8HvNaWJDeEHH1IkQUdK9NmbXGhgS8xPx3eniFjX2TcOpaiWk2EVRjZ3oiYCwX8rO-p6Rf7BPIw_F0aL5Ddu2RGTrb8OdNkUDiQC7dVkzTgN9PSisoGu671J9ApgNtldA035l7XnNIpx9oM3aErE6WI4sxDZCBj9tq6xOBRSH_RJc7Afw-cFciCF9sTQKlvwjSxEVO2V--XGu5rrodUck-NbZZHzfGalWLrfJDr7yZId0CdQulloMD7i_5AD4H0XBtXZUjJHvOoyX2fP4XTHpZhT5GNSMdDgdryw5O3pZ_WtWa55MhQJNyaR66laLB8C5TtWxO2quxX7lbmv_qogU25C3YgrfVtNtGfdmYQUXzvymP-979YyhVlRX2TX_NOByuGXsHtWYtkcRHWw4",
+   "widthPx": 1944,
+   "heightPx": 2592,
+   "authorAttributions": [
+    {
+     "displayName": "Juan Faustino Calixto",
+     "uri": "https://maps.google.com/maps/contrib/102254413072922924028",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpi98bsZ_arWvK7WoFZAO-3-arNkoZvUImvbCzLwpuEnF8b3kP=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICkquWd2QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICkquWd2QE!2e10!4m2!3m1!1s0x9105b854d2b0698f:0x547a4a67df540b96"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

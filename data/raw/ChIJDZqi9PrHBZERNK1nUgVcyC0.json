@@ -1,0 +1,587 @@
+{
+ "id": "ChIJDZqi9PrHBZERNK1nUgVcyC0",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "993 615 559",
+ "internationalPhoneNumber": "+51 993 615 559",
+ "formattedAddress": "C. la Pera 155, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "155",
+   "shortText": "155",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle la Pera",
+   "shortText": "C. la Pera",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb la Calera de Monterrico",
+   "shortText": "Urb la Calera de Monterrico",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.118731499999999,
+  "longitude": -77.0041136
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=3298987904976006452&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/pravetz.diagnostico/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 572,
+ "displayName": {
+  "text": "PRAVETZ | Grupo Rubio Diagnóstico Veterinario",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. la Pera 155, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ka2JtVTNTSEpWZFRWTVUyeDNaa1pFZVZKQlFtYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Hace más de un año vamos a hacerle ecografías a mi gatito que sufre de IBD al consultorio de PRAVETZ y honestamente es el mejor lugar para esto. Es muy fácil sacar la cita por Whatsapp. Son ágiles para responder, casi siempre tienen disponibilidad e incluso nos han asistido yendo en contra de su protocolo cuando ha sido necesaria una cita urgente.\n\nAl llegar, siempre suele haber un lugar para estacionar y es una zona muy tranquila. Son muy puntuales para la atención y eso permite que nuestro gatito no se estrese.\n\nEn la sala, todo el ambiente está preparado para la sesión e incluso siempre tienen personal que apoya con la sujeción de manera experta. La Dra. Natalie ha sido quien suele atender a Oreo, nuestro gatito, pero con la Dra. Adeli también hemos tenido experiencias positivas. Incluso con los doctores que vienen puntualmente para exámenes especiales como un ecocardiograma.\n\nSon muy amables y receptivos al momento de escuchar al tutor. También, ordenados para solicitar la orden del veterinario y muy veloces para enviar los resultados tanto al doctor de cabecera como al tutor.\n\nCada vez que nos indican que se debe hacer una ecografía, aunque se pueda agendar en la misma veterinaria, preferimos siempre hacerlo con PRAVETZ. La recomendamos muchísimo!\n\nDejo foto de Oreo, el paciente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace más de un año vamos a hacerle ecografías a mi gatito que sufre de IBD al consultorio de PRAVETZ y honestamente es el mejor lugar para esto. Es muy fácil sacar la cita por Whatsapp. Son ágiles para responder, casi siempre tienen disponibilidad e incluso nos han asistido yendo en contra de su protocolo cuando ha sido necesaria una cita urgente.\n\nAl llegar, siempre suele haber un lugar para estacionar y es una zona muy tranquila. Son muy puntuales para la atención y eso permite que nuestro gatito no se estrese.\n\nEn la sala, todo el ambiente está preparado para la sesión e incluso siempre tienen personal que apoya con la sujeción de manera experta. La Dra. Natalie ha sido quien suele atender a Oreo, nuestro gatito, pero con la Dra. Adeli también hemos tenido experiencias positivas. Incluso con los doctores que vienen puntualmente para exámenes especiales como un ecocardiograma.\n\nSon muy amables y receptivos al momento de escuchar al tutor. También, ordenados para solicitar la orden del veterinario y muy veloces para enviar los resultados tanto al doctor de cabecera como al tutor.\n\nCada vez que nos indican que se debe hacer una ecografía, aunque se pueda agendar en la misma veterinaria, preferimos siempre hacerlo con PRAVETZ. La recomendamos muchísimo!\n\nDejo foto de Oreo, el paciente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Santiago Chavez",
+    "uri": "https://www.google.com/maps/contrib/103337077306753531311/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo-hw66kjlLEeg0IU3i10ULvaWEJxLAoH4ljO0mLc2eCitqHDV=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-01T22:42:18.893839768Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ka2JtVTNTSEpWZFRWTVUyeDNaa1pFZVZKQlFtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ka2JtVTNTSEpWZFRWTVUyeDNaa1pFZVZKQlFtYxAB!2m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/reviews/Ci9DQUlRQUNvZENodHljRjlvT214ak9WbHpTV1ZGUlVGUFNUVk9PVXM1U0doNFZYYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención :) llevé a mi perrita Bebita para su ecografía fueron muy amables  y pacientes con ella. El envío de los resultados fue rápido y despejaron mis dudas incluso me preguntaron por sus antecedentes para ser más específicos en el examen además el espacio es amplio hasta tienen un pequeño jardincito. Recomendadisimo :).",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención :) llevé a mi perrita Bebita para su ecografía fueron muy amables  y pacientes con ella. El envío de los resultados fue rápido y despejaron mis dudas incluso me preguntaron por sus antecedentes para ser más específicos en el examen además el espacio es amplio hasta tienen un pequeño jardincito. Recomendadisimo :).",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "gimelt parisuaña",
+    "uri": "https://www.google.com/maps/contrib/112493939154185907646/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpgjGnbX7lm1MotPDGd3tUW5StvE35O4lduvdQABb2p2mPy3A=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-05T22:37:14.523202079Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214ak9WbHpTV1ZGUlVGUFNUVk9PVXM1U0doNFZYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214ak9WbHpTV1ZGUlVGUFNUVk9PVXM1U0doNFZYYxAB!2m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wd05qUmxVRWR2VkdaUWNEVlVOR0ZCYmpsdU1tYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Nos gustó mucho la atención. Muy amables y trataron muy bien a nuestro gatito. El personal muy profesional y paciente. Los estudios ayudaron mucho a tomar una decisión en el tratamiento.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Nos gustó mucho la atención. Muy amables y trataron muy bien a nuestro gatito. El personal muy profesional y paciente. Los estudios ayudaron mucho a tomar una decisión en el tratamiento.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Catherine Calderón",
+    "uri": "https://www.google.com/maps/contrib/103281103160938695217/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnWWorU7IOYBr0ekFTdbdyb0I5WfVFoBJR4xX-6zThUr5bOg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-07-08T16:51:28.413845159Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wd05qUmxVRWR2VkdaUWNEVlVOR0ZCYmpsdU1tYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wd05qUmxVRWR2VkdaUWNEVlVOR0ZCYmpsdU1tYxAB!2m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWmRrRTRUakIzTXkxWlUxQktjMjFQYWxGMGVXYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Es el segundo año consecutivo en que llevo a mi perrita para que la Dra. Natalia Hernández le haga una ecografía abdominal de rutina, excelente servicio, tiene bastante paciencia y es muy cuidadosa.\n\nDe igual modo en la recepción con la señorita Katherina quien es bastante eficiente y atenta",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es el segundo año consecutivo en que llevo a mi perrita para que la Dra. Natalia Hernández le haga una ecografía abdominal de rutina, excelente servicio, tiene bastante paciencia y es muy cuidadosa.\n\nDe igual modo en la recepción con la señorita Katherina quien es bastante eficiente y atenta",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Malena Orbegoso",
+    "uri": "https://www.google.com/maps/contrib/110237872759390469704/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0iiiFmhfwDCP_n15HL5UiL1DvnEYV8QIgKASYbB2BizwcDyu6=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-14T15:34:59.149816240Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWmRrRTRUakIzTXkxWlUxQktjMjFQYWxGMGVXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWmRrRTRUakIzTXkxWlUxQktjMjFQYWxGMGVXYxAB!2m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodWRtWldPWGxUZGxGNWJqSXhTWGRSV25WNE9GRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena y rápida atención.\nFueron muy amables y cariñosos con mi perrita",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena y rápida atención.\nFueron muy amables y cariñosos con mi perrita",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ivania lengua rique",
+    "uri": "https://www.google.com/maps/contrib/108806568002246571149/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqW5VzSe3PwFTmtam35Cp82165v9Xvl8yArIDRi-7WVkVBlDM=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-12T18:21:50.216447285Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodWRtWldPWGxUZGxGNWJqSXhTWGRSV25WNE9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodWRtWldPWGxUZGxGNWJqSXhTWGRSV25WNE9GRRAB!2m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMbZBBKStMKy2lVLQzVbtg57ujIxXByPJ4RAJDS-s8S2VROspI7APvw-sMMXjTI2MKy9wo30UqNWlqGlLenKSgev6VhHhAN54eYAETzFEk2yZRVcDRXYW5W0D0Rv-N5ORczUi7zt19Ae84XT7UMPV37fHHDOVOpfduiwTvx0bUEJM93-QXhhIUVRNYzvedAr2akXoDsCggfPo-k_ZXS-8rviUWuT02xXHMDRY9Yfp1mz8YscjKicivq2OUKmMLxio0ZrCeCW0HXPnym9S5P-8iIgRxPR1yUZQ2r0Sq2oFG3h9IsRzbFb5nsTQPLj2H9HBW1BTLYh8699gF4CROjkZWWJ9aVnEw6btrw1HcqJlLsbweUTo3vbX4aU8lzsr2V7PpFCS3kAZfwILtSqn8dyoG1DHc6XleTpwdEFmr8cQt99xw",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "MyL Fotos",
+     "uri": "https://maps.google.com/maps/contrib/106788792226051784614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUivTJnGCGcbMb_HP-P-c3qgCbDN6rdtQ2eOZN6izVcQd9OmSE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuovm7NQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuovm7NQ!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMavUebSMq05258RROSn114Q-OHDop6Q4haJWvbdZ7MssRe1S37uBV_GBaLgjizQrS6ap12n-GfsJzXJgbvkAeqHRl2Z2hRA92VYyqrunRoJnOBibe-0pol0xK-cPBTAAaVF1WP2bN5f8h1sXgYYkpkNHgvA8pft5duISFFZGFT-AmsRwAxkaUtHAoKv0RhaTY2sD_AwnpSwD9mc6FECSgr7fJvo1uLrjhVFOP9t_6YjPvjeZ7niKAjPfICc-u2jM-qljkAS1GeAdrR4oikSeICTciN0zZR4fEVqzdd9dmAvNnIUUccwp719z9cDdi-EEyeCkbEyNP61zdsTwQZWNWANuqbIDsdw9FaLWjmUVKTl0Z1Mdm4-LniLqW3y3q4F13mzK6r2z8IQlR19ehmfVxL7SGVj12woLYZ2dnl44K6D3PIjR1gDzzElhtd_D4Jn",
+   "widthPx": 3840,
+   "heightPx": 2160,
+   "authorAttributions": [
+    {
+     "displayName": "Noelia Roman Carcamo",
+     "uri": "https://maps.google.com/maps/contrib/114800687541175307328",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj5swQRxyblOZK2IARsYtU3mF17gKM8FMHBHxDwy5T4W4YsPgg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAU-BqmHPh8boByELRsbbpk&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAU-BqmHPh8boByELRsbbpk!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMbb1NpSHWcGk9FuQ7ZBLGK7UkXjutujdSgkjyAfgqSBNlSJZppFx7hzMM6yynwEwC6LyeOkrd085XYm6lMVLkoj-L7hY9BYtBsQ6GTqnbJSHhcDiPwL_oxfriYuZ5O9cTIPEznByfRIUR7Bk-7xVemk5eH08nkzwlzgoHcEoNbPAu4e9REmhsWWuk8fiZJ8jNII6w0GlT4nKFAG-37cf6kCCMi3Odxu3fAnl7M7tRhS1lI5jmZsiOqN9UzbfNPp0-7VKWeymXf052T1rdkgADr84JVvStCv7RL1scNtnXtiLXXZzjp1xvKLpB65fytU5ljomhAwIFdNUISpwo0ClE7PKN_xp_fhTrL8PWz3gfrCb9Y10ZZlo9jqxQ_cB13o8LBT89JE0zaW3DdDLq5l4FQuMTLtPUX4eA8T_veaQ8qcftV2",
+   "widthPx": 750,
+   "heightPx": 1334,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Luisa Melendez Lopez",
+     "uri": "https://maps.google.com/maps/contrib/102999599127240025942",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVi0f_vwQfUk1SCmkN-pXzNnbi1CE3CocBSKlCug0PQ4G0S1vEs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhj5qksQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhj5qksQE!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMZI8_DQWONMCO0CR82Heg8KyN-wBx5wwqhogpy1woCSm9KZZTuyMgYmJHNu0WxW3nuZnc_wxvNcfGA1cNWFRSFKrr-THpADU-sf9qTY17yzSd01BCyhvqln5FuwVBsEYMl-NRmYAZ2gE2N9_ZsB7u71G3YxK2KpRjA0xaLBiEKI4CxsTK1Qx4vc7J9V7Lsvd5qPOZllDI1VQhqgxq9YzxJQ0Cizrm2Z-F4Sa2L8AyxN9g41658XqDwmAltjJwxFnecKi2Si-UKyX2tpAk369a1bPNSd7cGZB4qFfgIjq7T0-1V22yg57Ie1fkyws4PthaOZwnecC0JSAvL0Clcv7F7uDfepTivXTplBmU9NP5sAt_23eeXK_ue1PZTFiDurjI0FNwtgkxTk9lxwsSDdv2NG3nK6jtn41tRJGe95d2I",
+   "widthPx": 712,
+   "heightPx": 768,
+   "authorAttributions": [
+    {
+     "displayName": "MyL Fotos",
+     "uri": "https://maps.google.com/maps/contrib/106788792226051784614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUivTJnGCGcbMb_HP-P-c3qgCbDN6rdtQ2eOZN6izVcQd9OmSE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuovm7dQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuovm7dQ!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMZTUT2xSddMGcH5rm9aGLaDqniM83eM8YA91jOOpHBsFsIzI2b14gb-tEcuWzvePXSOiKLB8Tca6PVax4qX879KFZBF9yjd50RvNWuzVyLmPZ07uitxgBMvryTNJxL7m0LBcnFYiXyCHsXms4J0PxeaLc_ZljVI2bDJ1d7wjZZWG7IXbN65437ll2GyOXOu0M6xajLyZHntcvibdx5yQGhzgP7z8DJHxgwwa8KEbR5ZLLGZUh2Im-cdofT0VvwBHR5xo5e9sJgbD-h30TKXiRKj5k4Shm0jrG4QieOHWwEaIZ1uwKXLEf82z_vueM-7qb6TG-LxD-5DNeJ8yMFxFFyWjkQvPxR_jgVVWs-hUOPqJrc0NC5ur5LLW1cEm4QwBidFFdmYt1SWCtI4zw-o9yugT5jKrtCp3CWO_tRndgCWHRzqO62352JWd5p2GJFl",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Santiago Chavez",
+     "uri": "https://maps.google.com/maps/contrib/103337077306753531311",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo-hw66kjlLEeg0IU3i10ULvaWEJxLAoH4ljO0mLc2eCitqHDV=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBTqWsmrKYhXpy48_fYzQ88&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBTqWsmrKYhXpy48_fYzQ88!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMaOGxe7BXO0Qyt8_rM8ZO3ArBwNjWA2vrIBaDMtpM11Rh5EolxUFBZnN-iEVsbwBoIjH_CJxiLNxzOCFlI9EgBhU1-kPUlV8OCM6_4ovoJekj32pxYp4dHVq_6DXnvAtNqjz_XdFgb0P4VTQ5g46v02xfTle7avRrbQCRG0Zeqi-G88lZW6dwySXyoz2I2UuxwsiMgMfctjGGHJWUJmLUVq3vOa4p1EUfQnDgA0AkD3X6tOf7D2zjMxDFw_Opg9v_ufb7yOVzQM9cLs7TLx1JdH_z1d7F_5aN3EwIsmDUxiRJ2sk02hit9WXrLT0CmZuQJA2vw_mkCJlDDQOO6P-1Z1fwOBe5BuHpxKoxuKIkQQJVwJQCf19xYhZKPNhWD0u9ua5LmHeJ5fsJUpUvvS_gmueRxXMk1SDWp1dSBzrzWL7Q",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Antoinette Ormeño Eguía",
+     "uri": "https://maps.google.com/maps/contrib/111566666330014457856",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl-ns4wAh_O3HiMu8rQorI-XJnRUvP5MLLDF_pT0ivCCO7cIYQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDA-JKAEg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDA-JKAEg!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMbNqhJzYtKAjf9Lfka3Fbs2jCKEkzddlZcJM1L-GEkHVP6hJHkWSQCYWxoyWskuj-a6k53-e9_1QGdQsEZoa_tTn8_1eY0AzkKoXNzF9GuWIonndeXS9BJZ8SGdCru0SJ1bP18IIPH40aPe1csk_oas8kK26ev7YhCyb-vYWvrNR2bCpLJZoTPlb3GbdI2uAG3UMBF7VqPKAbAxQVFI_koI4azT0cDlImFjLIwEkHfRMqQ40tVA7920FuuJojQnSQpFIqRg__0WwA3pl4lDk1juM68Tte0hvLBk1AkijSpk7AegWZbIcGqXayOiaKtk7ASi_nEWcO8TjfPGjeWSOp61ldLWQp8aAKd5k7Fdy2KzVyIbo25b4_DhpmNqrLWIXfSSRucFVO6KziOmz_cD-7akqYS7sX3FI3cp0L5-Awz0tn3fZs-4AXsltcYs_w",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Iliana Manchuris",
+     "uri": "https://maps.google.com/maps/contrib/118381200905644122053",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgOQBPRYzjr7glhtCCvmVAR_75m8uUiCH0j3K4iQOL1OAGgQQj=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDXx7gmso4KzovIYcxpSp02&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDXx7gmso4KzovIYcxpSp02!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMaY8-B0rffikVAmIy7Q7uXbfpRtdvUnw073tQnx2vCRXvABJzucM-prwoXHXkBlFexiavUdLAIEaaYzb6TLxV-DPbibu0Hbiujv8WRVb0R6iISvKZkuQWRIJeqhDQKRmuqhIm0Mh3eaD5juSRNwW9xFC0dHVEFru-PWhWcgUXGv6DVgoNVP8YesefZp_VzvCcXngrPaSj0431Iw0i0No95e1EDCz_rcpDA260bYLJtLpCLCSFbM_9b4n6UgK8FlKHrVjdCCfqB4vvOeASV3ce4weNHczLbVJ8-_WgQZuIOjJfsszrG_sw5hzUXlD5qUF189cacgXQsIXk3FLVmOn-qdo8Iz_gwVa-jPLlUnqBh5OnCH8dYgAYg05rOe2U8f4_6eEEOiv-FLN_25zFCG9j8i1wH_VjO1vxwnIjmV8PmeDQQc",
+   "widthPx": 1024,
+   "heightPx": 858,
+   "authorAttributions": [
+    {
+     "displayName": "Mirna Sanchez",
+     "uri": "https://maps.google.com/maps/contrib/102559838322307870878",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnkl7KD6exus8Uhfa4aWfxCVXtanSQchDJV5MsqoHSUKhRfbtm=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDuorWv3QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDuorWv3QE!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMY5QTYLPyapMK-Il0IjQOfycjFnl8ZnuFEA_X09h_97JHiAq-JEH5XVSDHz-Pwv__TtVy9-ErPrmcVjigMSdK5LM6wHTMjopZ2gS_UKGOrRp68uXfHLVAFuBUGAl7xvjrnbsoCSYjWJ0h22rrjTzcK3Gu93OWzrUfSjYpNhdQezirJx85s_ZOi-0MG6KYzrxy_ag9GhqycGLjGJqeFM2FZNuAwnqxPdlfTO6zTNOp_EosBdJVwBHtax-NIj-Ps81FMjv3c-sgg43azzGUXHec4Cue7hyBzZELiJTeUiDSojV53rmlkp-ZSjCuuQYQqLfuMfJP6ZL8xh4dTzUSX1_WqHJZ0wAWUbP1UX4njOhW78G5kLL-OIcsYkkcn91aLzpD6Y0HG0rAmwtXz68td4vblCZXMEk88zwOMQP_p8rWAoPWDq",
+   "widthPx": 1476,
+   "heightPx": 3280,
+   "authorAttributions": [
+    {
+     "displayName": "Sofía Chung",
+     "uri": "https://maps.google.com/maps/contrib/112948260425569202993",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPuxIc6zIcdV331OzzVVat5i1HdG8S2i_mPR_tc-9kmCovi7Fw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID37Y-t6wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID37Y-t6wE!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  },
+  {
+   "name": "places/ChIJDZqi9PrHBZERNK1nUgVcyC0/photos/Aa-ngMZsdwzYwrDGhkMNxJzpZLA02k1K6epPNKkcKC1zfiymE9Ov_XwC0ky56FW159I62K179RUaJZt6mmQ5S_sA0yqQocWu03iJb5hMnLqKdDf7FdqUM5Grm9oZslQ1e7OLxytoRR-dV4XNMD1sR8GsXguFCDy9ga8TwbHku_gX9gLULjAtc_KOKXoOL8YPu4USvHFKqC9fc40N333t0xM7X9HpDrn7nJZYyc-_wQCfZCzsjETKgbpooeEWKfQlafQLOYgXcLJjyK6ya56s43FAfRIG-wpEMv3fr1w-4orDBy6YIYv-yP_QWffAjn2fsIJRgh04CdBcutadnIjTOtPbHHkkIH8N3k0NFc4ZFNvWfinPDwmYOHlxrC3Q4-sl9A5QijdqoS93bE7kbD4a_huKtre-Y4oIXPOliflt6lvWoBc",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Iris Mariscal",
+     "uri": "https://maps.google.com/maps/contrib/108508920229097601644",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVmQZATILA2kQ3VblP1cJ5fJt7gBqCtnACO0o5CkBOXsv1jfQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICR-IqMUA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICR-IqMUA!2e10!4m2!3m1!1s0x9105c7faf4a29a0d:0x2dc85c055267ad34"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

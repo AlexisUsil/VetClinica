@@ -1,0 +1,556 @@
+{
+ "id": "ChIJGWK2vxfJBZERB3tzjHgsiQE",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 622 684",
+ "internationalPhoneNumber": "+51 999 622 684",
+ "formattedAddress": "Pje. Jesús Maria 164, Jesús María 15072",
+ "addressComponents": [
+  {
+   "longText": "164",
+   "shortText": "164",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Pasaje Jesús Maria",
+   "shortText": "Pje. Jesús Maria",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Fund Oyague",
+   "shortText": "Fund Oyague",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jesús María",
+   "shortText": "Jesús María",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.071983099999999,
+  "longitude": -77.0487012
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=110668562111363847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 59,
+ "displayName": {
+  "text": "CLIDVET",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:30",
+   "martes: 9:00–18:30",
+   "miércoles: 9:00–18:30",
+   "jueves: 9:00–18:30",
+   "viernes: 9:00–18:30",
+   "sábado: 9:00–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Pje. Jesús Maria 164, Jesús María",
+ "reviews": [
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/reviews/ChZDSUhNMG9nS0VJQ0FnSURhamYzZ1JnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Encantada con la atención, la dra Elizabeth una persona profesional y serena. Me sentí tranquila en todo momento a pesar de tener a mi cachorro muy malito. Y su esposo complemento perfecto una persona muy amable y cálida.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Encantada con la atención, la dra Elizabeth una persona profesional y serena. Me sentí tranquila en todo momento a pesar de tener a mi cachorro muy malito. Y su esposo complemento perfecto una persona muy amable y cálida.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marianella Castañeda Benavides",
+    "uri": "https://www.google.com/maps/contrib/112649919462960772872/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwtsLs8qwq3NiP2CW2ujFE5VFQ_zMYIR8pi2dv3UmXaAfmzG8=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-08-24T15:00:56.815784Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURhamYzZ1JnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhamYzZ1JnEAE!2m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/reviews/ChdDSUhNMG9nS0VJQ0FnSUMycE9MUHNBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "El personal se preocupa de forma auténtica por todos sus pacientes, y me hacen sentir muy seguro con información precisa. La veterinaria de animales exóticos que atiene a Coqui se llama Jaqui y es un éxito total.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El personal se preocupa de forma auténtica por todos sus pacientes, y me hacen sentir muy seguro con información precisa. La veterinaria de animales exóticos que atiene a Coqui se llama Jaqui y es un éxito total.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gonzalo Campoverde",
+    "uri": "https://www.google.com/maps/contrib/101089623856649192687/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcxjX4QiCfh2Mbe1Bb-AAs1PrB0ChRoeo4AWvr0ja6cAL9tlAcPA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-04-12T23:06:01.539065Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMycE9MUHNBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMycE9MUHNBRRAB!2m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STFdYaHZWVVJVY0VzM1gwTnVTMDFJVDFaSFJuYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Siempre atienden muy bien a mis 03 perritos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre atienden muy bien a mis 03 perritos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yessica Teresa Huanca Vargas",
+    "uri": "https://www.google.com/maps/contrib/102454509023192418545/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAYhhQRlUuGlOJDiMjj6guzoHQnJ76REpi6GY92D3AhgPssTo=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-19T23:45:32.759203378Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25STFdYaHZWVVJVY0VzM1gwTnVTMDFJVDFaSFJuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25STFdYaHZWVVJVY0VzM1gwTnVTMDFJVDFaSFJuYxAB!2m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWWQxTmZXRkZ0WjFOWVVXRTFWa0pZWVcxUVkzYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buenisimo, el doctor atendio muy bien a mi ninfa fue amable y paciente, a parte de darnos instrucciones sobre su alimentación y cuidado, me senti satisfecha con el servicio y llego puntual",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenisimo, el doctor atendio muy bien a mi ninfa fue amable y paciente, a parte de darnos instrucciones sobre su alimentación y cuidado, me senti satisfecha con el servicio y llego puntual",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ashlyy",
+    "uri": "https://www.google.com/maps/contrib/108873292041385021377/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoXeutZ6t57znOdbICOL3HF7J181dIQXTIToY9NxboQyJm0CVM=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-03T00:16:43.391526978Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWWQxTmZXRkZ0WjFOWVVXRTFWa0pZWVcxUVkzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWWQxTmZXRkZ0WjFOWVVXRTFWa0pZWVcxUVkzYxAB!2m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMWFISjRUR0ZTUmpSR1RFZHBTWGRhV25wQ2FYYxAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, muy recomendable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, muy recomendable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gaby Inami",
+    "uri": "https://www.google.com/maps/contrib/106534818473812674535/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrHQQt8iK9G10wmNvV4nFBeU0KuTNMAGUcZow1ZhBqhTSAvyVdkQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-11-07T23:50:51.634971886Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMWFISjRUR0ZTUmpSR1RFZHBTWGRhV25wQ2FYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMWFISjRUR0ZTUmpSR1RFZHBTWGRhV25wQ2FYYxAB!2m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMaEa70m2CECn1bpjvFhlYbC3QP14vWCxhLbj530ZMfCcJyTALGhi-GlzLinTMedVTxBWVdCmXoUNBRC3CNyl3N-UIjYcFD6rW6OlMdIbVf8zauYlnjYiB1jOax7Wfl7qY3VKW-kTS5KTY9tVHS5K1SjCVPbYKLjD3pheu-Eqe3ux7_ngAvt4pfxXcU1eH5y8y2YOLQJ6yTbZZZEyxosXqSQgYBOv9BgS55mx_elaTO99i8I4M7pYUFhKVvse3i6tHuwP0pj2DEo8599zEGIk8TfxhHn1VbyRuFWnkQKNHWGfzpisd83SrdAT2B3U5GNudi1Pm6yKtnTj68IarEQlhWI9dzec7nXaItPN0XAL1ChHf23rVcNvwenAy0_S-D-xOj2g4w1TPpd9Q2NvZARUGXR8DOzYz6dD-LJUQfsQm-yZBqF",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Fiorella Ore",
+     "uri": "https://maps.google.com/maps/contrib/102401587583887890717",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFOvYsyPZOybIV6rqhA0-nGeIE__5nAZ-cYzZIWE123gBIx20HCg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDew-D75gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDew-D75gE!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMb4omMhwyg7mQ_0gCe3AtwaEq_xJtBEdz1_PhK6h7fFFU9M9r67161YfZ2VWXK8j7dtLkVVGgUyoLxHWbJWeGCwIHryAMESaZKI3ZQPaVaJQZATBFTtq76Wb_z8PR18BVvhiU58Vtm_XTnw-dEtRcVwWFjaq9KTlfaXpvU_H8vk11_4_9jxHzAS5AX0__5AkR8LGxcNXD8hwpDzjkSNd2l-O0OMozsgsaEFcRBTyDm7SZ9TGeyZGnrmPhE_h_DjvYBT5AFgPFCILdlGJfUkeYtnFs4LYocj06EG1EKf5GLTQ6-jpi0NAXKNqxQddo4DdpGnvitUMSkerX1ICTpUv9FKMqo7iKgh5CZqtAZAWwJw9Qw9jAGmmTDWsCsp3eU2TuZIhL4OfdzAV_NZZ6XlX1afQn9JH-9N5vUnd0FekkU",
+   "widthPx": 2736,
+   "heightPx": 3648,
+   "authorAttributions": [
+    {
+     "displayName": "Marianella Castañeda Benavides",
+     "uri": "https://maps.google.com/maps/contrib/112649919462960772872",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwtsLs8qwq3NiP2CW2ujFE5VFQ_zMYIR8pi2dv3UmXaAfmzG8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDajf3Heg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDajf3Heg!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMYA5qkAWlalmOb_gu3chHnpo1X1kS65XQlk_PWdV1UqDz1ibLLoMfDwMFOtnPkCOsM9K-igeaIjkudbbqyxcwND8Vkgn_UwouWSU2vFfNm3-Ym-bonmHUpKE8zld1XSAGUPku2Dyy5kkg7fX6T0uv05TOgd6QPQz7Q_KCIUtL6_cWW8sQQf7X2P75D2-Dx9J6mhCqaCP0SmLmhbyKIV-GrsCuPIGtpdrN6geTLu0djjGmPJWVQsgUB3_gAmybbYNEDosHmu1-BrESS_allo6VXpk5ZFcDarUk9CCNNhkw-2QmuZvMgqp-YMKkjtmpS0uo2AcUx4ELAuxfabijNmsn_Qqp7EVB3uWuOLJAAz771kHYu7R_OZ_0w7FCrSse-9bU0Ham_ofJrcPiXDbBsokgUfQdoU8PbANnGaRFz_E7mwyA",
+   "widthPx": 4128,
+   "heightPx": 3096,
+   "authorAttributions": [
+    {
+     "displayName": "Elizabeth Hinostroza",
+     "uri": "https://maps.google.com/maps/contrib/117581697347620902875",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImmR9rca4d4RxYT743f51cc3A96IjCWilH0F48otuaTAbzZQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDUxf_jPA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUxf_jPA!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMaAh_UNfgi1IPKBSLYJxbndSL7P7_0Ydyd1WfBdgRlgTy_0FR0dAuwigDNEgJRFGhWMTbvQ8wG0Bskg9dN59dqETi0jhhGmvsCeD98F81-rI5SD3KsSNhDVc6nWWaGVfAMWBBNlb_KVj3B-brmGEe19NMbXOcqevluBaHpVVciaFPiY8i_iQXDbLdsKDAiG47WZ4oHQ1z_Rkp4SRS1yZlpGFevsC17Gxwea4v_CwiN0G1MVIzrz_D7UiglYzE1vJJi44k6YWt_LzPnOu3WY0myJKAMc21RaA086DLdqSfy6_QHLFGpDJtKetaA2-qIz4u67OhptFYtTTECbNYxf2OBKRm3mwne_vlqcYPQsu3AAx0V7C8FY7-mGzzhD6TnfUbl-zjYLS-6CQHd64FWWk-1HJX7v9tOfL175q6Sl7dlWZQ",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Gonzalo Campoverde",
+     "uri": "https://maps.google.com/maps/contrib/101089623856649192687",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcxjX4QiCfh2Mbe1Bb-AAs1PrB0ChRoeo4AWvr0ja6cAL9tlAcPA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2pOLPCA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2pOLPCA!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMZgH3PC4Qa3y7oSL_AZwYKVRMEuQ6pl8Kj9Ts5r6xY3d1S3r7dGe6yBeU4HtnjlHPm5cbiCii1Wnl7PYQyEkoCnFirduuKTw_nyIdVgozFWabK8VXTe1gepB8FTBoK2FswMt53aSMTrKkva8i1hYiSlxigGJxEWDWNEuVrto0lrqLFQYlpoLmqP1hk3JlzajP9S_ig6PnAfT7bPegtd06gIB-Yl6wtY8NbTniRjFrdY8DocxMVvZG9svcg-nLGHv4HWTL-dZcX5dM5wG33bL9_BGJeE7kX3qgDHV26bZiihVHnys8IFofQ43yNIjl3zfC0wLMTSU44s0h-jmRH6IwuLGBAoNHD7gFf6tYGsVSfrnOdCYMnfVY9_Y9iAQzx9FnQ8faq3tcypamphHgwy2cXr0rdxHYhHozXrsl5K4UAhBeWL",
+   "widthPx": 1836,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Rafael Jimenez",
+     "uri": "https://maps.google.com/maps/contrib/106700996891830495157",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNKQk0GeDQZJLplPHsLRa9dHiWTszNp1umtiJU68P2TkQ6C-w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICi_4ar7QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICi_4ar7QE!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMZBTXcs8EOGCYCT-YSk8ZwRWpdmdfkGwajSEI3BZR2wxmYa4l8bTuztNIlGyhBjDnWUkrLFNxDo3X5-nUvwe2KkIQIrSMoLZrmcJST6xF0d5afoG6Hdod23ppncOtzaaE-8_743Mf4EsUi2dMS_AapdsgJEL_aybsrVIGzw14vizqIY4974JyXzvTwC-dTbvk2HXHu-Ae3DgiH5eAgIbEIflmT-Z41XMYW-UY1lxjoY9Ks_APBUZFU_aI0GKYSYdhixWphBafVqFXf-EclYd9n2Je12P9jHbhM4hg0NaIiwnXZ7mcqyz69ryQS2kKkPwlMgLM9meYr9vgp_Ro2ICNU7BO4_PFFOTN00q9yqBJZXk-RKZFm7ACUbAKgyr1aaXiAgYR8O096hMW78LQBOooc3CBLvA00OlLKh-eXQ3WO6bIfA",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Stewart J.M.",
+     "uri": "https://maps.google.com/maps/contrib/115165058442286972656",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDZRSQ5flGCKWCg52xxLiaJAoLTlE23xZ9ByrFXQ-KRjLrGrFlEQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICK_brEpwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK_brEpwE!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMZi4JlC2MqVgJawyKcErEe_JBCM73l8nlhsgVEKQGxRK97PU-oqeEEX-vbYxWKobfeLRbKMCPpS5_0fAW-iPeVGjKumz3RtMHu3217LwaAhyLj1IdKy8Pz4AMJaogdBJ5C5Jhfk3hKzM7vJQeespHM1V-dwUj4PoF7yvehUcXo9u3JifcUrmZC0Y9QavUt7xeyhNfq7L6lYkOJT8I6cbiTwjJm_gtjekNqK2F1vOwO0CHWYSv8A-ryKtilJ5KB-LbU7WM8Sl2JdQHo7RtmqGgYRGtJTe-_-xHD1kdNRuHF48hQAfdig0tOkUhUHDNbogNx1j1fv0yOEMbx3OCf7ZzMp-HgJw3-ABOxMGHKAxXczFxDoWC-LrZUXtiCtsVk2KU1Ac-I78UN6vM0h3cLEr1ryGG7abGoN-3XG9pqq6yfXZLM",
+   "widthPx": 2736,
+   "heightPx": 3648,
+   "authorAttributions": [
+    {
+     "displayName": "Marianella Castañeda Benavides",
+     "uri": "https://maps.google.com/maps/contrib/112649919462960772872",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwtsLs8qwq3NiP2CW2ujFE5VFQ_zMYIR8pi2dv3UmXaAfmzG8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDajf3HugE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDajf3HugE!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  },
+  {
+   "name": "places/ChIJGWK2vxfJBZERB3tzjHgsiQE/photos/Aa-ngMauHGpMc9ldrRUT2rziShjcRnoQp2FLm-BWSWU2HenUzkowQ--CZpc3Py6ZIfuPbvOjlccWenovOu-lKmm3OQe1xUlqRpdEeHm0D6CFo-G7e0VgkECpE8BcI3HljUyjzprCvF6laFJi-cLeDm2jBvDT2zh0h2ndnh8z-nBoGgSNo_MTBZKkopjVMKVHQTcyKYAb6nXqdNbD5CW3WdS7E_qLK0NVQYv_sP8WAeNyGl5Mc3P4_XtDPOwvgvgQlx8dgsR10Yjzv7zELFOflpv0KUYUMz6Y3MZJDddyy0PBzZLCO-m8G4BBctRSuECSNQnRJ8zZWm8zEBapLFeMu08F9cNQdUESck54K1ZDsNO94HgLOvv8KGcqFGwSW8eVVLOCzyedlvhxBeh6S8wvmrOY_2COIIjHYxD6SU4y2J_EmfKA8A",
+   "widthPx": 500,
+   "heightPx": 500,
+   "authorAttributions": [
+    {
+     "displayName": "CLIDVET",
+     "uri": "https://maps.google.com/maps/contrib/104193156660137964842",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNM3IJEIVG7JJ47hg2Uej3h-G5c2jW61PcN6PUeNtOvn4oNzQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhtPm-LQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhtPm-LQ!2e10!4m2!3m1!1s0x9105c917bfb66219:0x1892c788c737b07"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

@@ -1,0 +1,386 @@
+{
+ "id": "ChIJX7RqyfTFBZER3S2SIhdbJpU",
+ "types": [
+  "veterinary_care",
+  "pharmacy",
+  "health",
+  "point_of_interest",
+  "store",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "989 306 200",
+ "internationalPhoneNumber": "+51 989 306 200",
+ "formattedAddress": "TIENDA 9 1ER PISO, Av. Nicolás Ayllón Mz A Lote 2A URB, Ate 15494",
+ "addressComponents": [
+  {
+   "longText": "TIENDA 9 1ER PISO",
+   "shortText": "TIENDA 9 1ER PISO",
+   "types": [
+    "subpremise"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mz A Lote 2A URB",
+   "shortText": "Mz A Lote 2A URB",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Nicolás Ayllón",
+   "shortText": "Av. Nicolás Ayllón",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Las Brisas",
+   "shortText": "Las Brisas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15494",
+   "shortText": "15494",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.032426599999999,
+  "longitude": -76.9273472
+ },
+ "googleMapsUri": "https://maps.google.com/?cid=10747377715688648157&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "displayName": {
+  "text": "Convet - Ceres",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:00",
+   "martes: 9:30–19:00",
+   "miércoles: 9:30–19:00",
+   "jueves: 9:30–19:00",
+   "viernes: 9:30–19:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Nicolás Ayllón Mz A Lote 2A URB, Ate",
+ "photos": [
+  {
+   "name": "places/ChIJX7RqyfTFBZER3S2SIhdbJpU/photos/Aa-ngMZPYj4wtt04WYrnkOIQLaQNhplLfWgEN1KVzcJbj3roSMGI4i3fibmiYzWv0DWsBlVRce_UMLu5LbF5PXymhraW2UjZjOwnK9UKecOizDfQ46IUzGa00x45ZX3KyqigkfKxt-0fs0dccTfG81j2tXgctXnkJie0o6Rw-J-GNJo4TLBOgPZc9LbN8kHK2BJkiBIwg9yzttKwy0uezD1mWJnNe3_Wma02tTIgVm7t-PuAoNV2sPeOl4ndhp8yMNfhJPw6L_2f5hfKriC9PL2POds9gvYzcda8MQDRkI1Wb6uOkLxhV1Fkc-vzMfVGz4AfYW3yyZDDi29uGg_MCgM0VGkrgb4z8taHTPnFmJuFVgshN2qvdXMWdWYT06KW7VSqBu2ea0jv3dVvwgPko99hKm63POTlERxs3u2J5YRi5MXMSA",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Ceres",
+     "uri": "https://maps.google.com/maps/contrib/105189207735739462576",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUIrwDh_vwa7ezpG0AG3I2LRCsDaHJ4IwwTouU4UekYNOVkzQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBXT3_KPQh37Nl0vYs93109&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBXT3_KPQh37Nl0vYs93109!2e10!4m2!3m1!1s0x9105c5f4c96ab45f:0x95265b1722922ddd"
+  },
+  {
+   "name": "places/ChIJX7RqyfTFBZER3S2SIhdbJpU/photos/Aa-ngMa5GGFk89Po_ukxpo6RHnaCWUSiGqzWtsyMMZsaPcou63sxxxVgF9I343mxVOTfVkd8AX74ck_zYCvt-p-cXd48ry0dj2NbVqkFD8I8Q7DaA-07KSQ8ui0PtfvFaYPLwOnnxVAq5zKomxbwoTHz26X8ggUUUBILS3tT60mR3zdX6piMi69Ry7TmFjvzpejVnnp8_cehxsOHoBgcXSFxmACPAXEN61_wQkRws9_RhysX9L-PDnKG4Jflfq-AGeM8y8R9_f6EpwqDAm5mbV9zdqZ2s8nA_Y8T42jo-rOVUbCAzGRMwkLegjdJ2Ofoh4L9K-8UFjG-2vbB4-24ZKHyDTW-_hKwJeWSKVDSB2i_OAsukiAtPP4mZ1WFLrxTdVj86ywQ-71Mov2ZX5TjiL0tz4-_E9oFPBEpZDkTwAyFPCJAZg",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Ceres",
+     "uri": "https://maps.google.com/maps/contrib/105189207735739462576",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUIrwDh_vwa7ezpG0AG3I2LRCsDaHJ4IwwTouU4UekYNOVkzQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAK8a5jErMdwIzjVQjTGGQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAK8a5jErMdwIzjVQjTGGQE!2e10!4m2!3m1!1s0x9105c5f4c96ab45f:0x95265b1722922ddd"
+  },
+  {
+   "name": "places/ChIJX7RqyfTFBZER3S2SIhdbJpU/photos/Aa-ngMZ13ghYbizgAaeIEXzvWGL2DX-z4J5ij-RE33Eztdyyr91rNnvMyZJoycPWbu6aTGewNglRTragitP8BepHVCXLuZPOOp4R5AylqYGYbv6Sbjr-qkNM5P1JLSIc7cMpqkouT4KnQC22pu-Rnp0N7Qq5zATUsE9v2aNy08NnqRTk3HqGHxUS2XhSjEDxYJfXSZsmD48s2yqwmKy_cACCaBhrEGCE2IHOZMdAwR1hQCPLrb-obxj9gtKaEUOymbOogE-MSQPXouPyEUnJ1tQ5ntVmr3DNU8bZPko5XYnIXbEuNG5DPfgqnIx3HdeD2OGlwSp963AU24i04OWXddAANx0poigNGZZzQYFGoRLpBrHQVHfPqZY0UUIrkrnlM3CbTwgCgmVU-5SsCNk6AzeRAfpYQsrR-LAwjRkfc-ZzRfeX",
+   "widthPx": 1280,
+   "heightPx": 720,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Ceres",
+     "uri": "https://maps.google.com/maps/contrib/105189207735739462576",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUIrwDh_vwa7ezpG0AG3I2LRCsDaHJ4IwwTouU4UekYNOVkzQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAG-B0lP1BnHRj8x-ooU4Vh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAG-B0lP1BnHRj8x-ooU4Vh!2e10!4m2!3m1!1s0x9105c5f4c96ab45f:0x95265b1722922ddd"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

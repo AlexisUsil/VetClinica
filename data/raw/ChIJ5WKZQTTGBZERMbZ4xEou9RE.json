@@ -1,0 +1,354 @@
+{
+ "id": "ChIJ5WKZQTTGBZERMbZ4xEou9RE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 237 700",
+ "internationalPhoneNumber": "+51 999 237 700",
+ "formattedAddress": "Av.Canada 3786 San Luis, Lima 15021",
+ "addressComponents": [
+  {
+   "longText": "Av.Canada 3786 San Luis",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0798212,
+  "longitude": -76.99144849999999
+ },
+ "rating": 3,
+ "googleMapsUri": "https://maps.google.com/?cid=1293991366597588529&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.agricareperu.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1,
+ "displayName": {
+  "text": "Agricare SAC",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av.Canada 3786 San Luis, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJ5WKZQTTGBZERMbZ4xEou9RE/reviews/ChZDSUhNMG9nS0VJQ0FnSURBd0xpNEd3EAE",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 3,
+   "authorAttribution": {
+    "displayName": "Maria Puente de la Vega",
+    "uri": "https://www.google.com/maps/contrib/115667255396771734651/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHyuzqGwsN-PSZLyq70Zdelnb3wlI_T9jtmlnW5wH1rhi2Og=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2018-01-31T02:54:24.872Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBd0xpNEd3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBd0xpNEd3EAE!2m1!1s0x9105c634419962e5:0x11f52e4ac478b631"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ5WKZQTTGBZERMbZ4xEou9RE/photos/Aa-ngMb8Mot0EVK5S9lFQAxByvKyucsaCk95beX9WggroWhx6MzGro0ggJs6-EszW-gzevHkFcdcgM_Aiaf7w8nsHAMGoU37VnPhc4nW6OaLMC04am0AtrUaB_4c-EOqAcxrJVpxeV5NCPuSVGqeUFaDaAJCadEcF4NA413P97yP1MDxq8LQ3G3K1ulY6NzLQCJaMxN0DvJqxtJBdvXtysA49mC9TevLHLTJpxgYxHIZX-JfVYQPJ_JlRwKZzw1jzcQzJcEqjYTFaLWH-OYOWM6FewkrRF7R2LXm4yjiBiAcsKUu4RnpTGjc1wOhmmgCi3Co2cXsuRWl4iAPRAak_RtUxtNawDdtvX7AbVRFfA6cPqszizmo6Vyykn7gLDWoaMtNO_6AxVutg5h_wiyi5-p98oV8oXg",
+   "widthPx": 600,
+   "heightPx": 399,
+   "authorAttributions": [
+    {
+     "displayName": "Agricare SAC",
+     "uri": "https://maps.google.com/maps/contrib/108363515790708174718",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7nBNJ0mPYQqSI-57Gmx2BRcrchMj15zof9anEhKC0J7zp-dI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8hve5ew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8hve5ew!2e10!4m2!3m1!1s0x9105c634419962e5:0x11f52e4ac478b631"
+  },
+  {
+   "name": "places/ChIJ5WKZQTTGBZERMbZ4xEou9RE/photos/Aa-ngMZl26GIwVtWXj1WkpcBKkgP9XZVg6_XcUCDXOv_unHUKGTXmSXkff6l4RvILTBeTgUvNdQ5Qjp1tyvKeVx0RDHre6IG5mgVkuSngK1MAlUzE3HYQZ7Rv1GUMok8dErnCMAPBDzCeI6tr5jdM9KyXeuz4c4Kvv4CzTPiXBw6_GulDtsyp_M9uLGFVZkJSOdY9_ZS3seGnf2FGNSdGdEbTFeWB38DGHeK3hPqf0Gelkguc-A4Eif3R14ysWpiUlUWWkz3CmtljO_ITMXLo12Io8bTxYADPCNTQ1C8mpGKXavzjO7N74gklOM7iZFh0-_McttfqX6OX8XIdhgakaZeCbbokL4EcNgyjQRjVnHLLBfJPfHhXDV3bU_VaFGAnNe9QzXix4FUBBbTI8Yp7dj4VLQC2qi33ak",
+   "widthPx": 600,
+   "heightPx": 399,
+   "authorAttributions": [
+    {
+     "displayName": "Agricare SAC",
+     "uri": "https://maps.google.com/maps/contrib/108363515790708174718",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7nBNJ0mPYQqSI-57Gmx2BRcrchMj15zof9anEhKC0J7zp-dI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8hve5-wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8hve5-wE!2e10!4m2!3m1!1s0x9105c634419962e5:0x11f52e4ac478b631"
+  },
+  {
+   "name": "places/ChIJ5WKZQTTGBZERMbZ4xEou9RE/photos/Aa-ngMZQJsmrgYQXy5fchM82ivVkz7jkjBmoDnn-LfYP4mFon8h7fVZDESRHtD7AMyw1sYkmXm8pXV34nfdIRwBZmIuEZ_TN_6LJr6dIBT3uOT8gxjVBz330AdMh-MhwDL2jZ2QCQQzjKTA0h3m5N0q5V-xpQPsBcy2oeVh5Fyez7KXsBJWBO_ODfSZXOI5tdmNZGgPoCxL7CVP8V08LWyoEeNf6YWCEDYq_oVa30zbYRQ0zuJMD--Rtqauh0AwA0svoXck28gYvPYCXVzikoJL5MOHW-xFMBS11x3V44HdBIzYkcSAzdPOWc_uVpnucm6F7A4mRw9jRbzGqSrwZIEElZaXVffznkGdJvUJhquDRdShQ208MOT_ub1nbU6V7u5qdUneHg20pRR07wMXCuZ2jw2tcvd0",
+   "widthPx": 583,
+   "heightPx": 826,
+   "authorAttributions": [
+    {
+     "displayName": "Agricare SAC",
+     "uri": "https://maps.google.com/maps/contrib/108363515790708174718",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7nBNJ0mPYQqSI-57Gmx2BRcrchMj15zof9anEhKC0J7zp-dI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC61oXOGg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC61oXOGg!2e10!4m2!3m1!1s0x9105c634419962e5:0x11f52e4ac478b631"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

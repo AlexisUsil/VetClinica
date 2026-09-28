@@ -1,0 +1,575 @@
+{
+ "id": "ChIJkXAJ31_JBZERVls9K6xgk2k",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 6977779",
+ "internationalPhoneNumber": "+51 1 6977779",
+ "formattedAddress": "San Diego 542, Surquillo 15047",
+ "addressComponents": [
+  {
+   "longText": "542",
+   "shortText": "542",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Diego",
+   "shortText": "San Diego",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15047",
+   "shortText": "15047",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1187655,
+  "longitude": -77.02098370000002
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=7607530488134982486&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://m.facebook.com/100051744885797/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 15,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–15:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T20:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 180,
+ "displayName": {
+  "text": "Veterinaria Dr. Alpaca - sucursal 2",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 15,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–15:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T20:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "San Diego 542, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BemVYWkllbVZZTkZKVlpuYzJiM0JhYkU5UE5XYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Tuve una experiencia muy negativa con esta veterinaria. El 19/06 realizaron un raspado a mi perrita y hasta hoy, 30/06, no recibí los resultados de forma clara y oportuna. El 27/06 en la noche me enviaron un mensaje de voz diciendo que su situación era grave y que debía atenderse de inmediato.\n\nSolicité los costos del tratamiento y me los brindaron, pero cuando pedí el informe físico de la prueba para poder corroborar con otro especialista y obtener una segunda opinión, dejaron de comunicarse conmigo por completo. Tuve que acercarme personalmente para que recién me entregaran los resultados, y aun así demoraron más de 3 horas en atenderme.\n\nPrimero indicaron que ya me habían enviado los resultados físicos, luego se retractaron diciendo que el mensaje de voz era el informe. Solo insistiendo me entregaron una carpeta que parecía recién armada y fechada el 26.\n\nConsidero que fue una atención deficiente, que genera mucha preocupación al comunicar diagnósticos graves de manera poco profesional y sin facilitar oportunamente la documentación necesaria para que mi perrita pudiera recibir la atención adecuada. No recomendaría este lugar por la falta de claridad, la desorganización y el mal trato al propietario y al paciente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Tuve una experiencia muy negativa con esta veterinaria. El 19/06 realizaron un raspado a mi perrita y hasta hoy, 30/06, no recibí los resultados de forma clara y oportuna. El 27/06 en la noche me enviaron un mensaje de voz diciendo que su situación era grave y que debía atenderse de inmediato.\n\nSolicité los costos del tratamiento y me los brindaron, pero cuando pedí el informe físico de la prueba para poder corroborar con otro especialista y obtener una segunda opinión, dejaron de comunicarse conmigo por completo. Tuve que acercarme personalmente para que recién me entregaran los resultados, y aun así demoraron más de 3 horas en atenderme.\n\nPrimero indicaron que ya me habían enviado los resultados físicos, luego se retractaron diciendo que el mensaje de voz era el informe. Solo insistiendo me entregaron una carpeta que parecía recién armada y fechada el 26.\n\nConsidero que fue una atención deficiente, que genera mucha preocupación al comunicar diagnósticos graves de manera poco profesional y sin facilitar oportunamente la documentación necesaria para que mi perrita pudiera recibir la atención adecuada. No recomendaría este lugar por la falta de claridad, la desorganización y el mal trato al propietario y al paciente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Valdivia",
+    "uri": "https://www.google.com/maps/contrib/104359306678800958726/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEGb4rftmljw3L6LEtaJj4E8o9TPkW0B4xOTbKrxEQ1rbUOLmc=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-06-30T20:11:19.244402098Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BemVYWkllbVZZTkZKVlpuYzJiM0JhYkU5UE5XYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BemVYWkllbVZZTkZKVlpuYzJiM0JhYkU5UE5XYxAB!2m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTVoyWkhTRlpUYTNKSVRUVlBNakI2WWtaM1VHYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "Conozco al Dr. Alpaca hace 25 años y es todo un señor Veterinario y cobra lo justo. Y aparte siempre atina a la primera con nuestros pequeños.\nLo recomiendo al cien por ciento",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Conozco al Dr. Alpaca hace 25 años y es todo un señor Veterinario y cobra lo justo. Y aparte siempre atina a la primera con nuestros pequeños.\nLo recomiendo al cien por ciento",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "elizabeth arredondo quiroz",
+    "uri": "https://www.google.com/maps/contrib/113964525894949635991/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLFt_RCfJ9uu-VfmANG2q0fZ_RgdD6aigguAVvRdszWy7QHXw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-10-10T18:34:51.859055356Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGTVoyWkhTRlpUYTNKSVRUVlBNakI2WWtaM1VHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGTVoyWkhTRlpUYTNKSVRUVlBNakI2WWtaM1VHYxAB!2m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxUlUyMVdaVGhhT0cxaFNITXlWbXRQYTI5a2FYYxAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 4,
+   "text": {
+    "text": "Castraron a mi perro y todo mi bien.\nAnda super full siempre y muchas veces la atención no es la mejor\nPrecios accesibles",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Castraron a mi perro y todo mi bien.\nAnda super full siempre y muchas veces la atención no es la mejor\nPrecios accesibles",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "gisela murrugarra",
+    "uri": "https://www.google.com/maps/contrib/104745884233803719609/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEskDOjy44EY3FSilxpn1d9EdyImtTv5TjtyVlz_kutzG4ngHV=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-07-05T16:07:37.338854774Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxUlUyMVdaVGhhT0cxaFNITXlWbXRQYTI5a2FYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxUlUyMVdaVGhhT0cxaFNITXlWbXRQYTI5a2FYYxAB!2m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UlVWUnBla1pWUXpSaVlrbGtaMmhxYkZORmFXYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Buenos profesionales, buen trato a los animales y a personas, precios razonables",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos profesionales, buen trato a los animales y a personas, precios razonables",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Hugo Cornejo",
+    "uri": "https://www.google.com/maps/contrib/112722430297383383302/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYzZQdwF4xA_Q5tsCg66TF5Rw2zPZPedSv1TKTH7eoW1egN0-U=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-04T02:26:30.875948900Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1UlVWUnBla1pWUXpSaVlrbGtaMmhxYkZORmFXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UlVWUnBla1pWUXpSaVlrbGtaMmhxYkZORmFXYxAB!2m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdi0tV1JREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, muy amables y pacientes. El staff de doctores muy profesionales y dispuestos a darte las indicaciones necesarias para cuidar a las mascotas. Hacen campañas de esterilización cada trimestre y eso ayuda para quienes queremos esterilizar sin gastar tanto.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, muy amables y pacientes. El staff de doctores muy profesionales y dispuestos a darte las indicaciones necesarias para cuidar a las mascotas. Hacen campañas de esterilización cada trimestre y eso ayuda para quienes queremos esterilizar sin gastar tanto.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Valeryn Aguayo",
+    "uri": "https://www.google.com/maps/contrib/109015987121265833874/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVV_Pa6ztTVdiifYAdajxg0DLFshtgT4j-yEuFASbScQbxsdPuf3w=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2023-05-07T15:49:09.754021Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSdi0tV1JREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSdi0tV1JREAE!2m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMaVq1a-QrQbJOOt0PHThUbsEgRjxajKwNbSvoYGIUemvA3mTAxLVFFRvcyQiYaeWRXqAvMAQN7HuPgMsHrTOBTln_aaLTd-QRF_zPabG-vsfI4bAON1UwOfOFardzxw9_pK6ZcDPWvt3b3Mg0zbqQPkik4-jHailCTiQl9gOjhYBMI286K8CURwTVhjrQXHTYBAGOYeoRX3GWX1k2hQtp_K5IXLuhziixJm9L9hZWSThB1UD2NsPP4fPY77LfGj7vYszsKF90oFe2Yw554_TXoLcFbvT2tKn50umjMM8T1a7_g2EY_sg-7xusTmr35N1GG75fFFThcmKP0A8G6hZqRYJzP2Vrmpv-iXEYAuKlPrM4Vock9-SjNSFo04pBKcmjDIizoGp8otgm8G2EmjNBkWtMk",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICe4aXPMA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe4aXPMA!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMY_dRY6mRqgV4ZsHXnR4gTYDJfOavsYSC6gOcfgFNYvqI_7m6zUGx63qIcWmr7qX69KzllLFwMlJVlV-dPtfTJnqGh9G9vkytj9AdkV3fjSC9HVQ9YibO5PvUJvykfJU69ESgH3PnBXpdZJRUhEnYaQdz4v21YHSXQUxVdAvQQqilFQw-uwzQYvaCSKbYx45899hfuyTqi5gmIj0yc6t5eOSxqGeBq3Gajtj97o-O1wa9JGE-Gton847Ce_-AE8vJuYVK2_CbNjjILa6Ka_5bUiqOdvXQ2lGgia9AEAuqk3VQdQ1pSkYofxObn_NyopTG-9-gW0y5Qzf6CNrBas9UvZdAdHndzNGRd3XMSG6NL5s4IZT9R3wN77gW1vlw6xJ4fdjJ8944-uwzuvoXxlMlhQC2DhbNI",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Nataly Alpaca Castillo",
+     "uri": "https://maps.google.com/maps/contrib/103719692110064406277",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJILRebtOCebaRSb6iSB9qhfm4aCOA3r_pWHE77mV3OUQdp6A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCx9X_ugE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCx9X_ugE!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMbz7hnkfkbzgzWdkv3aXH-mph3NmoMeTWQmVL440ZPzTmn4rIor_E2KgnAT34dqeh7x1MrVHuDvAOHliB25AsyRzUAqdFZ5_56-66pcX5MbvElaIgkuGKkkPmZ8Xf4aeWRUYWO8mbMku3WwTzU2YTempCfTjesFBVKlI53SZA6HCB7lK6pDqqJK_dEhZG3Rb_BIorBf2CKK-SNsfLCgNJ93Yr0G8oPrak_a0SdnOUWTCTUjIJr9ouR8XMBw2rbD6qRb6C7jpoHuLDlXx_mTGbLbxbT7XcwYLWeZ8SISdeIJp9VMCfJ-IqbmIDIGoLSMdQUTGndRolhxWfZ1UMCob4DJI9pQEHFE6yf02PMc0X7mnxzsqxXJGcFa_5lvwFTOTyi9gj8hsF9Uwa4E8XREfOIok9D1",
+   "widthPx": 2084,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Nancy Durand cordova",
+     "uri": "https://maps.google.com/maps/contrib/106437020687927111555",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBS0Ww_H582wuqEb-Bshnbu5XxamOiakU0vD5-cKKUkaFmsJxO=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRi6fQ9AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRi6fQ9AE!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMb_ajqqI3nmSNN2hu30QJ0dFwH3SoDfBluaPoDhMtEHZ3bZHU7I_weyhI6A2n10utYLXG4y-4jWVuOFcxz21aaEHk7ErBbdqo2eIT1YtEdyvGa-Lr8No0r2GpDMt9BckJX587ZUFUolbfn-ehg2NgHqskC9pfz_XS2-WiKy8mVm-PcFEe5xdKHpO4j9g8cHfFoNLi7k0yi0eTUsIT9Gcm9cx5ZBYHmBEPOx0HfcsTuJvmwPUeMBuDpPguQ3LfPs55oIMEhRvBgMTaVzdqK9Y7k5P0dy_97aPEep98DgWVZRDaW1czKdgV_lzUxN8pHLhBXnVDhFZNnTk0QvNI0wVsnsDebCbjEWOXWSAiuHaXIGCaAATl6VKdQ5p1BS9-_nwaL3nHA2bbA1qJ8dnKERYpUQ5g",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICerbb6cQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerbb6cQ!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMYaTHhJm6TtOnkpM8hPJ11SZ72_REZQhHccprVsS9B-j0mDntdiQQki0z9vHaj3TYbQpJ4rsf-RLO-vo_2_P_UlMtImbZZ_qDkYQ18KC7b_i9TN2riNJ25AI1fIMv2rCQ_-jpK1pYSrb7N_2TPkSQk-oUu8JpColx1U8S_A5PNcWByXeSnZ2Zikrt5eYdtM88wz5w-N8qlhxXRw0gTJp3D3aXtTmqNzQvUl7z1mkJJgJnODCTGGlGp1KEganeqXAMxnwHWFDxShFDndd9ULCrXJbgVC02KQrKF2NpYEu1iLY9xr065Eqzph90hzONM6aL65a9Zvx_cw21TKBZKOTcYiWTJgXre97oL67XPvz7lXCzY_6lm9lGYZ590KdhoCybsXh4Qy6298gHmAgV1mNY_PdIs",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICerbb6SQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerbb6SQ!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMYxmP8-Pb4oQica4cnrwVRncNu90MRAsyO39lwAwSg2tGHqeXUAjDc0-A6sIpwU11cTQVh1dpk9nSw-WNYcPX69g9cUiUuUkIKTKulOInmrcWPX32DVJoFahlcQ2AC6DPrOq1eLTBI5Bt-Ej6jiX291HU6U-ERbWfIZJcIqUkbWUYD0NhH8mvnQsJKddyxsv6jrg5C_SUfzTkRmdmRHcY4w2bzRP-_e-WVhmD7uwkFVvNP0RoCboQP4n9g7NqjnnhBc5gW5boTQpYKVbaLqRG97xFqIca38ATb0xEj-wBJsLby6F6JyLL-8YV5l9Z2r0QRPW2snfD6fWPkiFUeoEztu9uwb2l9kTRZJkxAJOnYJqqpo8DMM51VA77gBpR3V5VD7wJSpNEcTd0gQWuly_ZYGiijT2hg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICerbb68QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerbb68QE!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMbmB4xFzL10RyalxCqKLra4vQad-NVjjCeZ7DkHfKST7ZI77f1iNu1-Y-c_D9pW2QBETxoVh92SbnjhoZv0uO-xU3y1JBGI3y1t-ZgoiF-CJ3eRq5IZS_YQv4U968qtwUOKSto3RFH96Ucca_tNGi-0pF8UTGW09UJxJYUMhPnwvJ7mR0osxr1Sn8n0ejmPCaArIILtx0dUI7udaQTRRSrjD6-5cqTx4pwhJclmuTSvOxgOWte3lKU0hMYpyqXHP5lRPSXYC0FZrEFnRWaBm2xfRTysX8aiXnu9mYzVmDtKggZza6nhN8keEbeMPnt2C6gSogaky2Lws-g6w2Yjh84oV93gAZ4Ncscxk-oQWsRNpFxCA6o3J4_xCDk7kbxUjz-syUoNksoXcmW5InXtEBKLJ2Q",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICerbb6CQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerbb6CQ!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMYEVa09vgjYi4ulGoS6zU2JoElKSPK_6b4Lr51bbsMv0zdwnebN7UHIQdtfwLP8R2n6VrdBbw0zYa0d5_lFWD6oy0bs60meBksXHpEpmrAHwNCssa5Cd5ks3wxyPEtalKtjq6d17l3j21LCJoq7Qif_RiKakgEhKqcvYCKmqOjtaTatQGeCup75FfFJZqt9K3BSHz3fzX5Rtm4IF06zp7THSE1yh7Na2qN-iG8GOb853vtwq8AamPIL9ND_st2_nkketN7mS7uOacg9dDK0bxIxMDL9mCR6z7PL6OiTtACJZopxAfZeHfesMMEsOoBFN967UXGu-nswxEHl8mA6RUaXJFYRTnoV63eEHP476WCXKeVFXxVebIrGVoh8dUJ6_Qrc7dgnFK9Xb3J1B6fmZxkBuay0TG9UQ7ncCRUAHEq9",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Valdivia",
+     "uri": "https://maps.google.com/maps/contrib/104359306678800958726",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEGb4rftmljw3L6LEtaJj4E8o9TPkW0B4xOTbKrxEQ1rbUOLmc=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCNHjBIo9Va5mci_jLpQqvC&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCNHjBIo9Va5mci_jLpQqvC!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMbk9dyYidx6dJVZIpEaJIfTi9fblKKx8QtjGKUI2nSKq0ElgUi6ZhUONlLgLSOg3s6N4w4YL70bALsI7tV-gZlHZCPHrg2Q9Lr_i6dKufGSghMmtk1Pv8xfN5C0mRURxUN8rc8v3eHH1u-DI5Z6kDcIGggNO5QMsMky9ZPdMZnxShHkY_zpd_nSEkIcWHBNGHEeP0X9ZKTNdzTTYJkVYcB0HhtsE8KTtqeS3S9lDupqXsqJpR_ya21l_DH68gjmwzXQwoGaVVbyAh275GJl6oa8VEwwmjC54Ij2MWkCTrjYs6GfrXD7yIlc6PYdUVUYf5qoVJ2XuMvUHCLhafvd_KuOiq822H34Fpg2uL3SMxXgK__KdI6YBf4TNkJtKSCNa2gaBKhlXixkLk8ridJ--iKkiaf1",
+   "widthPx": 3136,
+   "heightPx": 4224,
+   "authorAttributions": [
+    {
+     "displayName": "Carla Cereceda",
+     "uri": "https://maps.google.com/maps/contrib/107133869682045719521",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTfL-WXnTiTpCReENtE5ClZsWDY_ndzm0cAw9P5cnS4Dyf9Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICapc3y7wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICapc3y7wE!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  },
+  {
+   "name": "places/ChIJkXAJ31_JBZERVls9K6xgk2k/photos/Aa-ngMZFuB2Fg6_E_RiHe4wb0eSngjwdDcqSKfxpvjT73wfr-wiDdCWQ3A9R4ldOwmTvYmurUhXdeDKy6zdtMZgUEhkBtkbEnxDweHrikBiIYee4YMeJzOZ-VMQCSyLgkPvfJv9dmjiesw51GrCZUI_oTNDaEHz8cqEclZZcD3bkn1jBeDzsaA0uYV3LOansa3yVd9cuw9ljFkU3_-iiP6fufaXzui9K4uNanzd2DALV0OHF_XzbpoTgK40951bBhxw8xlj3nqi_TDopDmrFpAYE24o4e9_4hWWBYocpSBwfx6xapLKSDcPRs_91FY6fA8uoNU9sd_vy3Y33-w1NMRrPblyn3PuB8cBVJL1KvPxDIEPL9p82rQDK18i3XngThaBY9YWo7pm-78M8CxU3Ow_PrP416ZReYj0",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Rina Luisa Garcia Guerrero",
+     "uri": "https://maps.google.com/maps/contrib/109351851269273991309",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVynJMty-wS0CCAHMHXONxn3S0kumaFzH1xHFc3Sik8J9RR_x0TCQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICerbb6iQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICerbb6iQE!2e10!4m2!3m1!1s0x9105c95fdf097091:0x699360ac2b3d5b56"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

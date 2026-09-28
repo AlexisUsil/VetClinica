@@ -1,0 +1,478 @@
+{
+ "id": "ChIJZbjWofy3BZERuGAZ14_IG1g",
+ "types": [
+  "doctor",
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 2475084",
+ "internationalPhoneNumber": "+51 1 2475084",
+ "formattedAddress": "Jr. Medrano Silva 370, Barranco 15063",
+ "addressComponents": [
+  {
+   "longText": "370",
+   "shortText": "370",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón Medrano Silva",
+   "shortText": "Jr. Medrano Silva",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb la Viñita",
+   "shortText": "Urb la Viñita",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Barranco",
+   "shortText": "Barranco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15063",
+   "shortText": "15063",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.135217899999999,
+  "longitude": -77.0204851
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=6348888619823489208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/vetpetsfarma/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 15,
+ "displayName": {
+  "text": "Veterinaria Pet's Farma",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "doctor",
+ "shortFormattedAddress": "Jr. Medrano Silva 370, Barranco",
+ "reviews": [
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paRFUzZEpUbTEwV2pCUFExVjBkMlpqWkZkTVlXYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 1,
+   "text": {
+    "text": "Realmente tienen una actitud poco profesional y abusiva, cero empatía con los vecinos y bebés pequeños que descansan, la alarma de su camioneta suena todo el día. Muchas veces el conductor se encuentra al lado de la camioneta y no la apaga, no les importa el bienestar de sus vecinos ni les interesa las tantas veces que les he pedido que por favor hagan algo con esa alarma tan fuerte que interrumpe con mi teletrabajo, con mi sueño y con el sueño de mi bebé. Así pretenden cuidar a los animalitos?\nRealmente pura prepotencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Realmente tienen una actitud poco profesional y abusiva, cero empatía con los vecinos y bebés pequeños que descansan, la alarma de su camioneta suena todo el día. Muchas veces el conductor se encuentra al lado de la camioneta y no la apaga, no les importa el bienestar de sus vecinos ni les interesa las tantas veces que les he pedido que por favor hagan algo con esa alarma tan fuerte que interrumpe con mi teletrabajo, con mi sueño y con el sueño de mi bebé. Así pretenden cuidar a los animalitos?\nRealmente pura prepotencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Florence Goupil",
+    "uri": "https://www.google.com/maps/contrib/114120355221578600120/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxGIG1HZxHDrlVzrzpMuepf8D1N5_ZRjUC4_9PrI4BomFhW1Gy=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-10T16:12:21.312752345Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paRFUzZEpUbTEwV2pCUFExVjBkMlpqWkZkTVlXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paRFUzZEpUbTEwV2pCUFExVjBkMlpqWkZkTVlXYxAB!2m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  },
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZaGRXekR3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio. Los doctores súper amables, un trato muy cálido para mi mascota ♥️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio. Los doctores súper amables, un trato muy cálido para mi mascota ♥️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Samantha Artica",
+    "uri": "https://www.google.com/maps/contrib/113176171684788986951/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWO0_4mBUzOlDXQa5t8_5cbH9ws6Msgi-sLdBle0TzJ4tZW6LZqg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-05-05T17:27:50.332826Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZaGRXekR3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZaGRXekR3EAE!2m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  },
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1dTkycklBEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 3,
+   "text": {
+    "text": "La atención es muy buena, la doctora ama realmente a los animales y ayuda a rescatistas. El único detalle es que para agendar una cita es un martirio, a veces no responden o responden después de días.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención es muy buena, la doctora ama realmente a los animales y ayuda a rescatistas. El único detalle es que para agendar una cita es un martirio, a veces no responden o responden después de días.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pao",
+    "uri": "https://www.google.com/maps/contrib/108462016521908734689/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYCJB106-L6yBeOMm9TDW-OzW5c3SaariuhEWejHYIrSGFEq50Lg=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-08-30T14:29:50.255753Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1dTkycklBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1dTkycklBEAE!2m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  },
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/reviews/ChZDSUhNMG9nS0VJQ0FnTURnOXJQTklREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen cuidado para tu bebe de 4 patas 🐱",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen cuidado para tu bebe de 4 patas 🐱",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Harlem Siu",
+    "uri": "https://www.google.com/maps/contrib/114604469120961479069/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYTsPLcuBKTHyW8tE6-UVBRbLrXbwhhu1tm-CdlNcja4XuUQwE=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-02-24T17:16:52.358253Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnOXJQTklREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnOXJQTklREAE!2m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  },
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/reviews/ChdDSUhNMG9nS0VJQ0FnSURobUpmVTlnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "La mejor veterinaria! Excelente profesionales. Hacen su trabajo con amor y paciencia.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor veterinaria! Excelente profesionales. Hacen su trabajo con amor y paciencia.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Leon",
+    "uri": "https://www.google.com/maps/contrib/105173556531055392918/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4mw9UGGcWB74fNdrGNUs27fe93r_hxdbxTVPj8WhFNL3ti6uqmA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-28T18:42:35.369719Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURobUpmVTlnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURobUpmVTlnRRAB!2m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/photos/Aa-ngMY1iGPb5PYfhOSq6UfqLDXepJhATupYao4H-tU1OtmAhHD7ncEh-K9dqVcrN6rD907hDN2GuVfV-XWo78uLQzr4dxcERwENBFWsUt6DYRhjfTIUYihaBS2ypmnRnTppYNGmchygCCfJ4boNa8nZw4Ct63lTwSmfQ2DX9Cc0Ydr4yfg4TMyKmwWYg65YWmIg41YSr_uaIA-vkYm7cJv2ON1JC4f2kH73UOl9Eh9nu4tB5TkjZTLEBDN31-8pVRNuRVxeQsPab7sO8JPRjICbhe-ru84_YJVMC9msItN-wviroFC5RUg2Xl6sK0HOYcHlTxPnESWEFg2jnUNSoRk8XgdnQiMuVEzd-ZU2TeOjiMz2dUfudqHlk33ZG43JKi-hTNU6rGsx1XzcMEJddiI_xZDNSw",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Hector Miranda",
+     "uri": "https://maps.google.com/maps/contrib/106155391247940758732",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKo8sg8sNG8sJrg7KtK6hKQmZZQ3lJSZK_K34MLfcRSwPwXyw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-37f-eA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-37f-eA!2e10!4m2!3m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  },
+  {
+   "name": "places/ChIJZbjWofy3BZERuGAZ14_IG1g/photos/Aa-ngMYbP2qGqykMyUVEX4uZ-ulhNFSq7iwwkp_rKC14dJZjmTofz6B7d6gvRygZ76fwEMVQUUhls13uV2Pk3pOsFaFZg9Qihhr7kG_JZRnvzn03QW6XMfFVl-YiiGOTeoAJSJaZDfga_PS07UMikHPZV00tXtPyC6YdhT-HT3kcP60Zbb6tuPjB4OG-m6apxc0Qs87yhGia9aGu-xKGD44GUoodYulDQcZ38be5pSNM_vS8oSn0wXSN6f3_zQS1xE3ZjmBWML0PHAuioGex2yLMFAb3jLyJGlQz6PIwoBQK6uq2EC2mjn0wtcu76X67pMyXn2AYKQ_iilxjdP-uDryD7xhXU6ZgC6dRRs0qMHAVSJToJXcTzyheRFJZU70wjvxHaaksLS5HuPeaeS90u0_WpCCdDJo",
+   "widthPx": 3264,
+   "heightPx": 1836,
+   "authorAttributions": [
+    {
+     "displayName": "Lady Atalaya",
+     "uri": "https://maps.google.com/maps/contrib/114408213504834623149",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7nsGM29edinTDNlJ05f9qgNtH_G1O4WWi7k5uxM2y3ZgEzQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE_YalXQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_YalXQ!2e10!4m2!3m1!1s0x9105b7fca1d6b865:0x581bc88fd71960b8"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

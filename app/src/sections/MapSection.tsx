@@ -5,7 +5,7 @@ import { Checkbox } from '@/components/ui/checkbox'
 import { Sheet, SheetContent, SheetDescription, SheetTitle } from '@/components/ui/sheet'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
-import { DIST, PLACES, RANK, byName, rankOf } from '@/data/dash'
+import { BUFFER_KM, BUFFER_N, BUFFER_N24, DIST, PLACES, RANK, bufferOf, byName, rankOf } from '@/data/dash'
 import type { Place } from '@/data/types'
 import { fmtN, fmtPct, isNum, maxBy, minBy, pct } from '@/lib/format'
 import { COLORS, analyze, labelTone, legalStatus, type Scope } from '@/lib/logic'
@@ -31,12 +31,18 @@ function MapLegend({ layers, pinned }: { layers: Record<LayerKey, boolean>; pinn
         <span className="flex items-center gap-1.5">{dot(COLORS.bad)}Menos de 4.0</span>
         <span className="flex items-center gap-1.5">{dot('#0F172A', true)}Atiende 24h</span>
       </>}
+      {layers.buffer && <span className="flex items-center gap-1.5"><i className="inline-block size-2 rounded-full border border-slate-400 bg-slate-200" />Vecina, cuenta como competencia</span>}
       {(layers.grid || layers.stars || pinned) && <b className="mt-1 text-[11px] font-semibold">Oportunidad</b>}
       {layers.grid && <span className="flex items-center gap-1.5"><i className="inline-block size-2.5 rounded-[2px]" style={{ background: 'rgba(13,148,136,.5)' }} />Celda top 20%</span>}
       {layers.stars && <span className="flex items-center gap-1.5"><span dangerouslySetInnerHTML={{ __html: starSVG('', 13) }} />Zona sugerida</span>}
       {pinned && <span className="flex items-center gap-1.5"><i className="inline-block size-2.5 rounded-full border-2 border-[#0F766E]" />Radio 1 · 2 km</span>}
     </div>
   )
+}
+
+function BufferLine({ n, n24 }: { n: number; n24: number }) {
+  if (!n) return null
+  return <div className="mt-2 flex items-center gap-1.5 text-xs text-muted-foreground"><i className="inline-block size-2 shrink-0 rounded-full border border-slate-400 bg-slate-200" />+{fmtN(n)} clínicas vecinas a menos de {fmtN(BUFFER_KM, 1)} km <span className="whitespace-nowrap">({fmtN(n24)} 24h)</span></div>
 }
 
 function Profile({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: number) => void }) {
@@ -50,6 +56,7 @@ function Profile({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: num
             <div key={l} className="rounded-lg bg-muted/60 p-2.5"><div className="text-[11px] text-muted-foreground">{l}</div><div className="text-lg font-semibold tabular-nums">{v}</div></div>
           ))}
         </div>
+        <BufferLine n={BUFFER_N} n24={BUFFER_N24} />
         <div className="mt-4 text-xs font-semibold">Ranking de oportunidad</div>
         <ol className="mt-2 grid gap-1">
           {RANK.map(n => { const d = byName(n)!; return (
@@ -66,6 +73,7 @@ function Profile({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: num
     )
   }
   const d = S.d!
+  const bf = bufferOf(d.district)
   return (
     <Panel className="h-full p-5">
       <div className="flex items-start justify-between gap-2">
@@ -80,6 +88,7 @@ function Profile({ S, onExplore }: { S: Scope; onExplore: (lat: number, lng: num
           <div key={l} className="rounded-lg bg-muted/60 p-2.5"><div className="text-[11px] text-muted-foreground">{l}</div><div className="text-lg font-semibold tabular-nums">{v}</div></div>
         ))}
       </div>
+      <BufferLine n={bf.n} n24={bf.n24} />
       <div className="mt-3"><LegalPill d={d} long /></div>
       {(d.best_cells || []).some(b => b && isNum(b.lat) && isNum(b.lng)) && (
         <>
@@ -140,7 +149,7 @@ export function MapSection({ S }: { S: Scope }) {
   }
 
   return (
-    <Section id="mapa" n="01" eyebrow="Mapa de la competencia" title="¿Dónde está hoy la competencia?" insight={<Insight><Rich text={txt} /></Insight>}>
+    <Section id="mapa" n="01" eyebrow="Mapa de la competencia" title="¿Dónde está hoy la competencia?" insight={<Insight><Rich text={txt} />{BUFFER_N > 0 && <span className="mt-1 block text-[13px] text-muted-foreground">• Se incluyen {fmtN(BUFFER_N)} clínicas vecinas a menos de {fmtN(BUFFER_KM, 1)} km del límite como competencia</span>}</Insight>}>
       <Reveal>
         <div className="mb-3 flex flex-wrap items-center gap-2">
           <Button onClick={() => (exploring || pin ? clear() : setExploring(true))} className={cn('h-9', exploring || pin ? 'bg-ink hover:bg-ink/90' : '')} aria-pressed={exploring || !!pin}>

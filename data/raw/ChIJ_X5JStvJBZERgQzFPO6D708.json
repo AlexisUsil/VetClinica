@@ -1,0 +1,581 @@
+{
+ "id": "ChIJ_X5JStvJBZERgQzFPO6D708",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "994 211 411",
+ "internationalPhoneNumber": "+51 994 211 411",
+ "formattedAddress": "Av. General César Canevaro 1579, Lince 15072",
+ "addressComponents": [
+  {
+   "longText": "1579",
+   "shortText": "1579",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida General César Canevaro",
+   "shortText": "Av. General César Canevaro",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Risso",
+   "shortText": "Urb Risso",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lince",
+   "shortText": "Lince",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15072",
+   "shortText": "15072",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0855084,
+  "longitude": -77.0481025
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=5759967507675155585&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 22,
+ "displayName": {
+  "text": "Vets unidas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. General César Canevaro 1579, Lince",
+ "reviews": [
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSVIxUklWWGxoZDJGaFVFRmhhbFJtU1ZZNFgyYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 2,
+   "text": {
+    "text": "Me atendieron mi gato pero el doctor es bien antipático para atender. Hizo que veía mi gato pero ni el peso le tomó, ni siquiera el endoscopio saco…",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me atendieron mi gato pero el doctor es bien antipático para atender. Hizo que veía mi gato pero ni el peso le tomó, ni siquiera el endoscopio saco…",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lisbeth Estefani Ramirez Jaramillo",
+    "uri": "https://www.google.com/maps/contrib/112583190869483518112/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxaORHzH3pg7WM2DNilxEtCixB9gJgHzjxGKeaYOenVz5ulhn-yg=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-04-22T10:59:46.789596138Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkSVIxUklWWGxoZDJGaFVFRmhhbFJtU1ZZNFgyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkSVIxUklWWGxoZDJGaFVFRmhhbFJtU1ZZNFgyYxAB!2m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/reviews/ChZDSUhNMG9nS0VNaUR2NDJYMGZ6NkFnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Muy contenta con el profesionalismo del Dr. Yasen. Mi Gizmo se ha atendido todas las vacunas en su consultorio, lo recomiendo, muchas gracias 🤗",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy contenta con el profesionalismo del Dr. Yasen. Mi Gizmo se ha atendido todas las vacunas en su consultorio, lo recomiendo, muchas gracias 🤗",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Delia Soria",
+    "uri": "https://www.google.com/maps/contrib/103222537208333790849/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlyoR_DxTvIZ7UqDeTy_YnnLda-MTrwzt9790GGTTwriBW3cr2=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-31T17:01:16.014499Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VNaUR2NDJYMGZ6NkFnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNaUR2NDJYMGZ6NkFnEAE!2m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/reviews/ChZDSUhNMG9nS0VJQ0FnSURDMmN1Wk1BEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Me encantó! El Dr. Es súper amable y paciente. Trató súper bien a mi gatita, se dio tiempo para evaluarla a detalle y me trasmitió mucha paz. Lo recomendaría sin dudarlo❤",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encantó! El Dr. Es súper amable y paciente. Trató súper bien a mi gatita, se dio tiempo para evaluarla a detalle y me trasmitió mucha paz. Lo recomendaría sin dudarlo❤",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marcela Maura",
+    "uri": "https://www.google.com/maps/contrib/105183664809412020394/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUePa2JJSyYkgbv2TaZiV4763hp0pt2Doaa-aDkTdELizdl4gFItw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-10-03T06:28:08.595588Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURDMmN1Wk1BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDMmN1Wk1BEAE!2m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/reviews/ChdDSUhNMG9nS0VJQ0FnSURob1AtenVnRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "El Dr. Yasen es un profesional muy completo. Además de ser muy acertado, tiene bastante empatía con las personas. Es el veterinario de cabecera de mis 3 perrunos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr. Yasen es un profesional muy completo. Además de ser muy acertado, tiene bastante empatía con las personas. Es el veterinario de cabecera de mis 3 perrunos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ruth Vallenas Dammert",
+    "uri": "https://www.google.com/maps/contrib/104017725443476506561/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4bzrQe2m-x0Qme6Ik9nmORJCQIx-CTgmeyRVHsCZ85wrBto62=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-27T01:00:02.477667Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURob1AtenVnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURob1AtenVnRRAB!2m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjeU9EZzBNRTlDYUhCMk5YcE9UMmxJUjNka1JuYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen profesional",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen profesional",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "freddy ramos",
+    "uri": "https://www.google.com/maps/contrib/109665954432694943679/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe6J_v0FMXUdlEAqr4MZMpH28s1jBd_N21pzqMBF8biJHE4Zja=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-04-24T03:38:57.021360792Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjeU9EZzBNRTlDYUhCMk5YcE9UMmxJUjNka1JuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjeU9EZzBNRTlDYUhCMk5YcE9UMmxJUjNka1JuYxAB!2m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMazFWgPmRwnebcawGDPP4hoanCdHznxuei0la2nNac9myNVfn2ZdLh2onS2b5rovpo750uu6yzwp7-QPrFRv-9gZnBWmrqGoheTIpACD6tnpM0b7gZwTpSRad1CPvUEbMgzem2iXqY9lS5Z_HSvd7kuAopGf5MUSz1UfZolLltXm4DmQxT0VPfx-NQrOTxmhBJIUb7Tewvm6_dcAkqGIxmSj16KSpt2NyCqvAfYk9ll4ZT4uO9GLOfGuXEXvO6kYtVkG4bLYrQqJ_3NqNf2ELak9TcwyuxpRWtTP39Rxng_5AOyd66HTMmpTO8YDC0uV6pt96em8LpbXqMy_lZ0VioMLveLfIgjQUt4nnrfPs4ph_LeOaP6vJu-4kxzbmmZFgVkAga3VgzBQM3POkbIh8Khw-NgYvVreOl6jSzgEuJxew",
+   "widthPx": 1440,
+   "heightPx": 810,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC67N-JJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC67N-JJw!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMak_r31lPtMY1vRzvV_o7qiTaDnHs56T1vR72nmfw8vANLOCwUIOSeLugPNJWiq0UVrW5l-S6Oet6fOzRCvTxmFqD6wI0hGFHmHq4yn9GozLBo2NRm2dnnvyN6pVgrvIPEnXPU3sJh_Egzqk8aww8r6rf0an6DTojoEuNTq5w4fpEaaboVhwSNROxyuHVF9nIXKbQrcHdnDk-ehL9e6LoDqmdbsJOi1KbxbzkHqall7Z6zBpUAQBdLkV2fiZ4x_Qt_VUZ_oXlyBR0GGhkvldAL3-fDGa-AQDiV_4hKpr9ru20R9nKNI-Wk5woSrBAbfdGaTue46t9H0PUt9WbfF5AM6wIgJdiq5WiLP1txVF_9bWf3X4AfVg4RFtK5mYTRV3iJa8z98GdXluJ2Xwuvk_Vpu9Qqg01xIiN6rlmD6_EDwoI5M",
+   "widthPx": 2358,
+   "heightPx": 2358,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDi3NyrmgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi3NyrmgE!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMbh67KfKd6BCwPz6WXLyO7F39kVIRfgN7L55vSPyHcU-YmEGjSAgDDQyo-WMkJmnR6D7fI4e3Ct_zWf4Ej5aFFYM6ZaETwRigc3HGbHJ84EaVxGuNz1yUmlxpS3d-uNTYNWjdkCULpOZN02eeMjHP30SgTAMT7FThYWalwZZw5Qr5WvIyMBzOm5pXmrnWIRnjYrrs8wE3ZEZvgGvA_CywOZ-96rJ00C09M7OJFFg2DBdpcpdlszAq2U03r7uaMGa5kgm8g9UY75gOMg0oUFpNveAsShlXI0FN96UsGHlMQ5bbLXAcoJA1OSksI3cUyeoeQPJMmrdyPSrDlsqhmKXHWv_8emXSE8M20qCV-9AbyivZDau4Rz1DKQOwbSypMSH5XruVLQMWVnfJh4ZesS4tewcm8AxvxjBNZiU3VMVF4",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC-rjNKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC-rjNKg!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMbHF8D_JPs99VAtLfMNVWFpMGeKPZpek3Hcb0KPmaIApFqY9TFYeWWtN2caFvwWDjqDcf5VFvXtp4EqN8No_B8XrZPdMa5tZ8ucAagCvlckQ7Erdw5l3ln-Rq13pJ5FQXYCjaELDMK_gzoP5e8Z8AKk1_GVi2uHyzwl0mcGe8BFYQFhoMBalBgjKsalIqXaK29sWRnIVisdzV8x0wr8x4SUKjd8Yselw57c9x6X5hqWv5XHE2NFrgjVAhVcvjeorPR5gXYHzOqmCf0v99XYInyzCEshiJwHDPEJwpAlpb-_ejwWFJWMZs_2yP1_QtAzt9EfJsPtnDqEAgrTJFYGspyc7K0vb7ekSDemCriiE4cTo7F9RY_Sg0UzKKRhPfxFyrI8dsKpq-0P7iTi5TzMqmFfIPopHxvGOUj0Exu4o3joCQ",
+   "widthPx": 2765,
+   "heightPx": 2017,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC-ritFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC-ritFg!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMaBi0HCzeDsZjCWVEwvPrTJH9Fok-Sa7KukGGPSXNrcu_hu9C019ejFHryEY8DBYUeAU5_eBK3S4snFalYiR-A-4q_si7iwzR-pRbkuf9KqN78Uc56z5Iz14gl2lK-i-DkTbRwScixRZbmj_v7kJmo2i4Q6Slwrq6VT5NlUz4ykuylhYK1j9v8jGsJpxzaBnWt9A-8x-KwtC-ROCYPwLWZJYqacFLEN-JOcQuC4OZa93MIHbPZhTpqvaDFVhofhQend6_sF7IE8dRyVF4ukaslPaVZGMWMuH2suvWwsL5UPL94JgUMwi_0SZnXYEFPorVQHEK0j1If7E_yxaEd1PMkdU4KD8IW6BADtwHErA132uyKvqQe0mf-2f9OO1sXGbboK0anS0afNgAProIDxWDsSM8JufvlD1pzgTDEBp58",
+   "widthPx": 3144,
+   "heightPx": 4192,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCxob1ZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCxob1ZA!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMYgIhvsdrI5sPtOwmO2fcpeUesVcKBslMPXjyJVJCsMp-ddl2erPcVu21CwmA96EWXrVtCOBxETeJrNaHIqbAjSsBEadAjf1w_ekahqwKKqFxdKABonpROL4vE6SH16QwLF2E8-GjpB3kuMICMHvWdiBvpxI7SKT4wmSXc_YxI9g2J2LOCtht48VhVSmNBpRWbYvlKIN-cllE88GwYQSeHrQCxYKOXrVwCIAKfrZGG9urTpTHtEauoBrTFw4iNcVjqgEy_AKL33YRFcPifx149jQNYF1YPbRijfxOXebYJZQ7kDx8_xlxpf4jyC0E_ropiomVPClRwwxaSSrfveFbfUmRIqaMyxHbRhNY8PG3un_i3zUATHvq-ZYPm8cT9hwTD7TldIIvkX86psukj9IdWrlIhTCh2b0XWooG-qTrVUuUg",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC-riN1gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC-riN1gE!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMb5Xsg2f0WKnCrQgy28tApPyQHSQOpQnA3KIol-_RzT6K-Pcke6_koOymOuybTRYyqTXeFCzpalWfQCmiPz1Rp4RAwSu93veTHPa1T1dopG2XvgK8wdTeJGT5-0icGG4XF36nbfMU57hdDSZsHczicf9DGlqxUxRi5w38X9wSES_TMSiwPWv-VZxehbc-e5aKnmjrEyOqTFYou7tgfi9GF-nLoGpONUOerCeX1KNAaKD6tt3-laCI5S23BzBE7Gt2lZBXaKipYBbnJt5Zc7JRWXmGIzZx_n4ko1i0x4EDPvbbS2VI4x81LbK4zymIgwRlCSFFgVc6jmtlheo_gQZKSzng_781N9Gs6zUWzlO4bzAUU1QST6t5oGGvwrSVGZfh1ApGA7Nzv_h2x3Isk_PMe-ByC2D_L34YD380ACjM9tuHs",
+   "widthPx": 3144,
+   "heightPx": 4192,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDC-ri9kQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDC-ri9kQE!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMbkQD5P_KFCZNLR4ssGYA7pnLwAjmf3pZ3FMaHj1UDF0IYpM9TalHiUn6z9L4Epr0fZ_6IB4lY6iX1Cseg40j9Ug2sj11SJMxmpU4E5TG1u-gpBV6i9Q_SpzYzPKT_DfLiV4HhjZwBgI3Z_di4jWqmN1PGM3bsgH4zGvtZ8kpfRwxQbgawOKGc8ZuaeYDVfH6wfBB5AU-8xxaoPIqu9z8Jj7ZVTe4ldjZWHUbfDAPGjWmTezOCDibE0Td7-j_lafzoHmBnmX8UPQw2NBE4AR-ZNqSZ9zU0NMDiVunVbZbNeeT0DNUU6NauCizukVnJrSM_elVTh5khsl7iVxumIUlIVRu8HQwmUevyqfQUyC60ffiarVVB1BwSlShMF533pY62EC1L26R5sCoKb6j9MLqE_s90VA_Oli6pc6UZXdYK3tA",
+   "widthPx": 987,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDi3JyDbA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDi3JyDbA!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMY-F4pUGwcJzDXxjAweq5_q97p0Se_UB6GZ9Tf6oLQgRbBkgP1SQ1dl_KB_4q53-Mr5TrR-y6D9pML7Vg1g6wxWnqwTb7Qu0wXenS9d5wnNvRxNsta7veT7bRDqsBT3rl8RT11uMXJPushEB8NbTax6KYaCKZ95FBvzy7O7k2pRLt-7jYYy8bCtj1ZMPvaUOT0vT65CuyY_Wt80Ic4tBEXoDMoah6ZJ5bA_yj8ZfonFKIM281CHt5BRhtYocCiX21lvA6JkXNJNroNxG7R2vD7HEJn-gEXod94IPv-U4b4j9uWLUUmkskeJH141yKBM2ce_B_jk7owuzxfKFGI2k158TT9DulApYoyKJe_ZLuFam92_vGtA3-fQzxwteDWi5VJQQuPF27Q6rVvalbr8BPN5BwFvY5rnCNFq3tPoM64",
+   "widthPx": 3840,
+   "heightPx": 2160,
+   "authorAttributions": [
+    {
+     "displayName": "Olga Osnayo",
+     "uri": "https://maps.google.com/maps/contrib/116011238917706103604",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXw8mB3Re1CzAlQndGcx5woRGg7suIcKN6IitcWUrEucdstHCUUNw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDztKzcOg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDztKzcOg!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  },
+  {
+   "name": "places/ChIJ_X5JStvJBZERgQzFPO6D708/photos/Aa-ngMYpdwQzHTunacEQw_C9ZPG5WiIZr50nqeVTZQO9dOkcAdNstL8hx1OirIWR7DIa1BVTjb9j-g2GI5dwE2PQ3yYB3zxG5PYUpnP9Mz_kGlMN_d4ulI0udaSAHhy3zhUDXd9Q2VHJ158iao1aKR3xzxZTofDkQNb-3fGAkb7IIhg1kHBOHBwXhxtyhetlMCqpHdlvjWebWgW4EmrUV5rALUM4BFlsC1TDARiUcumNE0JetqVnXxG1-qcRHWFWUYwRB_VAUPfcIV7Xb65ek7JS3Dkp1C8C3DQDcysFWEjcFvwp2dY9eb0-xZWGOWpBZn90ub0iRV9g6Y6KcqrST26d0S4LoIUsmOBjg05GQHi8ipI09zyXo0U8HVK6gLN6EGpEootAKgWo6CALfqS1D-8KCmuutaBkTqbBqcc0lDTsf1rWqlBR",
+   "widthPx": 1440,
+   "heightPx": 809,
+   "authorAttributions": [
+    {
+     "displayName": "Vets unidas",
+     "uri": "https://maps.google.com/maps/contrib/109654653435415108614",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU692QTPx2yyT-PLZUnylqNEC6HqCmq1xdASgP0C4QVi8IdQ6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC67N-JhwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC67N-JhwE!2e10!4m2!3m1!1s0x9105c9db4a497efd:0x4fef83ee3cc50c81"
+  }
+ ]
+}

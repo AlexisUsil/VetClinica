@@ -1,0 +1,375 @@
+{
+ "id": "ChIJJSACgajHBZERnadbD9PiMMY",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "945 159 084",
+ "internationalPhoneNumber": "+51 945 159 084",
+ "formattedAddress": "Calle Los Plateros 142, Urb. El Artesano, Ate 15023",
+ "addressComponents": [
+  {
+   "longText": "Calle Los Plateros 142, Urb. El Artesano",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Artesanos",
+   "shortText": "Urb los Artesanos",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15023",
+   "shortText": "15023",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0630799,
+  "longitude": -76.96616259999999
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=14281163814515484573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://totalvet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 12,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:30–17:30",
+   "martes: 7:30–17:30",
+   "miércoles: 7:30–17:30",
+   "jueves: 7:30–17:30",
+   "viernes: 7:30–17:30",
+   "sábado: 7:30–12:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 4,
+ "displayName": {
+  "text": "TOTALVET S.A.C",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 7,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 12,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 7:30–17:30",
+   "martes: 7:30–17:30",
+   "miércoles: 7:30–17:30",
+   "jueves: 7:30–17:30",
+   "viernes: 7:30–17:30",
+   "sábado: 7:30–12:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Calle Los Plateros 142, Urb. El Artesano, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJJSACgajHBZERnadbD9PiMMY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcXBlaEZREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "rommel vera",
+    "uri": "https://www.google.com/maps/contrib/111396628474613526503/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFMT0Kybex7WqxLy0x7iQovqxUHMA6ytOqQql0MtDeL4E4NnU=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2025-07-16T10:55:56.311447687Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtcXBlaEZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtcXBlaEZREAE!2m1!1s0x9105c7a881022025:0xc630e2d30f5ba79d"
+  },
+  {
+   "name": "places/ChIJJSACgajHBZERnadbD9PiMMY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNE0tRW9BRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "25 Mayo",
+    "uri": "https://www.google.com/maps/contrib/108984563500436708234/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRRHDr0CEjFxPLSkX9uo3vHZOCaQ-1jt7BKVtUpjVwZlKpfnE=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-07-26T19:30:19.101072Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNwNE0tRW9BRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwNE0tRW9BRRAB!2m1!1s0x9105c7a881022025:0xc630e2d30f5ba79d"
+  },
+  {
+   "name": "places/ChIJJSACgajHBZERnadbD9PiMMY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdzVEVU93EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Martin Büttner",
+    "uri": "https://www.google.com/maps/contrib/103246003942831152981/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ7LI7FMTa_B4Y6fDuAzhFyfkQPXO4vY88PxMPEI5k8Y6BYuA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-07-03T18:16:43.796443Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKdzVEVU93EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKdzVEVU93EAE!2m1!1s0x9105c7a881022025:0xc630e2d30f5ba79d"
+  },
+  {
+   "name": "places/ChIJJSACgajHBZERnadbD9PiMMY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoeF9LQlZ3EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Rocío Alexandra",
+    "uri": "https://www.google.com/maps/contrib/115915600396282068895/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUq_ZqN0PdiwV_zv0TEagUL441jRS8QpTuVCQBlUcDI6NIwedL84g=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-23T17:34:46.678900Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoeF9LQlZ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoeF9LQlZ3EAE!2m1!1s0x9105c7a881022025:0xc630e2d30f5ba79d"
+  }
+ ]
+}

@@ -1,0 +1,466 @@
+{
+ "id": "ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "990 952 031",
+ "internationalPhoneNumber": "+51 990 952 031",
+ "formattedAddress": "Av Juan Pardo de Zela 861 Lince Lima, Jr. José Gálvez 861, Lince 15046",
+ "addressComponents": [
+  {
+   "longText": "Av Juan Pardo de Zela 861 Lince Lima",
+   "languageCode": "es"
+  },
+  {
+   "longText": "861",
+   "shortText": "861",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jirón José Gálvez",
+   "shortText": "Jr. José Gálvez",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Juan Pardo de Zela",
+   "shortText": "Av. Juan Pardo de Zela",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lince",
+   "shortText": "Lince",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15046",
+   "shortText": "15046",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0824401,
+  "longitude": -77.0273668
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=16674360802502883111&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–16:00",
+   "martes: 10:00–16:00",
+   "miércoles: 10:00–16:00",
+   "jueves: 10:00–16:00",
+   "viernes: 10:00–16:00",
+   "sábado: 10:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 27,
+ "displayName": {
+  "text": "Salud Animal",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–16:00",
+   "martes: 10:00–16:00",
+   "miércoles: 10:00–16:00",
+   "jueves: 10:00–16:00",
+   "viernes: 10:00–16:00",
+   "sábado: 10:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Juan Pardo de Zela 861 Lince Lima, Jr. José Gálvez 861, Lince",
+ "reviews": [
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5a1FsWTJTbEZGTmtGTmRtMTZUVzA0TnpkTWFrRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente profesional es el Dr. Harold. Absuelve nuestras dudas con mucha atención, paciencia y conocimiento; asimismo, atiende a nuestros engreidos con pericia y cariño. Totalmente, recomendado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente profesional es el Dr. Harold. Absuelve nuestras dudas con mucha atención, paciencia y conocimiento; asimismo, atiende a nuestros engreidos con pericia y cariño. Totalmente, recomendado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Wendy Bailón",
+    "uri": "https://www.google.com/maps/contrib/101946335447674324058/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhEe3QjZhPYFmI9nCUrbNGYsQXwHximTStKGzVmnpoizyHuA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-08T18:45:44.594847615Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5a1FsWTJTbEZGTmtGTmRtMTZUVzA0TnpkTWFrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5a1FsWTJTbEZGTmtGTmRtMTZUVzA0TnpkTWFrRRAB!2m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  },
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzNjVicmhBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "De todas las veterinarias a las que he llevado a mis mascotas, este es el mejor, muy agradecida con el veterinario Harold Agurto que es el primero y el único que ha sido honesto y empático, se nota que ama su profesión y no se aprovecha del dolor de los dueños sino por el contrario se le nota su honradez y la delicadeza en su atención. Mi familia y yo estamos muy aliviados de haber caído en sus manos y salvado la vida de mi perrito, mientras que en otras veterinarias nos dieron negatividad y nos preocupaban los elevados costos y la cantidad de exámenes que lo querian someter; desde hoy lo hemos escogido como el veterinario de la familia. Deseo de todo corazón que personas como usted nos duren una eternidad, porque las personas de bien son pocas de conocer y nosotros tuvimos la dicha de conocerlo a usted.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "De todas las veterinarias a las que he llevado a mis mascotas, este es el mejor, muy agradecida con el veterinario Harold Agurto que es el primero y el único que ha sido honesto y empático, se nota que ama su profesión y no se aprovecha del dolor de los dueños sino por el contrario se le nota su honradez y la delicadeza en su atención. Mi familia y yo estamos muy aliviados de haber caído en sus manos y salvado la vida de mi perrito, mientras que en otras veterinarias nos dieron negatividad y nos preocupaban los elevados costos y la cantidad de exámenes que lo querian someter; desde hoy lo hemos escogido como el veterinario de la familia. Deseo de todo corazón que personas como usted nos duren una eternidad, porque las personas de bien son pocas de conocer y nosotros tuvimos la dicha de conocerlo a usted.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Thania Alcocer",
+    "uri": "https://www.google.com/maps/contrib/104301193926578520614/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDJOKEGwnJH21sEmqjTS7tCbzEPqSFJtS6yxCfCZSsGHvNLK34=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-11-19T03:20:40.337875Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzNjVicmhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzNjVicmhBRRAB!2m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  },
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnc29HOEdREAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "El Dr. Harold Agurto además de ser un excelente profesional es un gran ser humano, da confianza para preguntar todo lo que puede suceder con nuestros engreídos y es muy detallista al examinarlos.  Personas así hay muy pocas. 🙏🏾😻👍🏾👏👏",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr. Harold Agurto además de ser un excelente profesional es un gran ser humano, da confianza para preguntar todo lo que puede suceder con nuestros engreídos y es muy detallista al examinarlos.  Personas así hay muy pocas. 🙏🏾😻👍🏾👏👏",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ana Teresa Ramos Silva",
+    "uri": "https://www.google.com/maps/contrib/108166358820799716360/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-EKcwXcMCtjRPMa8WpwNsU0R0z7e08YENSisAMBVXxnqkejP2BQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-03-13T00:54:51.732910Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnc29HOEdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnc29HOEdREAE!2m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  },
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2emVlUTVBRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Debo decir que es uno de los mejores veterinarios en Lince, el consultorio es modesto pero el conocimiento, dedicación y empatía que tiene el doctor con las mascotitas y los dueños (para explicar todo a detalle) es insuperable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Debo decir que es uno de los mejores veterinarios en Lince, el consultorio es modesto pero el conocimiento, dedicación y empatía que tiene el doctor con las mascotitas y los dueños (para explicar todo a detalle) es insuperable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andrea Serva",
+    "uri": "https://www.google.com/maps/contrib/105774147700130925653/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrciGHy3ZPFeknhaR06tMGJg3kwCdJrWdM5yTX9EmvtQWT=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-10-07T15:57:30.631364Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ2emVlUTVBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2emVlUTVBRRAB!2m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  },
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvX09IdHBnRRAB",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "El dr Harold Agurto es un excelente profesional. El trato y la dedicación tan empática que le da a las mascotas es más que resaltante. A ojos cerrados confío en su criterio",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El dr Harold Agurto es un excelente profesional. El trato y la dedicación tan empática que le da a las mascotas es más que resaltante. A ojos cerrados confío en su criterio",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "brian weston",
+    "uri": "https://www.google.com/maps/contrib/105230937300305681243/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7roDzw0tt-e9XI7L9-TQXp33ZX1-X9a_-me2lkt41I_BAnw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-02-07T11:37:43.832728268Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNvX09IdHBnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvX09IdHBnRRAB!2m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ_Z4Vf4nIBZERJ7fhKc46Z-c/photos/Aa-ngMafFBFS2inxL8hZne1xUR1FhCfXh-82lLY8FyiZJn4yEWHMy5pYL0GigMz7hVjJtpKvDa8FPcfq4Tyqa5_4LdEwjziv9Wb45jETGzwLDgy7DMluuuGbIxTVz5NcEkKVlAqJM70WYVgEJJbUzia2dvhi1H4SyG2jgMaxQTHOmqH8p-CfsNMkBsCxXob9HU5udVOM-KtJQ9PIS_uRNotcUE050ipNHPKEFmLSthbP_8BJsX1OY_et5qaKU5FmHjig8RZDPrh-IKvFdwOkAcVp_KZsa7_Be2vJy-DZ7W-5Il1uULIUp_qqGLAUnky8vEX6Zk082llU7RNuNlcoUxbbjUamq5x5IDkNkEOX9kUi_t1PaJhEExRaQ69_hJBsYWNCclk9l6Ey_Y0UnwS2Y7IB786za-d_Up8",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Teresa de Jesus",
+     "uri": "https://maps.google.com/maps/contrib/105829970898722142417",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeI0W9jLjVFU0ohC3SOQUI3D1--0PbHJT7MIJO-sfZ2ijfkcPv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICh9fzLwAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICh9fzLwAE!2e10!4m2!3m1!1s0x9105c8897f159efd:0xe7673ace29e1b727"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": false,
+  "paidParkingLot": false,
+  "freeStreetParking": false,
+  "paidStreetParking": false,
+  "freeGarageParking": false,
+  "paidGarageParking": false
+ }
+}

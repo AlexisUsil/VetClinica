@@ -1,0 +1,455 @@
+{
+ "id": "ChIJVduACPPGBZER4ZBaJoq6WsA",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 388 338",
+ "internationalPhoneNumber": "+51 999 388 338",
+ "formattedAddress": "Av. Separadora Industrial 312, Lima 15012",
+ "addressComponents": [
+  {
+   "longText": "312",
+   "shortText": "312",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Separadora Industrial",
+   "shortText": "Av. Separadora Industrial",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Felicia",
+   "shortText": "Santa Felicia",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15012",
+   "shortText": "15012",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.062292999999999,
+  "longitude": -76.9563749
+ },
+ "rating": 3.7,
+ "googleMapsUri": "https://maps.google.com/?cid=13860595905697845473&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 10,
+ "displayName": {
+  "text": "Veterinaria Dogtor Minaya",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–17:00",
+   "martes: 9:00–17:00",
+   "miércoles: 9:00–17:00",
+   "jueves: 9:00–17:00",
+   "viernes: 9:00–17:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T22:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Separadora Industrial 312, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVNGVpRVdBEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención, dedicada y personal. Atendió a nuestra mascota de emergencia un domingo por la noche y luego realizó una visita al paciente al día siguiente. Muy recomendable.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención, dedicada y personal. Atendió a nuestra mascota de emergencia un domingo por la noche y luego realizó una visita al paciente al día siguiente. Muy recomendable.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Beretta",
+    "uri": "https://www.google.com/maps/contrib/107296818603476200364/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdVbSxJfOlbfXe_TLMHO-6iiin0d8pUmFZrt4xWjoBbu_uLgo=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2019-07-26T12:46:40.571267Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVNGVpRVdBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVNGVpRVdBEAE!2m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  },
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRb296cUVBEAE",
+   "relativePublishTimeDescription": "Hace 8 años",
+   "rating": 4,
+   "text": {
+    "text": "El nivel academico es de lo mejor, muy preocupadas las que dirigen este nido que es excelente, tuve a mi pequeña niña en este nido y lo recomiendo. Los costos son acequibles.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El nivel academico es de lo mejor, muy preocupadas las que dirigen este nido que es excelente, tuve a mi pequeña niña en este nido y lo recomiendo. Los costos son acequibles.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "José Sardón",
+    "uri": "https://www.google.com/maps/contrib/113618556709254955165/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaRLbtHandQOKuuhUEaWn9LDba-Q9uVPYpT_X1oouZqfNcfBLY=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2018-06-08T22:20:33.373Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRb296cUVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRb296cUVBEAE!2m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  },
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobXVQNmpRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención. NO LO RECOMIENDO. Muy apurado.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención. NO LO RECOMIENDO. Muy apurado.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Soy Diego",
+    "uri": "https://www.google.com/maps/contrib/106579224334919435599/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLd7HPWmBeGZZYjRFrUIDZe0cHZVVGEB-ioOUckWN3GY_qNzxgs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-10T17:28:36.695449Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNobXVQNmpRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNobXVQNmpRRRAB!2m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  },
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNWJxNWF3EAE",
+   "relativePublishTimeDescription": "Hace 9 años",
+   "rating": 5,
+   "text": {
+    "text": "Me proporcionaron información de forma amable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me proporcionaron información de forma amable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Josué Herrera",
+    "uri": "https://www.google.com/maps/contrib/115903302039497838326/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSTf58WAA1MB6z057L4kPEVSW04IM43qdk48NSV_Hsbol1DdGElQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2017-03-06T21:25:11.104Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNBNWJxNWF3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNBNWJxNWF3EAE!2m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  },
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0MUs2OGZREAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "La mejor atención a cargo de profesionales.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor atención a cargo de profesionales.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ruben Vargas Quintana (Ásher)",
+    "uri": "https://www.google.com/maps/contrib/117153515572434117062/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4BLGoX6vn_YAQIJEEgkebNrew-KjIQVIPvPmKBAosOICXFFLA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2019-06-03T20:32:06.833828Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM0MUs2OGZREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0MUs2OGZREAE!2m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVduACPPGBZER4ZBaJoq6WsA/photos/Aa-ngMZD8oV73sn_fI3dO1325bfasdO5AZF8Bo3iU9N0ZJNTvw8GeXKwO3KweP8Rw8NBRdy3SGl_LculqZ6MqHS_xy6lbYkEvyuvmc-696Hyj9MDUgC328FEuJJ9b6J6qRBMxvJ2kEHXzxHK4On_hXc4CA4f9v9CWf8AuHMXTSIITlViWQi5z7cbhy-k301nT7NtaPhzPDwg-iT3J1Nxk3ZAReS_Tlhonm4qZqONvTSpsQkRDBwr7wm6AWzmNb5SG_pjLjT5TBvuu0BQEMtV0oWHVgWaBaeDgRBilvxNxKRB4KHCYMkN-Jz7DzvhV-DssiY1I0rqGlldeaJJ7HJakSQuoUF38h_mYi1ds9DUiBi_DgsGGbkegBda_ubxqPicks8W_5TYxqbol8uw4P77zWnFHhiIziI",
+   "widthPx": 2592,
+   "heightPx": 1944,
+   "authorAttributions": [
+    {
+     "displayName": "Josué Herrera",
+     "uri": "https://maps.google.com/maps/contrib/115903302039497838326",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSTf58WAA1MB6z057L4kPEVSW04IM43qdk48NSV_Hsbol1DdGElQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC4wqeYBg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC4wqeYBg!2e10!4m2!3m1!1s0x9105c6f30880db55:0xc05aba8a265a90e1"
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+{
+ "id": "ChIJVZE1asDHBZERlXY1qiDWXHc",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "932 845 106",
+ "internationalPhoneNumber": "+51 932 845 106",
+ "formattedAddress": "Av. Canadá 4060, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "4060",
+   "shortText": "4060",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Canadá",
+   "shortText": "Av. Canadá",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0782855,
+  "longitude": -76.9894714
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=8600984824153732757&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 31,
+ "displayName": {
+  "text": "Convet - Canadá",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Canadá 4060, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5d291Tmh3RRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención precios bajos y además profesionales atendiendo. Me fui felz.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención precios bajos y además profesionales atendiendo. Me fui felz.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Harol R",
+    "uri": "https://www.google.com/maps/contrib/100426502295928578876/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcmhmZ79ffUa5GeDXDFEA97NGJTQzw7FT82EiQCyjI1uQvwD3Yfw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-03-14T17:41:26.168525Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5d291Tmh3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5d291Tmh3RRAB!2m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa05TV1RREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 3,
+   "text": {
+    "text": "Encontré gotas oftalmicas antibiótico para mi gato a 13.80 soles. Muy económica.  Genlidex",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Encontré gotas oftalmicas antibiótico para mi gato a 13.80 soles. Muy económica.  Genlidex",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Claudia Wong",
+    "uri": "https://www.google.com/maps/contrib/110179485124965517040/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-NFL2rw03lnMkNZ2sMryPLGtx6Kx4ZXozaCLe-GXj0qJgqJ8=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-06-19T01:16:13.255056Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKa05TV1RREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKa05TV1RREAE!2m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkaVBfbG5BRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención y discriminación hacia mi persona Solo por mi físico.\n\nAyer fui alrededor de las 11am a buscar desparacitante y antipulgas.\n\nEl joven que me atendió me trató despectivamente cuando estaba con mi perrita y por mi herida abierta en el labio.\n\nNo vayan nunca",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención y discriminación hacia mi persona Solo por mi físico.\n\nAyer fui alrededor de las 11am a buscar desparacitante y antipulgas.\n\nEl joven que me atendió me trató despectivamente cuando estaba con mi perrita y por mi herida abierta en el labio.\n\nNo vayan nunca",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Steffania Casas valencia",
+    "uri": "https://www.google.com/maps/contrib/107263758298308382958/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTfi3ccWtrhUcEEEqQJmsmuwMH39kVKzFVqrH_yvN_ge4U9IhT=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-02-10T16:54:47.066492Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkaVBfbG5BRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkaVBfbG5BRRAB!2m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvNFh6VkllV3AxV2tOTlh6RnZhVmhDWVdOZk0xRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes productos,  muy buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes productos,  muy buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Guillermo Suarez",
+    "uri": "https://www.google.com/maps/contrib/110409939703057591571/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1l1pHvq6jbcInLDBHABb_B7zPohLg2ciKxiOvAGEzd6OTt2Gf=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2025-09-09T13:57:09.540829820Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvNFh6VkllV3AxV2tOTlh6RnZhVmhDWVdOZk0xRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvNFh6VkllV3AxV2tOTlh6RnZhVmhDWVdOZk0xRRAB!2m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaVkyRktWSG8zZEVWUk5tRllkMkpEZVhReFJYYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelentes precios y variedad de productos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelentes precios y variedad de productos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ricardo Fernandez",
+    "uri": "https://www.google.com/maps/contrib/112663629003209691367/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJJcj-nBgGfe6WgAPz8xyxkY4SswmX2vCJOB4oPkD4Y2KO5rKXxQ=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2026-01-15T19:29:35.652152384Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaaVkyRktWSG8zZEVWUk5tRllkMkpEZVhReFJYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaaVkyRktWSG8zZEVWUk5tRllkMkpEZVhReFJYYxAB!2m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMYOgROLggQfU_ax1Q7j0gwmvtoIcM0huuRqp1-e2wR6iklxzYH-9eDhdcCGQnWRiiuWO2UKdJ7vF2VwRgByhVsTMzCcnbN-gfdhZZB9nHxfE1YDwWKiYZRelAgQuZxEO2w23ahSkbt6PpIjUrregnz-6F1aokjRtEskoMpwwdAgwhIXZbkXcUc0yb8H5T2Q5MvAfUu2NZ_LDfhBC2KNqkuvJO4Gsrtmn_Od7EV5ea8tz-w_lqgys96J0t16MFsxOdwqbTUcO320sCKhqKKQ0KULLCpCp4mzjHS69RyM9_iVAvhLIIYndUL3inHz28mcao1F4ktSfGANGGRlpf_Sw0WsGWlQxxlpi0zra1NK6zDJ9VakJQLEtEoBa0AWFI4m7hGV2NgXosSg_H73FM9pE23ygTQ",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ConVet - Canadá",
+     "uri": "https://maps.google.com/maps/contrib/106909235413086870285",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0CyQj153HNnScKGVE1vMjWj_UXMJEk_OTxoRh6lk0O_w6ocs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqgbaoQA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqgbaoQA!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMZBDGb9e27qBFTPS993ArQZoueWSjNpH510eQ1ygX0zxudAIcJ3ZT4vNTVx8MNE6EdtpO8uVMqc-ryHX9kvT2J2QLyC7xrk2YfKoS3kD9ix_s5QiSYTMTnksF607RgmTkvnvXp2iCwvpbdJLxj1KRcbPp-nTR3dsTc6NyhLxbA1RmDDN6ThspFnMQL3kpjL4-hNdwtZxNWbPHAzFNqSPSg6elXxBGrR1N0t-lqtA6wsEloZJyCXIhiksbPijohJTt648-J9H0gS8nbp2IlsQzWipbnrljQsqH2vm4bBMiQYuDiB1J57556P9mJGHQSuPQXOYPQGUXToT2fQOxZ1SQt62Cgh0r3tnzHS8Fmzn1ByQjiAAkaCcs3Z0FFp5OKIHUJbbB87ZcTQCg0Vw9OXInRgaA",
+   "widthPx": 3280,
+   "heightPx": 2464,
+   "authorAttributions": [
+    {
+     "displayName": "CESAR MONTERO",
+     "uri": "https://maps.google.com/maps/contrib/105397057819933255488",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYiM6cce_nfh7elgzhpttEtZj7_6GBTUwhJZe9-H6Ov6cT-xjpwA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDZxoDzcw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDZxoDzcw!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMYDhyRI5nUkH4pE5xKgoWp3TfZrXBPEKO-zLQyI69PCfV2sQ5THbPS-meoe2WX_Yy5Wsx8FqCYMj89ZS9kTcwiJkAv7ShvzkCDH22JfGWECvsgYujQPVAjZVaMqkEzpJR9QjoCSQk83FYyBsIKq_r2XXCS9_gfGspG9Dh-pAiXfc6umcgleJL5XRW11lxh2EVavAK-bSleScPMstwX5agu0foqKmkoz2eUHpt_dp37hYp1WYn66KZwbKPKTx4KN5C7TmBu1grw5iS-scbdO04ysbfkyXYJL9G-y0uvKjw3HLG4oV9zIWQinjVoDE5Bs8cgADktABONBiLkm9F27oLpAfq8_Yj-vjxdG-xwz_31166ps8qZaZcu_rRW4SlWRN0wQeF1iWhyeNpatYVktjRXQyA",
+   "widthPx": 3472,
+   "heightPx": 4624,
+   "authorAttributions": [
+    {
+     "displayName": "Harol R",
+     "uri": "https://maps.google.com/maps/contrib/100426502295928578876",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcmhmZ79ffUa5GeDXDFEA97NGJTQzw7FT82EiQCyjI1uQvwD3Yfw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9wouNJw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9wouNJw!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMYKOkXQMR6PceRytHTluliGXmnJdzpGbuWxL0VN4BD-a1L_UVSYxgAeIiCZ_UyVJWc52zY0AFLXQ0aMfRUyKQ7--r2T1vclDq9vjYPYJEhIY5_cKxGhdVvKHaoSAdJsTNGZlEYYrhUyacKHHmXzZt8ZSTzBjcZDgZFqih9cUtrgzNmsUJ6Q9SfI2jlVRgxPvVX-E9_oYN_vBXqDvToVWoF5Zgw8jjm5vag9OsQxy2pWX1FnNNh3glirW9E9ST0zxnidBi7aIqhVdVfgooChor_uBli2lXojIXc8RsiXWGmMWQefjGlBLQTgq632ZBt2-6_IxWB3peDrLJSZqG5z0AHLYG9vfmFfau-O4UcAJ3kMnHEll3xrBG9twgUF9UhUK09QB_BGU20zRN_QbdogU1Ml1rs",
+   "widthPx": 1908,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Enzo FCh",
+     "uri": "https://maps.google.com/maps/contrib/111481210489879154908",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamyzOM3N-uUNSfRooo5z-6EgXUNZOjbYfkYtOII0K4_Tnc93AfA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDe-JLIFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDe-JLIFg!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMaoPXVXgonIonRB_kpv0EDRw19-8PQizEpC2B34gczTDszkqXuUeLqgLZrdmmWLYIhM791UatQRPEbhcy3vhYxpBApiuCOW_vFZf-lMN5G_tTvEBWhq5l8gp_vGi6WjJl53XZPhkDS_c6OjNOY1aFhkRK-9X1b8P5wdSIoitjApLHGzLZAsC1DiOWTAJdnBpKHqsGlkvruuIZok8jbWfe53a88mDHvxLGwFW-4gJks6rXQF0BYejjxD8pRSQ5A1WGO7hj4z9unt4IEMcTGRNYH8vr3-HsMOgA0jOfc3v5HQLZ0nB9wo-mSPXdsVHhqldwoHATqx8CgMnHxYMAUCfaehhRSYFrW2PhvxWmAqVJFsX8cxQhCryp6Zqk9FRNnOLZJR0YSj0jcHwAoM0mgterkE6lc",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Claudia Wong",
+     "uri": "https://maps.google.com/maps/contrib/110179485124965517040",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-NFL2rw03lnMkNZ2sMryPLGtx6Kx4ZXozaCLe-GXj0qJgqJ8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJkNSjMQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJkNSjMQ!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMZivjMqijbHXOIGzilmVwwtGenqJR3DXOk9Xg8QxGZjSDY0Mrm8loA7BGcdeNq2T5xkpcxqM-FALHP5ewbSqW1TGoTi6efyifzABjGFKkvk_sBnOlZAHQKnjNwveFjUrAE4OTW0gyioQHsum_1IiMYvf5FAu8vz5nYdNEZTM6Pt3RvfG7iYNmBq_dG4nrJ3S-f-z-PWl-zhuIRN1sEdPioJSzefo6abyoTfdam46oj-djRxfweo1BbiXnDexb-zpmzXawDPeSakY5yqtVQ8_wKR9mmSxHO3a9-h052M-cXE6hcVAqrttmDdpUcV27eAhZ4wOdenX7Lb0SSUV3Lszy_4Mmc7YAkUHK2qXO4TfC-9cZJ4giSRtv3k1YN9SWCRxyFNfi2avClJGTLu7e9AMBzRD51s",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ConVet - Canadá",
+     "uri": "https://maps.google.com/maps/contrib/106909235413086870285",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0CyQj153HNnScKGVE1vMjWj_UXMJEk_OTxoRh6lk0O_w6ocs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqgbbo_gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqgbbo_gE!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  },
+  {
+   "name": "places/ChIJVZE1asDHBZERlXY1qiDWXHc/photos/Aa-ngMbi1RdKIeSgcLUFU3D0WuOFfljrRAZ52fTQNasuwQS6VAurt2ciuPXLR4kgLBELjdybmC3AzACC_C5dPBzEv2c2ojv3YKrL2Tr---WiBcI1jKzZv7yfYsiVgwkJttydoTwJdNjtBNnMVgaKnKwODCacoqoGXmngMuUgzyKdL9y8ol0GfD2f0fegI44s20-X6LEy6EE4AoTSJsB5uSCdOMRXdIIA4XfIB8x2e52vPgbWojXEvANYPBrZsddzjIEOT6JW-CV924fd8796-ShnjGfsBQDRAxDCM9ryBr09O7a1FwHNqSRfaYLs2-4DnLJappkkdRDw1YlL1M1Sqh56iTJxR_QsFLby-D9zPa7PKy_zyhBz05pcJ7fsTZpNxQo_QtuFI2AIrSvP_PeFnPJ4ohhji5M",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "ConVet - Canadá",
+     "uri": "https://maps.google.com/maps/contrib/106909235413086870285",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0CyQj153HNnScKGVE1vMjWj_UXMJEk_OTxoRh6lk0O_w6ocs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqgbbwKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqgbbwKg!2e10!4m2!3m1!1s0x9105c7c06a359155:0x775cd620aa357695"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

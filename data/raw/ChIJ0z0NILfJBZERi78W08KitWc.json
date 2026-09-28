@@ -1,0 +1,582 @@
+{
+ "id": "ChIJ0z0NILfJBZERi78W08KitWc",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "951 365 012",
+ "internationalPhoneNumber": "+51 951 365 012",
+ "formattedAddress": "Av. Julio César Tello 1184, Lince 15073",
+ "addressComponents": [
+  {
+   "longText": "1184",
+   "shortText": "1184",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Julio César Tello",
+   "shortText": "Av. Julio César Tello",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Risso",
+   "shortText": "Urb Risso",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lince",
+   "shortText": "Lince",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15073",
+   "shortText": "15073",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0869698,
+  "longitude": -77.04437
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=7473058114340044683&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/walac.lince/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 35,
+ "displayName": {
+  "text": "Clínica Veterinaria Walac - Lince",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Julio César Tello 1184, Lince",
+ "reviews": [
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENWFQNWVBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Muy mala experiencia, mis padres llevaron a nuestra mascota al centro veterinario para un servicio de corte y baño, a la hora del recojo lo hicimos de forma rápida porque teníamos pendientes personales y no pudimos chequearla en la misma veterinaria, sin embargo al llegar a casa notamos que tenía toda la zona del cuello con heridas y una de ellas era de un tamaño considerable, escocía materia y sangre, como es posible que ni siquiera en el recojo nos informaran sobre las heridas, la persona que se encuentra realizando los servicios mencionados debería ser supervisada por su falta de trato.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy mala experiencia, mis padres llevaron a nuestra mascota al centro veterinario para un servicio de corte y baño, a la hora del recojo lo hicimos de forma rápida porque teníamos pendientes personales y no pudimos chequearla en la misma veterinaria, sin embargo al llegar a casa notamos que tenía toda la zona del cuello con heridas y una de ellas era de un tamaño considerable, escocía materia y sangre, como es posible que ni siquiera en el recojo nos informaran sobre las heridas, la persona que se encuentra realizando los servicios mencionados debería ser supervisada por su falta de trato.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Paloma Sánchez",
+    "uri": "https://www.google.com/maps/contrib/107154371408973408327/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURS1oDFUG-BBfqWYttkCCEoT39dZk60yl2DvisZ3BuPozT1vhtlQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-03-30T18:49:15.858491Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNENWFQNWVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNENWFQNWVBEAE!2m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsV2NtWnpaVTUyTW05VFgzbERjMEpYYkZwVU1FRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, cuenta con profesionales bien preparados, con amor a los animales!! 100% recomendados!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, cuenta con profesionales bien preparados, con amor a los animales!! 100% recomendados!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fanny Timaure",
+    "uri": "https://www.google.com/maps/contrib/115686502122147940149/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWeuTraFFDJQGtqXIgkGgNgCu-dp6O62-FRUJqkJMajeiem16hE=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-27T17:42:58.956610415Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsV2NtWnpaVTUyTW05VFgzbERjMEpYYkZwVU1FRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsV2NtWnpaVTUyTW05VFgzbERjMEpYYkZwVU1FRRAB!2m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGYVR6WlVObE55TldwcGJVSmFkVEJ4YkRCcGEwRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 4,
+   "text": {
+    "text": "Hola, podria tratar a mi perrita Rossana, ella ha sido un poco anemica en estos tiempo, es muy docile y obediente pero algo traviesa y se va demasiado con todos los perros del barrios cuando esta en celos (o sea 25 dias al mes) aun no me ha regresado pregnada pero es un riesgo que no quiero correr.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hola, podria tratar a mi perrita Rossana, ella ha sido un poco anemica en estos tiempo, es muy docile y obediente pero algo traviesa y se va demasiado con todos los perros del barrios cuando esta en celos (o sea 25 dias al mes) aun no me ha regresado pregnada pero es un riesgo que no quiero correr.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "renzo D",
+    "uri": "https://www.google.com/maps/contrib/103773017740285329827/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiIwtfHQ9sRoQXKtN7sjYMHw-Md-fMN-M7Ni-UNQvwzD1tva4=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-11-20T03:39:47.743924655Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGYVR6WlVObE55TldwcGJVSmFkVEJ4YkRCcGEwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGYVR6WlVObE55TldwcGJVSmFkVEJ4YkRCcGEwRRAB!2m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZcEs2YU5BEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La mejor atención que tuvo mi mascotita . Gracias al Doctor que estuvo  pendiente y lo atendió muy bien. Excelente atención!!\nRecomendado!.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor atención que tuvo mi mascotita . Gracias al Doctor que estuvo  pendiente y lo atendió muy bien. Excelente atención!!\nRecomendado!.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Isabel Basurto Garcia",
+    "uri": "https://www.google.com/maps/contrib/114069820170731779339/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNiqpwlNRO88fLc5zmIDIFk5gHQ8uXusUtT6E3OzjH9CLsGQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-05-01T12:46:19.681322Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZcEs2YU5BEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZcEs2YU5BEAE!2m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZMFRERmZiSE42VVVGak56VXlYMDgyYmtwcFQyYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Rios",
+    "uri": "https://www.google.com/maps/contrib/101675677005480525284/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVK8Ml7_47vZA5ftoQpMEa6S2xVxzKoUIRGjjdJsuc1TfeEVfbi=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-06-21T17:54:16.370028840Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZMFRERmZiSE42VVVGak56VXlYMDgyYmtwcFQyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZMFRERmZiSE42VVVGak56VXlYMDgyYmtwcFQyYxAB!2m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMaU71MI9yttlvxCnhoPTR0Z83-bEUwRash37MX3-wt2_3N-jrQkiy04o1SmCph84GFGvyAU8U07OwOrwLidH3hhQ_Z2xxlz-KDuY2oNVbfzcGzL7aaqU1naftmQmSPhp7dKwRJfD_LtbXQ6r1AI4ulIxaoAKdBYcwuR3jo-3gnfenTlnzjS9NzR6-z2z0cQP_8uoqpk0wLYfH03Ch-RSFTcjBU-ny1asolxPpoZjcHientl6GwQzOVqRV0CET0Qp91oSO7vBhvvs5XE4vJ5ar_mNxl8ub_yPpDal6xRNcBdSb0-vyjzpciEI_4rrmaKNHvKxLDUJ083JxQDN8h5kflZX5ePXe5uqPZwO56uKE4LJt2AacjBgv3wTqhEHA9sRMWQ6YGGUA7JD_gzNycFJjNj2xE8mKkKWNw9fDAm_Qlavw",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAhFjya0ebalrocTIFBmqas&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAhFjya0ebalrocTIFBmqas!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMZTan8rQU7OoNGoKM6j0KDGkJ7D2XNHAVgq0Gx-KRtRLZ_XI5NCKEMVOSx62f9xrLcv14p4B-22GTHgvVLA6HhSdkzzSRO47AzQ3JVMuJalAO4ao7yk477GA30KdXMdnUbx45YQ4wY7zUuuSJimIYJ7gefXjsWwPRcmW43HPonNI0QE9MWsZfN8joLANmhqKG-fPUEN3d1aVeTMAMImTB_sgckJxhCUowUEqwvs4JvyzTTXe498GfFJKHq6Qh0VRsYL_2U1X1JBpX6XxZN3DtbRpPbEyu1OFuLPxAlyiH69lY_0eIYz4YW5dRQsKC6quMVgAUC5QEWaJxx1YOi_g1AM0hLDN9IlR_ZE1CGRBiDAD6DMZJD9tKC-CCuxqogYr6KIZ4NHeIWjJlefA22pY5jqwg",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOv67gMw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOv67gMw!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMarQFWramU5ZJuPDWfhUNXpFqZuyCph0MeLvLMm8YIpq4f9HQHE7z8w1UUMZ12OvsTflBhcX0URCyC4yscSOCQ5T2RuydTM_J0trcpe7Z16rB2wlZlY_rxjNjN-uZ0s5-mpNyNmT0tUPK-6qqRUSc7-XdRY-E3etTR9nCYi6hbHjGz8TlRaJgIbFea301hkiKRnG9GmPFE5x6L8zdPcz9IKGzPG7qsZ116znlUNorwKDZfhX1xFdN1kKnzfAe8XJRpxA6Znhzu4kXXZAN8_bjfQ9rT84L4WGURnY9ijC4ntieaSaWUdNLVyNr8FR5xs3Rk9bePaxpbqVj6dMc5bI9NCjphNhw4DG3q-T2GgMQ1EBnKNjQe1-_EcSJJpbF2raZjhxvIcTfQY4-1RC0kChoEpiQbVkLE",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICOv6649wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOv6649wE!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMYRpzY5gnUgNX5TL-8D8-nW5brj1s1g_g2pgzuZ3Z7qVIirelpfWGFMRfjguF6MI1uiwpWbuRFprT07Xxg07hwUBrUevtqQTD3if1akmKPIV7K6eHi0WmA8KeJJgfsj3Qc-b-02dTn3VQe86qdxcAASQTVXJYjsanxMQuCagyQ2r3KxgSSgcwYBhaQOjvHvYeG9PrTxbSGq_7UXocA_ShjNuZPsaxx_J8MCXqd4xrVncstWJtlaVx8CHZ9CBAZqY3wzjN46xgGVgVDtZG7qml42mvjK3ljeSYi97msYhEMWoDmrXaUNZmwT8Lcp09FQY_3IZ_NMLFayxkdfYck5vDhgDo76DwNK6y_nTqa8TtSgGYk5LNFFkACKzNsbtxnlw77Xji-mtN8JMvKuvJ5Cl0bSkjfxOFKnGiqLORgoQGd_vQ",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDF7h3M5wUGHNnXZ7wT1B_k&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDF7h3M5wUGHNnXZ7wT1B_k!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMaG_yTTP_p1xnaCoT8TpZeYsPnhsCS4hGbiyQXF7PNAahKxAm65loX_Cy9ygtxZwb9mAzkLvkA3RqYFsb_1Ja7oHc8UWND-GIlyRxrUBimnavWMWEGrmC9904i8QQrBOncPNbb1vlyfQWErwCDatp1Joj-WN1fkksSPQ661PLNTx-X2AHLHYD62hjjMp-0iquUsVLV7aeiN4V5xyJ2zqOvOxZ4aIDFtQL9dMIYFbwUhuv-G_dVL0ODU4D2wbgJRp-aqe2BJDzGWS69UhVbV2AHxEnay2-8whSKUMu2lT5pyDtWaG-JF4jpCTRhpB-Bwn_pI8NaoytJGz1ZiWMrjTJDi6xLa5z3aYC1TG9EpDItLw-EGbh-f7cliJvKpT5nrJ0h_Mcc6qhy_lD0PRiUZG5SlkY6Cu17z8hF5Z--jTYe_ww",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDf1P1TKvZqjPy0z8fUiYOl&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDf1P1TKvZqjPy0z8fUiYOl!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMYPWlIi-W5k8WjObq_1k6Nv7fytY16P_k4_Hfv_niKuRF4eDfm1vSjkgrQ-_OoF7uT43E4EUh_NxVUinJV3Q8l-68KVaykWuHxYdJHQXepzw3n4Ze3tjkSS4iBXzWdDdNygAJiKTeqceCoM-t-m4KVOcWiRwABbKS2Vrg75O2JC6xYN0PXp672WEzdSps7J7cDfDV52q1KmNu2ylJSYgarW-ltpTkMm7-oU7RZz9SzyPDkqQNYv1gJhpsltC82D42G4V7D2eO6mqKv9jhfZB4TNtXEi2Nygh2BB5JXhPs8g6ivITTLjmpyiF4_grHehWWr2ucgi3E5tQ5KSn8HzVO0x_e79S2secLSE6J4Q8lo4XpnL5zSMAMamw2adrKeI6u3vr6-WCj_3ANWAQV_dXr-9xo6VpUS_2RZL0uiXUfpN",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDztLnFE76P2sCzQf7Wtn38&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDztLnFE76P2sCzQf7Wtn38!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMbM-vczP5vFnjhodt9uwbEXWmGCUqN_nyvZLuRDioB1AN2Pgl8MhJ8LOwyfItc49AsWheMjKA_8EoWFTyQ0zDYByUA4hQZau0WUVOiOjSA_k6QoTZnDZ3om8326h3QoPFK4QOGbL1MjVvGBpOw6eewjGD39CXjYD8CdA0WtDLWa7BIXis8hQqBj9-0ZgcJy_kgxG8hIKxjFFIlCaVPP6LUHghRF9ZvG3e5UHPgQXRxb3wiVSye-GlmgqO37zGYfi_w6FV4CiE2VOeWDz4yjypjn_59ROo_SG2oi6xA0fr7wv_U1SPQ73dEXmzpYKzIJdaLiHbtSu4ImbLJaHITlNn4PQe4J6NlFVsTUhraABCMO3oqTwPuIK0IbKwX8tGrU0yNCy9r07S1zZBZghG3Be_jBhWmBkpnAdQ9dB_LxSrsL",
+   "widthPx": 3060,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Jonathan Espinoza",
+     "uri": "https://maps.google.com/maps/contrib/102836659940240319038",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJQoOaALaVG-4SF-9tgrPo85JKqqLkuILrifKQATebaT83PjE=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDsnlD3-EbhFLkKpboK4VWH&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDsnlD3-EbhFLkKpboK4VWH!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMZqdk9wIq-a0kUlQoKpWybUWcOZ1nl4MMoEaxFN4V7AeaE9DrKMGo5x8lYuHXFC5K6tIqNr3KV8dgDt91oDhPtnEzEliJCERTeaFLBWuCBbfS-mP8tMkf8amDCugEALvxm4bCPUn3ALgI1xW0n-6FcwHpHRZRsahYzB73IzMZISmCNFmMdcMuaO_Oum4ar2Jx6EdnRLV6fTwgi1JviQCGKAJVP--eQlbz7aAKeugYwSydkOn_DI0pp32RvXkCnU4bq5hUxwOeumQCx5Vx5MFQCulan3fKUfHIC0igVpRhDsGvg-QTgrL0Y2i4OrYgscqm9e_7mSf0Vd_42tTJdN_Zfi_FdJH349VAgqwZpnRCB9n1flNIVROz7aiVrrBNM2r87CurxSsP5LrHtVFDgZAhP-VZs",
+   "widthPx": 2892,
+   "heightPx": 3831,
+   "authorAttributions": [
+    {
+     "displayName": "Paloma Sánchez",
+     "uri": "https://maps.google.com/maps/contrib/107154371408973408327",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURS1oDFUG-BBfqWYttkCCEoT39dZk60yl2DvisZ3BuPozT1vhtlQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICD5aP5RA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICD5aP5RA!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMaFlQmPkZ3kwR7vNJlswZFnu4S6VJ29lk-AdyHtOwDSLHiflPN83-PWjqhqlKQaAy4JL6mrM5d1c3xoHfjpSt82Q_Ycl4IDlWBayw1RSasB1xef1GqIEmNJaKNeiFosdPYT8vV0f-cB8_eHvTEycNpQY7JWrkBDqCrNauam5z3aDLPpHtPVVpj8cHBtZjIH8LxdW76SccW5Ug9LzL6ESzASKOacvGQ0_GX-ojMMVOiedhvUtHsebtNzkda3TiaJrUSAFb-xHFJIXZd2AwCV2ZS154UGLSc1P9zMSTQudsPzUyjZeYZHJK22OaJStq-_9fLUU1FLLXFObM67blKDNnmG8U7EBUBCsi37_c4ZFVkOHUqJ8BSSO_hKkDIC2l-G_QBFh2XWIyB6Hsvn5YMINew2JFrPtK5ksz0qLbmFXy8KrQ",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC30IevDjFOmza-cA4m1VmH&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC30IevDjFOmza-cA4m1VmH!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  },
+  {
+   "name": "places/ChIJ0z0NILfJBZERi78W08KitWc/photos/Aa-ngMYj3-INQt0xXVU2kb9h0Qa04r7VfFBH4fI6_KiBTyc11FnRvrOsdrH86xR8X3DN7_b72YR6mC9HUnlucvpCv6y02NIMS-BDxZhKnDYadk3psuOu9BF3uK2BGioj_8PjOPk7XLfVo0R8HG7NAxV_7XKNPmrRnNlMOwtmwkoifa9gaR2HsfA9g3sUVenGz_vH0vsgGqD2io3vhxwKlRKainUlobkerrsnu1ejpFBVzbs5NmXAFg-qG7cMHpB9g_aul-LKv_KzsRGbWTqWUeOMdUH2dIOVVn7InWlHUgi_1Fby0-N6nbzGtoMrOqTmEzEJbqkOmsy1bEwEzuSZcDdTRIhVKPbNrD_YZH-sFw2BYqO69oSVftT-yAkmV7Z6GMocMkvfoQ8NrN4ZRKVzma4RFPYwNl1wq3fRc9JpINFxs9Hwfg",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria Walac - Lince",
+     "uri": "https://maps.google.com/maps/contrib/114253282863530135873",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIwdWnXSpl47rF1e5aA12LxKnjJl5UtnpSI95B8din53a6Zps=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBkxUi5WbJZTA__P8VjnH-z&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBkxUi5WbJZTA__P8VjnH-z!2e10!4m2!3m1!1s0x9105c9b7200d3dd3:0x67b5a2c2d316bf8b"
+  }
+ ]
+}

@@ -1,0 +1,593 @@
+{
+ "id": "ChIJ3y5_RPLDBZERO1rLfCLDAgc",
+ "types": [
+  "veterinary_care",
+  "pharmacy",
+  "health",
+  "point_of_interest",
+  "store",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 616 020",
+ "internationalPhoneNumber": "+51 952 616 020",
+ "formattedAddress": "Ctra. Central 735, Ate 15491",
+ "addressComponents": [
+  {
+   "longText": "735",
+   "shortText": "735",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Carretera Central",
+   "shortText": "Ctra. Central",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Santa Teresa de Vitarte",
+   "shortText": "Urb Santa Teresa de Vitarte",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Gobierno Regional de Lima",
+   "shortText": "Gobierno Regional de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15491",
+   "shortText": "15491",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0242113,
+  "longitude": -76.9150532
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=505180661108922939&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 37,
+ "displayName": {
+  "text": "Convet - Carretera Central",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Ctra. Central 735, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SamIxbGZZazFLVlVoaFZsaEtjVGw1TVhaSFYzYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio la que atiende es muy grosera y sin ganas de trabajar",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio la que atiende es muy grosera y sin ganas de trabajar",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yessi Tellezmz",
+    "uri": "https://www.google.com/maps/contrib/109602393993100400550/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-h_syuC2v1guhaQfKmdl4bWp1vCPiQYEm5XRNWMd9FAMoIN26=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-06-20T20:54:56.232755554Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SamIxbGZZazFLVlVoaFZsaEtjVGw1TVhaSFYzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SamIxbGZZazFLVlVoaFZsaEtjVGw1TVhaSFYzYxAB!2m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMVdsbDFhSFJxT1hSNWRXb3dXVmhZZDJ0R1NuYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Fácil acceso. No tiene cochera",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fácil acceso. No tiene cochera",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Evania Magariño Mendoza",
+    "uri": "https://www.google.com/maps/contrib/117122726536696515524/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuPxCX7wN9k3RgR-Z2hlBymp4K1DLpNKpNoYKryI4jJGODuHU7=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-07T21:07:43.459760583Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jMVdsbDFhSFJxT1hSNWRXb3dXVmhZZDJ0R1NuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMVdsbDFhSFJxT1hSNWRXb3dXVmhZZDJ0R1NuYxAB!2m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBMGNuLTB3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Hoy me trataron mal, salió un joven y me dijo 1:30 y se fue. No me explicó nada, solamente despareció. Miré mi reloj y era la 1:26, pésimo servicio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy me trataron mal, salió un joven y me dijo 1:30 y se fue. No me explicó nada, solamente despareció. Miré mi reloj y era la 1:26, pésimo servicio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "María Saucedo",
+    "uri": "https://www.google.com/maps/contrib/105528054257657429574/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcnD6XqOtQ8M4P49o5tftGPos9Fd9wBKYQVIeO8DajUji80ld1xA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-01T18:39:07.092489Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBMGNuLTB3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMGNuLTB3RRAB!2m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1c3FibDl3RRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Toda clase de alimentos y artículos para el cuidado de nuestros engreídos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Toda clase de alimentos y artículos para el cuidado de nuestros engreídos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carlos A. Bautista Sandoval",
+    "uri": "https://www.google.com/maps/contrib/104651664581592711457/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk0lMUsEBlaPiVDaIlORhpyYlUy-ASpTWwMFHeLHyfc1a_Goye=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2022-08-17T13:51:31.804752Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1c3FibDl3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1c3FibDl3RRAB!2m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GcE5HZGxXRnBPT1dsVFgzVnpiRXcwVFVWRmMxRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Siempre que mis perrhijos y gathijos necesitan algo voy aquí o al de chaclacayo, su atención es muy buena",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre que mis perrhijos y gathijos necesitan algo voy aquí o al de chaclacayo, su atención es muy buena",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karin Diaz Perez",
+    "uri": "https://www.google.com/maps/contrib/104525432532021316080/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHYaHMrfU86Bi9y1y9eR4p8Uv5DqFizy2O6-CIIa6Z3HGRbA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-08-06T22:34:49.864588851Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GcE5HZGxXRnBPT1dsVFgzVnpiRXcwVFVWRmMxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GcE5HZGxXRnBPT1dsVFgzVnpiRXcwVFVWRmMxRRAB!2m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMb2SP2RvMxryjMKqnmAjb64u3WUr8zM9dnpSeD0ki4GzdEEDY3ALe6v6PMYACQCdAnxplt4WpVaBqk-vYo3rrr-kUQQP5U-9hmi43HUMaOIKx0QRj2aLOf7V47c5aZqQS3TjB5F4s5ZvAFdmYGUghyYwsTmIEHQ0P0fco1OtH4Jv2TF0nQFCrLdp7MQFS2jSQhMAnOEeHhRESK4lj5R6AoI6werI2M1V5NiECwVmjDUpWut8Qsg8bvpWMrqkY1FuCkn0R1TSHsE9JKYjfzW1zzq1-Fw4hrR-AfAV8MderAS_mHRRvZNYAN0gnHqzEaPYwz4a01piKsB4ajyxRgk_P1dBTvPAxDHQxpZb_SPYBeT2nlK8pl79DqVPjpmeNWkQLDOmlgb7_GpVfv-snnV9hPmWxRhFMs",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Carretera Central",
+     "uri": "https://maps.google.com/maps/contrib/110101568518107637658",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgsNpaWMHipZ1hlB0J1xu0PLjLvwQZ6rIRdUH3bGSSNejI_kQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC6jP7O3wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC6jP7O3wE!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMZdF0hkJQt68oQoCVgdzI2rHOj8WtL5QBqMQObAVxaJQtm2O1OCFq349sJR4NkM6ExFi_2KyzJzEIgeipkCVezScI8uxqL6erjmzLB3O4XfbpPwqGs8HvD96KoI_g2SjU4Fbp_4NRFpgNUH3wJvp4gNla9j-WjEiqtd73GJ919dCr82W2xk42DJbFpJFMbyMxGov-aMfAzwD1c2hJ2r1iQ5Te5iKH5vc_93ynhSKS8DD4sHe5hzdni42haDBMpHZ54LnWpLth30vPIgjZgWSHQlEjwAu4XPqbyoqP_qqOJidTidIXjAZjOkxtt7LZjBFEYpqB2VScdthPSq_OaGH9Vkjr58QlUUwYNvbRRu0WcSrL_nh3NntPmCSCzrnf-eWOh_SM9o3qNRyxR6khvtqRSe4WX0",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos A. Bautista Sandoval",
+     "uri": "https://maps.google.com/maps/contrib/104651664581592711457",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk0lMUsEBlaPiVDaIlORhpyYlUy-ASpTWwMFHeLHyfc1a_Goye=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICeyu7jyAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICeyu7jyAE!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMZXLosNOIvny49eEEFPrlRUt10HmdAhSH__Sm4NO2PlB0HwQqo-hCk9_Vs05iq5ZGjBMd1-owGMaTNl82MV8dPKCD6ntLZAsLtUVblNUXy9WRYcnvsYR7k31ow3W7zUeT6ODbaR07ua2WPIjcX_4fD4LLIrpq8byasmHxX5DlqvAWXOzY9ZC2uzTCZZ_ru8hDFUZaanTAPhRYvto4NwwA1AnH4r7I5UUAWN7QEmbqi-bazNLdON4x7zsCDuKXH_QYGB1ldgGUX0452R4ESltHw74GyIY8kO77XBMUTijOBjmY-wZJDxZQ_EQWvWGLVs_OQAV0MhNpDM3JdUNLnawv0CbHEo050goEcCOFxsbEdtJI4JEK8QtOBDgXX6FMPeP7I5WasSmeWcJSknUq1w2LhWAG3L",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos A. Bautista Sandoval",
+     "uri": "https://maps.google.com/maps/contrib/104651664581592711457",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk0lMUsEBlaPiVDaIlORhpyYlUy-ASpTWwMFHeLHyfc1a_Goye=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICeyu675QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICeyu675QE!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMbj7wNk0IFtRsf_HiNyc8yCovQr0qYmRcixLmVzDX1JeplbfFLycZzXidEJ43-JQC_4zDuNVxBWPpYnMndIkDls-yBCx1nijKQVsLYX8U_UxDqiEult7guBgjLm0t25W2ZccwF7gZiVJ0wkT2POtw30IY6bJHPK9noLckbV_WRQFMfVBDN8iU7oUpQUGG3m0glDU-cgLHwP2GvKNDUhTYwWXf6Orz5IQVgxf6h23ueNk4ImLFS0qdDtv3kd2XZCMmh3gE3JSmlNh6opU351eBwp7sWcvXKlR27uTQUQL7KQ3xxTZ9O7ZY1yolOsGyeQcwjF3WUy9V8pcYd6B5D8IfL2B5IxIQIdbzPZS_5CInxQTbIMZp1aO3QryMU8yPQPYs-dCHWbEedt5TB3yEc8RPmy72ALCAd1ul5TuUtQkVVB",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Leonardo Valencia",
+     "uri": "https://maps.google.com/maps/contrib/116073293476097420872",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs67Qx0stVo4Us7ohkqLfGL_DFDMeu-fn8xWiFLQz69KEIctUG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhD3Wg30hzfx3VjGBkVseN3e&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhD3Wg30hzfx3VjGBkVseN3e!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMbh5RF0P3g0eVSgF2cV-8SHEFO3xQ_HYRHbd8065UR_p0zi4ySApEhueJ_f6Kjt2QgOhdMzRXyXH8Yxq5ZAP-8VrWuZAXAT-z8dV5WZ49cAaD-SAK5-KwhFQwnHxC2nhAZOif7_7y__jx6cJWVZw8p1YLlxxMDRozuHj4xmEs-Vd9AKFjqW--FxXKaQeJNmsBSWcUrS5Un7K0aCiXX5bb8Ifk1hTD0vcy8wiy9_xxjcKAckAu0Sk-XbbTrhs1iBp0FOFVMfokAua2qUhg68qtfOoUVLJX9cqYZVUum0arGN1goRkBgfhSACJ0l-JY8mMFh6RWefsmH6c84BsvWq38h4YRlX72ubLMagpXdOr0ySpxcmbo3tyDXeXVcFcQQg8cYweo3uZDGyOf8C53gQ2g_ObZs",
+   "widthPx": 4032,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos A. Bautista Sandoval",
+     "uri": "https://maps.google.com/maps/contrib/104651664581592711457",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk0lMUsEBlaPiVDaIlORhpyYlUy-ASpTWwMFHeLHyfc1a_Goye=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDussb0GQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDussb0GQ!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMYXyA6t75BclHbjZaJjRHiFJdM1AXppDxpVqrJdU9KqaEw53h8-9YiNPkV83Kgr45udWwJHkc0gBd2pzhsTxMtSmGtVF2Dzu3xKZbQk3ImTaKqy0UmPVPVgzTZA2Xj-SVBp4J-l1shWkBTQuCVZGMxlILQYLMVo0ua-9OXnENM_xuKMLXZEkxNyEdw0Zu9U3ox2Duk3Yi0oMFv0B4TasLL-i7kMREX_asdl0JuqI_53_1OqTg1RXivZcpa6h2ydjbt95AKULglPI4GSTXdT0YV1VOSDYuDVbYOk6waHzngAACzblRh5MB3snoY18ol44CkAjdnS6OyxjITshKHkPZE9pCrSQGYWyCPR6WDrB-S7erRmPIBRXF0pocck0PCev-Dwc0QSZFHHHNjW8LFtwzcdDMic",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos A. Bautista Sandoval",
+     "uri": "https://maps.google.com/maps/contrib/104651664581592711457",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk0lMUsEBlaPiVDaIlORhpyYlUy-ASpTWwMFHeLHyfc1a_Goye=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICeyu7dygE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICeyu7dygE!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMZFrbUgIC-YIs8HAaMz00B3xBF96q3S7_KdFs8seMS3mV4GMzuFiMBJvmmy2I-ksQzl71Lp7S2sMXofiluf1ValDCGVajDIwrUnvhiCRUYAunYc0kAZNqaFoMrl531ycq_XEomG62o5NclWLXlQnK0CNh5OISKsh8UvvqKT7G5YVK0YvxQqBKY-IBHpOQikQ-GLAjc0EKF-7Ah2UGJ9gk4S60jq567EzYMg6OZ67Y1IFNqMwCZ00ugCpRp2lEXafeztlTZ5LQs_hol54tMHbZWc06znNbKDXJffSqh1ZeelU2BmmxZJnnxa-IHZAMJEH9AQbGmuwNEuixqlowKPK-fMpQS7ZbQ_dYsRL2ShY7L8wRLmi812P3mGQdaaPG4WvAQvBzEn9UVB5oOCJ2DAv7sPldnT",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Marquez",
+     "uri": "https://maps.google.com/maps/contrib/111180114852668152238",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoHhda77j72oIVD0btP-Esg7XV0aJ7yvvl-kXlX3XlZjWOW8DW4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDUg_H_6AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUg_H_6AE!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMY1I8Jrt1XuXhIg3LIwBcRwNssyOa69tuKx49Os_dZdHzkeSeRvHYW8RsZ2xtsr9tnvswz1hjn-zrXHFsr_D0yhMcMGraXzBTOIHB5PXVYV52vgLqf8teEe5POzzdkUQkdfhEed5rRXO7fNVdZy1ui9xdq__EyYCYVi0o_Z5eTQk1fmii4DOi0DelnKjl2VYtIp_hRhURAtKJYmpYZDc6UOC4JM7JzzQtxevDIuuDuKvT00_RsyqSuphUFuV2kLuN9fAi9N6uOV-71IjKrZEpNhpGmarPIuM_S2UTCSs1ASSetmjB7dgrZ780UftIR1_K5X6KjnIxhTtqRBlTxIanBw0tik0OxeEZJGAPG1vBnviqMiOZamZEy87w8Y9BASL1L818fD9ffo9KJAtb2jWiIWLXg",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Marquez",
+     "uri": "https://maps.google.com/maps/contrib/111180114852668152238",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoHhda77j72oIVD0btP-Esg7XV0aJ7yvvl-kXlX3XlZjWOW8DW4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDUg_GteA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUg_GteA!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMb2RawzStcggiaSj-0urZ5M9f0a1RExAiJ8_FRbxMc9S3i4-QIFvG28l_iU5pxdRMYCyGmoVlUa6DcZT-1db3uAp1frhowjThoRiVxiTc6Hv3bKKd3O_CndMMCiEX1HJTq6IaFSgYow48t3m_zR0x7t7LHyjCOYfHcCb4WwXd4QxrjDhBdrU8U-zBgj6ViGHyVorT_V8In1lHi0zH0967mq2QFZokc7iid6RgknBFrFnE4iklsXXBVCktm2CN0Z7KvZYXJPGMpAA4xcmaSlq-lcmRcj9crGAJJt-XmKp0Ol33vxIub1Sv6BL758GB3nRoIoRBTn0YgRGwO_ZPcCD8yK35YQnZ5Ze16f9SxdHmith0XzzyFQkX9Eg91G7UP8ZG9x5-vci-wuNKpZNrJ7TuWLQZk",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Andrea Marquez",
+     "uri": "https://maps.google.com/maps/contrib/111180114852668152238",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoHhda77j72oIVD0btP-Esg7XV0aJ7yvvl-kXlX3XlZjWOW8DW4g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDUg_G7Dg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUg_G7Dg!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  },
+  {
+   "name": "places/ChIJ3y5_RPLDBZERO1rLfCLDAgc/photos/Aa-ngMbK-gyz3p5b-THtutC4p4Cc7BoOjKWNi1VM0p3aOm7gMV_Fos9HHNrvMs5mNXXk_oFrF3CksWpgXo5mbVUETYiQdfNaMKykGAQGklE4jDY3IayiBlftNdJPKPjUz1WnROymAuEU_TCb01vk6SoXuo82PnglMmvf5lJyaiXiSo-iCSK6MKeeN6qQeGhWW082YskBzhNn7FV33ufLH_oHVw9AOlLziw89ZekXUIUv0r_GpMNZl-ZQzHsVQMaU7wYS2nVt7iGT3oAzc_X-hTe6BHDLVZAe504LhK9zkKiOanqRfWucJOv_vGnxWAvcDMmIW9O-wtHj9mYto7FbSH4shtfLBzxPkHy6yoBO9-AM68GgboShmPXE6ojXCPncZI1H5vHgYBMJQrpfI0aV4O40p6hyHDk",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "emerson lopezleyva",
+     "uri": "https://maps.google.com/maps/contrib/108730855404621328009",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsGZ2joFdyNT2tXpIdqMRvUooeoJ5D628btEj-WfcAT3BADLrS=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICNy97rIA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICNy97rIA!2e10!4m2!3m1!1s0x9105c3f2447f2edf:0x702c3227ccb5a3b"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

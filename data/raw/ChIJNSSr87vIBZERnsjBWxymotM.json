@@ -1,0 +1,597 @@
+{
+ "id": "ChIJNSSr87vIBZERnsjBWxymotM",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4285492",
+ "internationalPhoneNumber": "+51 1 4285492",
+ "formattedAddress": "Perú, Av. Nicolás de Piérola 1635, Lima 15001",
+ "addressComponents": [
+  {
+   "longText": "Perú",
+   "languageCode": "it"
+  },
+  {
+   "longText": "1635",
+   "shortText": "1635",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Nicolás de Piérola",
+   "shortText": "Av. Nicolás de Piérola",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Barrios Altos",
+   "shortText": "Barrios Altos",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15001",
+   "shortText": "15001",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0567616,
+  "longitude": -77.0263883
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=15249933928958642334&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 163,
+ "displayName": {
+  "text": "AGROPEC SRL - CERCADO DE LIMA",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–13:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Perú, Av. Nicolás de Piérola 1635, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTmNDMWFiRkYyYW5Wc2RreGlTbWc0WlVwMVdtYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 4,
+   "text": {
+    "text": "También conocido como Farmascota, con buenos precios y descuento por primera compra....e enviaron de regalo un imán para refrigeradora.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "También conocido como Farmascota, con buenos precios y descuento por primera compra....e enviaron de regalo un imán para refrigeradora.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Antony Ochoa Flores",
+    "uri": "https://www.google.com/maps/contrib/113151262175901848678/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUqLnUbjzoVP7omaaURsXXW9NHP-M94F3aY35PHhwtNYNZsAH63w=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-02-10T00:00:25.042447678Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kTmNDMWFiRkYyYW5Wc2RreGlTbWc0WlVwMVdtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kTmNDMWFiRkYyYW5Wc2RreGlTbWc0WlVwMVdtYxAB!2m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMFQyaE5aMVpNTjA1R1MydHJRbVp0VG1oMFpWRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es un lugar confiable.buena atención y sobre todo buenos precios .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es un lugar confiable.buena atención y sobre todo buenos precios .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Javier Taipe Alfaro",
+    "uri": "https://www.google.com/maps/contrib/104229976166401072578/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_pY3NJJ1PB3aI2YRsG3GpZwgkCmfaAHwPHHQZ2MdLwAK0pA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-02T12:02:18.344684233Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOMFQyaE5aMVpNTjA1R1MydHJRbVp0VG1oMFpWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOMFQyaE5aMVpNTjA1R1MydHJRbVp0VG1oMFpWRRAB!2m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtcklpeXhRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Un centro comercial fabuloso hay cosas lindas vayan con disponibilidad de tiempo y buen ánimo precios justos para regalos adornar la cada renovar la vajilla de cocina del baño etc.etc.lugar seguro en Miraflores si van no se arrepentirán",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un centro comercial fabuloso hay cosas lindas vayan con disponibilidad de tiempo y buen ánimo precios justos para regalos adornar la cada renovar la vajilla de cocina del baño etc.etc.lugar seguro en Miraflores si van no se arrepentirán",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rosa Martinez",
+    "uri": "https://www.google.com/maps/contrib/114863078784632163808/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmU5q4r3cx05SlYecwWj-H3FM7BGejRNKtYr161qFDwQ2SVA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-10-28T22:33:53.022669Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMtcklpeXhRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtcklpeXhRRRAB!2m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcF9mUndRRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención, buenos precios. Encontré variedad para mis mascotas y productos de calidad 👍",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención, buenos precios. Encontré variedad para mis mascotas y productos de calidad 👍",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Flores Bravo",
+    "uri": "https://www.google.com/maps/contrib/117080943774123241730/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-0t4NFWjkdZfXZ64z6shOWO-eZZtBgD7meLy2jq4hvjCuXpxP=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-27T20:02:40.260835Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfcF9mUndRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcF9mUndRRRAB!2m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeEphWExREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Te brindan una buena atención y te responden tus dudas, también te asesoran si tienes algún problema relacionado con tu mascota.\nTienen medicinas, pastillas, gel, desparacitadores internos y extermos, comida y a precios cómodos; siempre voy a comprar y salgo contento con mi cosas 😁.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Te brindan una buena atención y te responden tus dudas, también te asesoran si tienes algún problema relacionado con tu mascota.\nTienen medicinas, pastillas, gel, desparacitadores internos y extermos, comida y a precios cómodos; siempre voy a comprar y salgo contento con mi cosas 😁.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Esnider Estela",
+    "uri": "https://www.google.com/maps/contrib/101284916878148428385/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgV352UrVPILL1G7alQYhC8y5lzv4fxv3HwljGXtaNHlYpyQI=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2023-06-21T01:16:38.333569Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKeEphWExREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKeEphWExREAE!2m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMYf5eCMKUdZRA7SAle_-WHCczrWVuVL0NL_b7JSjRRD27bXW8qeFO70nPaQHI7I2M-MFP6TxxpxJnZasDc7X9IUHlcZ73soToHxW2utvT6ak4-DZs5B_PaVHkBOW4s_B5Bog6dfRH65NKoGLNED3Kq7qYWylWBGY2hi8315RenGKbAdPKPtFNnH_EkJcvZeHmRCfF2cL--Ulz5exadmhtXWqF590IIwU_HAWau0LrwKWPuMjpjkhxlH5tnW94Lgp9MRosdjaXCG1w0t7rHD9DaQ-642YAx-hwwXhvv8ZCpGoQy1FYJde-_1_m_eytOyLWoh_iK5ApZFIrFwOALHz_ch0JsFO1of6TT1Rlr4OkSbU_Rpmc_PisNNBn0mHgAGcArBJZMpxt7VWJilXa64y3SraZQcRapUmSqdeuonFp1hug",
+   "widthPx": 3264,
+   "heightPx": 1836,
+   "authorAttributions": [
+    {
+     "displayName": "Lucho Lopez",
+     "uri": "https://maps.google.com/maps/contrib/108304270662967891248",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsv8B_DCe7LhBQ5l4RBYngA-KTYm4E9WY8FNYoDmTEWYapa5gt=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID41O-UVQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID41O-UVQ!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMasjK6ao7fbuBMvxiaRAmziLrTv02Fk6cEB-qq0acwwYOEnkH4SdeJi42p4hULwPtgUWBNf47UGkjJMbn5NlpCdoF3hiOVOT9TN6UJ-T8P2llT1AVBzmAzh3Bjw2amiiPoNih-t5gIrOT-h1H9z1S95NzwvgzYs2GdhUfX0ZDHOGrqp_xa89i96CXb0w0Ij7MXjf8gOnoZR9acxCeIOgKPQwRfhWTR4J4GHdvIUPwC5ej2e1wccawn-FsKwwElLWludPsLDuDQGSsNbTRa4CuuDVghLvyF0HsEnG4XVEFDNlwzre9n2rm1yJmYTm4W0x0VtzcaHtwhbYtKf2c0MhkZpsI5_UZUezE_OmIQ0CHpK9CGkbYCtR5rDy1DSf0o24P9gu5Q9Z7iiJmeLRqlbWPEkRk0mY0T0B0FpYxSOtq5xbg",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Kenya Lv",
+     "uri": "https://maps.google.com/maps/contrib/110246278202491275317",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtqLKY-AKMyptPuDOSwNkB0B24yKv2EsWgc6JKmr1aYj8_dYEEmQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-6v3aA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-6v3aA!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMbbARCKDj_4oVHLrpo5IX5XIOdFjNslS9csMcRjCnHZ-HtCGatIp_kFGmtNoE15c4S4WAZslYE9vN1eutxhAJEERcTqEKwxSoFnd2kSnTM2NsWFUwihew46JOKSge9pbCjmsq20zXK3DZX2s36D1vONCucifXB_dqUCEN1sJqEGdh5Q5zQBnvwptNUhYYFGExZBk-aZz-Adlk-O60A7LA4efeD07F8pSJG1EmlvwtsfTaM6a0dWoG4oN_ZaRtY0WTKJuc_wFLFPwXWrsWFEmtHjoUon5cngn1Jwh_9A27rBXMY_e2gJK3v1y9Y1KKRntF7Bq5pCjaRAsUf0BvA0uu5Srt939rYZnWo3a-2krUZ4xHYHJpHe7ztWXltEzI4gpI_WPWLo1f2pLWK6E32KIiAmFNOJloDbbZytLknGSzw",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "C Venegas",
+     "uri": "https://maps.google.com/maps/contrib/106304932376154242489",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn2iNejkGvrorBkfGXv_XLR-b311V0lJOSVX5GV3mmsTsRe8xv=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDCwsvrJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDCwsvrJA!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMZ77OHJrQ71gp8fK-gsrMWqaJXFZ3f1FnsW5Y2llcI9AMaiGZzO8qp08Al0bmeXP96iDXtSHZUxNkVTk9lYpQcxnxV4uIF1uRi_p6S3sib9mk9HDPP2OUUd8gUICkLasPhtkwAps47jowJnjnMuGN_ndrMUBOzjJ7mOv0A0xpPJ2b2PqmiCwMvmz9-1VuPs-VZSG2rDaCzyu46NGiGrlXMDUyF2xDi8wJK1wrHfYRSnghGLuqJcBUMJ5Y8qfmnNNftzawunHmiyMbxrhfRCcFyVtz8MRcVVu6MAxk0XhcEsrSTa8asnozX4GHeVq9F5cfovpGH3fgRNadLGC2HQtQKyKAdcDJ6Wneo0HAXKiBv5PELLykECQPNQhj9qFc1NnCwU9l7D9oZnnvbNzizA0DbIhJoAdv8Lb5rw3lz3Qbln8xPW",
+   "widthPx": 2593,
+   "heightPx": 3959,
+   "authorAttributions": [
+    {
+     "displayName": "Denisse Blanco",
+     "uri": "https://maps.google.com/maps/contrib/113053766908536410780",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSr-PCt-pEdwuNdJIbdnVt6SvaTVl4CKJpqwvGdVSFTrrfMNne=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC-is_B8AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC-is_B8AE!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMaMIyvGNxY6XgGLhh9scWcckwlM4pjjd-gt9QeT1Xq3uoWK2zkyhP9tFoHwWNs8jkZsit1APPjRRr4CNcerbydvMUr5HCLkFS0aZD1jAoDXKeXeLTdyw7o0BL4Ty46Js00PUMLfN0hQWbig-YFoSocQapR0_I_k9k7ybu3peAPhSRd7NCiLjiL_V1B6RsCPh-LI1hBjRVXMtFFw_c6ZB1VZx4cSeC0UbOBqwX9Mhk2ym3ujZQd6y6an5f55n1DyNFaGzR8lv1FnNDX-3_VISp5sFz34F2aD51VQxv-4e2A6-4Tk1yZwjBzNUll85oY42pQYI96YtoVCZ27lAe0IWcW7bpC_tHnMW1T6NKPTlaR8SHSsa-c8_OfICJbDKcen3T43j0w6SbAkdo6XBcznMUUv_BzPAgUWtVSxAktku9uqZeq-",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Kenya Lv",
+     "uri": "https://maps.google.com/maps/contrib/110246278202491275317",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtqLKY-AKMyptPuDOSwNkB0B24yKv2EsWgc6JKmr1aYj8_dYEEmQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-8vdowE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-8vdowE!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMY4PQ3ytKhpER6dl1T0oVga_Fn_HIC4y3e3qfWudKyfjb26OgwFl-yumJTEXP5OAODgDp5fIF43FcJHY89495T7tau3Xj0zaLxwgX-zVwp2QWKyM6-x82SI2WlpqSf9JvJqbHd_GGHgWHwvT4bhb5mfaPXL5z4nEIzCPAori0T663wapaZamEEXD-5lFmDd0b8jPMMETcT6xdbd1qyDSwBEnwYEw4CdgWS9KUlMihl4yKjJZ6eq_6YG6_eJq2-a4WtnhEOu6M7ND53tSW0MfDibEHhEzFRpQnScvWG5qPLeMF-ffjMgpx2qqp5ur1E_sWb-ZaiVD8Al7kqsLJMCbgNbduBC7BLnQfuH7FhBYYJFBHkJv-yAG9HtOeQXjBUO9pjbeEH34SzqJDPqbdj69FJugna2J2xn9XhNpTz326HcqXk",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Kenya Lv",
+     "uri": "https://maps.google.com/maps/contrib/110246278202491275317",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtqLKY-AKMyptPuDOSwNkB0B24yKv2EsWgc6JKmr1aYj8_dYEEmQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-5uq8AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-5uq8AE!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMZwU2sOEnjdpbgjo9z0pPCRMj_E6a7DWajrGh8ymqmZ8TvhRcuwc-AwR0mgQcdYvYWIYrc3AhRbFRrpXcufg3BBnKdkThcrmfrgZK6Xge8WyQpzl7FHNQIYfXv8EMb0W1RHU96gN4MGmesQfrlBxB-OjnscmZR7JQzlzgvzkTVrbMFipExzK7POlAtZFrWwImfRtn5E8QJ8Pj9-m6z0L1m3cmaSZwEGf4LdN-OX5WkfVsNIA2BTAkuRvnI8JvKT-n3MCBbYqBlbVK8pbvHC1Gui4n3KxiRNs7T_9hgLevSbGphEOinRILMPwRW3Tycqp2mhaVGYk6cjYI8___AcH2b1L-9VMMSbmb4VT25tI5H2yjYanRWon6QJSXT-sY98CDF2mHHnWJQ2umXYjSfSgIWBFB-tFcChrzReqDLx9ROjOw",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Anthuane Bendezu",
+     "uri": "https://maps.google.com/maps/contrib/105302195592544610946",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc2aQNy1n4MjAI7pDA2oVBR152pQyjEmDGgK9IJx5hfVF1QZrY=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK4r_PRw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK4r_PRw!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMaImeXXNQys1zA0OdnZpd2cMJjqt0_EpTEUrrQLhP75FlX0kJ_XcJggCM0yyIMML68UtlG7Qdgf3SfROb9qh0sVMECsbLMr3rSGqSBCNIUAcP8fP7J2dR3-jG0yraI3Z39-I_uclQ8MyuMzxvWHBHmGKwdN_-9k8jPg9N7KIuCdq08a8ws3KVJqtxiZ0RzRvwPuvON4snLMHBkuPAwGNWRRUUshDHZ3RqgFJ0ugSh5D76plACOBMe3-6tEiHkJm89uFp4Qgf-9ePpLmZxA-PD07DEnqltDleWdZKneD2-7J2Gqk7Yn48hqVeA9rK1sWNauzGZzKKxvI_kYQbTb9YxC3dRd2NNUPlsmy_Ko8ZsK2B81H6N0k-iOUaC49kwChQGn7AVIZQyJtPMMIy8BBDlkZ-valCGBhtHZE1aT8QcX0i34",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Kenya Lv",
+     "uri": "https://maps.google.com/maps/contrib/110246278202491275317",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtqLKY-AKMyptPuDOSwNkB0B24yKv2EsWgc6JKmr1aYj8_dYEEmQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-_P_oAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-_P_oAE!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMYRBjosX-je-jo4WudlLdwFrK3Q9_iGEW0V4BJJlL5t8ggsBKtZMd2-FppUQegupLCrLwE07fyf5UTLRT3zUydBQ_g4yD7pJdB47J4khBrEfI_femT5jznX6RN7oGY_3VAOX5jnnB2XMRrZaMu4oPIn0Z2FtZ6m2TF_L5oq3NRqml5gNKmA_x8Ut54P_DlA9TPjI4Y6yzYWReltrNEsEWxi65nrh9BKaa-B4QbL9ogUdtEjcJNBhIMaDBSB1AP0BxDXx2ooVsA8YMPGQetyiORdwjDvUmWPaWF-s6bqEcn0U-6yWPtae48aixg3O9YMcf7yor7ESzWdSgOh_K8hjlLHhxb4wydlMS4OeP2nBuknzbNuVeNaV5LsMXZgMjxWtwvZLM52K13ADFChBzAnnEbyVC3H7JaPmjP7dPo64IAaeg",
+   "widthPx": 1800,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Denisse Blanco",
+     "uri": "https://maps.google.com/maps/contrib/113053766908536410780",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSr-PCt-pEdwuNdJIbdnVt6SvaTVl4CKJpqwvGdVSFTrrfMNne=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDewqb8Dg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDewqb8Dg!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  },
+  {
+   "name": "places/ChIJNSSr87vIBZERnsjBWxymotM/photos/Aa-ngMZuXvO0EenG_CAiraFEkqfQBqVfgJDlPo1t8GeK7cgRsignV-CWoGepFlqeIwIolyyC2AeXDPY9ONEmqmPBeqJB4e-IO5ZFOzjejA5ekSUrAtOvIt8K2Un0R8mBVHh08N0C-pwmpqKJC47vf3fle7h6-R66VL-GlGTu3Ca6wOp68Fe9PweavYt9tM7V8QpYgVCYJ7fFcEa9wZMDBdxQXKbX_HXxePejzPI7vUxBF96DAoX8DMdw-0HDt6UErh2IzbK_2xrTMl7lTi200seM_Vz_TEjxpnonLegroDBNZhvKBXnEsnALS4UuCXrqRywNx65qPz4bAxGWIiJ6diSe3FY6HHv9Sxau79nGYYq6X_gh6xRKa0Xb8rYPGfUjnFbHu2kN9MvoYKVvwNrLTbCL2CycncYiAJd-0kUue4M9hoHVA8rK",
+   "widthPx": 1920,
+   "heightPx": 1440,
+   "authorAttributions": [
+    {
+     "displayName": "Denisse Blanco",
+     "uri": "https://maps.google.com/maps/contrib/113053766908536410780",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSr-PCt-pEdwuNdJIbdnVt6SvaTVl4CKJpqwvGdVSFTrrfMNne=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzgKuMpgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzgKuMpgE!2e10!4m2!3m1!1s0x9105c8bbf3ab2435:0xd3a2a61c5bc1c89e"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": true,
+  "wheelchairAccessibleEntrance": true
+ }
+}

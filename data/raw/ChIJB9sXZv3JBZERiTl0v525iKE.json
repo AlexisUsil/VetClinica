@@ -1,0 +1,514 @@
+{
+ "id": "ChIJB9sXZv3JBZERiTl0v525iKE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "932 883 783",
+ "internationalPhoneNumber": "+51 932 883 783",
+ "formattedAddress": "Av. Ricardo Palma 156, Surquillo 15047",
+ "addressComponents": [
+  {
+   "longText": "156",
+   "shortText": "156",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Ricardo Palma",
+   "shortText": "Av. Ricardo Palma",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15047",
+   "shortText": "15047",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.119017699999999,
+  "longitude": -77.02503449999999
+ },
+ "rating": 4.6,
+ "googleMapsUri": "https://maps.google.com/?cid=11639757324112116105&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://convet.com.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 102,
+ "displayName": {
+  "text": "Convet - Ricardo Palma Surquillo",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Ricardo Palma 156, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ORVZXNUZWMUl5ZUZCV2VFZElVMFJJUVVkb09HYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Siempre tienen una buena disposición para atender por WhatsApp y en persona super amables.\n\nExcelente atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre tienen una buena disposición para atender por WhatsApp y en persona super amables.\n\nExcelente atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Teresa Sarmiento Zavala",
+    "uri": "https://www.google.com/maps/contrib/101129081409406442207/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsAR3cM2tfn5GQjFjOQB5HVtT_YBM_t2-uEQ-kXJT7L3-_rEjF=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-06-13T19:08:55.648515007Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ORVZXNUZWMUl5ZUZCV2VFZElVMFJJUVVkb09HYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ORVZXNUZWMUl5ZUZCV2VFZElVMFJJUVVkb09HYxAB!2m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBOUtxNlZ3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente lugar para tus compras, tiene estacionamiento propio, y siempre que hemos venido nos dan algún obsequio por lo que compramos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente lugar para tus compras, tiene estacionamiento propio, y siempre que hemos venido nos dan algún obsequio por lo que compramos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "F Mata",
+    "uri": "https://www.google.com/maps/contrib/108925222691088415402/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIL4RR4CVXBARg0iy0RrCjI9k1beEBY9f2Wem-zi4VrNpX4Tw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-01-29T22:57:05.495888Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBOUtxNlZ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBOUtxNlZ3EAE!2m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RWJYWTFPRGM0VGtKRVJsQk1TVkJwUzNOc2VWRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Fácil de llegar, aunque solo atendían por una puerta, no por la otra calle",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fácil de llegar, aunque solo atendían por una puerta, no por la otra calle",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Chelsea E. CASTRO SANTILLAN",
+    "uri": "https://www.google.com/maps/contrib/112631932802975183747/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWR0llx_h6dzxY3FqCrzcwKN8x1ACuEjEWWoXRBGn-xLB_Avo=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-06-11T05:33:34.407897349Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205RWJYWTFPRGM0VGtKRVJsQk1TVkJwUzNOc2VWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205RWJYWTFPRGM0VGtKRVJsQk1TVkJwUzNOc2VWRRAB!2m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeE1FeEJXbXBrWTFWVmJrcFpPQzE1VTBWaVdtYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Encuentro siempre lo que necesito, buenos precios y amabilidad al atender al cliente",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Encuentro siempre lo que necesito, buenos precios y amabilidad al atender al cliente",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jazmin Arroyo",
+    "uri": "https://www.google.com/maps/contrib/113903347767797482582/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBL_xNiuoHEvRFNRWGIB8HkZp_rWtKfmLEyRlSmF1ROb4r1F6sAA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-03-06T17:09:07.856105794Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeE1FeEJXbXBrWTFWVmJrcFpPQzE1VTBWaVdtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeE1FeEJXbXBrWTFWVmJrcFpPQzE1VTBWaVdtYxAB!2m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JNGFsOWxhVGd4Tm01SWFWUTBObFpJV1U1b2FFRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "No responden el WhatsApp, no te dan información sobre tus consultas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No responden el WhatsApp, no te dan información sobre tus consultas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karinna Chávez",
+    "uri": "https://www.google.com/maps/contrib/109644212005500356740/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9cwd2RCgYTFvqH6vRmvB9ryJsbnGQM1DGwJOyxIk7o2TV2bR7fA=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-08-03T21:30:05.922253259Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JNGFsOWxhVGd4Tm01SWFWUTBObFpJV1U1b2FFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JNGFsOWxhVGd4Tm01SWFWUTBObFpJV1U1b2FFRRAB!2m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/photos/Aa-ngMZ2C3gUQUtiHuhMLOOCAyuhCjfcj0jFTEpC0SSQQ1DbmOc3CggZQTAMjBFShESwM-I05dcWlcV79o6i4TnIBN27t816R2nzprUUQEKIEXhQFdFHl--6zPd_71CtL2sRYyP4DGw8W_45o32s2hrNUjNH6mVxmNwk47mhpVmTyC9RTTfCyUG0QH7SIyLMpBhVwTv7lGWk9rKZ4p5ZSfybVJHZsqknPVlrKF454bClSmpzrTVeOX3oKQ-mQN2XtvO9xjGT1pIFM0IzSfya-IUVn297ajYFSnjFaStAgy9ZdgWblKc2sucFd0lAcBU5U6AiMgkEBXwa775vawExiIfr9m1zasG8Obi1mwvxDAYNSgAoZZAPvbv31kAn_mhTEWec4FHELWQ5YyUp-t4msH2-SEoR__w",
+   "widthPx": 1280,
+   "heightPx": 853,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/115659427917216708587",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUj0A7z6q_R0O0ns-_mYj5UMkrrNnDc4wimLk7CqPOoQHf0zxI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq3Nr7ew&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq3Nr7ew!2e10!4m2!3m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/photos/Aa-ngMbukoqKG1_GIC4IfPbzrkQoyL76b-UWpO6T4WSn0o5rbyop4lf1D2DmhzsZVgNFXJdGg7aW9HDzamO-cVyNf1Qpt1NCpgfxpqKk0mFJGSjFEz3Yst8f7x7rJLrSfNmaxj9FE3kEQ6_7rJCddL-b8qptMN1PJj8vOUExvIvoXm8WZbj1czdfdesrjjP9RrFWLPhixN4IpNdAAQCp-Ila7I3qBqrlu-lFfwUXoTS2CKhCJ-A9U_nNrmhkDezFVWVw--vbHSgFWkvtS8-JtGKNLBKYQMpa5fD1WUquSikQ35o_ifkQQblh_3Be3bfpMOH8OB9yLjsYM11BPM-sn7lSAvqtW_VYmCVLqHbkSA6eHMfTrp23reG8ZKa6qfVG2SbF61Y4rv3vKh578r0N9zlRDLB2Qv2V2SI",
+   "widthPx": 1280,
+   "heightPx": 853,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/115659427917216708587",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUj0A7z6q_R0O0ns-_mYj5UMkrrNnDc4wimLk7CqPOoQHf0zxI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDK_oj4_wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDK_oj4_wE!2e10!4m2!3m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/photos/Aa-ngMbJhHNLxh-MNgUR-paUxNDxRAKEk7KooHp8pjXoNAXCKFkdi7LYwWQBvLBQ72SYZmg18cUC0h8ImmEs0Ueisry46TijbroBOMeaKK6MPIMgyG-p942H2ID5hpHAHn2-12NMRd9wJlHU0Sp6nyOMXXEkXuEfGcVEMNayrXVwKhsVamode0UZjp-KtLq6JpwHabq9Y7Tgv0Qci2luqoNo5_ITosFgAF_aFmzmm8HoMtVosUTp3n_zr-OFkFjnZn9bB0CyFzm4JGsA0_NDH5I0YvAZDzFzpcmONeYc3qP_Z7Ri3p09hYNfeZ8IuVuPNqn6u0Yjh6aho2T5MdTJyaUxnRkemCD7ZiGGil1vJvdysTAxJSGkn9k_jvEvA4Vzz-UOXi_O2jccmQWdqsfaN859GcfGF1TdeuE",
+   "widthPx": 1280,
+   "heightPx": 853,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Miraflores",
+     "uri": "https://maps.google.com/maps/contrib/115659427917216708587",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUj0A7z6q_R0O0ns-_mYj5UMkrrNnDc4wimLk7CqPOoQHf0zxI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq3Nr7uwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq3Nr7uwE!2e10!4m2!3m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/photos/Aa-ngMb57CsExyo8aaOi2Z1QL4iqz8IQK29W-jMZONv_8LIhWT-V3u7FN0j5iwHBbn_3hFpxRfosRZkXf8zuoAM35FWJJ7QVCYKhC141BHKDutgFS9TkhIAwNAnrtrAjVynZ4BIQGVXfFdTqhXif4t2lADINyHZPn4_BnE_EE20HvCvRqk5vy4F_I0L4GfOdRUOcEFPnRxmBuXFjdNmSLdzDqAOHnQtNFMOX3I9gC_JtnM7ZnLx6b5zTYM0oH4d8H7t5ViwiXZRyJNC5TJCPk8TaH37KXfmVBHrPIOFGO2yH71OjpMSftPNxW5Rt8jssfQHw5YLB94lRjlbaeliNIktF49Hbx_32XVgcr5OUGzOkYrf23o4bkCPsHBK6-HRGgjzkOeVyjp0EAVHBW0ejhTEjUr56mF4",
+   "widthPx": 1184,
+   "heightPx": 2560,
+   "authorAttributions": [
+    {
+     "displayName": "Alberto Rodriguez",
+     "uri": "https://maps.google.com/maps/contrib/113793809259911351705",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJW7z6lPsEfrrlFX49g228UAAHZ8dm_obF3idywi0K4JvbIBQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDptPnEYA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDptPnEYA!2e10!4m2!3m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  },
+  {
+   "name": "places/ChIJB9sXZv3JBZERiTl0v525iKE/photos/Aa-ngMbuZO7JszYRa-7IXlNxWrEhx5uIR9sUNp6uEd5kIZEPjyVbzp3EBvPN8_zSh0rrFAyDKlqg_lNKPejdzbjDFMY6QMYPRLb0jHRIkyIMsqWqth1SySmZbVNnFQ7IFwlZUQRCsw-XG1bWmePKyI1SSAgu6JbW0USQu10BIy8tF5lJy8rBgyRAbpXSt-OTrbtos6meCWvGt_ANJwjXY8bLaY0uOzvk7h8wke6uVzuQg1sAMZ9aozX-l-DJShQ7UUOfxQEsD3iWkNxSmroSRvWxyBSQ69rgwSExEE8JNammqm1e5PPDdG85iLpsjcPnZ7qpnxdh5TMkh5CWEQuxoXtGlsGfgcgliONGumAIZJ2Vhm58Vj1dTvXzMAV4P6IHZP6dTA_ASTC9ltEcI3VYoQg23POF1H_m",
+   "widthPx": 1440,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "F Mata",
+     "uri": "https://maps.google.com/maps/contrib/108925222691088415402",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIL4RR4CVXBARg0iy0RrCjI9k1beEBY9f2Wem-zi4VrNpX4Tw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMCA9Kq6twE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMCA9Kq6twE!2e10!4m2!3m1!1s0x9105c9fd6617db07:0xa188b99dbf743989"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true
+ }
+}

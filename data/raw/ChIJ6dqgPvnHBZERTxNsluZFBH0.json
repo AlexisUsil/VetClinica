@@ -1,0 +1,578 @@
+{
+ "id": "ChIJ6dqgPvnHBZERTxNsluZFBH0",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "923 509 001",
+ "internationalPhoneNumber": "+51 923 509 001",
+ "formattedAddress": "Av. Tomás Marsano 2541, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "2541",
+   "shortText": "2541",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Tomás Marsano",
+   "shortText": "Av. Tomás Marsano",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1250112,
+  "longitude": -77.0034506
+ },
+ "rating": 3.9,
+ "googleMapsUri": "https://maps.google.com/?cid=9008402011316294479&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.reflexvet.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 59,
+ "displayName": {
+  "text": "ReflexVet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Tomás Marsano 2541, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOVFJ6Vk5iREZrTVhsc1pVaHpTVEk1WTFsSlRFRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi gata  para un problema de tumores mamarios y la atendieron la Dra. Tessy Tsumura. Mi gatita se está recuperando pero desde el minuto cero y después de llevarla a varias veterinarias, por fin encontré el lugar perfecto. Gracias a Reflex Vet por salvar a mi gatita.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi gata  para un problema de tumores mamarios y la atendieron la Dra. Tessy Tsumura. Mi gatita se está recuperando pero desde el minuto cero y después de llevarla a varias veterinarias, por fin encontré el lugar perfecto. Gracias a Reflex Vet por salvar a mi gatita.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Florentino Flores",
+    "uri": "https://www.google.com/maps/contrib/115280514055569740567/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHRItzE3Va0rAzzZroAGhwredDKxVVhyzN8S5o85hpETl_Yg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-09T17:46:30.053454871Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOVFJ6Vk5iREZrTVhsc1pVaHpTVEk1WTFsSlRFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOVFJ6Vk5iREZrTVhsc1pVaHpTVEk1WTFsSlRFRRAB!2m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psalMyYzBMVEoyWVd0NGNHMUNSMVpKV25GbE5FRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena veterinaria, siempre llevo a mis gatitos para su control veterinario ya que están viejitos y siempre los trata excelente, precios competentes, buen personal y local limpio, sin duda lo recomiendo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena veterinaria, siempre llevo a mis gatitos para su control veterinario ya que están viejitos y siempre los trata excelente, precios competentes, buen personal y local limpio, sin duda lo recomiendo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jacek Bustinza",
+    "uri": "https://www.google.com/maps/contrib/104793022815774695864/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIOFlIiEuIR8GpGocnsq7lmLXzWURRWqSsNKUGsMuwHTUa8p0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-09T19:48:34.496494647Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psalMyYzBMVEoyWVd0NGNHMUNSMVpKV25GbE5FRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psalMyYzBMVEoyWVd0NGNHMUNSMVpKV25GbE5FRRAB!2m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUVgydE9PVGRwU1ZkdWIxY3lOekJuY0ZwUmFYYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Lleve a mi perrita por un problema oídos y la examinaron muy bien, excelente atención por parte de todos y en especial de la doctora Ann.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lleve a mi perrita por un problema oídos y la examinaron muy bien, excelente atención por parte de todos y en especial de la doctora Ann.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexander Palomino Medina",
+    "uri": "https://www.google.com/maps/contrib/118353578922894932248/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLH3KwXorwDCceJ2XZx5raKsU4ZsqEO9ZViItDKvimhh36ZIA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-09T17:52:58.937860619Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUVgydE9PVGRwU1ZkdWIxY3lOekJuY0ZwUmFYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUVgydE9PVGRwU1ZkdWIxY3lOekJuY0ZwUmFYYxAB!2m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/reviews/ChdDSUhNMG9nS0VQbV9rNkd4Z2Vhb3l3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Quería atender a mi gallina de 8 meses ahí, con un especialista en traumatología porque su pata tiene osteolisis y me doy con la sorpresa que los pagos son por adelantado,  no hay problema con eso, el problema es que, me dicen que primero debo pagar los 250 soles que cuesta la consulta con un \"traumatologo\" y luego ellos recién me podrían pasar la información de que médicos en esa especialidad tienen, me parece una total ESTAFA está veterinaria, porque en ningún lado respecto al sector salud ocultan la información de los médicos a atender, porque uno, como prospecto de cliente tiene el DERECHO de elegir al especialista que atenderá a tu mascota dado que pagas por un servicio, y como es obvio, si estos no cumplen con las espectativas no consumes el servicio.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Quería atender a mi gallina de 8 meses ahí, con un especialista en traumatología porque su pata tiene osteolisis y me doy con la sorpresa que los pagos son por adelantado,  no hay problema con eso, el problema es que, me dicen que primero debo pagar los 250 soles que cuesta la consulta con un \"traumatologo\" y luego ellos recién me podrían pasar la información de que médicos en esa especialidad tienen, me parece una total ESTAFA está veterinaria, porque en ningún lado respecto al sector salud ocultan la información de los médicos a atender, porque uno, como prospecto de cliente tiene el DERECHO de elegir al especialista que atenderá a tu mascota dado que pagas por un servicio, y como es obvio, si estos no cumplen con las espectativas no consumes el servicio.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "romy segovia",
+    "uri": "https://www.google.com/maps/contrib/102017612920890409267/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQqeEDL0p_Zbwkmli9oV5WeRUhVB4xLN9NyRVtewaHzNQUO3VB=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-06-06T19:38:45.202898Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VQbV9rNkd4Z2Vhb3l3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQbV9rNkd4Z2Vhb3l3RRAB!2m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoc2NMTzVRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente veterinaria. La doctora Ann es lo máximo. El amor que tiene por los animales es indescriptible. Y su equipo de médicos es el mejor. Es la veterinaria tiene todos los equipos, no como otras que te mandan de un lugar a otro para sacar una placa o lo que sea. 100% agradecida con sus servicios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente veterinaria. La doctora Ann es lo máximo. El amor que tiene por los animales es indescriptible. Y su equipo de médicos es el mejor. Es la veterinaria tiene todos los equipos, no como otras que te mandan de un lugar a otro para sacar una placa o lo que sea. 100% agradecida con sus servicios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jhoana Ortega Martínez",
+    "uri": "https://www.google.com/maps/contrib/106220243615885771135/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQU7E1jlIWmpS27KM3aqwNAk1bQ_mk7ppoZ46W8nB3bieb0NlNdw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-02-15T15:35:51.532539Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoc2NMTzVRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoc2NMTzVRRRAB!2m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMY7759HH7pzTfaf2NBJeZXYh7v3QKQ2XHAFeDkChYtb-jLT-_qIOdRuitXiq4lTUYHPPVsejOvYPNmXNwaSnD6titghZAZ4YA0A_XKH3wdRXUDmcdl4-iTTcqlMciP9tKSMvXIGdFfIUeqwWxyt2RcFBl5g9R4rOi8oPwyMaoTHN7-E_4gplQixYBfX0KSWdqqtXXNMxAST01uaj4c00r1dlbuml2y9b9djMUmUjlYlu8gzMHyYb35xIWrxh_o0g42q_Hf2xbK33z8BKe4nmaXIgsg4pTyN0IVAsOFgpjKrmRfiCs_K4pJZRQDqNAwubQ9oJVOZnyWtYjOXTcjavWJO2yr9cTbUTZm8h5pfV75ioclRYVE4jkslaNQyfXdfXaizoytJUAb5BpWtqpjbwjVu1VxThnHOaQaO1lb2kitKpg",
+   "widthPx": 2208,
+   "heightPx": 2944,
+   "authorAttributions": [
+    {
+     "displayName": "Alexis Calderon Hernandez",
+     "uri": "https://maps.google.com/maps/contrib/117254524670696954651",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6WnmgS81L0axvJFRVOipJX1ZYwlkmrWJr8JmLhVNz0TMQrQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDyqIL1Zg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyqIL1Zg!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMbPf07itoISt1G8AunJW3CFWX9WJ3CNrsO4BFLgwItTpXeq_2LvpQ2i0_AqxohZguuxYaDac5YWbyjERX0-Rie9b3wb15TUGtovxe8ayVzZTZpnipLeQmp4rCKrd4DmMMKQJoJ7XGIiF8uhj5rEgYAOKDiMySQHBSVMP_m-xz1neRzL9Gpan94bjYV0bhRaJqBCytHgr_S2Tv-TQvcJUuVPunY7gt1z6uUfq0wODeI77Zz4xIq2m5zLG5b6V7kf8QEaxD_49QPRR4vbdTz689qbeJ6kJkhheM8c6jStZV1QeKVs26JHtiGehVeRkmmuXjiROzh3dodtiQISr3vO7a4saTWncjK_izNJ5pXvPpw3W69naaRaQk21EfMzS2r3tjRgCC3IjWuemzngCpgPkEVJBQLLP_7SbyXoXJZUaYpWCHngthFqhomZePr85Q",
+   "widthPx": 1080,
+   "heightPx": 1350,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhALgMLUZ5RJbLFIUXlcvUDz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhALgMLUZ5RJbLFIUXlcvUDz!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMZjeEhJW-RR5fRfM5RU-BQlw6QUihK50UFjXZ0rhZC4A9a3FN30XjGJq9RX0is6P5VD32Udy9YXsTzCmBJ4R9y-w4PQesKeMB6SqyA0uisag5MUDoWDWmPDVzYUKrmkwoFTMqhLoG5u3b6OKJEdJtQl6TSsOb88uh6rD3Sv5WSa2UXfd6jMqZVcOoF5c2CYCmRCa_LPDmH721TsP3IcPdG7CSa2QeZ4pvrYDUIe1Pf08-1ovnopEV3mIbqYWHK0M5ZqKaBcN6k81E2abfYURwv22kGyO7WyD4yRUEA8E6hSALvUJk4Wv60R1XRRv65DKnw3HTN9m06MKxovquF_Ggi1FmU8af9ZhKtOAk3XQzcakF34K0EgqMI6Is2jow0T6WQHawtBVs-WuIxmFjMBBGTVe1eZqDggDvT4CR5LKJY59TMI2iyxoO7bvDugFN_X",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCfyoSheHZ7mJ92yLb4xp9_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCfyoSheHZ7mJ92yLb4xp9_!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMadOnwx4BoYynvTbmZiwb--Gpm_HUDq0g-dFj1zrqIfC7lxaDRbsbtYxWN5SWq005FtDASwHooIJb3O72LmS3bXl2RH29S3mAj8nia0HV1g59VJkYYapkgdyjxTmoEwq_4qtHeKmLxirqByxvV689fMYhcgtaIG4LZRPHnOrghbG5Um_z_PU9rS-4e6I7n1TJo98OUujPqAg42JU0_ErnQe7rSzXObeNKTKhUokUazCS7hl5c61u2aB_SaaZJUle7dJ2iKf6680IWjvoDIldMpYaLUvfAXx0vrbStoUJAx-LZxtwvcJsTNurL7TOMr7e2Qa_e9K7LL1__Q03pKFsUuiD4EzLPX7RElcDGJj-XRhhcrWnnXbOe2YTyoSlXLTRkTWK9U3VCxBvt2BPr_zYLlJBj1wA4AtwDG6yFX9svEsZ33IXULUtlSVioIIHA6u",
+   "widthPx": 1080,
+   "heightPx": 1350,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA8bI2gI4bvkMjWB8IBPlUo&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA8bI2gI4bvkMjWB8IBPlUo!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMbBEXZpjp5h4xrBZZiwUYF7mK92wnAEWa-nlwmZ1TsMF8yEEuOVN08cj97MoV6wo6zFXPMywMwGMUDZHtXfDcDnVc-owVdSypOcZVSA7IMAUt64Y-pah2W2e2WQ5SroHMMKU4dbGTHpouo9sjI0nuOj4NzZA0CR_7qinB5uiQmCPutkhqfW0YlUgWrboP4i8GvlwkhntchrYCUIaV_1bTlNbQnB714pSzGZElEraR5Hg5KYIdftfxNE7uci2YiswB7h_Q889surh-XxS_Dt0HaoN8ZQUpEdbjUFLb5oYwNIF0l2OaSXVgYiS4f_bppQAjsaq3T_fxBR2RimyyCo1n6lIgx7SyHG77-Rdu6_5LMA8E99xa7UHQIwHTCWqW8sGj8-_qSwN39d8Wv1mrDm_Rn7Y76bwYiwItNSM8PGi61vegmFOCJUDqiItPKNDKTg",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBOMz_MxcwcewEibQL1A5uy&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBOMz_MxcwcewEibQL1A5uy!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMa23pn7K-LfzGXwnkSnClFqFtDUxXrqE3HzQVYricsRGX0S7saI8VaDj2RpJ0VmfRarhQwUM1y3eZ_pbG60SIpcYJ9k7fV2MiEjMEh3n-1q2PmEviGl-CO2cK2Ewsxkbi_U2G_CilQ8UrbmrrukJVrn4RFGUH1c5exr1kfG-DNW2In5i-Lt2UScR6Z3XG1lFfsZC4TJg0J5Fet51EsZ0ItpmPvgs5Vc9u0MuU_N9VgF620flXNQyD8T-694iXgfKtU90IVnUlwfwNQNBG_9kg2u9eMr9kbo54FgFHGvwvXN3SwZFKD1l4uQtBh7yigF3Aegv66N-M-jV5hZL00RoNye9QjwHhLKV1m-6jnhTgCsKkBsES8W2cdkMfiisKF33HzCwVXcX0nhBdmaj0BR6AfGBUgwFXy_nazHiAabeCUuAAEUFv7i3PsofeQFVKwS",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBGK4mVKp1loFFUq9-uM52Q&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBGK4mVKp1loFFUq9-uM52Q!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMZFHu2Hsucqm3XIlfLu1os5O6XpbTToV4EX7OFIZLMsTtUjHbB5GOcoBgBIurW-h64-QcD2o36oo9jmOadzRjLz9nhS6CuDOoSpbPVE4sMeBOJAApY_PPOVaTmr54V3M5OZkdaNjFWK-UdcOTuEBQhy2jX-9RORwJ-oyz0ZpYqUd1d1UWiOsfhENW2iQBvi_0BvbMOScYnXTe5sDmR4H2eAOouo9j6n5LkFOhs9hixJAT7jcZ4iBxx2_J6BCwF2G-lB_qmVaDAVAmOsJplYAI47C5AGHaz96tfSr2BPCAevSzaYjO7646zldrJDWQwT3-dm6eiuMCfzZojJU26l-4MkAQoeHbA2wxOL3HCc-DlQ5PTfvkYCubQfJEKKGZjHuK_5ge30HWqntDhib83LBNDI42SNRN1fExWiCKr5hUI5yJxqkhZGRIqd1F16cz9x",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBxWvrq53CXAG_2mD1uiIA0&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBxWvrq53CXAG_2mD1uiIA0!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMaITrMjcnPkRFHGNzbhp0iyeMcAQSiDujeFe567DaK449HlXhwQ0J5SIpsSS6OHSrWYxLUUvyfXPWi4dVJAlZ6P7L82igthFHTGsueIP6eSmwDMXdxaW-Pycx3iUD766-DivdOzO2sEluD67c2zBCLhd96d1R0OKX_9F82FxCXkzz5IQ7QZa6pX1kjwK24896DabmaFVrTkHf8zbDaEkxoYFsreYvKLGvGKBSxmMlGqfSVHfOUcVRrWGtacYNKPlap8QaVT063UUjj_OZRjgw9Yp6GgErLfIa5vU-CpqOAI_uLo5P-YbTgxy7RdgISD6ScftCdBUwilJgeGcuHAuWUlcvpN5d0FQHxT6hq95RuiH741054vUi1ypwWpqCOGxBN2gGVlrLhksJjnFDRV1cK8YCYXj551kKcPPYW-EVnnbsOuKH-vQ1bd6nKT3_1x",
+   "widthPx": 1080,
+   "heightPx": 1350,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCel-_G8X3yvJ4fBvHpS0zV&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCel-_G8X3yvJ4fBvHpS0zV!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMY5q8mVs3zzV84SLFaGEYjQSRjdwNOd8s8RYW3AFN5T7shcK-s_xEsOKiOA_diVzm-bczejJprPAZvK1cIdGauJUvXkV6hsziwWodVdSE5MshPxVzyEeyhTSgErnl5FVEBBuPxcPd9vmwWZ52n9POAyN9vJqC7cEsmxDYZ15BTArlvjFCQoSsaPCNnCDrRm82IXK9KUtZhgK6RxnpNwOgwViMCI_lLAbC0iCxQ6FFJlmxamKiM6DcGxZ4B0jk15baki80ytMvLV5xLDDPNrNL9L1XrquoCeCTFn5VAtNS7ELHOVYyMBgb3Ly-zfOKAZdmsY2Xm4GKxxZVSP8NxLZFIIjTQftJmHo2OxyAGzbv6dTSO0BODQyNdUBrWjVYKZAGb6Jgk1LGOaCDSK3LYk60INur66UAbcP4s3gxkK8mXCywTjTZ8mlw2wHHJ-oIiF",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAS-K_6zrVD9VPZLNT9S2xE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAS-K_6zrVD9VPZLNT9S2xE!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  },
+  {
+   "name": "places/ChIJ6dqgPvnHBZERTxNsluZFBH0/photos/Aa-ngMbiO3RhCcVHO8JqFHCJ9cnvtnSyMtDJSiQ6Z6md0UJpudyyyvZFBWjwZSIyRYT24kozR08GO9h2sMQH39AUoWO9qYVojpMBh0ZBPXa1EbfX6ORU9DbDva0jz7kszc7mwKb3L0zRWEPIQOPmy3tChBfuA3JetYt26NZGnnedlqzB_Ywxdhwn-uDUl42OeuP7jd05aru5VjALbMzWdvBKyafeecw7MNibSYF663xniqydIRlD4hvpt9uvX_023k3v_tp1sc_0oxAEqLxPFCZPoOfl3-_5AmpZ3IHL7djVmN-Ofiu1stw2mdkm_BjWI5GA3v3T83n_3JgC8iNLFLUfH6DFPltd_-u_VWtmiCxt9uI-ZvfluCKI_Z_-9j72GdWojmTNSlBJ9uU6n-DiPJScHCFehWl73On4UzJcz3sp-0SDd4yVg-baO6ADCvsaFQ",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "ReflexVet",
+     "uri": "https://maps.google.com/maps/contrib/114404553487705353267",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-1s5UnkluPtF0r0ULwh-iBeQZk3XuKJLyGJbl__KozKiYzBI=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhChCo_N63sY4RHPtOUifXTI&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhChCo_N63sY4RHPtOUifXTI!2e10!4m2!3m1!1s0x9105c7f93ea0dae9:0x7d0445e6966c134f"
+  }
+ ],
+ "parkingOptions": {
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

@@ -1,0 +1,375 @@
+{
+ "id": "ChIJ3YyV1H_HBZERNyKDDkiY7po",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "914 789 266",
+ "internationalPhoneNumber": "+51 914 789 266",
+ "formattedAddress": "Av. Manuel VIcente Villarán 809, Surquillo 15038",
+ "addressComponents": [
+  {
+   "longText": "809",
+   "shortText": "809",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Av. Manuel VIcente Villarán",
+   "shortText": "Av. Manuel VIcente Villarán",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Sauces Etapa 1",
+   "shortText": "Urb los Sauces Etapa 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1205507,
+  "longitude": -77.00346669999999
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=11164027961546580535&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://pharmivet.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 2,
+ "displayName": {
+  "text": "PharMiVet Villarán",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Manuel VIcente Villarán 809, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJ3YyV1H_HBZERNyKDDkiY7po/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRdFdVSTNWV3RzZHpsQmJFZzFiV2gzWVhoWVoxRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Joseph Velarde",
+    "uri": "https://www.google.com/maps/contrib/116321548298763666094/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlR1fTNoMQkfH7e2iIJEr67CAZgBPmv7h2ey-g5VvgY4JGN74=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-14T17:11:34.737061975Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRdFdVSTNWV3RzZHpsQmJFZzFiV2gzWVhoWVoxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRdFdVSTNWV3RzZHpsQmJFZzFiV2gzWVhoWVoxRRAB!2m1!1s0x9105c77fd4958cdd:0x9aee98480e832237"
+  },
+  {
+   "name": "places/ChIJ3YyV1H_HBZERNyKDDkiY7po/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twQ2VtbHdVblJ3UW5SaGEzcFRia2RXYTJ4eGVFRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Vanessa Cam",
+    "uri": "https://www.google.com/maps/contrib/108715311425165160983/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP3de-YsfES1gAljy8Ur7HARIN0UawAb9mam5OYomqVOH4RMIb=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-08T16:51:55.378362188Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twQ2VtbHdVblJ3UW5SaGEzcFRia2RXYTJ4eGVFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQ2VtbHdVblJ3UW5SaGEzcFRia2RXYTJ4eGVFRRAB!2m1!1s0x9105c77fd4958cdd:0x9aee98480e832237"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

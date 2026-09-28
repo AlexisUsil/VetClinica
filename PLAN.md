@@ -41,6 +41,11 @@ modo Explorar con radios 1/2 km, capas de parques/petshops/supermercados). La v1
 Scripts nuevos: `geo.py` (polígonos Nominatim → data/districts.geojson) y `pois.py` (Overpass → data/pois.json); `build_data.py` calcula
 distancias, competidores a 1 km, grilla y mejores celdas. Los sliders de pesos se eliminaron (pesos fijos).
 
+## Zona de ayuda (buffer de 1.5 km)
+`scrape.py` busca también en cajas de distritos vecinos (Lince, Surquillo, Barranco, Ate, Chorrillos…) y clasifica cada lugar como
+`zone: core` (dentro de los 5 polígonos) o `zone: buffer` (fuera, a ≤ 1.5 km del límite; `near_district` y `border_km`).
+Las vecinas cuentan en mapa, Explorar, competidores a 1 km, 24h más cercano y score de celdas; no entran en KPIs ni ranking por distrito.
+
 ## Cómo correrlo
 ```bash
 python scrape.py        # solo si quieres refrescar Google Places (usa cache en data/raw/)

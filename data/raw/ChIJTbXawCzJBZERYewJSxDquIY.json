@@ -1,0 +1,455 @@
+{
+ "id": "ChIJTbXawCzJBZERYewJSxDquIY",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3476201",
+ "internationalPhoneNumber": "+51 1 3476201",
+ "formattedAddress": "Av. de las Américas 496, La Victoria 15034",
+ "addressComponents": [
+  {
+   "longText": "496",
+   "shortText": "496",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida de las Américas",
+   "shortText": "Av. de las Américas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Balconcillo",
+   "shortText": "Balconcillo",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0783761,
+  "longitude": -77.02413779999999
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=9707766352496421985&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:00",
+   "martes: 9:30–18:00",
+   "miércoles: 9:30–18:00",
+   "jueves: 9:30–18:00",
+   "viernes: 9:30–18:00",
+   "sábado: 9:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 7,
+ "displayName": {
+  "text": "M&Qvet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–18:00",
+   "martes: 9:30–18:00",
+   "miércoles: 9:30–18:00",
+   "jueves: 9:30–18:00",
+   "viernes: 9:30–18:00",
+   "sábado: 9:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. de las Américas 496, La Victoria",
+ "reviews": [
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GaGEyeDFNblpJWHpaMVRVVlFUMVpvWkhGaU9GRRAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "text": {
+    "text": "Siempre llevo a mi Napoleón un perro Beagle. Lo bañan y revisan sus prejitas y ponen sus vacunas, Etc. Me recogen al perrito. Excelente atención y precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre llevo a mi Napoleón un perro Beagle. Lo bañan y revisan sus prejitas y ponen sus vacunas, Etc. Me recogen al perrito. Excelente atención y precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jorge Luis Chinchayán Quiroz",
+    "uri": "https://www.google.com/maps/contrib/105379187292750760980/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjsLa_Lq9MpTtDHZW9o8SMBbRdyfW6h9082r7VxtKdpgju0S-Z=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-12-20T17:24:09.189233557Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GaGEyeDFNblpJWHpaMVRVVlFUMVpvWkhGaU9GRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GaGEyeDFNblpJWHpaMVRVVlFUMVpvWkhGaU9GRRAB!2m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  },
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGNGFUaHZXRXRtYUZKV2VXb3RWelZIVFY5c1oyYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena Clínica Veterinaria M &Q Vet, doctores profesionales y sobre todo aman a los animales!!!\nRecomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena Clínica Veterinaria M &Q Vet, doctores profesionales y sobre todo aman a los animales!!!\nRecomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jared Nahum Haro Salazar",
+    "uri": "https://www.google.com/maps/contrib/102323134509660001859/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5e8Re9t_qj1rGyWiRv0urdZo7HHt6F6gQzNmaRxYSQKT_lBlA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-12T01:56:59.519414792Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGNGFUaHZXRXRtYUZKV2VXb3RWelZIVFY5c1oyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNGFUaHZXRXRtYUZKV2VXb3RWelZIVFY5c1oyYxAB!2m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  },
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/reviews/Ci9DQUlRQUNvZENodHljRjlvT201SGExTlpZalJHU0dwUGVFVXdNRGRFVDNOME1rRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Personal amable y comprometido con los animales",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Personal amable y comprometido con los animales",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Wilberth jheferson Chaucha quispe",
+    "uri": "https://www.google.com/maps/contrib/107355189533851101544/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKb9A_k_keTlrL8P8JvKpG7uCBaO23c1tUPSYtFNsGfMC10JA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-04T20:30:08.695934150Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201SGExTlpZalJHU0dwUGVFVXdNRGRFVDNOME1rRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201SGExTlpZalJHU0dwUGVFVXdNRGRFVDNOME1rRRAB!2m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  },
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyLXV5ZDFRRRAB",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen servicio, atención de primera, mi pequeño salio hermoso",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen servicio, atención de primera, mi pequeño salio hermoso",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexander Julca",
+    "uri": "https://www.google.com/maps/contrib/100693004980336398725/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcZFXJ49YGVzjOpM7slmZAEJEkybqUzxXTusCcKnrvP4q122wV=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2022-04-18T21:15:46.738750Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMyLXV5ZDFRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyLXV5ZDFRRRAB!2m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  },
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0R2RIZFhWamR6TkRNMUxWUkpWM2RTYVhKSGFrRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Buena atención",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jose Fernando Pastor Panuera",
+    "uri": "https://www.google.com/maps/contrib/109090607471418163505/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKb2q88rvQrZFq_oleq5Hcwtgn2-bzrMU4rFMGTvyD-FsGEQTa8w=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2025-07-03T16:32:36.148893261Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0R2RIZFhWamR6TkRNMUxWUkpWM2RTYVhKSGFrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0R2RIZFhWamR6TkRNMUxWUkpWM2RTYVhKSGFrRRAB!2m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJTbXawCzJBZERYewJSxDquIY/photos/Aa-ngMYLi0njED-fGD7aApe_0lZq0Vd_DjUC1JKh1ywRHU64foXXNfkS74gAB7HN8aqHeHX_bD62lYqQISW9PrkU5aJck1FdIzi6Jqj83RrdM5HUXf3bFlRSYumTn9cz-ilG68SaDlRSOmod0aYQSQ31yOncyTsAY8ASaopfxxEEMfoAcz_UzmtVmIdrpA2Q375X2n1DGKRo4FbL9F7jXI3IWB2qOrkj3kMMb5_WqY_XlI_8NA9QPoGC3uy0u26VvnE5BkZOGJCnlile6Jm2WJJOpF_E7BBC8MSGItjqXDOxAwg4v69-hdAidEbOpJdb76b5k2Qa_UjegtrGO5u0FB95CeXPwBv2XLax0hCzJKRe5mmi59Bf2nOZKv8IKd68xuQlHXQ3ynQlKxvVCrW_M4ha6gDFUWpjf6g",
+   "widthPx": 1600,
+   "heightPx": 1200,
+   "authorAttributions": [
+    {
+     "displayName": "M&Qvet",
+     "uri": "https://maps.google.com/maps/contrib/107179971953909157129",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKjCjaz2157pfIT_4a2yD_TK9sGgCOZ9WhGIEyir3i-wy2jg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC2mLvZ2wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC2mLvZ2wE!2e10!4m2!3m1!1s0x9105c92cc0dab54d:0x86b8ea104b09ec61"
+  }
+ ]
+}

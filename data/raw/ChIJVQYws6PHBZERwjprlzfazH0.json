@@ -1,0 +1,578 @@
+{
+ "id": "ChIJVQYws6PHBZERwjprlzfazH0",
+ "types": [
+  "pharmacy",
+  "pet_boarding_service",
+  "veterinary_care",
+  "pet_care",
+  "medical_clinic",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "981 251 345",
+ "internationalPhoneNumber": "+51 981 251 345",
+ "formattedAddress": "Av, El Polo 604, Lima 15023",
+ "addressComponents": [
+  {
+   "longText": "Av",
+   "languageCode": "es"
+  },
+  {
+   "longText": "604",
+   "shortText": "604",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "El Polo",
+   "shortText": "El Polo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "en"
+  },
+  {
+   "longText": "La Alameda",
+   "shortText": "La Alameda",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15023",
+   "shortText": "15023",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.102327899999999,
+  "longitude": -76.9720172
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=9064860082288409282&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: 8:30–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 127,
+ "displayName": {
+  "text": "Clínica Veterinaria Pet Center - El Polo",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: 8:30–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av, El Polo 604, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTFh6QndSV05vUzJSWU0wMU1ha2hCTVc1TVpXYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llevé a mi gatito por ugencias. No es una clínica recomendada para urgencias. Mi gatito murió. No responsabilizo a la clínica de su muerte. Pero si puedo mencionar que sus procesos son lentos, se enfocan más en cobrar que en tratar. Para ser privada y cobrar caro, hay que esperar que el médico esté disponible de día y en la tarde, a pesar que deciden recibir a la mascota de noche el día anterior. Es mejor decir NO, que tomar el servicio, cobrar, y atender la urgencia luego.\nEn resumen, es una clínica para temas de cuidados simples, no de urgencias.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi gatito por ugencias. No es una clínica recomendada para urgencias. Mi gatito murió. No responsabilizo a la clínica de su muerte. Pero si puedo mencionar que sus procesos son lentos, se enfocan más en cobrar que en tratar. Para ser privada y cobrar caro, hay que esperar que el médico esté disponible de día y en la tarde, a pesar que deciden recibir a la mascota de noche el día anterior. Es mejor decir NO, que tomar el servicio, cobrar, y atender la urgencia luego.\nEn resumen, es una clínica para temas de cuidados simples, no de urgencias.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Leonardo Costa",
+    "uri": "https://www.google.com/maps/contrib/109515792153856150832/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWznKQDE-b-zjUh33zI0wY7raIkqUJ312R3bazo8xmwu94EUMs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-05T16:44:32.067016049Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTFh6QndSV05vUzJSWU0wMU1ha2hCTVc1TVpXYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTFh6QndSV05vUzJSWU0wMU1ha2hCTVc1TVpXYxAB!2m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xZmNpMVRSblUxVFdkUFNFRlNabms1UkhOU1pIYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "7 horas para que bañen y desparasiten a mi gatito todas esas horas sin comer indicaron 2 horas, no tienen ni idea del tiempo que necesitan y obviamente lo utilizan mal, nunca se ha visto que demoren tanto a los responsables del lugar que supervisen al personal y los procedimientos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "7 horas para que bañen y desparasiten a mi gatito todas esas horas sin comer indicaron 2 horas, no tienen ni idea del tiempo que necesitan y obviamente lo utilizan mal, nunca se ha visto que demoren tanto a los responsables del lugar que supervisen al personal y los procedimientos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ingrid Basurto",
+    "uri": "https://www.google.com/maps/contrib/104451732357230223040/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhkMaz_OzZ1Zxnm_f1DhWoVxK3lRBTJUtz0XFrcqmSrLIEuzk6=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-08-01T23:26:01.461687457Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xZmNpMVRSblUxVFdkUFNFRlNabms1UkhOU1pIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xZmNpMVRSblUxVFdkUFNFRlNabms1UkhOU1pIYxAB!2m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQa055RzF3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "La atención en el pet Center del Polo es excelente, buen trato, tienen mucha paciencia y mucho amor para mi gordito de todo el personal 🤗 (Milán 🐶🐾)",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La atención en el pet Center del Polo es excelente, buen trato, tienen mucha paciencia y mucho amor para mi gordito de todo el personal 🤗 (Milán 🐶🐾)",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ruth Buendia",
+    "uri": "https://www.google.com/maps/contrib/112840666366457948986/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6yFjZ94WRmDoUTb2yUovHFNnxd0nDkLVMYzSTqPFGTaMWq-Wfjw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-20T20:05:21.696716Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQa055RzF3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQa055RzF3RRAB!2m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trd1owWndTbk5qWXpFdE9GcEpWV3BEVDB4WllVRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Lo mejor de lo mejor mi gata y perrita van allí\nLa tratan súper",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lo mejor de lo mejor mi gata y perrita van allí\nLa tratan súper",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "luis Hurtado",
+    "uri": "https://www.google.com/maps/contrib/117769726059909920965/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsjW_-tZgGzjIdt_uzvyUD4VoAYyGmP61e-JSdNKkqt_tCLg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-03T04:26:00.844762129Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trd1owWndTbk5qWXpFdE9GcEpWV3BEVDB4WllVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trd1owWndTbk5qWXpFdE9GcEpWV3BEVDB4WllVRRAB!2m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQb05YS2xnRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Me encanta son súper cumplidos y atentos. Su servicio de atención al cliente es muy bueno realmente. Muy recomendable. Mi mascota se baña, hace hemogramas y se ha tomado placas de radiografía y ecografía.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me encanta son súper cumplidos y atentos. Su servicio de atención al cliente es muy bueno realmente. Muy recomendable. Mi mascota se baña, hace hemogramas y se ha tomado placas de radiografía y ecografía.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ivonne Lazarte",
+    "uri": "https://www.google.com/maps/contrib/111042888988652061641/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-k0eJ9xrAv3wTVCboMdJ7F_bSmGR85YtwaLvesd0NvB8yTAVJ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-20T18:21:12.726882Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQb05YS2xnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQb05YS2xnRRAB!2m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMbsRaZ-xYHRaFmZAH_7FGV0rk_k6cKBnhP7Lz7ZeB2-VyVPSg7_bEHdLJqfFaz7R5Ee1hj1GphfePI6YDWBWn1WZByRZjDczuSA0SXSqNi0ZgSnft5F5qYjqZ8jaIM7LsUuTugQ1RgwzyHj5xbCe3Gzr9aqpOGGVz01ABmpaXcfsOdjWJyp_mHn8jdaxzLV_OSru7IIyT0wyTKG5WkvukDiVoasaXUXHAyC8pXNWOgJboRUhu2Ff05PctbNMtxuNYbeFvYHsuTMc4y3e154sqdouP-6Gdu6aVCjy-MNqTG1z3h6DpLxDtuLYzkvqUkUXVgtuCE07_k5e5i0ZVm3nFew82jpxGnoPGrwzQ0cf8j0Cp0ufTIGD-8Tii4T5nbCrnAZv5_sQrD0Efc5zogJLtFkqOIZ8qL3R17SeopqZ8Sa",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Joaquin Arana",
+     "uri": "https://maps.google.com/maps/contrib/103283284462796105154",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrCS9RGiPFVxjeEAxoeYdK3NUxzlYeZUj9bOEw9EoHSq5i5F-t=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDVyHlJyLTZ9R9JHpJQIole&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDVyHlJyLTZ9R9JHpJQIole!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMayLB-RzFDVfr2FTGffmQBFThLauoReYb4Cm6rc4MbaVpSLCcBuPRoFF2v4H9r-l8AHbOyML9t-16l9IPaJQwjXUKkTtK9qXlb5RYCePMn-hP8T8kLc94ruj-QTxcH46R1XDQlUmCPtFR4Pne29gIT0JEvt_4MVmUCVNt68Uq5HB3DW_ulkGLq9QzerMzcfPMPKJAM48CL6tR_MEQ-XE-JeNih0a-2oMD0uTZb-SxDMGTrTHthx3RHTwZWMJvA4uBB3-RGtk4Xt1jKWt0m58J1YC3-L32h1oChbeujwW2t8K63EfANXret9wfWlbFg-x4rio2tEPO36SsDrg951Jn0IgwPNJzwW_43-YsQ-Df6oDFVwzIYbf5h2idDDda2W2ZtxUo3CFh3ixjr4nh5aS-zXrQ",
+   "widthPx": 4128,
+   "heightPx": 2322,
+   "authorAttributions": [
+    {
+     "displayName": "Creaprovisual Publicidad E.I.R.L",
+     "uri": "https://maps.google.com/maps/contrib/112525104453097020132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEazItP8czRJSuslwihoK72itKGE__W5cpsXhKLvUWbbqg9sk4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDUi9qSVg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDUi9qSVg!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMYb_TEZUQTU-hvg4i85_3Bto8tUHqhnHElhswM0upaNNdIemjBXIh9NInpa09TtWzCd0S7AqSGYRNdJOjbJFL158o2uw8a8hRn_mC6iHNZ4dqSrNvyUpoIqjgCsDi1JNZ1a3SXDOmL9uODXwIMG2_ZSh6gr_iZeev9VTx4H8CkYU6_Nx3ydsIjm24e4C--QUQDVF8E04S8m8OxybgkinCRjIGLF5TdP0pNRtQ0qXK5mPBTrJaq2G6tIYjBSJ2vswGaT7jGP7vcucmNhx3_qa8DAy1fDGRbPPyGKXG_0z3p9FyRx3NX8UXTlxGZmX-OSET3s3nWxikb82S0TRC-jVXIUOvVX7-3hL-6nfV0vsivkk3gX9UytPQN7hSViU9uFk6e5FkRXfmV92LAkYx-KhIlEDqs",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Eugenio Saavedra",
+     "uri": "https://maps.google.com/maps/contrib/113200584289309339062",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHZXHdUZwZUipWL8ZdAalurmlMW1iJh5McmSdb0Ko7QPHMZ0AMeQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICsleXyKw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICsleXyKw!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMZPkRLsG4iXphYe5bXjmoYrYJWPiw_hQU7c5dyXebpgmqTLQTEsB-fp12d1c5ItHrd54Xfoj8_dkHIfY_y0mRbBgvTt9HoqqP4J5_68BOEjpSP9iETrdc7GjFAjWtJmDjZ-HvZqEx60eP1w9mZBzwIi9NV3sIJVD9uPvWO752FPEBkb3uI5cR564U5gfSSla5HQ3MiImG2Y7FCKFxT048p97gWJviyA2JwZyD9vy0DUz8jUjIRer2U7A7T6RNVtCsc0Q9Pg8hNmYDYKfpVs25j-iZTMDu801aHIfke1vPMpLAL183ORDI9eTNqhPAq6mf0rB2hJgeO6SccwcX2h-2hloXNj0rrkmJ6e2oybC0kuCX1UagTDXCY_ckhWly01d_ghw_IbCg6exlduuvOWSavg5AI",
+   "widthPx": 1032,
+   "heightPx": 581,
+   "authorAttributions": [
+    {
+     "displayName": "Creaprovisual Publicidad E.I.R.L",
+     "uri": "https://maps.google.com/maps/contrib/112525104453097020132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEazItP8czRJSuslwihoK72itKGE__W5cpsXhKLvUWbbqg9sk4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUm5vjPQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUm5vjPQ!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMaMaPAd6GPUrcRFo_Oe3tNS1YswqmgSLEskPDGC7TObIaAlvmCotR11Fd4k5r5KNRVwvcMkPDzkYZhaQSci-_2OyzOZVkqZHklGBzYVPaN2ux8dZdoxNYRgy7mZsrlllYkfIGBCWfs3vFsf_wQOa6caNPu1JaRCRDG-N5AnP65Jhk7L_yPk9h60hx_zTDeoKzWWz6OMm1d1Tu3ID6MvLiyuvT6tyCdytSXOtNoqdBO94esT8OJ9a1nXpAUlXgUyDUBti-ktgaTMyUh6if9skHvsGxcduRYATvpievczVrLNNL0mqZZAi2yOvoNzJHw5Fx_GdSp35aplyicEbtzuxUl8hx6miB7OazN2g_zt933P2YH11NWHC1lVx91hFX1OXZDu80uZL7p-ZYmr9Fc4bl1PI0PxA4w",
+   "widthPx": 1170,
+   "heightPx": 1727,
+   "authorAttributions": [
+    {
+     "displayName": "Ruth Buendia",
+     "uri": "https://maps.google.com/maps/contrib/112840666366457948986",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6yFjZ94WRmDoUTb2yUovHFNnxd0nDkLVMYzSTqPFGTaMWq-Wfjw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICPkMrUngE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICPkMrUngE!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  },
+  {
+   "name": "places/ChIJVQYws6PHBZERwjprlzfazH0/photos/Aa-ngMYk3G5qRotTRC2lTE0NbF023qu3kmKL3aXkbLvtmoqnsW-j_MVeTYavrTyVi1uWpsIwNl0M-xPTrtesaO3bCzimLgwiFl1r8lVoQkasmXyV3qkUMi1P4O9ZDu0630Eu6U2pK8cjCZzjIlI9QT66ol5Zd6s5hzr4j316yEOJFWjBkpnD9eCd96f8QSZ7O1FrzA3A1-mKbqplND-VDWpHMF6DQ_MEE39mMmSZ9HlHMT6gKU288rQTorS_Lnwf5Q-O8DdnVG_Mv4BLKYScqS-0tjzf3KDfxwkhJ0y16z7g4rU8Sg2UcIHBxlF0VhA30J1XntZZBdwzXk96k3KnN6N9v5qp8KSPqph0tjnPsINYMZ4VPairKcMpKm2cRpKj4cQCZf_860TdMDrDTYQ6iiUaSu2LLac",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "cesar arturo",
+     "uri": "https://maps.google.com/maps/contrib/104828718137131788501",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ7dVvZ4BpAQcM4L_e6Cw5XoYBEiv1A3ezvDXNyQ9XdNbNDyg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEt4TfFA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEt4TfFA!2e10!4m2!3m1!1s0x9105c7a3b3300655:0x7dccda37976b3ac2"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

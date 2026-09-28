@@ -1,0 +1,861 @@
+{
+ "id": "ChIJh7Qm4oTHBZEROCP7snQB5tc",
+ "types": [
+  "pet_care",
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "933 396 305",
+ "internationalPhoneNumber": "+51 933 396 305",
+ "formattedAddress": "Av. San Juan 469, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "469",
+   "shortText": "469",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida San Juan",
+   "shortText": "Av. San Juan",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Reyes",
+   "shortText": "Urb los Reyes",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0764031,
+  "longitude": -77.0059983
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=15557123563528594232&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/charmingvet.pe/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–13:00, 14:00–22:00",
+   "martes: 8:00–13:00, 14:00–22:00",
+   "miércoles: 8:00–13:00, 14:00–22:00",
+   "jueves: 8:00–13:00, 14:00–18:00",
+   "viernes: 8:00–13:00, 14:00–22:00",
+   "sábado: 8:00–13:00, 14:00–22:00",
+   "domingo: 8:00–13:00, 14:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 122,
+ "displayName": {
+  "text": "Charming Veterinaria",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 21,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–13:00, 14:00–22:00",
+   "martes: 8:00–13:00, 14:00–22:00",
+   "miércoles: 8:00–13:00, 14:00–22:00",
+   "jueves: 8:00–13:00, 14:00–18:00",
+   "viernes: 8:00–13:00, 14:00–22:00",
+   "sábado: 8:00–13:00, 14:00–22:00",
+   "domingo: 8:00–13:00, 14:00–21:00"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. San Juan 469, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VFkzRXRlVE10TVRCa1dYTm9NVXRGZDFobVZuYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Fui en el turno noche y las chicas que me atendieron me explicaron todo el procedimiento de forma muy amable y linda. Al recibir a mis perritas Copito y Dora fueron atentas y cariñosas.\nFue un excelente servicio, lo recomiendo. 🤍",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui en el turno noche y las chicas que me atendieron me explicaron todo el procedimiento de forma muy amable y linda. Al recibir a mis perritas Copito y Dora fueron atentas y cariñosas.\nFue un excelente servicio, lo recomiendo. 🤍",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "MARITZA ANQUISE",
+    "uri": "https://www.google.com/maps/contrib/115836199797885154728/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJH3I6Q9930SrkTYaXaDSgABnVkI1BHwdnll5TDUTTmqt3vSg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-24T18:46:34.049958627Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VFkzRXRlVE10TVRCa1dYTm9NVXRGZDFobVZuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VFkzRXRlVE10TVRCa1dYTm9NVXRGZDFobVZuYxAB!2m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdmVsZFRVMk5zWTJaaWQyeEhRMUpyTW5GVVZWRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Hola, lleve a mi lupita en la noche por que se sentia mal y no sabia que hacer, para empezar las señoritas que atendian eran muy amables y bien informadas...mi lupita recibio una buena atencion y me fui contento y siguiendo las indicaciones que me brindaron para continuar con su mejoria. Gracias",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hola, lleve a mi lupita en la noche por que se sentia mal y no sabia que hacer, para empezar las señoritas que atendian eran muy amables y bien informadas...mi lupita recibio una buena atencion y me fui contento y siguiendo las indicaciones que me brindaron para continuar con su mejoria. Gracias",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Antonio Jose Aguilar Ramos",
+    "uri": "https://www.google.com/maps/contrib/101987013601459024148/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkmWU5btYRIjhO9i7dU0Jz0Rs4wjVNtx6nO--jh6Iqh9kptg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-24T18:53:01.714690203Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdmVsZFRVMk5zWTJaaWQyeEhRMUpyTW5GVVZWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdmVsZFRVMk5zWTJaaWQyeEhRMUpyTW5GVVZWRRAB!2m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodllWVkxNMlJaZFdab1IzVlZNV1I1YmxaQk5VRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención 😍 me gustó como bañaron a mi mascota, gracias por todo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención 😍 me gustó como bañaron a mi mascota, gracias por todo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mariangel de Jesus Marin Morillo",
+    "uri": "https://www.google.com/maps/contrib/114507250099425526262/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgknvH_1pGoXMrIKBPYjCIkga3CjmkdMTWhQVMcpK8NiWWbcnX=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-24T15:41:13.911261003Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodllWVkxNMlJaZFdab1IzVlZNV1I1YmxaQk5VRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodllWVkxNMlJaZFdab1IzVlZNV1I1YmxaQk5VRRAB!2m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuLUlLT2ZnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención a mis peluditos, la información que brindan para las vacunas y los tratamientos médicos son bastante claros, el médico veterinario responde todas las consultas y es muy paciente. Yo llevo siempre a Coco y Loki para sus baños, corte de pelo y uñas, ellos ingresan y salen contentos, se nota que los atienden con mucho cariño... Gracias Charming Vet, los recomiendo al 100%.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención a mis peluditos, la información que brindan para las vacunas y los tratamientos médicos son bastante claros, el médico veterinario responde todas las consultas y es muy paciente. Yo llevo siempre a Coco y Loki para sus baños, corte de pelo y uñas, ellos ingresan y salen contentos, se nota que los atienden con mucho cariño... Gracias Charming Vet, los recomiendo al 100%.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Eli Hinostroza",
+    "uri": "https://www.google.com/maps/contrib/105734315536774569038/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJc7C0SqE4NpKMm1YMJlFtk--HPKkqfwGuTo3dT-pbeMaw2zA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-09-22T17:10:21.915058Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuLUlLT2ZnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuLUlLT2ZnEAE!2m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUFNFa3lNbFEyVUc1TFFqSmlOWGhRV1VOVGFHYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen servicio. Eficientes, puntuales, comunicativos y mis mascotas regresan tranquilas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen servicio. Eficientes, puntuales, comunicativos y mis mascotas regresan tranquilas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Celia Montenegro",
+    "uri": "https://www.google.com/maps/contrib/101019670363412682193/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9qCo9tIxSrUT_ROsFWbB1acAmQJDzfPg13qEatn_hgxwP4N1Y=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-22T00:17:19.794794324Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUFNFa3lNbFEyVUc1TFFqSmlOWGhRV1VOVGFHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUFNFa3lNbFEyVUc1TFFqSmlOWGhRV1VOVGFHYxAB!2m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMb21unFBTwyXsKVnj35En_9cT8nsjTn1resabkNi7aWNjZjbmMIlccqqFvLk2_SEbElGbwjeTsFZ6HTP8gND-xNdXOQAMdS6V0kv6pHkQhRmWoc5BX8IhDiJGbMk4frfEe4bi5C-j6kskRv5bYqiEvfPYW5oKnq0S9L3pzAOHe8z4d1ARC8bj6Z8yUDWC193xYOWxHVZnw7U6kAO-5ia_PktYP2_qoQWchmW1Ogdp_PITLRiTCur3QVwESJtGpsRKcEQJ3brBcraL6evv5q7hqilyOMHsrjidBsw09I7ExIqu-A4mspqkMhl33Hy3-aKj7DDPkoJcqGimeIFxu7Q7SLjDYrt-7jB0xw45skC11sfbedAFvbdTZWWl2xztpyuYwlnLIHWmd9WXUESBj0dE-JeyTgR5kFIp27tCnfCS4hcQ",
+   "widthPx": 851,
+   "heightPx": 315,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBdvh-7PDC3a6vFO8JabI14&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBdvh-7PDC3a6vFO8JabI14!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMaAbq8ZTdGvzO7HcDLcUJ2yTOcPZlLnXTi6GxzWtJ5uenSt3k4CTLccxgSBoTP3ew06frcH0gFeY09tTL_BcND2g6ajYi11RWmoi3uMIaBc9W1JcPrDs0v6-Nlp085gRrxRWbTzeu41xY38R4QViqvZ2msPm-2L1ZxWEHgKdF7jauxCLuACaxlofC3jN3gVINkVepYLvinKiTvvBNVQoMa40CaCAty9mO1OmJs4hE4-bU6Y9iroW4lAuCKv4DBGdFaJ_qlQdVf5sNO6-CEkKB5gWDt9nwR5jvbarJYaqPTmXH97IwkooK0ViKsE2VCeih8DAQdfGiwD43Rv_e6KpVIwFk0W2OByDImhYJWAwekaHATVSXwI1sP0odmWcb1L4TkYX7sZi9N017DStKW9qK_2jZc",
+   "widthPx": 3056,
+   "heightPx": 3056,
+   "authorAttributions": [
+    {
+     "displayName": "Eli Hinostroza",
+     "uri": "https://maps.google.com/maps/contrib/105734315536774569038",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJc7C0SqE4NpKMm1YMJlFtk--HPKkqfwGuTo3dT-pbeMaw2zA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICn-IKOQQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICn-IKOQQ!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMbgUL6c7bhkAha8DVxDRsMewi3pOUwJfU77W1KkDcpkIuXM08kywN6WNFCTjdLPDPjGbsfgUTpsSm5DHBG8SmTVTQyinvi2EHPNPuHy97dcvwpJwU8ubxK-TCm6sq_LP47W9ndtW24w9z78dDefG0_Sg3aU7oYQmZhiBvEo0DQctU5y1uPBPMMrU50j8_UTPlIZbsTkGJtFb3433WdvVzCOAf_1QSMZrFTxrLKRWbo3L0h8GJYgSafopYyh8yFDa8h1y3fH1VCh0BsEpmOHWmorpPjvucuy2JaaD07VsD1lCPtwzgGP6wVY-rqvrh8u33wt2oIZim6SG5CNwtg2NFLqx_h7_yy-e6siVxidWrEbMeKxdFTXFf_GgXPtj8YKEhx2IiuZZojcshTIV7P-0c5L4PVkVjI",
+   "widthPx": 4080,
+   "heightPx": 3060,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDzn621pQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzn621pQE!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMZKbyXa3NFSqhb_tKfxuhcBgMBlAYCyQWthgku6nzn0ApizHRvDYNyQh6T--QUjeLYdqJJPuDHb_l6UBUCjrnA_EQMQTTqgP69iebsoCOLlLfnOwfSmg6frCf-DpVMaRkBejw2NlY2Vgv_6P3jtayC5FCj9OtQJbaKWuDps9W3fdEDO2S9Cj0oIV3BHjBG3oqcLXgAY8TkPVliJ2quyW5DFTZlQb5RFfgpX-Kw5MIPefYRs6xSAhh4yDXRsAvDCGwDRq-PWUfI4ekFae9qpFYvUBdNk2qkvoQ_kTY7TinXpXO1doi3Na3675VY22ZZUl8z0tz5_-K02FAcuWi2BxfGVDMIhkfU8bVDCAGd9dOaOIo149p2CUaTl-9F3WUAmDsd-c3byZwO7Fs-ZJJ4ZEHcYTdtY",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDey4Wt6AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDey4Wt6AE!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMa2OVwvNoWToMcdGd2Qgx9-TzetCVGOKCGpg7TP5zO-8e6qQHhPd4j6h_tq8bhmz_Ax5nhnFIfNQtEPg00GIRLzPReFvPI96s4k-6O8mdVfdHwQIgckNdT2t1qn13-C1sz6VOrnyvqttBMZ0nznJlCtBZBoI79ALJOmcqAnuVJ1PR_bef7bIML70bmUwXvAnoDDEdoZQclcRB70gWL_PclyWDznmvRNuze37i4ehC5Cwks7wpqJULbHuGb9J6SsugxR-HgAP5WRt6mnnnQvQLmGGWFvTBl1CGfkZTmgRZwZn7nyqQJRRaEee5X8LzNxjtd1zrXXazl_DX7GjIIAlCZ6TVhwHI8cBV7wSYOZF2S_3c_4tLYBdlqBBJerljE8thUzccphb3_7ZhntHr3oHR8WSn2IdTsJNAlLusgrgaV0",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCc8YGBURbZNoGtab7nMcDA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCc8YGBURbZNoGtab7nMcDA!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMbFLKnc4kRGGuBot6Vs2ITMDldYQIi4desenIfbXyAhNHU2F5i1Nz6gANilO3GGOtA4wvsd7U1atF4-8aCrtpVFCtqWhWgJtVRPxhkxZLqzXiCokVC4amo2ubMbhTnE_HczX23SZWYDjiGETR0OH_fxRudAO97iCQjUtEndI3251ps3v3PGwVPhvS7Cb99-AA2Od40NYmtjyrSegxAT7RIiOWZ3MHi_zROOfF1qPFGdjDXNjEOlSczvXv5KBk4oRXGuT77oIo_JpIjS2hXul-Y75I-zjO7WUFFrSvVW6Vr0vzSZ1PN3dY34Alj8HHwddtKByM_R8En8T_xFA4N-xHaalRnzKvUiPj4qBursRnJ2CUx0z84jtoHsD9jtwFcGCNnYoESEo2MZAqJOKLht9Kep1Wgl-Yo",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Valeria Morales Gamarra",
+     "uri": "https://maps.google.com/maps/contrib/106010528294403665241",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnUvXNqOWc9Gj6CsijhXP1LVO2rOEuLKzNELbToBe3B3pNMAZHnw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICzwNHk0gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICzwNHk0gE!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMZ_x7rJlHlpaa9LoOnS5s9MdcJDWYLEGNyEBqkhJfg9bp5mj4GJirKkHg1CQfNaj45ZS02UNdw66InWcXpOILcYEtsfpxbMIi33PfPJZmgXyis49yHxw_hNlcqaQAcuuKPEzgxh-Cn8PR8a09nA8ItbluEOLqAzH6Or55gN0Q1aNDns29rNMM7yAlG82kJJ8JZiK9X-mALrC1MhW7R9TWMf5x4Xy-g2RacS9OAffY9o6KZoTh2kN9MhMXWr8OFcRN8LqjGdS7_gq-24-tNJdZ1YlLklNdyKBiG0wtCOwHBzIC8CNmX8jF7NznTAmw_X-rAyuaywzJejHUMbHjNpims0j06hRZCZQHXbz210mt-mOVmLUSPDum5CH74mO5_1jjEdNEtTjZAH2CvYbt8dJogbxBod",
+   "widthPx": 1600,
+   "heightPx": 1201,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID9k6ip9QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID9k6ip9QE!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMb3_Nu4Le5ReTAGa9hMwn7cvfXBxKJ004rkSj5kSZani2GOWLJ8VC4-17EDMl62VskahaKKLST8mHPkGEKURBbrJvOwhKZDX5BK8DySu6YGJ0rdSJlTgxMis20MX2d6V9snmYrGqmN0dJ4piVR2BvdGOBVTf3oSKWqMWc-MPYzEJPOxRj__24CrrcBpakFx9W00CF5jC8WYW9VKlko-lcRSTRgi64neZ6rFD3x1NEGm2m3riTft0f0-U9X-U8qaXJcfR35eklR3pB8gm3duBmZ4Uvdg6uBduBPOBHzgdEOK_cD6re90wzovW_igQbuksil3eDpru7PlhjTp71a-ARFTuBKtOhQ0HyGMo9Diw0dOKxiD_MXRDqUMOYgtXzXWwiJ0YJH3b8l35eUI5GHPDW7r48OBRGvGD5Bbxc95dwjR4A",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAP6vjdHooZJuHruClf5g4Z&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAP6vjdHooZJuHruClf5g4Z!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMb31j57c8FwkS-18RiTWfweW2gifaa4WbS8yqd1kIIVRvUAKD7sTFY-yziT-ggYg1UBQznmb-W0ohRzKrUQIottx0XlZufDq0nc7mHbPgtOdjAmVUPLkG3A_h6EaqspFwmHNg3ebOw-zmK6b57Ed6Wbqs3iLXBl7LECQ963oqx0km0ancs84vdeZAfmfX9lrTqlTL3wBfUdXQMEJcNvxHQtM4jF_kcV5Jzh11cQ2NYZyW9l70noViUAnSh0O9rMxgCuCfMqqAbaQ7zuMyUkJUTbVQe6BOR4jvkJ_TqQyMOKqRaSigb3JBwtsr8XmQGMcihpXzZzazxa_nRW_4qc-jBj-j5lqkr-bPu3cX2ZolHIOHRW63IJkJP39Xom2NshWw359a7zpsmN668fa9VjYGZd3Ah_wVc",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDzn62vmwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDzn62vmwE!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  },
+  {
+   "name": "places/ChIJh7Qm4oTHBZEROCP7snQB5tc/photos/Aa-ngMbrTAqNc8dQqspWnNx23lLlOCbAVonfsmaI-54RaRozqpGznAPH702onzUrU7Qgx0Z3UiT4A1K51KJxwRiWYZtuxfyfHEhhWvIXIU1AhSDCLs1y95SvvI01-fkENmID0mX7xCdH86o-RfqV33b3v_rR1Qjx2waQFDGKAdRWEDsQI5R0kkkVTfMyAxkKwCjFbzDSfDg7kVMXrPznCpmQv2DKuWzSelTi6u4KqYKNHATOfVhNi7FJh6Rh0FdAcmxXFiGR98JTklsYg2n1T6ffn-tJ7oVQRpajheefQYaIRjMjPgjN9iyUeL0DHg3lsGC86Ym-3DZM9p8Y6r3Lg7p7saloFohn4TmyFxFXLSYGj-KftfzILd5s9U7y-fvlDhaGGSvQvntmKmWFuLiAwe7G4z3ZPvXKG0TciSgOGXHUoMbcsw",
+   "widthPx": 2268,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Charming Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/116607322815776469493",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZYmAfdB51DLTWMt2yiTyaKSFrReWAfX9VjBdPrln3K-FSmqNl=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAn5UILaEloV8aiafmdQAaQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAn5UILaEloV8aiafmdQAaQ!2e10!4m2!3m1!1s0x9105c784e226b487:0xd7e60174b2fb2338"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ }
+}

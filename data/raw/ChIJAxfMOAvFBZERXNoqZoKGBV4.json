@@ -1,0 +1,491 @@
+{
+ "id": "ChIJAxfMOAvFBZERXNoqZoKGBV4",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "959 835 273",
+ "internationalPhoneNumber": "+51 959 835 273",
+ "formattedAddress": "Av. Los Chancas 1024, Santa Anita 15009",
+ "addressComponents": [
+  {
+   "longText": "1024",
+   "shortText": "1024",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Chancas",
+   "shortText": "Av. Los Chancas",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15009",
+   "shortText": "15009",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0359115,
+  "longitude": -76.9591951
+ },
+ "rating": 3.7,
+ "googleMapsUri": "https://maps.google.com/?cid=6774969109066734172&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/Clinicavet.SanCarlos/?ref=pages_you_manage",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 4,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 7,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–7:00",
+   "martes: 9:00–7:00",
+   "miércoles: 9:00–7:00",
+   "jueves: 9:00–7:00",
+   "viernes: 9:00–7:00",
+   "sábado: 9:00–7:00",
+   "domingo: 9:00–4:00"
+  ],
+  "nextCloseTime": "2026-09-29T12:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 28,
+ "displayName": {
+  "text": "Veterinaria Pet Salud",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 23,
+     "minute": 59,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 0,
+     "minute": 0,
+     "truncated": true,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 4,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 7,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–7:00",
+   "martes: 9:00–7:00",
+   "miércoles: 9:00–7:00",
+   "jueves: 9:00–7:00",
+   "viernes: 9:00–7:00",
+   "sábado: 9:00–7:00",
+   "domingo: 9:00–4:00"
+  ],
+  "nextCloseTime": "2026-09-29T12:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Chancas 1024, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJAxfMOAvFBZERXNoqZoKGBV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkTlIwZHRXR2hPWWtGb1EwTndlRFpaUWxOemIwRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 1,
+   "text": {
+    "text": "Pesima atención,  si estan yendo de emergencia evitar ir , la persona que atiende en el counter ni siquiera se levanto a abrir la puerta , mi madre con su mascota en brazos tuvo que abrir ella misma ,le hicieron esperar y encima le dijeron que el veterinario estaba ocupado nos hicieron esperar envano y viando nos fuimos salio el veterinario que supuestamente estaba ocupado a  conversar con la counter , insensibles y frios .en todo momento . NO RECOMIENDO PARA NADA ESTE LUGAR NO ES UNA VETERINARIA .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pesima atención,  si estan yendo de emergencia evitar ir , la persona que atiende en el counter ni siquiera se levanto a abrir la puerta , mi madre con su mascota en brazos tuvo que abrir ella misma ,le hicieron esperar y encima le dijeron que el veterinario estaba ocupado nos hicieron esperar envano y viando nos fuimos salio el veterinario que supuestamente estaba ocupado a  conversar con la counter , insensibles y frios .en todo momento . NO RECOMIENDO PARA NADA ESTE LUGAR NO ES UNA VETERINARIA .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ronald Prudencio Leandro",
+    "uri": "https://www.google.com/maps/contrib/107650979124682012387/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUr1ZO2Djh_5OVMdp11waNSyX8OXAtvPL6P9wyEUoinjDzuw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-05-13T05:40:13.621680535Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkTlIwZHRXR2hPWWtGb1EwTndlRFpaUWxOemIwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkTlIwZHRXR2hPWWtGb1EwTndlRFpaUWxOemIwRRAB!2m1!1s0x9105c50b38cc1703:0x5e058682662ada5c"
+  },
+  {
+   "name": "places/ChIJAxfMOAvFBZERXNoqZoKGBV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWlFVcHRaVkZQWkZOQmVtaHFhVUV6UVhCVVJVRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "buena atencion pero pesimo servicio mande a mi mascota para que le hagan el servicio de corte y baño detalle como quise el corte  . me lo regresan con el corte mal hecho y encima con otitis",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "buena atencion pero pesimo servicio mande a mi mascota para que le hagan el servicio de corte y baño detalle como quise el corte  . me lo regresan con el corte mal hecho y encima con otitis",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Mayra Ramos",
+    "uri": "https://www.google.com/maps/contrib/102996466200966696811/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX__8321OZtTbegDwPRVXoGupy8oXWrp1rdGHllAJ0TEU3eidkJ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-27T02:21:06.592121035Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWlFVcHRaVkZQWkZOQmVtaHFhVUV6UVhCVVJVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWlFVcHRaVkZQWkZOQmVtaHFhVUV6UVhCVVJVRRAB!2m1!1s0x9105c50b38cc1703:0x5e058682662ada5c"
+  },
+  {
+   "name": "places/ChIJAxfMOAvFBZERXNoqZoKGBV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NME5WOUZVWEl5YldGYVNubEpiVlpuZWpSVGFVRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Un hermoso lugar para escapar del ruido y estrés del Centeo de Lima",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un hermoso lugar para escapar del ruido y estrés del Centeo de Lima",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Silvia Cajahuanca ELELATINA",
+    "uri": "https://www.google.com/maps/contrib/103270753994446144511/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXWHIihgFWUgO_JIBMwiLYo_kVJPutZDoLyZt3btA1odnTncvSQQ=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-04-15T19:16:08.518453524Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NME5WOUZVWEl5YldGYVNubEpiVlpuZWpSVGFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NME5WOUZVWEl5YldGYVNubEpiVlpuZWpSVGFVRRAB!2m1!1s0x9105c50b38cc1703:0x5e058682662ada5c"
+  },
+  {
+   "name": "places/ChIJAxfMOAvFBZERXNoqZoKGBV4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdWVPRUlREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Lo atendieron corte y baño este viernes 28 febrero.De confiada no suelo revisar . Al llegar a casa mi hermana nota que las orejas están sucias y su colita mal cortada. PESIMO RESULTADO.  En definitiva NO RECOMIENDO ESTE LUGAR. Y si dudan, REVISEN BIEN A SUS PEQUEÑOS ANTES DE SALIR, PORQUE BARATO NO ES.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lo atendieron corte y baño este viernes 28 febrero.De confiada no suelo revisar . Al llegar a casa mi hermana nota que las orejas están sucias y su colita mal cortada. PESIMO RESULTADO.  En definitiva NO RECOMIENDO ESTE LUGAR. Y si dudan, REVISEN BIEN A SUS PEQUEÑOS ANTES DE SALIR, PORQUE BARATO NO ES.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Karina Aller",
+    "uri": "https://www.google.com/maps/contrib/104375958831198125692/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWViLjqUgOQLBkyGOyi7-CTrT3zEuHxRY6khYfMbD62YsrfeLBF=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-03-06T01:57:30.121601Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdWVPRUlREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdWVPRUlREAE!2m1!1s0x9105c50b38cc1703:0x5e058682662ada5c"
+  },
+  {
+   "name": "places/ChIJAxfMOAvFBZERXNoqZoKGBV4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbUltUk93EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 2,
+   "text": {
+    "text": "es buena la atención pero el que realiza los cortes dejo heridas e irritación en el cuerpo de mi peludito ,deberían escoger mejor a quien contratan por que no es la primera vez y para lo que cobran no es justo",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "es buena la atención pero el que realiza los cortes dejo heridas e irritación en el cuerpo de mi peludito ,deberían escoger mejor a quien contratan por que no es la primera vez y para lo que cobran no es justo",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lucero Mucha",
+    "uri": "https://www.google.com/maps/contrib/106901266359622855553/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3hOI-0opzBwlKqiVZ2A6CdQkDu7bAPLvPg8yrBSKLL_LiOw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-03-10T14:44:00.373694Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbUltUk93EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbUltUk93EAE!2m1!1s0x9105c50b38cc1703:0x5e058682662ada5c"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

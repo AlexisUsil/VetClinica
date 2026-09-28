@@ -1,0 +1,551 @@
+{
+ "id": "ChIJW8ODCXHHBZERXQqf9p8C8H8",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "957 227 923",
+ "internationalPhoneNumber": "+51 957 227 923",
+ "formattedAddress": "Av. Circunvalación 2679, Lima 15022",
+ "addressComponents": [
+  {
+   "longText": "2679",
+   "shortText": "2679",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Recaudadores",
+   "shortText": "Recaudadores",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15022",
+   "shortText": "15022",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.079654,
+  "longitude": -76.9870268
+ },
+ "rating": 4.7,
+ "googleMapsUri": "https://maps.google.com/?cid=9218871323288078941&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 28,
+ "displayName": {
+  "text": "Pharmavet Market EIRL",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Circunvalación 2679, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoTGRucHlOR1ZFTWxKME5IZzBhSFpSUkdacVZYYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Terrible, le hicieron una ecografía a mi mascota y le dieron un diagnóstico equivocado. Al asistir a otro centro especializado, nos indicaron que el equipo que tienen solo es un ecofast que no permite hacer un diagnóstico preciso como si una ecografía. Que pena que compren equipos de mala calidad. ¿Por ahorrar? No se la razón, pero sino cuentan con los equipos adecuados no deberían emitir diagnósticos ni prescribir tratamientos. Que lástima, antes asistía allí.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Terrible, le hicieron una ecografía a mi mascota y le dieron un diagnóstico equivocado. Al asistir a otro centro especializado, nos indicaron que el equipo que tienen solo es un ecofast que no permite hacer un diagnóstico preciso como si una ecografía. Que pena que compren equipos de mala calidad. ¿Por ahorrar? No se la razón, pero sino cuentan con los equipos adecuados no deberían emitir diagnósticos ni prescribir tratamientos. Que lástima, antes asistía allí.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rocio Del Pilar",
+    "uri": "https://www.google.com/maps/contrib/114484551864511722313/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy9qbHnAth2bdc5ySh2fQ-T-eRk4N9uK_Nok2YpcDVP5sak2Jp=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-01-18T17:41:32.945583373Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoTGRucHlOR1ZFTWxKME5IZzBhSFpSUkdacVZYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoTGRucHlOR1ZFTWxKME5IZzBhSFpSUkdacVZYYxAB!2m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVdGJsSmFRelJNTUZWa2RqSjNSekpqY0hWbGNsRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Casi todos los productos a muy buenos precios!!! Tu mascota te lo agradecerá",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Casi todos los productos a muy buenos precios!!! Tu mascota te lo agradecerá",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Guillermo Suarez",
+    "uri": "https://www.google.com/maps/contrib/110409939703057591571/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1l1pHvq6jbcInLDBHABb_B7zPohLg2ciKxiOvAGEzd6OTt2Gf=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-04-17T18:39:37.147035358Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVdGJsSmFRelJNTUZWa2RqSjNSekpqY0hWbGNsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVdGJsSmFRelJNTUZWa2RqSjNSekpqY0hWbGNsRRAB!2m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkMlRVOVBSMEpMWldJeGF6SnhTV0pQT0ZKRlpIYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención siempre ...🫶🏽",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención siempre ...🫶🏽",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fiorella Avalos Martinez",
+    "uri": "https://www.google.com/maps/contrib/117249397553687545824/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3gbdrTxkk8a_KBZm-XLsbx5Ip1GVh8UmACZh82cPuW0Z5qogMVw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2026-02-09T12:56:00.677259463Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkMlRVOVBSMEpMWldJeGF6SnhTV0pQT0ZKRlpIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkMlRVOVBSMEpMWldJeGF6SnhTV0pQT0ZKRlpIYxAB!2m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aT1gyOW5XVmxEU1hKSU1tbHdRV1pPUzNkT1ptYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Farmacia Veterinaria para todo tipo de animales cómo mascotas y de producción. Excelente atención y muy buenos precios. Tienes además un veterinario que te puede guiar en la compra de productos qué no necesiten receta médica.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Farmacia Veterinaria para todo tipo de animales cómo mascotas y de producción. Excelente atención y muy buenos precios. Tienes además un veterinario que te puede guiar en la compra de productos qué no necesiten receta médica.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Christian Coffré",
+    "uri": "https://www.google.com/maps/contrib/106617273900766174060/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzpNZQlhEEp-baRXbijRKiuapRdl6V5uqikQn9LpSw0IEySLnW=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-06-28T16:40:21.491073834Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aT1gyOW5XVmxEU1hKSU1tbHdRV1pPUzNkT1ptYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aT1gyOW5XVmxEU1hKSU1tbHdRV1pPUzNkT1ptYxAB!2m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSWJWVkJTVXhzY3kxNlIwRkdTVmRWWW1KM2RVRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente lugar a buenos precios",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente lugar a buenos precios",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "fernando llana",
+    "uri": "https://www.google.com/maps/contrib/115602493407528069037/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvp-TEMTUkD63qDXs3iE1gY6sWAliSZCQob6gyqNgiKknCDw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-13T11:55:25.129530991Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sSWJWVkJTVXhzY3kxNlIwRkdTVmRWWW1KM2RVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSWJWVkJTVXhzY3kxNlIwRkdTVmRWWW1KM2RVRRAB!2m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMZI7Hy-7w2XsxbzFeijtJlo36BnLvpgg370OCwD2KgsfRxxWHHvL3L8fVTFgjIgnpIwANYtKRykYX3IaDcEos8sik5svQyzThjLGUNDTgwV0TXAxdFxWe2W5MF-UPZHEw-gcMxLjjYlfT81TRxIsDi57_9eDT5SWWWtZKlH7ISVPjSvJgTBqTWGiyBW3IMpDY1tKqUW7Z3-bgsPZewpkn46aR0gai_C1c0VMG3nhPB5bv12ru5h9HbVf4-XkzK3d05odKfauvGhcX8Zqzps1T1WUrsik_ewuV-Lh1IjiIDQGBOgNskbKPwXtXmx0wSJZvmE2XWm4ZamxhvZNTa-XrBqQooTFc_d5Mgy7uBrVoMLcBx7pkZXVCxmULG1bE1QUB0xKJOR1ELdP_FQyfPQkwOWOA",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKx5-5ZQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKx5-5ZQ!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMZjS5bLRQQSKMx6a2ddfQxq4NrSVyMjbtVMKPh-bnsPXFaasyyGz6zWuUEyBoXjkuXD4YZMFjORY7Fig51fXtEXnLl8wC95ZvkSKd3uvh9YejL-0YvkExqJdykl-CLst5uCRISt8G5YuZD_d5tyvyJ5EgbDtSOXuKB_QdEFDNvy-zXk4apAAy4WyE97Fa-L79gCATYMuW84EtxgEVSEBkc_Y8PonYPEPypB08VLMFx-hhXugwccTfwsWKSbpgWCQi9n7xvAb6tIFS5vhA_HtH5FY9LTbRyz6r-gR5tyaSoEn1ufsvbaoTXZKl1DnAGuJz8TVpx4E3Cs3Y2akossFQMi8GpCut5kqNXUDjUcmszqhvnikbnCwsoA8kryfQHMjYqyVt0n1-mf4eU0Xt_q_SPYxlY6M9E",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDyuvnXrgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyuvnXrgE!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMaOaHa49-upE2QsRBQVlJHq9lL1X_Ybr093Q083QJ3w1LDi-tVv6toD7qItGy3-L62j4OsQHyNFNV1anp57G6VQtCF4h0LgfexdBEQRxly2PNWxUz5xny2amffclgYVBMMTa6lMW5AqwkL1rhRrtPBdbYJ76skurmzBEEprdGiZDK0_u4hGfS4ZuNhldHymLSxdHYgpbbBxvyGCdFWk3IfJeOo43Mqenh7x8W0IQcaD47XgUC9mQt_PJUVPgS4xBb4WolNXQXmGQNsfQ0lL94xK1O4PYJ0NN9kfQU9EHK1KCygHPEmBskCeI45E5oRzd4mmnfLXNmtrddH2IVK5x20CFctk46fSj-t4zhkfZB3BR3HCqNlEW6LrPnGDdF236JvXTiw0ixpIrny415M0kn3f_as",
+   "widthPx": 607,
+   "heightPx": 772,
+   "authorAttributions": [
+    {
+     "displayName": "Pharmavet Market EIRL",
+     "uri": "https://maps.google.com/maps/contrib/113162122803955313413",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0jrK5GtJfPN6OMwlpfBAQtG_9zNE_aELP7htqO2EJq4RzqA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICKgMKfFQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICKgMKfFQ!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMbmASTumiI29nOnVamp6QHt4DH9d32MPrsabxC7MmDLJV0uLt7hGcd7yXVxsucXgEbEj8CcC3INrGFaYV4cFME03hwCKgAXmfcusZbtgaLo2D6SH5uotdfKFO9H-lETOsluAIPwxJQiOqbTxI2LHX0uWMq04FjMgqsEBpPzKtqkuSjB0MtEn55O-7wT7pkRQar7HqzWaqzZTBPHqGRLjERyR6QMKe25eZOVKr1dLp6988MaryF3gA2uyO1iVk8e_uXV3QXi2umxv7WXKqYqx3ZwHXK4MQEgw4Zy1PriPIDTz2hYkF4WzhjiGfcpr37TCsmwsSIMUgWu3yIRg5X35-svasZc033iZb1bFDkQVAnt7AEUpwqsAMPadXF4CTm6QnddTgEp-PbnwGlO2PmpzB0lk6OU",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDyuvmv5gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDyuvmv5gE!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMZgLO6cTG3CBjqGUjAGfHFdp4JIocVxd5Gv7D8_X54sP4EQea7hQj4Ung_v8pKqIY-xFfP2VJy1XXWHDNxWAHhgWsbZFIZLp81HGFC1vd0esUHDIyPQ2Z2AbJPLngqi_CfrCoyyR3oid3s1J4TkWLhcvC5vm1n8fvcQIjkRL9HSVWXK5PxpfcSjt_KmtpVIDTRLC0iD2tHewAcnm2MNm3zmQvayKU6R4Ny3z64Js3r-_dz3T0GrZSdCs5Kkztnf64CigqCrYPP__2l_xYqEJ_2KOO1GdrZWPA37q2B2XGQtQK47WKsWJGzUzUYReFGBPdSBauJa9TkHoQ980RcAKYEb36iibckcXU3F3qZqyCYyPLW9tXbkYwp-yBmBpUgqAnOxSoQ8EvrJVPoWEOe7rrY2HTw",
+   "widthPx": 899,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICz-rXzXA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICz-rXzXA!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMa6eUkC_znVa4oeCLNx-mwoiN3nCjG6WJSoAT2iVYLTnA_531FKT4XUuAUj-K8i0x087t3_CHlNggoNtvMo7xyegMg7_r0s_dw0_-GgvycAZxQHbqDd-qLA8kRzPFe_3HjBAVp47mlnp5XaJQXSishE9QFbqHeb8tkAb9_6WIQcIhp8KTRjiUUo_bzeEWR6wjGB7mdrdkExrtzv5x1l69aNVvscMHER6SlWxi5rTo7FbTithE9nTjlAnc8-XYnIq64jk3yVQqgJ2CzPBE1w6hKMYtvi3RWkA2NHE3tvQ6w_sBWFnt-a5W3m9Fkb82DxmAwrj2ww7Cw3Qi04rGvHQ3_IERKDJC2_9_0lQLvCvlsFB0AqZy72X1D3emcbaoQr3hlFZigjDdgkg6CpG2bc7uiiYuqWF2o",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKx-_-2AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKx-_-2AE!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  },
+  {
+   "name": "places/ChIJW8ODCXHHBZERXQqf9p8C8H8/photos/Aa-ngMZ3t-4qhghBEI-2h4uABxSWzPNCJ-3IXY_FbYqDIWmjbdYHsMoh3Sm_sGJBGIWZS23spK84sluvtUWmnU4UNkR2AEB6PSAAvWfkDtOiLHnIeqoe1YoEIOeu1CzKzKsuB_ZDyNbmkpEag2DBryoDiKJxIoYHlBsypHbOCDMtdrjNhHx7YyEJqMiALUvl9C7rH4IipUssgNLkL3aHtR7FRt1Ncl0M0F4O8zzzykyigIbwzVr7yNalK2EdnfqdU8NZo-SgIisQBCzIq31tSCyCUoLHU5gIFjYwZmGQ39CbQDTnKftO5MIjw84MFnQ33xU2ScfVle77TKdoyRBqx_OQAF-Vz1qYePkjwqNcpbqSSW4HoRKmEowL33MgLrny2SoffGUGfZoUegu148kbp8C1lqnccdH6",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Jesus Manuel Garcia Alfaro",
+     "uri": "https://maps.google.com/maps/contrib/117291168312187699015",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLiZGJzvnxAKjSbtkOgpvjy9VQxy91bLzNpAC6uGTEEbt_XeqD=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDKx5-pswE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDKx5-pswE!2e10!4m2!3m1!1s0x9105c7710983c35b:0x7ff0029ff69f0a5d"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ }
+}

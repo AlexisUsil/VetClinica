@@ -1,0 +1,390 @@
+{
+ "id": "ChIJZcTaaOPHBZERi9dgR3lLbfw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "996 559 227",
+ "internationalPhoneNumber": "+51 996 559 227",
+ "formattedAddress": "Daniel Cruz 373, Lima 15038",
+ "addressComponents": [
+  {
+   "longText": "373",
+   "shortText": "373",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Daniel Cruz",
+   "shortText": "Daniel Cruz",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Copervide",
+   "shortText": "Urb Copervide",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15038",
+   "shortText": "15038",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.116207300000001,
+  "longitude": -77.0055423
+ },
+ "rating": 4,
+ "googleMapsUri": "https://maps.google.com/?cid=18189277454279956363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 12,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–17:00",
+   "martes: 10:00–17:00",
+   "miércoles: 10:00–17:00",
+   "jueves: 10:00–17:00",
+   "viernes: 10:00–17:00",
+   "sábado: 10:00–12:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 2,
+ "displayName": {
+  "text": "Veterinaria y Estetica Luckypet",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 12,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–17:00",
+   "martes: 10:00–17:00",
+   "miércoles: 10:00–17:00",
+   "jueves: 10:00–17:00",
+   "viernes: 10:00–17:00",
+   "sábado: 10:00–12:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Daniel Cruz 373, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJZcTaaOPHBZERi9dgR3lLbfw/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbnBpNGVREAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Jose German Wong Chang",
+    "uri": "https://www.google.com/maps/contrib/105352641587314810755/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSnvOTl9vpyukxH7Jsz16N5tP_moTycR6yk_4uuL4Zi1zyFA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-07-17T14:46:13.669813Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKbnBpNGVREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKbnBpNGVREAE!2m1!1s0x9105c7e368dac465:0xfc6d4b794760d78b"
+  },
+  {
+   "name": "places/ChIJZcTaaOPHBZERi9dgR3lLbfw/reviews/ChZDSUhNMG9nS0VJQ0FnSURZenVMeFB3EAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 3,
+   "authorAttribution": {
+    "displayName": "Soly Ortiz",
+    "uri": "https://www.google.com/maps/contrib/116697418548165198728/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEFdIzUhfNSHJMtnOmq9usX0_dInvXuWRuCUpgSRwwcuaco9B8=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2019-05-12T14:02:31.915089Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURZenVMeFB3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURZenVMeFB3EAE!2m1!1s0x9105c7e368dac465:0xfc6d4b794760d78b"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZcTaaOPHBZERi9dgR3lLbfw/photos/Aa-ngMaDYQond2-w_0yocQZdMApNaLMKj6ZFNsVW_4Uhh1A3C8S1UJ_iIiv6mFejJpdEyEc01oUzHQhUFYxgrro4kO87CItbzAhLQzb74L3Ay10-weE3UdtCBIOBu9eDi-PqqbNnp8ai0ouGL6oV5wxZwkaN93MA_zd08ExdQ3Aj5fQ1C10dHg7myyQaNrd7GJaLDHubFzy7yIAkF2LwyWv6JfbDvLztyfssRn23BXibgLUqyNPDY2nwoulW1vTID35u4BiyLWkeRQM-MWZWR1LPmNJ3GNT44qmxzfsvlKnM3nxykstOj652GGeWKOzLHv9c3btKnrC-3WOpMMoV_duwejSnWkNLQNT8FjHoc6ZuJdueelDUkRORwQgVqpNcnUg1so7nmeDvYyNDu-0KZvUWvMY9SixjH6-AfLgsOh8VzIqojQ",
+   "widthPx": 1536,
+   "heightPx": 2048,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria y Estetica Luckypet",
+     "uri": "https://maps.google.com/maps/contrib/107758801949240567492",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM3TFh71ss3E83gkwZxgA65kLzGMVX49N8Xl49kDa73s0X208=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICaq6fnVQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICaq6fnVQ!2e10!4m2!3m1!1s0x9105c7e368dac465:0xfc6d4b794760d78b"
+  },
+  {
+   "name": "places/ChIJZcTaaOPHBZERi9dgR3lLbfw/photos/Aa-ngMblqd1fEu-HUbNlrv4haQazFBOrc40xNsccs0vBUSO1w0VBxUywvPD978BwYLNj4zCprfQFuhJwih0mLM-_XcTe9YRVOqYZreEVwoPRz7guRMkA7sg18MvfDjGcpI4LkUmBNu6tbi6S2UYtoxvGxxTvbbYsEZnHBuUwsJrpB14kuGLqFCL2cOJMG3nW0xWXG1-k_nHbPoaUKMgiYzr29qBIhl5zdYfhllaczt_WnUiwuz-6Gb_etJ20ZBL7DefGalxM_pUnzhpbpLtLXADpVtjb_-v1P_xhvKO69LC2MRc1SulkHbwGZw5e2jezNLeRt5kXVknbeu4zl7V2Grgi0yJUTh3Ad6eYpGQ3K_BcDwc4Q1RYSzzsVULJOmW9R-cLwYaR-SNgPa64IXJmQmKFfbgMha19kQmODNXLEyAYNe_t_qPD",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria y Estetica Luckypet",
+     "uri": "https://maps.google.com/maps/contrib/107758801949240567492",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM3TFh71ss3E83gkwZxgA65kLzGMVX49N8Xl49kDa73s0X208=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8yNnpiAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8yNnpiAE!2e10!4m2!3m1!1s0x9105c7e368dac465:0xfc6d4b794760d78b"
+  }
+ ]
+}

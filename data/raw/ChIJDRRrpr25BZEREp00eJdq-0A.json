@@ -1,0 +1,562 @@
+{
+ "id": "ChIJDRRrpr25BZEREp00eJdq-0A",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 989 171",
+ "internationalPhoneNumber": "+51 999 989 171",
+ "formattedAddress": "Av. Mateo Pumacahua Mza. L1 Lote 8A, Santiago de Surco 15054",
+ "addressComponents": [
+  {
+   "longText": "Av. Mateo Pumacahua Mza. L1 Lote 8A",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mateo Pumacahua",
+   "shortText": "Mateo Pumacahua",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15054",
+   "shortText": "15054",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1931263,
+  "longitude": -76.9788481
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=4682453436371082514&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.veterinariagonzalez.com/",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 116,
+ "displayName": {
+  "text": "Clínica Veterinaria González",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–19:00",
+   "domingo: 8:00–18:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Mateo Pumacahua Mza. L1 Lote 8A, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSb1lVSk9UMFZLT0ZRd1lraElkV05sUkVRMWJGRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "recibí buena atención por parte de los doctores y los precios son cómodos, nada que ver los comentarios negativos. Se los recomiendo bastante🙌🏼",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "recibí buena atención por parte de los doctores y los precios son cómodos, nada que ver los comentarios negativos. Se los recomiendo bastante🙌🏼",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Margot Hurtado Flores",
+    "uri": "https://www.google.com/maps/contrib/102523125083525614052/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKA_9iVjhHErlkT3QK8lJMtRHAJYGSctswO6wEpsVUffv3ozQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-08-02T00:36:00.697950689Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSb1lVSk9UMFZLT0ZRd1lraElkV05sUkVRMWJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSb1lVSk9UMFZLT0ZRd1lraElkV05sUkVRMWJGRRAB!2m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzaGZQdnJ3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Si aman realmente a sus mascotas no la lleven a este lugar ni para el baño. No tienen cuidados sacan falsas ecografías, no diagnostican bien y dejar morir a los animales por un simple baño. Mí perrita tenía toda la pata con moretones porque no podían poner una simple vía, todo morada, brindan una ecografía falsa y mal elaborada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Si aman realmente a sus mascotas no la lleven a este lugar ni para el baño. No tienen cuidados sacan falsas ecografías, no diagnostican bien y dejar morir a los animales por un simple baño. Mí perrita tenía toda la pata con moretones porque no podían poner una simple vía, todo morada, brindan una ecografía falsa y mal elaborada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maria Irina",
+    "uri": "https://www.google.com/maps/contrib/105632304961339678422/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlFi-QenuMEaR3jHP0adP0nV8vW6lp3T80_FHnTH3sr-taLA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-16T21:52:59.196717Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzaGZQdnJ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzaGZQdnJ3RRAB!2m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUVJrVlZNa2hGVVhoUFUxTTBWME5WT0V4TmFVRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Mala mala mala mi coneja fue x una diarrea me resetaron una inyección se la pusieron llego ah casa y empezó a convulsionar y murió.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mala mala mala mi coneja fue x una diarrea me resetaron una inyección se la pusieron llego ah casa y empezó a convulsionar y murió.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carlos Alberto Zárate Becerra",
+    "uri": "https://www.google.com/maps/contrib/112263079426678993755/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6ek3FxC8V55H_TVgln2V_qkDY281njRLe1ZVdo8CrOQC0vw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-25T21:12:42.434707695Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUVJrVlZNa2hGVVhoUFUxTTBWME5WT0V4TmFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUVJrVlZNa2hGVVhoUFUxTTBWME5WT0V4TmFVRRAB!2m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/reviews/ChdDSUhNMG9nS0VJQ0FnTURnak5mQTJ3RRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "No había leído las reseñas antes de ir a esta clínica y cometí un terrible error, mi gatito tenía una obstrucción urinaria y lo sometieron a un sondaje y le rompieron toda el canal urinario . Muy aparte que pedían un montón de exámenes inesesarios con tal de que gastes más , aquí adjunto las imágenes de como dejaron a mi gatito . Muy aparte que la doctora es muy incompetente y ni sabía el diagnóstico, y su personal son puros adolecentes que recién están aprendiendo y en mi delante les dijo ven mira acércate para que veas que así es 😪 . Soy una persona con ansiedad y ver a mi gatito me dio una crisis de ansiedad. Espero leean esto antes de llevar a su mascota a ese lugar 🙏 ,CLINICA GONZALES DE MATEO ( JUNTO AL ESTADIO )",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No había leído las reseñas antes de ir a esta clínica y cometí un terrible error, mi gatito tenía una obstrucción urinaria y lo sometieron a un sondaje y le rompieron toda el canal urinario . Muy aparte que pedían un montón de exámenes inesesarios con tal de que gastes más , aquí adjunto las imágenes de como dejaron a mi gatito . Muy aparte que la doctora es muy incompetente y ni sabía el diagnóstico, y su personal son puros adolecentes que recién están aprendiendo y en mi delante les dijo ven mira acércate para que veas que así es 😪 . Soy una persona con ansiedad y ver a mi gatito me dio una crisis de ansiedad. Espero leean esto antes de llevar a su mascota a ese lugar 🙏 ,CLINICA GONZALES DE MATEO ( JUNTO AL ESTADIO )",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jhordy Jimenez",
+    "uri": "https://www.google.com/maps/contrib/115103181849448477888/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_M1wk-rMCYPBBIIsnCaoD5lUb_lnmsvsIiKEkNSTk8Tj5XfSqZw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-02-22T23:48:04.448395Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnak5mQTJ3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnak5mQTJ3RRAB!2m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzLV9mYUNREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "El peor lugar, médicos incompetentes. No saben diagnosticar y exámenes de dudosa efectividad. Dejaron a mi mascota morir, querían operar cuando se estaba desangrando y no contaban con banco de sangre. El doctor quería operar un inepto total.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El peor lugar, médicos incompetentes. No saben diagnosticar y exámenes de dudosa efectividad. Dejaron a mi mascota morir, querían operar cuando se estaba desangrando y no contaban con banco de sangre. El doctor quería operar un inepto total.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Katy Santaria",
+    "uri": "https://www.google.com/maps/contrib/109130178258576512822/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6IxMCOevUFrkoTpndCYaCJUh_AhFUeC9YHIbyrD2NylMGbw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-19T11:56:23.063836Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzLV9mYUNREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzLV9mYUNREAE!2m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMa1nfygvflG2EqrCmHNdayZphmgI91x_4BJZ_tyPeROhF2DUXsQ6OCSotIB1fqF2kh2e9YAa0Jsuq8Wn6_fYeJX-wPgUaxfTRp3TSFoPkR0Sdb_CwquziaQBx5FumDE001HnX-gl2c58Y-VpTYvLZSNG6dNA6JNvLxhkPDPD5Zo2IuqGYVLJUwNVyeMiK-1rv1pjNpZa6TeMiYBYBy_uOHikH7ecRT6U8Y_VW_JfsNcF7Nk2rWPuxaGwb7ayhs4qZPCowhqx8QlFox6PZq25cHIuked_9nYEZYKZhVcMC3eek1b1jRpm8VFROYBt9lZ_5TObTrGWfc7G0T-uf54n_K_T2jBtkC3zQCSWJlGNhtZ5o_ypJvdu-RxndRX8PlpUfAVKGs02kzt8ikbOXqjN1xKGtaAuhI",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria González",
+     "uri": "https://maps.google.com/maps/contrib/110250703097923856959",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMqtbP1Gidnh84J7wS3AntJOjt7u-Ip20qvZWrirrsIdYn-I=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWx8Xn-wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWx8Xn-wE!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMbEJx1c-7d81pOyKQTaRUWpSJI7X9A_FvRJlQqwLj_G_t8kMj3wfq-o6c3tH49cTCfNFmIvpJ5utJttAO_MfjqV7V10v6a-dNY3PE49THm6hXHaEqkELSw2DgM5ClJChD20UlTskS9-sVQd_G9jDJyzH57RW1kPenuzMneKka6wroSPepo_Kz3mv2AuFUKd4s9nh4jC4NPZJa8NWvN0N5fzCsxuEgXMMK8q10TO6DIga6gaOk0s0DuQI-4vwQsfT-xvf85t-Gee5xv9JL-A6VgTwzC5WtCFdMRAwCMUoskYtCGL01vO4T7AyEWMlilZcXFfMg1IOs5NpnaRhO2vVRdONecgV-cek3vO73BA0VcWxY3Ugo5xXm9BT6oVsMLnVUmhaWUGqYHYVRdkD-e1t4fKxwY",
+   "widthPx": 3456,
+   "heightPx": 2944,
+   "authorAttributions": [
+    {
+     "displayName": "dennis palacios",
+     "uri": "https://maps.google.com/maps/contrib/117257982975937621376",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJta29e2WocDXR0tKXUe1eM88-ijRJABm1YV2TwCVMMuGEtfQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4-7LFBQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4-7LFBQ!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMZLuUCruo0Q6dz8o4oKxW7tMkGlVdMN9dpjOa4OSYrmgqdea9jW_q0rQU-_17HGuCYofd81d3mm_4SVPmmN7xq9j72IXZWIh-rcXYKPfaTpCXF5BSFyEy7lkEdNBljyOWAClrV0l5-OKkCeU3kyrjjyYuIM_uPyGbxaF0rvXDYi2XkzH96QqWKRIE4agKXG2tzJ9VTlqQk2JmK1-ZJR93hZ6bEN8HD_HCEffsDqKH4xYh45uRP31MJpIP75PXVPbEnQCaYKShNVjWrcezIModCNIgs1kh-Km4P7mSbRIaCRUDmeZTBSSJRY-LKkhzx6-7Egd_-us7Bboc-XsW9mQHymKRQQan68N7pwMFX2FGxR-YOBc4nh81ICIn8e01BlsyALlXCPIK6aUve5PzMTC2w5brK7",
+   "widthPx": 3096,
+   "heightPx": 3186,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria González",
+     "uri": "https://maps.google.com/maps/contrib/110250703097923856959",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMqtbP1Gidnh84J7wS3AntJOjt7u-Ip20qvZWrirrsIdYn-I=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICGxtWHuwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICGxtWHuwE!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMYHeTreHp5CfhT-5hF_Dc8a6IpnSk84nApYqTckiEPOPT2Tnkwms7od6yHJECvMyUfOtyoJXRYrAAIriE-qtGsQ3LsbVFa8mZSl8IBJ4YbHicVWyFMQS_WwQzJgvTshfnLzCKObzIgw1quKfSGZgc0iH9UVDr_TPaY0zNLs5J9rbxJL0kzUnw2YMDUJnF5zxhJBBBwDVVRxpUARB7EudvLN481Oc785U3bNxkIIhK36nxvNQx5_oW0Oie4CmZ4q92l6v3J6LHIEegmSVlc4tbL_jmhXfmYTuaqg487rpCglxaBkbzPT8r7yUqh1YNe9v4oYl6khy5f83663lUNOM0HBCmIaKOdNHwNnimEDbCDtaoWd-9whOod8yaEHSAob52i1Ng5CjGuFKg7Ejd9ygYJrabk",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Cesia Francia",
+     "uri": "https://maps.google.com/maps/contrib/109611034450860205416",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOMcY_71I3luGdOOJeUXOZtMxW_8Ri7obzSsND2vyp4VdYyeBG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDE_6OWfQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDE_6OWfQ!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMb-8zg2qiV-9QItLi0YckhW2SPuW_gfpuEXIsyEsLqRRnbvPyvW_HdTQfbA_ELpfCIodZpBCzZQZp_-VFsylEz3HhO44qH_ADRQRecos1Zsq5ILke9rNmqgXQZsM98RoJfPluImpL6NEK0gKE8iEH1LNidHZ0ReGuRR2GQqXslXH--L0kok_0EbfFF5mUGj05mwtktjGeBm03xC9r2euaQj6oFT8LxnXwmcDc4MCXWwL2-QfS4N-gEpVYfPZ0r1exXILzZgP1I2wtNOKlZC8or-gm4jxdq4xZra0JGQIZ5ckmEhQogfHJ6uxWKkPvLMKlSYc403PBjbSvApwjorkcBtPg3OkcKvib-8LbHPIwCTB6XqZJz9wZy6fkan4ukvUjpVFFhffW__smVSGhfANRM8UJPx6UM",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "percy guevara",
+     "uri": "https://maps.google.com/maps/contrib/116022455812675226759",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJIHlglU84hIoTSR6QsFtT5E0G7CMMEpp1qv0ozr0GUcAVxMo=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqusa2wAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqusa2wAE!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMZrAIgfJHi7Nsi8nta0PbgYUgUlElE66kALrHkmyHpzpo3ViTRye5JOc8LnrwWsAG3BH2NYfMX8rSAs3yccCmqrpiPYLyxzaiSC2pHqoDueH2uDT2ZzRuhAWDKUasRmgxlN3hS7K9vp9G8K5IOpB8m91BfS1a6Yh9h2jdnF-5n22CmaxYxQqH_H88mfUfs4qrOf_eAiPr0kZWRLC-KukbpE4Rm8dKPNX3IEuTZa86tkTyaH7la7fQ-SLifn4IpGQiRS3UmSGMvoBkGfZOaqI7LjKrf0QEchzS_aYZixr2SJLNwlM4SAeV8_0imk12keUF2ANCCYuItzONxsddEpbt91V13SvdKfwIans-2b7nGgno1l392gZSNXZR1LYqnWgD9sa_nXzd8lyRWgCqCEHxB0U95ELrM",
+   "widthPx": 704,
+   "heightPx": 1040,
+   "authorAttributions": [
+    {
+     "displayName": "Clínica Veterinaria González",
+     "uri": "https://maps.google.com/maps/contrib/110250703097923856959",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMqtbP1Gidnh84J7wS3AntJOjt7u-Ip20qvZWrirrsIdYn-I=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWx_H9hAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWx_H9hAE!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  },
+  {
+   "name": "places/ChIJDRRrpr25BZEREp00eJdq-0A/photos/Aa-ngMYrtp-44fhUUhYRWqBbMzDGCZRH7VgKukYVKEpf-hViITRUKwN-ifoTK7GQe0n-l8MF1o01QjxRMJkNUPGG6Yr6ZxzcwhiNQA_qE0c8FjDagmxTbsc2QQjlM2GaUmZkIr242Dubdpy0UsyjzTWjtMja8gmWaEgiusUbB2LupTGVEZXzztM0Kb77_LOhYq6czL7v0L7sqNAth86XP2qLLcp2EBe086LMun_WR2CIL9OKoXBaj0Gte6Rkn7k3uRi0MM42kQ0RYnL7zAKBaiqOdK9nuvZrL6tMW8xgeqbMp2cXPsGEq8EUuEIlagtSypGwtX4og6hXy_z3z3cXFIOqERMQGa20DXyzjvftSdkyH0yr0UVtn3m2WvBQiHIpMzmwAVWLCk7hWTBn05H0MW6jv4uFGcK2sGm418mTFrJSfQp_KA",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Carlos Alberto Zárate Becerra",
+     "uri": "https://maps.google.com/maps/contrib/112263079426678993755",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6ek3FxC8V55H_TVgln2V_qkDY281njRLe1ZVdo8CrOQC0vw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAdh2hKS5hesxyN3a39Nzaf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAdh2hKS5hesxyN3a39Nzaf!2e10!4m2!3m1!1s0x9105b9bda66b140d:0x40fb6a9778349d12"
+  }
+ ]
+}

@@ -1,0 +1,519 @@
+{
+ "id": "ChIJGfrvizXGBZERas-452ai4BQ",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "point_of_interest",
+  "health",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "958 072 234",
+ "internationalPhoneNumber": "+51 958 072 234",
+ "formattedAddress": "Av. Circunvalación 2702, Lima 15021",
+ "addressComponents": [
+  {
+   "longText": "2702",
+   "shortText": "2702",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Circunvalación",
+   "shortText": "Av. Circunvalación",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0794453,
+  "longitude": -76.9881462
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=1504380838399758186&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 40,
+ "displayName": {
+  "text": "Top Veterinaria - San Luis",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–18:00",
+   "martes: 8:00–18:00",
+   "miércoles: 8:00–18:00",
+   "jueves: 8:00–18:00",
+   "viernes: 8:00–18:00",
+   "sábado: 8:00–16:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Av. Circunvalación 2702, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkQk5UVjJSMmMwUzJaS2QwZHFNemN5VVdoSlEyYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "Mi opinión es en base a una compra de Azodyl unas pastillas para gatos con problemas renales, me la recomendaron y debo decir que el precio es muy bueno y más bajo de todos los lugares donde compraba. Ya he vuelto a comprar por delivery y estoy muy satisfecho con su atención.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Mi opinión es en base a una compra de Azodyl unas pastillas para gatos con problemas renales, me la recomendaron y debo decir que el precio es muy bueno y más bajo de todos los lugares donde compraba. Ya he vuelto a comprar por delivery y estoy muy satisfecho con su atención.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Julio Barreto",
+    "uri": "https://www.google.com/maps/contrib/102316954641876828530/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxCfYMCyypuUwq157gcgQWOo6lrTPiqtPtR_Dlnil7lXw9Fr-O=s128-c0x00000000-cc-rp-mo-ba6"
+   },
+   "publishTime": "2025-10-04T19:11:31.593523815Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkQk5UVjJSMmMwUzJaS2QwZHFNemN5VVdoSlEyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkQk5UVjJSMmMwUzJaS2QwZHFNemN5VVdoSlEyYxAB!2m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbGZMalNBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Variedad en productos y también en precios para las mascotas de la casa. Puedes pagar con efectivo o tarjeta, siempre hay alguien que te atienda cordialmente. Por la ubicación es probable que no encuentres estacionamiento frente a la tienda. Es mejor comprar aquí por ejemplo vacunas y que un médico veterinario las aplique luego.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Variedad en productos y también en precios para las mascotas de la casa. Puedes pagar con efectivo o tarjeta, siempre hay alguien que te atienda cordialmente. Por la ubicación es probable que no encuentres estacionamiento frente a la tienda. Es mejor comprar aquí por ejemplo vacunas y que un médico veterinario las aplique luego.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Hunter Curious",
+    "uri": "https://www.google.com/maps/contrib/107349020455386015889/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkMOI5tSxgTB3oqv2yKSRb7OHc3u27hwJiSFwf5s-zeQJU7g=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2024-10-18T22:07:45.131209Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYbGZMalNBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYbGZMalNBEAE!2m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzOGRleXh3RRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 1,
+   "text": {
+    "text": "Ayer hicimos una compra y supuestamente sunat tenia problema de conectar con su sistema y nuca enviaron la factura te agradecería la regularicen.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Ayer hicimos una compra y supuestamente sunat tenia problema de conectar con su sistema y nuca enviaron la factura te agradecería la regularicen.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "PETFRIEND PERU",
+    "uri": "https://www.google.com/maps/contrib/111087486539609502556/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjTP3dfVow3ZiYit385M5iZCf6rNHUiuVmXXZASl6wCl8mwmZj=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-02-05T23:59:59.491126Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzOGRleXh3RRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzOGRleXh3RRAB!2m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURlOGJyMUp3EAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 4,
+   "text": {
+    "text": "Buena atención y me hicieron una buena promoción por comprar varias vacunas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buena atención y me hicieron una buena promoción por comprar varias vacunas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Tayta Inti",
+    "uri": "https://www.google.com/maps/contrib/112750732119195926438/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDRR7B5eLfBgnxmHSkWJYHeqM-xBGtloFN_2WFxvcISZ5ob_Yy=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2022-10-13T03:07:37.736830Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlOGJyMUp3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlOGJyMUp3EAE!2m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURkakozMlRnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Buenos precios y atención amable en venta de remedios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos precios y atención amable en venta de remedios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sergei Barreda",
+    "uri": "https://www.google.com/maps/contrib/109348380681632050114/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkLLqBQu6zdTFpw8qyN8x1EJ3ADsYld62e-LeveoO532T_Zw=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2024-02-21T12:08:02.852990Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURkakozMlRnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkakozMlRnEAE!2m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/photos/Aa-ngMa-U7zMY78M9nFXuucCp856dC7_aGPxYPEPQgWbQR7XQSzeURrBV5uhzEGDuvIdEcF7G2cKVlDmRyPagANXfhdBMFrjCU244UT1k4teqcIuw-7VMttZFYYq5AEQqDqEAWv3VP5S8J8Jm57GtBcNDCbrbpJIJ6ykAa94opS1a_nmVtSxTPu8sF0rN5VdSpHxyOLF_DKnpCSdv4XyftyPOfxmZpFbth4s0LD8Zz1tuwpudVFUrG95fN9R77q_oKCTuMupZYi1iwkxjQizL9v7nmwC_E3Zg4sOi_z996aIYHElvPP9uBkA880JNlqrtg02H6FGM-yw_UxhbL1QtYQ4q3l4kWqIDD7cJ-yJHhgvz_wRP9DQrGW2ND-5bZH094SG83mjTQ0BBR1EAo3y2mXVPKnYDMxIDEJXwXE3EIReN-_OhAzAkwreByMRv1gPdJW9",
+   "widthPx": 1856,
+   "heightPx": 1438,
+   "authorAttributions": [
+    {
+     "displayName": "Top Veterinaria - San Luis",
+     "uri": "https://maps.google.com/maps/contrib/113645887218323628183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFIfelmgluxiy2A_2VfQk340geGu1jH5_gvGyPMpyF4N1nPgQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADydER5C1nfmfz348AA7wW&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADydER5C1nfmfz348AA7wW!2e10!4m2!3m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/photos/Aa-ngMaXOraOi9XxEcuQBc89AZb3lnQ0Jyaps2_CL5xeXCCmg1aWT66hes8t_bCXpEmDTc86BnvnEmroYBgaL4wVpvbv24fE277z25X_HsVdNt-CrGtiH1yz0FvXtctgO-oVlKiie06q7F01qxLPwvmT7B8CoU8iZLplvI_Aog3wEySWhPbuJjg9K8KdAdXzzgOoHjH_leYwm4Xf0odocGq_erEpNCtCCiWp2kJTMjF3SHMGQUxi1-ELzZhHXTxypkRhaVr25Q1huTvMcY-UV0ZyrdXJpEg_QVs0oDLJ-CYhUmoheq2bqxaoc_O63Ruvhoq9gZfgu2uuh52ytocoUPMRL48mOWAxhJvovXUF4h44lVr4PAoyUSvOXS2fDeMHXAknivcXzzENYKj4R_MR1Q24VyhTWqTe1mX7N_mXYolwT4a10J13",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Top Gestion",
+     "uri": "https://maps.google.com/maps/contrib/102424018067657947530",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjRxJJZrL5KdLqI_mwgQKrRb9Cxm7KzwvtPPt2bj85hCvxCvB8=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID44f-FiwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID44f-FiwE!2e10!4m2!3m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/photos/Aa-ngMax_MEDjg39wQhnIz3MmRSTYbuj8plJNMR0frIz2WXJ-jL8Af-wk0mV8z0Gj4mjhZd-Esmr3p0aCNTU_NZTHK5DBeyQgYoR_JqNCOgiNKYs_VLAr7aEov29G01t-yxHmuMc8ej5dQ53jX-y_PbQVqBF-vf134b-PJxHfrJTwmJ1UuF6tEGy_jTevkTirXM5VPJUSayEabytU1azGPf_9efiZeyYGqYkPORhPrMrowVhqMqBr2f958yXnGohGW9mcoyIYpZ8TCyl8YA5bXFivBSXCN6l-viISvMIx8IDw8Tp8-VN3b-jMM0_agE-mVSRi7caXD09CEkkBMB16_ujjKoKcc3jhxPyM8yNyNOzWKwqa8Uvcmz-75ceg-avVyqZnfIK5RwXQH5su9_9r5jS9APOTVEDSNWzWiVdZFFRaL4UCA",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriel Leiva",
+     "uri": "https://maps.google.com/maps/contrib/108079459127470196165",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1_vCeD3ibL-LpxbfH-nURruYM8Gdd5STK1wLjfqojABjVVnDYYQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID42_-SKA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID42_-SKA!2e10!4m2!3m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/photos/Aa-ngMZrqurRTbMK78FfckkRFQepWDjTDoamGPiNTwHSuO6ImkVuDqNvPoHg5wP1rP7HkPFktIwQ3tIrYsRSSs9YSEjmbrSaagLNFpi-EGQUigUi8M8UtjwiZYWKWhr4peOL_mb47FxXh6ges1mzwBbd6Nlsh87U4-5d_6W5SHfAKT_IfPiClnwpUN9803tmXghft1hFr29_5NOeTCa-D63scR-JN0khKghFNL6n3JzHsqU1-S_0pN-tg96uVZCjDLJBgq79bShfthe-JhK3jproa7YHNzewJXE_T8pGLYyjDRpgPa2WHiZo3viO7-xhE9aiJ2WvvRpVofxPNufBuiiFPsjOs6PibSl29lPKOxnnMaeBe4RBI5u9UaXClTycFsZB17KY6O0K5M5_QS6xLzIb7kZKFAAHfnJ2FjVobLXu6QhthQ",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Leonardo Valencia",
+     "uri": "https://maps.google.com/maps/contrib/116073293476097420872",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs67Qx0stVo4Us7ohkqLfGL_DFDMeu-fn8xWiFLQz69KEIctUG=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDPr6DdBA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDPr6DdBA!2e10!4m2!3m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  },
+  {
+   "name": "places/ChIJGfrvizXGBZERas-452ai4BQ/photos/Aa-ngMb-UFO3z8AZ2G9SXLY2mdGcx8UHWl7YEqLqf3kU1rmU8MazCbiQ7y_Y6vOBq28JGzxCU8xjlKFlo8KqUziaurCp-lsPSrFJfqUHe-ZoFF7U6kmFpSv1zAqJ48vDVfOOrBp4WBuyyc0Jppwr7jHOIqAZBAw8Lx_hmZRcNjd3B6o5qfalCwLQtejnppm_kLmvbW7xU9BOikGdHLBQPmYVWety9EtZxcQ776YWDWQixYICCxNDdXvwdCOqj7DzZ3yA-zlxWbDDUdJFRsKx7f4GrVfToxhm4BV0MR76vBKu2Pcg6FEuLaMuPMDmI_5CBQGYJeSOIehgIw5YF3H6LR79Dzci4CG5h4rXnGg0Es9J_lj_7x-Uy17ENQ3R5ftpC6vxmz3T16QcdD-FLXvQvRnZKH5MItTVqNu6dP8UkPqYjJCZqw",
+   "widthPx": 2448,
+   "heightPx": 3264,
+   "authorAttributions": [
+    {
+     "displayName": "Top Veterinaria - San Luis",
+     "uri": "https://maps.google.com/maps/contrib/113645887218323628183",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFIfelmgluxiy2A_2VfQk340geGu1jH5_gvGyPMpyF4N1nPgQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICJoa-WZw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICJoa-WZw!2e10!4m2!3m1!1s0x9105c6358beffa19:0x14e0a266e7b8cf6a"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

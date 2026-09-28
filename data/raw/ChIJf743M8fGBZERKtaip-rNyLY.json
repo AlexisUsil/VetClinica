@@ -1,0 +1,603 @@
+{
+ "id": "ChIJf743M8fGBZERKtaip-rNyLY",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "933 588 814",
+ "internationalPhoneNumber": "+51 933 588 814",
+ "formattedAddress": "Calle Wiesse, Mz. A Lt. 1 Ate, Distrito de Lima 15026",
+ "addressComponents": [
+  {
+   "longText": "Calle Wiesse, Mz. A Lt. 1 Ate",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Distrito de Lima",
+   "shortText": "Distrito de Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urbanización El Banco de Javier Prado",
+   "shortText": "Urb. El Banco de Javier Prado",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15026",
+   "shortText": "15026",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.060483099999999,
+  "longitude": -76.9354068
+ },
+ "rating": 3.9,
+ "googleMapsUri": "https://maps.google.com/?cid=13171003517963523626&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 32,
+ "displayName": {
+  "text": "Vet Grooming",
+  "languageCode": "en"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–19:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Calle Wiesse, Mz. A Lt. 1 Ate, Distrito de Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kMlpIRTFhemRLV1Vwak9EaGtSMUJCZVROTlZsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Su servicio es excelente!!! Mi Nutella (puddle blanquita) siempre vuelve a casa hermosa. Me facilita mucho la vida que ofrezcan servicio de recojo y entrega, Son súper puntuales, flexibles, comunicación constante, muy serios en su trabajo, y con un precio justo. 100% recomendados y confiables!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Su servicio es excelente!!! Mi Nutella (puddle blanquita) siempre vuelve a casa hermosa. Me facilita mucho la vida que ofrezcan servicio de recojo y entrega, Son súper puntuales, flexibles, comunicación constante, muy serios en su trabajo, y con un precio justo. 100% recomendados y confiables!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Luz Espino",
+    "uri": "https://www.google.com/maps/contrib/114140293386807890913/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzK-vBiLXez_f2_fL3UzTZqumk114JaDGN5xY3oA5nzRO_lZO7=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-10T14:57:09.682422598Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kMlpIRTFhemRLV1Vwak9EaGtSMUJCZVROTlZsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kMlpIRTFhemRLV1Vwak9EaGtSMUJCZVROTlZsRRAB!2m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMllYcFBiRlZSUzBWaGJTMXdObk50T0VGMmMyYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Llevé a mi Gatita hace poco y la trataron muy bien, previa cita a su número de WhatsApp!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llevé a mi Gatita hace poco y la trataron muy bien, previa cita a su número de WhatsApp!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "G DB",
+    "uri": "https://www.google.com/maps/contrib/104411118548902063331/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt6oiFfmuDd6FP9fDx6UEm60QGeQ_8pEl9hxsRiwcfD72OFA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-09-23T14:00:45.956246061Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMllYcFBiRlZSUzBWaGJTMXdObk50T0VGMmMyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMllYcFBiRlZSUzBWaGJTMXdObk50T0VGMmMyYxAB!2m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwV1FXWkVTVkV3TlhReVVYbzFZVFYzVjJORmJFRRAB",
+   "relativePublishTimeDescription": "Hace 10 meses",
+   "rating": 5,
+   "text": {
+    "text": "Rack Jmr Comunicaciones, está en el mejor Centro Comercial Plaza Josfel.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Rack Jmr Comunicaciones, está en el mejor Centro Comercial Plaza Josfel.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jmr comunicaciones Jarrita Producciones",
+    "uri": "https://www.google.com/maps/contrib/106397718950055919362/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUh03pFXD6gvTZOcOPLwBep-Fp4ZgouOAlbHv0o5S4iCe2ammIl3g=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-11-09T21:31:03.960110026Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwV1FXWkVTVkV3TlhReVVYbzFZVFYzVjJORmJFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwV1FXWkVTVkV3TlhReVVYbzFZVFYzVjJORmJFRRAB!2m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWaGVsaHBRVFpyY21zNU9WRnNXVVZxWkVWMmEyYxAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 1,
+   "text": {
+    "text": "Llame para consultar disponibilidad y me indicaron que sí había. Me acerqué al local y no había nadie. Estaba cerrado. Esperé como 15 minutos y nadie se apareció y tampoco me atendieron.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Llame para consultar disponibilidad y me indicaron que sí había. Me acerqué al local y no había nadie. Estaba cerrado. Esperé como 15 minutos y nadie se apareció y tampoco me atendieron.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "David Adrián Fernández Quiñones",
+    "uri": "https://www.google.com/maps/contrib/104634392522889194098/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6jo-5j5LNgnOE4gw_Yki2W7HB9SiTIqFe63Xcoc7K1j-JZUUpdw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-01-21T20:05:01.969066360Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWaGVsaHBRVFpyY21zNU9WRnNXVVZxWkVWMmEyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWaGVsaHBRVFpyY21zNU9WRnNXVVZxWkVWMmEyYxAB!2m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbTZLRzFBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 3,
+   "text": {
+    "text": "Buen trato hacia las mascotas y atencion al cliente. Baño, corte y venta de articulos y accesorios para nuestras mascotas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen trato hacia las mascotas y atencion al cliente. Baño, corte y venta de articulos y accesorios para nuestras mascotas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Cárdenas",
+    "uri": "https://www.google.com/maps/contrib/107725310665754267997/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqh7CLntAx2xt1vurYA7OHkt4tL8D3ue0UgxnQ7ttLrGw0XsFD=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2024-06-27T17:33:00.491991Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPbTZLRzFBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPbTZLRzFBRRAB!2m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMbwcHnby6MT77S7ex0HlogvAL9jUoETzyvyBDMIY4RERBWuytxmzhw4yYRVEiKOk5f1ogYKB0bQPXWB1etEnl2B6jT6rl3dP8cq3P1IEllALHElKvYVnG3mepRlHNmhUhuqPRbQNsf1uJ3jRe--aBeG8arQqIqTljKRoCI0TgPf6H99oVWlsAIJMmPW8Sww11Fpqqusl7pugD1CrtjGvgFYEr0tBgvX6JOr2GYJc5zvp-NG2ihdPO0ZmrjPV1eklpEtMsfmVDA3a3DkmwNmT8UOX4AEtC0o3Wf9otXke0POGlZ4NunLpTVuj7o-vgpz3t5i2qVWcnr-OAfxpb8mjzFITwtHfkdYafX6aP4UXNXJ8R8nIbIyktUYyNjdd0otpz7JQ6oeWlryfLFjL4yKHQgRcp7cga9gAsCfsbPH3c12QQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Narda Alata",
+     "uri": "https://maps.google.com/maps/contrib/115774025676868558321",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1Uy9zbxFnb9X7Te6HJnYP3Ht9d5mLAkGSmLKlVRqLU8OV-abg4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICyitu3KA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICyitu3KA!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMY3Ts66ZdqXZpLq2sg_XKBWK1SQvLz8hIgYB0gXKoSfnJ_3DsS7VF_8DT9VtHiLh9O_VrNN4ZKoQrvwwi0G1resn4B0kqR73bYvLbrjP6RX5AqHlAGzj8JJm6jjoEvXr-26-Sv-ZFDwyg9m6BLLcFAEsAsBzFIpfx35-_Yq1rsHTqkdt8eECR-o5UCQQ5CtbiK9RTvLF73T3oTpihHODLZx9RhKIWqQ3z_AY5yBuHmTknc6VqOlUj9xaNmEt52VIdLHG_VZbkKM_s9DtRVR6BBtHRLn3JGqdcQ1WUCinPWCfT2Pu7oo5aWLJFS9KM_0VxSWOCkSuMx0_qfFo5zZT1Gd-jRqEOQFZ38Qu8pSDDbrMsTHBBHPx6XtMS_jEjAdy3EdQPzTLKSNybv8R2CJhtCtGbt113CDVMHnZLz-tmlx1g",
+   "widthPx": 2592,
+   "heightPx": 1944,
+   "authorAttributions": [
+    {
+     "displayName": "Gabriela Díaz Terán",
+     "uri": "https://maps.google.com/maps/contrib/117540034899909139247",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgxJZfwlF64VHtR5WpE0yyATulZlwPJOq06sa3z8fuXTJ1SCREWA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDOxPSjVA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDOxPSjVA!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMaoHAE8MSzSBR5lHKTm40LPRpS95Q8R8XEI4eJiPhl_ky8bIgj96QBj14uaDDFxayCllQwdkbT1WLsMWb6e6P-17FslhmOrWj0EGeNcK8uRLcIBCOFqYUmBfJTxtYXaMUhlq7e09AC2QsftqMciGoC6s-pXX5NcjcJBSWOxQLewq3aoTNXkIXy7yQfpwFcCmjYVTrpA83J42o6g0dRvAdP9mL0Poy5FwtxRpq3r6XFiAKKYivWe3aSFBPx9P0JADs6A9tU0z6-2q_os1Ty_k1SBlgMx_U4qZIZQLX082h2eT5fKSf1C7R7_yGhz_rXMCumPHKe7slEN-v-jrSJmYsqy1pejdCMmhJVeRSG8zwriQq7uxXamoHtdW1B-4Wu3vBnEx21u9n_bGbXIdZmUZ90rbccWxY8vjEnNRqzvKwcIArw",
+   "widthPx": 1297,
+   "heightPx": 882,
+   "authorAttributions": [
+    {
+     "displayName": "Leon Huari Gutierrez",
+     "uri": "https://maps.google.com/maps/contrib/102063833464195061214",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXL-dlhhPOWCPiJkUrbkxskUGcupeWT0jvfYlxUiYUeczLI3tt=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqv9K-tAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqv9K-tAE!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMbSdUZBBczisWDqLPDcnjqAWRt8NRQPCmuIFS99SeIwlPA5s9e4cBz44Kn5l2uTB-ixdiRx4IacB9l3ErS4hkYVMqxd80IkyP47639Ne1w4tIbPVFG81YztsYMTK3YhoK6385Uat3o7czsB8-Kz46YlXFacTEc9XT6ZyumiR11bTJQ2h19HAIs_qLIVESenHIc2exbjqsRpeiP1M67LyfK4QlsT3yVK2fFq2La0YzO4KOQcQ_5NbHulgKbcThiwqCC4QQj1OE-JiH7ITmUltxIiio07VeLhtcUtk8FO3kX_WcwdijJMidLrSqOY6qHdq9l-bogpDfs0DlEMQCTzeyCecW8244DlJv1kBdPfvBdtzYkNfCNDPUIwZBH0UQErhfwe0INynFmbikbh44PHy09Ii93H-_rkRR4qCq5unrpbwes",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmpNnw-wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmpNnw-wE!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMZgtTFkkwQcEekSVS65zV57jS0-FA0OWWZ-A75xZ05ODYKATl7zvpVfx4o3KHnPm7L1eBldYwdzwA6Jn9d8W22mf41EqqlN6pUltO4g0Erj20H9uxrQC0a4256A7WZsdxT-2N48EIXqUlMoAnAGIc--6Nxjrs5qEGfzg7X_V8sH1WhOG3iMoXq7LejEHXYuhTLDneEBI1sMUXVyoD0m8SeGHF5jrYjsGITZHb7G4CIG3g1zX0z3AWzr7vho-0pVnvvVYNio4dsy-bPtr-4fECNDFzGl8_hm5CN0zZ_iJXZEulMoAJnEQ4-h7FJtoH4IBAHoiYkrYYU9fwwno4F7cHh_brfHKVslR6jYplT0gIE8jXLX-v5v_SvSpCfM_gf5_Bv7BDxF_rERwDrRyWCEaHPi9Ys0ZkbupK45VBBmye6JGw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICmpJneMw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICmpJneMw!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMYiv84dF3XYn6pFNH803wJlBQjbvY6fB7_viJXdwF1lD42Gques_tPtaxQQqbphwHoE02kSesJBQDCfZ3APo4HCCRSxbU1id6Cr84lWaxQYLsrKHvzEROM6J1RVBnynCIjBxiMrO-X89IebBmwJCfffk5rwNEevlauRdDPmlO3ItsKMkz5PFeXYDH5ssf8L50NIVy_94BLVcfOYc4RijLOhGFn1WOlGEaxeqvr0Yc9zb37cizoX8OTPwPa2HSh2g2aElAbETC9rcF9HIzlPTY7X2Ed2lq-sma2CmxSDHz_rmmkuyPdFubUkZFr-F29p5ba7RoIR6w8gswQ1DUkilUbezmPq8f4N8ObSlH2QyWLbJi4QroXuZQs7P3C7tGDUSjeqnGlE_-iKAFy6DmQKvmbmkJxNfxFBNqxfkzBI4kEbSg",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmveXwcQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmveXwcQ!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMZW99lZCANjHdGbgJSeM36t-nEbRmws7CLN2EgCzxB5XG_k3XhOOTdR7Q3O_we95e7--3zyIjbHZvy_dm_XZ04YXniYxG15BEvnHDu8pGT6Rj0xYIEbUlFNGWmjjhllvx4fCmfMdFfLQZr8sTmQpRRK0aisrrBLKt5KVU0hQF_Htupe5khazue10sLGfj7BUG46jXzCat2vMZRvO3Syd98zUn1zsTaQz6SZwxf-d0BYIO0yasUF7ygQ1pTP2Ay-5LM29nZUNq25oJpANFNZmMjIs3ml3ycoGQDuDLYsLHn3y-nE7V5Omrvme2c1jn4t-F4rgQkYt-XU_Vsqysdxn20k13ZUR06WzVFm1jrynJYLqk_iPane04Aev0NpkIISno2Fh7XtziMR5I-CnxP23PjCC9DDuc6A9dclAcdiW3znFQ",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm_9WFOA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm_9WFOA!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMZVtKpGk2de5gt8cacX6imKdVKO5afUu6_5g8yFsH7VpjC0D-HeULbntMBS7Rm3vAJNw9ZgC4JGrZ_2LGKnnz4wis5v3ovpPROUJAHVTVkCHaXsJW_mugXyhTDeGvvE2LNZ3fVum_kIpnMXAIv6kH52rvIVa1FCs0NdTQZ0_PhnfCUzc67TK7Jperyq4y6rak3kFxPsoor0PNLUMRlhfbdedxmSyophjYhfooERqggm7J82JVuGIT5drRA2aC33Z2arAatS5gAC4q7jtlQxtsTkkGMnjVHKpST7C40vY60VHZe8cnNS6SgLkehwBfwlsVl2LSNunwECUaI2NUCKwc7bH_aOuh0SYomnUsa5X7595_gog7KhYuOGPFPadrj8kKYdOkoZhlKaDzSXLfwpMHgRNyUepd3N_HxTG_QqsesS0kpi_NMaEQ_AaqcRjEz1",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Jmr comunicaciones Jarrita Producciones",
+     "uri": "https://maps.google.com/maps/contrib/106397718950055919362",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUh03pFXD6gvTZOcOPLwBep-Fp4ZgouOAlbHv0o5S4iCe2ammIl3g=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAmTa--T3lPguVYXQ-_Xmi7&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAmTa--T3lPguVYXQ-_Xmi7!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMY7Mlq5mh_TP9fj0QMnxa0YTuezaCULiTtbNG2F_hLq6T6J9hAhZ6iRIKfpORRjwB8MlH_JxP_-pPJu4bPAZkTDYaIYjlY0hX9rwPBoc5i7T0ANrfoBNQ-IMSzLwRmXv4NgQkp7gtA78BqeBIHMbZfertdKlqSd9AaWluzQWQVgMH26fFMTbuqKdMufMvkL1eIjS-hcilry_CQLPDtELs-JWS98RHc-FrEC0m1Fy31usD6WMvB8IdOf2FBUDOvvDbaEblcDDYq29oI3KoM51i0YmSWf3bKPy_0_O4XioRfS_8GRcCv_36D338U3kkcRUCnuqj8P_UAP-Tml3NH1yWnIbkm48yisFXPrEQ3LxF0mGX9u6qtPm-jQKyHcTbRgTJ3lYMCQzXMuOM0P8g9X8R2s4mpxxtSKa1qpad6yD33pSEQH",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICm_9XV2AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICm_9XV2AE!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  },
+  {
+   "name": "places/ChIJf743M8fGBZERKtaip-rNyLY/photos/Aa-ngMZWnN03R69G190ny-klZP5huZi6TAhe3v8kMPhSfas9WLSUrBUYaNYdBcQsdvqXpB0W3diCIjAwIE3Nl2uZGlHelv7vFGj9RADysj9chHexwTbiAX6qgsj1ODK11mbdG8RXSlz1dCzWTWzIncMUOOy_sBAroHUdeL7Ti1QyNWtUfw3EQ4phbNaaHuNum14AynmXua8Ou3zg3ClwYvwZ-iewJ-CzuVIkug8XToltTqX8d0Cgfz5etmgjjbrV8kHXmzwHCPZ-Joa-jaOtEU6t3pSmnPr7hoFV8kDQlpOFfaam3BgCZ2W7UObXpeg1RrI3W6qoZjKsk1Pe_BFsITH2fliVGh5q_c4lDzYXO6JmdKJefiKFHs0MCs1AfWMb-r4k1xlsJbdUxLTefjHz5fTnueu99_RxXiMkjSzD8tm0PGktwg",
+   "widthPx": 1980,
+   "heightPx": 2640,
+   "authorAttributions": [
+    {
+     "displayName": "Pedro Miguel Ruidias Segura",
+     "uri": "https://maps.google.com/maps/contrib/117277486819529896512",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeHduGTEEYmbJlPXFES282qlpxecGHjLIvFRu3ONTTOiVeRDD1=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmvaWvAw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmvaWvAw!2e10!4m2!3m1!1s0x9105c6c73337be7f:0xb6c8cdeaa7a2d62a"
+  }
+ ]
+}

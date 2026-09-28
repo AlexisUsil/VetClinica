@@ -1,0 +1,594 @@
+{
+ "id": "ChIJadgR32LJBZERXiu2VbROnGg",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "997 024 712",
+ "internationalPhoneNumber": "+51 997 024 712",
+ "formattedAddress": "15048, Av. Alfredo Benavides 1931, Miraflores 15048",
+ "addressComponents": [
+  {
+   "longText": "15048",
+   "languageCode": "es"
+  },
+  {
+   "longText": "1931",
+   "shortText": "1931",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Alfredo Benavides",
+   "shortText": "Av. Alfredo Benavides",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb los Tulipanes",
+   "shortText": "Urb los Tulipanes",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Miraflores",
+   "shortText": "Miraflores",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15048",
+   "shortText": "15048",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1269647,
+  "longitude": -77.012447
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=7537986412750449502&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Cerrado",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextOpenTime": "2026-09-29T14:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 115,
+ "displayName": {
+  "text": "Pet Rangers",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: Cerrado",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: 9:00–18:00",
+   "domingo: 9:00–18:00"
+  ],
+  "nextOpenTime": "2026-09-29T14:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "15048, Av. Alfredo Benavides 1931, Miraflores",
+ "reviews": [
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKbGVHOUtjVjlZTTA0eFNGa3pkV1JpWkVwV2FrRRAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 5,
+   "text": {
+    "text": "Es la primera vez que llevo a bañar a mi perrita en PetRangers y la experiencia ha sido excelente. Desde el primer momento se notó el cariño, la paciencia y el profesionalismo con el que trabajan. Mi perrita regresó limpia, feliz, bien cuidada y con un aroma delicioso.\nAdemás, el equipo fue muy amable y atento durante todo el proceso, lo que me dio mucha tranquilidad. Se nota que realmente aman a los animales y se preocupan por brindar un servicio de calidad.\nSin duda volveré a confiar en PetRangers y los recomiendo a cualquier persona que busque un lugar seguro y confiable para el cuidado de sus mascotas. ¡Muchas gracias por el gran trabajo!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es la primera vez que llevo a bañar a mi perrita en PetRangers y la experiencia ha sido excelente. Desde el primer momento se notó el cariño, la paciencia y el profesionalismo con el que trabajan. Mi perrita regresó limpia, feliz, bien cuidada y con un aroma delicioso.\nAdemás, el equipo fue muy amable y atento durante todo el proceso, lo que me dio mucha tranquilidad. Se nota que realmente aman a los animales y se preocupan por brindar un servicio de calidad.\nSin duda volveré a confiar en PetRangers y los recomiendo a cualquier persona que busque un lugar seguro y confiable para el cuidado de sus mascotas. ¡Muchas gracias por el gran trabajo!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniel Chávez",
+    "uri": "https://www.google.com/maps/contrib/100279893236910046807/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP5-Ec0LSw8E0hNeoK1VrQnM2MyiOFOoF_UlbEKUzsf9FL3_IVqw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-23T16:55:31.012484332Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKbGVHOUtjVjlZTTA0eFNGa3pkV1JpWkVwV2FrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKbGVHOUtjVjlZTTA0eFNGa3pkV1JpWkVwV2FrRRAB!2m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKeVZVaEJlbnB4WkhkVE1rbGZaRXR5YUd0WU4yYxAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención , amables y atentos con mi lomito. A mi lomito le hicieron el servicio de Carding y baño, lo vinieron a recoger a mi departamento y tuvieron el detalle de recogerlo en la puerta ya que me encontraba laborando ese día. Además que me dieron recomendaciones para su pelo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención , amables y atentos con mi lomito. A mi lomito le hicieron el servicio de Carding y baño, lo vinieron a recoger a mi departamento y tuvieron el detalle de recogerlo en la puerta ya que me encontraba laborando ese día. Además que me dieron recomendaciones para su pelo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "wilson luiggi",
+    "uri": "https://www.google.com/maps/contrib/102365018796401721628/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJmbYS4sjRFFbT-CaKpVc3jes8k1kk8z1X_MqdgbtRKlkS836L=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-21T15:21:08.417469656Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKeVZVaEJlbnB4WkhkVE1rbGZaRXR5YUd0WU4yYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKeVZVaEJlbnB4WkhkVE1rbGZaRXR5YUd0WU4yYxAB!2m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/reviews/ChZDSUhNMG9nS0VJQ0FnSURmZzg3X2JREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, quede muy contenta con la Dra Kristi y Glenda que bañó a mi bb perruno. Fue una bonita y relajante experiencia. Atención A1",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, quede muy contenta con la Dra Kristi y Glenda que bañó a mi bb perruno. Fue una bonita y relajante experiencia. Atención A1",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pilar Garcia Barbieri",
+    "uri": "https://www.google.com/maps/contrib/102849910399528956672/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv5-V0yNwCyE6qfr4ybwawza5oW-0Ls4278hqjxndHJq_qRRQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-17T18:02:18.589782Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmZzg3X2JREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmZzg3X2JREAE!2m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/reviews/ChZDSUhNMG9nS0VJQ0FnSURYb0pMWlVREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente experiencia, trataron súper bien a mi perrito y le tuvieron mucha paciencia. Lo recomiendo muchísimo 🫶",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente experiencia, trataron súper bien a mi perrito y le tuvieron mucha paciencia. Lo recomiendo muchísimo 🫶",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Crys Mayuri",
+    "uri": "https://www.google.com/maps/contrib/104698191287717018314/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3MeKA-g8uvoSviVUdlmm7riVyBB2qb8SC-jZmuuLoY1pvnqLr=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-10-22T19:18:16.678891Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYb0pMWlVREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYb0pMWlVREAE!2m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfd0xHZ2F3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "¡Recomendadísimo! 💜Desde el primer momento, la atención en el lobby fue excelente. La dedicación de la doctora y el cuidado que pone el groomer para asegurarse de que cada perrito esté tranquilo y feliz realmente me impresionaron.\nAdemás, la transparencia del proceso es increíble: puedes ver todo lo que sucede y los productos que utilizan son de alta calidad. Mi perrito salió feliz y bien cuidado. Se nota que aquí los perritos son prioridad.  Definitivamente volveré. ¡Gracias por tanto cariño y profesionalismo!”",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "¡Recomendadísimo! 💜Desde el primer momento, la atención en el lobby fue excelente. La dedicación de la doctora y el cuidado que pone el groomer para asegurarse de que cada perrito esté tranquilo y feliz realmente me impresionaron.\nAdemás, la transparencia del proceso es increíble: puedes ver todo lo que sucede y los productos que utilizan son de alta calidad. Mi perrito salió feliz y bien cuidado. Se nota que aquí los perritos son prioridad.  Definitivamente volveré. ¡Gracias por tanto cariño y profesionalismo!”",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "andrea rios",
+    "uri": "https://www.google.com/maps/contrib/107721621425874924815/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKK0Pl8qlO6o4p4Gl46IrkDfWf-uxW8cHHHC3pwduVzmOF1OiHD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-11T18:49:42.532088Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfd0xHZ2F3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfd0xHZ2F3EAE!2m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMZ2SWDUfUq-RXMtxs8OApsGcaZm9ob32Ci_2ux_ZX6fNaINiuq5tFYvdmg7XCp97_LtZFuuW0Khw2Amxqsy7fyZFUHQ8LEjgWUanSf4R8nQ46t_zOoUpU_AwfbtmpEuT0SwkI68gJx6lbH5Rx_KZIcflUI3eGfvSk0yQ_-SkS_fRoc-E2Whmye6CPb2uO6Ujqf9JDNGpBxqGTu6EsfzJ_Et3CTL58hJblPYBGf2U1vyZy7EXVombXbwnAWnWxPRF5QEMBF77KqctHwNQOGDsPib8iB2kGYI9-p9BnznVZaZH6zytdYXKnIgfHYXIO1LJXfjwJBXJNNwRJuWBxVne8sisIe8lPBkZge96odLoutW1lvzTVHDH0ea5I0ntlWx4H0kwK9SW6dUmkEKdV-DgOS9VGq_NgIRGXYyeOA2kRzfZ4y1",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Rangers",
+     "uri": "https://maps.google.com/maps/contrib/110592236739988087926",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjXIV6HnaN6eYo1CtVjh7fexpC5W8PSkU-DpqC4nUlTDWFlm7n=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr59ODyQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr59ODyQE!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMbG11f9cJcKUWq2ZlM8twVP6gdeATokMGwc8V4jysLlsvN870ttANN1Qc2ZalL81tXYaXshk2fITm6xwqXnhFvfQMK7Ieqw5OCrpXgqG6ZxoBG94r14mfNmS2qCxcafMLBJeu1oTlVEWPiDQO4KLrhVbgA8_JOC0Qk3p1DDhxcsi8O0f0KyLDinP06V6pa5nTnNufSLa9wOVUVLVaZ_ShblgSXdxxgJ9ox2ZRD07MlpjLPqeOfU-AXkuquJTXTxn8H4bFtwvA589BV8v2LkfZ0ZFTAAjjwMZa9BBrJCUerZ4lb_d6PtykMVdmdxWMcmdgQmWEkbF5jCPFJYabZldzcF3lURJFYhdxAlXZPr5Ow39hbq_eOZGyxvTdwW8y0aX1WtulwiTLTrNxu2xs9hLv2IpQidjpBGnTJ_oD04tnXrSSS6",
+   "widthPx": 1816,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pilar Garcia Barbieri",
+     "uri": "https://maps.google.com/maps/contrib/102849910399528956672",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv5-V0yNwCyE6qfr4ybwawza5oW-0Ls4278hqjxndHJq_qRRQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDfg87_3QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDfg87_3QE!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMY8R4yiejzQMhlKM2DGGE0XGtC16gqjZjI-xebzaW977tOx21cGku_I931GBhtIcLQ2Jidr5g6lWEJTx1j5nYb3AbKuUkrOWMTfc0J4vOWBcy1rISDpidPdiQ7ju7472RxB-wJcF88FA20F5XtxQHodNBh5Sugi3KHlOklOJboNSgSB43r6Reu-XfC2fm7z4SXr28hoEt9Ds7lSw476mx8xblp3bGUgC3d2OYnz-mhtV41r-n01XzEZSkisTDITTWv3oHmmsOBqwBMeMNVbzSFo2gni6RSEdheJKLUEhlzyU-XjJaLw2Ke2Im5HpPYY2Yugj8wLlMb2SoBu_GWU4qy1TiNrXmGaADH7LFY4QHiWamGdFVVF34BFsL8_dCYG1G4tjqA-PGRHda6q7c5X8Kc8Fn5xe0H3krzP6t8jFd6A3B3JnQVwz9gTQBLDZ4hb",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "luis ramirez luque",
+     "uri": "https://maps.google.com/maps/contrib/113069730563947468595",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWnFDzDoQjmnHkie3YPFN8LfHSD8Y_nvHURcmIwBEcis-djlys=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhANdm2-Obl_rH845mv9wXyb&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhANdm2-Obl_rH845mv9wXyb!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMa3wX07Y-68-w-gBzDhKJ13HxR-YbcHtGPiTJAneWUsyQegCORj6Ojevuc72DeUpQ0IRjjVE_BpDdaeN1cwihq5RsgWJcjxE2ok3EAhkC6C0EsXps3ljmiNQeTjWZw1IvlvA-kx0LkH617znfju-eO3cKG5OqsL7f5MRojd4eXrBiyX83c5jHA4kDcSs4RNK6zlxS-Jwd7vJUCh3gfwToTu0upFwKoviMOPDbwkIdSTLVxMymfEakvUpvJufGs_miE0r8FKzEIy8zV2CV0QMX2enYGkqOSv8-Kb_I5WVDvpJMD5G_llTH-c9roYQBUKZL1GRe2nR_VS6_XhIzXN-Zu54nA_70dqghlE9i6bwLOy7_eRNE-gzzAdknX3huS9Dhv0JLpLR86dL43gI-y8n9a2ynGup-l5M5gJkbb_H3A70w",
+   "widthPx": 3204,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Rangers",
+     "uri": "https://maps.google.com/maps/contrib/110592236739988087926",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjXIV6HnaN6eYo1CtVjh7fexpC5W8PSkU-DpqC4nUlTDWFlm7n=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr5_emTA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr5_emTA!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMYmKoVQv_yvuUjul7CqQh0xFI-FVWv8GywxLho9Pf2Fdrx78r-raUcEkZEm3dcw7EMyM1yEvXyZkqHRIo4vIk-dRGIL80gK7y_uq1JirkVln2x14L96XBwn3A55XkYfcXaWCttjWzsN8N2DRNBBHW9eFu2cR-ozRxLl2V-0sCUiPt3o2Lf5uf49N-JjxIt4fBSmnAWCRl0WhMHj1YY01qU6oemzTN3MIWIJPE1OXOKpG_zS6FZAsF5B0_kddbVxyiJSg8P1qeuqxWrpZN3vmhL9aae9Mbil992BHVAOtQ2fF4XP1MA1po5vK2lkm8gu2wzlz0SMFRa_GiD93TpZL2mCtj1bcDiBSkq3hZUTKw1OBGK1GGOSJgc5T_x2tZCq37rnDCafLOTackGK5UHrpBL_fWb7gn6fqvFq1dFrMcdqE3jAujQsY94fA_3gypKW",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "luis ramirez luque",
+     "uri": "https://maps.google.com/maps/contrib/113069730563947468595",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWnFDzDoQjmnHkie3YPFN8LfHSD8Y_nvHURcmIwBEcis-djlys=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCLl8eAtsv02TSpMIfXQ-8J&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCLl8eAtsv02TSpMIfXQ-8J!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMboRtZSbMiTEXm7kTHJKKI1rmgsbSuT2S_Z11KZCQEhD7Yq_zgQpig81NYtpbK74j5TypoDEBl46ARpP-mqUZ1l94IH0G8dmDMMk4gNX1cBuaqc-zN3v3aL2xe7J22BC7X_KLc0uJxvv59hbztO6XLce8muuktCJj8WW5_5BVLgaFwMExYQVkJfmcR7h8AproUid8SnVT-07Bec6YCRIsjTddOW0wBYLDV_8tjxB94CSBVAsPbHrq2RDBeiaSG82mACwxcpCz8ZBO5O9xhWXOv9savhUdPsh82W-oFILTRG-T98Nk41p7TDmXi3u2hrA-xzmP7cwYMu-4snAFXikCCzGfhN7y9sjYuYGlwmYT-MJ4Liy6H1w7zWREHdb0gzGap4svC9CtCCfFmJ8Ochzidzfe6ADcYQ0JtzogRsG8y6AbPt",
+   "widthPx": 2250,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Crys Mayuri",
+     "uri": "https://maps.google.com/maps/contrib/104698191287717018314",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3MeKA-g8uvoSviVUdlmm7riVyBB2qb8SC-jZmuuLoY1pvnqLr=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDXoJLZsQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDXoJLZsQE!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMZm1ghn8Gcs6cXqqNGKbbooNVNvIB7nBYAfZgp08w7eOtloDOkf9CL8REP0h9QVpjArjeZW_kiWUguG8c3d0wNXY7fwf2NVpffrtY_aw_cKI9MV7uBhT57u9NmZcMob7T2kh8OnLsFC2dl-Yqr8FYFXyxQ0NrKv_5asddUoZLrE5rd8-QzCbYuNgWcD1ON7nnVluQZ-KG7iQTK6auDatOkH9uS5IFkYQ-Na6Bb9GnPtpT8I_wD8hHXJzaMas2wT345f2ws87TIozCT42_H7RHBhI1YJ5tsq6GBFuqMnzj2mh62-FGXDOdAAK4CHl500NOxcF-NT60v3Kg7cCxIE-2pq_YMeh4cW7JTUvv6lekNnRYuDr35nCf2XtSC803Up2j_m_eHUAmiz_YkZX3OzNfObHVh4RrOVEFQfOQW5dIFSg4NbKRFRpz7q1sQlgCgU",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Arnaldo Munive",
+     "uri": "https://maps.google.com/maps/contrib/100187182330022079870",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVXZDqU9_9Jh6A3z_6W6D2-OyzSciH7sexSwegRDI4gcZEcAytwQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDywUCQ4TOU8g4ramSjW8Ul&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDywUCQ4TOU8g4ramSjW8Ul!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMZKlHgNIbNKa5ij7_9G2XhAmf5dFTPOuMp-dwLhO-YNqNUekjXRuzXviFt9rIL_YtqY8Di2jLHZhLh77IpQkPbf8I1--HvBrVPmlTfMk-ipaGHOfd6beFse_JD1uc905huKw-ryVnyCEPW3KxdcOwuGdl5KuKZeT5gdyQ5DzkXUe-EKI1Wfe_KZ14NaoBadZelQ7AZ6HYcUE62c_FBu0c0sOTqmtB6K_gm9Cl8O1hy09Su9pf_H3yvK0fi1R5CCMmA9cqUlUVUY0s90vSaDNBzF7gXZinysQOxRG7YdDWAMO7xcjb1x3UyB07f7fEjMzAcV4D_wxN2ycXwohL3nNHNlpIUZajKOktvGYTjTIx3670I5TvwLw56BA_EWfa0_DmUMybr7qV9difcP5bkpxV2I2Da9BIcxmZN_cLtHMQIv56I",
+   "widthPx": 3204,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Rangers",
+     "uri": "https://maps.google.com/maps/contrib/110592236739988087926",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjXIV6HnaN6eYo1CtVjh7fexpC5W8PSkU-DpqC4nUlTDWFlm7n=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICr5_emjAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICr5_emjAE!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMZY0aCKCUpz_bsqO4sueYwIJD5eZoGPRuggdYtWNHRq78V7KWHKL9UaN0FlE-VLhSabH203f8uz2zlTvw--QJzuif3dsyZgeabqF3TfLRACVvRyxJ9K9BdQYzJvIbc6PqErUwIOSIelSsGQ72Ge2EqKHcOsRTXK0ciw9mw1YXZzAqr8AUbwQeGRyX_xhO51dK4hoKj6w7JiLzizmmG9GeUhX36XoH0s9mXMuUOKmdc5DAOYlpRoM_Mc31Kvz3VH5Rf13TndkbF6Sh73t03-2B6u_Wh2tPRawkL55CAQvt4CYeUOBxHBi2JR5SxyY5gMk1V70PYHRHxjYiPME1TfusZ--1VKdxjP1RnUf6bAtNVz_yyOONS7ZVaoRRQFyXhzAff7yHqPp9ok6bAWEnlL4PibykolbrTJMGcz1lI3t-6CFk8Hx3C_ub5QQ7DYm9Mb",
+   "widthPx": 3600,
+   "heightPx": 4800,
+   "authorAttributions": [
+    {
+     "displayName": "wilson luiggi",
+     "uri": "https://maps.google.com/maps/contrib/102365018796401721628",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJmbYS4sjRFFbT-CaKpVc3jes8k1kk8z1X_MqdgbtRKlkS836L=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAFrOxsvbgkgJGV-fInWTOD&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAFrOxsvbgkgJGV-fInWTOD!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  },
+  {
+   "name": "places/ChIJadgR32LJBZERXiu2VbROnGg/photos/Aa-ngMZfWf1bjW-Zc0cuJi1Oed4O8KMeP82q7wJg1hWvtFdvsJ5CuxVyA3KWQmSrfX74B04_ziMFWsTKW5CkzcCtwna2AUqRH79UlycUo_l-g9OeWL-G2TXaRhFQ5Bnq8eQwzvAWxZwltt-WutPtIZylfbkZi-8Owapoi3UkkRc8k57MDNVYDuiXgCodf2zNhnsDmsXaHFTCXngDMxULf9CVF89WASA-KuAzttHjRNq4IeJqP4UC_8k_Djp2w8D02inPqO8cV3YIq5S6EVUMIGWcRvWj8KQ0631PB4Mo97gna1oP0hfBaAdfs7xeK_ZUc0CgKidCrndtYaXjOmVSLzCJn3FH48sx5a95B3vBmgvsF4G-Gcr1sk0BYxanWHw1lVc5CQ3lbLBZlSn_V1ZT0wIgfj0BWa4LRBocBib_lVyHmhgEOA",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Pet Rangers",
+     "uri": "https://maps.google.com/maps/contrib/110592236739988087926",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjXIV6HnaN6eYo1CtVjh7fexpC5W8PSkU-DpqC4nUlTDWFlm7n=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC977WCVw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC977WCVw!2e10!4m2!3m1!1s0x9105c962df11d869:0x689c4eb455b62b5e"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeGarageParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

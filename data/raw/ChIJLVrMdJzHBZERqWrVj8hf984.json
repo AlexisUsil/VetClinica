@@ -1,0 +1,526 @@
+{
+ "id": "ChIJLVrMdJzHBZERqWrVj8hf984",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "907 996 950",
+ "internationalPhoneNumber": "+51 907 996 950",
+ "formattedAddress": "Avenida Principal 892, Surquillo 15001",
+ "addressComponents": [
+  {
+   "longText": "892",
+   "shortText": "892",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Principal",
+   "shortText": "Avenida Principal",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Jorge Chavez",
+   "shortText": "Jorge Chavez",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15001",
+   "shortText": "15001",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.119631199999999,
+  "longitude": -77.0045787
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=14913494006071913129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.instagram.com/clinicabarba?igsh=MWFuZzZtN3FramM5Yg==",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 42,
+ "displayName": {
+  "text": "Clínica Veterinaria “Dra Gabriela Barba”",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 9:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Avenida Principal 892, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pObVZXVnNZVFozWDBaMVFtZzNURVpEZHpCak1tYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Recomiendo ampliamente a la doctora Barba por su increíble ética y enorme corazón. A mi TOBYTO le diagnosticaron cáncer y le dieron solo seis meses de vida. Gracias al tratamiento, dedicación y conocimiento de la doctora, no solo superó ese tiempo, sino que vivió casi dos años más con una excelente calidad de vida. Nos regaló un tiempo invaluable a su lado sin que él sufriera. Estaremos eternamente agradecidos por su empatía y profesionalismo.\"",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Recomiendo ampliamente a la doctora Barba por su increíble ética y enorme corazón. A mi TOBYTO le diagnosticaron cáncer y le dieron solo seis meses de vida. Gracias al tratamiento, dedicación y conocimiento de la doctora, no solo superó ese tiempo, sino que vivió casi dos años más con una excelente calidad de vida. Nos regaló un tiempo invaluable a su lado sin que él sufriera. Estaremos eternamente agradecidos por su empatía y profesionalismo.\"",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "GUADALUPE SANCHEZ",
+    "uri": "https://www.google.com/maps/contrib/100205539331177942133/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKebCcYGNpzx3NQe7V4JwAvUmDH97etS71P5hAxLN3_hn9DRg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-15T23:58:16.811161548Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pObVZXVnNZVFozWDBaMVFtZzNURVpEZHpCak1tYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObVZXVnNZVFozWDBaMVFtZzNURVpEZHpCak1tYxAB!2m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5R2NGTm5XVU5UUlRkeVJHSnBRbTFDUWxsTmFVRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Estoy muy agradecida con la Dra. Gabriela por el cariño y cuidado con el que atiende a mis perritos. Siempre ha sido muy atenta, humana y profesional. Como dueña de mascotas, da muchísima tranquilidad encontrar a alguien que realmente ama lo que hace. Gracias por todo 💖",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Estoy muy agradecida con la Dra. Gabriela por el cariño y cuidado con el que atiende a mis perritos. Siempre ha sido muy atenta, humana y profesional. Como dueña de mascotas, da muchísima tranquilidad encontrar a alguien que realmente ama lo que hace. Gracias por todo 💖",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carmen del Aguila",
+    "uri": "https://www.google.com/maps/contrib/113396634147957520222/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfgIo4KPxNxaJL0mO83qHoelPpj90aWXAK6_8_lIlHB4xYZXotYg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-16T00:07:51.645320648Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5R2NGTm5XVU5UUlRkeVJHSnBRbTFDUWxsTmFVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5R2NGTm5XVU5UUlRkeVJHSnBRbTFDUWxsTmFVRRAB!2m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGbFp6SmliV1pxZEdWdFpYaE5NVU16Y3pCb04wRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "La Dra. Gaby es lo máximo. Siempre al cuidado de la salud y bienestar de mi Paris. La atiende desde bebé. Hoy Paris acaba de cumplir 17 años hace dos días. Me la ha salvado de varias emergencias. Gracias Gaby por todo tu cuidado y cariño con mi gordita y por tu apoyo hacia mi cuando tuve que pasar momentos difíciles 🥰🥰🥰",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La Dra. Gaby es lo máximo. Siempre al cuidado de la salud y bienestar de mi Paris. La atiende desde bebé. Hoy Paris acaba de cumplir 17 años hace dos días. Me la ha salvado de varias emergencias. Gracias Gaby por todo tu cuidado y cariño con mi gordita y por tu apoyo hacia mi cuando tuve que pasar momentos difíciles 🥰🥰🥰",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Roxana Ganoza",
+    "uri": "https://www.google.com/maps/contrib/100515595817816405792/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7rfGDiXKoshYNPAGuy5pKkjUu1LhygSCTVbi_HpEthqJeLw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-15T17:30:54.850613293Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGbFp6SmliV1pxZEdWdFpYaE5NVU16Y3pCb04wRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGbFp6SmliV1pxZEdWdFpYaE5NVU16Y3pCb04wRRAB!2m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/reviews/Ci9DQUlRQUNvZENodHljRjlvT214a2FuSm1VbWRtVjI0d1lYWk5aVFJJYVdkSlkxRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, excelente atención,\nLlevo desde hace años a mis mascotas y muchos otros peludos. Desde un simple baño hasta la cirugía mas compleja, siempre supera mis expectativas. Nos acompaña con cariño y delicadeza a solucionar cualquier problema de salud de nuestros mejores amigos de cuatro patas.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, excelente atención,\nLlevo desde hace años a mis mascotas y muchos otros peludos. Desde un simple baño hasta la cirugía mas compleja, siempre supera mis expectativas. Nos acompaña con cariño y delicadeza a solucionar cualquier problema de salud de nuestros mejores amigos de cuatro patas.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melissa vélez",
+    "uri": "https://www.google.com/maps/contrib/106247279488251132870/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5u7G_8DRgaPQDo_EaOsQQLpOjKDUZmm2cThuQNwPtFu00aYnH=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-15T16:54:48.901123543Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214a2FuSm1VbWRtVjI0d1lYWk5aVFJJYVdkSlkxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214a2FuSm1VbWRtVjI0d1lYWk5aVFJJYVdkSlkxRRAB!2m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKV1kyZEhOVkkwTW1sVU5GUnRaVU40TjJreGQwRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Super buena atención!! Son muy cariñosos y cuidadosos con mi perrito que lo cuidan desde que era muy pequeñito y despues de haber probado varias veterinarias sin lugar a dudas me quedo con la Dra. Barba y Daniela. Muchas gracias!!!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Super buena atención!! Son muy cariñosos y cuidadosos con mi perrito que lo cuidan desde que era muy pequeñito y despues de haber probado varias veterinarias sin lugar a dudas me quedo con la Dra. Barba y Daniela. Muchas gracias!!!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Maqui Felices",
+    "uri": "https://www.google.com/maps/contrib/109445848039612948898/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQwkKBBHA2M8KN1yzJM2v3Kdnt1TTqRDRQ3bsRyYaE3w2fFw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-15T17:02:22.091652965Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKV1kyZEhOVkkwTW1sVU5GUnRaVU40TjJreGQwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKV1kyZEhOVkkwTW1sVU5GUnRaVU40TjJreGQwRRAB!2m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMZJJjTcWEgKcsOi22J_mecSdlFMpkUJc3MzFAdWuVK3bqhnTqtfY0E17JryVB6c6Rxn0mjMGxftvqLHWZTZCAQ-tsgEE7tKqK9RvKR3K1ZiRgs1bmZfTcx-TpgNgMrAJOn18xUHBn7AUNALjpONQ-x-4dV-ItavdvZWzy8vmaogl5xh4zxxA8f6fEudTzE_h5ZmQ3ewbRw8KbCjEx5Qt0EUlJbh4KVe7c6x1IAs_7JCHVR37ghv_4sEI7cJLPoPnIun2DbPR5C42xPTZ5Yhd0OR67qyLhUEWDC6xmBBy3h1fyZUjPs9TtQpGkURHPdKKadyWw1KX_5WPNp0B_twfrJwuCDhzKcsyhWdq1XJGixLbF4jYdoeSqJbUcb2y6UuHE-wH6i4aDs0wyQaxdVFRm_mXejNyfA8bpAjJKLMUctiUA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Elsa Ponce",
+     "uri": "https://maps.google.com/maps/contrib/115670664152564252174",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-IZk9PKVH_wmmg799yRqPvYgeYIsGiYXWb_rpEFrcL0cmjw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC64SYTYZ_VHkCB1UKfp8Zh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC64SYTYZ_VHkCB1UKfp8Zh!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMaI5Y0QP9vOwxQ1cQStMjM_pwyArwNcEsGXCwvq7BSPwgerEZJAbbguCxam2SF08eJ6LlkvdWmka9FdB4Bwen7-0qNMReIkiMuF2z3Vw8HaHD-ZDHJK7WoLFHGQonAodaSVGNpWcfWNdwmf5h_7iJUTAmKsAt38Wm_n_wp_wkpSVm3w8JNAbmbR10Gh9_XTiQ3BPrS9NlHZdqo-PVapKgC9P7_oYwz7pMyUS1MeUVbRnUhCfTuicf71Q-yyrDQb1n_9zywnahDdfjR3-2FnHt-2NQio1NccfcRLfQIFqDFy0oYG0TnfFUEsF2EgSFR_a_Qh90eANU0q0XJL1XOy9xInB2pxbGPF2jP8hBldjrH8uqHz2wtWV3LKX0_7IiWykTvbk5hW_eYxptogesmRQnsSNLMqLO1_txf6h9fc1Gtwqw",
+   "widthPx": 2172,
+   "heightPx": 1377,
+   "authorAttributions": [
+    {
+     "displayName": "Roxana Ganoza",
+     "uri": "https://maps.google.com/maps/contrib/100515595817816405792",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7rfGDiXKoshYNPAGuy5pKkjUu1LhygSCTVbi_HpEthqJeLw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCl-B4ZXfr_YLMQks_oe22h&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCl-B4ZXfr_YLMQks_oe22h!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMbX2ghP3kJfsS5tuTmW-ARbN1i6CBQI7ftg3xA_BGeiJGp9QdlZi3YMCfoegFWFWb1ZF1nOqweAJSPSma-NHJ130JSljNs3rntRct29RFAaGjoIPatFvmzzdLbajRamKSPC_FH_0o0LfZyJjoF7LNJSbhPfKZTzBPfd4jS9uzO-bm3ynDY4rOIthl5p5Mxlc-CF9Omi--yVxnG6Uk--pYYpiD6z_-Re4wBkYJyRRSpSsdcL6aqRAzD3RXwfEHGjbx6RIZS9Tf8AHDjglOmffa3h6ALR3EwZz6Nj9P6aGPZpWxm0US2fF74yoB_SU08Fx5DNbgxNN316U5u-cz0o_6otMGp2lQ8PVXQiNyQ-6icVxIzTDmaaGWh0WwYdQj1ZkbpiR1OHz6FHqeqTvvWNuW0vPZ4g5pGy-ArJ9bQB18hxtA",
+   "widthPx": 2881,
+   "heightPx": 2881,
+   "authorAttributions": [
+    {
+     "displayName": "GUADALUPE SANCHEZ",
+     "uri": "https://maps.google.com/maps/contrib/100205539331177942133",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKebCcYGNpzx3NQe7V4JwAvUmDH97etS71P5hAxLN3_hn9DRg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAo5kJRYkHhqtO85mU56EBf&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAo5kJRYkHhqtO85mU56EBf!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMaaRrTYAP57D_a1s_TYj72wXbgBxEbIakCflDjy5XbtQaGuUtBjg06MOt7-nTo4d5zzW3t7BlT5rRYCWdOH16PEZvor1stmQUWZGVR9VxytriqS8Ebe_AEyoRJroxwekgfP4JbJzHBXTE-FW7wyr1uqF5Ft7OEVmUyVWHEr6EAkoIEPraJxfrxpW_jXPvbR53cYk-V2j_SFDnnxM-fxQ_DwP-hMSMG19SyqwH4l0LGcdoo5KLPbUE758Pytz3DJ2Mo9Re8rLGdNc9m7WdgqlSq5PZBBRsO348s6Y_csefz-qWajbSuaREGYQXZcU1-Ab44R7mmpIpw4fbO2x367qkL2w7e81X4GEIi64YbeDZDFRPtGq1AfyGqE6qTlVl6Ynjer1kYl09TTsvTjmvrJ_d1tF4qiZG91bjLRQV08O9MQ2A",
+   "widthPx": 854,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Carmen del Aguila",
+     "uri": "https://maps.google.com/maps/contrib/113396634147957520222",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfgIo4KPxNxaJL0mO83qHoelPpj90aWXAK6_8_lIlHB4xYZXotYg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDX-YSHr7-EXaISrNXT8DPV&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDX-YSHr7-EXaISrNXT8DPV!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMZsGh1DAlS9VRoQjdomeAHkfFpQRhNbaWLd6cPfiiD0tWvoWTQA97Py8wBZdXYf72DWDIXYy9DmAU7IzCTrAyj8MPKuKRHGntAdwpb0MWulQ0GhjoRKrVeFJfpTyZ4H5kM1_8JLpBWCPu7gKxrt7pAfCDY_dbNZQlBv1bjUZ5bbGR1FysBMRlhhJ-7o-RrNsIJolXLnJu5UfSP3XfM6qBeA3GWEm_K3omFrIUjkhScA75JrK5vN8t2oCfPODgifnW90jvcuv2BxO_1-hq9AyLwWA6hovUbgHy2D7LPPUPNFrXti5mWJIehu7kEXpPgvA6j5opFuJDXE0Ghw8B1jwtLx3qFwH6T6kTU-0ZyM2DxiMey-udDsA_nc11hBUGFuhQyNRx2UtxSZLW039ytwsVn1Tke3AGRARbVQlpCtH4ac",
+   "widthPx": 2252,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Gaby Reyna",
+     "uri": "https://maps.google.com/maps/contrib/115538297570539704232",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUk39aJe0bmyaAiW-lIFMux-qFx82HTMRb5e9TlD6-2-hETsAkk=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBbfLqAExcvt_hjapzLwU3R&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBbfLqAExcvt_hjapzLwU3R!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  },
+  {
+   "name": "places/ChIJLVrMdJzHBZERqWrVj8hf984/photos/Aa-ngMaIN2JYIwqvT-3FNHZZE8ozYFlvgvo8dDHRKVgld0Bp2VqlAs8CACqZMoCZB6cZuiVrjjB6e_ls6Mvnq2QjKol9dK6EfQvBgzq77rZ6CUj8XAYk4TJyvcy_FQ17MZ8s6wvlO6ZWcXUsr0Cia1-ME6x7Q4Vr6J8bGEngsKk2Z4IO73rcIJRH7cmtAt9-WWv2N5-Cc8-sOujaJqJBnIo6-1NsaMqUqKWn3xHRPefw0NmeVmM2uUMSKnDrFjO-40avfXyrbHS1nyr4vCLCYgwvf9cXgKFxr-b7ncjzx86MraONO153cUZdugQ3H30e9PrGK1d5u9TdVUU8VJEc573lOFn2zQfHq-n_9pmmFRzTQ6RRsf59-S_5_Js5iwr5l-AfBQyXEXqz_Fw09sIN78QUdC-MupXOCk4qSjLEWn8mKQH0",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Carmen del Aguila",
+     "uri": "https://maps.google.com/maps/contrib/113396634147957520222",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfgIo4KPxNxaJL0mO83qHoelPpj90aWXAK6_8_lIlHB4xYZXotYg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAbbxswHXIDfNqHDyX-UJZd&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAbbxswHXIDfNqHDyX-UJZd!2e10!4m2!3m1!1s0x9105c79c74cc5a2d:0xcef75fc88fd56aa9"
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "id": "ChIJHwm84C_GBZERkorpJmKmlLM",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 3254099",
+ "internationalPhoneNumber": "+51 1 3254099",
+ "formattedAddress": "tienda 1, José Orengo 984, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "tienda 1",
+   "shortText": "tienda 1",
+   "types": [
+    "subpremise"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "984",
+   "shortText": "984",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "José Orengo",
+   "shortText": "José Orengo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urbanización El Trebol",
+   "shortText": "Urb. El Trebol",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.074204700000001,
+  "longitude": -76.9992493
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=12940150569832123026&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:30–18:30",
+   "martes: 10:30–18:30",
+   "miércoles: 10:30–18:30",
+   "jueves: 10:30–18:30",
+   "viernes: 10:30–18:30",
+   "sábado: 10:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 56,
+ "displayName": {
+  "text": "miauguauwasi",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:30–18:30",
+   "martes: 10:30–18:30",
+   "miércoles: 10:30–18:30",
+   "jueves: 10:30–18:30",
+   "viernes: 10:30–18:30",
+   "sábado: 10:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "José Orengo 984, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/reviews/ChdDSUhNMG9nS0VQeTFrc1g1dzRLcF9nRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Me queda lejos; pero la atención es tan buena y la doctorita Betty es tan profesional y acertada que vale la pena llevar a tu mascota a esa veterinaria y tiene precios mucho más cómodos que otras veterinarias. Gracias por ser una veterinaria que realmente se preocupan por la salud y bienestar de nuestras mascotas, nuestros hijos de 4 patitas, lluvia de bendiciones para la doctorita Betty, doctores y todo el personal que nos atiende. Recomiendo al 100% con la dra. Betty, es una profesional a carta cabal, una campeona, ojalá y todos los que se dedican a esta profesión fueran solo la mitad de lo que es ella. Que Papá Dios continúe bendiciendola en abundancia 🙏🙏🙏🙏🌹❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Me queda lejos; pero la atención es tan buena y la doctorita Betty es tan profesional y acertada que vale la pena llevar a tu mascota a esa veterinaria y tiene precios mucho más cómodos que otras veterinarias. Gracias por ser una veterinaria que realmente se preocupan por la salud y bienestar de nuestras mascotas, nuestros hijos de 4 patitas, lluvia de bendiciones para la doctorita Betty, doctores y todo el personal que nos atiende. Recomiendo al 100% con la dra. Betty, es una profesional a carta cabal, una campeona, ojalá y todos los que se dedican a esta profesión fueran solo la mitad de lo que es ella. Que Papá Dios continúe bendiciendola en abundancia 🙏🙏🙏🙏🌹❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rosi Queen Warrior",
+    "uri": "https://www.google.com/maps/contrib/115571579410815066924/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOKUj6ERntK8m-BkbNZtHLJysQJ7u4cmChX3JVCP-uYKhmDdO2=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2025-07-08T01:27:40.431052943Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VQeTFrc1g1dzRLcF9nRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQeTFrc1g1dzRLcF9nRRAB!2m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ScVkybExiWEk0WjB0dllucGlNUzFNUmpOWWVrRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención profesional y humana. Los doctores fueron muy claros en sus explicaciones y me transmitieron mucha confianza durante todo el proceso. Mi engreída se recuperó muy bien después de su esterilización, gracias a los cuidados y el seguimiento que recibió. Muchas gracias por tratar a las mascotas con tanto cariño y dedicación.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención profesional y humana. Los doctores fueron muy claros en sus explicaciones y me transmitieron mucha confianza durante todo el proceso. Mi engreída se recuperó muy bien después de su esterilización, gracias a los cuidados y el seguimiento que recibió. Muchas gracias por tratar a las mascotas con tanto cariño y dedicación.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Sara M. Carbajal",
+    "uri": "https://www.google.com/maps/contrib/103782559793432034102/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVihww7-Gl_5-OCBqFB09FhU98jfHg0ALSi1yOMTXeUAid02f3R=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-26T15:48:27.505006816Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ScVkybExiWEk0WjB0dllucGlNUzFNUmpOWWVrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ScVkybExiWEk0WjB0dllucGlNUzFNUmpOWWVrRRAB!2m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCNWRGVmZWbmhMY25oRlpFWTNXWEJhUkhsd2IxRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 3,
+   "text": {
+    "text": "Podrían brindar el número de wtsp porque cuando uno llama a ese número que está en la descripción no responden.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Podrían brindar el número de wtsp porque cuando uno llama a ese número que está en la descripción no responden.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Flori Fuentes",
+    "uri": "https://www.google.com/maps/contrib/102399867263346064965/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0O1nXnF17KRIgRV2E78jJayiwpIFJLuR4wWK6cUbI3DvQlQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-14T18:40:50.809554897Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCNWRGVmZWbmhMY25oRlpFWTNXWEJhUkhsd2IxRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCNWRGVmZWbmhMY25oRlpFWTNXWEJhUkhsd2IxRRAB!2m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKUFV6TnFhMHhNVVRCd1NtNUlMWEp1UnpCbmVHYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Hace un mes vine con mi gato. Mi gato estaba teniendo problemas para respirar y la solución del veterinario fue enviarlo a casa para esperar a que se le pase y darle una pastilla para el dolor si es que el día siguiente seguía así. Fue muy poco profesional que el veterinario solo le haya medido la temperatura al gato porque \"no sabía lo que tenía\" y \"estaba agresivo\" (el gato estaba llorando de dolor porque le dolía el abdomen y le había asustado que le hayan tomado la temperatura, pero aún así nunca lo atacó) incluso cuando estaba llorando de dolor, y que su única solución haya sido dejarlo así por un día y luego darle una pastilla si es que no se le pasaba. No volvería a venir, no puede ser que un profesional de como solución el esperar que a un animal que claramente necesita ayuda se le pase el dolor por sí solo.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hace un mes vine con mi gato. Mi gato estaba teniendo problemas para respirar y la solución del veterinario fue enviarlo a casa para esperar a que se le pase y darle una pastilla para el dolor si es que el día siguiente seguía así. Fue muy poco profesional que el veterinario solo le haya medido la temperatura al gato porque \"no sabía lo que tenía\" y \"estaba agresivo\" (el gato estaba llorando de dolor porque le dolía el abdomen y le había asustado que le hayan tomado la temperatura, pero aún así nunca lo atacó) incluso cuando estaba llorando de dolor, y que su única solución haya sido dejarlo así por un día y luego darle una pastilla si es que no se le pasaba. No volvería a venir, no puede ser que un profesional de como solución el esperar que a un animal que claramente necesita ayuda se le pase el dolor por sí solo.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ale",
+    "uri": "https://www.google.com/maps/contrib/105882977815040871218/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkenCoUXn6Sjhdp_z63CvZCS0EZvdZV2RgH0Hsq9nyjda-9NML=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-07-23T05:02:45.746517001Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKUFV6TnFhMHhNVVRCd1NtNUlMWEp1UnpCbmVHYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKUFV6TnFhMHhNVVRCd1NtNUlMWEp1UnpCbmVHYxAB!2m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NMVVGSTBWakp4TUhabVZtNWlSM3BFUms5TFgwRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Atención cálida, amable y a precios cómodos. Tratan a mis perritos con cariño y son bastante empáticos con las personas. Lamentablemente, no atienden las 24 horas, pero en mi experiencia con su servicio realmente los recomiendo mucho.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención cálida, amable y a precios cómodos. Tratan a mis perritos con cariño y son bastante empáticos con las personas. Lamentablemente, no atienden las 24 horas, pero en mi experiencia con su servicio realmente los recomiendo mucho.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Pamela Sandoval Del Águila",
+    "uri": "https://www.google.com/maps/contrib/108067863364765893197/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEXxFBqbCCAezSLYGPSac0-UKZqZ6ynWcIQGRrp2cMvkAhtAXqmw=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-07-02T13:27:03.451851905Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NMVVGSTBWakp4TUhabVZtNWlSM3BFUms5TFgwRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NMVVGSTBWakp4TUhabVZtNWlSM3BFUms5TFgwRRAB!2m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMboAR1tVFZcnWJVEBMQO6yj2kEmlb1dQor4lwYCOD4jnTgtrRLy5mjTEE8sJouSL1uYNE8T8pebIQPv8nsS4keUSf3DRdvcAEJb6jjou1_oTlQy7zgqQlGcaU9_vg5WC3c7LOZaUBdpyyUA14PY14Qmmak_rP5cKPM_87L3rwY791ikcbhbKTO7qUu1YYLUjxAR3F4e_MOjRxnKbiHQvDLt4w4ZEfTH_U7XKMGKqyqvUiNwMp_Yf1yiiDsK7uI5Jww0futsqtNGYH20vCfzABxdUu1Ti09jETWLcqFQsrjMjUcR_6-TgbQFbN0cWv-3RgVZnMyV7A9YETxcAaIhuYTbPFQSgbzL5XwJCpEbDS2KwgDBN5ZcjxaxuVP7KXl4XF2Z3Tv6jhH4suqI_wSQ-HVT-Pwl",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "miauguauwasi",
+     "uri": "https://maps.google.com/maps/contrib/100735766763876593560",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3UOmBLv9vH8pZPpKXW1WW8kO9TkNWnNoSfMXjRJ8Av27nXx4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDP3s2s7AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP3s2s7AE!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMbimomQQkbqVhNuF_1XkPeKUQbYjMV95lg869cdciQqOnzYmGCGHrvid-5Qu0yx_qF_3zEH7S4vBt86IU9R_UfIF1KBmLDcq-grT04NL_4oYSlY_W9f5Atppqx9hvM_uKlOoa5PXXyTX2A2FvpciqEY-_FxYe6TScjqVcmJqpOXgGuqBU3iE6Ko39M2V_XWD1RyTd2qMg-9Ep4tMZKjSJyGDkGhrwjPiWVVabLOEbjfDcAEIikalX06Jx2WyKrGu7byxxbvfambADhs7TQoCsxq19FoyL5y_46dCrfrhgeEvyTe80hJuhAyf2HNbIyz0onNiQskbgsSzmiBxz4SmgBo9kYvf5M6IyTMdjE51cnmosCqvX3rWhEzKCgG9Cqm1OdvX0XwrlaDIz8HjKZ9PGHHNfUSKio",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Lingan",
+     "uri": "https://maps.google.com/maps/contrib/109495073704829002154",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV_qfWkPhZQq9T8IX0Y6B2-_Gsl8_JU0SZbSfjVguhslVj9w5qEg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICM5IqrugE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICM5IqrugE!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMbtwGFzJBBxRZ0mVPx549OsJk_t_Qw6ZqMCPHlKPQFMjGYYnSkHYSOq6h7XWRJDULcDtdE9dgc-12Hvfb7gAQbFjShAas2fyJiUYZk5IFVkiBLvcMWlllipgVTg2-VbYAMOdQu9vjvDAZWm2npjIIv7DegHsTSLjXjOaS8APSVzCAUmhN5qR1BmetHFijRLejO5-TCe1OSPEKdZSnEpnSmC57tQdg98PVznvmLpabMC8nLdSIGZeBGHJu3vRGFGsJrovv87WoUKIVv87Az844Ii0GQoV6-Dgk1YOQVpDCZpvgjaJFQR74kpNoWrStEDQdvb4OpHbmaluZgrxaEPhc7AtYMo-nNEG_HSo2vghSUOJrkv7SnWtb2sYtRSQLNhg81JqSDk5y2DZRmHO_4JK2iayNRjHjFPyUV6qPY_SvpLOg",
+   "widthPx": 1383,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "miauguauwasi",
+     "uri": "https://maps.google.com/maps/contrib/100735766763876593560",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3UOmBLv9vH8pZPpKXW1WW8kO9TkNWnNoSfMXjRJ8Av27nXx4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDxlE-mEdLldHhb8p9EtCUM&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDxlE-mEdLldHhb8p9EtCUM!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMaNTIe1w8nLubV54H-96cEmvqE9Fmm-z3EPJsZ8zTkTy54Kt8V2VNM0KQllrmSTsClLk4DfhVGVs_lh0Ss3idMav9OoXOk0sPKDBwO9PkHdtvHn5icgl5jhONWBfZmSuddL7ivMCSTK5NIzKaTQ3jqToVMH598Pzx7M-_0FG19h5g-i2gR63ueedC1bx8qhZlBC3Shm0OWFanQy6859k8KPPVj74wpGrJTk4Vyv2xFoV9pXOxLzHiplh52pG4SrUsJXOztHR6-EKdmH2uJA1_IM7gDqnfKSgac89ZDh61VbovWx210UMO1Bscag5TUOT4fA9236pGJAYtkDiD9Knh1vpj4YsfQ-yyP1OT_g93HGqgKnUdXXqhMQnUNErxaOeEgPyjgQXkdF7rI0BKMMSg8qYcY",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Elizabeth Javier",
+     "uri": "https://maps.google.com/maps/contrib/114549471784505154810",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXHviFtJ7GBrgj976h9xu06lV_Lw5JkZXZlOhNZPpHD7u8fwjVJQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDLoa3MSg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDLoa3MSg!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMaCJm-Jod5qeFBSr6Ol0IaEtz5wqp0GSPqYXh25GrOgWWpfBz81hUC_BhDhfbVRkgVTzMshJ2CdLApn_LYC1GsKSaXUC4mJWUM90Egl9fNpJBhIlC-5tEW_sgbPCEWQ3wfuPuRlZ8Pqf1ZuR-u5QfiAlE8ihoY6gFz6obhLtQ5ebM6mKZh7ALpyb656oEnovE9Sh75UmXXUpRpe-LiUBMVeztEVZLAjnNifWNkcJQyis4jcdvZHr4v4BLXclL3NMR74oFRc2jSVHRjboEkUwKIknH6TX_szwuQngmtiqAk_2ov5pNtGrt1qJOFrAKXZLcBXdNBOpdaIJbub9tki8IRhp8tZtL8JP5LKBdleRE9XkTLOj4NeftMTSouPvbXIl1YQSFSd4ibGDidUaRnIL34P6inXn8o",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "miauguauwasi",
+     "uri": "https://maps.google.com/maps/contrib/100735766763876593560",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3UOmBLv9vH8pZPpKXW1WW8kO9TkNWnNoSfMXjRJ8Av27nXx4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDP3o2J6gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDP3o2J6gE!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMZFbTRleAlxHXytmCQkVMX5oVAPfOyME3s6RLUpLSyrUKPb21oB8DmaSb4iS31dNnolJGA0gzsjjr60bdFnn4MLB6_7BslbXjZJsSH0F6Dmq4-axJ4WeyxELlkjyic2smNgjp7H9opz-jbR1uXCA8MgobYW_uMQd4fk_MJq6vHlyA_NQy6dGk5oo87jFOgVnD7HIflvUpzMsyOf5TQQBLeGvQvHv7cTT8-NAjvtoqS4vTYxsU6jsh6NyBpwOqrlA3cVrvHy5RMVsDDLbGpEWecJ3PQ2l_yLTwckxWgpr77ktv-L3n8e6JMG0qtQhr2PKEYKSydV6E1ZT_b7XT-UCv2okOOdAYY1yZ7xC1qYEp6uJs_Zlb2_LTIeFyGITuj32hT5pN-F8RBcBN6rWhGsin0xyEo",
+   "widthPx": 4464,
+   "heightPx": 2976,
+   "authorAttributions": [
+    {
+     "displayName": "MiauGuauWASI Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/104303917679340350764",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtF-CMeeb40ZmDPobjfvIf_EHAtORA6gGJ0jSHvY-gzXFMkqQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEu76EHg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEu76EHg!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMZg7C3FZf-yGwTL8T9HIsJkVVDDff28lcUFK85QhSdNLSJFNnn8bsSrq62FFoZc76pfwCUTbIxKvp7F8MC_uc-lojGP_PvCT3hnn12q0cN9jJS7IGD5lvLJmO62GPfW2EOpgFJH6wYgCMV_d-yz6Uozhv1MnFcVK2JAHJ1UdVnh-nHLw-GZrm41timB5tReYDx9--F-9al2IgO8WZTd2GYnwFG9fAgtmRonniaCpx6UVZyDkUbPgGlx7zMgVboExBGOsiffrf9S1t8tvi3kilP5dKmOrH7nh9uAa94TMdo2L33o3Qd5TmJ89gwFrqEZZscXwjYxsa2r-JKvsj8qujWcoF431N4w8zvRchJ5xrYmllGO55XxuW1ILHAKfyrs5lnR_hrAJvQOVERdrFF07eU-vEmc",
+   "widthPx": 1086,
+   "heightPx": 1448,
+   "authorAttributions": [
+    {
+     "displayName": "miauguauwasi",
+     "uri": "https://maps.google.com/maps/contrib/100735766763876593560",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3UOmBLv9vH8pZPpKXW1WW8kO9TkNWnNoSfMXjRJ8Av27nXx4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC1qrb9gwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1qrb9gwE!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMaYjgstc3Tuevij4UJZFYdWUQwX0560MpXMwy0GfQoXsN5tzARp-_joh8DFfxmq_CdIF_U7_eNYGcAm40AIME1283ck6-4W9x4KAcogikB2_bPJ-Quz_sxXzHiVY7OUYQDNo84uoLUpteDbpGQO-S4bwduB177Mlv0iFjtEZqSjYYiBfBctMDxSZh-I9B3d1RIacFOZpc8yYaSt0bZDjO8kYX-aC2nqzAKqCieKHR5agbrMFQItK3FyPes2hzUHe15ljhzLK2pk8d3Ov7hBxHGZFsVjWHVvn1clLlrY01_hoZLRzUBoOalelLHmdpAd_3mqQqkl8yPLWNSxxrpYL_rTxmj7wsMO1aGKgUTV0XHTMxdOPLKtEjQW29Dg94uNK9lWU4EGEzMwsDCdYxT0CyvsEec",
+   "widthPx": 4464,
+   "heightPx": 2976,
+   "authorAttributions": [
+    {
+     "displayName": "MiauGuauWASI Veterinaria",
+     "uri": "https://maps.google.com/maps/contrib/104303917679340350764",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtF-CMeeb40ZmDPobjfvIf_EHAtORA6gGJ0jSHvY-gzXFMkqQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDEu76EPg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDEu76EPg!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMbfb8KRDXfcjYMTK4PAPGR_hfQQ8Wg6KaCAh-E-oXbqxyt4on-wuZhGCbKct_lGM-b9AvP-8zA0ZVIg5wYLaSF5shOlk7N323J6M_HxxCx9GLXHT20k1QEG9KC_BvXr3uUbmc_F_fOKt0_02gk1oFVb0SAczENVdNcIAqhhDP_YIQpcaWEqUdQS-tO7DCRnJRKtiOoWvg1t80O1IOFffbs09p6mkOMXy1kgpPtcK1R-ibfjdpaoG-QkczrCE4DWG_PQpqjMaV7a5j-36rPv-9aak0PXzr-aIx1_8Wmg-DCVPA8rpBpkLJ05EvD1Iq0QLiye61YV8zI4x_mH7ShYwbtNsbzBLEHeFUhu1gggOGEaA3EPROdvh0PiRKiPKw7E7nT8atuPDGhkHzAmC4Y0v4tfX6BY1ZVrmuQZ2wL197XSfA",
+   "widthPx": 962,
+   "heightPx": 641,
+   "authorAttributions": [
+    {
+     "displayName": "miauguauwasi",
+     "uri": "https://maps.google.com/maps/contrib/100735766763876593560",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3UOmBLv9vH8pZPpKXW1WW8kO9TkNWnNoSfMXjRJ8Av27nXx4=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC2aSIwxfS1v_xPdblc5lji&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC2aSIwxfS1v_xPdblc5lji!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  },
+  {
+   "name": "places/ChIJHwm84C_GBZERkorpJmKmlLM/photos/Aa-ngMaue0NDd0x3VUdEcuzViKzE1Pbj8a1r8rg_WXyQ7Kk3ypmacnsd9kpzEuzGAwSUnE9OhA_X1_o69UwEsTVMBN7HBdLOGSFKpqIwwha4qnfffovpZ-NbY6ins7-h8Gh-b5Ldp5sKicozey4N8bX_PRI5X_jRhtLKxnzD47cWdncy84eVSPTknH6ePJ9uRIL4Pnj9GHFbdIzgUFtgxIuODaEfp0n5Cdd4oauXFFjPFCbSEdjWcK-1wzFQfv7si6geMCFPwC9TkOzZh7XqAkZIa3JvNLnQoBIQsLa8QYp4ZD7Es-FDHHqPZ1vUFFNsvN3UNhUtcA8iUlT2rv99exc5S82_f7zu4hARC2aKf8OKuhbZLDQvINbV-FG0N4HCzYjVxq4Yw9AC_z64dEyk8s7QvaGVx4edBhha4ywykE8AKHIjlg",
+   "widthPx": 4000,
+   "heightPx": 3000,
+   "authorAttributions": [
+    {
+     "displayName": "Rosi Queen Warrior",
+     "uri": "https://maps.google.com/maps/contrib/115571579410815066924",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOKUj6ERntK8m-BkbNZtHLJysQJ7u4cmChX3JVCP-uYKhmDdO2=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDbbvnE8reWs4fgzcy8xmPr&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDbbvnE8reWs4fgzcy8xmPr!2e10!4m2!3m1!1s0x9105c62fe0bc091f:0xb394a66226e98a92"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

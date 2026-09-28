@@ -1,0 +1,525 @@
+{
+ "id": "ChIJofVF-YLFBZERhY_uwqLnlNI",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "939 100 106",
+ "internationalPhoneNumber": "+51 939 100 106",
+ "formattedAddress": "Av. las Nueces, Lima, Ate 15498",
+ "addressComponents": [
+  {
+   "longText": "Av. las Nueces, Lima",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ceres 2 Etapa",
+   "shortText": "Ceres 2 Etapa",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15498",
+   "shortText": "15498",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0302428,
+  "longitude": -76.93188800000001
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=15174007730759176069&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–22:00",
+   "martes: 9:30–22:00",
+   "miércoles: 9:30–22:00",
+   "jueves: 9:30–22:00",
+   "viernes: 9:30–17:00",
+   "sábado: 9:30–20:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 8,
+ "displayName": {
+  "text": "Veterinaria Club Huellitas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 22,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–22:00",
+   "martes: 9:30–22:00",
+   "miércoles: 9:30–22:00",
+   "jueves: 9:30–22:00",
+   "viernes: 9:30–17:00",
+   "sábado: 9:30–20:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextCloseTime": "2026-09-29T03:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. las Nueces, Lima, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wb1lXNUJXRXBGVFY5TlFXNU9TRFI0T0ZOcE9FRRAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "text": {
+    "text": "La doctora es una experta. A simple vista me.dijo no es parvovirus  y dicho y hecho el examen salio negativo. Paciente ,te explica a detalle se nota que ama su profesión, los precios no son muy baratos  pero el trato lo vale .",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La doctora es una experta. A simple vista me.dijo no es parvovirus  y dicho y hecho el examen salio negativo. Paciente ,te explica a detalle se nota que ama su profesión, los precios no son muy baratos  pero el trato lo vale .",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Dolly Terry",
+    "uri": "https://www.google.com/maps/contrib/116243633198708072612/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyMdML16GWWeZAtpMXKB0VcesFmwUhYW-skaJEPbiP3Pq4SaI6=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2025-10-25T04:41:03.116967593Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wb1lXNUJXRXBGVFY5TlFXNU9TRFI0T0ZOcE9FRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wb1lXNUJXRXBGVFY5TlFXNU9TRFI0T0ZOcE9FRRAB!2m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/reviews/ChdDSUhNMG9nS0VJQ0FnTURnZzUtOXdBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Precios razonables, buen médico y un excelente trato muy empático..",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Precios razonables, buen médico y un excelente trato muy empático..",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alexa Ganoza",
+    "uri": "https://www.google.com/maps/contrib/104493225046368329495/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvNVcUtzwMLif8VRBM4Kflz3tdcyAXj_Sx2-ZAWL-7wl2bDw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-02-27T00:28:29.789925Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnZzUtOXdBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnZzUtOXdBRRAB!2m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/reviews/ChZDSUhNMG9nS0VOYnhpWTdOajlxN2J3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Bañaron a mi perrita y la dejaron hermosa 🤩",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Bañaron a mi perrita y la dejaron hermosa 🤩",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Fabiola Barrera Castillo",
+    "uri": "https://www.google.com/maps/contrib/118247364406207327124/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkFYa9aN1Xk-armMQrERl1qAAnXrv_KXTcf96VtvouNnKQ9jXg=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2025-05-22T15:27:16.186275Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VOYnhpWTdOajlxN2J3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOYnhpWTdOajlxN2J3EAE!2m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/reviews/ChdDSUhNMG9nS0VOR3EtWUh1akszRHVBRRAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "eXCELENTE",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "eXCELENTE",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adrián Reynaldo Miranda",
+    "uri": "https://www.google.com/maps/contrib/113803491518054229137/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8gpIsVM76Qg63_GseXS3RW5itHV2fsIvms8z5aQYdB6BMuubT=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-05-22T23:41:53.911346Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOR3EtWUh1akszRHVBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOR3EtWUh1akszRHVBRRAB!2m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNlpUSkJTSHBvT0VKWE1tNVJNM0J6TkdwelIzYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Xiomara Molina",
+    "uri": "https://www.google.com/maps/contrib/107752109789676585541/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvUuGsqL93HYEY7fV6ir2ikBiDaOdm4OtD1wGW3gdM0HNXjerQyQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-21T00:06:58.200081734Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aNlpUSkJTSHBvT0VKWE1tNVJNM0J6TkdwelIzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNlpUSkJTSHBvT0VKWE1tNVJNM0J6TkdwelIzYxAB!2m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/photos/Aa-ngMa4uh_8xD-mxd-4MWsi0DCKoqmILZe0lOtLi8GHcVtSgagLIYdAW0gZjHh0ecEnpyUweiGPstbFDwdEjwQihJRUZf4RXwvQpwgd-uG2_kXz0QQiIGSKPcXiI9i9hbKROgbNaY9ROl9Fyq5CJeFuetp3Q1CWE0JSJUPbqOgoDIxwJwDXHQwjlsX0zfi81zrYRoMC1eGtYCMvtlQYQ_V30-7u5Fbu-E5P92rFkl7V7t7DLJcwcW2FR-_-l6U-3YC6dDliv83MAliWVziaCkhSdpNotK_Ddgao_Ws7dLQr6HVK9D9d2Usg10677rCAi6u5vN78UJnLxfR8_I4AbSqIp_IA733FaFDTNxAkyUO5gq0bZUNhOtSEQJSZUqZbnH0GIO1G74JDGLCK9sDxHm074xbtxWvQ-Dq94yNQjzR7KLX_7TFLnhszKaSs48m-8A",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Club Huellitas",
+     "uri": "https://maps.google.com/maps/contrib/113593299744612310479",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg9_RMyeyezQXGyeddUHV3SvVnfeOBg3j16Feq0ioT83H8G64=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDssRA0eBdk27e8qeJ2LsiG&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDssRA0eBdk27e8qeJ2LsiG!2e10!4m2!3m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/photos/Aa-ngMZVdg_nx-X3sdVzMu5k79XBHz6Rvlk9Q8QDrnTO3i_21IidoVFMJh4kNoDh-pO03xBCODykINRrSpYr72z4OqvhcHEdXMx0SslZLsD48YbDjMJnPO3uWdUdZpFy1UIj6S2a8tHu3GG8mIMnoBD5npIX2YejoA1vh5ppgws_p1An3ZkP9YxWlKX_lRR3S12qew9yT1cho8y1cYP4fpzBXyp49-G8H9c_Ps_qrlZJIOt4jCd5_PW7QFJuFNWqDu1uDJ5IX8KC_wQDhNoqNaBID841AY-YnsA1LK7TEBXO4sL1Q_zg2L_4qkILHE6HY3_txyB7_czunPt3Ns-ZwOchLAAC3b-2TcEopDnAjfEVotP2UULLMkbjOnKxCgYVi7ibzvqhg2GpN15L2DFjFE_d8zuDiZ4nGdtFd6wNi7XVhUYy_MONAIhNjVBHlAOTlE8a",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Dolly Terry",
+     "uri": "https://maps.google.com/maps/contrib/116243633198708072612",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyMdML16GWWeZAtpMXKB0VcesFmwUhYW-skaJEPbiP3Pq4SaI6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDDdl2JJ5BUytB9gafYU8y-&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDDdl2JJ5BUytB9gafYU8y-!2e10!4m2!3m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/photos/Aa-ngMY_ZddHgy41Nyn_Rg67A3JjMnm2TsmysGD7x9W5SukXyvzmLqHxrmo-c1DbLJ91o6WxlkglEuBN5cFS1VqxZYD6pFpvfbXvvkxAdl4RMgQ59mqIjt7WImP7PyhYXzDyPMfhlJWHffCSgjxEw0hY6IQjvNW--yNwv0LWQB5SPTFwr3I5-UNIKxlr_UYswwAIa2yUfX-03-H8gTg7E4HEvDnT4WraTULgAcBxeWb5cQEQ-q1586xx17mi2QRLMN5N7jodmHoSuFilmeWJPjbNEh9GWmpFI5OEHWhwb3-BKtCH-WQkaVVvtbPGe7iSdmZ_VGQXQEJgqg9rmkv8ZoLz-SWPkxDTnOBZhkF9zEG8AUkDzjxwytPJDWx1aLlQT_hdFtRXOCMaAx9HrbvxGfXVGstDUfXb7WdpcGz1iEBQioI5RB-_tjbl5rrW8lkD--LA",
+   "widthPx": 899,
+   "heightPx": 1599,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Club Huellitas",
+     "uri": "https://maps.google.com/maps/contrib/113593299744612310479",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWg9_RMyeyezQXGyeddUHV3SvVnfeOBg3j16Feq0ioT83H8G64=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB0SCBANHuwJwQmn1_0Pz-z&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB0SCBANHuwJwQmn1_0Pz-z!2e10!4m2!3m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/photos/Aa-ngMbLMJsY9YDVb5T3h5pxb07Au52BC-95td8DzTxv0Ioi-yhUdFluE4BCwAPESwhbSBy4cieJxr8ZdH7Qk7kfkMSZqfs4gygBRF36Yu8Zne2OfbPcGwiq05ywI_8GH1XxtO06yrgbGv_QuokY39-JMYFubnjHo16fGZ7Cfj3miJGP6dzbVjW52Ij09q-qvna15Zkm9A4GAvt9CzqAQL9BRW4dZmMImzcWhbpOZLdrcTMOPgg9Fny5933jnvVMba-GC2gwRn0Ti0n5OTS5QCx_uPSw0D-pONiRY4bqSF-PcYDwer80Neqs01mIfVvt-MXfChi2Lo_s4CIC1pNRjouAq3R4EvfRiB1q09uPpqwVksBe11epoNfy1vWRkR6jjWXUY4f8uR5qdR0_7jRHvOfGqk07SATUzsK3GuHZGKS68miyEBsipUT0SrV2P-ddGmJH",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Dolly Terry",
+     "uri": "https://maps.google.com/maps/contrib/116243633198708072612",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyMdML16GWWeZAtpMXKB0VcesFmwUhYW-skaJEPbiP3Pq4SaI6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhApe3ZkqHMmOVFl93FRsuGz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhApe3ZkqHMmOVFl93FRsuGz!2e10!4m2!3m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  },
+  {
+   "name": "places/ChIJofVF-YLFBZERhY_uwqLnlNI/photos/Aa-ngMYtvjKmyNlDsewH5ubKgd3xj4yfVq82qEOWNgKGCKY06ESCiyAmdouwMwC2jtTTq3_HYcm1FSZguda95TAZ6_uXqDl3kMkBONkZv10gStfZjJ8Bmz5WeRIQYcKN8DRSaMWEpBA_N1Y2aI0IAEqKkKOhtwQbRBQVYPSV8GLJ3AgvDEmzFORz4gpUl2G111dvHjjHzL8-Hb7e6vyVAebT9nDoLTWJYSex9tIHtQhKNdUd1m9u1cKfS_vsEOr5s_3JS1o91dw-Uy6R49Y6ZscKF1NKojOqgo-TVWaoGogzDPee9L_AH4lMUw3M6BD80gRSXCCYza2z2PKoNMMdYP7qO_DtmO79xDSV7CtYFA5mzKan6A5bOXmV0OriJQAPR655D8jlvr9oPSQrLsapcW5mrbcTStdhZ0GPw5EFdJcrvCrwxaSABHEfaTzlbIJJgw",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Dolly Terry",
+     "uri": "https://maps.google.com/maps/contrib/116243633198708072612",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyMdML16GWWeZAtpMXKB0VcesFmwUhYW-skaJEPbiP3Pq4SaI6=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC9kmE_4EsGUOK_1O9xcZK4&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC9kmE_4EsGUOK_1O9xcZK4!2e10!4m2!3m1!1s0x9105c582f945f5a1:0xd294e7a2c2ee8f85"
+  }
+ ]
+}

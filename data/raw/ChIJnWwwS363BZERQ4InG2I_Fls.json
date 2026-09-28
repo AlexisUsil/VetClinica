@@ -1,0 +1,585 @@
+{
+ "id": "ChIJnWwwS363BZERQ4InG2I_Fls",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "999 942 054",
+ "internationalPhoneNumber": "+51 999 942 054",
+ "formattedAddress": "Prol. P.º de la República Mz A Lt1 1, Chorrillos 15064",
+ "addressComponents": [
+  {
+   "longText": "Mz A Lt1 1",
+   "shortText": "Mz A Lt1 1",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Prolongación Paseo de la República",
+   "shortText": "Prol. P.º de la República",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Santa Leonor Etapa 1",
+   "shortText": "Urb Santa Leonor Etapa 1",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Chorrillos",
+   "shortText": "Chorrillos",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15064",
+   "shortText": "15064",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1772238,
+  "longitude": -77.0119356
+ },
+ "rating": 3.3,
+ "googleMapsUri": "https://maps.google.com/?cid=6563503197533995587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 108,
+ "displayName": {
+  "text": "Veterinaria Vicentelo",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Prol. P.º de la República Mz A Lt1 1, Chorrillos",
+ "reviews": [
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taQk5ESnBTSGxSYlRSdmVFSkVaMVl4ZEhCbk0yYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "UN ASCO DE ATENCIÓN. Discriminan animales que no son de raza. NO TIENEN BUEN TRATO, ni siquiera con las personas, IMAGÍNENSE CON LOS ANIMALES. El personal es mal educado sin vocación. DEJEN SIN CLIENTES A ESTE LUGAR!!! Y que la municipalidad vaya a inspeccionar para ver si cumplen con todo y en buena hora les cierre el local.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "UN ASCO DE ATENCIÓN. Discriminan animales que no son de raza. NO TIENEN BUEN TRATO, ni siquiera con las personas, IMAGÍNENSE CON LOS ANIMALES. El personal es mal educado sin vocación. DEJEN SIN CLIENTES A ESTE LUGAR!!! Y que la municipalidad vaya a inspeccionar para ver si cumplen con todo y en buena hora les cierre el local.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Alessandra Paucar",
+    "uri": "https://www.google.com/maps/contrib/117108106369398438922/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWauaXnz5ezPphgRUCa4jwfUSG8BX54moiE_rCo2KorX3pmqIg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-11T05:53:40.350138297Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taQk5ESnBTSGxSYlRSdmVFSkVaMVl4ZEhCbk0yYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taQk5ESnBTSGxSYlRSdmVFSkVaMVl4ZEhCbk0yYxAB!2m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGZlVYZDRWRFJ2TFRsSU5HZzBXbVppY1dNNVRuYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "0 puntos! El precio del baño cambia cada vez y NO por ser medicado y con corte sino porque se le da la gana al dueño. Casi 6 horas quería que estén encerradas mis perritas esperando. NO VAYAN, PÉSIMO TRATO. Envío evidencia de lo que dijo el veterinario: “Ah, también tenemos un servicio VIP. Vienen y se les baña de inmediato. Pero cuesta el doble” tengo captura de pantalla. NO VAYAN!!!‼️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "0 puntos! El precio del baño cambia cada vez y NO por ser medicado y con corte sino porque se le da la gana al dueño. Casi 6 horas quería que estén encerradas mis perritas esperando. NO VAYAN, PÉSIMO TRATO. Envío evidencia de lo que dijo el veterinario: “Ah, también tenemos un servicio VIP. Vienen y se les baña de inmediato. Pero cuesta el doble” tengo captura de pantalla. NO VAYAN!!!‼️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Adriana Arce",
+    "uri": "https://www.google.com/maps/contrib/113880892696425547996/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUs-EGtm08FQyzV73W0U5eL_FbvHtT4EGMFUgOVVBSL2Ax2tP8Ijw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-20T18:27:01.384188508Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGZlVYZDRWRFJ2TFRsSU5HZzBXbVppY1dNNVRuYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGZlVYZDRWRFJ2TFRsSU5HZzBXbVppY1dNNVRuYxAB!2m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jNVNGTk9WMGhIYlZWa05WVkVYME54ZVhCR1NrRRAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 5,
+   "text": {
+    "text": "Increíble atención A1. Llevo ahí a todas mis mascotas, siempre me las han tratado con profesionalismo y amor. Totalmente recomendado en todo aspecto ✨🫶🏻",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Increíble atención A1. Llevo ahí a todas mis mascotas, siempre me las han tratado con profesionalismo y amor. Totalmente recomendado en todo aspecto ✨🫶🏻",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "HEY ROXXY",
+    "uri": "https://www.google.com/maps/contrib/112528463343615245484/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHOECn-hg4rsmfSUy9OJsRKY1wLFZwIvX2wT_QJq42X68al7lyag=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-14T22:08:21.548482134Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jNVNGTk9WMGhIYlZWa05WVkVYME54ZVhCR1NrRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNVNGTk9WMGhIYlZWa05WVkVYME54ZVhCR1NrRRAB!2m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/reviews/ChZDSUhNMG9nS0VJQ0FnSURXenE3OUxREAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 4,
+   "text": {
+    "text": "Excelente atención, el doctor, mismo doctor House, te dice las cosas como son, pero es un veterinario buenísimo con amplia experiencia, tus mascotas estarán en las mejores manos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, el doctor, mismo doctor House, te dice las cosas como son, pero es un veterinario buenísimo con amplia experiencia, tus mascotas estarán en las mejores manos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jesús GamBarr2",
+    "uri": "https://www.google.com/maps/contrib/103319184190844695198/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2022-03-24T11:00:22.272173Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXenE3OUxREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXenE3OUxREAE!2m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psS1YxUlpUQzFMU2twbVR6QkZUbU5HYkdwYVluYxAB",
+   "relativePublishTimeDescription": "Hace 1 mes",
+   "rating": 1,
+   "text": {
+    "text": "Discrimina perros de la calle y tienen una PESIMA ATENCIÓN TE COBRAN POR DEMAS POR FAVOR NO IR",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Discrimina perros de la calle y tienen una PESIMA ATENCIÓN TE COBRAN POR DEMAS POR FAVOR NO IR",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Chris Fleis",
+    "uri": "https://www.google.com/maps/contrib/113768537865534192933/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQdNzBoZL3_g-WZHZMQVJRq-WVt9tGFLy-ET1s1Gn5K53E8OLt=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-08-26T20:11:40.656775460Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psS1YxUlpUQzFMU2twbVR6QkZUbU5HYkdwYVluYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psS1YxUlpUQzFMU2twbVR6QkZUbU5HYkdwYVluYxAB!2m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMYLgchsyntPjqhOCFwECOIzUzflOjeG1BmOxLtH-TE-T3L_etwaLcw65ytKouqcfAuRyU2k-mAgznc1FzbtyzEPNH7mQvpZDMGkrMbaBJ6mpu7LHfj7gQM2QuKovzvCcESG-9R3ziiGhWnSKp7AkBm3x4KhrSV26GmFMk-bWSAKjd_BRstag3d1rmof-s_0lhNrvyN-lW_MdtUmVVJl_Rb6y1XzfFC26HScf4Jdlq1s6u5OXmeCYYY1XELmAnt-gbXRFQspo24HnzE1egDOteXg9cjeqA2lgvsseyVG6aufSYYen4rRqmHZH72MpQ_8Bju2V0JMWLaSthu-qfspdEYmZ_qv5rACVUBB7SiKdu-OvAQ3auLkMpqd2zc_KRQ14X337gBqo2kMJ-lox5TSni-SdXc",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Jesús GamBarr2",
+     "uri": "https://maps.google.com/maps/contrib/103319184190844695198",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzqHXeg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzqHXeg!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMYWTp-qsQZcgRJYbF9k3JCKU2MtX-l5UPrcbr_T_IWFsrnG_fi3E-DXm5OyL7bUebkqBiX33o-Eawhji0f6EUy7OG4sXlVZxc1UzSirfPoEreAD0RJDDuxi2Ho4TQjMCIm4AvaQFVzVMZV-h_rtiz3aTSHSpdjL7f0sBwUU6wcNXNw5eaqBltVNhE9HJV0AIYnHxex2FZLgnZbrz-8vdfeH1iNyyH_kaigrGBGDekfKn26xnUncMBoqiWZ6uky215WUMR7F9T-RnfDYTrSy4vpaysWlwbQAkjJ5ZQozxLVSE9SqJf19vx2ZMeDr-9JZLOupOFoqczEonefqUB5a4s5wrMP_tFkVO20uLGrRjZVjHDuxxiulkK_FO-dpWaggnygZvyCf1MuYTfiVgXXMa-ZqGo4",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "El Jeff",
+     "uri": "https://maps.google.com/maps/contrib/111513674809499315456",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbntVj9iOIbcBrcRSbKouB1FYOlEZWLXd-CZ9PwHn7ht_tzH9c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCrKffLw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCrKffLw!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMYXp1Y-J-1iPMY86N4k_faJzQiqqhuUdVpJf6WkfrzZRmu4PKQJTjiMwO6ePD-7ru7qft3F11yVAxCop5RlHFP9pE2McSibOUzobyOF0lWy5tnwP-0U3wLmQS8Uus8uF03b1hRGnjFA_V7f4Ji488jpYyTMW1EZZFTwiYrX2QLG-B2wgmVrdSZWO1gTipMZsVqdR80lg_OWyTeZSmZT4d-pVqWd2q3KK2phWgV6Q3vcFvfiLJk_AtIk1LnW0qQOjR2RKRNCSjslGAwnoqD82b_cDjUxg9LPCgl25DdayqF5m00mi7moo6Y9Vcqwz-uWuzJNtaKYWAqIO0a9d7uM0OHhmpswBvhsE5DyKaSQSxNWdhKKRiMN0ymDQ_r1y71EaLa2Dps3_Y1tr8hT8qeuv1q73VZJ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Pablo Wong",
+     "uri": "https://maps.google.com/maps/contrib/101999472026632693504",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwXFtRvYibXPudEaSFhTdvVxiVOqRSyvROj5WumqhSoej1mXg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC1gPLMugE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC1gPLMugE!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMZL9JWLkrvBsKII9AJiW8WYQHb3fU_iR8ffA9DRKb4eIydKlpx5h-R-nq1RIBoPZ_prnihBEHkVKRlGzXD69jmIiSvBIWik6fPb8hKCZL3W44oodTNDRaF5HRQYtQHc0C7ZmydTUOMcTOYB1mE-UE1f9nbK2cI3e7e38xIRW7T6_VpIebm-nWyvocjPEL3-xeJHCiarjaAKmOhLc0eKE48wAhykW4nvoZev8hDZn0NmpRhsmJhLFPjqCrBD_S-J_j_nuZ8_5oe-DycWt4IG8cJoHczm1dIfkiVIGnCCFjlsiGEEitT5ySMwUebGnCGmKC2hGVeGMNggfUpFmeMTnWjNg-_BN6jZUOh-zwZw6LcRTYNecXwzq1J4dvzPGNNe1k5RzmOMypBc_3UJ2JylQ_iGMoBWi1U",
+   "widthPx": 720,
+   "heightPx": 540,
+   "authorAttributions": [
+    {
+     "displayName": "Jesús GamBarr2",
+     "uri": "https://maps.google.com/maps/contrib/103319184190844695198",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzqHX2gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzqHX2gE!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMY9wWUydKfd9h5bHElKJ6_VDbM6y17nlRjuv7oEgjTi61LZWsnL9YDK_vQNMgv8t4u9bnUFbCe-XjSf-tetCeUm7TovZUt4uKe93DVIPVcdTKsaNB6BSJbWGA69vn-bGbWLbh6UNvYzBZC41DZQS3Vcznb-mpa587JhqSQZBZASqUVWMqgYLJihIvHXeO5B5vAKQBm7ez5dpmO6THgta9pcc29Ap9bKPDHd5RlXZ3Yt09GqKF3_EE59xMvSuaWs3e4G4h-jt1itCJGVCcIOg96di1ajs-ciuOQUiB68LshatyBunoGQSCZk8pcUALkW-7-1NVc7wxsq8T-_RgHKOif3rw14ENaXEZvXDHbN5OsKea6TPWF2QGxaX9ekj-6ZZ8yXfi83OvLH2Eya_WHf9-NKQ1U",
+   "widthPx": 3464,
+   "heightPx": 4618,
+   "authorAttributions": [
+    {
+     "displayName": "Jesús GamBarr2",
+     "uri": "https://maps.google.com/maps/contrib/103319184190844695198",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzqHXBg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzqHXBg!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMbgFVuQnQV4BcrCyynm7v2NjTybm9XtqHdaZaJFS33gWN7J28CgIKQWYTwHxqsWQteR3Q0VLM5K8eJiferNiLGCqDnuHOMg4hlyOWWXqot9egeYBng_7JyV-mC0nOukNwcEEQs1tQjU7mgTnkri_No-q39aIIva1_Wjk99u0QkZ7DGR5RrTCKdhytMG6rVn1xxnLgZkPpeAsL07z2vbrBIFItylfMtUYWSenG_kgeZSUJJP_LXGyB0yY23B1NkRFpjmlE7m0bEHpBRG8QzOaB4gC_zJHBMDNFITG2YXTZFjsdNlaGZVpN4z-veImnlIoKqCTE_4bkXxC4x2pLhIKRc6_xzeHxIHSuodb9bB0tAbA8dUQWjjGcCYqWGR6H0UNGyba4Yndb3nXyB9gQGi-jZNvWk",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Jesús GamBarr2",
+     "uri": "https://maps.google.com/maps/contrib/103319184190844695198",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzqHXWg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzqHXWg!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMZCfXLmyj8tA4sbtJ7Jl2MruWLAIpbHb6HkqshgaDhOJ8Krfv6uThlZWZLjl8mi0Qd9ZmNJ5nDsqy-2DextMn_ChUHQOOTEdX73sZiDC_6IFdn-JSRA9YwXwbL_amI_kzt80pHZQEG2GpvImgUiYihYYXSdGwOW-T7gu7irrj8owzmc_cqFB4fGutekuNI1zi2BFvNsf8L3C6Ax-Gz5JdopQBXsY8Zux-XHDV9FKRFhNYDvPsYYGCe9eEINvN8Qyn5NWwEIycUFlQlNQzaMSNdzmq_8OnB5a0sBQKVkS98KRDw5QLSuhamejQ0_RO1AaeYQHQoHUgJHSxXt3mVDf9zRrWCke_r3DFFi768SsU1IwUwfnX755QrZZiF1j62f3MQxxtzmKfm5i3-DTeiFZ5IEpA8",
+   "widthPx": 868,
+   "heightPx": 1156,
+   "authorAttributions": [
+    {
+     "displayName": "Jesús GamBarr2",
+     "uri": "https://maps.google.com/maps/contrib/103319184190844695198",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1RVkEikKtrfq1_34z3s0Y93c7AMMuvqcXM_EQ2QF1HkgccH0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDWzqHXOg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDWzqHXOg!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMZvrpJCJ8EnJnNdql-MPfocooEN_wpqhNIXxzdGFF8D4GIYxdTU0yustT5kS1JnqISsqVVct-nPK_PlTtTDFdT6HZoldXEyuzW7UCRndZG-ujRfFFG5YsOycSd_iS3lHsNcRwdqa_8A3vpT2uLAJwtPNp7S7s0V-069klCb-P6VZ-0OWrYMZzuhn5yw61muyicHeSERHb8HlTMM1kVuPrvDADGWdIaUJmwzq5Eib1vYELmP33PdXovcJQ7eV0bMa8ef0I8WyjPvNepsHbZZTh2MSMLaMoEkAZnacBeaWHs48MRAJUkIsIhmOyZqksj1kIr_rCqtl1iC1bhAKzmsqaX3gKgQX2bHK9LcWYR5C8LJkBs5U7qeh1jHJrxUPRNKjTauS5UMuKBq-NH6X0ps3Uk5GRM",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "El Jeff",
+     "uri": "https://maps.google.com/maps/contrib/111513674809499315456",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbntVj9iOIbcBrcRSbKouB1FYOlEZWLXd-CZ9PwHn7ht_tzH9c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCrOeoSQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCrOeoSQ!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMa_-3wqlBjJwBBWwjLLJodpa4NTH7ykJ-91XOHnRqRFWNw3SCjoWeeP-esIMfzV3pyyXYEu9YL6uObPX0fluqKiF7juI6Mc4X6fy-tymgmsT3GBmpWzr3TaIT7RQXqrMojMpI0xKM3qAOQotGHxZCVf_W_Dq8UnC9Ulr6BvRYnksegQqJVcIAM2zzyMxv4oG7MG3nvd7x0l2bbJZSuc5nYznGsGXbt4mB0zAZzHetLclu3vZ2S9uQpIk0EUJ4JHTeZbfSL1UUehDd_9p1rELVBYTDqPWtr-EnKhZ4LMrrBWLxs4wnjEQxZNHKNzsYWmvrqmVHKzk4Pdz2XvHp-Knl9rKpISoVQzQB6htYrzKwdvlQ4uzA1N6PbWy4PF7bqsYKe8Baql8oMJo43p5zeJ9kF8IDLBuDo",
+   "widthPx": 3120,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "El Jeff",
+     "uri": "https://maps.google.com/maps/contrib/111513674809499315456",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbntVj9iOIbcBrcRSbKouB1FYOlEZWLXd-CZ9PwHn7ht_tzH9c=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICCrKfHigE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICCrKfHigE!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  },
+  {
+   "name": "places/ChIJnWwwS363BZERQ4InG2I_Fls/photos/Aa-ngMajoeU4P2uROpcT3hfZD9Gj5IxrJFsJo_zocVyRAjic0p49QsSSfkX28IOufxigjWZrFBtZAaLR8K9NWfHtIxtJnNw_sFJ8a50aNlTSwYUH5fP4sGJLiyKV4-f23wlXTTHZEGpD50g0zP2ePG1J4pz37XYdSdmjjtm2VeuACRXRfGmXaE-puR6TJQ_lQ8ZL5nwE9UB4vWUyYc-e-_FJl7_TOalRwTcTQE37tiX7t5_CjwBUHKSE3sAZF3tk45V_QT-5-_dd-B8Q6ZqiSuoMtyn9uNyP2A43vjZ9MRG6Z78Y6qUmbKXQN6x4nQ7QmLUP1lGPPD4IDUjb_lMaC0kCUcXW09n-v72GaglMWBkP039ECb82yUpHzFbMe34YvjYEoZ_sYE3pFnsPl3YmzvQpH1z4G28mfxU",
+   "widthPx": 3072,
+   "heightPx": 4096,
+   "authorAttributions": [
+    {
+     "displayName": "Cinthia maria Porras campos",
+     "uri": "https://maps.google.com/maps/contrib/110309578474893705090",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAUCBrKQMX4kuHNBkTairMdcqGdsoi1w64w0-p5v7Jchyi86OO9A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICc0sGo0AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICc0sGo0AE!2e10!4m2!3m1!1s0x9105b77e4b306c9d:0x5b163f621b278243"
+  }
+ ],
+ "parkingOptions": {
+  "freeParkingLot": true,
+  "freeStreetParking": true
+ }
+}

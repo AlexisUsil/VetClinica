@@ -1,0 +1,485 @@
+{
+ "id": "ChIJp43AUDfFBZERY0SJxAUZHok",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "962 754 120",
+ "internationalPhoneNumber": "+51 962 754 120",
+ "formattedAddress": "Urbanización, Av. Los Virreyes Mz. M Lote 5, Santa Anita 15011",
+ "addressComponents": [
+  {
+   "longText": "Urbanización",
+   "shortText": "Urbanización",
+   "types": [
+    "subpremise"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mz. M Lote 5",
+   "shortText": "Mz. M Lote 5",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Los Virreyes",
+   "shortText": "Av. Los Virreyes",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15011",
+   "shortText": "15011",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0315646,
+  "longitude": -76.9456575
+ },
+ "rating": 3,
+ "googleMapsUri": "https://maps.google.com/?cid=9880362145060308067&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://www.facebook.com/vet.smartin",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:30",
+   "martes: 9:30–19:30",
+   "miércoles: 9:30–19:30",
+   "jueves: 9:30–19:30",
+   "viernes: 9:30–19:30",
+   "sábado: 9:30–19:30",
+   "domingo: 9:30–19:30"
+  ],
+  "nextCloseTime": "2026-09-29T00:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 4,
+ "displayName": {
+  "text": "Veterinaria San Martin",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:30–19:30",
+   "martes: 9:30–19:30",
+   "miércoles: 9:30–19:30",
+   "jueves: 9:30–19:30",
+   "viernes: 9:30–19:30",
+   "sábado: 9:30–19:30",
+   "domingo: 9:30–19:30"
+  ],
+  "nextCloseTime": "2026-09-29T00:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Los Virreyes Mz. M Lote 5, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuX3NhUU5REAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "authorAttribution": {
+    "displayName": "brenda Puchoc",
+    "uri": "https://www.google.com/maps/contrib/111269530042149467814/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKkL8nE9GjRXYS9URqf0AkSpd5wOrbgxncHOurkPseJ-Jxq-Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-09-26T13:55:03.850586Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuX3NhUU5REAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuX3NhUU5REAE!2m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/reviews/ChdDSUhNMG9nS0VJQ0FnSURGaTZhZTdnRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Fiorela Contreras",
+    "uri": "https://www.google.com/maps/contrib/114692290950679761919/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMkOO1BcEdgD5TxsdUzSxriEO62MPs7FDsBvlj0GssdVhhYPQF=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-11-10T03:58:31.880926Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURGaTZhZTdnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGaTZhZTdnRRAB!2m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDcFlqclRREAE",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 1,
+   "authorAttribution": {
+    "displayName": "Carola Terreros",
+    "uri": "https://www.google.com/maps/contrib/101193453224010668592/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKlr3IoeDQUuHFCDUpxzsaWCG2ILdY8jE-xkRUcKeIULdslJgi=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-08-30T04:03:55.347803Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNDcFlqclRREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDcFlqclRREAE!2m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4azY3VzhRRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Roxana Veliz Gonzales",
+    "uri": "https://www.google.com/maps/contrib/110700312294814136341/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8H3uC4t3a60KXDXLM0zfV0OYw9no96LerUJxF1KA-40dJeQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-07-27T22:41:41.747685Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ4azY3VzhRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ4azY3VzhRRRAB!2m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/photos/Aa-ngMa3VKF_v3nJnXMy8KoY-owF2ovWdZZZv_x-4cNvSi-633HWFGSUhED0kSPqm6ZEyu_-3hpm9rSzDG4gSG6l1UlNuKIDgnFDBQ81SS21OHGeZpzVVyh05N___Sb1k4EJBqNDZq8FWvAU43gZ-pa5HR8WmI8lNbytSXIEBt_TVuu1umwGB9iu6fyWrLTdSiFyIwzNKrZbl-gWxWPYyiO1vs3O8og_Nk_WTk0dOiUygoca52cg3bre5K1GgF0GshYo-Xi9llZFLNXuR7UbflN62YR-zisCuN_3sj8qVNy9LSfxRM8wRQQEtcHxyMvkO_8kl4XozYCPA5dzvZ0gAEQJVtQAb0bvr62vxdc20_cxxh9jpGv9IF7nl-e6vUB96ZkZG3sH2savL0euOOraFY3q4uRSY45u51u_LiN_5CREM1Yo5Q",
+   "widthPx": 900,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Martin",
+     "uri": "https://maps.google.com/maps/contrib/113613961263150031471",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAvJPwlSaDHlZ_Cr3Bo2SAjEQSr0LFQu1A_cGFhvhMfzCK4A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzLghhtWfLb-wABwRo&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzLghhtWfLb-wABwRo!2e10!4m2!3m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/photos/Aa-ngMbM6WBhSdclrH7HmRK7_M3lZRUmNIN8DLS3or0_ytMnF4pCCVwuX-bcZZ6llblcFQk-QFL8-j7iwV37aFzmhE6ddyT33eGHl_6OCGFLeAvIvZ1iQvCgkPRdxFIQSJzkmBU1KmYUwsWcxzaF5LuhIPQthEon0I4ujVqjBzMthcXNrOUHVRiSRQhFvSP_siL0OM2gl2P_F0ki9VP3nNOm9MqWdHjRUTmaHD3akhbCZPEA9lu9iUqJnOrUDrts5IHe5davUwj9pCMXB5YtXRQIn6LO3TXW_osjDUB01smEvEuPkB5EIUtV5_y3O9nkUJ5xgeqD7R-1JIoq3U56lUwC0Q37Jwe7KbVx70KQIYOo4c96Zkpi5NZYPtkGoBnn42daOLHVioYdIfP3k8Bo1W2P-SdEwg",
+   "widthPx": 1536,
+   "heightPx": 864,
+   "authorAttributions": [
+    {
+     "displayName": "Christian Contreras",
+     "uri": "https://maps.google.com/maps/contrib/108216160823489898307",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocINdI4FhJY0kiCWO0m8XCq06S92wFP_HG4yll-yFByUX4XJ4Q=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDpvu-ObQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpvu-ObQ!2e10!4m2!3m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/photos/Aa-ngMYhQaU39asilsvOYIH3WBif_se-7J8Q3PtYgyfg764GHis0kgiiLzFWNaZ6WLQpYKVMBwr9ymu9Te6oPvMYJASzHCoZf7KUs1yWCosxmSGn1DTIaUNo7O4bjDXKJwGYsl3bpxaTmQ4YiDs8MUlzrHt0m7EiYmVOz1V2wHDqomjHiKO82Sf5oNHu3bqbWER1Sgo7nUNmqY-hVc7j6uU8hunJuIoEciz1wdU2MpiawrlAaadCNieHljpjTJzOYiYbxZHLAg8ralSju1HsDgKgHRFDXTdXckblPRaqTNLscfJLT1zPTJ9nsEAueLWHl7YJq47xcabCteF_udT1vYJ1bG2El6g46X_PhpAGcq2Gs4d3AflwEXtMVKeKK6Fm1ACCz6Oa7dgxIVEJLmmuUufFsI82nyFOfDh4pRA7eGyIq7mpUg",
+   "widthPx": 1640,
+   "heightPx": 924,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Martin",
+     "uri": "https://maps.google.com/maps/contrib/113613961263150031471",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAvJPwlSaDHlZ_Cr3Bo2SAjEQSr0LFQu1A_cGFhvhMfzCK4A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzLghhtWfLcBkACn-_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzLghhtWfLcBkACn-_!2e10!4m2!3m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  },
+  {
+   "name": "places/ChIJp43AUDfFBZERY0SJxAUZHok/photos/Aa-ngMb0lMiBMzASFpFJt5Bh0nLJHYS1K6da5vJ-n3SYydCu5a2aMwh6yOPCmBaQAnb-sCEWxL-vOHwlmiZhnpe0HOrgbaocstgMLilWZ-FOqV8jisAOrUc64AT5fU3rOoMOeacnp558wlCzzwHP0Q8zabYYiRfwOPXY67YS5-LzGtO3uO2M1HYdAe-Mb3kpU_UK8rwxe58ApRh6vVTLRqmMOgmYnVpYVEIc6l_kPwW_HCeD_D08J5n06Zy3UFPVPS3R0TsxM-MIlFYESu0rl2NY9-RsDT-K4pFCuq-4oIGQBUTfyPaHg3UfcMpf4L-jfu3SmgwmciGQYoLrdyJt-eAwgqu6-jBbH780IOg1DY7vcujnnj_Nkqk7MHvPRsr6L4bqaWf9d-C8rMak_MAKkSv0UZ0tr78yJ4a70lhoOaxpw_CKWQ",
+   "widthPx": 1080,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria San Martin",
+     "uri": "https://maps.google.com/maps/contrib/113613961263150031471",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAvJPwlSaDHlZ_Cr3Bo2SAjEQSr0LFQu1A_cGFhvhMfzCK4A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycTjvjZmzGfLcDgAChV8&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycTjvjZmzGfLcDgAChV8!2e10!4m2!3m1!1s0x9105c53750c08da7:0x891e1905c4894463"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

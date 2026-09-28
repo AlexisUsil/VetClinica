@@ -1,0 +1,507 @@
+{
+ "id": "ChIJgTAUBEbHBZERrmXxIDUNOZ4",
+ "types": [
+  "veterinary_care",
+  "pharmacy",
+  "pet_care",
+  "health",
+  "point_of_interest",
+  "store",
+  "service",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "933 098 017",
+ "internationalPhoneNumber": "+51 933 098 017",
+ "formattedAddress": "Av. Canadá 3791, San Luis 15021",
+ "addressComponents": [
+  {
+   "longText": "3791",
+   "shortText": "3791",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Canadá",
+   "shortText": "Av. Canadá",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Almudena",
+   "shortText": "La Almudena",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "San Luis",
+   "shortText": "San Luis",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.079499199999999,
+  "longitude": -76.99195999999999
+ },
+ "rating": 5,
+ "googleMapsUri": "https://maps.google.com/?cid=11401158453502240174&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:30",
+   "martes: 8:30–18:30",
+   "miércoles: 8:30–18:30",
+   "jueves: 8:30–18:30",
+   "viernes: 8:30–18:30",
+   "sábado: 8:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 1,
+ "displayName": {
+  "text": "PATALEANDO VET-SPA",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:30",
+   "martes: 8:30–18:30",
+   "miércoles: 8:30–18:30",
+   "jueves: 8:30–18:30",
+   "viernes: 8:30–18:30",
+   "sábado: 8:30–18:30",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:30:00Z"
+ },
+ "primaryType": "store",
+ "shortFormattedAddress": "Av. Canadá 3791, San Luis",
+ "reviews": [
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/reviews/ChZDSUhNMG9nS0VJQ0FnSURCODlXbmVBEAE",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "La mejor atención para los engreidos de la casa 100% recomendados ♥️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "La mejor atención para los engreidos de la casa 100% recomendados ♥️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Aaron Ordinola",
+    "uri": "https://www.google.com/maps/contrib/104551304940203353108/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIycctK92OiQj4LAhAe1SO8nwSulmy8xwHOQ9SC15SFqhhsWQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2023-01-28T13:20:36.960049Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCODlXbmVBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCODlXbmVBEAE!2m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMZL0z-MjQY0DHnPxZSM1wRofKLLT6SsSFQYQzZzQhBbABWfqNWvl9ysVXyF6Az7zU0sgfh5oYyBHuOq-wbD2x6xKHTL5vghMyhUSTuJVIUu5vOiBKKtu4Y1jKj9Ef7R_h_rc2EiNxMI4E42tpszXmW1euFYTska-9siIxs0yJgmS1lLvUL3JzHWC5CteP3fGvFEf1nPZ0K7FqTHRqx7EeJdBWQmKHxrESUPYr_LZgS_MtE-bJWCviiVRl_KI44jevqfuygXUY1w7pjvOFfvm5NuDig1mrRDocUVZB1guZZ9XdK5ZjND9LbP0fJ2vxeb2UcgMvHzEDwaP5BGYQwOO4rQmohgP3TBTp46Zse5Dh1RvpatCq1F7BAJHrzWZb2U-aQTTV7Rz92jCq3xPoYD12TCXEg0Qr4n_GvQsL4qZJI",
+   "widthPx": 252,
+   "heightPx": 395,
+   "authorAttributions": [
+    {
+     "displayName": "David Castillo Palma",
+     "uri": "https://maps.google.com/maps/contrib/110611205354745071785",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWc8bdcGFrkh1EIjoltGd9qU3SvWwv5fWvI_YAwzYna0hEn8GyK=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICpz4avCg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICpz4avCg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMZLOktT_LL5vq-49qJpYiYZT851NyVD-V3NW8f9RiQ65nUoDj74EcYUCELahPukUPr9eJxkrHvTSiRswXk0A6Y43nDkeHi50f27V0BKL3tpvFktJwBF0XCKe1cAfR03dgaLUNdQru_-jAPjhxtPiUs5P8GnJ0-ibJi8MyKJi35douQbxSfft-tCCo_aje0EhIADmlz9v8ah7_sePVNmb1XKKn2x4sa8gkAA0EyuBOipzZ0Ai999APNr4IamnkmkTCB2yLrRZG1m9I17xnccu6cz5BXPsVy6yz1gF5ilBt5Z5bDZsX1kvFnPoK_Stb9wb0Jkzqn-T61TIw0f8eU2x13PQEoOGkqFiU-n1xmxemcxwd_7raLnjuIt_LNi_zfxmxfdG1gxgxtRg6pneoU-MYuw_cBNxApQ5x7d9Tk20esZ5Q",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxr6QRg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxr6QRg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMYPrkbz2mrPiaEHP1kW0mWlexmlMQ2VbaYuBvsbyMXpPd0m7ScNY09Iu427evnt2XN8VA62OZZNpag0qVf14cOVdYLdHMIDzCmYh7_zWrGVSzDkwvLVKmAlAy1ogUpLxF1idSX-fRk1zTV-sG9B70O8tSJze2yfEevQr_6-r_H_6X85TinVWqTV-HJsQmbL15xqSspre6rkw0gCeMzF63gktF2J9tl786N6j0U3bXFsUmkwCSPLHFejCs946B9qQkI6QOaa3L_lgWNZI3OToqr0TSayUcorXeKYhYV9xptJHUYGWFBOSadxIuxi-ahOG4kHLVrAw8hHd6w0hy1LM0YQsf5dtX54yy_d2zW8NKEOlJG30_SJrY6YvFC-wC0QCHFYxBiFWCWG_rvrXWgQA9f8R2vC8fz92mmuTC5qitHHgw",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxt6fLA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxt6fLA!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMYt0E9MYfn2wpuAQsn0Kb13OBzLmFMI8pIM5qVkclBy8Y0q0Dp_gv7zJ27hh1tkX7QbJ38GPNwUNeM-QIXiAkD8pqzV4D9QWyFDiizHrAOFU88yyVh8glTJTB8Euj-a8xEJ5kGpvXRb7SwN6ecK7q5eJB7zVUsJxV9GRI2nXWLuTSxmavYrus7dI6MP-y7ZtbfAyMZXcZCa-6cQrbtJ2BAug_8749IdsMxa8hEycfCLqnX9MNnwzdRPMoxSz4S2f-lrEfPbH95TmYhek9Ml9wvh1TElf5ucSmh9J1ZFHeGNZd_pdAIEKnGQKiJhQehZt4ZoW0xFy1Vjg5xXtDEVsh_HocX9jeHC2nN8QS09oorxGK0He8Y-yvB8xFZ_e6kondX3nV9pEuT5dJC7hewSaS6oPkx3CdY1ZlbpTLw4XPM",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxr64VQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxr64VQ!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMbof-SzK069S7qKPU0QWQS5evCNQh7Jbs5BMgDBeWjEDIBPXawUO6fXt-Cz99p5-AWt7EGuQpI8XOBLTY9BNNnrglB8JFRYdjm0S6mrgQzzLzcWzTFdimZkynjP3IW5qWjqe4OkztMGPsqjmQUZkNoBCAPfEMbG2q2h-F-g_7rMdUWp-kqaMMJSRlIPKKbbUYjFNrJWcBf1w_SL8ve0IOxYIfNH6Mk_2P00tzGXrsO60tTOoAazqFen5h4iB2L7g0470Z6JfVQMB_kF8ICZ6_Th9ONZJ1VZtCHSV41QmzXdQJVLeX8h6xMcqoBbOhMMC08fVHMYpA5l-J58jdkDl_rCmE4XQnV13L5s4KLsfb8CiUzSve1TH_zGIzKJbUgGCgQkZ8f9Vi1b7RYQgesQrh6UMQZkbQq4aob1KBZhPGfTjA",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxv6TRg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxv6TRg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMafmKxRQ0B5VW7So1liWkBxs7ItAN8NcmoVpUD0mSQMjmfoMAy1N8Mkzs9CEZigw89RBreDNLbc3Zjl5gaLZlWTDbW1owge6RiFTzMImWntzImnNVkI3verKypYQw4aAPr1aYyBdK9fhr3PCbxFXLKm1kVEqTAQwYeNUxDh6WWNAuhTX8ai45XImj8iZoSSrCDY-e-xU7Bh34MzPXdwglcLMBgNO37a3qYDHPwDc0dQpG2PayF3vzCDEsZPbsUD4mCOBPKHAWgVu4ZYbaN5L8ATmfFjkZIFfbo3kvBNw0foX7eDXNZage8fGUfTR6swIY_zr-Vl3H4Wox062aIb6Zu2jAIodDZFWOzktdajDphwuYK6-Q7w8IlmYaz8g_sR9Jhbzvmq_Hbr4_TjBToKU52l0juYIoTRj-Ht7vIgInhXoQ",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxt7HPg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxt7HPg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMboL6gu_N1iNtXzzWpa-AR5L0mo3U9HNJK6SL9Eh47nhv3FhQneT3Q692osUIFH6hz6ms_KP3Hv4uPV7CC89zq_2IZ-BhVO9ZSa5YrdRzCBNb_NU9jWkZt4POzh-khWP-VYi779C0XNAKiZPvFO_bghhEXzueFEJ1EgGdgp2hcpcHJ3lru924wyCdEFJ4NwEg5vrHoNHwESMOYGJDL5kgZP6OI32tqgR44HnfnZJdptY6ObjzgzAVzjqw0hrWc3yq2Y6xHosgs1xEJwKxyPoHdzOwJEzHGGTlOJ26TExpa09hhYKNUWGYrJ0mrEomJ5uAb5Cj7vOLxBrmuQ0q3rBk95adtA0QRQyEe0psXKlwR-di4kz0JOQiOVu4Cs-EPkDDg95HtbRKVzuiWYRVdxaVe-fpS8VKPMeDV9BMu7sxygJi8",
+   "widthPx": 1242,
+   "heightPx": 916,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDGleXhkQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDGleXhkQE!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMb7rKvXLNOaQjBHGKWfQ5SwcajFbhvjL5gTGk3XU6gQyV0NUM688RMEP7Hh4CTuuZnmA4dpSZHC_l358lj2WMslnecr9NeXAk-FoRshC1nK5Ne419mUU8KTLODShkmJ4P_o7f-wawgJBYEN6cXap0TaPOEQDhqsSl-ZuCrtptUPzFT__twkQhUeb0Vki3QiW5VMp43gn0ExMCz0gyb7ijahLHzCszhJMnvcKA8LVObv5jS4WIFUc_nA5gaT6mOnPyM2aV2t_5qY9sie2z5a2By-p0x_aH5KFlQpGkmRuZkzmJ9bUw9kmysnbLDhCVwz117kzNTkuFRjUHC6-nNfRkTIt9x_EDpcLdtVdVzPBapOW_pTnOd2gH77OerSGuOkV8C5PyKYyhwo0o4b2aAiRHbWbG8bjtSlyxEIgA-CsNhIntpE",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxr6QuQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxr6QuQE!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMayyFmUKqzMwB1S-C4LmS8iR-vfULocUwDyCbk5_Euf9nT2FJ8qTZqpjaaYT0PfkMN4irAnnO1wQgnJqWQGbTS0Nq6n2jfk1Aluw-nOL1mwyCvkuUBQ8l4aV2kMgFE1YkX0NnR04IoEraBtPxPfInveZ9wlt4RsK3QFrPZs4-xSS0_y6pnMJVcubdi7ZDVzotAmp1bPZUU8Ybsyu4kqxZiZUbNL3vFw8vUs42ZcdfexV4vZdNWPImNxDnI6IH7nXG4O4XS_SVagCNQcI2qNZqiU_IF37LmVyoV6AwXjdaD4IPHe3qQluUY6PhpKpMS7UFpVbkeAjZWPGmTos_louSEYHWE2hnYjP_WXAemNp6EKeUKQMpfUy7qKObmqQYyj6IPK8O8B_jtrNSWtJqgM7PCm903XR_mptXkgnAHXmYc",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxv7tPg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxv7tPg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  },
+  {
+   "name": "places/ChIJgTAUBEbHBZERrmXxIDUNOZ4/photos/Aa-ngMY8_S6eLjR-LI9hRDvVD_049wte0bCJhL8XfswrDqBufLa9zuJaxglAxqoHx0CiUOcLbnkUO-nR9r2OCXFK-lwPd_Qqwb3Yws8L-qyeZrUmXIuTC7Ba6xgQIpGQs-I-FDahWDz6i5lZJ6eH0r0l3kevdbTaVpHxIEMPZlvfZKb842QwKdxA-KTP6wPFBvz2xUW9U7eQg8wU7dJkmASt_tAX792YyCJJNE7vmNFSuPELAOFwqgE6HaaM549JTUnOaoqHXweK6Bv-RghVi1t-mLtELATUcwPYbkliiez5toIAk7xEhYY1UoxKCk-sglb0rICHi6lY6UDZktyctvgJQqO8RxOShRezOZB1D2iDAJM5baTXa1zZGCG9Fpo_2UZ8_roi1gd2JS7YPbTROI5wkPjb7JBpIWIv1oI0KTIcQSuj3w",
+   "widthPx": 1792,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "PATALEANDO VET-SPA",
+     "uri": "https://maps.google.com/maps/contrib/105909706989595648635",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXiJwbUK1etezc35m0Ywev9LPA8hjZTbQVjh49cpq6M_R9wBA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDBxv7VEg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDBxv7VEg!2e10!4m2!3m1!1s0x9105c74604143081:0x9e390d3520f165ae"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ }
+}

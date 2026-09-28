@@ -1,0 +1,586 @@
+{
+ "id": "ChIJ-UeaRzTGBZERGt_4MILEMUQ",
+ "types": [
+  "pet_store",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4363684",
+ "internationalPhoneNumber": "+51 1 4363684",
+ "formattedAddress": "Av. Canadá 3848, Lima 15021",
+ "addressComponents": [
+  {
+   "longText": "3848",
+   "shortText": "3848",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Canadá",
+   "shortText": "Av. Canadá",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.079534299999999,
+  "longitude": -76.9910891
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=4913924731884330778&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 119,
+ "displayName": {
+  "text": "Cat Dog Wasi",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Canadá 3848, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paWVduSk9kMDVwTW1WeFZ6RkVlRjlVWVhKek1uYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "He visto algunos (muy pocos) comentarios negativos aquí acerca de la doctora Viviana Fernández, con los cuales NO estoy de acuerdo en absoluto.\n\nEn mi experiencia, mi perrita Lula desarrolló un tumor en la encía superior, lo cual nos asustó muchísimo, como es lógico. Desesperadas por saber si era cancerígeno, la llevamos primero a una clínica oncológica veterinaria llamada OncoVet en Surco.\n\nLamentablemente, nuestra experiencia allí fue muy negativa: no mostraron un real interés por mi mascota, sino más bien por el dinero. Nos cobraron mucho por múltiples citas y exámenes interminables que no eran necesarios en ese momento, y cada vez que pedíamos información o queríamos resolver dudas, nos decían que solo podían hacerlo pagando otra consulta. Eso fue una gran red flag para nosotras.\n\nAnte esta situación, consultamos con nuestro veterinario de confianza, quien nos recomendó la clínica Cat Dog Wasi, de la doctora Viviana Fernández, y la diferencia fue abismal. Bastó una sola visita para que la doctora revisara completamente a Lula, evaluara sus exámenes y nos explicara con claridad que lo más probable era que se tratara de un epulis, algo no maligno. Indicó realizar una cirugía para confirmar el diagnóstico mediante biopsia, y el sábado siguiente se llevó a cabo la intervención junto con una profilaxis, todo con total éxito.\n\nLa doctora Viviana es una de las veterinarias más amables, cariñosas y profesionales que pueden haber en el Perú. La diferencia se notaba muchísimo: trataba a mi mascota con verdadera humanidad y amor, no como un simple medio para generar dinero, como lamentablemente sentimos en la otra clínica.\n\nDías después recibimos los resultados y, efectivamente, se confirmó que era un epulis. La doctora nos envió todas las recomendaciones postoperatorias y quiero recalcar lo profundamente agradecida que estoy con ella y con todo el equipo que atendió a mi Lula.\n\nDe verdad, la recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "He visto algunos (muy pocos) comentarios negativos aquí acerca de la doctora Viviana Fernández, con los cuales NO estoy de acuerdo en absoluto.\n\nEn mi experiencia, mi perrita Lula desarrolló un tumor en la encía superior, lo cual nos asustó muchísimo, como es lógico. Desesperadas por saber si era cancerígeno, la llevamos primero a una clínica oncológica veterinaria llamada OncoVet en Surco.\n\nLamentablemente, nuestra experiencia allí fue muy negativa: no mostraron un real interés por mi mascota, sino más bien por el dinero. Nos cobraron mucho por múltiples citas y exámenes interminables que no eran necesarios en ese momento, y cada vez que pedíamos información o queríamos resolver dudas, nos decían que solo podían hacerlo pagando otra consulta. Eso fue una gran red flag para nosotras.\n\nAnte esta situación, consultamos con nuestro veterinario de confianza, quien nos recomendó la clínica Cat Dog Wasi, de la doctora Viviana Fernández, y la diferencia fue abismal. Bastó una sola visita para que la doctora revisara completamente a Lula, evaluara sus exámenes y nos explicara con claridad que lo más probable era que se tratara de un epulis, algo no maligno. Indicó realizar una cirugía para confirmar el diagnóstico mediante biopsia, y el sábado siguiente se llevó a cabo la intervención junto con una profilaxis, todo con total éxito.\n\nLa doctora Viviana es una de las veterinarias más amables, cariñosas y profesionales que pueden haber en el Perú. La diferencia se notaba muchísimo: trataba a mi mascota con verdadera humanidad y amor, no como un simple medio para generar dinero, como lamentablemente sentimos en la otra clínica.\n\nDías después recibimos los resultados y, efectivamente, se confirmó que era un epulis. La doctora nos envió todas las recomendaciones postoperatorias y quiero recalcar lo profundamente agradecida que estoy con ella y con todo el equipo que atendió a mi Lula.\n\nDe verdad, la recomiendo totalmente.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Daniela Gordillo",
+    "uri": "https://www.google.com/maps/contrib/112044220215659189043/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo8Mgb3UstIKdJ9qmF9XmKWVxwD9g9aervX9f-UjxMd4E5iRs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-16T22:13:00.286153154Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paWVduSk9kMDVwTW1WeFZ6RkVlRjlVWVhKek1uYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paWVduSk9kMDVwTW1WeFZ6RkVlRjlVWVhKek1uYxAB!2m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/reviews/ChZDSUhNMG9nS0VLQ3hzUDNKZ00zWGJ3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "Si se pudiera poner cero estrellas lo haría. La dueña, la oncóloga veterinaria Viviana es una irresponsable y pésima profesional, llevé a mi perrita porque me la recomendaron, pero fue una pésima experiencia. Primero me atendieron dos supuestos veterinarios: En la primera cita una mujer y en la segunda un hombre y ya al final la oncóloga; mientras yo iba pagando cada cita pensando que me están atendiendo veterinarios profesionales resulta que no, luego de la pésima experiencia en este lugar investigue a los dos supuestos veterinarios y eran estudiantes de últimos ciclos de San Marcos y gente aún no graduada, todo bien con que practiquen, pero uno no debe pagarle lo mismo a un  veterinario profesional y a un practicante, y menos que atiendan a tu mascota y la mediquen sin hacerte saber primero que ellos no son profesionales graduados, aún peor cuando tu llevas a tu perrito por asuntos graves como el cáncer; y cuando dan las recetas u ordenes para exámenes ahí esta el sello de la oncóloga cuando ella ni te atendió, claro como ellos no pueden firmar.\nCuando llego el día de la operación la oncóloga me dejo con mi perrita botada: En recepción me querían hacer firmar un documento en el que decía que ellos no se hacían responsables si algo le pasaba a la perrita, así que pregunte si esto era necesario, que no me habían dicho que tenia que firmar eso, ellos ya no me dijeron nada y luego de unos minutos me hicieron pasar al consultorio de la oncóloga, después de saludarme cogió su celular y encendió la grabadora de voz, entonces empezó a hablarme del caso de mi perrita y al final me dijo que no iba a operarla, le dije que mi perrita necesitaba la operación y que iba a firmar, pero ella ya no quiso operar a mi mascota, le insistí y le dije que ya había hecho todo los exámenes y análisis que me había pedido, pero dijo que no, se levanto y se fue. Ésta mujer es de una soberbia tremenda, como es de las oncólogas veterinarias más recomendadas se alucina dios, pero hay mejores que ella y con ética profesional que no contratan practicantes para hacerlos pasar por veterinarios, y que de verdad quieren a los animales, no sólo los usan para sacar dinero mandándote a realizar análisis extra. Es la PEOR médico veterinaria que he conocido y NO RECOMIENDO este lugar.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Si se pudiera poner cero estrellas lo haría. La dueña, la oncóloga veterinaria Viviana es una irresponsable y pésima profesional, llevé a mi perrita porque me la recomendaron, pero fue una pésima experiencia. Primero me atendieron dos supuestos veterinarios: En la primera cita una mujer y en la segunda un hombre y ya al final la oncóloga; mientras yo iba pagando cada cita pensando que me están atendiendo veterinarios profesionales resulta que no, luego de la pésima experiencia en este lugar investigue a los dos supuestos veterinarios y eran estudiantes de últimos ciclos de San Marcos y gente aún no graduada, todo bien con que practiquen, pero uno no debe pagarle lo mismo a un  veterinario profesional y a un practicante, y menos que atiendan a tu mascota y la mediquen sin hacerte saber primero que ellos no son profesionales graduados, aún peor cuando tu llevas a tu perrito por asuntos graves como el cáncer; y cuando dan las recetas u ordenes para exámenes ahí esta el sello de la oncóloga cuando ella ni te atendió, claro como ellos no pueden firmar.\nCuando llego el día de la operación la oncóloga me dejo con mi perrita botada: En recepción me querían hacer firmar un documento en el que decía que ellos no se hacían responsables si algo le pasaba a la perrita, así que pregunte si esto era necesario, que no me habían dicho que tenia que firmar eso, ellos ya no me dijeron nada y luego de unos minutos me hicieron pasar al consultorio de la oncóloga, después de saludarme cogió su celular y encendió la grabadora de voz, entonces empezó a hablarme del caso de mi perrita y al final me dijo que no iba a operarla, le dije que mi perrita necesitaba la operación y que iba a firmar, pero ella ya no quiso operar a mi mascota, le insistí y le dije que ya había hecho todo los exámenes y análisis que me había pedido, pero dijo que no, se levanto y se fue. Ésta mujer es de una soberbia tremenda, como es de las oncólogas veterinarias más recomendadas se alucina dios, pero hay mejores que ella y con ética profesional que no contratan practicantes para hacerlos pasar por veterinarios, y que de verdad quieren a los animales, no sólo los usan para sacar dinero mandándote a realizar análisis extra. Es la PEOR médico veterinaria que he conocido y NO RECOMIENDO este lugar.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jen",
+    "uri": "https://www.google.com/maps/contrib/112218024505656179760/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoIh4yZt8imSFurh7cBujliRLVQSDeDZYK9bovOWxh76zHZ8Bj=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-05-23T20:30:01.075648Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLQ3hzUDNKZ00zWGJ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLQ3hzUDNKZ00zWGJ3EAE!2m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzOVB1cVpBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 1,
+   "text": {
+    "text": "En la primera cita la dra. Viviana atendió a mi gatita meticulosamente y con paciencia. Sugirió la mastectomía y éso hicieron. El día de la cirugía me indicaron que no habría atención de otros animalitos y se dedicarían a la cirugía, que habría 3 medicos en sala. Grande fue mi sorpresa cuando el mv que atendió en cirugía fue uno varón y otra doctora, ya que la doctora Viviana estaba atendiendo otras mascotas (pero al consultar decían que ella estaba operando), me decepcioné ya que ella firmaba como médico que operaba. El mv que atendió a mi gatita fue muy tosco, poco paciente, se notaba que no le agradan los felinos, se fastidiaba porque mi gatita no se dejaba inyectar o revisar (era una gatita, es normal que esté nerviosa y se trate de defender). Ante dudas se fastidiaba, cuando su trabajo es absolver dudas. En los exámenes preoperatorios salió que mi gatita tenía problemas del hígado y páncreas que eran muy aceptables (apta para la cirugía) según la doctora Viviana, no sé trataron antes de la operación. Mi gatita luego de la operación se agravó del páncreas e hígado y murió dos meses después por una pancreatitis y problemas hepáticos que no se les dió importancia antes de la operación, ya que según la doctora \"debía ser pronta la operación\" confiamos en ella y pasó ésto. No lo recomiendo para nada.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "En la primera cita la dra. Viviana atendió a mi gatita meticulosamente y con paciencia. Sugirió la mastectomía y éso hicieron. El día de la cirugía me indicaron que no habría atención de otros animalitos y se dedicarían a la cirugía, que habría 3 medicos en sala. Grande fue mi sorpresa cuando el mv que atendió en cirugía fue uno varón y otra doctora, ya que la doctora Viviana estaba atendiendo otras mascotas (pero al consultar decían que ella estaba operando), me decepcioné ya que ella firmaba como médico que operaba. El mv que atendió a mi gatita fue muy tosco, poco paciente, se notaba que no le agradan los felinos, se fastidiaba porque mi gatita no se dejaba inyectar o revisar (era una gatita, es normal que esté nerviosa y se trate de defender). Ante dudas se fastidiaba, cuando su trabajo es absolver dudas. En los exámenes preoperatorios salió que mi gatita tenía problemas del hígado y páncreas que eran muy aceptables (apta para la cirugía) según la doctora Viviana, no sé trataron antes de la operación. Mi gatita luego de la operación se agravó del páncreas e hígado y murió dos meses después por una pancreatitis y problemas hepáticos que no se les dió importancia antes de la operación, ya que según la doctora \"debía ser pronta la operación\" confiamos en ella y pasó ésto. No lo recomiendo para nada.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Elizabeth Rueda León",
+    "uri": "https://www.google.com/maps/contrib/108985905703199366642/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImycUu3Onq7IxX2jYxLiuy1HVJfJKPlwikCmEkLPpOIGbSkA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-11-03T10:29:18.197832Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzOVB1cVpBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzOVB1cVpBEAE!2m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURBellHWWJ3EAE",
+   "relativePublishTimeDescription": "Hace 9 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buen servicio. El trato es muy amable. Tienen buenas instalaciones. Me ayudaron mucho con el tratamiento de mi mascota, tanto de su problema de piel como con sus riñones. Consejo: siempre llamar con anticipación,  los doctores son bastante solicitados.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buen servicio. El trato es muy amable. Tienen buenas instalaciones. Me ayudaron mucho con el tratamiento de mi mascota, tanto de su problema de piel como con sus riñones. Consejo: siempre llamar con anticipación,  los doctores son bastante solicitados.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Kevin Arenas",
+    "uri": "https://www.google.com/maps/contrib/118125803261509953340/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImmE1PCBdowpy_myqo3ND8GnJ-SkRsjXrfKEMkEGAPxO_69Yk=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2017-07-04T01:28:53.775Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBellHWWJ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBellHWWJ3EAE!2m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMDR1cTVRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 1,
+   "text": {
+    "text": "UNA DECEPCIÓN\nEs injusto que me pidan volver a traer a mi mascota Laly para que realicen una prueba de citología, cuando fue una negligencia por los veterinarios en no sacarle la suficiente muestra para sus análisis, el cual se pagó 80 soles la citología, el cual fue devuelto sin ningún reconocimiento por parte de la veterinaria, por qué nosotros hemos llegado a esa veterinaria por una recomendación de veterinarios especializados.\nSi se pudiera poner cero estrellas, le coloco con mucho gusto.\nNO LO RECOMIENDO.\nEspero que les ayude mi opinión.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "UNA DECEPCIÓN\nEs injusto que me pidan volver a traer a mi mascota Laly para que realicen una prueba de citología, cuando fue una negligencia por los veterinarios en no sacarle la suficiente muestra para sus análisis, el cual se pagó 80 soles la citología, el cual fue devuelto sin ningún reconocimiento por parte de la veterinaria, por qué nosotros hemos llegado a esa veterinaria por una recomendación de veterinarios especializados.\nSi se pudiera poner cero estrellas, le coloco con mucho gusto.\nNO LO RECOMIENDO.\nEspero que les ayude mi opinión.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Haydee Pacco Flores",
+    "uri": "https://www.google.com/maps/contrib/113775756008046188282/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyfy_FqfBxV-5i1cwecD7ArjfyZ9oFCg1bShNTtvXvu17KpqfrdA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2023-01-28T04:16:38.784914Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCMDR1cTVRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCMDR1cTVRRRAB!2m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMayrLnQu8oaOz5IgoGR5NwniDpEt6t3OtJ4cpq7ljxQpflU2icKWv4v6wKqhwuGkybIBjoIa6hG_6rJpEiLgWHOPTaMXbRuGe3a0WX013XdcE7dPajM7P__K5aORvY6TKYx0oWix-p6EJFuzRhgTOaUPmExXcL3ePfEVHF-yT6D1IZpMRBGJSroWH5Wr1gd6REIwE3Lx7Ru910jBe2tC0IcIlkER_dNXVdmxHVX_kyAyOUc4JY27sBCZioWb-gfbEQF-0EbUX9AQa7JFg55Q-38EPTyuHsI-GDCxvpkYhtymBXMzvHao2iKkihrABdbb6DnoH-FVtQA-ATvziQLBygNDu4OHKPgqU10ZteAYRpSJ-zxszvCIlUKwrU7l2ChwUlL3gMEopPS_gLqLYNCbfLj9iK5yKQ38o0FVAGZKBxEN-Oy",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Javier Orrego",
+     "uri": "https://maps.google.com/maps/contrib/114110554246098899203",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsNdrW42pAO_VIbswf7hHEyZSRiBZygViAxtpTtnEhZC-QcfhsFw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC49tergQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC49tergQE!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMYMFVEjA_oCaV7eYGwCeG2xdF41JSRb7daErSUZaBVM2DrM9wO7OeQXj77Ab6StDWA8M4CW3jty3JZdJEG-emcYlT2i88Juk_Inq3mhlkLXrYl8LiRYng1CgdDVpmzxH-9AGHElMUWdzAq6NnWTyPjW5jThN609PrLR_p7gwC39iYPNBDRlT85Jh8XA2rLDO-MhYlqKGKuua9V9S2SFMAkVU5sT1AM3CSgYVZQAjlwKg2w-TRrjsaHIRkKbMpaVQplsja71zUYKd8JcLkiDEqmRrkplRDJI4vkcQwRZthAYtkorZNiqWiAh5Aa0FCddHmZfPCtrxQYwMletpl52DwuVfYY1OmW8jfo1fjONTpzkghAC-m3h821Y0hEOWdPVjWuxaRJqavraZsrQ_p-2D72t0x1h3HFi0uAxUal8XiTxug",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Neil Sanabria",
+     "uri": "https://maps.google.com/maps/contrib/103830930222862544397",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr2lZ5Qp-Pd4h3VUtuPjjEGDwOUPnuNhu5kZJXXEqg-_CQZDBL4A=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUyp72Qg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUyp72Qg!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMbGo0ItUfV6f2zsHhKiDmIpGQQHmZSbkJngR6-itZD-zcntbjwDH8gfF0n_IXkXC5nGA6JIFi87PwCQbOlGvrW9kt55qTYsEGh8Y8lMYc6dmhB3Lxa4SgJbhIUNQPUr4ilKb0iRJwisgwyPYz3vVaH0b0USPlUm2ai7syCTQ4QfpvLEwdizjAM3TW01ykIix1-XvWQLtZQ-8C94RDOkOMQ4pSVr94QOlaqwfcb8-AjsxS6vl-7698TIITIEz5o1MOLmdi3PdgWu68nONEsxUK2vh4gNWO21KP5oFLFYAFt-BPE68zygOVCGxxw4hzAqyjtqkW9y0RuHGYSJAust2U8MJKqo9hqTiyH4kX3p5Wp7zKPxuU_MB0qrTHo1RkNAlku4JzhxBiJn1_l2u2hK2iKnIKIX90i2Tcj8Lu0weRwd_g",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian Carlos",
+     "uri": "https://maps.google.com/maps/contrib/100429102972245052698",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1hGq5g017biY199yc4LtzRUus4m48H5Yv4zIMABpQcpUyjb3B=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4_drnCQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_drnCQ!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMYMkJp0jIKBN8wNb2Ee7wceR2Htw-aivNBcuEYTqCcfNKadZ9q3UFP89kU4nNa7SPR-LhMw6XZXm_IwvNr7uxbyqWnKzEE1DT2t4xheCTmSIwz1zQZYXhWIZ1lt-1BRfJ7j05j-FWvbaGa2AI6GWMARHkycrg3OKgXRgHuAuf1U4Zvy4JzwM59Fqc-jb4duTQ-zzCYsUJE2gL7wXPAAAvPe5a7gpfkQN9WOwvsmYixa6R-0ngkfJaRDmnfSeaRiT1CY-dBMH4Jfl8TRAcbHx33ozTIZROO0hBBo9Ns9iX0h7ZF9VYwWDVMbxQ5LTFYgx4xsrTDuIUkHLyZfJw3YL5BhxwVWMSUkPP4Hjf6HnOyDGmJvYfuryDCKSUO8NjI6or6hvSu7PmBVSlfG3HiJL7KijYHIGj0kCidgtqMyhpU",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian Carlos",
+     "uri": "https://maps.google.com/maps/contrib/100429102972245052698",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1hGq5g017biY199yc4LtzRUus4m48H5Yv4zIMABpQcpUyjb3B=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4_drncQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_drncQ!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMbr7pb1TArYxQgaFRFY60SRL3duGLcqMW8_DPsVTah-ZESKxtciBgfMfT4EXlHn4FLIBT0N5DihVK8Ip9yr5vQIewFnlEJ3vA6OFfSVDjewGnKU7J2JFMXlq25R2HWLZeo8hX_HgyfpQKor1whmvWCs4uprFw7abFvTmSaLqZEqpM5lkz70gD9yokPAtWRpqLTOaqi7KmFWXGPX6IIucCP2f9x0EyDslTzFP9vg6yfjyKbjN89IcM1mt8Y-dp_qD87NnFyXmnm8iC8NbGKsH59yXJ5rtUebiAGI0yxLHBKdUHokYwZMguF0zPaTlAlFNLaaEDvfxhV_MJHZt3f2CyohB8jqMZHGLXHEOlkHjZZ7JXKD3BDPrFLsbXedS285bDgx55cSJkwg7b_dcgAPM2lmcKj8V033rzkS9--zLyHtjQ",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Javier Orrego",
+     "uri": "https://maps.google.com/maps/contrib/114110554246098899203",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsNdrW42pAO_VIbswf7hHEyZSRiBZygViAxtpTtnEhZC-QcfhsFw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC49tfpHw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC49tfpHw!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMZvu-3PIcQjKE3IU4vlS7QCzhxiTH6sewDB6HWOBysGC8vHgz6u9tGrfGpriWVx-Aw47XRxHYh6KSAVft_viOgPEb-mY3hxwrtXtrqUQY9m92AC-KJm0D662f4bZvWBjvKTVYqI6l2VcH83Z9d0lKkzDqUbbBeUeSSZ68BBosm0o9jLr9tuz2Iz7DW9uf1-Lgbfug82e9Vr5RNG1Kv-l9y0NWOTer9Jnx60zhDg6IWgRufWqMWV7PccOu0_E4m1r6oaLxABevvqkDISiRPpUwtC7XhMcTGpt95UYMkamUjzRjGmolZWtOSGZM2vi2S-EQwEkTwv8b6o7-kco9__rsqhq0tU3cEDPMiMs7_E0a-zVxoifJgjBPfiBbhqurApmwNd_c2eCNY4Sf2Kjl9bvQQEMXfoDZl_ZTy5n4IzIu0",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Christian Carlos",
+     "uri": "https://maps.google.com/maps/contrib/100429102972245052698",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1hGq5g017biY199yc4LtzRUus4m48H5Yv4zIMABpQcpUyjb3B=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID4_ZrXFg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID4_ZrXFg!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMamxW73iF4IfCkc78wUYcpkhmDRY8MuEY8jOlVrDfdPUpcMFlCF47EMSw1fq1g7UuXauVHVi-gUrb_PHi59MRitLBrzo0Gd67v0B7JXQIDM3fZ760PjUjsWPODrRCuKmprVZbfsLvcxpHh0DJngsvrAeth5RisKzi1NsSMyP7lBQKf4KypIvls0R7kGsCxIPbRXNe0jSGD9WTSVkudqojRy2RO1y19nj0WFODpKiG9VM9ulNUXblhGP8IIEHGIDGpS-jQ-I_DJdFG1NOkpgJGMuw1cYmn9d3u2O-4q-T_BJ3DBtpiDEwQ1GWcl2UUi4OGGR9xvgpnM7usXtZBWB7GyJZjBOxnG8BVNCBEqzzXmMXyMs55wSbjxlrH_OKuZ0DgOqlJRb6B_8alwjAbkCQ4ZNzX-Ot6f_iVLbAucUmDYpJ7s",
+   "widthPx": 2340,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "rossana maco",
+     "uri": "https://maps.google.com/maps/contrib/117140672925007508126",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrL0XEStWSGb2J-HUjHaaMkbGljksjyaCFPO_0pMs3qdv3ulQh1w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcksTn3QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcksTn3QE!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMbUiVIGiBx3oqmnSH8550Xoswq6dBqr0FC4-7tNh-icXjp-VhNJXQESyhWaQslF5lG9Wsyrmfkv6AjRRIyYe9QukWhAi23QNUp6lTL1ln78h0j3HlYAWxK0MtousAIczWTdezB5CH_JgtwGXcwNd5VP4s4O2oKhySnuwJ8kZImRBK_BsMEneoyeRl7Wd_KzHZMkgoBJsGtrv2MHs99hXLKWfEmZW73fQyKeGMK2QetvV4QJrKYQCOki9GBXLulDsYxOl7LnWYTuh1q-NGhifavrD3kcb7Y87fJLnP3eg_vdpJvgVNJyPt22jrvJ4lsX2Z89EjkeDELjHSSL7AuWB7qqca_pwblg1xKLFzpFe5L06kpzkfQADFndRLie_PBAlvbdtrGAixt3kryJQm-fOIRC_FXJwsO8GiXn7wJKAVr-JIu7",
+   "widthPx": 2322,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Javier Orrego",
+     "uri": "https://maps.google.com/maps/contrib/114110554246098899203",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsNdrW42pAO_VIbswf7hHEyZSRiBZygViAxtpTtnEhZC-QcfhsFw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC49tfpvQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC49tfpvQE!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMZjrQMtJK6MvCkY3hhAySMrgnlJp-xCZDtpSSmJx6kEYFtR8HASOh-P8qq8DSQXQA8jrSIhLl2It9vRtKj9BBuRHuuBRb-HtnhgrEl5oBrnexZ20g7FovNre2oHR2Rjf1B32awxAcUDoWrVnCrdDRbX2SZBQ659dqpXVaCQPbhfyLazK7tUTykpuaT09ADy0WUg0nTiPLrOLrVHD3WJUJkdZpcy7dGGyDgf5crUQh_OkZmL63aG-AhYZpg7reUHbadJWQC3QMWBx0Ev2LEf-D_7Ab-cEfzOS2t6POrCLEpQUW6fuNMY7iglGvumE0sBj16plL_K0KmjZK2pY1dbsKTdPjTWEHgytTNsmvyTTL9Rb0_BbhPg5fDh2Xc6i2hKIM3I2EACEo4LZ8c0lIltiUUst3zmtGC3AfyCVhjiNzLmzg",
+   "widthPx": 2340,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "rossana maco",
+     "uri": "https://maps.google.com/maps/contrib/117140672925007508126",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrL0XEStWSGb2J-HUjHaaMkbGljksjyaCFPO_0pMs3qdv3ulQh1w=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICcksTnfQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICcksTnfQ!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  },
+  {
+   "name": "places/ChIJ-UeaRzTGBZERGt_4MILEMUQ/photos/Aa-ngMZPzKq_hoveyYJ7YVI2xnPAS91kDct58CeSy2ZRZCBkykbOaX5ts82-oK0xc_JAZixDUhNBL7y4acxPENeDGsdHZfUvibs263tkTMJ9LBUTfmsvb0sVubueUvdrCr6Dis9-pAXJikdImXACubBAR1h4BZX4UainHhqo0pjQq1KcpzFclPMVmBlROwtiQ-2mIxeyRptqJoQzuDn3cCfVRS0xY5lgA0mFxA5MNMh45naGdQZB6KZanZpuNf-iUHaV7KLshzpAqniAqT7xuJg_q_WbtadoVWWSM_CY-EXbi8koAipCIGO0j4weI0oVIGwwsuClFMcGJWJtFXG_ScIAkbzFIyaJtbOdGGBfNIUEUEPiUd9FYq5xbZrpwDMxB3ZchDUjtn2hRqandgwKhwWA4HOPOWSJt0m5p6VwYkPxpJ_9UvqK",
+   "widthPx": 2336,
+   "heightPx": 4160,
+   "authorAttributions": [
+    {
+     "displayName": "Arturo Chavez",
+     "uri": "https://maps.google.com/maps/contrib/115299519457660351178",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVEbLnQUiyq0flWi3VpggNV0pH9z1cNSnoomMgQ7_aguBkIw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICEps6VuwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICEps6VuwE!2e10!4m2!3m1!1s0x9105c634479a47f9:0x4431c48230f8df1a"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleParking": false
+ }
+}

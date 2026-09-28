@@ -1,5 +1,5 @@
 // Lógica de negocio portada desde index.html (funciones puras). Textos con **negrita** se renderizan con <Rich/>.
-import { ALL_CELLS, ALL_PLACES, BE, DIST, G, GEO, GEO_PLACES, GRID, PLACES, POIS, WEIGHTS, byName } from '@/data/dash'
+import { ALL_CELLS, ALL_PLACES, BE, BUFFER, BUFFER_ALL, DIST, G, GEO, GEO_BUFFER, GEO_PLACES, GRID, PLACES, POIS, WEIGHTS, byName } from '@/data/dash'
 import type { District, Place, Themes } from '@/data/types'
 import { fmtN, fmtPct, hh, isNum, joinY, maxBy, mean, minBy, nums, pct, pctRank, shortChain, sum } from './format'
 
@@ -215,6 +215,9 @@ export function makeScope(district: string) {
   const d = all ? null : byName(district)
   const P = all ? PLACES : PLACES.filter(p => p.district === district)
   const Pall = all ? ALL_PLACES : ALL_PLACES.filter(p => p.district === district)
+  /** Vecinas (solo directorio con el filtro activo) */
+  const B = all ? BUFFER : BUFFER.filter(p => p.near_district === district)
+  const Ball = all ? BUFFER_ALL : BUFFER_ALL.filter(p => p.near_district === district)
   const ratings = nums(P.map(p => p.rating))
   const tickets = nums(P.map(p => p.ticket))
   const n24 = P.filter(p => p.is_24h).length
@@ -225,7 +228,7 @@ export function makeScope(district: string) {
     .map(p => ({ p, name: p.name, rating: p.rating, reviews: p.reviews_count || 0, share: totalRev ? (100 * (p.reviews_count || 0)) / totalRev : null, is_24h: !!p.is_24h, chain: shortChain(p.chain) }))
   const src = all ? G : d || {}
   return {
-    all, d, P, Pall, district, name: all ? 'Todos los distritos' : district, label: all ? 'los 5 distritos' : district,
+    all, d, P, Pall, B, Ball, district, name: all ? 'Todos los distritos' : district, label: all ? 'los 5 distritos' : district,
     count: P.length, n24, pct24: pct(n24, P.length), avgRating: mean(ratings), ratings, totalRev,
     tickets, avgTicket: mean(tickets), ratingDist: dist, lowRated: ratings.filter(r => r < 4).length, top,
     themes: (src as { themes?: Themes }).themes || {}, coverage: validGrid((src as { coverage?: unknown }).coverage) ? ((src as { coverage: number[][] }).coverage) : null,
@@ -235,8 +238,10 @@ export function makeScope(district: string) {
 
 /* ---------- explorar ---------- */
 export function analyze(lat: number, lng: number, rkm: 1 | 2) {
-  const withD = GEO_PLACES.map(p => ({ p, d: hav(lat, lng, p.lat, p.lng) }))
+  // Explorar sí cuenta las vecinas (≤ buffer_km del límite) como competencia
+  const withD = [...GEO_PLACES, ...GEO_BUFFER].map(p => ({ p, d: hav(lat, lng, p.lat, p.lng) }))
   const in1 = withD.filter(x => x.d <= 1), in2 = withD.filter(x => x.d <= 2)
+  const nb = (xs: typeof withD) => xs.filter(x => x.p.zone === 'buffer').length
   const inR = rkm === 2 ? in2 : in1
   const revR = sum(inR.map(x => x.p.reviews_count || 0))
   const near24 = withD.filter(x => x.p.is_24h).sort((a, b) => a.d - b.d)[0] || null
@@ -247,10 +252,10 @@ export function analyze(lat: number, lng: number, rkm: 1 | 2) {
   if (cd > 0.35) cell = null
   const c = cell as (typeof ALL_CELLS)[number] | null
   return {
-    n1: in1.length, n2: in2.length, rkm, district: districtAt(lat, lng), cell: c,
+    n1: in1.length, n2: in2.length, b1: nb(in1), b2: nb(in2), bR: nb(inR), rkm, district: districtAt(lat, lng), cell: c,
     cellPct: c ? pctRank(c.score, (GRID[c.district || ''] || []).map(x => x && x.score)) : null,
     avgRating: mean(inR.map(x => x.p.rating)), near24, revR,
-    share: inR.map(x => ({ name: x.p.name, is24: !!x.p.is_24h, pct: revR ? (100 * (x.p.reviews_count || 0)) / revR : 0 })).sort((a, b) => b.pct - a.pct).slice(0, 4),
+    share: inR.map(x => ({ name: x.p.name, is24: !!x.p.is_24h, buf: x.p.zone === 'buffer', pct: revR ? (100 * (x.p.reviews_count || 0)) / revR : 0 })).sort((a, b) => b.pct - a.pct).slice(0, 4),
     avgTicket: mean(tk.map(x => x.p.ticket)), tEst: tk.filter(x => isEstTicket(x.p)).length,
     parks: poiCount('park'), pets: poiCount('pet_shop'), sups: poiCount('supermarket'),
     inSet: new Set(inR.map(x => x.p.id)),

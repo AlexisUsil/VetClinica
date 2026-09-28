@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { CalendarCheck, Frown, Heart, ThumbsUp, UserRound, Wallet } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { DASH } from '@/data/dash'
+import { ALL_PLACES, DASH } from '@/data/dash'
 import type { LabelPct } from '@/data/types'
 import { fmtN, fmtPct, isNum } from '@/lib/format'
 import { COLORS } from '@/lib/logic'
@@ -65,7 +65,7 @@ export function ClientProfile() {
   const gd = CP.gender_decider
   const complaints = (Array.isArray(CP.complaints) ? CP.complaints : []).filter(c => c && c.label && isNum(c.neg_pct)).sort((a, b) => (b.neg_pct as number) - (a.neg_pct as number)).slice(0, 6)
   const channels = arr(CP.channels)
-  const nRev = (Array.isArray(DASH.places) ? DASH.places : []).reduce((a, p) => a + (Array.isArray(p?.reviews) ? p.reviews.length : 0), 0) || null
+  const nRev = ALL_PLACES.reduce((a, p) => a + (Array.isArray(p?.reviews) ? p.reviews.length : 0), 0) || null
   return (
     <div className="mt-10">
       <div className="mb-4 flex flex-wrap items-baseline justify-between gap-2">

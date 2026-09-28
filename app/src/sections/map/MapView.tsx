@@ -2,17 +2,18 @@ import * as React from 'react'
 import L from 'leaflet'
 import { Circle, CircleMarker, GeoJSON, MapContainer, Marker, Pane, Polyline, Popup, Rectangle, Tooltip, useMap, useMapEvents } from 'react-leaflet'
 import { ExternalLink, Phone, Target } from 'lucide-react'
-import { ALL_CELLS, DIST, GEO, GEO_PLACES, POIS, byName, cellHigh, cellMax, isHighCell } from '@/data/dash'
+import { ALL_CELLS, BUFFER_KM, DIST, GEO, GEO_BUFFER, GEO_PLACES, POIS, byName, cellHigh, cellMax, isHighCell } from '@/data/dash'
 import type { Cell, Place } from '@/data/types'
 import { fmtKm, fmtN, fmtSoles, isNum, shortD } from '@/lib/format'
 import { COLORS, ratingColor, type Analysis } from '@/lib/logic'
 import { Pill, Stars } from '@/components/common/common'
 import { BaseLayer } from './BaseLayer'
 
-export type LayerKey = 'pins' | 'h24' | 'grid' | 'stars' | 'park' | 'pet_shop' | 'supermarket' | 'poly'
+export type LayerKey = 'pins' | 'h24' | 'buffer' | 'grid' | 'stars' | 'park' | 'pet_shop' | 'supermarket' | 'poly'
 export const LAYER_DEF: { k: LayerKey; l: string; on: boolean }[] = [
   { k: 'pins', l: 'Clínicas', on: true },
   { k: 'h24', l: 'Clínicas 24h', on: true },
+  { k: 'buffer', l: `Clínicas vecinas (≤${fmtN(BUFFER_KM, 1)} km)`, on: true },
   { k: 'grid', l: 'Celdas de oportunidad', on: true },
   { k: 'stars', l: 'Zonas sugeridas', on: true },
   { k: 'poly', l: 'Límites distritales', on: true },
@@ -35,6 +36,28 @@ function markerStyle(p: Place, active: boolean): L.PathOptions & { radius: numbe
     color: p.is_24h ? '#0F172A' : '#FFFFFF', weight: p.is_24h ? 2.5 : 1, opacity: active ? 1 : 0.15,
   }
 }
+function bufferStyle(p: Place, active: boolean): L.PathOptions & { radius: number } {
+  return {
+    radius: 3 + 1.6 * Math.log10(1 + (p.reviews_count || 0)),
+    fillColor: '#E2E8F0', fillOpacity: active ? 0.95 : 0.2,
+    color: p.is_24h ? '#0F172A' : '#94A3B8', weight: p.is_24h ? 2 : 1.2, opacity: active ? 1 : 0.25,
+  }
+}
+function BufferPopup({ p, onExplore }: { p: Place & { lat: number; lng: number }; onExplore: (lat: number, lng: number) => void }) {
+  return (
+    <div className="grid min-w-52 gap-1.5 font-sans">
+      <div className="text-[14px] leading-snug font-semibold text-foreground">{p.name}</div>
+      <div className="text-xs text-muted-foreground">{bufferLine(p)}</div>
+      <div className="flex items-center gap-2"><Stars r={p.rating} size={12} /><span className="text-xs text-muted-foreground">({fmtN(p.reviews_count)} reseñas)</span></div>
+      {p.is_24h && <div><Pill tone="teal">24h</Pill></div>}
+      <div className="mt-1 flex flex-wrap gap-3 text-xs">
+        {p.maps_url && <a href={p.maps_url} target="_blank" rel="noopener" className="inline-flex items-center gap-1 font-medium">Google Maps<ExternalLink className="size-3" /></a>}
+        <button type="button" className="inline-flex items-center gap-1 font-medium text-[#0F766E] hover:underline" onClick={() => onExplore(p.lat, p.lng)}><Target className="size-3" />Explorar desde aquí</button>
+      </div>
+    </div>
+  )
+}
+export const bufferLine = (p: Place) => `Vecina · ${p.district || '—'}${isNum(p.border_km) ? ` · a ${fmtN(p.border_km, 2)} km del límite` : ''}${p.near_district ? ` de ${shortD(p.near_district)}` : ''}`
 function cellStyle(c: Cell): L.PathOptions {
   const thr = cellHigh[c.district || ''], mx = cellMax[c.district || '']
   if (isHighCell(c)) return { stroke: true, color: '#fff', weight: 0.5, fillColor: COLORS.primary, fillOpacity: 0.22 + 0.36 * (isNum(mx) && isNum(thr) && mx > thr ? ((c.score as number) - thr) / (mx - thr) : 1) }
@@ -157,6 +180,19 @@ export function MapView(props: MapViewProps) {
             : q.kind === 'pet_shop' ? { radius: 3.5, fillColor: '#fff', fillOpacity: 1, weight: 1.6, color: '#334155' }
             : { radius: 3.5, fillColor: '#475569', fillOpacity: 0.9, weight: 0, color: '#475569' }
           return <CircleMarker key={i} center={[q.lat, q.lng]} pathOptions={style} radius={style.radius} pane="pois"><Tooltip direction="top">{lbl}{q.name ? `: ${q.name}` : ''}</Tooltip></CircleMarker>
+        })}
+      </Pane>
+      <Pane name="buffer" style={{ zIndex: 410 }}>
+        {layers.buffer && GEO_BUFFER.map(p => {
+          const inScope = all || p.near_district === district
+          const on = pin && inSet ? inSet.has(p.id) : inScope
+          const st = bufferStyle(p, on)
+          return (
+            <CircleMarker key={p.id} center={[p.lat, p.lng]} radius={st.radius} pathOptions={st} pane="buffer" bubblingMouseEvents={false}>
+              <Tooltip direction="top" offset={[0, -5]}><div className="text-xs"><b>{p.name}</b><div className="text-muted-foreground">{bufferLine(p)}</div><div>{isNum(p.rating) ? `${fmtN(p.rating, 1)}★` : 'Sin rating'} · {fmtN(p.reviews_count)} reseñas{p.is_24h ? ' · 24h' : ''}</div></div></Tooltip>
+              <Popup maxWidth={300}><BufferPopup p={p} onExplore={props.onExplore} /></Popup>
+            </CircleMarker>
+          )
         })}
       </Pane>
       <Pane name="pins" style={{ zIndex: 420 }}>

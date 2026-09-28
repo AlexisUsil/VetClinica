@@ -1,0 +1,587 @@
+{
+ "id": "ChIJV5zfRI_IBZERoQFwbs2FrZk",
+ "types": [
+  "hair_salon",
+  "pharmacy",
+  "hair_care",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "939 126 566",
+ "internationalPhoneNumber": "+51 939 126 566",
+ "formattedAddress": "Av. Palermo 324, La Victoria LIMA 13",
+ "addressComponents": [
+  {
+   "longText": "324",
+   "shortText": "324",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Palermo",
+   "shortText": "Av. Palermo",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Balconcillo",
+   "shortText": "Balconcillo",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "LIMA 13",
+   "shortText": "LIMA 13",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.078686,
+  "longitude": -77.0227931
+ },
+ "rating": 4.5,
+ "googleMapsUri": "https://maps.google.com/?cid=11073654176141541793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 144,
+ "displayName": {
+  "text": "Veterinaria Mundocan Perú",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–18:00",
+   "martes: 8:30–18:00",
+   "miércoles: 8:30–18:00",
+   "jueves: 8:30–18:00",
+   "viernes: 8:30–18:00",
+   "sábado: 8:30–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Palermo 324, La Victoria",
+ "reviews": [
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ac05VeHFkRFZ5YTA1T1dGQlFkekZ2VEZoTWVYYxAB",
+   "relativePublishTimeDescription": "Hace 3 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Te hacen sentir seguro con tu mascota.\nMe recomendaron esta vet y resultó ser buena y confiable. Te llevan las mascotas a domicilio, buenas Dras y todos en general muy educados e informados.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Te hacen sentir seguro con tu mascota.\nMe recomendaron esta vet y resultó ser buena y confiable. Te llevan las mascotas a domicilio, buenas Dras y todos en general muy educados e informados.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Julio Santos",
+    "uri": "https://www.google.com/maps/contrib/105468912245733448643/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCvs9Brg9h5sq9yQg_1xtxuZJC47737mEEx8D8JLk3TRy1Y4z2=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-01T17:23:09.889411175Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ac05VeHFkRFZ5YTA1T1dGQlFkekZ2VEZoTWVYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ac05VeHFkRFZ5YTA1T1dGQlFkekZ2VEZoTWVYYxAB!2m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMWNWcDNVV0ZOYVdSNmJFaExlak55TnpWVU0xRRAB",
+   "relativePublishTimeDescription": "Hace 3 semanas",
+   "rating": 5,
+   "text": {
+    "text": "Siempre envío a mi lupita, ella feliz cada vez que la recogen de mi departamento.\nGracias Mundocan por su excelente atención y buen trato a mi pequeña.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Siempre envío a mi lupita, ella feliz cada vez que la recogen de mi departamento.\nGracias Mundocan por su excelente atención y buen trato a mi pequeña.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lourdes Garcia",
+    "uri": "https://www.google.com/maps/contrib/102583978670534465531/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKl0iXoOP9e3Sv6_4ays7tuMTKRgc3uujeApXA1PHFz1hTkGumUA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-03T01:34:21.314531242Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWMWNWcDNVV0ZOYVdSNmJFaExlak55TnpWVU0xRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMWNWcDNVV0ZOYVdSNmJFaExlak55TnpWVU0xRRAB!2m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kSVZWTmZUV3RDZVRkS1YyTnVOV1pVWkZoUmJGRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 2,
+   "text": {
+    "text": "Yo mandaba a mi perritas a bañar hasta que en una oportunidad a una de ellas le cortaron parte de su huellita, me comuniqué y solo me dijeron “ok”. Nunca se volvieron a comunicar para saber cómo estaba. No les pedí dinero ni atención veterinaria pero conforme pasaron los días descubrí que tenía una quemadura en el cuello y un corte en la axila. Si bien no fue grave, fue incómodo para mi perra. No recomiendo llevar a las perras a bañar en fechas importantes donde vayan muchos perros.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Yo mandaba a mi perritas a bañar hasta que en una oportunidad a una de ellas le cortaron parte de su huellita, me comuniqué y solo me dijeron “ok”. Nunca se volvieron a comunicar para saber cómo estaba. No les pedí dinero ni atención veterinaria pero conforme pasaron los días descubrí que tenía una quemadura en el cuello y un corte en la axila. Si bien no fue grave, fue incómodo para mi perra. No recomiendo llevar a las perras a bañar en fechas importantes donde vayan muchos perros.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lissette M G",
+    "uri": "https://www.google.com/maps/contrib/100668650243105045673/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxKaXbbGCkyqOn8MCmLTnaXtzjnaxaFqmt4iLoa5IyyvnOuxkG=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-07T01:25:59.012264441Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kSVZWTmZUV3RDZVRkS1YyTnVOV1pVWkZoUmJGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSVZWTmZUV3RDZVRkS1YyTnVOV1pVWkZoUmJGRRAB!2m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/reviews/ChdDSUhNMG9nS0VJQ0FnSURjb2Vucl9RRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Hoy decidí confiar en MUNDOCAN y no me arrepiento! Estoy súper contenta con la atención, paciencia y el trabajo hacia mi pequeña Mia 🤍 .....\nMuy profesionales, la trajeron en su movilidad particular y cumplieron con el protocolo de salubridad correspondiente.\nMuchas Gracias *MUNDOCAN* 🐩🤍",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Hoy decidí confiar en MUNDOCAN y no me arrepiento! Estoy súper contenta con la atención, paciencia y el trabajo hacia mi pequeña Mia 🤍 .....\nMuy profesionales, la trajeron en su movilidad particular y cumplieron con el protocolo de salubridad correspondiente.\nMuchas Gracias *MUNDOCAN* 🐩🤍",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lucia Nuñez Garcia",
+    "uri": "https://www.google.com/maps/contrib/100402077601645411928/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqrwsNs3gvp-YAR1DJhhe_MNBJMTtD1lNHHqy2j6KwRs0zxOw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2020-06-12T22:40:00.897077Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjb2Vucl9RRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjb2Vucl9RRRAB!2m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlM09TNlNREAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención rápido y eficaz. Recomendaría mucho está veterinaria sus empleados y doctora son A1.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención rápido y eficaz. Recomendaría mucho está veterinaria sus empleados y doctora son A1.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Antonio Huaman Calderón",
+    "uri": "https://www.google.com/maps/contrib/114810369066252141546/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfIgLUTMcbmYnQeNUQ2OWV39tX11H3b7pKG5ocRn6kbt8jgA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-09-08T15:51:34.045803Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlM09TNlNREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlM09TNlNREAE!2m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMYdcwy_JJdD6i96iml1GgbPgbz0zYCn2XsPL940UQoDVOk7stvxmx2UZjmZP3hfdICHQCgo-Rbhu_IN7g9BOAvtYaRh8hJ7j9VRHhHlKhNFHQEJ0uFaovXGDrMs7KonYF3f-2Oo_XqKZfEJ6QKVFje5Tl3ou7y12N197gIlPcVtNsrbtih2L-7oXiMl0CfQhzU8GlvfzdrY1K1l7aCsuCc-Kb7Mz9MaY6KqgCbGETpAeEyoFHggsUFh4RQLMxsp9365q0X2WnibhWhn_FIeBodWIoNcBh_fc2YBAKcpyl59wowd863mkXKwcr6EmbefaZmk5JZVVDmoyfz1RBL-G2fK6iTEwI0N8tGlsLpw4L-tBwp0qD1vpdNa_tCAFgyQTysZen8J-WY0ibu1QquCbakROPVS",
+   "widthPx": 1440,
+   "heightPx": 809,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq3fHSxQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq3fHSxQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMYO2PU3KWKoZgCxMXFu8LbJ3LvOd7Sfw6_jHVZAm-KTg6BgC78p1mUR7A5snl9KtWATjepCJ6z1ykFlIzNEV4CmS0TPt5aXek83axPE6exK-XEgo9lhH9LBhE0UyOnNKVCb6vtrfYP1RU2WsX-q3HXrHOPygBBpRMjs7VTcpoSoggxdeZh4EcYnsEW-W3vlvH9zvfzrh45mHNmBbNPyMYF0gOkDTFEOoBfb4cFlpZVdI_hAWA-5YBrb4-K00nFHw-sGNKIOwDvCdPMLIsxzyp2Y_gb9UUF2m11TIQEdTmfc6eHD1lYZRQuxbU69HFm__mWl388YDYy4Nkfj75XXi76YtdA1sFTRTOsWVFjHeTmfovC9k5IK8YJj2QZxJ0E2VHCaA-pwJAzvOJw6pADxuWSnEag",
+   "widthPx": 2660,
+   "heightPx": 2299,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICywauHHw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICywauHHw!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMZQi_319EW3ZG1LbAM9ay2k82BnUgofOAu_uj9frRRUqGlWSCKwHZ-PwwafTFZNXmQaRwEYWqSiLftnEtVbKDg6C6iwPW2xqJmW7KUrnY65YfZN8TBo2tKLrqcR0aLG7UCuADguzpgL7pEokZDdqv7vohm7L9aSRUlaVINBlthiRstB1Vjlw1TzxjDgA44sqUBeM7bTRD4d_lcdOIy6ykwV-CgTeQQf1DS1SVBHluyL8tjG2dbkMY-qXjZmbix7LWa5T7AQyXedjPoJ_udM1s9GX1L_bxY0Ck2c_Tx-IYUe_73xE6asMGUgThbcWbVJYIjxrH3kSRhcg523gIeiytT9iHNR4hd0zMP2rfVo9zrw5HlMG6d0AFjEPNW7REamyUxoqIovQhUA0wozpXa83_B8gAMwftM",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ivHzqQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ivHzqQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMYWL1Av17hmJshtL2RuF6D223Cb8uZMtqdZHxmVYQ1EFMOculfN4ZkkUinRgnsPSfGNIMHJsVy2KM20y1vFXX3oX7m3TgJNTtvGyBgdUxtEb4ks7HQUC0Hmyhu5wv8dyHCA1edqk16Ng-1Il4aKtP5ZMiktbmq5V5_-1QDruHPTvalQSHEOCDYjnggbzGKSRmnQZv697Y1qEallQlWoDIWDVjzEDqzyJ6lvc4JLkDhkW8Yg7eeyNWwEUhPCBKRRmjxvkCbR9H6eTCO64YA2x3R4w2DrnxaoduGre9weK4s53jfRdmgFrOO0Yjkl9O3wH6ykWGcggZ6qSuAaXvap8Sx92FbA-KOfcPGusFwLER4QCArs_S38a7_PwxnddA7AjTXKNsLDAeO5b8jpaKNd5cs0uAB3mtU",
+   "widthPx": 1297,
+   "heightPx": 1306,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ivGPiQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ivGPiQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMaHGgjI881kg2QNU_iX-U5mtU_2cv6EODNEjq_beVbvUjZUJIP4i85h_Jd_pOulbr3APinUeSsCvGqhFw4MVNmb-Rv8eyyaQk_83SLy-sZW1NmRVOUz6gSN6GSxZxRuFReFIG9fzFzZ_8vbtsMy6YlyjhY-aFpVulZ1hpiJGjupdvg0zMWUxNRTHg-aOvRTx9DhAguKiX3RMV0CK0mKKkXuW0YrGwuQ7n5ADUF8p0elnOM7kmoaGd4sNlzqCRKxU61p3lKfTsTzLaP2mpQo-IsUSoM-qrYRt8L94fBhmLs_u5ld6BTGw1J-xyNSo4HmJCNSawSPz9SVgfIp1UFMfRaahQUqKZd7HcqGtcF9nAy6GXKrsunaG8or1l0yyAvj7haMonPVWCsp1FvY-xIpvje2jWBp",
+   "widthPx": 2304,
+   "heightPx": 1728,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICam9LNpQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICam9LNpQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMYezPl4ow40v1Yg9qk-RHctAi6edcVS2l1Uyt9kQeY2kExwDAzUwlsxHjSyf8bfpW71BdwxMAWy7qt2FUkqe9hUGUiWsxEswcJ3LMjKRtEChEmHrfXyJz88_rmc41p539rMtGwOMuBmGluRxIn4XAKUTbE3ieldr3oioVEaSbPk3b1_2LiJU9EdKZ7Cwf0lvqn7xrLGMLMU0vFXewhsKBWdR1T2doe9LUcreGFw_hjfEzKH2Nej3FAOsrrLJNz3wMzFv0drK4pDms1RA-QxkhHtklWPoMLrbrsDs7AAnGee9SqrtZm1hYdBztPvnHkO7fzb10fNMtxkifvr-8_ocbMJkDFaAb2uUSr28PepnT_YrbY0NvBdo6jGF0XOoMVdgzJAo9dU7dPclrZF2gQOlspNg1_Hg_I",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ivHzmQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ivHzmQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMZPSxJtcYO0AhjBabzwsrAztJBHC9GDJ4S-L0mOiVSkE3DJ401D_f8b5g6azpC9GH4egLkNeXs0mS4VQb76vdCh_TPNrYCzeFVXD6uxb1sbK29VFxbr30_NxSKUWLJ5MbOBQgXNyAXBruIokJDYMEgUJfa0l5Kg_sgnYKU5l_M3ddC_JqiFs14_HFHOUBgAPD92hCxENAYfNwunZqNjDAftooKQSunqOIpjLiVTKnO2fXTSGG10sqcEIrX1x8v1XEE2U9ei6ZISDg-0ipqilGs0MLolNJIh3ic06VBf3-v_Xd5RiWCo016eoJm_M-1D3NV3p6G_z-mlX8kdlVwawCVuKQq-yIo6hx0UKp3-nuoaFc2kIzhFRHXqYGHscBJuIdGddacfz-v1jg2b2TQFmHU1GP0",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Lucia Nuñez Garcia",
+     "uri": "https://maps.google.com/maps/contrib/100402077601645411928",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqrwsNs3gvp-YAR1DJhhe_MNBJMTtD1lNHHqy2j6KwRs0zxOw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDcoemnJA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDcoemnJA!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMZ0Vu2t6TN4o3P4ILY-V6UKSEWGCqzjamSX3y75URdQ9_JpBpJac1rLahxwByMk9999H92gwY6ViYeK6qJHpBE2VOcvcG9mrBbkN4NODJK_iGCsg3WTWoKRVxH8MGryOPdGcR6MLf9Dk7MeRxrJt-EhTJ6hy_qiIj3sb5Mflk-xo7LWTQaCkJdNu0iQX1OFVtmn_8yB0QXbxt6z9nfWd6uOBGOH66ww9IcEYGt_pOlksW6LLT7tyK6_wrsjrk0rtWbePh1Gyif_cmab3bxwRu9ecW9osjVdQMswEcsWLZqtOv9IaKPMCzy9s1zmYd3YIeIKLQHLh6ALFnd75rveUjXM_2FAisIhv95mM1GYBm8IOQHLF88S-GwT7XeGS9jwtLROO0tjr4v_R2RSaGHlUNeiJiuMdUw",
+   "widthPx": 788,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICK-8DvrgE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICK-8DvrgE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMZnGL0rqc8RpKzm3zcrzNo3UuQlI5Z_RnKBDFPeM42TjwDbe_a88O0yFkUUWFTKtmBRHNpzKJEVEaGsVg3jLVkEA1hwaOr2RaoLpwUd89Id_mepFoviVw6STzlUDnJ6IOlHp9f86kOxfI8oD_xa_H4Ivsmnz4OZNZax4w-7L7YWlhcPQBGEu3M6bIJDKMWTy3lrMe6Ay2t8vxjrSZgcH6Lu4z7fvVNw-Y4yLSyOMVLvxOdQuWnp34sQWNXglYQi0M6483Hl8dvAXK6QyQTi11fhP3NKyEFTelbxhZgW45zRPx1bV5Yinu_LdPRy0U4GBLH6ZXJtXv6_vbIAqh6Bp9KI8RIupPRaT9WGre0lF5YCdG6NzTmJcpSW2QBHpnzx1zMh26bgp1in7PETEIseVwlDbv6j8NM",
+   "widthPx": 3456,
+   "heightPx": 4608,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ivHVzQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ivHVzQE!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  },
+  {
+   "name": "places/ChIJV5zfRI_IBZERoQFwbs2FrZk/photos/Aa-ngMb0-VhnSAcbe4qB9MiDTr_yXycMiXuPnq-2lIU6Eo67yz93PqhH_rYwSZCBurqSlDlZryR6o6HWaBjQPPEITVDwfhe2D4ksnu5bIGIE05hVMnuEn4mKbdY9BvYzrVSKo6xW1lYAL_oefu-oqVNYSw1gRLg15hwaOisEkM6qPEaX8DRVp_Yf2BMByLesSCEPrYTWAt0DG5y0PXznxa5BdIZjMkEtH-hNHr_9mlKKHhwPot2sG3iUNkf3pUJgIvxDUe01fTlO2gCKwwMox7Zjzn1j3H8YozmBY2MihxArhL-uwvgBPBWJSRPkvfcucyr0EsZUOx51HD9wkqBIAQz3t7v8fL59Prn3KlngwsjgsWhuSnayPluWrTakqWgh27xESeKpqjUKUwxkE9uMLin5bGwlMCI",
+   "widthPx": 1155,
+   "heightPx": 1789,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Mundocan Perú",
+     "uri": "https://maps.google.com/maps/contrib/105528989580235582132",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxa4CxXm1IPvbi8XG3u7oj8MYHdhi04HI0NQgZZv8Lfwcyjd75=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgID8ivHVLQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID8ivHVLQ!2e10!4m2!3m1!1s0x9105c88f44df9c57:0x99ad85cd6e7001a1"
+  }
+ ]
+}

@@ -1,0 +1,643 @@
+{
+ "id": "ChIJQ2x8MwDJBZERjBGFSrLt7v4",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "(01) 4724362",
+ "internationalPhoneNumber": "+51 1 4724362",
+ "formattedAddress": "Pje. Luis Astete 137, La Victoria 15034",
+ "addressComponents": [
+  {
+   "longText": "137",
+   "shortText": "137",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Pasaje Luis Astete",
+   "shortText": "Pje. Luis Astete",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Monte Carmelo",
+   "shortText": "Urb Monte Carmelo",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "La Victoria",
+   "shortText": "La Victoria",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15034",
+   "shortText": "15034",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0819247,
+  "longitude": -77.0183255
+ },
+ "rating": 3.4,
+ "googleMapsUri": "https://maps.google.com/?cid=18369881280101028236&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–13:00, 14:00–16:30",
+   "martes: 9:00–13:00, 14:00–16:30",
+   "miércoles: 9:00–13:00, 14:00–16:30",
+   "jueves: 9:00–13:00, 14:00–16:30",
+   "viernes: 9:00–13:00, 14:00–16:30",
+   "sábado: 9:00–13:00, 14:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 30,
+ "displayName": {
+  "text": "VETERINARIA CANIVET DE LA DRA CAROLA CAMAYO",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 16,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–13:00, 14:00–16:30",
+   "martes: 9:00–13:00, 14:00–16:30",
+   "miércoles: 9:00–13:00, 14:00–16:30",
+   "jueves: 9:00–13:00, 14:00–16:30",
+   "viernes: 9:00–13:00, 14:00–16:30",
+   "sábado: 9:00–13:00, 14:00–17:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T18:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Pje. Luis Astete 137, La Victoria",
+ "reviews": [
+  {
+   "name": "places/ChIJQ2x8MwDJBZERjBGFSrLt7v4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSlVHZExNa2RhTlVsS1gwUjNjWEJpYjJSMmQzYxAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 5,
+   "text": {
+    "text": "Excelente profesional, de experiencia y mucha calidad humana con las mascotas.\nGracias Dra. Carola por usted  cada perrito que eh acogido en mi hogar ha sido recibido con amor en su consultorio con el mayor profesionalismo en cada revisión y control.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente profesional, de experiencia y mucha calidad humana con las mascotas.\nGracias Dra. Carola por usted  cada perrito que eh acogido en mi hogar ha sido recibido con amor en su consultorio con el mayor profesionalismo en cada revisión y control.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Maldonado Gonzales",
+    "uri": "https://www.google.com/maps/contrib/102014199691766943307/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLD3uLiSsI61rjNYQY8Til-fTGIeG54snMCgDdN8pAFJ_DTbg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-28T14:49:00.932753068Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkSlVHZExNa2RhTlVsS1gwUjNjWEJpYjJSMmQzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkSlVHZExNa2RhTlVsS1gwUjNjWEJpYjJSMmQzYxAB!2m1!1s0x9105c900337c6c43:0xfeeeedb24a85118c"
+  },
+  {
+   "name": "places/ChIJQ2x8MwDJBZERjBGFSrLt7v4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdmFUaGZOVnBOTUdKVWJEQnFTbEpUVlZOamVVRRAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo servicio en todo sentido.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo servicio en todo sentido.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lawyer Academy",
+    "uri": "https://www.google.com/maps/contrib/107088579584456914051/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI9ShGe-n6YuWVunVpvllQD9CCpRuiy6mFW6ffREoek9rzDfg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-28T14:42:43.570635058Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOdmFUaGZOVnBOTUdKVWJEQnFTbEpUVlZOamVVRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdmFUaGZOVnBOTUdKVWJEQnFTbEpUVlZOamVVRRAB!2m1!1s0x9105c900337c6c43:0xfeeeedb24a85118c"
+  },
+  {
+   "name": "places/ChIJQ2x8MwDJBZERjBGFSrLt7v4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZM1ZtMVZiRXBtUkVneGExSjBXRXRKTVhsdmRYYxAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 5,
+   "text": {
+    "text": "Yo llevo 30 años llevando a mis amigos perrunos desde niño recuerdo que atendió una perrita que rescatamos mal de la patita por un atropello y aparte que los salvó la perrita tuvos sus cachorritos también atendio a mi scrappy 4dias que estuvo mal y me lo salvó ahora y se va por los 18 mi chato es la mejor",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Yo llevo 30 años llevando a mis amigos perrunos desde niño recuerdo que atendió una perrita que rescatamos mal de la patita por un atropello y aparte que los salvó la perrita tuvos sus cachorritos también atendio a mi scrappy 4dias que estuvo mal y me lo salvó ahora y se va por los 18 mi chato es la mejor",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "José manuel Garcia castillejo (José Manuel)",
+    "uri": "https://www.google.com/maps/contrib/106023398464600638398/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrTMmWMsB01q384pOPMQ0UREzzZvZpsZFGdyCUpcGQxTKhQpaJ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-09-28T14:22:29.436574098Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZM1ZtMVZiRXBtUkVneGExSjBXRXRKTVhsdmRYYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZM1ZtMVZiRXBtUkVneGExSjBXRXRKTVhsdmRYYxAB!2m1!1s0x9105c900337c6c43:0xfeeeedb24a85118c"
+  },
+  {
+   "name": "places/ChIJQ2x8MwDJBZERjBGFSrLt7v4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFd1dVTm5TVTVEUkhSR00zSlhhRVpsWkRObVQyYxAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 1,
+   "text": {
+    "text": "Horrible lugar, pésimo servicio y atención.\nNunca llevan a sus animalitos ahí.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Horrible lugar, pésimo servicio y atención.\nNunca llevan a sus animalitos ahí.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Camila",
+    "uri": "https://www.google.com/maps/contrib/102572835715427845073/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVKLNvP1z5KGrAkAamMPjrXYNifbEFNDBi7Dt6GwjOZ3s_faN4yA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-27T03:50:51.466979399Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFd1dVTm5TVTVEUkhSR00zSlhhRVpsWkRObVQyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFd1dVTm5TVTVEUkhSR00zSlhhRVpsWkRObVQyYxAB!2m1!1s0x9105c900337c6c43:0xfeeeedb24a85118c"
+  },
+  {
+   "name": "places/ChIJQ2x8MwDJBZERjBGFSrLt7v4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMVFtZFhibTFZUlhCVWJIbFFYemRYUlZWRFYyYxAB",
+   "relativePublishTimeDescription": "en la última semana",
+   "rating": 1,
+   "text": {
+    "text": "Pésimo centro medico veterinario, No entregan el libro de reclamaciónes Ni con la presencia de la policía, cero empatía para hacerse responsables de daños, desconsiderada , secuestra a un animalito de un lado a otro porq ya no sabe que hacer, sin consentimiento del dueño, elimina muestra médica para laboratorio, una pequeña lleva un corte de más de 14 puntos y la Dra nisiquiera pregunto por ella",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésimo centro medico veterinario, No entregan el libro de reclamaciónes Ni con la presencia de la policía, cero empatía para hacerse responsables de daños, desconsiderada , secuestra a un animalito de un lado a otro porq ya no sabe que hacer, sin consentimiento del dueño, elimina muestra médica para laboratorio, una pequeña lleva un corte de más de 14 puntos y la Dra nisiquiera pregunto por ella",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Melissa Menacho",
+    "uri": "https://www.google.com/maps/contrib/111288211111279588751/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmq1tg3p-fcjq0Ga5SE0vV9AdAlUUpqNolWgDYkMDrgo9Avw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-09-27T03:09:45.679204984Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMVFtZFhibTFZUlhCVWJIbFFYemRYUlZWRFYyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMVFtZFhibTFZUlhCVWJIbFFYemRYUlZWRFYyYxAB!2m1!1s0x9105c900337c6c43:0xfeeeedb24a85118c"
+  }
+ ]
+}

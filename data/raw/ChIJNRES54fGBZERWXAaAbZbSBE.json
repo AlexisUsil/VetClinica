@@ -1,0 +1,615 @@
+{
+ "id": "ChIJNRES54fGBZERWXAaAbZbSBE",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "pet_care",
+  "store",
+  "health",
+  "service",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "962 692 950",
+ "internationalPhoneNumber": "+51 962 692 950",
+ "formattedAddress": "Av Sta Rosa 343, Santa Anita 15009",
+ "addressComponents": [
+  {
+   "longText": "343",
+   "shortText": "343",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Santa Rosa",
+   "shortText": "Av Sta Rosa",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santa Anita",
+   "shortText": "Santa Anita",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15009",
+   "shortText": "15009",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.048924600000001,
+  "longitude": -76.9628901
+ },
+ "rating": 4.3,
+ "googleMapsUri": "https://maps.google.com/?cid=1245346134228627545&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "https://entremascotas7.wixsite.com/2022",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 50,
+ "displayName": {
+  "text": "Veterinaria EntreMascotas",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 13,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–19:00",
+   "martes: 9:00–19:00",
+   "miércoles: 9:00–19:00",
+   "jueves: 9:00–19:00",
+   "viernes: 9:00–19:00",
+   "sábado: 9:00–19:00",
+   "domingo: 9:00–13:00"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av Sta Rosa 343, Santa Anita",
+ "reviews": [
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRbU1mZmhnRRAB",
+   "relativePublishTimeDescription": "Hace 7 meses",
+   "rating": 1,
+   "text": {
+    "text": "Es la peor veterinaria de santa anita tengan cuidado, con sus perritos hijos  por que a la mia la mato le recargo de medicamentos al punto de no funcionar sus riñones , su higado y no se había dado cuenta que en todos organos estaba lleno de líquido solo me saco plata mas de 4 mil soles . Solo quiere lucrar el 28 de febrero cumplio un mes de fallecida . T  (28-02-25)\n\nHoy se cumple un año del fallecimiento de mi tesorito aun me siento con mucha culpa por no haber elegido un buen doctor .\nTengan mucho cuidado que medicamentos les ponen y cuanta cantidad de ingesta de medicamentos porque a ellos les hace daño\nYo le hice todos los analisis y salio bien pero nunca el inecto de este señor no me recomendo hacerle una ecografia  y eso le costo la vida  a mi hermosa tamiz .\" Solo me saco plata \"\nSIEMPRE VAS A HACER LA LUZ DE MIS OJOS MI TARRONCITO DE MIEL UN BESO HASTA EL CIELO MI AMORCHITO TAMIZ. (28-01-26)",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Es la peor veterinaria de santa anita tengan cuidado, con sus perritos hijos  por que a la mia la mato le recargo de medicamentos al punto de no funcionar sus riñones , su higado y no se había dado cuenta que en todos organos estaba lleno de líquido solo me saco plata mas de 4 mil soles . Solo quiere lucrar el 28 de febrero cumplio un mes de fallecida . T  (28-02-25)\n\nHoy se cumple un año del fallecimiento de mi tesorito aun me siento con mucha culpa por no haber elegido un buen doctor .\nTengan mucho cuidado que medicamentos les ponen y cuanta cantidad de ingesta de medicamentos porque a ellos les hace daño\nYo le hice todos los analisis y salio bien pero nunca el inecto de este señor no me recomendo hacerle una ecografia  y eso le costo la vida  a mi hermosa tamiz .\" Solo me saco plata \"\nSIEMPRE VAS A HACER LA LUZ DE MIS OJOS MI TARRONCITO DE MIEL UN BESO HASTA EL CIELO MI AMORCHITO TAMIZ. (28-01-26)",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carmen Pedroza cusi",
+    "uri": "https://www.google.com/maps/contrib/102005021580733750033/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5mWRydPozIDUQTPxEuymFN9Gz2hQ5-PC_aAG6FU7x0Paszg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-02-12T23:47:40.206697984Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRbU1mZmhnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbU1mZmhnRRAB!2m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfbE5pOFVREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Un doctor muy atento y preocupado por la saluda de tu mascota, se nota que sabe bastante inmediatamente dreno una infección que mi perrita tenía y ahora está mucho mejor, lo recomiendo mucho!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Un doctor muy atento y preocupado por la saluda de tu mascota, se nota que sabe bastante inmediatamente dreno una infección que mi perrita tenía y ahora está mucho mejor, lo recomiendo mucho!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Andy Gonzales del Valle",
+    "uri": "https://www.google.com/maps/contrib/114095696643349486820/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqyNgiLnHVpGLrZ7F7OwuFJn__C1koTL6v7ln9YMHmfOGtawhf=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2025-01-13T04:35:45.012675Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfbE5pOFVREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfbE5pOFVREAE!2m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSV2RGTmhNMUpHVlhNd2ExbHBVemRCVkhwdk1FRRAB",
+   "relativePublishTimeDescription": "Hace 8 meses",
+   "rating": 5,
+   "text": {
+    "text": "Son bastante profesionales, siempre atendieron bien a mi gatita en sus cuidados, super recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Son bastante profesionales, siempre atendieron bien a mi gatita en sus cuidados, super recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Renzo Morla",
+    "uri": "https://www.google.com/maps/contrib/117374342839271469128/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5q9gH0tOGo68xV5RlDe9NAJPFPM5J3T1UlzuII1QXm7-shRLI=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-01-12T02:48:10.402444980Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSV2RGTmhNMUpHVlhNd2ExbHBVemRCVkhwdk1FRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSV2RGTmhNMUpHVlhNd2ExbHBVemRCVkhwdk1FRRAB!2m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twd1FqSnpkV1JpTjBob1FsVm1WamhsVUZWMVEyYxAB",
+   "relativePublishTimeDescription": "Hace 9 meses",
+   "rating": 1,
+   "text": {
+    "text": "No te dicen el precio de los procedimientos ni de los medicamentos que les dan para que al final recibas un cuenta abusiva.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "No te dicen el precio de los procedimientos ni de los medicamentos que les dan para que al final recibas un cuenta abusiva.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Samira Tumialán",
+    "uri": "https://www.google.com/maps/contrib/107719324069194740849/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbun0EgUpiY_Y5GMndcfHTBw-QY8Cv7hsIXRzg3JaA_nL2xz8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-12-24T19:23:04.374063595Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twd1FqSnpkV1JpTjBob1FsVm1WamhsVUZWMVEyYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twd1FqSnpkV1JpTjBob1FsVm1WamhsVUZWMVEyYxAB!2m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCczVXRnhBRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, salvó a mi gata❤️",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, salvó a mi gata❤️",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ariana Espinoza (Vanitieschic)",
+    "uri": "https://www.google.com/maps/contrib/112156546924685048546/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-dv4Gh2qQiFtMKApNLSahr6E9kADJXajPHq0yBzYUoyOTJ5K2=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-01-03T23:13:59.862238Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCczVXRnhBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCczVXRnhBRRAB!2m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMYEsORXt8f7RZktP813aHVW0767mIlbTAXl5bzeQSGS3hul6BuvBs3_3L9k-Lln-nY4PHMQlK4jsqD7JfnnylpKitCXaSWeCzxOVriZ1apPtVuConyoqz1ytS7ne-MFR08ugNm_SKj59tXqKcxMi46yy872oAMMs23vvCsUuRxA-PFI1kdZ3jXuR9SCjGfGKbAMZSyH44pNuQuCxQ25L9ZQjiKSlYEOrinqYnIrIBHktG9YThauQbA3xDn18b1mwgL7EzoTPNmHWEkOfwXcUNGRGRilI281tg7OTTPaUCwrwzChezjIVA_05s3JHcz7Ku29Cv15fJ9ldDkqmHh7ExtYtALIS1RX1n7O-yecKWd6FfOI9La2RGYatP-P3pIuR8_hM-YovpUKrh0aqnwV4Gq4_rlwTUbnEk7qciZjqKvKbQ",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria EntreMascotas",
+     "uri": "https://maps.google.com/maps/contrib/102057752282922792552",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYkH7i7WN-RbiXisC6p1_BjnHYrQO2P_L9bDTJ7TwsCotPnTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmi57ZSQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmi57ZSQ!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMYA7m56lUVQJXIytpWZuh8vhir9U-xZD6yDefITEFwyrb0YoLeJv-Fe5IIpsUbgAjpNhnpe-zS18zomKOR1PJ2m4qDa7A-IHKwXphY3Q0IVSyXDvcyQ7qOgLhY4395GMY4qzIKsJdCupwwAM-4Akmxf7cPKOTCQe3KrmHR1fpG6yss31h_SQwhZy29Mf7P8X49bK4OR9hmY4pAFKRlI-U5GW0DEp1PHh04lUYYkWkLdFMkqn9Sp5zVP8xGOZiw6WuM6MNhza17a2eg30Xh9s9EIVM7pOVnX0EVRuaFVeFKyk_Spmo1gNXLlEUUwtuDubuetoQZdsp3LO12yM5E1UljhLGU5VWWrlXQQBM_emNNU7mZC8c-S7azDo9Q4eLua0wg6ppVIY8OkvErV_QBDbdzwNjLxGB1Qv9Vsh8nOLHNlvbf9",
+   "widthPx": 4800,
+   "heightPx": 3428,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria EntreMascotas",
+     "uri": "https://maps.google.com/maps/contrib/102057752282922792552",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYkH7i7WN-RbiXisC6p1_BjnHYrQO2P_L9bDTJ7TwsCotPnTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmi56uswE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmi56uswE!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMafKSEjW8GZWJC55lUKN_C3QMtv3TZuwR_BFDM6ZVhK2pfJ1pEBAF77o1nbAxhwh1fXy0scptvQ-YIWq5SYPTcPQwqNOqlDdwKjA6wScwxpTJWeoJiSIV5trGmHBTICaFho93c1x4owfARCrqPdJn3g7uhY4edG0LM6ytW_oJl0I2XZw_D3rOx0ZeJtUDDm_VotrmWKBE8ei_LzVBit0O95J0mSITszDzGuckCsOErWBzLOXTZj8rs3TQ2sBQInm4X0SURlZFyyrurnWw3pATbt9EDVeLsfKnC3z-oF7EDujHx-QWsbirXxY_DUD0pmuEo7Ux-ESIiaMGSz6PNBlXermwmFenJ93jOweTdhPc_PTOgm3TirdKTAfGUkKU_EZY13CpRFIitLJQu3UnDA2QflfQ03J45tIR2QX2U2R7o",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria EntreMascotas",
+     "uri": "https://maps.google.com/maps/contrib/102057752282922792552",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYkH7i7WN-RbiXisC6p1_BjnHYrQO2P_L9bDTJ7TwsCotPnTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmi57eGw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmi57eGw!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMbtGmE02DuHmOltgBqaou-9W29WbqVCt9_QCTcX_-gwPObuTmgrA3Rvoyg4rxhePL2p3fEWNbgmNqwpnso_2ZYuKfH90-BZnYfpRmVHrweMe50l5FNpekUhBwyD_tKaXQWufoiMAHuU7j-7FokWCfAXi7Pk7zFTollwjbyKFr4vsG8XO43YDoq3jgaNU0OU6RjH4SH1VnXv8IMKGhSfO7WNbD207QwN2SMMH3kdjQIpc_l3g_sY1CcUzLeJ-y1YWUXItiva4Cu3XCHZ374Rx_3a_BXhFTyGC4p2EMtVxE5PgpQ9KMAJCwl5cFOhG_xqGLLzX_C677oHo8rIS5WEGhJiKZDHnCpLZYd7i_3MSw5zdMjGgCfUX-8kfPN9PXb4bsjJwDpN9dLPDq65Bhl4wGYLynVHy36R6ZFUcb_0HFX8mjfN",
+   "widthPx": 1920,
+   "heightPx": 1080,
+   "authorAttributions": [
+    {
+     "displayName": "Bryam Alvarado",
+     "uri": "https://maps.google.com/maps/contrib/109053486398508012558",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsV5gIve-T-oTnWTOc3JnTrpwNm0xGQ1BGfTYXtuxrS-DijcFw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICUxJHAhQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICUxJHAhQE!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMaATJmoJhY4OEGuqLYrIH_IM0kdQNi5ikoAbntr3xLTrm9GBF72qsfVi1Lof2xQXRbxJV6jtsFORE-SijD-jh-ztncnOzgmz9vZOFJzroahK5r9I3XMFTV0NYho4TuXilzxgIPWcEna26LFoFUTTRltEAW2oUYGPIH0b5rXHomM6EOrZlM5alh5hqUaF2rt330MNhqYp6-urFbvSmA7d_r68Qp6uOroYrlU-HdmzC01F0VEBTBkbRJGics67hNn5V1or2TO69HPRJH3dcmMNG0Qa5utX1E_dYfyOyZHVHrgH27ck915Dna4rmoqN2313q-NrtBIZ9Xi-G5lnzi0ooeHaKcrdkcuU_yGD6xbwUVqyNBcV-aScqlRcU7tLlCUaBW80o60t-QaBE4QjdmKDufAYek-1tCz3YGG9RwLN5Kxqg",
+   "widthPx": 4160,
+   "heightPx": 3120,
+   "authorAttributions": [
+    {
+     "displayName": "Luis Gilbert Buleje Herrera",
+     "uri": "https://maps.google.com/maps/contrib/100708141899127420549",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQDP0gvnuJGjyW7Cb8vUD3crKIH01nGrzmImRkrpnamNEanJ10=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqge7ZHQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqge7ZHQ!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMaNkaxMTIPHpJIw8XicoIXMd_z_6XeQUVn2oLpRFW1flneRHuPEGSkdtwvIWwA5wdKMvybTJYEp8v6BtbKgiH4hFpiyQ0G2ln4bqOcPq_SnN6DrPHQfjDg_Pw-mtjXFYKk_mxTSQ_7IAEDu-zVKZJ1vx_RHYa2e9fY-2KLUVDuZ9td4_1V_OroyG8vwYh04EtS30pvRDGcLYfT9qXJegnWARjcOL5RXuTn9hxaQQMgHDFbcVPEsOVdz98JZ5AEZizl5hi7hBOP3YRvZbFdOhBUCxj-asuCbcCoblJmo1igBpE9juhbqBxMHmJV0n1N578CISSY5JXs7_kH1EYstywOUr6W22DS5nVmM_-JUojz94kyVSaDIBese4u0v2_Eo30WIKNVka2ZHXzUc8Mf1ev97ebUyM1Mwr7GlrOMN718dVw",
+   "widthPx": 4608,
+   "heightPx": 3456,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria EntreMascotas",
+     "uri": "https://maps.google.com/maps/contrib/102057752282922792552",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYkH7i7WN-RbiXisC6p1_BjnHYrQO2P_L9bDTJ7TwsCotPnTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDmi57ZFQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDmi57ZFQ!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMYyDUGnnch8C2l8MasDsm826Pan7DGFZ8T8cljDtItP4lI47PXxTRGcsTKfxC-7Q2hrrNxb6putbysxCDiDYfyUAVQ280pU-RMi22sGLyJVEGlXBc49wI0Df3dHVdJ60mogZY_aF6BrpYsZd5PIJJlvz2iYFjIt6xO09L1P5nWcSxzl9D5yg9MkVYo5rp9RzZOa7RtCkWKJKmEDT3y5jmltbcbh_xQklqjL2bb84TF5KEm6k4v2dQblaAFx4bmHxgzig4bH2YASbS7Ga7uf6W8BIWCx1OnOv399Wq87Usad-z2prpVMzX1PHiMKCRwaZgQ1xXTGuhd00KW1oO_a9XpTglq5sqb7FtWnUiK4uWUVQzi-HW40EdPPU9qx-CK3b66ZWnhNuU7wnwnhZCYpYuXSTnw4mpMbqlgytfn9eubxAuWr",
+   "widthPx": 1908,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Eloy H.E.",
+     "uri": "https://maps.google.com/maps/contrib/115171152358920898885",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPeCJRJRme7oJGjE_bbMJH6nYu9EAx5kihsKWYPvisa-qhC0fd=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICigvSK3wE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICigvSK3wE!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMYP4hrdF3faEmuhuW1xrFNjFEEpDgOd2QqMC7oXT8Fhrkry-Y47e4fPc-8HXG0y7NDQaLrOyljdD4sPiwtj9ufb1SCnuirwEqwCDwqpHbN-y_30ARmZcNI5x4eS2FvXQslcOlire3A2blq3av8ToYZXmFFNSEJRNvyvsUIyfieGypFsSpB53I837y46v3Wt14e3ieZhm-mXhrNGBaOxHXMZB_ntjKcKLbe-XAdpRSj_RPlGZhlq4qa9MFVBc3wvRQZfuxRMSI3Wo4RLjYkCoTRr_vADUjpJQoVVsqAsN_Ky0IblssfF9D81ESHyYXm2l4Pk_JYfD56j2_Kyr8PgDYPf1Rtc2L2HCbALgbQ_dR0p1AEth70-PS8w_-xAeAX8E-fvfPQ0tAkP9rH0fjrkndIzwTqgk-9jmzOlJB8ITNxykQ",
+   "widthPx": 1284,
+   "heightPx": 2282,
+   "authorAttributions": [
+    {
+     "displayName": "Ariana Espinoza (Vanitieschic)",
+     "uri": "https://maps.google.com/maps/contrib/112156546924685048546",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-dv4Gh2qQiFtMKApNLSahr6E9kADJXajPHq0yBzYUoyOTJ5K2=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICBs5WFZA&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICBs5WFZA!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMbAJhCiBNBjDiWS0TKLBDeFs2CBe394FhTCuKjW8a8ue10ABpBO3lYJ3yR1D0qDhJgiafa1sqqHg9T2bFgIh5f0J16wjVU9B-roTrK8ba-Jepmr-F8xBzxLsPvUbcsjC6YpX70GcxQ7UfdoKrtSRvbEKtIpuoHhx88Qou7Gm9txA3qfrjdMetwh4MfOw5NDIOWjvM-xaIKqb7g7G0-gaq4bj3FRMKkKOM9FMT_nOLqJK8LW3wH9wCp2J3p-f6kxHy7n6dGYh-oJDnsEXJPbXGHPmPP9fIbaupfcpckfS5VKYE6lY5D4YFQ6UGqBDKehN468vbJmXaBZpS8E7xFWvvhbBqf6bYLpydCJZShQa84Yc5Pc6WEcEW9ZRCGD5F2a0n5yR__EqWwUtaOe2ih09GZdeonAF_2FR6Y4PnCMfRlPTrDP",
+   "widthPx": 1080,
+   "heightPx": 1920,
+   "authorAttributions": [
+    {
+     "displayName": "Andy Gonzales del Valle",
+     "uri": "https://maps.google.com/maps/contrib/114095696643349486820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqyNgiLnHVpGLrZ7F7OwuFJn__C1koTL6v7ln9YMHmfOGtawhf=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC_lNi8sQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC_lNi8sQE!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  },
+  {
+   "name": "places/ChIJNRES54fGBZERWXAaAbZbSBE/photos/Aa-ngMZPmYWM_912isQiUbPXIFQTUZx-d4ONju3Dtj6itwJkFNPXb7n6wVlBhH3Hx-SZkGx7ABG3gENMqfDoeHjPPSdikrX1bBwDH7xhKufLujiCZRD40raeeesZE5ZMOGRfeXga-UnPj2_Yc046OPac3wffgpW4Ws583B5TYZO6Q2pr2ZLS-Vlw5-W7u-NmP4hvCrmgfZ0aNY63dflLxbGxg9lP8pO8dC7w5i3h_OJjVoAfKBzxXABPMtA-OuoofuY6eJVqTIwxO2AIKEDXDfgLmy-hMvU69BeKvVQgRRg6aByAydl81x2Epjlh0jXtVpfqvYRVocWbYMIZZOw6kRCGqeCHDYAXlmoBjcfgFFJhiAmUJjNzrR8f4PRnKN2ih6QO1JiNdrLz0Utr8REDtuvGfLtO9nmPsrYaNH_zSM-aw8o",
+   "widthPx": 4000,
+   "heightPx": 1800,
+   "authorAttributions": [
+    {
+     "displayName": "Jorge Luis Infantes Moran",
+     "uri": "https://maps.google.com/maps/contrib/102713550107518291284",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2TIwvY_Pxl8Agx9fSyqGL1Gc75UlsRxAaibGOpWE0Pg_MRw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgICqxrONYg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICqxrONYg!2e10!4m2!3m1!1s0x9105c687e7121135:0x11485bb6011a7059"
+  }
+ ],
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true,
+  "wheelchairAccessibleRestroom": true,
+  "wheelchairAccessibleSeating": true
+ }
+}

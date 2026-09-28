@@ -19,6 +19,15 @@ DISTRICTS = {
     "La Molina":        {"low": (-12.1150, -76.9800), "high": (-12.0400, -76.8700), "alias": ["la molina"]},
 }
 QUERIES = ["clínica veterinaria", "veterinaria", "veterinaria 24 horas", "hospital veterinario", "consultorio veterinario"]
+# Anillo de "ayuda": distritos vecinos; sus clínicas cuentan como competencia cerca del borde (zone = buffer)
+NEIGHBOR_BOXES = {
+    "Lince / Jesús María / Magdalena": {"low": (-12.1100, -77.0800), "high": (-12.0700, -77.0350)},
+    "Surquillo / Barranco":            {"low": (-12.1550, -77.0350), "high": (-12.1050, -77.0000)},
+    "La Victoria / San Luis":          {"low": (-12.0950, -77.0300), "high": (-12.0550, -76.9800)},
+    "Ate / Santa Anita":               {"low": (-12.0650, -76.9900), "high": (-12.0200, -76.8900)},
+    "Chorrillos / SJM / Villa María":  {"low": (-12.2100, -77.0400), "high": (-12.1600, -76.9300)},
+}
+BUFFER_KM = 1.5
 
 SEARCH_FIELDS = "places.id,places.displayName,places.formattedAddress,places.location,places.types,places.primaryType,places.businessStatus,nextPageToken"
 DETAIL_FIELDS = ",".join([
@@ -55,8 +64,8 @@ def get(url, mask):
             print("  ! detalle falló", e.code, msg[:200]); return None
     return None
 
-def search(district, query):
-    d = DISTRICTS[district]
+def search(district, query, box=None):
+    d = box or DISTRICTS[district]
     body = {
         "textQuery": f"{query} {district} Lima",
         "includedType": "veterinary_care",
@@ -89,6 +98,39 @@ def district_of(details):
         if lat and d["low"][0] <= lat <= d["high"][0] and d["low"][1] <= lng <= d["high"][1]: return name
     return None
 
+import math
+_GEO = None
+def _geo():
+    global _GEO
+    if _GEO is None:
+        gp = ROOT / "data" / "districts.geojson"
+        _GEO = json.loads(gp.read_text(encoding="utf-8")) if gp.exists() else {"features": []}
+    return _GEO
+
+def _seg_km(lat, lng, a, b):
+    kx = 111.32 * math.cos(math.radians(lat)); ky = 110.57
+    px, py = lng * kx, lat * ky; ax, ay = a[0] * kx, a[1] * ky; bx, by = b[0] * kx, b[1] * ky
+    dx, dy = bx - ax, by - ay
+    t = 0 if dx == dy == 0 else max(0, min(1, ((px - ax) * dx + (py - ay) * dy) / (dx * dx + dy * dy)))
+    return math.hypot(px - (ax + t * dx), py - (ay + t * dy))
+
+def buffer_of(details):
+    """Si el lugar está fuera de los 5 distritos pero a <= BUFFER_KM del borde, devuelve (distrito más cercano, km)."""
+    loc = details.get("location", {}); lat, lng = loc.get("latitude"), loc.get("longitude")
+    if lat is None: return None
+    best = (None, 9e9)
+    for f in _geo()["features"]:
+        g = f["geometry"]; polys = [g["coordinates"]] if g["type"] == "Polygon" else g["coordinates"]
+        for poly in polys:
+            ring = poly[0]
+            for i in range(len(ring)):
+                d = _seg_km(lat, lng, ring[i], ring[(i + 1) % len(ring)])
+                if d < best[1]: best = (f["properties"]["district"], d)
+    return best if best[0] and best[1] <= BUFFER_KM else None
+
+def locality_of(details):
+    return next((c.get("longText", "") for c in details.get("addressComponents", []) if "locality" in c.get("types", []) and "sublocality" not in c.get("types", [])), "")
+
 def is_24h(details):
     oh = details.get("regularOpeningHours") or {}
     periods = oh.get("periods") or []
@@ -96,7 +138,7 @@ def is_24h(details):
     txt = " ".join(oh.get("weekdayDescriptions", [])).lower()
     return "abierto las 24 horas" in txt and txt.count("abierto las 24 horas") >= 7
 
-def normalize(p, district):
+def normalize(p, district, zone="core", near_district=None, border_km=None):
     oh = p.get("regularOpeningHours") or {}
     reviews = [{
         "rating": r.get("rating"), "text": (r.get("text") or {}).get("text", ""),
@@ -105,6 +147,7 @@ def normalize(p, district):
     } for r in p.get("reviews", [])]
     return {
         "id": p["id"], "name": p["displayName"]["text"], "district": district,
+        "zone": zone, "near_district": near_district, "border_km": round(border_km, 2) if border_km is not None else None,
         "address": p.get("formattedAddress"), "lat": p["location"]["latitude"], "lng": p["location"]["longitude"],
         "rating": p.get("rating"), "reviews_count": p.get("userRatingCount", 0),
         "price_level": p.get("priceLevel"), "types": p.get("types", []), "primary_type": p.get("primaryType"),
@@ -124,6 +167,12 @@ if __name__ == "__main__":
             print(f"{district:20s} {q:26s} -> {len(res)}")
             for p in res:
                 ids.setdefault(p["id"], set()).add(district)
+    for name, box in NEIGHBOR_BOXES.items():
+        for q in ["clínica veterinaria", "veterinaria"]:
+            res = search(name, f"{q} {name.split(' / ')[0]}", box=box)
+            print(f"{name:34s} {q:20s} -> {len(res)}")
+            for p in res:
+                ids.setdefault(p["id"], set()).add("buffer")
     print("únicos:", len(ids))
 
     places = []
@@ -137,13 +186,17 @@ if __name__ == "__main__":
             cache.write_text(json.dumps(det, ensure_ascii=False, indent=1), encoding="utf-8")
             time.sleep(0.15)
         district = district_of(det)
-        if not district:
-            print(f"  ~ fuera de distritos: {det['displayName']['text']} | {det.get('formattedAddress')}"); continue
-        places.append(normalize(det, district))
+        if district:
+            places.append(normalize(det, district))
+        else:
+            b = buffer_of(det)
+            if not b: continue
+            places.append(normalize(det, locality_of(det) or "Vecino", zone="buffer", near_district=b[0], border_km=b[1]))
         if i % 25 == 0: print(f"  detalles {i}/{len(ids)}")
 
     places.sort(key=lambda x: (x["district"], -(x["reviews_count"] or 0)))
     (ROOT / "data" / "places.json").write_text(json.dumps(places, ensure_ascii=False, indent=1), encoding="utf-8")
     from collections import Counter
-    print("por distrito:", Counter(p["district"] for p in places))
+    print("por distrito:", Counter(p["district"] for p in places if p["zone"] == "core"))
+    print("buffer (<= %.1f km del borde):" % BUFFER_KM, Counter(p["district"] for p in places if p["zone"] == "buffer"))
     print("24h:", sum(p["is_24h"] for p in places), "| total:", len(places))

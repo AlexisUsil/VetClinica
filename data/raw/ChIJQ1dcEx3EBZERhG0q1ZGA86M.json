@@ -1,0 +1,603 @@
+{
+ "id": "ChIJQ1dcEx3EBZERhG0q1ZGA86M",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "996 934 692",
+ "internationalPhoneNumber": "+51 996 934 692",
+ "formattedAddress": "Avenida Los Angeles Mz. O Lt. 26, Lima 15498",
+ "addressComponents": [
+  {
+   "longText": "Avenida Los Angeles Mz. O Lt. 26",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Angeles",
+   "shortText": "Los Angeles",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15498",
+   "shortText": "15498",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0346812,
+  "longitude": -76.93166769999999
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=11813927611357883780&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:00",
+   "martes: 10:00–20:00",
+   "miércoles: 10:00–20:00",
+   "jueves: 10:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 10:00–20:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 66,
+ "displayName": {
+  "text": "Veterinaria Americana Ate",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 20,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–20:00",
+   "martes: 10:00–20:00",
+   "miércoles: 10:00–20:00",
+   "jueves: 10:00–20:00",
+   "viernes: 9:00–20:00",
+   "sábado: 10:00–20:00",
+   "domingo: 10:00–14:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Avenida Los Angeles Mz. O Lt. 26, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTVEzZFpSMjEyYm04NU1XRnZjMUJrVVhCek4zYxAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Súper recomendado, el doctor te explica todo y los tratamientos son súper efectivos, si tienes más mascotitas te suele hacer descuentos dependiendo de lo que se vaya a atender. 100% confiable!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Súper recomendado, el doctor te explica todo y los tratamientos son súper efectivos, si tienes más mascotitas te suele hacer descuentos dependiendo de lo que se vaya a atender. 100% confiable!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Cynthia Delao Lizardo",
+    "uri": "https://www.google.com/maps/contrib/107295642772736666019/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZyK9yebQWv3_RKojL7ulRt3I0H5LdjpxdqOzkMGO0KUZ56g8=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-23T21:28:04.426692793Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGTVEzZFpSMjEyYm04NU1XRnZjMUJrVVhCek4zYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGTVEzZFpSMjEyYm04NU1XRnZjMUJrVVhCek4zYxAB!2m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWVWVXY3pVV2hJUkhodldWODBORk42WW1kNmVWRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente profesional, cuida de las mascotas y el tratamiento es 100% confiable",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente profesional, cuida de las mascotas y el tratamiento es 100% confiable",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gabriela Qa",
+    "uri": "https://www.google.com/maps/contrib/112441631031216377786/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWO5NRfH5fJq5s4XSGgpZDIm8gvnXcEqnxW_Ep5VoqLZDyTa7wuIQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-28T15:07:00.505342473Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWVWVXY3pVV2hJUkhodldWODBORk42WW1kNmVWRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWVWVXY3pVV2hJUkhodldWODBORk42WW1kNmVWRRAB!2m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WNE9HTkhkMUpZUVZrNGIyZGFNVFZPU1hoaWVIYxAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Fuimos por emergencia y estaba cerrado esperamos sin obtener respuestas, deberían actualizar su información.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fuimos por emergencia y estaba cerrado esperamos sin obtener respuestas, deberían actualizar su información.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Shamira A'Jz",
+    "uri": "https://www.google.com/maps/contrib/107842376996210250181/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW05aqGuYZslQY55Bug_GRxxK9a3VW9WG_taHtSZkieypyvgtzD=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-03-03T15:18:55.597703205Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WNE9HTkhkMUpZUVZrNGIyZGFNVFZPU1hoaWVIYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WNE9HTkhkMUpZUVZrNGIyZGFNVFZPU1hoaWVIYxAB!2m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEd3JITUpREAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Agradecida con el Doctor Tafur por su gran capacidad como ser humano y su amor hacia los animalitos. Es un excelente profesional\nAmable, dedicado y sobre todo con gran capacidad y empatía🩷🩷 Gracias por atender a mis perritos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Agradecida con el Doctor Tafur por su gran capacidad como ser humano y su amor hacia los animalitos. Es un excelente profesional\nAmable, dedicado y sobre todo con gran capacidad y empatía🩷🩷 Gracias por atender a mis perritos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Marilin Katherin Quispe Pozo",
+    "uri": "https://www.google.com/maps/contrib/107964387388614789404/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyHf27dbHacuWmmHzVy543cz2p4JsCd-ODo9-0qOV_aUGco_9y=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-03-26T19:08:38.964574Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNEd3JITUpREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEd3JITUpREAE!2m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMS1tUTdRRRAB",
+   "relativePublishTimeDescription": "Hace 3 años",
+   "rating": 4,
+   "text": {
+    "text": "Les recomiendo al Doctor Tafur, es egresado de la UNMSM, es muy minucioso con nuestras mascotas y es muy consciente con sus precios. Ama más a los animales que al dinero. Su local no es muy fino pero nuestras mascotas merecen un buen veterinario.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Les recomiendo al Doctor Tafur, es egresado de la UNMSM, es muy minucioso con nuestras mascotas y es muy consciente con sus precios. Ama más a los animales que al dinero. Su local no es muy fino pero nuestras mascotas merecen un buen veterinario.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Flor Luna Montoya",
+    "uri": "https://www.google.com/maps/contrib/101126410277171594573/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpFk1Ftg8WG3gZfWlEF37_yYPdaG8im2Y2fBjSXNhFFVBpUHek=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2023-01-31T05:56:53.561872Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCMS1tUTdRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCMS1tUTdRRRAB!2m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMapKoXeVufzo0x7GakxY1bJlhH_hJd5JK-2B1fotXtMqdcf19kaV1vJN-gMHqjNedqTN2NdB398e4Hzx6BUz_G8YDkRsmhInwIP0bSeSlVpHRlCDTTDvn46VTgTTWpFfPRATuluKbkOJZ3hlnY_1af3M5lrIp-KkQGVgyQJ0o3YURI7UzL2JeJYu27ParuQlka6OxGmvCw7xx_hRp0iS0L1sOa8zVxgnUOH89IVg3TYQLxp1y2A626-4iEV0km3mgUgkxNSStyEp5AHPfmoCDj9W6Bak0xNKxiKAyBpYM66NlKiZr5HL1_NRjuPny0LjHzyhXy2gONhKi5UEBJcEmiGeocC9-ckT2dJEooa3s9Tau4OPRD-bIl9bgKHTX6AbxHrzLVo8RLFs8XY5Tjt6IQM1Id2b2gT9-LP1Isv1cXELA",
+   "widthPx": 2296,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Maria Gabriela Lias Condori",
+     "uri": "https://maps.google.com/maps/contrib/110435335832112185821",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjkvGceQMgyBsOZ50rdBN61nd_eA2MUqo4jiMeUlDG7tXZAXhT=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBxPmmO9kEubRh-iSHLeE15&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBxPmmO9kEubRh-iSHLeE15!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMa4qW9JSAoDff0n7yo3_6Wph20lApCDgi6h0AKX5f1iIzyJUKNrRv0ewQbveUlAG1a0LNhzePISNtLA6lTFO2bH5qVmlzxMaVVWERr99-AK5PFl5SlUOvew1pNqaLTWzV16YsY1_HrjVloc_O_bP5By7XqN6vz4V1_qfI9TKlswH5IAxE3hiPBxcRjnm2VOt8I5mPCtEQvN2N2GwTT5jEMjb2NyaJTyNcIuUq09SiVFrtHVkVP5VEC5mXzZn30kID4CNl56Zk1q9uKu1loSs_7DEuNlabNzGxS37MZmeHXxuyC3aWz9NfrR7epNrZm0UM8iy9RnDDQfkXM3hEFyDjtdSL8b8tt9VwfSj_bxv1FRQN1RPSSNZZTGWWw5g7-G11pWSLj7-Av0Ur0oD18jsyKwlR9bzRi7mDZh-VR8bR5atg",
+   "widthPx": 3264,
+   "heightPx": 2448,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCO58BgFgvnMAARhepmvwH2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCO58BgFgvnMAARhepmvwH2!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMaYnpAn2bwHWfFUBWK8-lcWBsSKcx-UiG9-wX_GUYTowHgTqNX7AhdDwBUDiCJNNkw93nWOjDlr-NdFjXd2Sljr3bpyd57wP_Lp_LzjO9bXtJGL6rfE8b2OMI5WSltrFJgFamP_S3rVcoPcWXluJXm8rwYnI3jgwXnfXyMZUkHQH1sPpdZJMLyhYuAZYcxlPLYRC95iwKZDVbS2yUbFHZN-KuedgweB86fIsdAj-T7C3Ry6wsM9GG7JS2i1qGMduTQ4OPGJdeMHexf7Fl3ivCbMm_Fjd6ENBC17hZCb7sN0cqKhYZMiiqnwJlDHyypVR9yDlYt6-mnq00BthBOVt-mrdTF1DAkZfsD5BF3DvtHyWyjmsumQtdrQ7bkmW2v1nRbIlz5KDHtBkZzrNuHVChAoqbTdiAf5GecAdaV9jqGtVA",
+   "widthPx": 3060,
+   "heightPx": 4080,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDHAImZhiqFPjQA_z_avIJX&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDHAImZhiqFPjQA_z_avIJX!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMap5hFTxzR6FFE9_V-ylEwsutgN7pxwuifiq7DxzVY4arwQYVdPHSBx1wtaPX4rHhQQhE9apr-0VPFXwDoK5_1gmdYfi7I2zNQVmSDrE96wf76zlM2rgpPEcDvPJVtOz2LUCieAN1RdKE4F2BW6ziKfXG3HDbns5DlKu-GyXQlFwid1aViPSfouXX6sJHai7T21vUuJ1ZmrE8fyrw76ZitogsJD34QGIy9kUavtJni_MCIqZict2hSZFiHj97gyzh2pcQ2MlUVAGIhoGMJ0uUAAQP8TqQJ_ZQsNC0Hwr-oEhcyu1IVzqkqkmiozMbMo_gA1cBGJDCVK1Dl0xbZaLPyONBRcoHGQ3j2C-CxlbRtpjQ5ztV-MaTpladliVnb3cLt0odh2wfyayuTZPZ4Zz17ZaGAgUD6_y8UnQCA9uKe3",
+   "widthPx": 3674,
+   "heightPx": 2697,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDzf1MJL2Re1OVcDbozhJo4&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDzf1MJL2Re1OVcDbozhJo4!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMarBGm0ytLno9qTKkPNvkskLpKs9-Rw7HHja4m6g6U5rttrexQnMuo3xFvHFs3XCTgUIyGYFKO0oYWr55wnMRFKOjZcWpPlg3gwl4u8mVKc9RyG1ZiKzCVSx3V8lQCXaW7V28UFXyfHlzi6VZVMJwEc890tZm87MHZDI-FQsv9cUE1qN4XKn29MuunVToONIf7gUjow3bLFL_R8Fm7zwWqrTwShiqBPPFOVP1KbCLBsVCc4dwW4OwrtMa5_YWdr9YQhUR9h6mZ9Pv5t4jHd6DN27rxFLcqJv1FEQTignaQU-RReC9gpcAM1srWuoKo1J5pizCjBTRd-z85GYC8UzGaT8cyJrCp84c8sh9Q_ZHYbHATp47j3UR2dnFP9T6bQ_fLm2tFJrn-D2UU3wI8OILT1THtYkUQ",
+   "widthPx": 3096,
+   "heightPx": 4128,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDRjc6f-QE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRjc6f-QE!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMbbXOpjKITH9YsHjA6_rpLFolw4roox6TBv_GEezGE-C07zMQ3-547EIaN0AILVQmZHUh9ABFd3wLtc6BOMMvYOB78hhJJBEmqVI3Ier4Z6s5A0SZ77f09j2k9j7FznmhaSr8dIx-zDMqn5J8yDtVOLeAkru2CAs68wxzToTi5E_-3LkSvvrqXFsGq-sKvcjLBKRupCYkZm1EMqTTgN8K_wTa8YK7jIE8lDiL0VlGeqTa4a_Y0ujkpg-WnR53bzMH14KzaBbUELxvh22EdZRegOZgo1zSea4gZaZ_Xu1BzWmMAul32hiVioueJY8wq2a1x5QcvAI4sNWjPCydxO0hcdelWS1GtS6xhEaT8zOvgaD9N8pDupe1OKFBTCbeBWz-ZqThBSb1MzHUbAeDI7Pn7yepJPYmlWDNzuHgYXDX1beg",
+   "widthPx": 3056,
+   "heightPx": 3056,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDOWOG5kp_LNi3ySb0071Tz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDOWOG5kp_LNi3ySb0071Tz!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMZk7BoYufnpvGQlEJMZsJWlK3LceLnaK5BZFUTp8-JZzfhh03-pXBVpxzDmRqKPMNnoSUzZ9FYGJMFR0MoMpuHYNQF4rdS4tYCoZbt5zd3X46qGKMjxVulYwlTfHY5b5tZD8vPqR7vNqscPKS0Ujka0h9dSURCb4LiMYgje2keQi-6b6hBUW32Ai6_9pQZiwDqNmdEiysmw0WQk9o-0JW8bebuqNI4AbR25eQxVkt5frc3t6Rl3Q68s4e1AIOIMo_IHyvyeXsN2RdsKxRxV4505HKdQhgZhQReJLPuntaAc0JOtg2TrDPDzd9S7DOIfDwNG73HvUHu97vqs6srdJSGIRFh_VIZGI5zvGif1d8Fa8i8bEJU6L-ek49W03Y8-YSyTn7eDOoQg1HTtJ4EELaDx1amgIQ-Zmj1dWqJbEVA-KQ",
+   "widthPx": 3056,
+   "heightPx": 3056,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCp8GSKbtRatQL3SR4LfeGU&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCp8GSKbtRatQL3SR4LfeGU!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMba7oLsNCiOIAy-FBzjLfKFc8t6BmWpU-81NBQ0yp7qxAs0_5_C5_GYj9XCj7jgPRPvDgRMYxMaqvsJFvm5828DHQ-vHwQA_7Q0Bu8BxBzENRDF4tHuiFB8MAGNebJUZysvPNHRSYKfU2Se1OwoekQXqxgIqfRFKTp__9qAw8gnmvNpLcr8UZ6O05LMh9goddBjO3vKVisn3Jn-T1EEAsvQaKZtLOF26X-Vkd0-TK1HHNesUPSJxDYAfIm0EGzp0YHaqImU2jJn-fPgZcaBtkWyBO8gnppnXkSO6AC_w4fR9DAr7vdq_xjN_N3p7--p_W9cvyEO4qJH9Hcngov_uhfQrAXXUpHnpXgFyBZhWqGlCADOHDrPLnr-VMNVPkjFJ46i63uC_23S6rew81K63Lf6DZYb3hg",
+   "widthPx": 2608,
+   "heightPx": 1956,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDByefjqQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDByefjqQE!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMa6j029knByll5Dt7sBD0kdxxswxm-ainNRBMa48RDu1W22qh1-nERSU7yaASQD6DAY0opB_gW8ou9Y__RoG8VN_bfA0kAAajui2wJk_CoXkAD2luPVMccG5AUNKEY7LV5vqs900W_ozIgyebGfdt24c56oEFCbpgGB1unl0I2oJaJ2gSbF4TGKc8RY73_fAAIz4lvTeHWour_I4qPE-y0yFmfptUFpwGECnF75wxqmgVBnI-PmukSV6XbzG1ppzQnM0PB4NtQbyuctfCtass9PpRe1Z1qlHD6D2DXAnl9-pAlQIE3DVZqr3e_quribjp1JbqDFTHrM9piATwC2w0pMAYnYqI-eb9c1629vdK-GHMdaT84k-CLQw3B6gttebDpRxe956wlNEi9vjhSeZPeENpRpBybS0USgXHSN2YYNsw",
+   "widthPx": 3837,
+   "heightPx": 3024,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBGu0OimqzJjpt0SLMEUFC-&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBGu0OimqzJjpt0SLMEUFC-!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  },
+  {
+   "name": "places/ChIJQ1dcEx3EBZERhG0q1ZGA86M/photos/Aa-ngMaGL4Qfs2YKcf2Hj9eqV0dAYCYbsU-bur6V9-Qe03ZqGB9efQDbDTh1yr2l7sh3JOO7Z6wOYhULA1HS9DAzEpplasqn0UTNQNyIXAvBklmb33ujoBNYf-2oMf9gWwtjoMPm4qGe5huTKLMI-wFLARd5bn_2_lboFbB8aC-uBNfv9FAApGjXkTHJCNkv5GWHIoMhXoavdlcEH0pq1Ospw1yB597GxiP_iq76CqaAgA4uFp1uqPqqJTpw5wyk3nklx5Tm6T0YJW2xQwGruVQ4vAvXEHOzcJems3qpgx0t7HgwmNZuE4PukoiwWYNwZW1jZ36joL6-2BGOjC9oNtkC1e27bsy4R24CZcoq7oE4bCnZ_XHplUbj50IBGl3v46V0QZGcqTjBqaBnQn4oGE8ttkRVOQbVCHUF7_oFOL1-ijeQ7g",
+   "widthPx": 4080,
+   "heightPx": 3060,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Americana Ate",
+     "uri": "https://maps.google.com/maps/contrib/103834732367699489307",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWrzhTFSZczYkLL8Pr-WuoDBtzVIIjTtg3uB9SQUq4zmIx45Al=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAyTlnzSoPPytYgHwZs91_Y&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAyTlnzSoPPytYgHwZs91_Y!2e10!4m2!3m1!1s0x9105c41d135c5743:0xa3f38091d52a6d84"
+  }
+ ]
+}

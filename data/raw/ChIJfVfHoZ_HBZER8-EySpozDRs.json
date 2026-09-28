@@ -1,0 +1,616 @@
+{
+ "id": "ChIJfVfHoZ_HBZER8-EySpozDRs",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "953 215 666",
+ "internationalPhoneNumber": "+51 953 215 666",
+ "formattedAddress": "Lima 03, Ate 15498",
+ "addressComponents": [
+  {
+   "longText": "03",
+   "shortText": "03",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Angeles",
+   "shortText": "Los Angeles",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15498",
+   "shortText": "15498",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0363256,
+  "longitude": -76.9336187
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=1949270951484121587&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "websiteUri": "http://www.facebook.com/ClubdePatasvet",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 27,
+ "displayName": {
+  "text": "Veterinaria Club De Patas Ate Vitarte",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 0,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    },
+    "close": {
+     "day": 0,
+     "hour": 17,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–19:00",
+   "martes: 10:00–19:00",
+   "miércoles: 10:00–19:00",
+   "jueves: 10:00–19:00",
+   "viernes: 10:00–19:00",
+   "sábado: 10:00–19:00",
+   "domingo: 10:00–17:00"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Lima 03, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OcVZHNWxjamhLUWxSTGMycFVkemhQVFRNellsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Buen servicio se los recomiendo al 100",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen servicio se los recomiendo al 100",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jhonny Gil",
+    "uri": "https://www.google.com/maps/contrib/115766351032481437133/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCqGYMghalw78-DWZ5dTSghjpfWLFTurhcVzVS_xi0hI4Qig=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-05T00:27:46.036977157Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OcVZHNWxjamhLUWxSTGMycFVkemhQVFRNellsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OcVZHNWxjamhLUWxSTGMycFVkemhQVFRNellsRRAB!2m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIb3VYeEV3EAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Fui allí como un extranjero perdido con un gato enfermo y recibí la mejor atención que necesitaba. Fueron realmente amables, comprensivos y honestos. Los recomendaría nuevamente en cualquier momento.\n\nI went there as a lost foreigner with a sick cat and good the best care I needed. They were really nice and understanding and honest. Would recommend them any time again.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Fui allí como un extranjero perdido con un gato enfermo y recibí la mejor atención que necesitaba. Fueron realmente amables, comprensivos y honestos. Los recomendaría nuevamente en cualquier momento.\n\nI went there as a lost foreigner with a sick cat and good the best care I needed. They were really nice and understanding and honest. Would recommend them any time again.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "G.E Özdemir",
+    "uri": "https://www.google.com/maps/contrib/112003782551339646594/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh8PH0bj7o06L0TTU-y4zxV1MzYTNnol-DLe-Sa56mpQP0lx7T=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-09-02T23:38:22.574272Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIb3VYeEV3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIb3VYeEV3EAE!2m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqMGVhQnVnRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Agradezco al Club de Patas por todo el cariño que siempre brindan a mis 5 perhijos, tanto en sus tratamientos como en sus baños.\nPor fin encontre una veterinaria que realmente quiere a mis mascotitas como yo 🙌🐕🤗",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Agradezco al Club de Patas por todo el cariño que siempre brindan a mis 5 perhijos, tanto en sus tratamientos como en sus baños.\nPor fin encontre una veterinaria que realmente quiere a mis mascotitas como yo 🙌🐕🤗",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Liz Huamanciza",
+    "uri": "https://www.google.com/maps/contrib/118248772088631970670/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy_DmoGHNIivG5ieLOaolqQIXed4ehUi2s6tTdUjnm6oqNLOlj=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-04-22T21:25:10.231432Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqMGVhQnVnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqMGVhQnVnRRAB!2m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4dXJmRnVBRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención, el Dr. Irwing Huertas es muy amable y cariñoso con los animalitos. Hacen campaña de esterilización continuamente. Vale la pena ir con gatitos o perritos. Precios muy cómodos",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención, el Dr. Irwing Huertas es muy amable y cariñoso con los animalitos. Hacen campaña de esterilización continuamente. Vale la pena ir con gatitos o perritos. Precios muy cómodos",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Madeleine Anselmi",
+    "uri": "https://www.google.com/maps/contrib/115575070283045995959/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJL98KdPtIQC1aVE2W-rHIx-DKl_bbEoCWWiCQT9AmGd105Ig=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2020-07-03T19:47:19.553570Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM4dXJmRnVBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4dXJmRnVBRRAB!2m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNka09XWXFBRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 1,
+   "text": {
+    "text": "Pésima atención, lleve a mi perrita para que la traten contra una enfermedad lo único que hacen es sacar plata y más plata y ni la curaron no les importa el amor a los animales solo el lucro",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Pésima atención, lleve a mi perrita para que la traten contra una enfermedad lo único que hacen es sacar plata y más plata y ni la curaron no les importa el amor a los animales solo el lucro",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Jules Z",
+    "uri": "https://www.google.com/maps/contrib/102356239100294059051/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKSEdAK3v7PNG_XyuazXV-Ofa-SfsTg0IWvuGpBYKrvdAofQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-02-09T21:09:28.448232Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNka09XWXFBRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNka09XWXFBRRAB!2m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMbbajjPO2NcxcnBu_IpK6IbT_Q_tF08ij7o0U9pdt_rBbcnHZCdI6-dDAqEGl9aMDNzjz1ZO7-kTA9dK4G3jh1MWJACTTTDQ6KlN3YlHmomXIm_p8HDNVSFB6eGktXbZq-NNtqnVWw6lxKkS3Y6NMWirWf8iV7UIQsgmJwUbhL1R_-NtQ94sRewIKZ4qbHMC1eisZirGzbxkR1qCOLTFpby9SW8ZzMPXXGj2M3ShaRNEOAVm2V4n_uWqI4kePq3PeNJECJKBygZ85O9n6U8-czhe9GffNGBDN_dR3P42H9epvwJRNFIk3Dfvo7Y54uaoHIUppxRiGefJORRHkUpwEZ34IFjTEsZSy3aQnPcNGCTbAPjIsfx271pGDmhqF0wiY6yhQPt57kJFpV3m-0wLFA3gRY",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDhoqCYbQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDhoqCYbQ!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMZFAKoNeM1w4FJ7F9jTEkjM-nk77qn-KBsv1Ri7VJPYLFc3-MDWAoELWZrPINL5m30F3ejnSrl5W6PCAhIhR0Ty2GOeJnX0OIlso8BphEXGXLiXjxnvynVmfcsl6tS3F3fjz8oBY1MKagOsJO77bY9SPKnIKN2EOA21h-qMw-yzn2-CTuIk8oYM9lxbqsXRNJo_5OLHGJCrfBiRHGOEKdcLwQ7KzxGBiRkF0VtCgIvvTkKxt6OhI1yUZ6DycgDvqvjmUHbCMKw51cjo79EZfeSnV17QNzuvLUlgzoU_A8nTFw9CqatlH1y2541XOZeDBCosR65A-OnSUISeMW0rUxNFsxAMDLeATdGh9qiRma4U00VstmBErOdacc9k6-nmjr1AROSG0PWnJ8VneeHgU5W1DQ",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG4b2hIQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG4b2hIQ!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMa8h2d-5u0kUIuXTYuskOxy66epsV5sIW5f2wVllJTApbnv5CVuFcpgBLgknvevMu9F1d7GyNfT8xgnA7asknB1SxsoaXZKhE-tWdJb7TgEQHtjeQiXW3xk6DgjwCd1VwDgQ5CU4nlMJEucC60aaym_E4_KpSRivfKn97WcrVShBPs75_nezZ4YIzQ26nKTFhIsGKDVJd8nvWFDAy2GMd2mf0EnBXDqdpaS5ZjswMcNsgyaofbEeZ9LENlGzgREwPr2bijyl8XoXnDbTW2FuOeZpPRVI56ndM2ZvqCOwgapgh50EG54dGBx31GkcL4OD9isrMDoYK3cCW4I-oWbL2yMLJGoV9RKqoeEZBdSb6S71oslEzyYtMPr9GykldaqXntitbxKIs94oYQpzT4jcRkRQDM",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq0NLNBw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq0NLNBw!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMYISg_KlWVsiK9Rj6TtthakKPs_C1aDfQ7C5pKi19U4rMfFgMZzqs9S6mfKDSvD0OwoWioVZo6NtY_3M9fHtSRum3LvMMifHhvh2ZpxAjSGNfvLt4DO04kJP53WA3LMG6N5VlO63jAtNDSsW0yYEPE-4nesxThJ8L3seCHoLvsvuD6C1NjOoY5qWA7fkbCGznpKRaFz0nOj-zg32cD9p7G4zVCOV06xOZ92Hd_o42XzJJngOvAVvCyNvk7FIKthidWRTKLZsjn55fjP_0JM0ijg70TzulFUgiqEvhBNCHU2QKGJK9APHx1t4ckFwYF1rHufiuaEgbWXI352lBfQqjKSC09_Ifwld_7Hg6k3QNotEdfajcS92Assk3pzf3PPP5uC-7e4al8K7P9uRIlJhflrT00",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Francesca Medrano",
+     "uri": "https://maps.google.com/maps/contrib/117895989878276735082",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-MtnduF_GqeIG5VWpdk1DY9UUdIyQSYwxwbRVU4U8il5kCIIMbw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG4cX7fg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG4cX7fg!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMZ0a3lhenTKE0MPERd3LpGJg0Cj4YJZC_ZIlPrS-QaM9y5lGC44IXcee_MquNPVr5WKQ8t80Xt2VTE9NdBIRNR-ipkjG8IQaJtcDDWEIiVk7sJzB8qstCKla_H0buViwfb6CedWR2w4iF44rsqOQW64dV8swbzUkBjZKoTPo1BCjVqaalrHSC7BT7JXZAcElNagjyUxVzpSYw6GbadO1v4CleFDvH3TMlAZWivzAp9ke6ueq736k7nyfQ53b6ebO7JjTCVc6kAFPlj77xwDwU0OzmYGTkhSXe9xRIjnS-SsgzhfiEcXO1bxJjsRCBez-uoclqFzFQCqDH63Qq5z2Fbm874IQ2QUl5u9KD-KwBnnPojhkCX--wu2yDrnWe0FT045MAzjrmIN3Vi4bE0N8vSjqmD1AQA",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq0IrdgwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq0IrdgwE!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMbkZrKoRK9JBLfY7wP2hYHTtSME3qlLXu_OS4JD20WF-JrF7PKqXB-jP1QAEY2d7fxWg4MFtaS_CXL0SMNbWzcxlFhzOy1JqNNF4YcpYSBXTE6kLH91NeJlIP-_Vqv6LiKbPTd_rocl5aks3I0w1Fs6APZO5700dzvyt2wDpn897nkiz3sUl7ZXRleeX3ZWA04RSrsSU0iKeUi0SutgRQtkbxTQi7Qx3RbuiJF6qtKQKml_sH6oKWxxb0bs5drQh-XtJwn0_VQFGk9otuMIvajoiBGz9dw7mpxKu3dj52UjWxlHA9nQx1TZRTyO8GTfvNfJzRl_pi7ef-KbAmJerGAvMJ0RTze2IbRmpZRFuFXLLlCyn6zB_U4qMrhTamwLCmOTszViRGIj3lnQliQFhm26MT3JTq8",
+   "widthPx": 768,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG4bW2qwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG4bW2qwE!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMag5RPzimnP0Rh7jcGDWFY6np-l-3Nwsnr-HMMr9RurViGDx6GFLEtsGsEkx7H8kvWaPj1711CwUYl8a-YdYYIvIwGdgrYHhb4saFl8babov9MI1LD69S4h-Kao9qOV7hjUknVut7wqMOm1Qvam9J60tki99wAvS9rOXiG2RZzxYDOtCtGuTrEaGgq6EZP6VpW577gVvB16-GlfMaj1_gBgEUbsCAPS4T0xqYucozNJ2xLmcRJsNnPGOD1Rmp9YVMPeDVgR9WH2bHqu-aa2FV2U2r5wlbzMK4pjzIQewKi__Kuk6e22O9iSmIT-ZZciODVdniAXkIfTabXYveLXn2t4faE7OhbNVdztgnpIl2GxuRjiJCWTSaoxi4ZmKLTmzQHUhIdm4MiMG_x-oW5Q2rHeU6Df",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDq0IqD5AE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDq0IqD5AE!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMake6BydQB62ms9tX4bkswSt6Bqgza8G_HKBSPP_YCFC7pvKM8xJCA1vMD4CFJXlco-wlJ-RflEUIoKP7dV6HnTv3Oygl4t5-VG9QjgKUDvUOzsI3eL_ZPxQGZ7FZuYgaUMHCHLM097efvRQiI6KXHMUihT9z51kJVF6TpPH0G1T3QVTk2ALGaklCzbAsx_51r9FXubbB1Jm127jFd0p8K0w5semVg2YdUBiY3ACgZSpBff62Aw65jMxB44iYX9Yo3Uy0OiMcvz0P3vukcTfsx3sWhWZC3hikLeOpbJy2yioLEsAM84l1LdzoZOnSL2-kOG_aOvFoNisSXuU9zmARnL_MjvQzE3w3w-43JgJ7wPW19d1Uc9UZiemmjIJ11lSZi_XrW32cmMZG42tCPsCwSxixo",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDS3fz5eQ&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDS3fz5eQ!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMaeHpByM1NX4Al_l-wrdiSEIp-d_uLJ0x1JhCgsb6LX51sohBU6ILiJdyt2OQz5nnTv8W-X-IWZgaVdK3u2C2w4bt9vYDZvcS_JFXgMopk024OlIKJbq_v6idy-X7huSxStOUCJFntVJMCC1OMuVr4lzuGjbVt0qvY10PMwbodwmHS7rVXRdEXMm92dav_RVSSAXvHE3Prtr8Upn_bRJi1RlMQKtxiWOtfWbrjqqC9aCGEdHD9UBjm4My8sKcupRXF8vxOVJNYzeWieJDP5Pb1uP3WPZx3r2g_nZtGRMmO3h2vNu5WPJ0bvMYVr7yIwp_PvfuW5gRnk-ULvUGf0AXl4MB0f9nOL1cVufbqXPwgdMPMc7OlCJLuPrgUg71TcigK4ZP5jEIPS-KLtGjx820rF4JNtb3E",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Francesca Medrano",
+     "uri": "https://maps.google.com/maps/contrib/117895989878276735082",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-MtnduF_GqeIG5VWpdk1DY9UUdIyQSYwxwbRVU4U8il5kCIIMbw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDG4cXrnQE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDG4cXrnQE!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  },
+  {
+   "name": "places/ChIJfVfHoZ_HBZER8-EySpozDRs/photos/Aa-ngMY-J5mdOU6js4JnaJNCBJdV8M5vX3r88PlB981TS_iXifaRrzK243ZLG_pXsHrCeTDkRnfnCxk11qeruAIYCLjjBLCrifenrm1wmRogGpUmQVPR7s1CxhB1YapA7BSHz6pw5GRNa87cg97mBA7y5DrB9F_APyhwmfUuq7lHie9yh1TaGgjXjaQzGFap-BFhS9t3A8VHKvP3dHvFw2IEcb4mFhke25aoB_EriQftJ1FYChmnHY2-NMIxH1lBScI2gdE7nh19EQCbZX3ZWwv-58OaoMxWJwCsF4pl_wwJWnOKQLoLIixYBLEsKurVJlJGCUSVKGsUET3qklF_533axKv5vY8ZlyjabF7JebRHlaixhU00tN58FKa5jWiNBCm1USZssQ-EYb3msMZFbIZtv7tL8uEDixE_L2dP2oog2Lrf",
+   "widthPx": 960,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "VETERINARIA CLUB DE PATAS ATE VITARTE",
+     "uri": "https://maps.google.com/maps/contrib/118268049126864552999",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX-DqivAlRYEvdl9T6dk5dE6kKxlNIqJ5PYVQQMOv0PRaww6s=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhB2g4tPTUiScI95ewQk6ksi&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhB2g4tPTUiScI95ewQk6ksi!2e10!4m2!3m1!1s0x9105c79fa1c7577d:0x1b0d339a4a32e1f3"
+  }
+ ]
+}

@@ -1,0 +1,563 @@
+{
+ "id": "ChIJZUWNUwDFBZERBexkkyZwKkw",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "989 010 823",
+ "internationalPhoneNumber": "+51 989 010 823",
+ "formattedAddress": "Lt 41 Urb, Los Rosales Mz D, Ate 15498",
+ "addressComponents": [
+  {
+   "longText": "Lt 41 Urb",
+   "languageCode": "es"
+  },
+  {
+   "longText": "Mz D",
+   "shortText": "Mz D",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Los Rosales",
+   "shortText": "Los Rosales",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Asoc los Rosales",
+   "shortText": "Asoc los Rosales",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15498",
+   "shortText": "15498",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0277257,
+  "longitude": -76.92927999999999
+ },
+ "rating": 4.9,
+ "googleMapsUri": "https://maps.google.com/?cid=5488322406888303621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–18:00",
+   "martes: 10:00–18:00",
+   "miércoles: 10:00–18:00",
+   "jueves: 10:00–18:00",
+   "viernes: 10:00–18:00",
+   "sábado: 10:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 21,
+ "displayName": {
+  "text": "Veterinaria VETERKAT",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": false,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 10,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 10:00–18:00",
+   "martes: 10:00–18:00",
+   "miércoles: 10:00–18:00",
+   "jueves: 10:00–18:00",
+   "viernes: 10:00–18:00",
+   "sábado: 10:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextOpenTime": "2026-09-28T15:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Lt 41 Urb, Los Rosales Mz D, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT210WmNEQkpaRTFOTVROcVgweHVaV3hXZG1sUVRGRRAB",
+   "relativePublishTimeDescription": "Hace 4 meses",
+   "rating": 5,
+   "text": {
+    "text": "Excelente atención y las doctoras muy profesionales siempre con sus pacientes",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente atención y las doctoras muy profesionales siempre con sus pacientes",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "petshop vetroy",
+    "uri": "https://www.google.com/maps/contrib/100711837704636675492/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9k_a19tAfkZMYFKKCXRGMq06EeIuOrIi_9p1GHC_e5kgcVg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-05-30T22:28:53.586599444Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210WmNEQkpaRTFOTVROcVgweHVaV3hXZG1sUVRGRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WmNEQkpaRTFOTVROcVgweHVaV3hXZG1sUVRGRRAB!2m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/reviews/ChZDSUhNMG9nS0VJQ0FnTURROGRUZExnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio, siempre amables con las consultas para mis 3 michis",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio, siempre amables con las consultas para mis 3 michis",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Victor Francisco Cruz Guado",
+    "uri": "https://www.google.com/maps/contrib/115804136676596329649/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfd8Zjk2gjaWuKLsDXxcS7iYrvptd3THdPay1hb0piHYKGEebA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-03-11T21:29:59.230981Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURROGRUZExnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURROGRUZExnEAE!2m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/reviews/ChZDSUhNMG9nS0VJQ0FnTURRc2FuWVRnEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "A mi y a mis 4 mascotas nos encanta visitar VETERKAT,  las Doctoras veterinarias: KATTY Y TERE, son muy amables, excelentes profesionales y sobre todo su sentido ético y humano, me dan la seguridad de que mis engreídos están en MUY BUENAS MANOS, les felicito por su labor, LLUVIA DE BENDICIONES para la VETERINARIA VETERKAT.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "A mi y a mis 4 mascotas nos encanta visitar VETERKAT,  las Doctoras veterinarias: KATTY Y TERE, son muy amables, excelentes profesionales y sobre todo su sentido ético y humano, me dan la seguridad de que mis engreídos están en MUY BUENAS MANOS, les felicito por su labor, LLUVIA DE BENDICIONES para la VETERINARIA VETERKAT.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ana Luisa Ochoa Robles",
+    "uri": "https://www.google.com/maps/contrib/118014109161002368772/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5yjvrv0FxswulRN8WK9LfoPx7KYATrnv73Sp1-oxowkkdvx4I_w=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-03-11T19:04:50.235603Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRc2FuWVRnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRc2FuWVRnEAE!2m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/reviews/ChZDSUhNMG9nS0VJQ0FnTURRc2FDblJBEAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 4,
+   "text": {
+    "text": "Excelente lugar para atender a tus mascotas",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente lugar para atender a tus mascotas",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Rosario Julissa A.M.",
+    "uri": "https://www.google.com/maps/contrib/113902657559722947559/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZuuere8ODjDVXfM16qYqkybGrgbvFXCAdyVdrTA3OZyrorNX0=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-03-11T18:23:18.635767Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRc2FDblJBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRc2FDblJBEAE!2m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21neGNuZDRMVmt5U1hZMFNGZFlWbk5PUkZSNWVtYxAB",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Atención personalizada para nuestras mascotas, profesionales de primer nivel, la dra Miñano es una trome",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Atención personalizada para nuestras mascotas, profesionales de primer nivel, la dra Miñano es una trome",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Norma raquel Arévalo guevaro",
+    "uri": "https://www.google.com/maps/contrib/106266994384548701548/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNRkfPXOjEJWAaebKzAbMAclCMYekcZS-fUIPWo83aACa1Rwkb=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-08-02T23:50:23.281068230Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21neGNuZDRMVmt5U1hZMFNGZFlWbk5PUkZSNWVtYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21neGNuZDRMVmt5U1hZMFNGZFlWbk5PUkZSNWVtYxAB!2m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMYD7hCaFjbQrCoRuBFLon8wzjt-LXSRq1mbxXklb3fp_6x_oaqez6rPL_2sq-iRR7yvg150bgyOfYIorMHNoY4M6zvC-P1jUD8DIV-2dzQxgO0CEkFbL0PEKn7ZXY6OTlI-mVpQR1hAQYiJmRFZ-8uIEAoDi-U2m22dFgRrcBfl7DIavWDGEfrI9h9aowfvJT5dg15ZhuVjPT5YhoHH5Xt573x85UIXdL8gf_x-fkUCm9w-It9eTYIPhRSd-jxINt8C9HHhXZa2eG-s2lOOPSZizcSiBHknoMNXcdUoUjDu0B1MFONVdJp-Kb_KMbBSXeEeFjshcZwZp5NLi8XIYNz9lAwhU2UZKGHr7_7RDNCJte5U6Pah08fLQis4PQ-7B_ER3vPjoesGz7mm4Y5PGjkFFBqR_XLewIIoC3YuZohv4bZ-PY3tNER_D__z3ZV5",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria VETERKAT",
+     "uri": "https://maps.google.com/maps/contrib/101224666800754626251",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgzOfWvT6NnkX99c0yQoWKeoCAf5-oTJ5vNDhoY6yb4YtbKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADyc5UmzNQxGfQbjQAAWoH&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfQbjQAAWoH!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMboa5lATYClpyDtyWWynm3QSN4JXroNuUx7AUm8ToduCer-N-IUsRu7obPZyG-RVXVcYuKrX1MU5kfx_hovJ7qSsDVnZYZnmOjhOf58oWQ2XH70vR6ZR3kISaiJxpseqjLPcSq9ZBYR02JteeXbK3Y6rWjrAQ1T7ZznJXiw_NB1E9p33GJRbiqiDIzX5BY4ERZllm6t5axpZ4LcnfSypSVlsHe-e6JvyHUP9cp5EfgBSQyKAmJFJfJqY4tc5_g9NiCjrHqSX3rdW9_FSfzZxJ1zjLMQEx0ehFZRzGEOldO8aYyZjqvtR6HERBulnLO5VL5yWRo7T0G_YlP23zmfzg4ZO5XU1658Vh-tP4dejiZbW7Cz739YapLdytsgztSBwgkE776lH2bDEkzDVW4T2xCScULA_L6Tw2w0vUi4mU4sCp9Q9JcWSE1MpRafm6CS",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria VETERKAT",
+     "uri": "https://maps.google.com/maps/contrib/101224666800754626251",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgzOfWvT6NnkX99c0yQoWKeoCAf5-oTJ5vNDhoY6yb4YtbKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADyc5UmzNQxGfQbjIACsEz&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UmzNQxGfQbjIACsEz!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMb4bja-LYtD2NZCLiqaK37MqjvU6-VggV-87EzO7EKgi3OotrMhNAcjPEt3uXjIwGtJR57GF6Rw9NpT84ksyikA4MpnxUsY5gM2JC0TTwTuaFwQGAWtuoN9Wiv6mzSNaUF-HH0IhYFbjBA10x4tJU80cdkzmJ4J0T3Gc3Kw5qjcb3ceUzNRlBuGhfkyoZUWn5A8unpxSjDXO_3AGNm-GLbT765Yp3kuIaf0asx9KE3LKTTcVK-p65ztXfRUkeEZrx8IzA0lWZMAAQPvy_kLEhsdTgTiEcKuYsQ5j_-qHFSG-0-NFfFaQxnf9vUEp_c21btnBDsPdBQARfyg3HhRtk8VUNHvbgz-AuGm_6MPVEx8HsshBGQQGlXU00fARL_hEPW4KfNbrf3qKO6kB1sqtfjJ_ZTuwymOwXJrGVwix2WT8Ww5",
+   "widthPx": 4080,
+   "heightPx": 3072,
+   "authorAttributions": [
+    {
+     "displayName": "Victor Francisco Cruz Guado",
+     "uri": "https://maps.google.com/maps/contrib/115804136676596329649",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfd8Zjk2gjaWuKLsDXxcS7iYrvptd3THdPay1hb0piHYKGEebA=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDQ8dTd7gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQ8dTd7gE!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMYdyPZVkHe0jpBcgQAsJPx5mOubyJpxBTCcKl5ZorJGUtl49D_jEZOHwZra4xkaopRGAJgdNtyw7Jrc8iu4jag0EAJlHeffQMoNBgnuWppli0vU-6Xic6rXa4GZmq1wU_wMclldEm0z4QRLp87LP7rNPqoNFiT9UsCItPg9IDqKEosH6p4Lw3QxNaEgZ-bLjs6hGWx8dRwtBL_lgnU8rE_RpKZGAWOxHCDg2ILaibSK5DiS7Rfhm4TRkBas9PoY3mHO6SObSxog06S6iSH0Ay5VNXRw9g8pwFRmXNTPTNd7DeN-TYrDXnkdni96aJdl1hLSduHdDX5vMEpofd4b1ZWECPfKYAGVql1X_H9ggkc2GuzisHrIiwfKGj1J118F91fOSjEovWCLvnuyZIBNx6bDmlSYKlIEM3w2F0muP13xVpSM",
+   "widthPx": 2160,
+   "heightPx": 3840,
+   "authorAttributions": [
+    {
+     "displayName": "Rosario Julissa A.M.",
+     "uri": "https://maps.google.com/maps/contrib/113902657559722947559",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZuuere8ODjDVXfM16qYqkybGrgbvFXCAdyVdrTA3OZyrorNX0=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgMDQsaCnpAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgMDQsaCnpAE!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMYGmniF2OGiavMmUfGIQepJrsLiUUY9qS0uuGZFFCowptxSlFGlZUt-GIrP0pvvWyhOdbYnJUWUhOlbFSnEFZZSU-8eoRMUKN_uPe5iWm3uLEd9AZ0IBuLyq45J24sukpYfzzPWbwIRJC5jF3kIM2pqk_JsNHWNhwdFF0EVHK4Q3yhvxjr-lQLMJKXEOsCkkwbEzdkTKKqOkqlOaKaS3DRzYwfKEZNY72QqBqqzQv24LCEGsRq2PDCxU6uPYSagr3NLOXcK1C5Stse-6TWz-rbl3h_sONgJkbAFj2XWYYxuX-wj1tHEhPP2v5f1B7jt4GCsD--nO52tu-hRDCTU2CL5DLT5Ts-LW-c-yBtYa17a9dIfNaHViG1kLs53uC6kqAxTOI7yax9ICctmshWJsQxr49ekRTEMRz5rtr_-eB2yy7XGWTdZTBuY9AAVWSk4",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Daniela Yanac",
+     "uri": "https://maps.google.com/maps/contrib/106559839813207798553",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeH0h0HLxjqkcLAv6XokbES7_FmdG9jFIqQmsoKylMKpUtVl29pg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADyc5UEDMeUGfY7m4ACtI_&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADyc5UEDMeUGfY7m4ACtI_!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMbmPQnnncYtlFry_aKbAAV7y1eqoFdu5Q2CgHo8G7sgRRHAxClDujHkP0n-LIuMo7ZfpD3XlWg8rJ73AxHlFddrc--zSC81wQmd5tmdZkx6DE5cPTa5LUIzMLkAmd3wvXMOAh7Cn-3CRx9GGc8C9W5hS6dAEojs8P-twhvkch5WVSqiTxSD40xRIU71xp7ezRVFf-ATBt3YZLP6qtoo6IRIgl8F08lftVRvuDXFjLvcfKzkyjtsO1DTSJsj3Oj1Sius9yC2ClzJ8ZRl3iE0VM8gC-ZSP8lBTrXgw_-X2UAz5Kg5KALp5rHXin32oEDen7LoP-Yus8zIGtfVPodKKZ94rr_Xdfdghqz7g50j-9KqaD8pKJEb2ybSTvgSZDGtsCFuWeDdngzcs7uZe8e6QEySz05PO2AT7LmPCv6e-FjEObl5sei-2Ou1_VNkTOO7",
+   "widthPx": 1200,
+   "heightPx": 1600,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria VETERKAT",
+     "uri": "https://maps.google.com/maps/contrib/101224666800754626251",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgzOfWvT6NnkX99c0yQoWKeoCAf5-oTJ5vNDhoY6yb4YtbKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzJznWmGfQbjMADWHB&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzJznWmGfQbjMADWHB!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMYIT8OZKbEv-9Lsrw_8RYRXlrWpIy2fhUFTQvpsw7JtZ2qSvjgS5l0x3z_usukpAekQaa6R1iq3PaJo4Ux8Bdy7tcme6rRk8Z0TYY5IyVJKBKqCnjv1JfQJluQ_NL0DKNfEFWsTQrkGsFoS37wJikCiAAIwAOKjIhSujsQPMoGZtNFzJJEtloGRq19T3t-3vFwsgSaRabGDXil3TUA-VL4Ic6uO3Qpxnrls-NjffJudNe_KIIcRmxDZZmtT7qOfO5p5UNg1m3qCralxh1H-4kSFSHABwb7a_KgFg2mQRpkNCbvFC5iR6TaCwLWPHWgioHRlyifPg-y-Ql6w8wr4CKG-7TYgNVD-D5JoHRN9FvPcgMTekUWYb7_XPsExztwh0mnRJrqml7bcDuOPJgewbI6En6w0oUQ4095oWvSUB3FWtSwmG31To8dBDGFKeQ",
+   "widthPx": 1280,
+   "heightPx": 960,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria VETERKAT",
+     "uri": "https://maps.google.com/maps/contrib/101224666800754626251",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgzOfWvT6NnkX99c0yQoWKeoCAf5-oTJ5vNDhoY6yb4YtbKQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDS_LOrW8XeZUZ2axU9F1zh&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDS_LOrW8XeZUZ2axU9F1zh!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  },
+  {
+   "name": "places/ChIJZUWNUwDFBZERBexkkyZwKkw/photos/Aa-ngMZ7WJLkyHV2XXXdSDPWP9uygaPBOSmc9EeYuTpor2-GHCinsZqSlxcHCD8_iuPhO3t0du25x07U5r85wfEAZDZYal4aJA6rRsB7U12vR9WezjFaTbSle2EM4DKO9Mr8O8x77RCZoulQTvJxeczurX_6H8syVH9unMgGsz4UptZGnLxvZrAmW4W_Gcotcr46d2WhlSu5JYOf9JXBJ6cJLyzPPGUY8EgyaLAhsu1gdiSyQwXJpETFhQAElFS_f8rvOGKjFV5Uuo2VM4WBbOb8Bq9p7qpNEPHIkoShFGm5nfpweXxrot6ZIvaJMYcNDWsgOcXs2j7DQNKaI_JHehxN6D4ob1X6iY-MapINdNpIipb-dFtUsb1yDi8RUY2okLhNTq7v9-BJ6U89q9qMzvfLauRCm_gDQt4bGqufpFCEZH3rfgFYjEAu5T0u6pYzgSPe",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Daniela Yanac",
+     "uri": "https://maps.google.com/maps/contrib/106559839813207798553",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeH0h0HLxjqkcLAv6XokbES7_FmdG9jFIqQmsoKylMKpUtVl29pg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhADycKzmi-qMGfY7mgAA5c3&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhADycKzmi-qMGfY7mgAA5c3!2e10!4m2!3m1!1s0x9105c500538d4565:0x4c2a70269364ec05"
+  }
+ ],
+ "parkingOptions": {
+  "freeStreetParking": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleSeating": true
+ }
+}

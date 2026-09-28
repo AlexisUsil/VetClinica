@@ -9,7 +9,7 @@ import { Slider } from '@/components/ui/slider'
 import { Button } from '@/components/ui/button'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'
 import { cn } from '@/lib/utils'
-import { GENERATED, NON_CLINICS } from '@/data/dash'
+import { BUFFER_N, GENERATED, NON_CLINICS } from '@/data/dash'
 import type { Place } from '@/data/types'
 import { fmtN, isNum, shortChain, shortD, slug, trunc } from '@/lib/format'
 import type { Scope } from '@/lib/logic'
@@ -58,20 +58,21 @@ export function Directory({ S }: { S: Scope }) {
   const [only24, setOnly24] = React.useState(false)
   const [onlyEm, setOnlyEm] = React.useState(false)
   const [inclNon, setInclNon] = React.useState(false)
+  const [inclBuf, setInclBuf] = React.useState(false)
   const [chain, setChain] = React.useState<'all' | 'chain' | 'indep'>('all')
   const [minR, setMinR] = React.useState(0)
   const [sorting, setSorting] = React.useState<SortingState>([{ id: 'reviews_count', desc: true }])
   const [open, setOpen] = React.useState<Set<string>>(new Set())
   const [pagination, setPagination] = React.useState({ pageIndex: 0, pageSize: 10 })
 
-  const base = inclNon ? S.Pall : S.P
+  const base = React.useMemo(() => [...(inclNon ? S.Pall : S.P), ...(inclBuf ? (inclNon ? S.Ball : S.B) : [])], [S, inclNon, inclBuf])
   const rows = React.useMemo(() => {
     const qq = q.trim().toLowerCase()
     return base.filter(p => (!qq || String(p.name || '').toLowerCase().includes(qq)) && (!only24 || p.is_24h) &&
       (!onlyEm || p.emergency === true || (p.is_24h === true && p.emergency !== false)) &&
       (chain === 'all' || (chain === 'chain' ? !!p.chain : !p.chain)) && (minR <= 0 || (isNum(p.rating) && p.rating >= minR)))
   }, [base, q, only24, onlyEm, chain, minR])
-  React.useEffect(() => { setPagination(p => ({ ...p, pageIndex: 0 })); setOpen(new Set()) }, [S.district, q, only24, onlyEm, inclNon, chain, minR])
+  React.useEffect(() => { setPagination(p => ({ ...p, pageIndex: 0 })); setOpen(new Set()) }, [S.district, q, only24, onlyEm, inclNon, inclBuf, chain, minR])
 
   const columns = React.useMemo<ColumnDef<Place>[]>(() => [
     { id: 'name', header: 'Nombre', accessorFn: p => (p.name || '').toLowerCase(), sortDescFirst: false, meta: { cls: 'min-w-56' },
@@ -80,10 +81,10 @@ export function Directory({ S }: { S: Scope }) {
           <ChevronDown className={cn('mt-0.5 size-4 shrink-0 text-muted-foreground transition-transform duration-200', o && 'rotate-180')} />
           <span className="min-w-0">
             {p.maps_url ? <a href={p.maps_url} target="_blank" rel="noopener" onClick={e => e.stopPropagation()} className="font-medium hover:text-[#0F766E] hover:underline">{p.name}</a> : <span className="font-medium">{p.name}</span>}
-            <span className="mt-0.5 flex flex-wrap gap-1">{p.chain && <Pill tone="teal">{shortChain(p.chain)}</Pill>}{p.is_clinic === false && <Pill tone="bad" icon={<TriangleAlert />}>No es clínica</Pill>}<span className="text-[11px] text-muted-foreground md:hidden">{shortD(p.district)}</span></span>
+            <span className="mt-0.5 flex flex-wrap gap-1">{p.chain && <Pill tone="teal">{shortChain(p.chain)}</Pill>}{p.is_clinic === false && <Pill tone="bad" icon={<TriangleAlert />}>No es clínica</Pill>}<span className="text-[11px] text-muted-foreground md:hidden">{shortD(p.district)}{p.zone === 'buffer' ? ' · vecina' : ''}</span></span>
           </span>
         </span>) } },
-    { id: 'district', header: 'Distrito', accessorFn: p => p.district, sortDescFirst: false, meta: { cls: 'hidden md:table-cell whitespace-nowrap' }, cell: ({ row }) => shortD(row.original.district) },
+    { id: 'district', header: 'Distrito', accessorFn: p => p.district, sortDescFirst: false, meta: { cls: 'hidden md:table-cell whitespace-nowrap' }, cell: ({ row }) => row.original.zone === 'buffer' ? <span className="text-muted-foreground">{shortD(row.original.district)} · vecina</span> : shortD(row.original.district) },
     { id: 'rating', header: 'Rating', accessorFn: p => u(p.rating), sortUndefined: 'last', meta: { cls: 'whitespace-nowrap' }, cell: ({ row }) => <Stars r={row.original.rating} size={11} /> },
     { id: 'reviews_count', header: 'Reseñas', accessorFn: p => u(p.reviews_count), sortUndefined: 'last', meta: { cls: 'text-right tabular-nums', num: true }, cell: ({ row }) => fmtN(row.original.reviews_count) },
     { id: 'is_24h', header: '24h', accessorFn: p => (p.is_24h ? 2 : 0) + (p.is_24h_google ? 1 : 0), meta: { cls: 'hidden sm:table-cell' }, cell: ({ row }) => <Badge24 p={row.original} /> },
@@ -100,7 +101,7 @@ export function Directory({ S }: { S: Scope }) {
 
   const exportCSV = () => {
     const P = table.getSortedRowModel().rows.map(r => r.original)
-    const cols: [string, (p: Place) => unknown][] = [['Nombre', p => p.name], ['Distrito', p => p.district], ['Es clínica', p => (p.is_clinic === false ? 'No' : 'Sí')], ['Dirección', p => p.address], ['Rating', p => p.rating], ['Reseñas', p => p.reviews_count],
+    const cols: [string, (p: Place) => unknown][] = [['Nombre', p => p.name], ['Distrito', p => p.district], ...(inclBuf ? [['zona', (p: Place) => (p.zone === 'buffer' ? 'vecina' : 'core')], ['Distrito cercano', (p: Place) => p.near_district], ['Km al límite', (p: Place) => p.border_km]] as [string, (p: Place) => unknown][] : []), ['Es clínica', p => (p.is_clinic === false ? 'No' : 'Sí')], ['Dirección', p => p.address], ['Rating', p => p.rating], ['Reseñas', p => p.reviews_count],
       ['24h confirmado', p => (p.is_24h ? 'Sí' : 'No')], ['24h según Google', p => (p.is_24h_google ? 'Sí' : 'No')], ['Emergencias', p => (p.emergency === true ? 'Sí' : p.emergency === false ? 'No' : '')], ['Ticket S/', p => p.ticket], ['Base ticket', p => p.ticket_basis],
       ['Consulta S/', p => p.consult_price], ['Segmento', p => p.segment], ['Cadena', p => p.chain], ['Reputación social', p => (p.social_reputation === 'Sin datos' ? '' : p.social_reputation)],
       ['Teléfono', p => p.phone], ['Web', p => p.website], ['Instagram', p => p.instagram], ['Facebook', p => p.facebook], ['TikTok', p => p.tiktok],
@@ -133,6 +134,7 @@ export function Directory({ S }: { S: Scope }) {
             <div className="flex flex-wrap items-center gap-x-4 gap-y-3 text-[13px]">
               <label className="flex cursor-pointer items-center gap-2"><Switch checked={only24} onCheckedChange={setOnly24} />Solo 24h</label>
               <label className="flex cursor-pointer items-center gap-2"><Switch checked={onlyEm} onCheckedChange={setOnlyEm} />Emergencias</label>
+              {BUFFER_N > 0 && <label className="flex cursor-pointer items-center gap-2"><Switch checked={inclBuf} onCheckedChange={setInclBuf} />Incluir vecinas</label>}
               {NON_CLINICS > 0 && <label className="flex cursor-pointer items-center gap-2"><Switch checked={inclNon} onCheckedChange={setInclNon} />Incluir no clínicas</label>}
               <Select value={chain} onValueChange={v => setChain(v as typeof chain)}>
                 <SelectTrigger className="h-9 w-36" aria-label="Cadena o independiente"><SelectValue /></SelectTrigger>

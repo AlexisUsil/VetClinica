@@ -1,0 +1,412 @@
+{
+ "id": "ChIJB3EaABPJBZERgcX61tjrhFs",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "947 012 720",
+ "internationalPhoneNumber": "+51 947 012 720",
+ "formattedAddress": "C. Víctor Alzamora 208, Surquillo 15048",
+ "addressComponents": [
+  {
+   "longText": "208",
+   "shortText": "208",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Calle Víctor Alzamora",
+   "shortText": "C. Víctor Alzamora",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urb Casa Huerta",
+   "shortText": "Urb Casa Huerta",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Surquillo",
+   "shortText": "Surquillo",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15048",
+   "shortText": "15048",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1131789,
+  "longitude": -77.01262679999999
+ },
+ "rating": 3.8,
+ "googleMapsUri": "https://maps.google.com/?cid=6594655070929470849&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 12,
+     "minute": 30
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–12:30",
+   "martes: 8:00–16:00",
+   "miércoles: 8:00–14:00",
+   "jueves: Cerrado",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–14:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T17:30:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 4,
+ "displayName": {
+  "text": "Doctor Skin",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 12,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 16,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 14,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–12:30",
+   "martes: 8:00–16:00",
+   "miércoles: 8:00–14:00",
+   "jueves: Cerrado",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–14:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T17:30:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "C. Víctor Alzamora 208, Surquillo",
+ "reviews": [
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GdGJ6Qm5PREV0U1dKVFdFOVNRMWxYWTFkM04wRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 5,
+   "text": {
+    "text": "Una nueva opción para llevar a bañar a tus perrijos, lo mejor que puedes quedarte y ver como lo bañan. También se especializan en dermatologia y otras áreas.\nAdemás de una excelente atención y mucha paciencia con los animales 🐕♥️💚🐾",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Una nueva opción para llevar a bañar a tus perrijos, lo mejor que puedes quedarte y ver como lo bañan. También se especializan en dermatologia y otras áreas.\nAdemás de una excelente atención y mucha paciencia con los animales 🐕♥️💚🐾",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Vivian Dumbobambi",
+    "uri": "https://www.google.com/maps/contrib/104448276719994217997/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqtnBtTiZ-2fAvRdZEK4BygKjaD-007y6J7Wh3O2SkFsWsHvs=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2026-07-10T15:52:50.423400928Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GdGJ6Qm5PREV0U1dKVFdFOVNRMWxYWTFkM04wRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdGJ6Qm5PREV0U1dKVFdFOVNRMWxYWTFkM04wRRAB!2m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  },
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRlVtWkdXamRKVWtoUVkwWldNalUxZHpBNVZsRRAB",
+   "relativePublishTimeDescription": "Hace 2 meses",
+   "rating": 1,
+   "text": {
+    "text": "Horrible atención habíamos agendado hoy una cita a las 11am llegamos y nos dice que va a demorar 40min y aún así íbamos a esperar hasta que el tipo, que baña, nos dice que podía demorar hasta más, y el motivo fue porque el chico había llegado tarde, SITIO POCO SERIO y la verdad no nos gustó el ambiente, ni la personas que estaba bañando a los perros, me lleve a mi perrita no me dio seguridad",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Horrible atención habíamos agendado hoy una cita a las 11am llegamos y nos dice que va a demorar 40min y aún así íbamos a esperar hasta que el tipo, que baña, nos dice que podía demorar hasta más, y el motivo fue porque el chico había llegado tarde, SITIO POCO SERIO y la verdad no nos gustó el ambiente, ni la personas que estaba bañando a los perros, me lleve a mi perrita no me dio seguridad",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Ana Aliaga",
+    "uri": "https://www.google.com/maps/contrib/105518275821726955322/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOr2Ozqev0PaKjptHouCP1icjSfm5biw61bcRlbla9gkJIhfbNSg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-07-24T16:26:47.015962541Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGRlVtWkdXamRKVWtoUVkwWldNalUxZHpBNVZsRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRlVtWkdXamRKVWtoUVkwWldNalUxZHpBNVZsRRAB!2m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  },
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Wk1XeFZOV3N4UW13eVJ5MUNUekZ1ZVRaNlprRRAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "valeriaastep",
+    "uri": "https://www.google.com/maps/contrib/106490314194786994477/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXb_guHUHvNF0YnJpc3f9pNaZ6YtRd6jlQgxUYg5MXiLupBNbTrQA=s128-c0x00000000-cc-rp-mo-ba5"
+   },
+   "publishTime": "2026-04-23T02:43:39.278407664Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4Wk1XeFZOV3N4UW13eVJ5MUNUekZ1ZVRaNlprRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4Wk1XeFZOV3N4UW13eVJ5MUNUekZ1ZVRaNlprRRAB!2m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  },
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBMFVVWkViVkF0TkRFMmJrOWtOemMxTXpjM1gzYxAB",
+   "relativePublishTimeDescription": "Hace 5 meses",
+   "rating": 4,
+   "authorAttribution": {
+    "displayName": "Gleiberth Ysea",
+    "uri": "https://www.google.com/maps/contrib/109587961394267791748/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUViPlZzI7_Pex7Ju3_I-jLCqb_TrgvdFUSiTNVRX3Ecv35_6bR0Q=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-04-20T19:50:04.768362308Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBMFVVWkViVkF0TkRFMmJrOWtOemMxTXpjM1gzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBMFVVWkViVkF0TkRFMmJrOWtOemMxTXpjM1gzYxAB!2m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/photos/Aa-ngMb6d3ulrfdVZG1icskHSIAJxFCGAt2mZqpaUZ47KbZ2JkNQHk-VxUDHSl-gIYmU59unn9DUIH0PF-yfBAfBxuZ1ftqdNd-mXm1DECQMIgNnaur6TUZZqAUoB4VZn6yky1dcBIDhhUVtaG-6stq6JTgXPbfKRbEQg-L7eH8SwuLtUHeQgE0vj7tKDyA-mDeS36Gp1J8TmVkX2VZAAKxLSPv4Apq5TQvKCQs3KCRTkMp4TI4RHbGqvx8Q-z1cs2DRdOSTmnqTUfji-OdXag5TxjtbDl7aEuCYnyfT_9wfhL9zutLGgKELTZrbf8uUjB_pnHW-cUOjmqcekAXHPd6F_XCGcexvStaxpwoHKHP2i3zBojnw3uVN3G-lID35I5o6_tUDGsr_tUUgT3AG9F-LbKWOqZnz5ml_7rSuFdWWrgES",
+   "widthPx": 3840,
+   "heightPx": 2160,
+   "authorAttributions": [
+    {
+     "displayName": "Doctor Skin",
+     "uri": "https://maps.google.com/maps/contrib/105670083332491300981",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLcmfRS7tD0HzwXkL2JUO80XgYvttgruBk1u5CARw_ayMjIg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCsefEO5KpzIwdHMSVKjzy-&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCsefEO5KpzIwdHMSVKjzy-!2e10!4m2!3m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  },
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/photos/Aa-ngMZTtbdmvA3SnNhn3degJeujkP8CmH51IUjyscRcqk374Vw5lc0UjH6KgOW5qEB--oxpxy7tqb1WRtsl6pTShA_m16e1IF6V5qUj3_tWZYMqwO29fJAB1bZpboV7MUXh-bihs1ROj5zP1ibss84XJDUH9WBGvBOyAZGbbSyja7Eq5VxkmJd4qfz8IkXjzOmcTjZn18C6fPfYN9n-SnrgIfIWWKX1Ab1zBtN0x0EpJGDlml2NHQj0odjcBbbaocfZYjRtAZlPy8SGrF-jM_zM-Xd1m7S6YFl9N-Vpbx4UCvEApV2bDXeOKXn0XNXEbG1s1H8ZcJ52ay_6DMplyke9I6oREJju5JNTBxLHSukjhc-1c-EnRvEIa-ECD4SsOZWkV5Euu38eBfiu40nxY7_tKC4G-qgtkFlFKsBTFs4sFkQL_A",
+   "widthPx": 3000,
+   "heightPx": 4000,
+   "authorAttributions": [
+    {
+     "displayName": "Vivian Dumbobambi",
+     "uri": "https://maps.google.com/maps/contrib/104448276719994217997",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqtnBtTiZ-2fAvRdZEK4BygKjaD-007y6J7Wh3O2SkFsWsHvs=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCZYdnaHA1LEqy9FJFr-4jk&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCZYdnaHA1LEqy9FJFr-4jk!2e10!4m2!3m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  },
+  {
+   "name": "places/ChIJB3EaABPJBZERgcX61tjrhFs/photos/Aa-ngMYp_bM2yGckc0eE9-bAy4bxMy48l0apUdpkFNImpj9oTYhDmLXGRW5e96KcfklnLu7_X3cuffqO2Nv8gqkEwHc_UCbySYj2w98yEf9gW-Vm1lV7eIvIuWjM1pn4vBbdV6vxqDZEisivcljIkvlCIUyD_aHh6rK01ttGUNQpwyMiZZ-vzVO2_xqLX2H9MOGbilUYz_a0373-qfIxpHVRIwV1vetTU9ctE4n9FEwPFJPyBzRsEYormYpJC7sQ4IABAtuvx6Nte402XbvVkdxxtYvYLDRSuaWguyhzXxg_TEqQMYJrIVTu14jOHaddSUGTDiDaK3420LCUm1zMSJgeFDAsHoFaky_D0gupRrBY5a9VhqZCyNYNOk6if_-a6WEWWx2qpnVv8TqLA6Akz1gyijX_rVKxjVFV-Sj8176Du-wm",
+   "widthPx": 1024,
+   "heightPx": 1024,
+   "authorAttributions": [
+    {
+     "displayName": "Doctor Skin",
+     "uri": "https://maps.google.com/maps/contrib/105670083332491300981",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKLcmfRS7tD0HzwXkL2JUO80XgYvttgruBk1u5CARw_ayMjIg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDey20qrwhutEWpXPFolGmq&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDey20qrwhutEWpXPFolGmq!2e10!4m2!3m1!1s0x9105c913001a7107:0x5b84ebd8d6fac581"
+  }
+ ]
+}

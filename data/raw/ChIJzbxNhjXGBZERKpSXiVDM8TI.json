@@ -1,0 +1,540 @@
+{
+ "id": "ChIJzbxNhjXGBZERKpSXiVDM8TI",
+ "types": [
+  "pharmacy",
+  "veterinary_care",
+  "store",
+  "health",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "952 613 717",
+ "internationalPhoneNumber": "+51 952 613 717",
+ "formattedAddress": "Jr, Hualgayoc 102, Lima 15021",
+ "addressComponents": [
+  {
+   "longText": "Jr",
+   "languageCode": "es"
+  },
+  {
+   "longText": "102",
+   "shortText": "102",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Hualgayoc",
+   "shortText": "Hualgayoc",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Cahuache",
+   "shortText": "Cahuache",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15021",
+   "shortText": "15021",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0801226,
+  "longitude": -76.9876436
+ },
+ "rating": 4.4,
+ "googleMapsUri": "https://maps.google.com/?cid=3670939817561527338&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 32,
+ "displayName": {
+  "text": "Convet - Hualgayoc",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 30,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:30–19:00",
+   "martes: 8:30–19:00",
+   "miércoles: 8:30–19:00",
+   "jueves: 8:30–19:00",
+   "viernes: 8:30–19:00",
+   "sábado: 8:30–19:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "pharmacy",
+ "shortFormattedAddress": "Jr, Hualgayoc 102, Lima",
+ "reviews": [
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/reviews/ChZDSUhNMG9nS0VJQ0FnSURxd2JhbFZ3EAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Excelente variedad y muy buenos precios en productos para nuestras mascotas, alimentos,  medicina, tratamientos,  antipulgas... etc",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente variedad y muy buenos precios en productos para nuestras mascotas, alimentos,  medicina, tratamientos,  antipulgas... etc",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Patricia Carrasco",
+    "uri": "https://www.google.com/maps/contrib/101878896959564042547/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvLjGRoNOe1x9zQD1E9J4IgkBKguAI_0P5uYihCIQQw7K4LQ=s128-c0x00000000-cc-rp-mo-ba4"
+   },
+   "publishTime": "2021-07-10T17:27:51.345102Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURxd2JhbFZ3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURxd2JhbFZ3EAE!2m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/reviews/ChdDSUhNMG9nS0VJQ0FnSURieEpxOHpRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Productos variados para mascotas a precios Estandar",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Productos variados para mascotas a precios Estandar",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "pb",
+    "uri": "https://www.google.com/maps/contrib/102697741808787258729/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4XrGt1jdt9e_pBVg4UmcG4JBUKntT06coqtPRrf8Ru-2NUO0=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-08-02T03:55:42.247587Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURieEpxOHpRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURieEpxOHpRRRAB!2m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5blpmUlZnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Buen servicio, muy buenos precios.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buen servicio, muy buenos precios.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "LACL",
+    "uri": "https://www.google.com/maps/contrib/115412633483086295540/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtrGIaocMc0gmqdGN6c1k_UngD3F-1sOoBVVmgb69g9tzSGm4I=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2021-02-09T20:28:26.589456Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5blpmUlZnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5blpmUlZnEAE!2m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aE9YZ1FnEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Buenos precios",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Buenos precios",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Acaeni Cristine Guimaraes",
+    "uri": "https://www.google.com/maps/contrib/104706794778598022603/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbUUIMJ5KvrrMRaQWIdPJ-8ek6bthCErAUVwDvWmk6-zNF4cozYQ=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2024-03-02T01:44:51.441589Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM5aE9YZ1FnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5aE9YZ1FnEAE!2m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVenJ5eFBBEAE",
+   "relativePublishTimeDescription": "Hace 7 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Lya Mirella",
+    "uri": "https://www.google.com/maps/contrib/103679504768845078780/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpQUrhqzDniMtT-sDSvVhTIb_7P7nXjElTDsF4qeimqt-eprWAZA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2019-07-23T22:12:58.979480Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNVenJ5eFBBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNVenJ5eFBBEAE!2m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMaoIGCj-YM6fgITjxEESm0uwOP135W6fwRilc7HqIK7E61uPOYlVf10YUuiw-4metcR9668eYh5NKbIL9QzJWk1DyQh5nwmQyYi3mRyOlqspCjGBvIFVkvyU5i-fHmoF8qParg6XGVRm-qiGmAs_n5drXjyxKa-CCXK9Yn7LfdkBMLfLawBNKRnssN2ZtZH1OiMxNyk-XSSuT_a15LerhLwfn3y3zGna2Q17dk4d0v5Ke94K9dyX_c4okFETlSkPA7XkKdvPYK4gQUVcqmyupFFzHeRyj4s69eW_pJmkasMT1XVJaw4toyyyiufFYyyQGQEL6BIp7V9aBW-mCtAhkL4BjnTUHU1TNTFr8Ty_-v5RUoH4y-Jxbgo1HHtaQ21A7UnJqwTrWhbLseTj9E78Y1NjXc",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Hualgayoc",
+     "uri": "https://maps.google.com/maps/contrib/108975584776296398820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87O37RXK6VhVPYMlEuv9zlk_CVDr6rG_J27RoTZorq0PCPoQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC63LT6Cg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC63LT6Cg!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMbKsS_iXN6bWepgY87BOHjTSYP6SkqwUtfvVgx1njM__V15FWIebHxYyAEDrULjQJwEd6QHg58P_se-v8Bi-om7X_eFILklh2OH1MvePuEOI2Q4RaxwXNFkQPrQIXfZude9JJj29u7LT3QPKRNS1J_gX6E5M9qft6ns0syhedD250AX_70fHi5a_e8EELaCadJEwhjynxmxKFG44l1U2bfnogZPGUWjaaJ3LX7iIaK7IjLZM_XYTVsk2zp1ZHe8F_TZfpQi_OB1RDS0fa8E1kd7rjDRNWroEzxplrI09cFydkj2VCK0vBzMPtoECOQXRvA5qYeIm3L1xIeURhdw1x9F5evW9vhIxrJEVPDcVb_f08LxJi5523jl5bGH9IXlIEasHVxNQ4mR5cKT3RpZl3TENg",
+   "widthPx": 2219,
+   "heightPx": 1654,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Hualgayoc",
+     "uri": "https://maps.google.com/maps/contrib/108975584776296398820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87O37RXK6VhVPYMlEuv9zlk_CVDr6rG_J27RoTZorq0PCPoQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8uaqbKg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8uaqbKg!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMbM54ylo2GZdcNLrMOullvxVSeCMKZIfpKjm2ZWAkAEs6yFXwctIK-hAxk-NG8ZxUsF_6fu74ZNM10lRn-NuvffEaepcnZ3I_kGRFIHUzSRx2jXcomEI7i0rRytQJpxm4fWZo4QBXwA5vFtIQKjiTVLW9U9KGz6BG0Su7ipvL5XbtsCCYs87PdapamYwOObAutBK752NAFRwoCcyuw2FkAOi5osv3PP-Ur1c-FAxpUyGIpe3o14z57FnmQWt1v6teWb9wssS4LbABH6LqEOjWfIRlVNt0MjFZ6UJLFBncZhFYydFPaQ4wYrsi-13VQ63wkfgePACWUOEWFehYPgh4I5L8M-WnjjigFaZu9Ry49l3kaBYiNr2fcOtscAN5qRSobSzpPlie0NleNetp7CWM7uwl085ns",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Patricia Carrasco",
+     "uri": "https://maps.google.com/maps/contrib/101878896959564042547",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvLjGRoNOe1x9zQD1E9J4IgkBKguAI_0P5uYihCIQQw7K4LQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDqv5fThwE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDqv5fThwE!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMZPhBg39JW5gfomS93_f5RnS9wUEjGM2w3HKUJUtGd6fCjI-RywcZQ_y7d4YDedPXMmAHVPX5Usr2nLM4Ol7y0mFgNCygyLOSnya95f5AC8s2JLh5feD35SXnZLmkAY_6U5YWwudI4D9UquAP4I00q31PyvBo_ul3yqI-MVpi0cv4_IAQSaSJioh9vUup627xU75lWqaap_EABJPVd3GaI0xFbcyOnh0IjybrS0lcQ9LWpMzqjCSfJDEHfYKTGlFazpuH58SyAWjLz1xTwruQEYM0VeGFU_k8_1AwMysL7nUPDaEBfyGRG2nkqs7390w4ov00_4svck7wEzdzAxoWdYFa2Cyyedb0ycfD_20Lu3N9ZFIXzb94D9-7KQ0r-0g47eBIGtCtLd5So39px9kTsliIlGno4",
+   "widthPx": 720,
+   "heightPx": 916,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Hualgayoc",
+     "uri": "https://maps.google.com/maps/contrib/108975584776296398820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87O37RXK6VhVPYMlEuv9zlk_CVDr6rG_J27RoTZorq0PCPoQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8uaqbygE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8uaqbygE!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMaWx8wqrHgbd2F00gaqkviwiVT4v4JSfY2phPQzPKwEQjp0MrLzfnU8rf9Z-UWxhdVa5tYRfu8CwQdIw2w0jtuDFkec5zMuPzP3XBLrAHbfjaKxRmcZLJ7BRQIVEmHu4EP4vis-VQt3TXUdfEJzOxKEGFVxr3ms05Sf2Hy75sKak_0sw0sep00cf2gd4ng9QctDrq42jz7EUtBhAnNe3_SliRRBWHdxHJU2T9eGyzL4VTHnrkyi7nmiCa7LZ1_vcp5nPmGHajp6-CnRy8xsIV-jP3bOypZeo2uccMm5BVyaX390OfVeL9JGTU1nOMukHjqPsalQelmF4bKh5es18vnO5Gx5ENDymf9vZvODH6ZDo8EZv9CwNy1YuXq4yWuNepLo92M8-jchGx54QYGplEfAaizZ",
+   "widthPx": 600,
+   "heightPx": 600,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Hualgayoc",
+     "uri": "https://maps.google.com/maps/contrib/108975584776296398820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87O37RXK6VhVPYMlEuv9zlk_CVDr6rG_J27RoTZorq0PCPoQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDSr_b67gE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDSr_b67gE!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  },
+  {
+   "name": "places/ChIJzbxNhjXGBZERKpSXiVDM8TI/photos/Aa-ngMbKJ_P4fYA1VaRoA3lYYiKd7F5U8YrcsO-jyv-P71Izdetvgj-sCD8TjGjY6ccm14vuhPvvIlpFa01K0wtIY1Mq3fgte_QZNjBIDmFZutQUn9roTtq97v5zbH_t74c8CVIOXQibuV8956G4BrwECUofw2CC2d2iHvgr27MaII_8LLfLkjBuXB18_OW1ahn4hpQKI0tC6SWC_zo_m-_85jDVK18a1QN7N8Ymca1HdrvLq2zHmn4XqL3k9YOPxrbSbyvam45wVKmipC_Q8scm9PqtTj5ifVYOiKJGA96xqToXaRQlQLJWuWLB7R-nHHjGxmH-_gNFV4WXTbfLF9ZIrWhIWNP7PcdZGCVp3abQxZIXAGkiyW63d_atWooqnUjdt7gGsHvQE1ze3O27C4o8LmggHcE",
+   "widthPx": 1928,
+   "heightPx": 1981,
+   "authorAttributions": [
+    {
+     "displayName": "Convet - Hualgayoc",
+     "uri": "https://maps.google.com/maps/contrib/108975584776296398820",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87O37RXK6VhVPYMlEuv9zlk_CVDr6rG_J27RoTZorq0PCPoQ=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIC8uaqbSg&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIC8uaqbSg!2e10!4m2!3m1!1s0x9105c635864dbccd:0x32f1cc508997942a"
+  }
+ ],
+ "paymentOptions": {
+  "acceptsCreditCards": true,
+  "acceptsDebitCards": true,
+  "acceptsCashOnly": false,
+  "acceptsNfc": true
+ },
+ "accessibilityOptions": {
+  "wheelchairAccessibleEntrance": true
+ }
+}

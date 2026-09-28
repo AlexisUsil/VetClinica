@@ -1,0 +1,483 @@
+{
+ "id": "ChIJV0yj09THBZERHdLUz0gBxGY",
+ "types": [
+  "pet_care",
+  "veterinary_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "nationalPhoneNumber": "994 214 400",
+ "internationalPhoneNumber": "+51 994 214 400",
+ "formattedAddress": "Av. Caminos del Inca 2763, Santiago de Surco 15039",
+ "addressComponents": [
+  {
+   "longText": "2763",
+   "shortText": "2763",
+   "types": [
+    "street_number"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Caminos del Inca",
+   "shortText": "Av. Caminos del Inca",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Residencial Montecaoba",
+   "shortText": "Residencial Montecaoba",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Santiago de Surco",
+   "shortText": "Santiago de Surco",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15039",
+   "shortText": "15039",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.1386638,
+  "longitude": -76.98413839999999
+ },
+ "rating": 4.2,
+ "googleMapsUri": "https://maps.google.com/?cid=7405045099540042269&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 14,
+ "displayName": {
+  "text": "Veterinaria Las Gardenias",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 19,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 6,
+     "hour": 8,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    },
+    "close": {
+     "day": 6,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 8:00–19:00",
+   "martes: 8:00–19:00",
+   "miércoles: 8:00–19:00",
+   "jueves: 8:00–19:00",
+   "viernes: 8:00–19:00",
+   "sábado: 8:00–18:00",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-29T00:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "Av. Caminos del Inca 2763, Santiago de Surco",
+ "reviews": [
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcUxWbEhkM0JxT1hWMU5uQjRMVTlhYjNvemJFRRAB",
+   "relativePublishTimeDescription": "Hace 6 meses",
+   "rating": 1,
+   "text": {
+    "text": "Para cortar el pelo de mascotas pésimo\nYo no vuelvo a llevar a mis perros a ese lugar",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Para cortar el pelo de mascotas pésimo\nYo no vuelvo a llevar a mis perros a ese lugar",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Yuler Concepcion",
+    "uri": "https://www.google.com/maps/contrib/113036804954240399748/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrkOH9Dzz-o2nJyxNocRE9wYkviOrtzWgU8Hz7aTM7reJTiw=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2026-03-18T22:36:09.333977317Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCcUxWbEhkM0JxT1hWMU5uQjRMVTlhYjNvemJFRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCcUxWbEhkM0JxT1hWMU5uQjRMVTlhYjNvemJFRRAB!2m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6eFBPX2NBEAE",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "El Dr Jorge Chucan curó a mi Westie de la piel  y de los oidos en pocas semanas, despues de haber pasado por varias  veterinarias varios años sin resultados favorables . Gracias Dr Jorge!",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "El Dr Jorge Chucan curó a mi Westie de la piel  y de los oidos en pocas semanas, despues de haber pasado por varias  veterinarias varios años sin resultados favorables . Gracias Dr Jorge!",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Carola Navarro",
+    "uri": "https://www.google.com/maps/contrib/104547046516880962091/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJU67bvmiuu_LnjS1IRTlsgoPFdQ0fn0I_adYtuESfFfqs1VQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-05-30T23:38:23.629881Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6eFBPX2NBEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6eFBPX2NBEAE!2m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyNWNIY3dRRRAB",
+   "relativePublishTimeDescription": "Hace 2 años",
+   "rating": 5,
+   "text": {
+    "text": "Muy buena atención ,el Dr lo máximo 🙂",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Muy buena atención ,el Dr lo máximo 🙂",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Norma Denegri",
+    "uri": "https://www.google.com/maps/contrib/101958920455702292454/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9QcAk2EnK75Nyuhw6ISv89QvUKNhVDEspFYpM4Xtv9W7wbA=s128-c0x00000000-cc-rp-mo-ba3"
+   },
+   "publishTime": "2024-07-09T14:15:43.711506Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNyNWNIY3dRRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNyNWNIY3dRRRAB!2m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMzVPb0V3EAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "text": {
+    "text": "Excelente servicio , 100% recomendado",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Excelente servicio , 100% recomendado",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Gonzalo Alcoser",
+    "uri": "https://www.google.com/maps/contrib/107049453630643056922/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy2xPq2KflHxV0A00gUtcDSh7ooHqfPWLLPM-pBK97wzFELhIksA=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2024-10-22T10:58:00.390298Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMzVPb0V3EAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMzVPb0V3EAE!2m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUGRVZFNOR1JNTkhwM2NUSXhOR2h1VlZOWU5YYxAB",
+   "relativePublishTimeDescription": "Hace 3 meses",
+   "rating": 1,
+   "text": {
+    "text": "NO cuentan con servicio 24 hrs, no hay laboratorio, no hay emergencistas. No saben hacer diagnóstico, ni reconocer cuando un animal necesita internamiento. El resultado de las pruebas demoran  días.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "NO cuentan con servicio 24 hrs, no hay laboratorio, no hay emergencistas. No saben hacer diagnóstico, ni reconocer cuando un animal necesita internamiento. El resultado de las pruebas demoran  días.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "Angie Nikole Benito Santiago",
+    "uri": "https://www.google.com/maps/contrib/117948069525409659030/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIWC_HUMCEciv_aO0tKTjCS9dXMJAi_wmb9Iers7jtUyT8KE0k=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2026-06-24T15:04:56.374480689Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSUGRVZFNOR1JNTkhwM2NUSXhOR2h1VlZOWU5YYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUGRVZFNOR1JNTkhwM2NUSXhOR2h1VlZOWU5YYxAB!2m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/photos/Aa-ngMZ3VWOJh-PjcHMGbj_FhiP94FhleOQekh3QsVhvlIsHrag9lcs_W4r9LB41VwY9KXq7W2aYv3dECSQG21NlEKC6XviX4GJP50PBHO9rZ0j021NQm6jqkDW6_IK7rbRXSzywR-Y07lz11HhJg6MM2P20wNJnnEK4R2EzRXy_XtaWLIux8IedPCx3qT9TJAQ2mpd21B_qy0q8zCg5abuj4yElNtMZ0EhC2ylGso4DLeC6QHIqSjvIvNpS0Jf8T7KxhsqaeiqSf8XNbFbtjCN5Yg4Y3phz6lG7ZRCHk7t7Xxg89SeHfAEu3p5z3oFWbvJjzVYnkTUFTtia2gO-SeG6jL3bSyCYXq4xtQwROYOviU53EpTYWGu8ZKxux1C9sq6yKOfNWNTaGipPYl4qH5Xl78SuoFRP0nE",
+   "widthPx": 4640,
+   "heightPx": 2610,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Las Gardenias",
+     "uri": "https://maps.google.com/maps/contrib/113550475231375909017",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAquRLLFb3BWEI6UOcil1pgH8WyOZJ5WTdW6l-ZolWZvZzTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDpuI-6mAE&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpuI-6mAE!2e10!4m2!3m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/photos/Aa-ngMay981YvaMOJjXwW0dwgLriFFfQoSMCMfF9miKLIIDV_OXNJF6KEvztJMm-2MS_PoMgCTrEfdVUNZ_tJnZ61_OspB2V2PD2xZbFjYuMg5cISQ0dTzBDjTqQfNPhiq2uOo2iam9ViuxFZgT27aRVDQL5lMdC2KgyYGgVFQptbV0p6Cg1Ezkmn6yjpTIe7ijUJ3tcybNDVH1hnAPHI3a1BFBxQMHIOpnXlw4ehKk2FeTtO0hMgyeTwy_bXAVwqmrMCVTScIyjkwx5GbeSEHpcsgJYyl2ecJMD8qOJsA4sS7Nx-7W5WbwI44QhU88ySBKCeGteiRzb4XCLg8y4hMhN8JjQkmiSwUtDkc9KzEfYi0NBfXNIhb4urJblvQeG6fLzQpNOgddml_o2fYryLBJz9TZRQgWrn-dO6NOqvO1MG7UqZQ",
+   "widthPx": 3024,
+   "heightPx": 4032,
+   "authorAttributions": [
+    {
+     "displayName": "Yuler Concepcion",
+     "uri": "https://maps.google.com/maps/contrib/113036804954240399748",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrkOH9Dzz-o2nJyxNocRE9wYkviOrtzWgU8Hz7aTM7reJTiw=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDlTBVYcqjvvzQ7xZVstyim&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDlTBVYcqjvvzQ7xZVstyim!2e10!4m2!3m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  },
+  {
+   "name": "places/ChIJV0yj09THBZERHdLUz0gBxGY/photos/Aa-ngMaHCwxM7MKuJee0aJRGzgEcDp0SRwuiQvFbM1mtRucD-HPdGTi0gy42efkzSAWxGEUFR6wwjMyRMtZoafQRmMF4fi5mGMbVcyyHrmLJ-4s8DwvIkDOKidEHv0c9EAieJyNqvbVYJmjzvwi9MPB0PJdRvpPfek8YS2UXfewsIGMfmK_ulfQpPef9dJpe2UmgetLopD1uc4W4rbqET2Czrnsak5xT7Knx1_5JWkPrAa95bw36NHdNmRhGYk8ptvKoAoig8GkIMwkq4elffep1jIr0-zEH94fVVZAvuTqUpteWC3xVYQzm7u38nQebFMXCtWoNCApihv45cSf2aB72-pm-hGToAsGURHS9zwH6aE87rfcwjesMkga99fupjhrZ7yxwrIBNLsDkzyOe046JhzeH0go",
+   "widthPx": 4640,
+   "heightPx": 2610,
+   "authorAttributions": [
+    {
+     "displayName": "Veterinaria Las Gardenias",
+     "uri": "https://maps.google.com/maps/contrib/113550475231375909017",
+     "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAquRLLFb3BWEI6UOcil1pgH8WyOZJ5WTdW6l-ZolWZvZzTg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDpuI-RWw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDpuI-RWw!2e10!4m2!3m1!1s0x9105c7d4d3a34c57:0x66c40148cfd4d21d"
+  }
+ ]
+}

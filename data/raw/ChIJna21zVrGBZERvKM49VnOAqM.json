@@ -1,0 +1,401 @@
+{
+ "id": "ChIJna21zVrGBZERvKM49VnOAqM",
+ "types": [
+  "veterinary_care",
+  "pet_care",
+  "point_of_interest",
+  "establishment"
+ ],
+ "formattedAddress": "W2JF+3QC, Av. Separadora Industrial, Ate 15022",
+ "addressComponents": [
+  {
+   "longText": "W2JF+3QC",
+   "shortText": "W2JF+3QC",
+   "types": [
+    "plus_code"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Avenida Separadora Industrial",
+   "shortText": "Av. Separadora Industrial",
+   "types": [
+    "route"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Urbanización Olimpo - II",
+   "shortText": "Urb. Olimpo - II",
+   "types": [
+    "sublocality_level_1",
+    "sublocality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Ate",
+   "shortText": "Ate",
+   "types": [
+    "locality",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Lima",
+   "shortText": "Lima",
+   "types": [
+    "administrative_area_level_2",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Provincia de Lima",
+   "shortText": "Provincia de Lima",
+   "types": [
+    "administrative_area_level_1",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "Perú",
+   "shortText": "PE",
+   "types": [
+    "country",
+    "political"
+   ],
+   "languageCode": "es"
+  },
+  {
+   "longText": "15022",
+   "shortText": "15022",
+   "types": [
+    "postal_code"
+   ],
+   "languageCode": "es"
+  }
+ ],
+ "location": {
+  "latitude": -12.0698115,
+  "longitude": -76.975597
+ },
+ "rating": 4.8,
+ "googleMapsUri": "https://maps.google.com/?cid=11746177663897215932&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+ "regularOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "businessStatus": "OPERATIONAL",
+ "userRatingCount": 6,
+ "displayName": {
+  "text": "Veterinaria Mi Mascota",
+  "languageCode": "es"
+ },
+ "currentOpeningHours": {
+  "openNow": true,
+  "periods": [
+   {
+    "open": {
+     "day": 1,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    },
+    "close": {
+     "day": 1,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 28
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 2,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    },
+    "close": {
+     "day": 2,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 3,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    },
+    "close": {
+     "day": 3,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 4,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    },
+    "close": {
+     "day": 4,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+     }
+    }
+   },
+   {
+    "open": {
+     "day": 5,
+     "hour": 9,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    },
+    "close": {
+     "day": 5,
+     "hour": 18,
+     "minute": 0,
+     "date": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+     }
+    }
+   }
+  ],
+  "weekdayDescriptions": [
+   "lunes: 9:00–18:00",
+   "martes: 9:00–18:00",
+   "miércoles: 9:00–18:00",
+   "jueves: 9:00–18:00",
+   "viernes: 9:00–18:00",
+   "sábado: Cerrado",
+   "domingo: Cerrado"
+  ],
+  "nextCloseTime": "2026-09-28T23:00:00Z"
+ },
+ "primaryType": "veterinary_care",
+ "shortFormattedAddress": "W2JF+3QC, Av. Separadora Industrial, Ate",
+ "reviews": [
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5bE5fcVdnEAE",
+   "relativePublishTimeDescription": "Hace 5 años",
+   "rating": 5,
+   "text": {
+    "text": "Lo máximo, los engreídos se sienten verdaderamente engreídos.",
+    "languageCode": "es"
+   },
+   "originalText": {
+    "text": "Lo máximo, los engreídos se sienten verdaderamente engreídos.",
+    "languageCode": "es"
+   },
+   "authorAttribution": {
+    "displayName": "juana zapata",
+    "uri": "https://www.google.com/maps/contrib/117294524347632961395/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwQ3v-FQb9puEsK-TjH4FuJwiD62ndwXrFX6ocDSgQk0OSkw=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2021-01-20T21:08:52.446748Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5bE5fcVdnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5bE5fcVdnEAE!2m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  },
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paWlJVcERWa3RvVTE5cU5WUldaVGxTZUhsMGEzYxAB",
+   "relativePublishTimeDescription": "Hace 11 meses",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Sonia Victoria",
+    "uri": "https://www.google.com/maps/contrib/105813422192459008263/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKHZSuRV-Vr5BR3jhbUSqlQtOKSI923G6vy2yJ-jtaGKd7NzQ=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-10-09T20:38:24.640201489Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paWlJVcERWa3RvVTE5cU5WUldaVGxTZUhsMGEzYxAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paWlJVcERWa3RvVTE5cU5WUldaVGxTZUhsMGEzYxAB!2m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  },
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/reviews/ChZDSUhNMG9nS0VJQ0FnSURfeGRtUVdREAE",
+   "relativePublishTimeDescription": "Hace un año",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Elí Daniel Mendez Michuy",
+    "uri": "https://www.google.com/maps/contrib/108697940431420953631/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQjwuDOPymUkJsNUzX4COdUFcEmGjwMhub2NPZfKzCizCdoYMs=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2025-01-25T17:02:00.833748Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfeGRtUVdREAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfeGRtUVdREAE!2m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  },
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/reviews/ChZDSUhNMG9nS0VJQ0FnSURXcGMtU2JnEAE",
+   "relativePublishTimeDescription": "Hace 4 años",
+   "rating": 5,
+   "authorAttribution": {
+    "displayName": "Manuel Tafur Torres",
+    "uri": "https://www.google.com/maps/contrib/114810667924807204349/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5E-vH-rtpYvESGfyqpH8UpDPOPSFXXpan6_VCRRnyiTg4H5h4wg=s128-c0x00000000-cc-rp-mo"
+   },
+   "publishTime": "2022-03-30T03:53:34.804922Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXcGMtU2JnEAE&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXcGMtU2JnEAE!2m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  },
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/reviews/ChdDSUhNMG9nS0VJQ0FnSURNd3NXanJnRRAB",
+   "relativePublishTimeDescription": "Hace 6 años",
+   "rating": 4,
+   "authorAttribution": {
+    "displayName": "fabiana ᴗ̈",
+    "uri": "https://www.google.com/maps/contrib/114843075100229942322/reviews",
+    "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWywL4f7lQig64zyU4OD2OD-rIWygS_vK3C2zt-vol5_jNWHyo5=s128-c0x00000000-cc-rp-mo-ba2"
+   },
+   "publishTime": "2019-12-22T19:24:39.667763Z",
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURNd3NXanJnRRAB&d=17924085&t=1",
+   "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNd3NXanJnRRAB!2m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  }
+ ],
+ "photos": [
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/photos/Aa-ngMZMtLIkQHzOS7DuJQGu0qSKrjNRD1vABbPYmQTvDTJBgU7vyNYPXDzmjs3xUrK1UNL-I2jJk369YwCMQq3xscZor74MEOrEU97giev1N3kzWnzRz3Dt9mqmY4VCS_Q_hdHDl0LNEAugX3OBZXqqY7Hh_8CcHE_GMW3t8DIqRQvN2R-B2g00tl00echAgbRsD7lVnKEopDILqjnSQ-7gL3Y0ApUKYwghMztWI3gso4p-TeGtJGwl3slk_gXksU5-Gb-2Ffp-wuq_7x7uIHBOkKxSBkaMzL1m6wAWzNiKQNA61tNk9dLXicSmtlP7FsyNc3QLzrq55EqzG8xbNYHE5gFFGdmpekjcHxzvL8216escq6X3hv9-3t5AtQi-jkNo4wiL2Q1Vf6a0XvEEqUnUOHLy0_I8XH5Lq_xFHx8i7P8",
+   "widthPx": 720,
+   "heightPx": 1280,
+   "authorAttributions": [
+    {
+     "displayName": "Manuel Tafur Torres",
+     "uri": "https://maps.google.com/maps/contrib/114810667924807204349",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5E-vH-rtpYvESGfyqpH8UpDPOPSFXXpan6_VCRRnyiTg4H5h4wg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIHM0ogKEICAgIDW5oToKw&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDW5oToKw!2e10!4m2!3m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  },
+  {
+   "name": "places/ChIJna21zVrGBZERvKM49VnOAqM/photos/Aa-ngMYNu8KHOV1ZVCSEJKxKNnOZLLxW5vLPyVs212-QZfZo-bpcfijbP3l9SZeSloe7PzbCzNG1k1masrInaUfNtGI4qzFUoabEDAnvhLW_Jaguk8qDXN5l9k9hD6cO_rOXeDLMLzIpaWc7Z8UhM3JbYRCg15FAnGLJiuSBzJodt4vIsSUAE51NpDwgHnwbFS5OV4o5W_APtnHnlh8Y4LZ9xzvgpZIyJPks9V0w1FcXpqWNThqFWURNMRTPG5pgyiBIy4o46oDkwDN8vXsDradXK5GSkh1H4GmbOXrUX-PFZOb_B30mOEkc0jutj06cUOciPX3hDd7M5G9osksMakwfWlUWp8os145sVkFy1o4E-mBrCcvoSK4_M7jlCPlHfaCoiyNYRJL67wjKeeGR7XI_8r5_0w6bhlHXJFWnHc8FmOm-rNpi_8JVdAvUBF7dykXE",
+   "widthPx": 4021,
+   "heightPx": 1969,
+   "authorAttributions": [
+    {
+     "displayName": "Manuel Tafur Torres",
+     "uri": "https://maps.google.com/maps/contrib/114810667924807204349",
+     "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5E-vH-rtpYvESGfyqpH8UpDPOPSFXXpan6_VCRRnyiTg4H5h4wg=s100-p-k-no-mo"
+    }
+   ],
+   "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAsJOX2U6iBcF5GR7Ohfns2&t=27&cb_client=maps_api_places.places_api&hl=es&gl=PE",
+   "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAsJOX2U6iBcF5GR7Ohfns2!2e10!4m2!3m1!1s0x9105c65acdb5ad9d:0xa302ce59f538a3bc"
+  }
+ ]
+}
