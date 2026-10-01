@@ -1,7 +1,7 @@
 # B2B – firmographics, technographics e intención (minería, pesca, agroexportación)
 
-Página aparte de VetClinica: `docs/b2b/index.html` → https://alexisusil.github.io/VetClinica/b2b/
-(sin enlace desde la página de veterinarias y con `noindex`; solo se llega con el link).
+La página se publica desde un repo aparte para que el link no diga VetClinica: `../b2b/index.html` (github.com/AlexisUsil/b2b)
+→ https://alexisusil.github.io/b2b/ (sin enlace desde la página de veterinarias y con `noindex`; solo se llega con el link).
 
 ## Pipeline
 1. **Investigación** (agentes, ver `BRIEF.md`) → `data/<industria>_<a|b>.json`, 15 empresas por archivo, cada dato con su fuente.
@@ -13,7 +13,7 @@ Página aparte de VetClinica: `docs/b2b/index.html` → https://alexisusil.githu
    - `subdom`: tecnología delatada por nombres de subdominio en certificados TLS públicos (Cert Spotter ~10 consultas/hora, luego crt.sh, lento: correrlo varias veces).
    - `news` / `tech`: titulares de Google News (pulso mensual, señales, marcas citadas).
    - `geo`: coordenadas de plantas (Google Places Text Search, ~300 llamadas en total: dentro del cupo gratuito).
-3. `cd b2b && python build.py` → une todo en `docs/b2b/index.html` (un solo archivo; Leaflet por CDN).
+3. `cd b2b && python build.py` → une todo en `../b2b/index.html`; luego commit + push en ese repo (un solo archivo; Leaflet por CDN).
 
 ## Límites conocidos
 - Intención = señales públicas (proyectos, permisos, contratos, contrataciones, prensa). No hay datos de pago tipo Bombora/6sense.

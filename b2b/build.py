@@ -1,4 +1,4 @@
-"""Une b2b/data/<industria>_<a|b>.json (investigación) + b2b/data/auto.json (enrich.py) y genera docs/b2b/index.html.
+"""Une b2b/data/<industria>_<a|b>.json (investigación) + b2b/data/auto.json (enrich.py) y genera ../b2b/index.html (repo AlexisUsil/b2b, GitHub Pages).
 Uso: python b2b/build.py"""
 import json, re, pathlib, datetime, unicodedata, hashlib
 from enrich import CENTRO, ROOT
@@ -88,7 +88,8 @@ def main():
         print(f"{nombre}: {len(emps)} empresas · facturación {len(f)} · empleados {sum((e['firmo'].get('empleados') or {}).get('n') is not None for e in emps)} · "
               f"ERP {sum(bool(e['erp']) for e in emps)} · señales {sum(len(e['intencion']['senales']) for e in emps)}")
     html = (ROOT / 'b2b/page.html').read_text(encoding='utf-8').replace('/*DATA*/null', json.dumps(out, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/'))
-    dst = ROOT / 'docs/b2b/index.html'; dst.parent.mkdir(exist_ok=True); dst.write_text(html, encoding='utf-8')
+    # repo aparte (github.com/AlexisUsil/b2b) para que el link no diga VetClinica
+    dst = ROOT.parent / 'b2b/index.html'; dst.write_text(html, encoding='utf-8')
     print('->', dst, f'{len(html) / 1024:.0f} KB')
 
 if __name__ == '__main__': main()
