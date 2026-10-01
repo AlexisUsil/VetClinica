@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Inteligencia B2B · Minería, Pesca y Agroexportación</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+:root{
+  --bg:#faf6f4; --card:#fff; --soft:#f6f1ef; --rose:#f3e1e4; --line:#e8dfdc;
+  --ink:#231a1c; --ink2:#5d5154; --mute:#8d8184;
+  --brand:#8a1c2e; --brand2:#b3324a; --gold:#b8892b;
+  --i-alto:#8a1c2e; --i-medio:#cf8a94; --i-bajo:#e6d6d8;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 "Segoe UI",system-ui,-apple-system,Roboto,sans-serif}
+a{color:var(--brand)}
+.wrap{max-width:1240px;margin:0 auto;padding:0 16px}
+header{padding:28px 0 8px}
+h1{font:700 clamp(24px,4vw,38px)/1.1 Cambria,Georgia,serif;margin:0 0 6px;text-wrap:balance}
+.sub{color:var(--ink2);margin:0}
+.tabs{position:sticky;top:0;z-index:900;background:var(--bg);padding:12px 0;display:flex;gap:8px;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+.tabs button{font:600 15px inherit;font-family:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink2);padding:9px 16px;border-radius:999px;cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--brand);border-color:var(--brand);color:#fff}
+.tabs button span{opacity:.7;font-weight:400;margin-left:4px}
+h2{font:700 22px/1.2 Cambria,Georgia,serif;margin:34px 0 12px}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-top:18px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.kpi b{display:block;font:700 28px/1.1 Cambria,Georgia,serif;color:var(--brand);font-variant-numeric:tabular-nums}
+.kpi span{color:var(--ink2);font-size:13px}
+.kpi small{display:block;color:var(--mute);font-size:12px}
+.dims{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:16px}
+.dim{background:var(--soft);border:1px solid var(--line);border-radius:16px;padding:20px 18px;min-width:0}
+.dim.hot{background:var(--rose)}
+.dim .ico{width:52px;height:52px;border-radius:50%;background:var(--brand);display:grid;place-items:center;margin:0 auto 10px}
+.dim .ico svg{width:26px;height:26px;stroke:#fff;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.dim h3{text-align:center;margin:0;font:700 19px Cambria,Georgia,serif;color:var(--brand)}
+.dim .q{text-align:center;color:var(--gold);font-style:italic;font-weight:600;margin:2px 0 14px}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-top:10px}
+.box h4{margin:0 0 8px;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--gold)}
+.bars{display:grid;gap:5px}
+.bar{display:grid;grid-template-columns:minmax(0,42%) 1fr auto;gap:8px;align-items:center;font-size:13px}
+.bar .l{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--ink2)}
+.bar .t{height:10px}
+.bar .f{height:10px;background:var(--brand2);border-radius:0 4px 4px 0;min-width:2px}
+.bar .v{font-variant-numeric:tabular-nums;color:var(--ink);font-weight:600;font-size:12.5px}
+button.bar{border:0;background:none;padding:0;text-align:left;font-family:inherit;cursor:pointer;width:100%}
+button.bar:hover .f{background:var(--brand)}
+.seg{display:flex;gap:2px;height:14px;border-radius:4px;overflow:hidden}
+.seg i{display:block}
+.legend{display:flex;gap:12px;flex-wrap:wrap;margin-top:8px;font-size:12.5px;color:var(--ink2)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px}
+.two{display:grid;grid-template-columns:1.25fr 1fr;gap:16px}
+#map{height:460px;border-radius:14px;border:1px solid var(--line);background:#eee;z-index:1}
+.feed{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px 14px;max-height:460px;overflow:auto}
+.sig{padding:9px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.sig:last-child{border:0}
+.sig .m{color:var(--mute);font-size:12px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.sig b{font-weight:600}
+.chip{display:inline-block;font-size:11.5px;padding:2px 8px;border-radius:999px;background:var(--soft);border:1px solid var(--line);color:var(--ink2);white-space:nowrap}
+td .chip{max-width:170px;overflow:hidden;text-overflow:ellipsis;vertical-align:middle}
+.chip.erp{background:#fff;border-color:var(--brand2);color:var(--brand)}
+.niv{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;white-space:nowrap}
+.niv i{width:10px;height:10px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.12)}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.filters input,.filters select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink)}
+.filters input{flex:1;min-width:180px}
+.tw{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:14px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--mute);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);cursor:pointer;white-space:nowrap;user-select:none}
+td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+tr:last-child td{border:0}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--soft)}
+td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
+td .s{color:var(--mute);font-size:12px}
+.mini{display:flex;align-items:center;gap:8px}
+.mini .t{width:70px;height:8px;background:var(--soft);border-radius:4px;overflow:hidden}
+.mini .f{height:8px;background:var(--brand2)}
+dialog{overflow-x:hidden;border:0;border-radius:18px;padding:0;width:min(1120px,calc(100vw - 24px));max-height:calc(100dvh - 24px);box-shadow:0 20px 60px rgba(40,10,15,.35);color:var(--ink)}
+dialog::backdrop{background:rgba(35,26,28,.55)}
+.dh{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;padding:20px 22px 12px;position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--line);z-index:2}
+.dh h3{margin:0;font:700 24px/1.15 Cambria,Georgia,serif}
+.dh p{margin:4px 0 0;color:var(--ink2);font-size:13.5px}
+dd .chip,.box .chip{white-space:normal}
+.dd>*{min-width:0}
+.dh button{white-space:nowrap;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:6px 12px;font:inherit;cursor:pointer}
+.dd{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:16px 22px 22px}
+.dd .dim{padding:16px 14px}
+dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:6px 10px;font-size:13.5px}
+dt{color:var(--mute);font-size:12px;padding-top:1px}
+dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.src{font-size:11.5px;text-decoration:none;margin-left:4px;white-space:nowrap}
+.tech{padding:7px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.tech:last-child{border:0}
+.tech .e{color:var(--ink2);font-size:12.5px}
+.cat{font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--gold);margin:12px 0 2px;font-weight:700}
+.spark{display:flex;align-items:flex-end;gap:2px;height:26px}
+.spark i{flex:1;background:var(--brand2);border-radius:2px 2px 0 0;min-height:1px;min-width:3px}
+.empty{color:var(--mute);font-size:13px;font-style:italic}
+footer{color:var(--mute);font-size:12.5px;padding:30px 0 40px}
+@media(max-width:900px){.dd{padding:12px}.dh{padding:14px 14px 10px}.kpis{grid-template-columns:repeat(2,1fr)}.dims,.two,.dd{grid-template-columns:1fr}#map{height:340px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Firmographics, technographics e intención de compra</h1>
+  <p class="sub" id="sub"></p>
+</header>
+<nav class="tabs" id="tabs" role="tablist"></nav>
+<section class="kpis" id="kpis"></section>
+<section class="dims" id="dims"></section>
+<h2>Dónde operan y qué están moviendo</h2>
+<section class="two">
+  <div id="map"></div>
+  <div class="feed" id="feed"></div>
+</section>
+<h2>Empresas</h2>
+<div class="filters">
+  <input id="q" type="search" placeholder="Buscar empresa, tecnología o región…" aria-label="Buscar">
+  <select id="fErp" aria-label="ERP"></select>
+  <select id="fNiv" aria-label="Intención">
+    <option value="">Intención: todas</option><option value="alto">Alta</option><option value="medio">Media</option><option value="bajo">Baja</option>
+  </select>
+</div>
+<div class="tw"><table><thead><tr id="th"></tr></thead><tbody id="tb"></tbody></table></div>
+<footer id="foot"></footer>
+</div>
+<dialog id="dlg"></dialog>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const DATA = /*DATA*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const num = n => n == null ? 's/d' : Math.round(n).toLocaleString('es-PE');
+const usd = n => n == null ? 's/d' : 'USD ' + (n >= 100 ? Math.round(n) : Math.round(n * 10) / 10).toLocaleString('es-PE') + ' M';
+const src = u => u && /^https?:/.test(u) ? `<a class="src" href="${esc(u)}" target="_blank" rel="noopener" title="${esc(u)}">fuente ↗</a>` : '';
+const NIV = {alto: 'Alta', medio: 'Media', bajo: 'Baja'};
+const niv = n => `<span class="niv"><i style="background:var(--i-${n || 'bajo'})"></i>${NIV[n] || 'Baja'}</span>`;
+const ICO = {
+  firmo: '<svg viewBox="0 0 24 24"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M9 7v13M15 7v13"/></svg>',
+  tecno: '<svg viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/><rect x="10" y="10" width="4" height="4"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/></svg>',
+  inten: '<svg viewBox="0 0 24 24"><path d="M3 12h4l3-8 4 16 3-8h4"/></svg>'};
+const CATS = ['ERP','Automatización','Equipos','Nube','Datos/BI','CRM','Correo','Colaboración','Seguridad','RR. HH.','TI','Marketing','Web','Cumplimiento','Otros'];
+const CORE = new Set(['ERP','Automatización','Equipos','Nube','Datos/BI','CRM','Correo','Colaboración','Seguridad','RR. HH.','TI']);
+const MESES = DATA.meses;
+
+let ind = DATA.industrias[0], sortK = 'fact', sortD = -1, map, layer;
+const fact = e => e.firmo.facturacion?.usd_m ?? null, empl = e => e.firmo.empleados?.n ?? null;
+const count = (arr) => { const m = new Map(); arr.forEach(k => m.set(k, (m.get(k) || 0) + 1)); return [...m].sort((a, b) => b[1] - a[1]); };
+const bars = (rows, fmt = num, max) => { max = max || Math.max(...rows.map(r => r[1]), 1);
+  return `<div class="bars">${rows.map(r => `<${r[2] ? `button data-id="${r[2]}"` : 'div'} class="bar" title="${esc(r[0])}: ${fmt(r[1])}"><span class="l">${esc(r[0])}</span><span class="t"><span class="f" style="display:block;width:${Math.max(r[1] / max * 100, 1)}%"></span></span><span class="v">${fmt(r[1])}</span></${r[2] ? 'button' : 'div'}>`).join('')}</div>`; };
+
+function render() {
+  const E = ind.empresas;
+  $('#tabs').innerHTML = DATA.industrias.map(i => `<button role="tab" aria-selected="${i === ind}" data-i="${i.id}">${i.nombre}<span>${i.empresas.length}</span></button>`).join('');
+  const conF = E.filter(e => fact(e) != null), conE = E.filter(e => empl(e) != null), conErp = E.filter(e => e.erp), altas = E.filter(e => e.intencion.nivel === 'alto');
+  const nSig = E.reduce((s, e) => s + e.intencion.senales.length, 0);
+  $('#kpis').innerHTML = [
+    [E.length, 'empresas', `${new Set(E.flatMap(e => e.plantas.map(p => p.region)).filter(Boolean)).size} regiones con operaciones`],
+    [usd(conF.reduce((s, e) => s + fact(e), 0)), 'facturación identificada', `${conF.length} de ${E.length} con dato`],
+    [num(conE.reduce((s, e) => s + empl(e), 0)), 'empleados', `${conE.length} de ${E.length} con dato`],
+    [`${conErp.length}/${E.length}`, 'con ERP identificado', count(conErp.map(e => e.erp)).slice(0, 2).map(r => `${r[0]} ${r[1]}`).join(' · ')],
+    [altas.length, 'con intención alta', `${nSig} señales en 18 meses`],
+  ].map(k => `<div class="kpi"><b>${k[0]}</b><span>${k[1]}</span><small>${esc(k[2])}</small></div>`).join('');
+
+  const top = [...conF].sort((a, b) => fact(b) - fact(a)).slice(0, 8).map(e => [e.nombre, fact(e), e.id]);
+  const etapas = count(E.map(e => e.firmo.etapa?.valor).filter(Boolean));
+  const erps = count(E.map(e => e.erp || 'Sin dato')).sort((a, b) => (a[0] === 'Sin dato') - (b[0] === 'Sin dato') || b[1] - a[1]);
+  const marcas = count(E.flatMap(e => [...new Set(e.tecno.filter(t => CORE.has(t.cat) && t.cat !== 'ERP').map(t => t.marca))])).slice(0, 8);
+  const nivs = ['alto', 'medio', 'bajo'].map(n => [n, E.filter(e => (e.intencion.nivel || 'bajo') === n).length]);
+  const temas = count(E.flatMap(e => [...new Set(e.intencion.senales.map(s => s.tipo))])).slice(0, 6);
+  $('#dims').innerHTML = `
+  <div class="dim"><div class="ico">${ICO.firmo}</div><h3>Firmographics</h3><p class="q">¿Quién es la empresa?</p>
+    <div class="box"><h4>Mayor facturación · USD M</h4>${top.length ? bars(top) : '<p class="empty">Sin datos</p>'}</div>
+    <div class="box"><h4>Etapa de crecimiento · n.º de empresas</h4>${bars(etapas)}</div></div>
+  <div class="dim"><div class="ico">${ICO.tecno}</div><h3>Technographics</h3><p class="q">¿Con qué tecnología opera?</p>
+    <div class="box"><h4>ERP · n.º de empresas</h4>${bars(erps)}</div>
+    <div class="box"><h4>Marcas más presentes · n.º de empresas</h4>${bars(marcas)}</div></div>
+  <div class="dim hot"><div class="ico">${ICO.inten}</div><h3>Datos de intención</h3><p class="q">¿Qué está investigando ahora?</p>
+    <div class="box"><h4>Nivel de intención · n.º de empresas</h4>
+      <div class="seg">${nivs.map(n => n[1] ? `<i style="flex:${n[1]};background:var(--i-${n[0]})" title="${NIV[n[0]]}: ${n[1]}"></i>` : '').join('')}</div>
+      <div class="legend">${nivs.map(n => `<span><i style="background:var(--i-${n[0]})"></i>${NIV[n[0]]} <b>${n[1]}</b></span>`).join('')}</div></div>
+    <div class="box"><h4>Tipo de señal · n.º de empresas</h4>${temas.length ? bars(temas) : '<p class="empty">Sin señales</p>'}</div></div>`;
+
+  const sig = E.flatMap(e => e.intencion.senales.map(s => ({...s, e}))).sort((a, b) => (b.fecha || '').localeCompare(a.fecha || '')).slice(0, 40);
+  $('#feed').innerHTML = sig.map(s => `<div class="sig"><div class="m"><span>${esc(s.fecha)}</span><span class="chip">${esc(s.tipo)}</span><a href="#" data-id="${s.e.id}">${esc(s.e.nombre)}</a></div><b>${esc(s.titulo)}</b>${src(s.fuente)}</div>`).join('') || '<p class="empty">Sin señales</p>';
+
+  if (window.L) {
+    if (!map) { map = L.map('map', {scrollWheelZoom: false}).setView([-9.8, -75.5], 5);
+      L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {attribution: 'Tiles © Esri', maxZoom: 13}).addTo(map); layer = L.layerGroup().addTo(map); }
+    layer.clearLayers();
+    E.forEach(e => e.plantas.forEach(p => { if (p.lat == null) return;
+      L.circleMarker([p.lat, p.lon], {radius: 6, color: '#fff', weight: 2, fillColor: '#8a1c2e', fillOpacity: .85})
+        .bindTooltip(`<b>${esc(p.nombre)}</b><br>${esc(e.nombre)} · ${esc(p.region || '')}${p.aprox ? '<br><i>ubicación aproximada</i>' : ''}`).on('click', () => detail(e.id)).addTo(layer); }));
+  }
+  $('#fErp').innerHTML = '<option value="">ERP: todos</option>' + erps.map(r => `<option>${esc(r[0])}</option>`).join('');
+  table();
+}
+
+const COLS = [['nombre', 'Empresa'], ['fact', 'Facturación'], ['empl', 'Empleados'], ['erp', 'ERP'], ['tec', 'Tecnologías'], ['niv', 'Intención'], ['sen', 'Señales'], ['news', 'Noticias 12 m']];
+const KEY = {nombre: e => e.nombre.toLowerCase(), fact, empl, erp: e => e.erp, tec: e => e.tecno.length, niv: e => ({alto: 3, medio: 2, bajo: 1}[e.intencion.nivel] || 1), sen: e => e.intencion.senales.length, news: e => e.news?.total ?? null};
+function table() {
+  const q = $('#q').value.trim().toLowerCase().normalize('NFD').replace(/\p{M}/gu, ''), fe = $('#fErp').value, fn = $('#fNiv').value, k = KEY[sortK];
+  const maxF = Math.max(...ind.empresas.map(e => fact(e) || 0), 1);
+  const rows = ind.empresas.filter(e => (!q || e.busca.includes(q)) && (!fe || (e.erp || 'Sin dato') === fe) && (!fn || (e.intencion.nivel || 'bajo') === fn))
+    .sort((a, b) => { const x = k(a), y = k(b); return x == null ? 1 : y == null ? -1 : (x > y ? 1 : x < y ? -1 : 0) * sortD; });
+  $('#th').innerHTML = COLS.map(c => `<th data-k="${c[0]}">${c[1]}${sortK === c[0] ? (sortD < 0 ? ' ↓' : ' ↑') : ''}</th>`).join('');
+  $('#tb').innerHTML = rows.map(e => { const core = e.tecno.filter(t => CORE.has(t.cat) && t.cat !== 'ERP'); const marcas = [...new Set(core.map(t => t.marca))];
+    return `<tr data-id="${e.id}"><td><b>${esc(e.nombre)}</b><div class="s">${esc(e.subsector || '')}</div></td>
+    <td class="n"><div class="mini"><span class="t"><span class="f" style="display:block;width:${(fact(e) || 0) / maxF * 100}%"></span></span>${usd(fact(e))}</div></td>
+    <td class="n">${num(empl(e))}</td>
+    <td>${e.erp ? `<span class="chip erp">${esc(e.erp)}</span>` : '<span class="s">s/d</span>'}</td>
+    <td>${marcas.slice(0, 3).map(m => `<span class="chip">${esc(m)}</span>`).join(' ')}${marcas.length > 3 ? ` <span class="s">+${marcas.length - 3}</span>` : ''}</td>
+    <td>${niv(e.intencion.nivel)}</td><td class="n">${e.intencion.senales.length}</td>
+    <td>${spark(e)}</td></tr>`; }).join('') || `<tr><td colspan="8" class="empty">Sin resultados</td></tr>`;
+}
+function spark(e) { if (!e.news) return '<span class="s">s/d</span>'; const v = MESES.map(m => e.news.meses[m] || 0), mx = Math.max(...v, 1);
+  return `<div class="spark" style="width:84px" title="${e.news.total} noticias en 12 meses">${v.map((x, i) => `<i style="height:${x / mx * 100}%" title="${MESES[i]}: ${x}"></i>`).join('')}</div>`; }
+
+function detail(id) {
+  const e = DATA.industrias.flatMap(i => i.empresas).find(x => x.id === id), f = e.firmo, p = e.padron;
+  const row = (k, v) => v ? `<dt>${k}</dt><dd>${v}</dd>` : '';
+  const byCat = CATS.map(c => [c, e.tecno.filter(t => t.cat === c)]).filter(c => c[1].length);
+  $('#dlg').innerHTML = `
+  <div class="dh"><div><h3>${esc(e.nombre)}</h3><p>${esc(e.subsector || '')} ${e.web ? `· <a href="${esc(e.web)}" target="_blank" rel="noopener">web ↗</a>` : ''} ${e.linkedin ? `· <a href="${esc(e.linkedin)}" target="_blank" rel="noopener">LinkedIn ↗</a>` : ''}</p></div>
+    <form method="dialog"><button aria-label="Cerrar" autofocus>Cerrar ✕</button></form></div>
+  <div class="dd">
+   <div class="dim"><div class="ico">${ICO.firmo}</div><h3>Firmographics</h3><p class="q">¿Quién es la empresa?</p><div class="box"><dl>
+    ${row('Razón social', esc(e.razon_social))}
+    ${row('RUC', e.ruc ? esc(e.ruc) + (p ? ` <span class="chip" title="Padrón reducido SUNAT">${esc(p.estado)} · ${esc(p.condicion)}</span>` : '') : '')}
+    ${row('CIIU', f.ciiu ? `${esc(f.ciiu.codigo || '')} ${esc(f.ciiu.desc || '')}${src(f.ciiu.fuente)}` : '')}
+    ${row('Facturación', f.facturacion?.usd_m != null ? `<b>${usd(f.facturacion.usd_m)}</b> · ${esc(f.facturacion.tipo || '')} ${esc(f.facturacion.anio || '')}${src(f.facturacion.fuente)}${f.facturacion.nota ? `<div class="s" style="color:var(--mute);font-size:12px">${esc(f.facturacion.nota)}</div>` : ''}` : '')}
+    ${row('Empleados', f.empleados?.n != null ? `<b>${num(f.empleados.n)}</b> ${esc(f.empleados.anio || '')}${src(f.empleados.fuente)}${f.empleados.nota ? `<div style="color:var(--mute);font-size:12px">${esc(f.empleados.nota)}</div>` : ''}` : '')}
+    ${row('Planilla SUNAT', e.planilla ? `${num(e.planilla.n)} <span style="color:var(--mute)">(${esc(e.planilla.periodo)})</span>${e.planilla.var != null ? ` · ${e.planilla.var > 0 ? '+' : ''}${e.planilla.var} % desde ${esc(e.planilla.desde)}` : ''}${src(e.planilla.fuente)}` : '')}
+    ${row('Sede', esc(f.sede))}
+    ${row('Domicilio fiscal', p ? esc(`${p.dir}${p.region ? ', ' + p.region : ''}`) : '')}
+    ${row('Operaciones', e.plantas.map(x => `<span class="chip" title="${esc(x.tipo || '')}">${esc(x.nombre)}${x.region ? ' · ' + esc(x.region) : ''}</span>`).join(' '))}
+    ${row('Grupo', f.estructura ? `${esc(f.estructura.grupo || '')}${src(f.estructura.fuente)}` : '')}
+    ${row('Accionistas', esc(f.estructura?.accionistas))}
+    ${row('Bolsa', esc(f.estructura?.bolsa))}
+    ${row('Etapa', f.etapa ? `<span class="chip erp">${esc(f.etapa.valor)}</span>${src(f.etapa.fuente)}<div style="color:var(--ink2);font-size:12.5px">${esc(f.etapa.evidencia || '')}</div>` : '')}
+   </dl></div></div>
+   <div class="dim"><div class="ico">${ICO.tecno}</div><h3>Technographics</h3><p class="q">¿Con qué tecnología opera?</p><div class="box">
+    ${byCat.map(c => `<div class="cat">${c[0]}</div>` + c[1].map(t => `<div class="tech"><b>${esc(t.producto)}</b>${src(t.fuente)}<div class="e">${esc(t.evidencia || '')}${t.anio ? ` (${t.anio})` : ''}${t.auto ? '' : t.confianza ? ` · confianza ${esc(t.confianza)}` : ''}</div></div>`).join('')).join('') || '<p class="empty">Sin tecnología identificada</p>'}
+   </div></div>
+   <div class="dim hot"><div class="ico">${ICO.inten}</div><h3>Datos de intención</h3><p class="q">¿Qué está investigando ahora?</p>
+    <div class="box">${niv(e.intencion.nivel)} <span style="margin-left:6px">${(e.intencion.temas || []).map(t => `<span class="chip">${esc(t)}</span>`).join(' ')}</span></div>
+    <div class="box"><h4>Señales</h4>${e.intencion.senales.map(s => `<div class="sig"><div class="m"><span>${esc(s.fecha)}</span><span class="chip">${esc(s.tipo)}</span></div><b>${esc(s.titulo)}</b>${src(s.fuente)}<div style="color:var(--ink2);font-size:12.5px">${esc(s.detalle || '')}</div></div>`).join('') || '<p class="empty">Sin señales públicas en 18 meses</p>'}</div>
+    ${e.news ? `<div class="box"><h4>Pulso de noticias · ${e.news.total} en 12 meses</h4>${spark(e).replace('width:84px', 'width:100%')}
+      ${e.news.titulares.map(t => `<div class="sig"><div class="m"><span>${esc(t.fecha)}</span><span class="chip">${esc(t.tema)}</span><span>${esc(t.medio)}</span></div><a href="${esc(t.url)}" target="_blank" rel="noopener" style="color:inherit">${esc(t.titulo)}</a></div>`).join('')}</div>` : ''}
+   </div>
+  </div>`;
+  $('#dlg').showModal(); $('#dlg').scrollTop = 0;
+}
+
+document.addEventListener('click', ev => {
+  const t = ev.target.closest('[data-i],[data-id],[data-k]'); if (!t) { if (ev.target === $('#dlg')) $('#dlg').close(); return; }
+  if (t.dataset.i) { ind = DATA.industrias.find(i => i.id === t.dataset.i); $('#q').value = ''; $('#fNiv').value = ''; render(); }
+  else if (t.dataset.k) { sortD = sortK === t.dataset.k ? -sortD : (t.dataset.k === 'nombre' ? 1 : -1); sortK = t.dataset.k; table(); }
+  else if (!ev.target.closest('a.src')) { ev.preventDefault(); detail(t.dataset.id); }
+});
+['q', 'fErp', 'fNiv'].forEach(i => $('#' + i).addEventListener('input', table));
+const N = DATA.industrias.reduce((s, i) => s + i.empresas.length, 0);
+$('#sub').textContent = `${N} empresas peruanas · 3 industrias · datos públicos a ${DATA.generado}`;
+$('#foot').innerHTML = `Firmographics: SUNAT (padrón reducido), SMV/BVL, memorias y rankings de exportación. Technographics: avisos de empleo, casos de proveedores y huella pública del sitio web y del dominio (registros MX/TXT). Intención: señales públicas (proyectos, permisos, contratos, contrataciones, noticias); no incluye datos de pago tipo Bombora o 6sense. «s/d» = sin dato público. Ubicaciones: Google Places.`;
+render();
+</script>
+</body>
+</html>

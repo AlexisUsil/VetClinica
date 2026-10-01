@@ -1,0 +1,1923 @@
+{
+  "industria": "mineria",
+  "empresas": [
+    {
+      "id": "antamina",
+      "nombre": "Antamina",
+      "razon_social": "COMPAÑIA MINERA ANTAMINA S.A.",
+      "ruc": "20330262428",
+      "subsector": "Cobre y zinc · gran minería",
+      "web": "https://www.antamina.com",
+      "linkedin": "https://www.linkedin.com/company/compania-minera-antamina",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-compania-minera-antamina-sa-20330262428.php"
+        },
+        "facturacion": {
+          "usd_m": 6867,
+          "anio": 2025,
+          "tipo": "estimado",
+          "nota": "Ingresos de Teck por su 22.5 % (US$ 1,545 M) llevados al 100 %",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/886986/000088698626000004/teck-20251231xexx993mda.htm"
+        },
+        "empleados": {
+          "n": 3616,
+          "anio": 2025,
+          "nota": "planilla SUNAT set-2025; >10 mil con contratistas",
+          "fuente": "https://www.datosperu.org/empresa-compania-minera-antamina-sa-20330262428.php"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Antamina",
+            "tipo": "mina",
+            "region": "Áncash",
+            "localidad": "San Marcos, Huari"
+          },
+          {
+            "nombre": "Puerto Punta Lobitos",
+            "tipo": "puerto",
+            "region": "Áncash",
+            "localidad": "Huarmey"
+          }
+        ],
+        "estructura": {
+          "grupo": "Joint venture BHP-Glencore-Teck-Mitsubishi",
+          "accionistas": "BHP 33.75 %, Glencore 33.75 %, Teck 22.5 %, Mitsubishi 10 %",
+          "bolsa": null,
+          "fuente": "https://www.veritradecorp.com/en/peru/imports-y-exports-compania-minera-antamina-sa/ruc-20330262428"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Reposición Antamina (~US$ 2,000 M) amplía tajo, botaderos y relavera para operar hasta 2036",
+          "fuente": "https://forbes.pe/negocios/2025-09-17/antamina-esta-ampliando-sus-instalaciones-para-extender-su-operacion-hasta-2036"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Caterpillar CAT 798 (400 t) vía Ferreyros",
+          "evidencia": "Compra de 27 camiones CAT 798; flota llega a 45 unidades",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/08/03/antamina-elige-a-caterpillar-y-ferreyros-para-expansion-de-flota-de-camiones-ultraclass-de-400-toneladas/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Cat MineStar Command (preparado para autonomía)",
+          "evidencia": "Los CAT 798 adquiridos son compatibles con MineStar Command y DET",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://energiminas.com/2026/08/03/antamina-elige-a-caterpillar-y-ferreyros-para-expansion-de-flota-de-camiones-ultraclass-de-400-toneladas/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Komatsu 980E-5SE y palas P&H 4800 XPC",
+          "evidencia": "Komatsu-Mitsui entrega >40 camiones 980E-5SE (2024-2026) y dos palas 4800 XPC",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2023/07/03/tras-acuerdo-con-antamina-komatsu-mitsui-apunta-a-alcanzar-ventas-record-por-us-600-millones-este-2023"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "flota de acarreo",
+          "extensión de vida de mina",
+          "relaves"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "contrato",
+            "tema": "flota de acarreo",
+            "titulo": "Antamina compra 27 camiones CAT 798 a Ferreyros",
+            "detalle": "Expansión de flota ultraclass de 400 t a 45 unidades, lista para autonomía.",
+            "fuente": "https://energiminas.com/2026/08/03/antamina-elige-a-caterpillar-y-ferreyros-para-expansion-de-flota-de-camiones-ultraclass-de-400-toneladas/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "evento",
+            "tema": "innovación",
+            "titulo": "Antamina participa en CONAMIN 2026",
+            "detalle": "Comparte prácticas de minería sostenible e innovadora en el congreso.",
+            "fuente": "https://gestion.pe/noticias/Antamina/"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "proyecto",
+            "tema": "extensión de vida de mina",
+            "titulo": "Obras de Reposición Antamina en marcha (~US$ 2,000 M)",
+            "detalle": "Ampliación de tajo, botaderos y presa de relaves para operar hasta 2036.",
+            "fuente": "https://forbes.pe/negocios/2025-09-17/antamina-esta-ampliando-sus-instalaciones-para-extender-su-operacion-hasta-2036"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "proyecto",
+            "tema": "producción",
+            "titulo": "Antamina proyecta +20 % de cobre en 2026 (450 kt)",
+            "detalle": "El CEO anticipa subir de ~380 kt en 2025 a 450 kt; nuevo mineral desde 2027.",
+            "fuente": "https://finance.yahoo.com/news/antamina-forecasts-20-rise-copper-143929608.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cerro-verde",
+      "nombre": "Cerro Verde",
+      "razon_social": "SOCIEDAD MINERA CERRO VERDE S.A.A.",
+      "ruc": "20170072465",
+      "subsector": "Cobre y molibdeno · gran minería",
+      "web": "https://www.cerroverde.pe",
+      "linkedin": "https://www.linkedin.com/company/sociedad-minera-cerro-verde",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-sociedad-minera-cerro-verde-saa-20170072465.php"
+        },
+        "facturacion": {
+          "usd_m": 4728.3,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ventas NIIF reportadas por Buenaventura (20-F 2025, nota de asociadas); utilidad neta US$ 1,367 M",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926053101/R118.htm"
+        },
+        "empleados": {
+          "n": 5467,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-sociedad-minera-cerro-verde-saa-20170072465.php"
+        },
+        "sede": "Arequipa",
+        "plantas": [
+          {
+            "nombre": "Mina Cerro Verde (tajos CV-Santa Rosa y Cerro Negro)",
+            "tipo": "mina",
+            "region": "Arequipa",
+            "localidad": "Uchumayo / Yarabamba"
+          },
+          {
+            "nombre": "Concentradoras C1 y C2 (420 ktpd)",
+            "tipo": "planta",
+            "region": "Arequipa",
+            "localidad": "Uchumayo"
+          }
+        ],
+        "estructura": {
+          "grupo": "Freeport-McMoRan",
+          "accionistas": "Freeport-McMoRan + Cyprus Climax 55.66 %, Sumitomo, Buenaventura",
+          "bolsa": "BVL: CVERDEC1",
+          "fuente": "https://energiminas.com/?p=49568"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "SENACE aprobó en feb-2026 la 2.ª MEIA (US$ 2,100 M) que extiende la operación hasta 2053",
+          "fuente": "https://energiminas.com/?p=41923"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Automatización",
+          "producto": "Sistema de despacho de flota (Dispatch)",
+          "evidencia": "Área de Innovación y Tecnología Minera administra el sistema de gestión de flota Dispatch",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2023/12/14/cerro-verde-apunta-a-la-integracion-digital-de-toda-su-operacion-tomas-gonzales"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Centro de control centralizado + trazabilidad de mineral con IA",
+          "evidencia": "Busca integrar todos sus sistemas con inteligencia artificial y rastreo de mineral hasta la concentradora",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2023/12/14/cerro-verde-apunta-a-la-integracion-digital-de-toda-su-operacion-tomas-gonzales"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "extensión de vida de mina",
+          "relaves",
+          "agua"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-02",
+            "tipo": "permiso",
+            "tema": "extensión de vida de mina",
+            "titulo": "SENACE aprueba 2.ª MEIA de Cerro Verde: US$ 2,100 M hasta 2053",
+            "detalle": "Integra tres tajos, recrece relavera Linga 57 m y amplía PAD4B.",
+            "fuente": "https://energiminas.com/?p=41923"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "inversión",
+            "tema": "capex sostenido",
+            "titulo": "Capex de US$ 168 M en el 1S-2026 y utilidad de US$ 501 M en T2",
+            "detalle": "Mantiene inversión en planta y equipo y reparte US$ 600 M en dividendos.",
+            "fuente": "https://energiminas.com/?p=49568"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "adquisición",
+            "tema": "control accionario",
+            "titulo": "Freeport sube su participación en Cerro Verde a 55.66 %",
+            "detalle": "Freeport y Cyprus Climax compraron 2 millones de acciones adicionales.",
+            "fuente": "https://energiminas.com/?p=49568"
+          }
+        ]
+      }
+    },
+    {
+      "id": "southern-peru",
+      "nombre": "Southern Perú",
+      "razon_social": "SOUTHERN PERU COPPER CORPORATION, SUCURSAL DEL PERU",
+      "ruc": "20100147514",
+      "subsector": "Cobre y molibdeno · gran minería y fundición",
+      "web": "https://www.southernperu.com",
+      "linkedin": "https://www.linkedin.com/company/southern-peru",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-southern-peru-copper-corporation-sucursal-del-peru-20100147514.php"
+        },
+        "facturacion": {
+          "usd_m": 5247.6,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ventas netas del segmento Operaciones a tajo abierto en Perú (10-K de Southern Copper)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+        },
+        "empleados": {
+          "n": 5399,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-southern-peru-copper-corporation-sucursal-del-peru-20100147514.php"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Toquepala",
+            "tipo": "mina",
+            "region": "Tacna",
+            "localidad": "Ilabaya, Jorge Basadre"
+          },
+          {
+            "nombre": "Mina Cuajone",
+            "tipo": "mina",
+            "region": "Moquegua",
+            "localidad": "Torata, Mariscal Nieto"
+          },
+          {
+            "nombre": "Fundición y refinería de Ilo",
+            "tipo": "planta",
+            "region": "Moquegua",
+            "localidad": "Ilo"
+          },
+          {
+            "nombre": "Proyecto Tía María (en construcción)",
+            "tipo": "mina",
+            "region": "Arequipa",
+            "localidad": "Cocachacra, Islay"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo México / Southern Copper Corporation",
+          "accionistas": "Sucursal de Southern Copper Corp., controlada por Grupo México",
+          "bolsa": "NYSE: SCCO · BVL: SCCO (matriz)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1001838/000110465926021492/scco-20251231x10k.htm"
+        },
+        "etapa": {
+          "valor": "nuevo proyecto",
+          "evidencia": "Construye Tía María (US$ 1,800 M, inicio 2S-2027) y prepara Los Chancas y Michiquillay",
+          "fuente": "https://energiminas.com/2026/07/22/presidente-de-southern-copper-nos-alienta-las-declaraciones-iniciales-efectuadas-por-la-presidenta-electa-keiko-fujimori/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Camiones y perforadoras autónomas (Tía María)",
+          "evidencia": "Adquirió 14 camiones autónomos y 2 perforadoras autónomas para Tía María",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/06/proyecto-tia-maria-southern-ha-adquirido-14-camiones-autonomos-y-2-perforadoras-autonomas/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Red privada 5G (Tía María) y 4G (Toquepala, Cuajone)",
+          "evidencia": "Implementará 5G en Tía María; Toquepala y Cuajone operan con 4G",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/06/proyecto-tia-maria-southern-ha-adquirido-14-camiones-autonomos-y-2-perforadoras-autonomas/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Komatsu 980E-4 (400 t)",
+          "evidencia": "Sumó 9 camiones Komatsu 980E-4 a los 7 que operan en Toquepala y Cuajone",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://plataforma.constructivo.com/revistas/tm61/docs/tm61_51.pdf"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Monitoreo remoto de motores Cummins (730E/830E/930E)",
+          "evidencia": "Distribuidora Cummins monitorea en tiempo real motores de la flota en Toquepala y Cuajone",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://plataforma.constructivo.com/revistas/tm61/docs/tm61_51.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "nuevo proyecto de cobre",
+          "autonomía",
+          "5G",
+          "financiamiento"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-07",
+            "tipo": "financiamiento",
+            "tema": "Tía María",
+            "titulo": "Southern coloca bonos por US$ 1,250 M; Tía María con US$ 693 M ejecutados",
+            "detalle": "Bono al 5.35 % a 2036; US$ 1,100 M comprometidos y 71 % de movimiento de tierras.",
+            "fuente": "https://energiminas.com/2026/07/22/presidente-de-southern-copper-nos-alienta-las-declaraciones-iniciales-efectuadas-por-la-presidenta-electa-keiko-fujimori/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "contrato",
+            "tema": "autonomía",
+            "titulo": "Southern compra 14 camiones y 2 perforadoras autónomas para Tía María",
+            "detalle": "Incluye faja cubierta de 8.5 km y red 5G en la nueva mina.",
+            "fuente": "https://energiminas.com/2026/05/06/proyecto-tia-maria-southern-ha-adquirido-14-camiones-autonomos-y-2-perforadoras-autonomas/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "proyecto",
+            "tema": "cartera de cobre",
+            "titulo": "Cartera Tía María, Los Chancas y Michiquillay suma US$ 10,300 M",
+            "detalle": "Larrea reafirma los tres proyectos tras la elección presidencial de 2026.",
+            "fuente": "https://energiminas.com/2026/07/22/presidente-de-southern-copper-nos-alienta-las-declaraciones-iniciales-efectuadas-por-la-presidenta-electa-keiko-fujimori/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "las-bambas",
+      "nombre": "Las Bambas (MMG)",
+      "razon_social": "MINERA LAS BAMBAS S.A.",
+      "ruc": "20538428524",
+      "subsector": "Cobre · gran minería",
+      "web": "https://www.lasbambas.com",
+      "linkedin": "https://www.linkedin.com/company/mmg-las-bambas",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-minera-las-bambas-sa-20538428524.php"
+        },
+        "facturacion": {
+          "usd_m": 4447.0,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ingresos de Las Bambas en resultados anuales de MMG (+49 % a/a); EBITDA US$ 2,831 M",
+          "fuente": "https://www.mmg.com/wp-content/uploads/2026/03/e_2026-03-03_2025-Annual-Results.pdf"
+        },
+        "empleados": {
+          "n": 2630,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025; sin contratistas",
+          "fuente": "https://www.datosperu.org/empresa-minera-las-bambas-sa-20538428524.php"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Las Bambas (Ferrobamba, Chalcobamba)",
+            "tipo": "mina",
+            "region": "Apurímac",
+            "localidad": "Challhuahuacho, Cotabambas"
+          },
+          {
+            "nombre": "Concentradora (152 ktpd)",
+            "tipo": "planta",
+            "region": "Apurímac",
+            "localidad": "Challhuahuacho, Cotabambas"
+          },
+          {
+            "nombre": "Centro de Operaciones Digitales",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "Lima"
+          }
+        ],
+        "estructura": {
+          "grupo": "MMG Limited (China Minmetals)",
+          "accionistas": "MMG 62.5 %, Guoxin International 22.5 %, CITIC Metal 15 %",
+          "bolsa": "HKEX: 1208 (MMG)",
+          "fuente": "https://www.mmg.com/annual-report/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Producción récord desde 2016 (410.8 kt Cu en 2025) y proyecto Reposición Ferrobamba de US$ 1,750 M en ejecución",
+          "fuente": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.daily-publications.latam-daily.latam-daily.2026-issues.-august-13-2026-.html"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Red privada 4G LTE Nokia + Telefónica",
+          "evidencia": "Primera LTE privada minera del Perú, operativa desde julio 2020 para automatización",
+          "anio": 2020,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/?p=9178"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Centro de Operaciones Digitales (DOC) en Lima",
+          "evidencia": "Operadores controlan remotamente 24/7 desde Lima, a >1,000 km de la mina",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/?p=9178"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Komatsu 980E y 930E-4SE; Caterpillar 797F",
+          "evidencia": "Flota de Ferrobamba: 15 Komatsu 980E, 44 Komatsu 930E-4SE y 15 CAT 797F",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://proactivo.com.pe/?p=379830"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "extensión de vida de mina",
+          "taller de camiones",
+          "relaves"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "proyecto",
+            "tema": "extensión de vida de mina",
+            "titulo": "Reposición Ferrobamba (US$ 1,750 M) en ejecución; nuevo taller de camiones",
+            "detalle": "Capex 2026 en desarrollo de mina, infraestructura del tajo y relavera.",
+            "fuente": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.daily-publications.latam-daily.latam-daily.2026-issues.-august-13-2026-.html"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "proyecto",
+            "tema": "producción",
+            "titulo": "Las Bambas supera 100 kt de cobre en el 1T-2026",
+            "detalle": "101 kt (+6 %) por mejor recuperación; meta de 380-400 kt en 2026.",
+            "fuente": "https://energiminas.com/?p=45137"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "inversión",
+            "tema": "resultados",
+            "titulo": "MMG: Las Bambas factura US$ 4,447 M en 2025 (+49 %)",
+            "detalle": "Mayor contribuyente del grupo con EBITDA de US$ 2,831 M.",
+            "fuente": "https://www.mmg.com/wp-content/uploads/2026/03/e_2026-03-03_2025-Annual-Results.pdf"
+          },
+          {
+            "fecha": "2025-07",
+            "tipo": "permiso",
+            "tema": "Chalcobamba",
+            "titulo": "Senace aprueba plan de US$ 878 M para extender Chalcobamba",
+            "detalle": "Minado 2025-2033, detectores de metales en fajas y ampliación de botaderos.",
+            "fuente": "https://energiminas.com/?p=33925"
+          }
+        ]
+      }
+    },
+    {
+      "id": "quellaveco",
+      "nombre": "Anglo American Quellaveco",
+      "razon_social": "ANGLO AMERICAN QUELLAVECO S.A.",
+      "ruc": "20137913250",
+      "subsector": "Cobre · gran minería",
+      "web": "https://peru.angloamerican.com",
+      "linkedin": "https://www.linkedin.com/company/anglo-american",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-anglo-american-quellaveco-sa-20137913250.php"
+        },
+        "facturacion": {
+          "usd_m": 3419,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ingresos del segmento Copper Peru (100 % Quellaveco); EBITDA US$ 2,325 M, capex US$ 377 M",
+          "fuente": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/investors/annual-reporting/2025/aa-annual-report-full-2025.pdf"
+        },
+        "empleados": {
+          "n": 1239,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025; Anglo reporta ~1,500 empleados en Copper Peru (2025)",
+          "fuente": "https://www.datosperu.org/empresa-anglo-american-quellaveco-sa-20137913250.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Quellaveco",
+            "tipo": "mina",
+            "region": "Moquegua",
+            "localidad": "Torata, Mariscal Nieto"
+          },
+          {
+            "nombre": "Concentradora Quellaveco (~142 ktpd a fines de 2026)",
+            "tipo": "planta",
+            "region": "Moquegua",
+            "localidad": "Torata, Mariscal Nieto"
+          }
+        ],
+        "estructura": {
+          "grupo": "Anglo American",
+          "accionistas": "Anglo American 60 %, Mitsubishi 40 %",
+          "bolsa": "LSE: AAL (matriz)",
+          "fuente": "https://energiminas.com/2026/08/11/produccion-de-quellaveco-se-situa-en-las-148-400-toneladas-a-junio/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Primera etapa de expansión aprobada en 2025 sube la planta de 127.5 a ~142 ktpd a fines de 2026",
+          "fuente": "https://energiminas.com/2026/09/09/quellaveco-potencial-de-expansion/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Automatización",
+          "producto": "Cat MineStar Command (34 camiones Cat 794 autónomos)",
+          "evidencia": "Primera flota autónoma del Perú; 500 Mt acarreadas, soporte 24/7 de Ferreyros",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/06/22/caterpillar-reconoce-a-quellaveco-por-acarrear-500-millones-de-toneladas-de-forma-autonoma/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Centro Integrado de Operaciones (IOC) y perforación autónoma",
+          "evidencia": "Hub remoto con datos en tiempo real controla camiones y perforadoras autónomas",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/investors/annual-reporting/2025/aa-annual-report-full-2025.pdf"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Metso: Vertimills, flotación y espesadores (contrato LCS)",
+          "evidencia": "Metso mantiene la zona húmeda de la concentradora con 96 técnicos permanentes",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/06/02/metso-contribuye-con-el-desarrollo-en-moquegua-y-la-operacion-sostenible-de-quellaveco-a-traves-de-contrato-lcs/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Mina digital: información en tiempo real y sistemas de gestión",
+          "evidencia": "Se presenta como la primera mina digital del Perú; 100 % energía renovable",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://energiminas.com/2026/07/22/quellaveco-cuatro-anos-como-la-primera-mina-digital-del-peru/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Coarse Particle Recovery (CPR) en flotación",
+          "evidencia": "Planta CPR recupera cobre de relaves; expansión mejora molienda y flotación",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group-v9/PLC/investors/annual-reporting/2025/aa-annual-report-full-2025.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "ampliación de planta",
+          "autonomía",
+          "mantenimiento"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Quellaveco amplía planta a ~142 ktpd a fines de 2026",
+            "detalle": "Incluye segunda chancadora de pebbles; parada mayor de planta prevista en 2027.",
+            "fuente": "https://energiminas.com/2026/09/09/quellaveco-potencial-de-expansion/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "contrato",
+            "tema": "mantenimiento",
+            "titulo": "Metso renueva enfoque LCS en la concentradora de Quellaveco",
+            "detalle": "Tras tres años, el contrato de mantenimiento puede extenderse.",
+            "fuente": "https://energiminas.com/2026/06/02/metso-contribuye-con-el-desarrollo-en-moquegua-y-la-operacion-sostenible-de-quellaveco-a-traves-de-contrato-lcs/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "piloto",
+            "tema": "autonomía",
+            "titulo": "Caterpillar reconoce 500 Mt acarreadas en forma autónoma",
+            "detalle": "34 camiones Cat 794 con MineStar Command operan desde 2021.",
+            "fuente": "https://energiminas.com/2026/06/22/caterpillar-reconoce-a-quellaveco-por-acarrear-500-millones-de-toneladas-de-forma-autonoma/"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "inversión",
+            "tema": "obras por impuestos",
+            "titulo": "Quellaveco ofrece financiar nuevo desembarcadero pesquero en Ilo",
+            "detalle": "Expresó formalmente interés en financiar la infraestructura.",
+            "fuente": "https://energiminas.com/2026/09/17/quellaveco-expresa-formalmente-interes-en-financiar-nuevo-desembarcadero-pesquero-en-ilo/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "chinalco-toromocho",
+      "nombre": "Chinalco Perú (Toromocho)",
+      "razon_social": "MINERA CHINALCO PERÚ S.A.",
+      "ruc": "20506675457",
+      "subsector": "Cobre, molibdeno y plata · gran minería",
+      "web": "https://www.chinalco.com.pe",
+      "linkedin": "https://www.linkedin.com/company/minera-chinalco-peru-s-a-",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-minera-chinalco-peru-sa-20506675457.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "ventas",
+          "nota": "Sin estados financieros públicos desagregados encontrados",
+          "fuente": null
+        },
+        "empleados": {
+          "n": 1638,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-minera-chinalco-peru-sa-20506675457.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Toromocho",
+            "tipo": "mina",
+            "region": "Junín",
+            "localidad": "Morococha, Yauli"
+          },
+          {
+            "nombre": "Centro de Gestión Integrada de Operaciones (GIO)",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "Lima"
+          },
+          {
+            "nombre": "Proyecto Los Calatos (adquirido)",
+            "tipo": "mina",
+            "region": "Moquegua",
+            "localidad": "Mariscal Nieto"
+          }
+        ],
+        "estructura": {
+          "grupo": "Aluminum Corporation of China (Chinalco)",
+          "accionistas": "Subsidiaria del grupo estatal chino Chinalco",
+          "bolsa": null,
+          "fuente": "https://energiminas.com/2026/07/08/los-calatos-chinalco-paga-us-200-millones-por-minera-hampton-peru/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Invierte US$ 400 M en molienda (+10-15 % capacidad) y compró Los Calatos por US$ 200 M",
+          "fuente": "https://energiminas.com/2026/02/19/chinalco-invertira-us-400-millones-en-proceso-de-molienda-en-su-mina-toromocho/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Red privada 5G de Claro con MCPTT",
+          "evidencia": "Primera 5G privada para sistemas mineros autónomos en Perú, soporta gestión de flota y video",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/02/12/toromocho-minera-chinalco-peru-transforma-su-operacion-remota-con-una-red-privada-5g-de-ultima-generacion/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Centro GIO con analítica avanzada e IA",
+          "evidencia": "Hub de 1,000 m² en Lima supervisa en tiempo real toda la cadena de Toromocho",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/07/13/centro-de-gestion-integrada-de-operaciones-de-chinalco-se-constituye-como-un-referente-en-la-industria-minera-global/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Mantenimiento predictivo y control remoto (cerebro digital)",
+          "evidencia": "El cerebro digital anticipa mantenimiento de equipos; transformación digital sumó 5,424 t y US$ 21.5 M",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/06/chinalco-logra-aumento-de-5424-toneladas-y-us21-5-millones-por-transformacion-digital/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "molienda",
+          "transformación digital",
+          "5G",
+          "adquisiciones"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-07",
+            "tipo": "adquisición",
+            "tema": "nuevo proyecto de cobre",
+            "titulo": "Chinalco paga US$ 200 M por Minera Hampton (Los Calatos)",
+            "detalle": "Proyecto subterráneo de 60 kt/año de cobre; EIA pendiente y producción en 2029.",
+            "fuente": "https://energiminas.com/2026/07/08/los-calatos-chinalco-paga-us-200-millones-por-minera-hampton-peru/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "piloto",
+            "tema": "operación remota",
+            "titulo": "Centro GIO de Chinalco, referente global según el MINEM",
+            "detalle": "Supervisión remota con IA para anticipar mantenimientos.",
+            "fuente": "https://energiminas.com/2026/07/13/centro-de-gestion-integrada-de-operaciones-de-chinalco-se-constituye-como-un-referente-en-la-industria-minera-global/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "piloto",
+            "tema": "transformación digital",
+            "titulo": "Transformación digital suma 5,424 t y US$ 21.5 M en Toromocho",
+            "detalle": "Resultados medibles de analítica e IA en la operación.",
+            "fuente": "https://energiminas.com/2026/05/06/chinalco-logra-aumento-de-5424-toneladas-y-us21-5-millones-por-transformacion-digital/"
+          },
+          {
+            "fecha": "2026-02",
+            "tipo": "inversión",
+            "tema": "molienda",
+            "titulo": "Chinalco invertirá US$ 400 M en molienda en Toromocho",
+            "detalle": "Reemplazo de equipos para subir capacidad 10-15 % en 2026.",
+            "fuente": "https://energiminas.com/2026/02/19/chinalco-invertira-us-400-millones-en-proceso-de-molienda-en-su-mina-toromocho/"
+          },
+          {
+            "fecha": "2026-02",
+            "tipo": "contrato",
+            "tema": "5G",
+            "titulo": "Claro despliega red privada 5G en Toromocho",
+            "detalle": "Habilita operación remota y sistemas autónomos desde Lima.",
+            "fuente": "https://energiminas.com/2026/02/12/toromocho-minera-chinalco-peru-transforma-su-operacion-remota-con-una-red-privada-5g-de-ultima-generacion/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hudbay-constancia",
+      "nombre": "Hudbay Perú (Constancia)",
+      "razon_social": "HUDBAY PERU S.A.C.",
+      "ruc": "20511165181",
+      "subsector": "Cobre, oro y plata · gran minería",
+      "web": "https://hudbayminerals.com/peru",
+      "linkedin": "https://www.linkedin.com/company/hudbay-minerals-inc",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-hudbay-peru-sac-20511165181.php"
+        },
+        "facturacion": {
+          "usd_m": 1161.2,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ingresos del segmento Perú (Constancia) en estados auditados de Hudbay (40-F 2025)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1322422/000106299326001648/exhibit99-2.htm"
+        },
+        "empleados": {
+          "n": 1095,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-hudbay-peru-sac-20511165181.php"
+        },
+        "sede": "Miraflores, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina y concentradora Constancia",
+            "tipo": "mina",
+            "region": "Cusco",
+            "localidad": "Chamaca / Livitaca, Chumbivilcas"
+          }
+        ],
+        "estructura": {
+          "grupo": "Hudbay Minerals Inc. (Canadá)",
+          "accionistas": "Hudbay Minerals 100 %",
+          "bolsa": "TSX / NYSE: HBM (matriz)",
+          "fuente": "https://energiminas.com/2026/03/02/hudbay-minerals-comprara-arizona-sonoran-en-un-acuerdo-de-us1000-millones/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Pampacancha se agotó a fines de 2025; amplía planta a 31.1 Mt/año para sostener producción",
+          "fuente": "https://energiminas.com/2026/05/04/constancia-hudbay-prosigue-la-instalacion-de-trituradoras-de-piedras-para-aumentar-capacidad-de-produccion/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Datos/BI",
+          "producto": "Copiloto+ (IA predictiva de fatiga)",
+          "evidencia": "Modelo de machine learning con sensores, relojes inteligentes y sistema de gestión de flota",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2023/11/15/hudbay-incorpora-inteligencia-artificial-para-elevar-estandares-de-seguridad/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Sistema de gestión de flota / despacho",
+          "evidencia": "Controladores de despacho detienen camiones según alertas de fatiga",
+          "anio": 2023,
+          "confianza": "media",
+          "fuente": "https://energiminas.com/2023/11/15/hudbay-incorpora-inteligencia-artificial-para-elevar-estandares-de-seguridad/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Chancadoras de pebbles (nuevas)",
+          "evidencia": "Instalación de trituradoras de pebbles en curso durante el 2S-2026",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/04/constancia-hudbay-prosigue-la-instalacion-de-trituradoras-de-piedras-para-aumentar-capacidad-de-produccion/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "ampliación de planta",
+          "chancado",
+          "transporte de concentrado"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-05",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Hudbay instala chancadoras de pebbles en Constancia",
+            "detalle": "Busca elevar procesamiento; beneficios esperados desde el 2S-2026.",
+            "fuente": "https://energiminas.com/2026/05/04/constancia-hudbay-prosigue-la-instalacion-de-trituradoras-de-piedras-para-aumentar-capacidad-de-produccion/"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "permiso",
+            "tema": "capacidad",
+            "titulo": "Aprueban subir capacidad de Constancia a 31.1 Mt/año",
+            "detalle": "Autorización del 6 de marzo de 2026, desde 29.9 Mt/año.",
+            "fuente": "https://energiminas.com/2026/05/04/constancia-hudbay-prosigue-la-instalacion-de-trituradoras-de-piedras-para-aumentar-capacidad-de-produccion/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "contrato",
+            "tema": "transporte de concentrado",
+            "titulo": "Empresa comunal suma 10 camiones encapsulados para Hudbay",
+            "detalle": "Empresa comunal de Uchuccarcco amplía su servicio de transporte.",
+            "fuente": "https://energiminas.com/2026/05/28/empresa-comunal-de-uchuccarcco-fortalece-servicio-de-transporte-para-hudbay-con-adquisicion-de-10-nuevos-camiones-encapsulados/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "inversión",
+            "tema": "obras por impuestos",
+            "titulo": "Hudbay apuesta por Obras por Impuestos en su zona de influencia",
+            "detalle": "Junto a Antamina, Cerro Verde y Minsur.",
+            "fuente": "https://energiminas.com/2026/07/01/antamina-cerro-verde-hudbay-y-minsur-apuestan-por-obras-por-impuestos-en-sus-zonas-de-influencia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "antapaccay",
+      "nombre": "Antapaccay (Glencore)",
+      "razon_social": "COMPAÑIA MINERA ANTAPACCAY S.A.",
+      "ruc": "20114915026",
+      "subsector": "Cobre · gran minería",
+      "web": "https://www.antapaccay.com.pe",
+      "linkedin": "https://www.linkedin.com/company/compania-minera-antapaccay",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-compania-minera-antapaccay-sa-20114915026.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "ventas",
+          "nota": "Glencore no publica ingresos desagregados de Antapaccay",
+          "fuente": null
+        },
+        "empleados": {
+          "n": 2022,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025; 2,034 empleos generados (61 % del Cusco)",
+          "fuente": "https://www.datosperu.org/empresa-compania-minera-antapaccay-sa-20114915026.php"
+        },
+        "sede": "Espinar, Cusco (campamento Tintaya)",
+        "plantas": [
+          {
+            "nombre": "Mina y concentradora Antapaccay",
+            "tipo": "mina",
+            "region": "Cusco",
+            "localidad": "Espinar"
+          },
+          {
+            "nombre": "Proyecto Coroccohuayco",
+            "tipo": "mina",
+            "region": "Cusco",
+            "localidad": "Espinar (7 km de Antapaccay)"
+          }
+        ],
+        "estructura": {
+          "grupo": "Glencore",
+          "accionistas": "Glencore 100 %",
+          "bolsa": "LSE: GLEN (matriz)",
+          "fuente": "https://energiminas.com/2026/09/03/coroccohuayco-ampliarpa-por-mas-de-25-anos-la-actividad-minera-de-antapaccay/"
+        },
+        "etapa": {
+          "valor": "nuevo proyecto",
+          "evidencia": "Integración Coroccohuayco (~US$ 1,800 M) extendería la operación más de 25 años; en trámite técnico-regulatorio",
+          "fuente": "https://energiminas.com/2026/09/03/coroccohuayco-ampliarpa-por-mas-de-25-anos-la-actividad-minera-de-antapaccay/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Perforadoras eléctricas y 17 buses eléctricos",
+          "evidencia": "Operación con 100 % energía renovable, perforación eléctrica y sistemas automatizados",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/11/25/integracion-coroccohuayco-una-propuesta-de-inversion-estimada-en-us-1800-millones-para-operar-hasta-2040/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Analítica de datos e IA en concentradora",
+          "evidencia": "El gerente general cita analítica e IA como herramientas de mejora continua",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://energiminas.com/2026/07/21/karim-batallanos-la-mejora-continua-en-antapaccay-forma-parte-de-nuestra-manera-de-trabajar/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "ISO 45001 e ISO 14001",
+          "evidencia": "Mantiene certificaciones tras auditoría internacional",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/09/28/antapaccay-mantiene-certificaciones-iso-45001-e-iso-14001-tras-superar-auditoria-internacional/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "extensión de vida de mina",
+          "agua",
+          "electrificación"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "extensión de vida de mina",
+            "titulo": "Coroccohuayco extendería más de 25 años la operación de Antapaccay",
+            "detalle": "Glencore avanza en procesos técnicos y regulatorios; inversión ~US$ 1,800 M.",
+            "fuente": "https://energiminas.com/2026/09/03/coroccohuayco-ampliarpa-por-mas-de-25-anos-la-actividad-minera-de-antapaccay/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "proyecto",
+            "tema": "agua",
+            "titulo": "Antapaccay inicia obra de agua en Espinar",
+            "detalle": "Pone en marcha obra hídrica y avanza hacia el Certificado Azul.",
+            "fuente": "https://energiminas.com/2026/07/17/antapaccay-espinar-pone-en-marcha-importante-obra-de-agua/"
+          },
+          {
+            "fecha": "2025-11",
+            "tipo": "proyecto",
+            "tema": "Coroccohuayco",
+            "titulo": "Integración Coroccohuayco: propuesta de US$ 1,800 M hasta 2040",
+            "detalle": "Integra el nuevo tajo a la concentradora existente.",
+            "fuente": "https://energiminas.com/2025/11/25/integracion-coroccohuayco-una-propuesta-de-inversion-estimada-en-us-1800-millones-para-operar-hasta-2040/"
+          },
+          {
+            "fecha": "2025-05",
+            "tipo": "permiso",
+            "tema": "consulta previa",
+            "titulo": "MINEM cierra consulta previa de Coroccohuayco",
+            "detalle": "Tras más de cinco años de proceso con comunidades de Espinar.",
+            "fuente": "https://energiminas.com/2025/05/27/proyecto-coroccohuayco-luego-de-mas-de-cinco-anos-minem-cierra-proceso-de-consulta-previa-con-comunidades-de-espinar/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "marcobre-mina-justa",
+      "nombre": "Marcobre (Mina Justa)",
+      "razon_social": "MARCOBRE S.A.C.",
+      "ruc": "20508972734",
+      "subsector": "Cobre (óxidos y sulfuros) · gran minería",
+      "web": "https://www.marcobre.com",
+      "linkedin": "https://www.linkedin.com/company/marcobre",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-marcobre-sac-20508972734.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "ventas",
+          "nota": "Sin cifra pública reciente; se consolida en Minsur (Breca)",
+          "fuente": null
+        },
+        "empleados": {
+          "n": 1339,
+          "anio": 2024,
+          "nota": "planilla SUNAT dic-2024; acarreo parcialmente tercerizado a STRACON",
+          "fuente": "https://www.datosperu.org/empresa-marcobre-sac-20508972734.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Justa (tajos Principal y Magnetita)",
+            "tipo": "mina",
+            "region": "Ica",
+            "localidad": "Marcona, Nasca"
+          },
+          {
+            "nombre": "Terminal Multiboyas bahía San Juan",
+            "tipo": "puerto",
+            "region": "Ica",
+            "localidad": "Marcona, Nasca"
+          }
+        ],
+        "estructura": {
+          "grupo": "Breca (vía Minsur) / Copec",
+          "accionistas": "Breca 60 %, Copec (Alxar) 40 %",
+          "bolsa": null,
+          "fuente": "https://energiminas.com/2026/03/13/mina-justa-stracon-gana-contrato-con-marcobre/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Ejecuta plan de US$ 373.7 M para ampliar tajos y prepara US$ 391 M para minería subterránea hasta 2044",
+          "fuente": "https://energiminas.com/2025/12/02/marcobre-prepara-inversion-de-us-391-millones-para-extender-vida-util-de-mina-justa-hasta-2044/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "LoRaWAN: Actility ThingPark + Abeeway Smart Badges + STRACON ST-TRACK",
+          "evidencia": "Más de 800 credenciales de rastreo de personal en tiempo real con plataforma GIS",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2024/01/30/mina-justa-marcobre-se-respalda-en-tecnologia-de-stracon-tech-y-abeeway-y-actility-para-mejorar-seguridad-en-operacion-minera/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Machine learning para recuperación y gemelos digitales",
+          "evidencia": "Algoritmos recomiendan maximizar recuperación y tonelaje; gemelos digitales para capacitación",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2024/05/16/piero-saravia-torres-en-mina-justa-ya-se-esta-utilizando-tecnologia-que-ayuda-a-mejorar-la-produccion-de-cobre-fino/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Camiones mineros de 220 t (flota STRACON)",
+          "evidencia": "STRACON opera camiones de 220 t y equipos de carguío por más de cinco años",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/03/13/mina-justa-stracon-gana-contrato-con-marcobre/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Bus eléctrico (primer piloto)",
+          "evidencia": "Incorpora su primer bus eléctrico en la operación",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/03/16/mina-justa-marcobre-incorpora-su-primer-bus-electrico-a-su-operacion-de-cobre/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "minería subterránea",
+          "acarreo tercerizado",
+          "electromovilidad"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-03",
+            "tipo": "contrato",
+            "tema": "acarreo tercerizado",
+            "titulo": "STRACON gana contrato de acarreo y carguío en Mina Justa",
+            "detalle": "Camiones de 220 t y mantenimiento en sitio por más de cinco años.",
+            "fuente": "https://energiminas.com/2026/03/13/mina-justa-stracon-gana-contrato-con-marcobre/"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "piloto",
+            "tema": "electromovilidad",
+            "titulo": "Marcobre incorpora su primer bus eléctrico en Mina Justa",
+            "detalle": "Primer paso de electromovilidad en el transporte de personal.",
+            "fuente": "https://energiminas.com/2026/03/16/mina-justa-marcobre-incorpora-su-primer-bus-electrico-a-su-operacion-de-cobre/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "permiso",
+            "tema": "minería subterránea",
+            "titulo": "Marcobre prepara US$ 391 M para extender Mina Justa a 2044",
+            "detalle": "WSP elabora la 2.ª MEIA-d; mina subterránea desde oct-2028.",
+            "fuente": "https://energiminas.com/2025/12/02/marcobre-prepara-inversion-de-us-391-millones-para-extender-vida-util-de-mina-justa-hasta-2044/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "minsur",
+      "nombre": "Minsur",
+      "razon_social": "MINSUR S.A.",
+      "ruc": "20100136741",
+      "subsector": "Estaño y oro · gran minería y fundición",
+      "web": "https://www.minsur.com",
+      "linkedin": "https://www.linkedin.com/company/minsur",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-minsur-sa-20100136741.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Total anual no hallado; ventas T3-25 US$ 322.6 M y T4-25 US$ 407.8 M",
+          "fuente": "https://energiminas.com/2026/02/17/minsur-produccion-de-estano-refinado-alcanzo-los-8596-toneladas-en-cuarto-trimestre-de-2025/"
+        },
+        "empleados": {
+          "n": 1779,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-minsur-sa-20100136741.php"
+        },
+        "sede": "Lima",
+        "plantas": [
+          {
+            "nombre": "Mina San Rafael y planta B2",
+            "tipo": "mina",
+            "region": "Puno",
+            "localidad": "Antauta, Melgar"
+          },
+          {
+            "nombre": "Fundición y refinería de Pisco",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Paracas, Pisco"
+          },
+          {
+            "nombre": "Mina Pucamarca",
+            "tipo": "mina",
+            "region": "Tacna",
+            "localidad": "Palca, Tacna"
+          }
+        ],
+        "estructura": {
+          "grupo": "Breca",
+          "accionistas": "Grupo Breca; controla 60 % de Marcobre (Mina Justa)",
+          "bolsa": "BVL: MINSURI1",
+          "fuente": "https://energiminas.com/2025/12/02/marcobre-prepara-inversion-de-us-391-millones-para-extender-vida-util-de-mina-justa-hasta-2044/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Producción de estaño estable; cartera nueva (Santo Domingo, Pucaccasa) en fases previas",
+          "fuente": "https://energiminas.com/2026/08/15/estano-minsur-planea-invertir-us-250-millones-en-su-proyecto-santo-domingo/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Horno Ausmelt (fundición de Pisco)",
+          "evidencia": "La planta de Pisco funde estaño en horno Ausmelt con filtro de mangas",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/06/27/planta-pisco-cambios-en-el-componente-esencial-de-minsur/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Sistema de briquetado (reemplaza peletizado)",
+          "evidencia": "Inversión de US$ 5.5 M en briquetadora, mezclador, zarandas y fajas",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/06/27/planta-pisco-cambios-en-el-componente-esencial-de-minsur/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Gerencia de Transformación Digital (app Crecemos Juntos)",
+          "evidencia": "Equipo propio desarrolló app web y móvil para gestionar proveedores locales",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2023/03/17/mineria-experimenta-brecha-de-talento-en-digitalizacion-e-innovacion-advierte-minsur/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "estaño",
+          "exploración",
+          "extensión de vida de mina"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "proyecto",
+            "tema": "estaño",
+            "titulo": "Minsur planea invertir US$ 250-265 M en proyecto Santo Domingo",
+            "detalle": "Mina subterránea de estaño en Puno; presentó alcances previos al EIA-d.",
+            "fuente": "https://energiminas.com/2026/08/15/estano-minsur-planea-invertir-us-250-millones-en-su-proyecto-santo-domingo/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "permiso",
+            "tema": "exploración",
+            "titulo": "Pucaccasa: Minsur propone 22,000 m de perforación en Huancavelica",
+            "detalle": "36 sondajes en 29 plataformas durante 24 meses.",
+            "fuente": "https://energiminas.com/2026/07/31/pucaccasa-la-apuesta-de-minsur-en-huancavelica/"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "permiso",
+            "tema": "extensión de vida de mina",
+            "titulo": "Senace aprueba plan de US$ 105 M de Pucamarca hasta 2028",
+            "detalle": "Resolución del 13-mar-2026; cierre de US$ 48 M hasta 2032.",
+            "fuente": "https://energiminas.com/2026/03/19/senace-otorgo-viabilidad-ambiental-a-plan-de-us105-millones-de-mina-pucamarca-de-minsur/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "inversión",
+            "tema": "subsidiarias",
+            "titulo": "Minsur aprueba aportes de capital de US$ 15.4 M a dos subsidiarias",
+            "detalle": "Capitalización de subsidiarias del grupo.",
+            "fuente": "https://energiminas.com/2025/12/17/minsur-aprueba-aportes-de-capital-por-us-15-4-millones-a-dos-subsidiarias/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "shougang-hierro-peru",
+      "nombre": "Shougang Hierro Perú",
+      "razon_social": "SHOUGANG HIERRO PERU S.A.A.",
+      "ruc": "20100142989",
+      "subsector": "Hierro · gran minería",
+      "web": "https://www.shougang.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0710",
+          "desc": "Extracción de minerales de hierro",
+          "fuente": "https://www.datosperu.org/empresa-shougang-hierro-peru-saa-20100142989.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "ventas",
+          "nota": "No se halló cifra pública reciente",
+          "fuente": null
+        },
+        "empleados": {
+          "n": 1938,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025",
+          "fuente": "https://www.datosperu.org/empresa-shougang-hierro-peru-saa-20100142989.php"
+        },
+        "sede": "San Juan de Marcona, Ica",
+        "plantas": [
+          {
+            "nombre": "Mina de hierro de Marcona (tajos 5, 14 y Zona Minera 2)",
+            "tipo": "mina",
+            "region": "Ica",
+            "localidad": "Marcona, Nasca"
+          },
+          {
+            "nombre": "Planta de beneficio y puerto San Nicolás",
+            "tipo": "puerto",
+            "region": "Ica",
+            "localidad": "Marcona, Nasca"
+          }
+        ],
+        "estructura": {
+          "grupo": "Shougang Group (China)",
+          "accionistas": "Controlada por el grupo estatal chino Shougang",
+          "bolsa": null,
+          "fuente": "https://energiminas.com/2025/01/23/descarbonizacion-62-camiones-mineros-hibridos-operaran-en-mina-de-china-shougang-hierro-peru/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Plan de US$ 1,824 M amplía tres tajos y extiende la vida útil 24 años; 2.º mayor inversor minero al 1T-2026",
+          "fuente": "https://energiminas.com/2026/02/03/construccion-operacion-y-cierre-shougang-hierro-peru-planea-invertir-us-1824-millones-para-seguir-operando/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "62 camiones híbridos Tonly TLH135 (90 t)",
+          "evidencia": "Camiones híbridos chinos distribuidos por ZAMine Perú, 10-15 % menos energía",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/01/23/descarbonizacion-62-camiones-mineros-hibridos-operaran-en-mina-de-china-shougang-hierro-peru/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Chancado semimóvil y fajas transportadoras (planificado)",
+          "evidencia": "Plan de chancadora semimóvil desde el año 5 y rediseño de la Faja Mina 21",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/10/03/shougang-hierro-peru-saa-y-su-plan-de-modificar-componentes/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "ampliación de tajos",
+          "chancado y fajas",
+          "energía eólica",
+          "puerto"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "contrato",
+            "tema": "puerto",
+            "titulo": "Shougang firma convenio que destraba puerto de San Juan de Marcona",
+            "detalle": "Acuerdo con ProInversión para entregar terrenos al terminal de US$ 404.8 M.",
+            "fuente": "https://energiminas.com/2026/09/25/shougang-hierro-firman-convenio-que-impulsa-ejecucion-del-terminal-portuario-de-san-juan-de-marcona/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "inversión",
+            "tema": "capex",
+            "titulo": "Shougang, 2.º mayor inversor minero al 1T-2026 (US$ 153 M)",
+            "detalle": "Mayor alza relativa entre las principales mineras según el MINEM.",
+            "fuente": "https://energiminas.com/2026/06/01/southern-shougang-hierro-y-las-bambas-las-mineras-que-mas-invierten-a-marzo/"
+          },
+          {
+            "fecha": "2026-02",
+            "tipo": "permiso",
+            "tema": "ampliación de tajos",
+            "titulo": "Shougang planea invertir US$ 1,824 M para seguir operando",
+            "detalle": "Amplía tres tajos y botaderos y modifica la faja de la Mina 21.",
+            "fuente": "https://energiminas.com/2026/02/03/construccion-operacion-y-cierre-shougang-hierro-peru-planea-invertir-us-1824-millones-para-seguir-operando/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "permiso",
+            "tema": "energía eólica",
+            "titulo": "Aprueban parque eólico Shougang de 300 MW en Marcona",
+            "detalle": "Shougang Generación invertirá US$ 348.8 M en 50 aerogeneradores.",
+            "fuente": "https://energiminas.com/2025/12/19/aprueban-parque-eolico-de-shougang-generacion-a-instalarse-en-marcona-por-us-348-millones/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yanacocha",
+      "nombre": "Yanacocha (Newmont)",
+      "razon_social": "MINERA YANACOCHA S.R.L.",
+      "ruc": "20137291313",
+      "subsector": "Oro · gran minería",
+      "web": "https://www.yanacocha.com",
+      "linkedin": "https://www.linkedin.com/company/newmont-corporation",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-minera-yanacocha-srl-20137291313.php"
+        },
+        "facturacion": {
+          "usd_m": 1804,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ventas del segmento Yanacocha en el 10-K 2025 de Newmont (515 koz de oro; 2024: US$ 841 M)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1164727/000116472726000010/nem-20251231.htm"
+        },
+        "empleados": {
+          "n": 779,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025 (dato más reciente publicado)",
+          "fuente": "https://www.datosperu.org/empresa-minera-yanacocha-srl-20137291313.php"
+        },
+        "sede": "Cajamarca",
+        "plantas": [
+          {
+            "nombre": "Complejo Yanacocha (pads de lixiviación, Yanacocha Norte)",
+            "tipo": "mina",
+            "region": "Cajamarca",
+            "localidad": "Cajamarca"
+          }
+        ],
+        "estructura": {
+          "grupo": "Newmont",
+          "accionistas": "Newmont (operador)",
+          "bolsa": "NYSE: NEM (matriz)",
+          "fuente": "https://energiminas.com/2026/05/08/yanacocha-nueva-tecnologia-de-recuperacion-ya-aporta-casi-el-50-de-la-produccion-de-oro/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Lidera el oro peruano en 2026; la lixiviación por inyección extiende la operación 4-5 años",
+          "fuente": "https://energiminas.com/2026/05/08/yanacocha-nueva-tecnologia-de-recuperacion-ya-aporta-casi-el-50-de-la-produccion-de-oro/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Lixiviación por inyección (recuperación secundaria)",
+          "evidencia": "Aporta 44 % del oro y 65 % de la plata; redujo costos sostenidos 26 %",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/08/yanacocha-nueva-tecnologia-de-recuperacion-ya-aporta-casi-el-50-de-la-produccion-de-oro/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Drones con cámara multiespectral, fotogrametría y NDVI",
+          "evidencia": "Monitoreo georreferenciado de áreas rehabilitadas con software geoespacial",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/04/28/mas-completo-preciso-y-estrategico-dron-revoluciona-monitoreo-de-areas-rehabilitadas-en-mina-yanacocha/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "recuperación secundaria",
+          "agua",
+          "cierre de minas"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-05",
+            "tipo": "permiso",
+            "tema": "agua",
+            "titulo": "Luz verde (IGAPRO) para construir la presa Chonta en Cajamarca",
+            "detalle": "Proyecto hídrico coordinado con MIDAGRI y municipio vía Agua para Cajamarca.",
+            "fuente": "https://energiminas.com/2026/05/17/yanacocha-luz-verde-para-construccion-de-presa-chonta-en-cajamarca/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "piloto",
+            "tema": "recuperación secundaria",
+            "titulo": "Lixiviación por inyección ya aporta casi 50 % del oro de Yanacocha",
+            "detalle": "Tecnología extiende la vida 4-5 años antes del cierre.",
+            "fuente": "https://energiminas.com/2026/05/08/yanacocha-nueva-tecnologia-de-recuperacion-ya-aporta-casi-el-50-de-la-produccion-de-oro/"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "proyecto",
+            "tema": "lixiviación",
+            "titulo": "Yanacocha mantendrá riego por inyección hasta 2032",
+            "detalle": "Plan de lixiviación secundaria de largo plazo en sus pads.",
+            "fuente": "https://energiminas.com/2026/03/31/lixiviacion-en-yanacocha-riego-por-inyeccion-hasta-el-2032/"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "piloto",
+            "tema": "drones",
+            "titulo": "Drones multiespectrales monitorean áreas rehabilitadas",
+            "detalle": "Meta de 75 % de cobertura vegetal en zonas rehabilitadas.",
+            "fuente": "https://energiminas.com/2026/04/28/mas-completo-preciso-y-estrategico-dron-revoluciona-monitoreo-de-areas-rehabilitadas-en-mina-yanacocha/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "buenaventura",
+      "nombre": "Buenaventura",
+      "razon_social": "COMPAÑIA DE MINAS BUENAVENTURA S.A.A.",
+      "ruc": "20100079501",
+      "subsector": "Oro, plata y cobre · grupo minero diversificado",
+      "web": "https://www.buenaventura.com",
+      "linkedin": "https://www.linkedin.com/company/compania-de-minas-buenaventura",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-compania-de-minas-buenaventura-saa-20100079501.php"
+        },
+        "facturacion": {
+          "usd_m": 1731.6,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ingresos operativos consolidados NIIF (20-F 2025); utilidad neta US$ 830 M",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926053101/R118.htm"
+        },
+        "empleados": {
+          "n": 2072,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025 (matriz)",
+          "fuente": "https://www.datosperu.org/empresa-compania-de-minas-buenaventura-saa-20100079501.php"
+        },
+        "sede": "Lima",
+        "plantas": [
+          {
+            "nombre": "San Gabriel (oro, en ramp-up)",
+            "tipo": "mina",
+            "region": "Moquegua",
+            "localidad": "Ichuña, General Sánchez Cerro"
+          },
+          {
+            "nombre": "Orcopampa",
+            "tipo": "mina",
+            "region": "Arequipa",
+            "localidad": "Orcopampa, Castilla"
+          },
+          {
+            "nombre": "Tambomayo",
+            "tipo": "mina",
+            "region": "Arequipa",
+            "localidad": "Tapay, Caylloma"
+          },
+          {
+            "nombre": "Uchucchacua / Yumpag",
+            "tipo": "mina",
+            "region": "Lima / Pasco",
+            "localidad": "Oyón"
+          },
+          {
+            "nombre": "Julcani",
+            "tipo": "mina",
+            "region": "Huancavelica",
+            "localidad": "Ccochaccasa, Angaraes"
+          }
+        ],
+        "estructura": {
+          "grupo": "Buenaventura (familia Benavides)",
+          "accionistas": "Accionista de Cerro Verde (asociada) y controladora de El Brocal",
+          "bolsa": "NYSE: BVN · BVL: BUENAVC1",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1013131/000110465926053101/R118.htm"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "San Gabriel inició ventas en el 2T-2026 y Yumpag sube a 1,200 tpd",
+          "fuente": "https://energiminas.com/2026/08/04/buenaventura-reporta-una-utilidad-neta-de-us-260-6-millones-al-cierre-del-primer-semestre/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Planta de filtrado a presión de relaves (Orcopampa)",
+          "evidencia": "Inversión de US$ 70 M para filtrar 30,000 t/mes y recuperar agua",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/06/19/orcopampa-tecnologia-de-filtrado-a-presion-en-la-disposicion-de-los-relaves-para-extender-vida-util/"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Modelos de IA con datos reales en servidores internos",
+          "evidencia": "Usa datos productivos reales y equipos conectados en minas subterráneas para IA",
+          "anio": 2024,
+          "confianza": "media",
+          "fuente": "https://energiminas.com/2024/07/01/necesitamos-datos-productivos-reales-no-podemos-generar-modelos-o-productos-de-ia-con-datos-simulados-uso-de-la-ia-en-minsur-antamina-y-buenaventura/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Método de minado subterráneo selectivo (San Gabriel)",
+          "evidencia": "Primera mina de Sudamérica con ese método por roca de mala calidad (90 %)",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/05/san-gabriel-buenaventura-evalua-operar-mina-tambien-a-tajo-abierto/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "oro",
+          "relaves filtrados",
+          "ampliación de capacidad"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "proyecto",
+            "tema": "oro",
+            "titulo": "San Gabriel registra sus primeras ventas en el 2T-2026",
+            "detalle": "Ramp-up limitado por la planta de filtrado de relaves.",
+            "fuente": "https://energiminas.com/2026/08/04/san-gabriel-buenaventura-comenzo-a-registrar-volumenes-de-ventas-en-el-segundo-trimestre/"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "permiso",
+            "tema": "ampliación de capacidad",
+            "titulo": "Aprueban subir Yumpag de 1,000 a 1,200 t/día",
+            "detalle": "Aprobación del 10 de julio de 2026.",
+            "fuente": "https://energiminas.com/2026/08/04/buenaventura-reporta-una-utilidad-neta-de-us-260-6-millones-al-cierre-del-primer-semestre/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "proyecto",
+            "tema": "relaves filtrados",
+            "titulo": "Orcopampa: US$ 70 M en filtrado a presión de relaves",
+            "detalle": "Planta de 30,000 t/mes para extender la vida del depósito R4A.",
+            "fuente": "https://energiminas.com/2026/06/19/orcopampa-tecnologia-de-filtrado-a-presion-en-la-disposicion-de-los-relaves-para-extender-vida-util/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "proyecto",
+            "tema": "tajo abierto",
+            "titulo": "Buenaventura evalúa operar San Gabriel también a tajo abierto",
+            "detalle": "Podría sumar hasta 16 años de vida a la mina.",
+            "fuente": "https://energiminas.com/2026/05/05/san-gabriel-buenaventura-evalua-operar-mina-tambien-a-tajo-abierto/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "volcan",
+      "nombre": "Volcan",
+      "razon_social": "VOLCAN COMPAÑIA MINERA S.A.A.",
+      "ruc": "20383045267",
+      "subsector": "Zinc, plomo y plata · minería subterránea polimetálica",
+      "web": "https://www.volcan.com.pe",
+      "linkedin": "https://www.linkedin.com/company/volcan-compania-minera",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-volcan-compania-minera-saa-20383045267.php"
+        },
+        "facturacion": {
+          "usd_m": 1181,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ventas netas 2025 (+23 % a/a); EBITDA US$ 446.5 M",
+          "fuente": "https://energiminas.com/2026/02/18/ventas-netas-de-volcan-sumaron-us-1181-millones-en-2025-un-crecimiento-interanual-de-23/"
+        },
+        "empleados": {
+          "n": 1980,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025 (matriz)",
+          "fuente": "https://www.datosperu.org/empresa-volcan-compania-minera-saa-20383045267.php"
+        },
+        "sede": "Lima",
+        "plantas": [
+          {
+            "nombre": "Unidad Yauli (Carahuacra, San Cristóbal, Andaychagua, Ticlio)",
+            "tipo": "mina",
+            "region": "Junín",
+            "localidad": "Yauli"
+          },
+          {
+            "nombre": "Unidad Chungar",
+            "tipo": "mina",
+            "region": "Pasco",
+            "localidad": "Huayllay"
+          },
+          {
+            "nombre": "Cerro de Pasco (reprocesamiento de desmontes)",
+            "tipo": "planta",
+            "region": "Pasco",
+            "localidad": "Cerro de Pasco"
+          },
+          {
+            "nombre": "Planta Alpamarca",
+            "tipo": "planta",
+            "region": "Junín",
+            "localidad": "Santa Bárbara de Carhuacayán, Yauli"
+          },
+          {
+            "nombre": "Mina Romina",
+            "tipo": "mina",
+            "region": "Lima",
+            "localidad": "Huaral"
+          }
+        ],
+        "estructura": {
+          "grupo": "Volcan",
+          "accionistas": "Acciones clase A y B listadas en BVL",
+          "bolsa": "BVL: VOLCAAC1, VOLCABC1",
+          "fuente": "https://energiminas.com/2026/05/01/volcan-compania-minera-alcanzo-un-ebitda-de-us-446-5-millones-en-2025/"
+        },
+        "etapa": {
+          "valor": "nuevo proyecto",
+          "evidencia": "Comisiona Romina (US$ 115 M) antes de lo previsto y amplía Alpamarca para 2027",
+          "fuente": "https://energiminas.com/2026/09/16/volcan-proyecta-operar-romina-hasta-2038-y-elevar-capacidad-de-la-planta-alpamarca-en-2027/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Automatización",
+          "producto": "Cat MineStar Command for Underground (cargadores R1600H autónomos)",
+          "evidencia": "Primera flota autónoma de cargadores subterráneos CAT del Perú, en Romina",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/06/16/ferreyros-y-volcan-marcan-un-hito-en-mineria-peruana-con-primera-flota-autonoma-de-cargadores-subterraneos-cat/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Epiroc Simba E70 S automatizada y teleoperada",
+          "evidencia": "Primera unidad en Latinoamérica; +15-20 % de productividad esperada",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/08/13/primera-perforadora-automatizada-simba-e70-s-epiroc-y-volcan-un-nuevo-estandar-para-la-mineria-subterranea-en-latinoamerica/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Pick-up Toyota 100 % eléctrica (piloto)",
+          "evidencia": "Prueba de pick-up eléctrica en mina subterránea con Toyota del Perú",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/08/19/volcan-y-toyota-del-peru-ponen-a-prueba-una-pick-up-100-electrica-en-mineria-subterranea/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "CEIM: centro de entrenamiento inmersivo con simuladores",
+          "evidencia": "Nuevo Centro de Entrenamiento Inmersivo Minero",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/05/20/volcan-presenta-ceim-su-nuevo-centro-de-entrenamiento-inmersivo-minero/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "automatización subterránea",
+          "nuevo proyecto",
+          "electromovilidad",
+          "ampliación de planta"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Volcan operará Romina hasta 2038 y ampliará Alpamarca en 2027",
+            "detalle": "Capex inicial de US$ 115 M; planta de 2,500 tpd adaptada a feb-2027.",
+            "fuente": "https://energiminas.com/2026/09/16/volcan-proyecta-operar-romina-hasta-2038-y-elevar-capacidad-de-la-planta-alpamarca-en-2027/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "contrato",
+            "tema": "automatización subterránea",
+            "titulo": "Epiroc entrega primera Simba E70 S automatizada a Volcan",
+            "detalle": "Perforación teleoperada desde sala de control para Romina 4.0.",
+            "fuente": "https://energiminas.com/2026/08/13/primera-perforadora-automatizada-simba-e70-s-epiroc-y-volcan-un-nuevo-estandar-para-la-mineria-subterranea-en-latinoamerica/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "piloto",
+            "tema": "electromovilidad",
+            "titulo": "Volcan y Toyota prueban pick-up eléctrica en mina subterránea",
+            "detalle": "Piloto de vehículo liviano 100 % eléctrico.",
+            "fuente": "https://energiminas.com/2026/08/19/volcan-y-toyota-del-peru-ponen-a-prueba-una-pick-up-100-electrica-en-mineria-subterranea/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "contrato",
+            "tema": "autonomía",
+            "titulo": "Ferreyros y Volcan estrenan cargadores CAT autónomos en Romina",
+            "detalle": "R1600H con MineStar Command; un operador controla hasta tres equipos.",
+            "fuente": "https://energiminas.com/2026/06/16/ferreyros-y-volcan-marcan-un-hito-en-mineria-peruana-con-primera-flota-autonoma-de-cargadores-subterraneos-cat/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "proyecto",
+            "tema": "nuevo proyecto",
+            "titulo": "Volcan inicia comisionamiento de Romina-Alpamarca antes de tiempo",
+            "detalle": "Tras culminar el túnel de integración de Romina.",
+            "fuente": "https://energiminas.com/2026/05/27/volcan-inicia-comisionamiento-de-romina-alpamarca-antes-de-tiempo/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nexa-resources-peru",
+      "nombre": "Nexa Resources Perú",
+      "razon_social": "NEXA RESOURCES PERU S.A.A.",
+      "ruc": "20100110513",
+      "subsector": "Zinc, cobre y plata · minería subterránea polimetálica",
+      "web": "https://www.nexaresources.com",
+      "linkedin": "https://www.linkedin.com/company/nexaresources",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0729",
+          "desc": "Extracción de otros minerales metalíferos no ferrosos",
+          "fuente": "https://www.datosperu.org/empresa-nexa-resources-peru-saa-20100110513.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Sin cifra de la filial; segmento minero del grupo Nexa (Perú + Brasil): US$ 1,569.9 M",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1713930/000129281426001787/R71.htm"
+        },
+        "empleados": {
+          "n": 783,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025 (solo la S.A.A.)",
+          "fuente": "https://www.datosperu.org/empresa-nexa-resources-peru-saa-20100110513.php"
+        },
+        "sede": "San Borja, Lima",
+        "plantas": [
+          {
+            "nombre": "Mina Cerro Lindo",
+            "tipo": "mina",
+            "region": "Ica",
+            "localidad": "Chavín, Chincha"
+          },
+          {
+            "nombre": "El Porvenir y Atacocha (filiales del grupo)",
+            "tipo": "mina",
+            "region": "Pasco",
+            "localidad": "Pasco"
+          },
+          {
+            "nombre": "Refinería Cajamarquilla (empresa del grupo)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Lurigancho-Chosica"
+          }
+        ],
+        "estructura": {
+          "grupo": "Nexa Resources S.A. (Votorantim; pasa a Boliden)",
+          "accionistas": "Matriz Nexa Resources; Boliden tomará 64.68 % de Nexa (cierre previsto 1T-2027)",
+          "bolsa": "BVL: NEXAPEC1 · NYSE: NEXA (matriz)",
+          "fuente": "https://energiminas.com/2026/08/27/sueca-boliden-tendra-el-control-de-minera-nexa-resources/"
+        },
+        "etapa": {
+          "valor": "reestructuración",
+          "evidencia": "Cambio de control a Boliden (US$ 1,310 M) con OPA obligatoria en subsidiarias peruanas",
+          "fuente": "https://energiminas.com/2026/08/28/acuerdo-por-nexa-la-contraprestacion-para-la-transaccion-es-de-us-1-310-millones/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Datos/BI",
+          "producto": "Gemelo digital de chancado-molienda (IoT + machine learning)",
+          "evidencia": "Piloto en Cerro Lindo: +7 % de capacidad potencial; reconocido por Gartner",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2025/01/29/cerro-lindo-nexa-estima-un-aumento-potencial-del-7-en-capacidad-de-procesamiento-de-minerales-con-tecnologia-de-gemelo-digital/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Voladura electrónica centralizada",
+          "evidencia": "Detonadores electrónicos programados desde sala de control en Cerro Lindo",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2026/06/23/eficiencia-operativa-nexa-implementa-voladura-electronica-centralizada-en-cerro-lindo/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Laboratorio tercerizado SGS",
+          "evidencia": "SGS ganó licitación de servicios para Cerro Lindo, El Porvenir y Atacocha",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://energiminas.com/2024/06/19/sgs-peru-gana-licitacion-de-nexa-para-minas-cerro-lindo-el-porvenir-y-atacocha/"
+        }
+      ],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "cambio de control",
+          "relaves filtrados",
+          "block caving",
+          "automatización"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "permiso",
+            "tema": "relaves filtrados",
+            "titulo": "Nexa propone US$ 117.4 M para seguir operando Cerro Lindo",
+            "detalle": "Amplía relavera filtrada, reubica chancadora y suma block caving.",
+            "fuente": "https://energiminas.com/2026/09/10/nexa-us-117-4-millones-para-seguir-operando-en-cerro-lindo/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "adquisición",
+            "tema": "cambio de control",
+            "titulo": "Boliden tomará el control de Nexa por US$ 1,310 M",
+            "detalle": "Canje de acciones con Votorantim; OPA en filiales peruanas tras el cierre.",
+            "fuente": "https://energiminas.com/2026/08/27/sueca-boliden-tendra-el-control-de-minera-nexa-resources/"
+          },
+          {
+            "fecha": "2026-06",
+            "tipo": "piloto",
+            "tema": "automatización",
+            "titulo": "Nexa implementa voladura electrónica centralizada en Cerro Lindo",
+            "detalle": "Menor exposición del personal y secuencias de disparo optimizadas.",
+            "fuente": "https://energiminas.com/2026/06/23/eficiencia-operativa-nexa-implementa-voladura-electronica-centralizada-en-cerro-lindo/"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "contratación",
+            "tema": "talento metalúrgico",
+            "titulo": "Programa Expert+ de Nexa atrae a más de 250 ingenieros",
+            "detalle": "Formación técnica en metalurgia en Perú.",
+            "fuente": "https://energiminas.com/2026/09/25/programa-expert-de-nexa-atrae-a-mas-de-250-ingenieros-para-su-formacion-tecnica-en-metalurgia-en-peru/"
+          }
+        ]
+      }
+    }
+  ]
+}

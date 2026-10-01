@@ -1,0 +1,1542 @@
+{
+  "industria": "pesca",
+  "empresas": [
+    {
+      "id": "tasa",
+      "nombre": "TASA",
+      "razon_social": "TECNOLOGICA DE ALIMENTOS S.A.",
+      "ruc": "20100971772",
+      "subsector": "Harina y aceite de pescado · líder nacional",
+      "web": "https://www.tasa.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "15127",
+          "desc": "Elab. y conservación de pescado (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/grupo-sindicato-pesquero-peru.php"
+        },
+        "facturacion": {
+          "usd_m": 581.0,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina 450.3 + aceite crudo 88.1 + aceite refinado 42.5 (SUNAT/PROMPERÚ); 1.er exportador de harina (24 %)",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": 2500,
+          "anio": 2025,
+          "nota": "'más de 2,500 colaboradores' en 5 regiones; web corporativa indica +2,800",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/04/reporte-sostenibilidad-tasa-2025.pdf"
+        },
+        "sede": "San Borja, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Chimbote (226 t/h)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          },
+          {
+            "nombre": "Planta Samanco",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Samanco, Santa"
+          },
+          {
+            "nombre": "Planta Malabrigo",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Rázuri, Ascope"
+          },
+          {
+            "nombre": "Planta Supe",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Planta Végueta (180 t/h tras traslado)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Végueta, Huaura"
+          },
+          {
+            "nombre": "Planta Callao (246 t/h) y planta omega",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Callao"
+          },
+          {
+            "nombre": "Planta Pisco Sur",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Pisco"
+          },
+          {
+            "nombre": "Planta Matarani",
+            "tipo": "planta",
+            "region": "Arequipa",
+            "localidad": "Islay"
+          },
+          {
+            "nombre": "Flota: 48 embarcaciones",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Breca (familia Brescia)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://gestion.pe/economia/empresas/tasa-suma-dos-nuevas-embarcaciones-a-su-flota-pesquera-en-peru-noticia/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Suma 2 barcos (flota de 48), 28 % de la cuota nacional y migración de plantas a gas natural.",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/04/reporte-sostenibilidad-tasa-2025.pdf"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Datos/BI",
+          "producto": "Microsoft Power BI, Power Apps y Power Automate",
+          "evidencia": "Programa interno de datos: 11 soluciones low-code y app de OEE con Power Apps/Power BI.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/01/reporte-sostenibilidad-tasa-2024.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Programa de IA y Six Sigma",
+          "evidencia": "En 2025 formó 100 colaboradores en IA y 50 en análisis de datos.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/04/reporte-sostenibilidad-tasa-2025.pdf"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Monitoreo satelital de flota",
+          "evidencia": "Ubicación y actividad de todas las embarcaciones con alertas automáticas.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/04/reporte-sostenibilidad-tasa-2025.pdf"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Shore Power y gas natural en plantas",
+          "evidencia": "Barcos alimentados desde planta; 4 plantas operan con gas natural.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.tasa.com.pe/cliente/medios/noticias/"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Equipos con lectura en línea y NIR",
+          "evidencia": "Control de efluentes con equipos automatizados y calidad con espectroscopía NIR.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/01/reporte-sostenibilidad-tasa-2024.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "renovación de flota",
+          "transición energética",
+          "ampliación de planta",
+          "IA y datos"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-09",
+            "tipo": "inversión",
+            "tema": "renovación de flota",
+            "titulo": "TASA incorpora Sunbeam (1,200 m³) y Brusoeyskjaer",
+            "detalle": "Barcos de Escocia y Noruega; la Sunbeam es la de mayor bodega del Perú.",
+            "fuente": "https://gestion.pe/economia/empresas/tasa-suma-dos-nuevas-embarcaciones-a-su-flota-pesquera-en-peru-noticia/"
+          },
+          {
+            "fecha": "2025-03",
+            "tipo": "permiso",
+            "tema": "ampliación de planta",
+            "titulo": "PRODUCE aprueba MEIA para trasladar 40 t/h de Paracas a Végueta",
+            "detalle": "Végueta quedaría con capacidad unificada de 180 t/h (RD 056-2025-PRODUCE/DGAAMPA).",
+            "fuente": "https://cdn.www.gob.pe/uploads/document/file/7793437/6579783-rd-00056-2025-produce-dgaampa.pdf"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "proyecto",
+            "tema": "transición energética",
+            "titulo": "Planta Chimbote migra a gas natural",
+            "detalle": "Reduce 6,500 t CO2/año; prevé paneles solares en barcos.",
+            "fuente": "https://www.tasa.com.pe/cliente/medios/noticias/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "proyecto",
+            "tema": "eficiencia operativa",
+            "titulo": "Optimización de velocidad de operación en Chimbote y Végueta",
+            "detalle": "Proyecto 2025 para ampliar capacidad productiva efectiva.",
+            "fuente": "https://www.tasa.com.pe/wp-content/uploads/2026/04/reporte-sostenibilidad-tasa-2025.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "exalmar",
+      "nombre": "Exalmar",
+      "razon_social": "PESQUERA EXALMAR S.A.A.",
+      "ruc": "20380336384",
+      "subsector": "Harina y aceite de pescado · congelados (pota, jurel)",
+      "web": "https://www.exalmar.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1020",
+          "desc": "Elaboración y conservación de pescado, crustáceos y moluscos (CIIU Rev.4)",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        "facturacion": {
+          "usd_m": 531.5,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ventas totales 2025 (+16.4 %); CHD 97.3 M",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        "empleados": {
+          "n": 1335,
+          "anio": 2025,
+          "nota": "colaboradores (web); headcount 2025 ~1,330, 94 % hombres",
+          "fuente": "https://www.exalmar.com.pe/"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Chicama",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Puerto Malabrigo, Ascope"
+          },
+          {
+            "nombre": "Planta Chimbote",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          },
+          {
+            "nombre": "Planta Huacho",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Carquín, Huaura"
+          },
+          {
+            "nombre": "Planta Callao",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Callao"
+          },
+          {
+            "nombre": "Planta Tambo de Mora (CHI y congelados)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Tambo de Mora, Chincha"
+          },
+          {
+            "nombre": "Planta de congelados Paita",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Paita"
+          },
+          {
+            "nombre": "Flota: 22 embarcaciones operativas",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Matta (Caleta de Oro)",
+          "accionistas": "Caleta de Oro Holding 75.04 %, Inversiones Odisea 9.19 %, BTG Pactual Chile 5.04 %",
+          "bolsa": "BVL (S.A.A., acciones inscritas)",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Compró Pesquera Centinela (ago-2025) y llegó a ~22.6 % del procesamiento; capex 2026 restringido por El Niño.",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/07/Informe-Trimestral-2T26.pdf"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP R/3 (+ SAP Ariba)",
+          "evidencia": "Nómina y asistencias (SIGA) integradas a SAP R/3; compras vía Ariba y SAP.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "NavegApp 360 y TrazApp",
+          "evidencia": "Apps propias para personal y trazabilidad; 2026: tareo de tripulantes integrado a SAP.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        {
+          "cat": "Nube",
+          "producto": "Conectividad satelital en flota",
+          "evidencia": "Nueva conectividad satelital en embarcaciones y Centro de Control de Flota.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Data Camp GH (dashboards)",
+          "evidencia": "Plataforma que centraliza dashboards de Gestión Humana; meta de data analytics en 2026.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Ciberseguridad con EY",
+          "evidencia": "Diagnóstico de madurez y roadmap de ciberseguridad con EY.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "adquisición",
+          "integración Centinela",
+          "digitalización",
+          "IA"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-08",
+            "tipo": "adquisición",
+            "tema": "consolidación",
+            "titulo": "Exalmar cierra compra del 100 % de Pesquera Centinela",
+            "detalle": "Suma 11 barcos y 3 plantas; cuota conjunta cercana al 9 %.",
+            "fuente": "https://lexlatin.com/noticias/exalmar-compra-pesquera-centinela"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "inversión",
+            "tema": "mantenimiento de activos",
+            "titulo": "Capex 2025 de US$ 22.1 M en plantas y flota CHI",
+            "detalle": "Superior a US$ 16.9 M de 2024.",
+            "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "proyecto",
+            "tema": "IA y automatización",
+            "titulo": "Retos 2026: IA, tareo SAP-TrazApp y onboarding digital",
+            "detalle": "Plan de consolidar procesos con herramientas tecnológicas e IA.",
+            "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "inversión",
+            "tema": "capex",
+            "titulo": "Capex 1S2026 de US$ 10.5 M; 2S será restringido por El Niño",
+            "detalle": "Inversión enfocada en mejoras y mantenimiento de plantas y barcos.",
+            "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/07/Informe-Trimestral-2T26.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "austral-group",
+      "nombre": "Austral Group",
+      "razon_social": "AUSTRAL GROUP S.A.A",
+      "ruc": "20338054115",
+      "subsector": "Harina y aceite de pescado · conservas y congelados",
+      "web": "https://www.austral.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1020",
+          "desc": "Elaboración y conservación de pescado, crustáceos y moluscos (CIIU Rev.4)",
+          "fuente": "https://www.austral.com.pe/wp-content/uploads/2026/03/Memoria-Anual-2025.pdf"
+        },
+        "facturacion": {
+          "usd_m": 233.9,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina 190.5 + aceite crudo 43.4 (SUNAT/PROMPERÚ); utilidad neta S/ 59.2 M",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Coishco",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Coishco, Santa"
+          },
+          {
+            "nombre": "Planta Chancay",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Chancay, Huaral"
+          },
+          {
+            "nombre": "Planta Pisco",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Pisco"
+          },
+          {
+            "nombre": "Planta Ilo",
+            "tipo": "planta",
+            "region": "Moquegua",
+            "localidad": "Ilo"
+          },
+          {
+            "nombre": "Flota: 19 embarcaciones (14 con RSW)",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Austevoll Seafood ASA (Noruega)",
+          "accionistas": "Dordogne Holdings (Austevoll) 90.12 %",
+          "bolsa": "BVL (acciones inscritas); matriz cotiza en Oslo Børs",
+          "fuente": "https://www.austral.com.pe/wp-content/uploads/2026/03/Memoria-Anual-2025.pdf"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Nuevo barco Adriana (US$ 10 M), financiamiento BCP y renovación de equipos en Ilo.",
+          "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP HANA (actualización)",
+          "evidencia": "Actualización del sistema de gestión SAP por US$ 4.5 M en 5 años.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://forbes.pe/negocios/2025-12-18/austral-group-acelera-su-apuesta-por-la-automatizacion-en-medio-de-retadoras-condiciones-de-captura"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Automatización e IA en plantas",
+          "evidencia": "Plan de integrar IA y automatización en sus 4 plantas.",
+          "anio": 2025,
+          "confianza": "media",
+          "fuente": "https://gestion.pe/economia/empresas/pesqueras-peruanas-y-un-plan-de-inversion-que-superara-los-us-50-mlls-copeinca-tasa-exalmar-hayduk-harina-de-pescado-noticia/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Flota con RSW",
+          "evidencia": "14 de 19 barcos con agua de mar refrigerada; nuevo EP Adriana de bajo consumo.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://forbes.pe/negocios/2025-12-18/austral-group-acelera-su-apuesta-por-la-automatizacion-en-medio-de-retadoras-condiciones-de-captura"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Secadores y evaporadores (Ilo)",
+          "evidencia": "Renovación de secadores y evaporadores en planta Ilo.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://forbes.pe/negocios/2025-12-18/austral-group-acelera-su-apuesta-por-la-automatizacion-en-medio-de-retadoras-condiciones-de-captura"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ERP",
+          "automatización",
+          "renovación de flota",
+          "financiamiento"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-10",
+            "tipo": "inversión",
+            "tema": "renovación de flota",
+            "titulo": "Austral compra el EP Adriana (508 m³) por US$ 10 M",
+            "detalle": "Barco con motores de bajo consumo; flota sube a 19.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "proyecto",
+            "tema": "ERP",
+            "titulo": "Austral invierte US$ 4.5 M en actualizar SAP HANA",
+            "detalle": "Proyecto a 5 años para decisiones en tiempo real.",
+            "fuente": "https://forbes.pe/negocios/2025-12-18/austral-group-acelera-su-apuesta-por-la-automatizacion-en-medio-de-retadoras-condiciones-de-captura"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Renovación de secadores y evaporadores en planta Ilo",
+            "detalle": "Parte de la apuesta por automatización pese a menor captura.",
+            "fuente": "https://forbes.pe/negocios/2025-12-18/austral-group-acelera-su-apuesta-por-la-automatizacion-en-medio-de-retadoras-condiciones-de-captura"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "financiamiento",
+            "tema": "deuda",
+            "titulo": "Plan de US$ 60 M entre inversión y crédito para 2026",
+            "detalle": "Incluye US$ 15 M del BCP a 10 años y líneas por US$ 35 M.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "copeinca",
+      "nombre": "Copeinca",
+      "razon_social": "CORPORACION PESQUERA INCA S.A.C. - COPEINCA",
+      "ruc": "20512868046",
+      "subsector": "Harina y aceite de pescado · mayor flota del país",
+      "web": "https://www.copeinca.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/cfg-investment.php"
+        },
+        "facturacion": {
+          "usd_m": 455.9,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina 368.4 (como CFG Investment) + aceite crudo 87.5 (SUNAT/PROMPERÚ); 2.º exportador",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": 2368,
+          "anio": 2024,
+          "nota": "tierra y mar al cierre de 2024; 1,225 de temporada en el año",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Bayóvar (170 t/h)",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Sechura"
+          },
+          {
+            "nombre": "Planta Chicama Norte (80 t/h)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Ascope"
+          },
+          {
+            "nombre": "Planta Chicama Sur (159 t/h)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Ascope"
+          },
+          {
+            "nombre": "Planta Chimbote Norte (250 t/h)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          },
+          {
+            "nombre": "Planta Chimbote Sur (103 t/h)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          },
+          {
+            "nombre": "Planta Supe (90 t/h)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Planta Chancay (168 t/h)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Chancay, Huaral"
+          },
+          {
+            "nombre": "Planta Tambo de Mora (177 t/h)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Tambo de Mora, Chincha"
+          },
+          {
+            "nombre": "Flota: 45 embarcaciones",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Cooke Inc. (Canadá)",
+          "accionistas": "Cooke 100 % (compra a China Fishery Group, nov-2024, US$ 500 M+)",
+          "bolsa": null,
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/copeinca-un-ano-despues-de-su-venta-a-cooke-el-norte-de-la-pesquera-peruana-y-su-expansion-regional-noticia/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Integración con Cooke completada; capex en flota y gas, frigorífico en pausa y caja preservada ante El Niño.",
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/copeinca-un-ano-despues-de-su-venta-a-cooke-el-norte-de-la-pesquera-peruana-y-su-expansion-regional-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP (migración a SAP HANA en curso)",
+          "evidencia": "Compras centralizadas en ERP SAP; apps alineadas al ecosistema SAP HANA.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        {
+          "cat": "Nube",
+          "producto": "SAP Business Technology Platform (BTP)",
+          "evidencia": "Nube BTP integra portal de proveedores, armadores, balanzas y guías SUNAT.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Microsoft Power BI",
+          "evidencia": "Monitoreo de compras y residuos en tiempo real en Power BI.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "RPA y Bizagi",
+          "evidencia": "Robots para procesos repetitivos; migración de la plataforma Bizagi.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Sistema de inteligencia pesquera y blending de harina",
+          "evidencia": "Implementado en 2024 para eficiencia operativa.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Ciberseguridad EY y monitoreo 24/7",
+          "evidencia": "Evaluación de riesgos con EY y monitoreo continuo.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.copeinca.com/wp-content/uploads/2025/12/Reporte-de-Sostenibilidad-Copeinca-2024.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "transición energética",
+          "renovación de flota",
+          "frío/almacenamiento",
+          "expansión regional"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-01",
+            "tipo": "inversión",
+            "tema": "plan de inversión",
+            "titulo": "Copeinca prevé US$ 56 M de inversión",
+            "detalle": "Incluye gas en 2 plantas de Chimbote, frigorífico y 3 barcos nuevos.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "proyecto",
+            "tema": "transición energética",
+            "titulo": "Conversión a gas natural de 2 plantas en Chimbote (~US$ 7 M)",
+            "detalle": "Parte del plan de capex a dos años bajo Cooke.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "proyecto",
+            "tema": "renovación de flota",
+            "titulo": "Renovación de 3 embarcaciones a ~US$ 8 M c/u",
+            "detalle": "Horizonte de 3-4 años.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "proyecto",
+            "tema": "expansión regional",
+            "titulo": "Copeinca evalúa expansión en Latinoamérica",
+            "detalle": "CEO menciona frigorífico en pausa y gastos ajustados por El Niño.",
+            "fuente": "https://gestion.pe/g-de-gestion/reportaje/copeinca-un-ano-despues-de-su-venta-a-cooke-el-norte-de-la-pesquera-peruana-y-su-expansion-regional-noticia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pesquera-diamante",
+      "nombre": "Pesquera Diamante",
+      "razon_social": "PESQUERA DIAMANTE S.A.",
+      "ruc": "20159473148",
+      "subsector": "Harina y aceite de pescado · congelados y conservas",
+      "web": "https://www.diamante.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "15127",
+          "desc": "Elab. y conservación de pescado (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-diamante.php"
+        },
+        "facturacion": {
+          "usd_m": 261.6,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina 211.2 + aceite crudo 50.4 (SUNAT/PROMPERÚ); ventas netas 2024 >US$ 303 M",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": 1271,
+          "anio": 2024,
+          "nota": "dotación SAP dic-2024; 91 % permanentes",
+          "fuente": "https://www.diamante.com.pe/assets/sources/SOSTENIBILIDAD/Reporte%20Integrado%20de%20Sostenibilidad%202024.pdf"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Malabrigo (196 t/h)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Rázuri, Ascope"
+          },
+          {
+            "nombre": "Planta Supe (190 t/h)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Planta Callao (205 t/h + congelados 740 t/día)",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Callao"
+          },
+          {
+            "nombre": "Planta Mollendo (80 t/h)",
+            "tipo": "planta",
+            "region": "Arequipa",
+            "localidad": "Mollendo, Islay"
+          },
+          {
+            "nombre": "Flota: 22 embarcaciones (12 con RSW)",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Diamante (capital privado peruano)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.diamante.com.pe/assets/sources/SOSTENIBILIDAD/Reporte%20Integrado%20de%20Sostenibilidad%202024.pdf"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Plan a 3 años: llevar plantas de ~200 a 230-240 t/h y explorar omega-3; deuda reperfilada con 5 bancos.",
+          "fuente": "https://gestion.pe/g-de-gestion/pesquera-diamante-apuesta-por-omega-3-para-diversificar-el-negocio-ceo-adelanta-planes-pesca-produce-consumo-humano-directo-consumo-humano-indirecto-congelado-plantas-capex-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP S/4HANA",
+          "evidencia": "Sistema integrado SAP S/4HANA; dotación reportada desde SAP.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.diamante.com.pe/assets/sources/SOSTENIBILIDAD/Reporte%20Integrado%20de%20Sostenibilidad%202024.pdf"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Analítica de datos (biomasa y mantenimiento)",
+          "evidencia": "Analytics para optimizar biomasa y mantenimiento de equipos.",
+          "anio": 2025,
+          "confianza": "media",
+          "fuente": "https://gestion.pe/g-de-gestion/pesquera-diamante-apuesta-por-omega-3-para-diversificar-el-negocio-ceo-adelanta-planes-pesca-produce-consumo-humano-directo-consumo-humano-indirecto-congelado-plantas-capex-noticia/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Proyectos Janus y Alkimia",
+          "evidencia": "Proyectos internos citados junto al SAP como hitos de gestión.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://www.diamante.com.pe/assets/sources/SOSTENIBILIDAD/Reporte%20Integrado%20de%20Sostenibilidad%202024.pdf"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Flota con RCW/RSW",
+          "evidencia": "12 de 22 barcos con refrigeración a bordo.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ampliación de planta",
+          "omega-3",
+          "renovación de flota"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-01",
+            "tipo": "inversión",
+            "tema": "plan de inversión",
+            "titulo": "Diamante proyecta US$ 69 M de inversión",
+            "detalle": "Ampliar Malabrigo, Callao y Supe a 230-240 t/h; plan a 3 años al directorio.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "inversión",
+            "tema": "mantenimiento",
+            "titulo": "Capex 2025 de US$ 21 M en barcos y plantas",
+            "detalle": "Foco en carenas y mantenimiento de plantas.",
+            "fuente": "https://gestion.pe/economia/empresas/copeinca-pesquera-diamante-y-austral-con-planes-de-inversion-por-mas-de-us-120-millones-noticia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pesquera-hayduk",
+      "nombre": "Pesquera Hayduk",
+      "razon_social": "PESQUERA HAYDUK S.A.",
+      "ruc": "20136165667",
+      "subsector": "Harina y aceite de pescado · congelados y conservas",
+      "web": "https://www.hayduk.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "15127",
+          "desc": "Elab. y conservación de pescado (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-hayduk.php"
+        },
+        "facturacion": {
+          "usd_m": 221.8,
+          "anio": 2025,
+          "tipo": "ventas",
+          "nota": "Ingresos 2025 (CHI 198.3 + CHD 23.5); EBITDA 32.0",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        "empleados": {
+          "n": 1170,
+          "anio": 2025,
+          "nota": "propios (+13 %); 399 de contratistas; hasta 4,000 empleos al año",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Complejo Coishco (harina, aceite, congelados)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Coishco, Santa"
+          },
+          {
+            "nombre": "Planta Végueta",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Végueta, Huaura"
+          },
+          {
+            "nombre": "Planta Puerto Malabrigo",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Rázuri, Ascope"
+          },
+          {
+            "nombre": "Planta Tambo de Mora (adquirida 2025)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Tambo de Mora, Chincha"
+          },
+          {
+            "nombre": "Flota: 17 embarcaciones (8,970 m³)",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Martínez",
+          "accionistas": "Familia Martínez (presidente ejecutivo: Walter Martínez Moreno)",
+          "bolsa": null,
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Compró planta en Tambo de Mora para entrar al sur y reestructuró crédito sindicado para nuevos proyectos.",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP (módulo HCM y BI SAP Ventas)",
+          "evidencia": "Reportes de ventas y personal extraídos de SAP.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Microsoft Power BI",
+          "evidencia": "Power BI incorporado al plan de capacitación por su uso creciente.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Sensores IoT en flota",
+          "evidencia": "Pilotos de sensores en winches, Net Wind y Net Stacker; monitoreo de combustible y energía.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Ecosondas digitales",
+          "evidencia": "14 embarcaciones con ecosondas digitales/evaluadoras.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Red sin nudo Muketsu (piloto)",
+          "evidencia": "Piloto en Bamar II y Bamar IV para reducir costos.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "adquisición de planta",
+          "IoT en flota",
+          "financiamiento",
+          "diversificación CHD"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-10",
+            "tipo": "adquisición",
+            "tema": "ampliación de capacidad",
+            "titulo": "Hayduk compra planta en Tambo de Mora (Ica)",
+            "detalle": "Cuarta planta; tras estudio de 3 años sobre la anchoveta.",
+            "fuente": "https://gestion.pe/economia/empresas/aceite-y-harina-de-pescado-hayduk-compra-planta-en-ica-para-aumentar-su-capacidad-de-procesamiento-de-anchoveta-noticia/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "financiamiento",
+            "tema": "deuda",
+            "titulo": "Reestructura crédito sindicado con Rabobank, BCP y DNB a 7 años",
+            "detalle": "Mejores condiciones para nuevos proyectos de inversión.",
+            "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "piloto",
+            "tema": "IoT en flota",
+            "titulo": "Pilotos de sensorización y red Muketsu en la flota",
+            "detalle": "Sensores en tiempo real de combustible, energía y ciclos de pesca.",
+            "fuente": "https://www.hayduk.com.pe/wp-content/uploads/2026/09/Memoria-Integrada-2025-Hayduk.pdf"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "proyecto",
+            "tema": "marca",
+            "titulo": "Hayduk lanza nueva identidad corporativa",
+            "detalle": "Manifiesto 'Pescadores peruanos nutriendo al mundo'.",
+            "fuente": "https://www.hayduk.com.pe/noticias/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pesquera-centinela",
+      "nombre": "Pesquera Centinela",
+      "razon_social": "PESQUERA CENTINELA SOCIEDAD ANONIMA CERRADA",
+      "ruc": "20278966004",
+      "subsector": "Harina y aceite de pescado · subsidiaria de Exalmar",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-centinela.php"
+        },
+        "facturacion": {
+          "usd_m": 100.6,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina 74.2 + aceite crudo 26.4 (SUNAT/PROMPERÚ)",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "San Isidro, Lima (domicilio de Exalmar)",
+        "plantas": [
+          {
+            "nombre": "Planta Chimbote (135 t/h)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          },
+          {
+            "nombre": "Planta Chancay (60 t/h)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Chancay, Huaral"
+          },
+          {
+            "nombre": "Planta Tambo de Mora (50 t/h)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Tambo de Mora, Chincha"
+          },
+          {
+            "nombre": "Flota: 11 embarcaciones (4 con RSW)",
+            "tipo": "flota",
+            "region": "Litoral",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Pesquera Exalmar (ex Grupo Romero)",
+          "accionistas": "Pesquera Exalmar 100 % desde ago-2025",
+          "bolsa": null,
+          "fuente": "https://lexlatin.com/noticias/exalmar-compra-pesquera-centinela"
+        },
+        "etapa": {
+          "valor": "reestructuración",
+          "evidencia": "Integrada a Exalmar desde ago-2025 para capturar sinergias.",
+          "fuente": "https://www.exalmar.com.pe/wp-content/uploads/2026/04/Memoria-Anual-Integrada-2025-1.pdf"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Flota con RSW",
+          "evidencia": "4 de 11 barcos con agua de mar refrigerada; bodega total 3,556 t.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.peru-retail.com/indecopi-da-luz-verde-a-exalmar-para-comprar-pesquera-centinela-del-grupo-romero/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "integración post-adquisición"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-07",
+            "tipo": "permiso",
+            "tema": "adquisición",
+            "titulo": "Indecopi aprueba compra de Centinela por Exalmar",
+            "detalle": "Operación sujeta a condiciones previas.",
+            "fuente": "https://www.peru-retail.com/indecopi-da-luz-verde-a-exalmar-para-comprar-pesquera-centinela-del-grupo-romero/"
+          },
+          {
+            "fecha": "2025-08",
+            "tipo": "adquisición",
+            "tema": "integración",
+            "titulo": "Exalmar cierra la compra del 100 % de Centinela",
+            "detalle": "Pasa a ser subsidiaria e inicia integración de procesos.",
+            "fuente": "https://lexlatin.com/noticias/exalmar-compra-pesquera-centinela"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pesquera-cantabria",
+      "nombre": "Pesquera Cantabria",
+      "razon_social": "PESQUERA CANTABRIA S.A.",
+      "ruc": "20504595863",
+      "subsector": "Harina y aceite de pescado · Coishco",
+      "web": "https://www.pesqueracantabria.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-cantabria.php"
+        },
+        "facturacion": {
+          "usd_m": 35.4,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo harina (SUNAT/PROMPERÚ); 8.º exportador, 1.9 %",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/2301201100/pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta de harina ACP Coishco (138 t/h)",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Coishco, Santa"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Licencia por aumento de capacidad de 106 a 138 t/h en Coishco.",
+          "fuente": "https://cdn.www.gob.pe/uploads/document/file/8936332/7359545-rd-787-2025-produce-dgpchdi.pdf"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ampliación de planta"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-10",
+            "tipo": "permiso",
+            "tema": "ampliación de planta",
+            "titulo": "PRODUCE otorga licencia para subir Coishco de 106 a 138 t/h",
+            "detalle": "Ejecuta autorización RD 158-2025; debe operar equipos de mitigación.",
+            "fuente": "https://cdn.www.gob.pe/uploads/document/file/8936332/7359545-rd-787-2025-produce-dgpchdi.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "pacifico-centro",
+      "nombre": "Pesquera del Pacífico Centro",
+      "razon_social": "COMPAÑIA PESQUERA DEL PACIFICO CENTRO S.A.",
+      "ruc": "20330862450",
+      "subsector": "Harina y aceite de pescado",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "15127",
+          "desc": "Elab. y conservación de pescado (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/compania-pesquera-pacifico-centro.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": null,
+          "nota": "Sin exportaciones propias en el top 10 de harina/aceite 2025",
+          "fuente": null
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "RUC activo (nombre comercial Copedepacsa); sin información pública reciente de operación.",
+          "fuente": "https://www.universidadperu.com/empresas/compania-pesquera-pacifico-centro.php"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "pesquera-capricornio",
+      "nombre": "Pesquera Capricornio",
+      "razon_social": "PESQUERA CAPRICORNIO S.A.",
+      "ruc": "20100388121",
+      "subsector": "Harina y aceite de pescado · Callao",
+      "web": "http://www.pcapricornio.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-capricornio.php"
+        },
+        "facturacion": {
+          "usd_m": 5.6,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Harina ene-ago 2025 (SUNAT/PROMPERÚ), 0.37 % del total",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/harina-2301201100/pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "Callao (zona industrial Ferroles)",
+        "plantas": [
+          {
+            "nombre": "Planta Callao (harina 30-45 t/h, congelados, acuicultura)",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Callao"
+          }
+        ],
+        "estructura": {
+          "grupo": "Familia Mandriotti",
+          "accionistas": "Giovanni Mandriotti (dueño en 2017)",
+          "bolsa": null,
+          "fuente": "https://casamericalatina.pt/wp-content/uploads-artigos/2017/12/Teaser-Capricornio-17082017.pdf"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Planta única en Callao; en 2017 buscó socio por hasta 65 % (cuota 0.76 %).",
+          "fuente": "https://casamericalatina.pt/wp-content/uploads-artigos/2017/12/Teaser-Capricornio-17082017.pdf"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "colpex",
+      "nombre": "Colpex",
+      "razon_social": "COLPEX INTERNATIONAL S.A.C.",
+      "ruc": "20175140591",
+      "subsector": "Aceite de pescado crudo, refinado y omega-3",
+      "web": "https://www.colpex.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/colpex-international.php"
+        },
+        "facturacion": {
+          "usd_m": 9.1,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo aceite refinado (partida 1504209000), 3.er exportador con 7.5 %",
+          "fuente": "https://exportemos.pe/descubre-oportunidades-de-exportacion/producto/1504209000/pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Refinería Supe (refinación y destilación molecular)",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Terminal portuario Chimbote (16,000 t en 9 tanques)",
+            "tipo": "puerto",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Refinería con certificaciones GOED, IFFO RS y FDA FSMA; mide huella de carbono desde 2023.",
+          "fuente": "https://www.colpex.com.pe/sostenibilidad.php"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Destilación molecular",
+          "evidencia": "Refinería de Supe con equipos de refinación y destilación molecular.",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://www.colpex.com.pe/refineria.php"
+        }
+      ],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "pesquera-majat",
+      "nombre": "Pesquera Majat",
+      "razon_social": "PESQUERA MAJAT S.A.C.",
+      "ruc": "20543002471",
+      "subsector": "Extracción pesquera (socio SNP)",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-majat.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": null,
+          "nota": "Sin exportaciones propias en el top 10 de harina/aceite 2025",
+          "fuente": null
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.snp.org.pe/asociados/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Socio activo de la SNP; sin información pública de proyectos.",
+          "fuente": "https://www.snp.org.pe/asociados/"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "inversiones-quiaza",
+      "nombre": "Inversiones Quiaza",
+      "razon_social": "INVERSIONES QUIAZA S.A.C.",
+      "ruc": "20402825481",
+      "subsector": "Procesamiento de anchoveta · Chimbote (socio SNP)",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/inversiones-quiaza.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": null,
+          "nota": "Sin exportaciones propias en el top 10 de harina/aceite 2025",
+          "fuente": null
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta de enlatado Chimbote",
+            "tipo": "planta",
+            "region": "Áncash",
+            "localidad": "Chimbote, Santa"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.snp.org.pe/asociados/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Socio de la SNP; procesa anchoveta en Chimbote.",
+          "fuente": "https://cdn.www.gob.pe/uploads/document/file/4719114/RCONAS-00075-2023-PRODUCE-CONAS-2CT.pdf"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "inversiones-prisco",
+      "nombre": "Inversiones Prisco",
+      "razon_social": "INVERSIONES PRISCO S.A.C.",
+      "ruc": "20517834255",
+      "subsector": "Harina residual (anchoveta, pota, langostino) · congelados",
+      "web": "http://www.iprisco.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "15127",
+          "desc": "Elab. y conservación de pescado (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/inversiones-prisco.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": null,
+          "nota": "No figura en el top 10 de exportadores de harina 2025",
+          "fuente": null
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Sechura (harina residual y congelados)",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Sechura"
+          },
+          {
+            "nombre": "Planta Paracas",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Paracas, Pisco"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": "Capital 100 % peruano",
+          "bolsa": null,
+          "fuente": "http://www.iprisco.com.pe/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Cuatro líneas (congelados, semiconservas, conservas, harina residual); exporta a +100 países.",
+          "fuente": "http://www.iprisco.com.pe/"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "pesquera-luciana",
+      "nombre": "Pesquera Luciana",
+      "razon_social": "PESQUERA LUCIANA SAC",
+      "ruc": "20114162508",
+      "subsector": "Extracción de anchoveta · grupo Oller Grimaldi",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "05002",
+          "desc": "Pesca y explotación de criaderos de peces (CIIU Rev.3 SUNAT)",
+          "fuente": "https://www.universidadperu.com/empresas/pesquera-luciana.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": null,
+          "nota": "Sin exportaciones propias en el top 10 de harina/aceite 2025",
+          "fuente": null
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "no publicado",
+          "fuente": null
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [],
+        "estructura": {
+          "grupo": "Familia Oller Grimaldi (Luciana, Caral, Azul)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://gestion.pe/economia/empresas/pesqueras-peruanas-y-un-plan-de-inversion-que-superara-los-us-50-mlls-copeinca-tasa-exalmar-hayduk-harina-de-pescado-noticia/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "El grupo buscaba sumar embarcaciones rápidamente (ene-2025).",
+          "fuente": "https://gestion.pe/economia/empresas/pesqueras-peruanas-y-un-plan-de-inversion-que-superara-los-us-50-mlls-copeinca-tasa-exalmar-hayduk-harina-de-pescado-noticia/"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [
+          "renovación de flota"
+        ],
+        "senales": []
+      }
+    }
+  ]
+}

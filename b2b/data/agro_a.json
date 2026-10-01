@@ -1,0 +1,1440 @@
+{
+  "industria": "agro",
+  "empresas": [
+    {
+      "id": "camposol",
+      "nombre": "Camposol",
+      "razon_social": "CAMPOSOL S.A.",
+      "ruc": "20340584237",
+      "subsector": "Arándano, palta, uva y mango · fresco y conserva",
+      "web": "https://www.camposol.com.pe",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-camposol-sa-20340584237.php"
+        },
+        "facturacion": {
+          "usd_m": 494,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "1.ª agroexportadora 2024 (+46 %). Ene-nov 2025: US$ 474 M FOB; ventas ene-sep 2025: US$ 367 M (+21 %)",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 31561,
+          "anio": 2025,
+          "nota": "planilla SUNAT a sep-2025 (pico de campaña); ~95 % personal de campo",
+          "fuente": "https://www.datosperu.org/empresa-camposol-sa-20340584237.php"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Chao (packing arándano)",
+            "tipo": "packing",
+            "region": "La Libertad",
+            "localidad": "Chao, Virú"
+          },
+          {
+            "nombre": "Fundos Chao y Virú",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Chao / Virú"
+          },
+          {
+            "nombre": "Fundos Piura",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": "Piura"
+          },
+          {
+            "nombre": "Oficina Lima",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "Santiago de Surco"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo DC (Dyer Coriat)",
+          "accionistas": "Familia Dyer Coriat (Samuel Dyer Coriat, presidente del directorio)",
+          "bolsa": null,
+          "fuente": "https://es.wikipedia.org/wiki/Camposol"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Financiamiento de US$ 400 M (IFC, BID Invest, bancos) para renovar arándano y crecer +30 % en volumen al 2030.",
+          "fuente": "https://www.ifc.org/en/pressroom/2025/ifc-invests-in-camposol-to-boost-the-agricultural-sector-in-peru"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP S/4HANA",
+          "evidencia": "Migró a SAP S/4HANA para soportar operación global (Perú, Uruguay, Colombia, Chile).",
+          "anio": 2020,
+          "confianza": "alta",
+          "fuente": "https://www.revistaeconomia.com/camposol-fortalece-internacionalizacion-y-operacion-global-con-sap-s-4hana/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "SAP Transportation Management",
+          "evidencia": "Implementó SAP TM para gestionar transporte y trazabilidad hasta destino.",
+          "anio": 2020,
+          "confianza": "alta",
+          "fuente": "https://www.revistaeconomia.com/camposol-fortalece-internacionalizacion-y-operacion-global-con-sap-s-4hana/"
+        },
+        {
+          "cat": "Nube",
+          "producto": "Google Cloud",
+          "evidencia": "Kick-off de innovación con Google y Servinformación: 6 equipos diseñan soluciones digitales.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.agraria.pe/index.php/noticias/camposol-desarrolla-un-kick-off-de-inovaccion-en-colaboracio-38717"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "renovación varietal de arándano",
+          "capacidad de despacho",
+          "financiamiento"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Camposol duplica capacidad de despacho de arándano en planta Chao",
+            "detalle": "Pasa de 15 a 30 contenedores/día y de 48 a 92 FCL de almacenamiento en frío.",
+            "fuente": "https://blueberriesconsulting.com/en/camposol-duplica-su-capacidad-de-despacho-de-arandano-con-ampliacion-estrategica-en-su-planta-de-chao/"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "inversión",
+            "tema": "renovación varietal",
+            "titulo": "Camposol enfoca 2026 en renovación de arándano y desarrollo de palta",
+            "detalle": "Plan 2026 incluye renovación varietal de arándano, plantaciones de palta y capital de trabajo.",
+            "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "financiamiento",
+            "tema": "financiamiento sindicado",
+            "titulo": "Camposol asegura US$ 400 M con IFC, BID Invest, Rabobank, Scotiabank y BBVA",
+            "detalle": "Primera operación agro de IFC en 20 años; proyecta +2,500 empleos directos.",
+            "fuente": "https://www.ifc.org/en/pressroom/2025/ifc-invests-in-camposol-to-boost-the-agricultural-sector-in-peru"
+          }
+        ]
+      }
+    },
+    {
+      "id": "danper",
+      "nombre": "Danper",
+      "razon_social": "DANPER TRUJILLO S.A.C.",
+      "ruc": "20170040938",
+      "subsector": "Espárrago, alcachofa, arándano y uva · fresco y conserva",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1030",
+          "desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+          "fuente": "https://www.datosperu.org/empresa-danper-trujillo-sac-20170040938.php"
+        },
+        "facturacion": {
+          "usd_m": 278,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "Ventas 2024 Danper Trujillo: US$ 288 M; Grupo Danper proyecta US$ 400 M en 2025. Ene-nov 2025: US$ 304 M FOB",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 21851,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025; rango 2025: 9,996-23,035 según campaña; el grupo emplea >14 mil al año",
+          "fuente": "https://www.datosperu.org/empresa-danper-trujillo-sac-20170040938.php"
+        },
+        "sede": "Moche, Trujillo, La Libertad",
+        "plantas": [
+          {
+            "nombre": "Planta industrial Moche (conservas y congelados)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Moche, Trujillo"
+          },
+          {
+            "nombre": "Danper Agrícola Olmos",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Olmos"
+          },
+          {
+            "nombre": "Nueva planta de uva (2026)",
+            "tipo": "packing",
+            "region": "Lambayeque",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Danper (Danper Trujillo, Danper Agrícola La Venturosa, Danper Agrícola Olmos)",
+          "accionistas": "Joint venture de capital peruano y danés (fundada en 1994)",
+          "bolsa": null,
+          "fuente": "https://agraria.pe/noticias/grupo-danper-proyecta-ventas-por-us-400-millones-este-ano-lo-40245"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Proyecta +18 % en ventas 2025 y nueva planta de uva en Lambayeque para 2026.",
+          "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP HANA (implementado por Omnia Solution)",
+          "evidencia": "Integró todos sus procesos en SAP HANA; cierre contable bajó a 7 días.",
+          "anio": 2018,
+          "confianza": "alta",
+          "fuente": "https://itusers.today/danper-apuesta-la-transformacion-los-procesos-agricolas-sap/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Efactor Network (factoring para proveedores)",
+          "evidencia": "Línea BID Invest de US$ 10 M para que proveedores adelanten facturas vía la fintech Efactor.",
+          "anio": 2024,
+          "confianza": "alta",
+          "fuente": "https://agraria.pe/noticias/bid-invest-otorga-prestamo-de-us-35-millones-a-danper-para-i-37600"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "nueva planta de uva",
+          "ampliación de planta",
+          "arándano"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-01",
+            "tipo": "proyecto",
+            "tema": "nueva planta",
+            "titulo": "Danper construirá nueva planta de uva en Lambayeque, operativa en 2026",
+            "detalle": "Para absorber más producción de uva de mesa, que busca triplicar al 2026.",
+            "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "proyecto",
+            "tema": "ampliación de planta",
+            "titulo": "Danper amplía planta de arándano y duplica capacidad de alcachofa y piquillo",
+            "detalle": "Suma 200 ha de arándano en 2025 con variedades exclusivas.",
+            "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+          },
+          {
+            "fecha": "2025-07",
+            "tipo": "proyecto",
+            "tema": "crecimiento de volumen",
+            "titulo": "Grupo Danper proyecta ventas por US$ 400 M y 85 mil t exportadas en 2025",
+            "detalle": "Frente a 66 mil t en 2024; Danper Trujillo apunta a US$ 330 M.",
+            "fuente": "https://agraria.pe/noticias/grupo-danper-proyecta-ventas-por-us-400-millones-este-ano-lo-40245"
+          }
+        ]
+      }
+    },
+    {
+      "id": "viru",
+      "nombre": "Virú",
+      "razon_social": "VIRU S.A.",
+      "ruc": "20610799869",
+      "subsector": "Palta, arándano, alcachofa · fresco, conserva y congelado",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1030",
+          "desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+          "fuente": "https://www.datosperu.org/empresa-viru-sa-20610799869.php"
+        },
+        "facturacion": {
+          "usd_m": 280,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "Ene-nov 2025: US$ 278 M FOB. Grupo Virú apunta a >US$ 600 M en ventas 2025. RUC anterior 20373860736 (hoy Virú Group Perú S.A.)",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 17000,
+          "anio": 2025,
+          "nota": "más de 17 mil colaboradores; planilla SUNAT 2025 oscila 13-38 mil según campaña",
+          "fuente": "https://www.agraria.pe/noticias/viru-s-a-es-reconocida-por-gptw-como-uno-de-los-mejores-luga-40528"
+        },
+        "sede": "Virú, La Libertad",
+        "plantas": [
+          {
+            "nombre": "Planta agroindustrial Virú (Panamericana Norte km 521)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Virú"
+          },
+          {
+            "nombre": "Planta Marcilla (Virú Ibérica)",
+            "tipo": "planta",
+            "region": "Navarra (España)",
+            "localidad": "Marcilla"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Virú (incluye Superior Foods International, EE. UU.)",
+          "accionistas": "Reorganización simple 2025: Virú Group Perú S.A. aportó bloque patrimonial a Virú S.A.",
+          "bolsa": null,
+          "fuente": "https://www.ana.gob.pe/sites/default/files/normatividad/files/11-RA-0317-2025-02.pdf"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Más inversión en congelado y fresco en Perú y adquisiciones de platos preparados en España.",
+          "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "congelados",
+          "adquisiciones",
+          "palta y arándano"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-01",
+            "tipo": "inversión",
+            "tema": "congelado y fresco",
+            "titulo": "Grupo Virú eleva inversión en congelado y fresco y usa Chancay para Asia",
+            "detalle": "También sigue con adquisiciones de platos preparados en España.",
+            "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+          },
+          {
+            "fecha": "2025-06",
+            "tipo": "proyecto",
+            "tema": "crecimiento de ventas",
+            "titulo": "Grupo Virú tras más de US$ 600 M en ventas por auge de palta y arándano",
+            "detalle": "Proyección de ventas del grupo para 2025 impulsada por fruta fresca.",
+            "fuente": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0xURFZ1eWV2Mkh1R3luMEdxVy0tVVdJMW1fbGlDZ21EMktJUHpralItcVVvbEU3N3Q5M2xpMTJEcVg1Wlg5aFlXVVphYmVpYkYxVDl2OTM0cEpZeWZKOV9hZkE3SVRnQ0p6TW5XalFRd1U0MEV3em8tcG1yN2IwbHdXYlFlRWs3azN3ZDl2azZPSnprbHhKd25EWjJ0Q0pPU3FEd241V2w2OWViQkF4T3pxYUVTalNGVV96MFp2U3pGcWZlRm9EMVRqcUFhd0U"
+          },
+          {
+            "fecha": "2025-06",
+            "tipo": "permiso",
+            "tema": "licencias de agua",
+            "titulo": "ANA transfiere licencias de agua a Virú S.A. tras reorganización societaria",
+            "detalle": "Licencias de Virú Group Perú pasan a la nueva Virú S.A. (RUC 20610799869).",
+            "fuente": "https://www.ana.gob.pe/sites/default/files/normatividad/files/11-RA-0317-2025-02.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agrokasa",
+      "nombre": "Agrokasa",
+      "razon_social": "SOCIEDAD AGRICOLA DROKASA S.A.",
+      "ruc": "20325117835",
+      "subsector": "Uva, palta y arándano",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0122",
+          "desc": "Cultivo de frutas tropicales y subtropicales",
+          "fuente": "https://www.datosperu.org/empresa-sociedad-agricola-drokasa-sa-20325117835.php"
+        },
+        "facturacion": {
+          "usd_m": 199.7,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca; 3.ª del ranking 2023 (+62 %)",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": 8887,
+          "anio": 2025,
+          "nota": "planilla SUNAT sep-2025; MTPE reconoce >16 mil empleos formales generados en Ica, Pisco y Barranca",
+          "fuente": "https://www.datosperu.org/empresa-sociedad-agricola-drokasa-sa-20325117835.php"
+        },
+        "sede": "Santiago, Ica",
+        "plantas": [
+          {
+            "nombre": "Fundo Santa Rita",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Santiago"
+          },
+          {
+            "nombre": "Fundos Pisco",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Pisco"
+          },
+          {
+            "nombre": "Fundos Barranca / Supe",
+            "tipo": "fundo",
+            "region": "Lima",
+            "localidad": "Barranca"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Drokasa",
+          "accionistas": "Drokasa Perú 38.7 %, Corporación Drokasa 34.4 %, Farmindustria 26.9 % (dato IFC 2006)",
+          "bolsa": null,
+          "fuente": "https://disclosures.ifc.org/project-detail/SPI/24873/agrokasa-expansion"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Proyecto para ampliar áreas de dos cultivos en fundo de Ica (2026) tras salir del espárrago en 2025.",
+          "fuente": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3dwRzl2dUZidGE4NHczSjdqUzFWWkJXVWdyVXlqSGZRX1FoWFRqVzRBb08zTkJLUVNpd0Q5T1FlR0prS3gyaENKRHF4S2ZkSUU1dTd3NGlZSF9CcTdHUlhxa3p1akJoZ3V1UVJSbzVwQjJfMnpudDFmcGpvcU9XX1dqZTEwUHpqb1ZFQ3VJUFhZSGExS1ZsZlNCSHlyQ05vS3JCSVFreVduU1RHMVRlbHJFeGJUTEpqX2JPVlVQNnI2MEdyc3FPQ3FRbWludkJMNHFqRlgyY09MaXQzZ0E?oc=5"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "ampliación de áreas",
+          "arándano",
+          "gestión hídrica"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "arándano en fundos del sur",
+            "titulo": "Agrokasa apuesta por arándanos en fundos del sur ante reto del Niño",
+            "detalle": "Reorienta siembras de arándano a fundos del sur por riesgo climático.",
+            "fuente": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV0plQ0gtRV9WeDBxY1VUbUJiTkMtaGRtWjE4Y3Z1a3Uya3pzc2xVQ1FTaXNuQnJJVzktN09semJUZXBfdlpCWlJWZlRHaUlGSnJRX2JsY05CLVNHcEoweHhFTWxxbW1WRTBxbWxRYjFwWDk1WEdKWkJXVTFHTDU0eXczZTRJWDBHNnRjOUR2NGlrNy12TGpwNnM2Slo5U0pKRVpYNUpoYXBoVjA0aGd3eFc4TnhXLXZ2Qks0Nmh3RWg5TlJmNTl6QlVsNUxGcFdEVzFwWGNmM1U?oc=5"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "contratación",
+            "tema": "empleo formal",
+            "titulo": "MTPE premia a Agrokasa por más de 16 mil empleos formales",
+            "detalle": "Empleo generado en sus operaciones de Ica, Pisco y Barranca.",
+            "fuente": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSl9zU2NRUjVIYnp0RWFpTGl2THhHaVlDWFpTZm1tdDJrUjh3ZHdOdWZ6ckhYN0NRLTNRTktmSEhrdVRuYmctNXVCZjctUjRuVjNEdzR1cVJnRm4yZHVLeklpcXlkZnpqMndKdE8zUXM1SmdmcnFqVjhiZ1N5VVMzRG45SkRSS2ZUQ0FzbVpnMlBPT3Y1QUVvR3l2ek12SkdJQlVvQ2hRLUhUY0FmMVhVVzduck5VNXlndEN4Rm5BREs1cUhPWXBkak5n?oc=5"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "proyecto",
+            "tema": "ampliación de áreas",
+            "titulo": "Agrokasa con millonario proyecto en fundo de Ica para ampliar dos cultivos",
+            "detalle": "Plan de ampliación de superficie en un fundo de Ica.",
+            "fuente": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU3dwRzl2dUZidGE4NHczSjdqUzFWWkJXVWdyVXlqSGZRX1FoWFRqVzRBb08zTkJLUVNpd0Q5T1FlR0prS3gyaENKRHF4S2ZkSUU1dTd3NGlZSF9CcTdHUlhxa3p1akJoZ3V1UVJSbzVwQjJfMnpudDFmcGpvcU9XX1dqZTEwUHpqb1ZFQ3VJUFhZSGExS1ZsZlNCSHlyQ05vS3JCSVFreVduU1RHMVRlbHJFeGJUTEpqX2JPVlVQNnI2MEdyc3FPQ3FRbWludkJMNHFqRlgyY09MaXQzZ0E?oc=5"
+          },
+          {
+            "fecha": "2025-10",
+            "tipo": "proyecto",
+            "tema": "alianza productiva",
+            "titulo": "Agrokasa vuelve a un cultivo clave con proyecto con Pacific Produce en Pisco",
+            "detalle": "Proyecto conjunto con Pacific Produce en Pisco.",
+            "fuente": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPamJvaThnSS1GbVA0YWI3X2J3d3A2Y0lKRlY1cllSd1BUeHNRaVg0UURPbnJNRjJVTTBoQlNrU3R5S1dBRTNONHEtUGw0dHdOYXpwWVJSZUxvS2dGV2l5aC1IOVE2akNpZ0RhYmVOaGpXbjJ2NTdNN3dtb1o3RXVoLWpGcmdGTlgyZk1rVVEzU2dYeDA3UXNnUXZoMWstTE5OalFubnh1Vmh6MzJTSWhGd3Q2dHE1Z2pib1lJZS1KekpnUUNmNThjdkk3dm00YVdQ?oc=5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "beta",
+      "nombre": "Agroindustrial Beta",
+      "razon_social": "COMPLEJO AGROINDUSTRIAL BETA S.A.",
+      "ruc": "20297939131",
+      "subsector": "Espárrago, uva, arándano y palta",
+      "web": "https://beta.com.pe",
+      "linkedin": "https://www.linkedin.com/company/complejo-agroindustrial-beta-s-a-/",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0113",
+          "desc": "Cultivo de hortalizas y melones, raíces y tubérculos",
+          "fuente": "https://www.datosperu.org/empresa-complejo-agroindustrial-beta-sa-20297939131.php"
+        },
+        "facturacion": {
+          "usd_m": 260,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "+14 % vs 2023. Ene-nov 2025: US$ 236 M FOB; 1,897 contenedores de arándano en 2025",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 6944,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025 (fuera de pico de campaña)",
+          "fuente": "https://www.datosperu.org/empresa-complejo-agroindustrial-beta-sa-20297939131.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Plantas empacadoras norte (9 en total)",
+            "tipo": "packing",
+            "region": "Piura / Lambayeque",
+            "localidad": null
+          },
+          {
+            "nombre": "Fundos y packing sur",
+            "tipo": "packing",
+            "region": "Ica",
+            "localidad": "Chincha"
+          },
+          {
+            "nombre": "Planta de microorganismos (solar on-grid)",
+            "tipo": "planta",
+            "region": null,
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": "BVL: emisor de papeles comerciales (2021)",
+          "fuente": "https://lexlatin.com/noticias/agroindustrial-beta-debuta-bolsa-valores-lima"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Plan de inversión de US$ 120 M en nuevas variedades de uva y arándano (2026).",
+          "fuente": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2UwU291eVVMeGJCRjB4ZVpSSjdGM29WNTBOWERxaWdHT0ZzMWZTT3QwZmZIaHdNTU1WNGR4WHlXcDdKM1pjcnZ4RnpLc2JrN3UxQ19fZDJNZjIwZWl3YXd0ZHdveHVPMXVnRmRVLXBZRTd4bFg2RlpqREVpUVR5S0dod0RuVVV3MVFtOFRaSU1mSEhLbGJJbXEzLVBacmdSbml6N1NOUUduVFVzU0RMUTdaSUxsV1doeERKTjZVSy0xWF9pUlE?oc=5"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "9 plantas empacadoras (marca de líneas no publicada)",
+          "evidencia": "La empresa declara 9 plantas empacadoras en norte y sur y >5,500 ha.",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://beta.com.pe/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Sistema solar fotovoltaico on-grid",
+          "evidencia": "Primer sistema solar on-grid en su planta de microorganismos.",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDJ3MlQ3RmNNZkhaMXNVOFFGeDNxbE1HRGI2Q1VXajZGOFdJc1FLQ2dPa3lDOFY4QWlXSkZZRkQzUmMyNmVHUnNlWWpjMGVoWTA4a1dzZFRrQnZVNEJ3UXdWRzlBQ0pnOGZlQ0NhUy1nN2hUdldKVlNsWW9KS0UyS2RQN1dhMEdkRGR1dVowOXVScjBkc21rbFhoWDk5RmZDTU80?oc=5"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "nuevas variedades",
+          "arándano",
+          "energía solar",
+          "refinanciamiento"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-03",
+            "tipo": "inversión",
+            "tema": "nuevas variedades",
+            "titulo": "Beta apuesta por variedades de uva y arándano: US$ 120 M de inversión",
+            "detalle": "Programa de inversión en recambio varietal de uva y arándano.",
+            "fuente": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU2UwU291eVVMeGJCRjB4ZVpSSjdGM29WNTBOWERxaWdHT0ZzMWZTT3QwZmZIaHdNTU1WNGR4WHlXcDdKM1pjcnZ4RnpLc2JrN3UxQ19fZDJNZjIwZWl3YXd0ZHdveHVPMXVnRmRVLXBZRTd4bFg2RlpqREVpUVR5S0dod0RuVVV3MVFtOFRaSU1mSEhLbGJJbXEzLVBacmdSbml6N1NOUUduVFVzU0RMUTdaSUxsV1doeERKTjZVSy0xWF9pUlE?oc=5"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "financiamiento",
+            "tema": "préstamo sindicado",
+            "titulo": "Complejo Agroindustrial Beta refinancia deuda con préstamo sindicado",
+            "detalle": "Refinanciamiento de deuda vía préstamo sindicado.",
+            "fuente": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjg5MzNQakZJSTJmZFJvd2xndDJ0S29JYjl6bnZjZUl5QU1KTGstUmhhblBFZUNTTGZBMWpSSnZaRW5pUWdFSmRpdUV2OU1MdTFkbU1saklqcmtPRFZXQUlsZEJiSG1hN2xlOTZhQUtZQU1TeGFwUDc5SWp3d3JscA?oc=5"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "proyecto",
+            "tema": "ampliación de hectáreas",
+            "titulo": "Agroindustrial Beta ampliará cultivos de arándanos",
+            "detalle": "Expansión de hectáreas de arándano.",
+            "fuente": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcS0yaFJSVTdyUWJ4Z3B0M1hRRnNRYmRnNWh3dkY3ZTU1SzlzUjg3cW14N0YzcVR0cjdHWkJjS214ZWxKSTlINF84UFRVTEhocGJ2Nkl1a3VQLUtfY3hiYnlSSFdTZDRJUFpIXzJraEtMRjJERXRwZjRMc01iT3BlcHVhb2RWdVdINk14bktVbVhJcTEwVHBORmpyTnNBcmJyMmNkMWxXQURNLU9OYlUxYVpwczY4UFAw?oc=5"
+          },
+          {
+            "fecha": "2026-02",
+            "tipo": "piloto",
+            "tema": "energía solar",
+            "titulo": "Beta implementa su primer sistema solar on-grid",
+            "detalle": "Instalado en su planta de microorganismos.",
+            "fuente": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDJ3MlQ3RmNNZkhaMXNVOFFGeDNxbE1HRGI2Q1VXajZGOFdJc1FLQ2dPa3lDOFY4QWlXSkZZRkQzUmMyNmVHUnNlWWpjMGVoWTA4a1dzZFRrQnZVNEJ3UXdWRzlBQ0pnOGZlQ0NhUy1nN2hUdldKVlNsWW9KS0UyS2RQN1dhMEdkRGR1dVowOXVScjBkc21rbFhoWDk5RmZDTU80?oc=5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cerro-prieto",
+      "nombre": "Agrícola Cerro Prieto",
+      "razon_social": "AGRICOLA CERRO PRIETO S.A.",
+      "ruc": "20461642706",
+      "subsector": "Arándano y palta",
+      "web": "https://www.acpagro.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-agricola-cerro-prieto-sa-20461642706.php"
+        },
+        "facturacion": {
+          "usd_m": 217,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "ene-nov 2025 (SUNAT); 6.ª agroexportadora. 2023: US$ 196.9 M (fruta fresca)",
+          "fuente": "https://agraria.pe/noticias/camposol-lidera-las-agroexportaciones-peruanas-en-2025-con-v-41440"
+        },
+        "empleados": {
+          "n": 8581,
+          "anio": 2025,
+          "nota": "planilla SUNAT feb-2025; ene-2025: 12,590 (campaña)",
+          "fuente": "https://www.datosperu.org/empresa-agricola-cerro-prieto-sa-20461642706.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Fundo y packing Pacanga",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Pacanga, Chepén"
+          },
+          {
+            "nombre": "Operaciones Lambayeque",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": null
+          },
+          {
+            "nombre": "Operaciones Arequipa",
+            "tipo": "fundo",
+            "region": "Arequipa",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.datosperu.org/empresa-agricola-cerro-prieto-sa-20461642706.php"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Renovación varietal de 650 ha de arándano con US$ 60 M (2025-2026); meta 21 mil t en 2026.",
+          "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "alto",
+        "temas": [
+          "renovación varietal",
+          "financiamiento",
+          "arándano",
+          "recambio de palta"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "financiamiento",
+            "tema": "financiamiento multilateral",
+            "titulo": "BID Invest y Cerro Prieto impulsan productividad de la agroindustria",
+            "detalle": "Financiamiento de BID Invest con banca local para productividad.",
+            "fuente": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM25QcmFSTW02TkRXeU02UUY2YnhpWTEtelNWV2M4OEI1MVNfbjJLZWd0ekIyUjJDdjhlNFJibk5meU1kLVFOc2ZQaGFjVklvejJ2TllLc0xQaHk0UDFQWEZxcEptaVF2OFVPWjV2V1BJSlB0STNHOVN6Z1V3YU9VN3dwU19Jc296MFp2TEFFeU5ET19wWktONnNrc0hqNDlscHFCQkFreFlMOTVEZ3NoV0JYUFliOWllX3lzMVNXeEpBVkhKLWRiVG95Vi0wQkkxSEE3S0dEV0JYdw"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "volumen de arándano",
+            "titulo": "Agrícola Cerro Prieto proyecta exportar 24 mil toneladas de arándanos",
+            "detalle": "Proyección de exportación de arándano para la campaña.",
+            "fuente": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEZXN010SGNEUnVyQ3VWa045TjJnV1BPT25aTkRtQlZwWEN4RFpRQjhYYWc4YjNaN0RKd25mVHYyMkkyaXN1cG42dmVqMkRrT29KQWdpcDByZXBjSTJwTkFENkVsS2Njb0tEcjVqZll5OWxfbTRGakVFZDlLcG1LVHpIeTA3VmdVeUxCalk5enFiaXRHZGFXZ2ZB"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "inversión",
+            "tema": "renovación varietal",
+            "titulo": "Cerro Prieto invierte US$ 60 M en renovar 650 ha de arándano",
+            "detalle": "Prueba variedades Sekoya, Mágica, Imperial y Rocío; cierre del recambio a fines de 2026.",
+            "fuente": "https://gestion.pe/economia/empresas/danper-cerro-prieto-camposol-y-otras-los-planes-que-marcaran-la-agroexportacion-en-2026-noticia/"
+          },
+          {
+            "fecha": "2025-11",
+            "tipo": "proyecto",
+            "tema": "recambio de palta",
+            "titulo": "Cerro Prieto: entre el recambio de campos de palta y mayores exportaciones",
+            "detalle": "Renovación de campos de palta en curso.",
+            "fuente": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDZwSVBhaUI5QkJmejU0WFU0dEFBeGNtVzBzUEpUWHpSSFFzaElmeDNzcGVDSDFHaVcwMnkyRHhlcGpTaWhEbHdaekNJRHo5bUc0X2xvWUlaNFRBd284RjlnTEFBQVYyYktzSGVzSzA0Q1JMRG5IS2NEM2Mwa25ueEZlMEZoZkZHSFd4cTA2VDB1MHdHRHRhYUxpNktDY1JhV3doZE82QUlMaldxdUhOekk4VERRU2hQd2djTDNYX1UxcWdwcjk0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hortifrut-peru",
+      "nombre": "Hortifrut Perú",
+      "razon_social": "HORTIFRUT - PERÚ S.A.C.",
+      "ruc": "20602822533",
+      "subsector": "Arándano",
+      "web": "https://www.hortifrut.com",
+      "linkedin": "https://pe.linkedin.com/company/hortifrut-peru/",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-hortifrut-peru-sac-20602822533.php"
+        },
+        "facturacion": {
+          "usd_m": 212,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "+43.9 % vs 2023; 6.ª agroexportadora 2024",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 23840,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025 (pico de campaña de arándano)",
+          "fuente": "https://www.datosperu.org/empresa-hortifrut-peru-sac-20602822533.php"
+        },
+        "sede": "Salaverry, Trujillo, La Libertad",
+        "plantas": [
+          {
+            "nombre": "Planta/packing Salaverry",
+            "tipo": "packing",
+            "region": "La Libertad",
+            "localidad": "Salaverry, Trujillo"
+          },
+          {
+            "nombre": "Fundos Chao",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Nuevo Chao, Virú"
+          }
+        ],
+        "estructura": {
+          "grupo": "Hortifrut S.A. (Chile)",
+          "accionistas": "PSP Investments (Canadá) ~62 % de Hortifrut tras OPA de oct-2024",
+          "bolsa": null,
+          "fuente": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUZNMlB1enRTQ3RYWVRhRGRQZ0ZBMVYybUM5ancyUFdGS3Nsdm5pTUl5VEZ0UTZ6U3BtVnBOYy04S05Ka1BvYkdqU0VkY3BYZ28wa0hEbXBiQWJOM1lZZmVvTkZ4RUNBYjl5SHVjNWt4QXhnN255MEhRUGdIZ2hMT0dSY0RyMG8?oc=5"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Exportaciones 2024 crecieron 43.9 % y abrió envíos directos a China en 2025.",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "mercado China",
+          "nuevos formatos",
+          "certificaciones"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-08",
+            "tipo": "proyecto",
+            "tema": "nuevo producto",
+            "titulo": "Hortifrut lanza naturAll, primer arándano en rama vendido en Europa",
+            "detalle": "Nuevo formato de arándano para retail europeo.",
+            "fuente": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZW1lTWNlMlFSejBBV1RqV19XdTA4WWd0QjJ4OVBNbjN5b3VIYWlpZHJYMWRwTGM4TzV6VWdMcUwzVW1GNWRRTVZ6blplSDE4dko2QVk4T3lLSS0tSkR2SzUxY3BKc0g2bXVmdUN4N3JKM2tLSWdXY0hoMEh5ZExPcmRTSW94bjk0cmI0a18tdllqbkkwZGY3YUlR"
+          },
+          {
+            "fecha": "2025-07",
+            "tipo": "proyecto",
+            "tema": "mercado China",
+            "titulo": "Hortifrut inicia campaña 2025-26 con primer despacho de arándanos a China",
+            "detalle": "Primer embarque peruano de la temporada hacia China.",
+            "fuente": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUklJT1lRVGZubndIdnNkdHkxUGNXZ0dGM0dqbTdycFNHX0x5SlNadjZCZjZHMUNnUThVT0FNZWxpZF9DaHhPb0NDMzBjRW9uQm5oSjdPNWJoVzh4T29qQlZkZkFzUXRrQzBFNzA2MVZOTjRFN1k2ZEh5bkRjZ1J2SVpMU21nbnpNY3dLd1ZLY0Zob0hpbm5CRDhB"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agrovision",
+      "nombre": "Agrovision (Fruitist)",
+      "razon_social": "AGROVISION PERU S.A.C.",
+      "ruc": null,
+      "subsector": "Arándano",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": null,
+          "desc": "Cultivo de plantas perennes (según InfobelPRO)",
+          "fuente": "https://www.infobelpro.com/companies/peru/agriculture-and-agribusiness"
+        },
+        "facturacion": {
+          "usd_m": 192,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "+13.9 % vs 2023; 8.ª agroexportadora 2024",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 10668,
+          "anio": null,
+          "nota": "estimado de directorio InfobelPRO (terceros)",
+          "fuente": "https://www.infobelpro.com/companies/peru/agriculture-and-agribusiness"
+        },
+        "sede": "Lima (Av. Camino Real 1281)",
+        "plantas": [
+          {
+            "nombre": "Fundos Olmos (1,765 ha + 1,000 ha de reserva)",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Olmos"
+          }
+        ],
+        "estructura": {
+          "grupo": "Agrovision / marca global Fruitist (capital de EE. UU.)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPekhnd3JyZTZRNVJ5SWZtazJuR256RUFqWS1rQVNYU2tOZTZtVTdXczg3MHFSQzZVZHctSGl1eVIwRUl2bXE1NEwtLVN0VlJvdGpabDVaNktOWlhNbmY4UWtQUUx2TDRHcW93OVdmc0VVQ3lXdE5TYzVIYVhaVHBTbi1TYW10NnFYV1U4bWFQcWJYUmNwLW1vZkV4d2luVlZjc0xHTy03TGtyTVRBWWk5bzBnTHlkTENkUTVydm9R?oc=5"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "FOB +13.9 % en 2024 y operaciones extendidas a México y Marruecos.",
+          "fuente": "https://www.fmo.nl/project-detail/61793"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "marca global",
+          "logística Chancay",
+          "mercado China"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-07",
+            "tipo": "proyecto",
+            "tema": "logística",
+            "titulo": "Agrovision envía arándanos a China desde el puerto de Chancay",
+            "detalle": "Primer envío de la temporada vía Chancay.",
+            "fuente": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTNrYmdKLWlPTmwxX0JINHZOcXZDT1ljcEEtbkVwNTAyRjdkV0M3eExxc3Q4SWM3TUdUYjA4RlBXaUFKYmExV2N3akxYNWhBTXNZRUJPU1Vzdld4OWlxR1MxMVpoRlhaeGRQSUtkLW9sUzM2U244eURSdWZKSHEyNFIybG5WUXljc0tSbWk4TVlGYkpwWGU5SWh3?oc=5"
+          },
+          {
+            "fecha": "2025-04",
+            "tipo": "proyecto",
+            "tema": "rebranding",
+            "titulo": "Agrovision cambia de nombre a Fruitist como marca global de berries",
+            "detalle": "Consolida identidad comercial global de la operación.",
+            "fuente": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjVSNm9PNXlwUG5KYVp0dzF3U3hVMk40S0xGVG5pRVR3cmRLbkhUT1dpbUtfNFNFaHkxWjZlT0kyM3djVUY1Tm50RDdCZEhmejhLcEp6aDQyZy1Db0ZlNE1vdlBhVnQtQmJJNVhMcnRPSkx4eUU2anZMclVUSDFSZUdlX0lkaGtwdFhFRWl5WGNDOUN4NVBsdjVaSzNZUzF5N21iZ1o1VmhNV2t3Tk45QVU0UmN6M1hJ?oc=5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "westfalia-peru",
+      "nombre": "Westfalia Fruit Perú",
+      "razon_social": "WESTFALIA FRUIT PERÚ S.A.C.",
+      "ruc": null,
+      "subsector": "Palta, mango · fresco, congelado y aceite",
+      "web": "https://www.westfaliafruit.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": null,
+          "desc": null,
+          "fuente": null
+        },
+        "facturacion": {
+          "usd_m": 80.2,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca (Redagrícola). Volumen 2025: 43 mil t de palta (vs 34 mil t en 2024)",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": "red de >500 productores asociados",
+          "fuente": "https://www.freshfruitportal.com/?p=583111"
+        },
+        "sede": "Miraflores, Lima",
+        "plantas": [
+          {
+            "nombre": "Packing y planta de aceite de palta Cañete",
+            "tipo": "packing",
+            "region": "Lima",
+            "localidad": "Cañete"
+          },
+          {
+            "nombre": "Planta de congelado IQF/HPP Chiclayo",
+            "tipo": "planta",
+            "region": "Lambayeque",
+            "localidad": "Chiclayo"
+          }
+        ],
+        "estructura": {
+          "grupo": "Westfalia Fruit (multinacional); controla 51 % de Camet Trading desde 2017",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.portalfruticola.com/noticias/2017/01/05/peru-westfalia-fruits-adquiere-51-camet-trading-futuro-ambicioso/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Nueva planta de congelado en Chiclayo (apertura jun-2026) y meta de crecer 10-15 % en 2026.",
+          "fuente": "https://www.freshplaza.com/europe/article/9795046/we-are-constructing-a-new-freezing-facility-in-chiclayo/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Calibrado automático y selección óptica (color, tamaño, defectos)",
+          "evidencia": "Sus plantas usan calibración automatizada y control avanzado de cadena de frío.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.freshfruitportal.com/?p=583111"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Líneas IQF y HPP (alta presión)",
+          "evidencia": "Planta Chiclayo procesará palta y mango IQF y pulpa de palta con HPP.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.freshplaza.com/europe/article/9795046/we-are-constructing-a-new-freezing-facility-in-chiclayo/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Trazabilidad lote a pallet",
+          "evidencia": "Declara fruta 100 % trazable desde cada lote hasta el pallet final.",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.freshfruitportal.com/?p=583111"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "congelados",
+          "nueva planta",
+          "aceite de palta",
+          "Asia"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-08",
+            "tipo": "proyecto",
+            "tema": "nueva planta de congelado",
+            "titulo": "Westfalia va por 5,000 t de congelados con su nueva planta",
+            "detalle": "Mercados objetivo para la producción de la planta de Chiclayo.",
+            "fuente": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc09SZ2hGY3NacWdZd0s3b0lPS093N1hBb3JnckZoNVVxR0tHanI5dURia0F4dmtfcGJEZU5uVmFVRll5THg3VklKOXUybmowUFROVm9JQXRpaXNxVndlNDgwaGVrWGdMOWQxSW4wY2VrYUtubzZTMHppeXBFcTh0RkpHdmFFN2Z0eTJWSnhMMmZmYjg1VEo4VlV4d3pWd2Jlb1Y2MHYwbFowamZxS29QWFZxZ1VTWHM1djIwQXpyV21nNGpuQ3FYT28zdG9hWFhSelE"
+          },
+          {
+            "fecha": "2026-02",
+            "tipo": "proyecto",
+            "tema": "crecimiento",
+            "titulo": "Westfalia proyecta crecer hasta 15 % en 2026 con nueva planta en Chiclayo",
+            "detalle": "Crecimiento apoyado en la puesta en marcha de la planta.",
+            "fuente": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNS2hJX0NXbEJMOVlPQXJpUWl3dDBrcC1odERVcUhWeFFHZzNjY2p6MjhSOGhnWFRNWUcwUksteDZDRTVRa083SGIzRmF3SHhENWZaanR3NkNoX21qbFlxNHg0X1J3dVVwbk1jeFA2YmRuV3VwMHdNYThwQVRNNkRTU0Q0MWZScEw3bHFyNkpYZEphMnJrRTlZbFJHZEJ1TGRJcVhURXg0YjZEX0s5VlowQTQzdkNuYXEyYWpFVi1XZDk0eFJGVkp0cHBEYjBlVUxVNlhxOHpobXc4Y1I0UVlyZlFzSmRIU2FrZjhOUlRYQkJRb3MwOVFITXhNS3BKaUtWd0llRm1YSlhyS3N3SjBDVDQ0UU9iNTVU"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "proyecto",
+            "tema": "obra en curso",
+            "titulo": "Westfalia construye planta de congelado IQF y HPP en Chiclayo",
+            "detalle": "Apertura prevista para junio de 2026.",
+            "fuente": "https://www.freshplaza.com/europe/article/9795046/we-are-constructing-a-new-freezing-facility-in-chiclayo/"
+          },
+          {
+            "fecha": "2025-11",
+            "tipo": "proyecto",
+            "tema": "aceite de palta",
+            "titulo": "Westfalia Fruit instala en Cañete planta para elaborar aceite de palta",
+            "detalle": "Aprovecha fruta de segunda y tercera, pepas y cáscaras.",
+            "fuente": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1JVSG5fV2ljTGdoUWkteUw5U3g1MV9ZU2ZCLXJMYzljNFQtdU5GdnowRDNHM01rR1pISlZDaFE1R0c3U2I1bVFwYUs2V2F4UU9SNW82X19ZcFRtVUNLaWR4Q200V3lrazBNSVgwZEJhOWJwd0tGc1BOVDBxeWpjNU5mODVjazZsakludFhFenR5MHc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rapel-verfrut",
+      "nombre": "Rapel (Verfrut)",
+      "razon_social": "SOCIEDAD AGRICOLA RAPEL S.A.C.",
+      "ruc": null,
+      "subsector": "Uva de mesa, arándano y lima",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": null,
+          "desc": "Cultivo de uva (actividad principal declarada)",
+          "fuente": "https://www.infobelpro.com/companies/peru/agriculture-and-agribusiness"
+        },
+        "facturacion": {
+          "usd_m": 179,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "+12.2 % vs 2023; 9.ª agroexportadora 2024",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 8447,
+          "anio": null,
+          "nota": "estimado de directorio InfobelPRO (terceros)",
+          "fuente": "https://www.infobelpro.com/companies/peru/agriculture-and-agribusiness"
+        },
+        "sede": "Castilla, Piura",
+        "plantas": [
+          {
+            "nombre": "Fundo El Papayo (4,000 ha; 3,000 productivas)",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": "Castilla"
+          },
+          {
+            "nombre": "Planta de proceso Piura",
+            "tipo": "packing",
+            "region": "Piura",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo Verfrut, parte de Unifrutti Group desde 2024",
+          "accionistas": "Unifrutti Group (completó compra de Verfrut en 2024)",
+          "bolsa": null,
+          "fuente": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnBuc1dkX3pVd2IzeVhYeWU4Vks1MUR4ZWNSWHl1V2QwdG4ybXJaNk52TjFzckFZQVQxcGluekw5c1Y2b05nWUdlYWFPblhSam9rSk1BRU90dENCSlBKVDFIYTQxdUZweEluSWNGRlJlODQ1dHMyT3hMcm9pcUNXSHZwYmkzTDZwN0V6QnVWUXVhQ1JLSWpjQlJuR3plU2pHUFA1bGhjWHB4amtyeGdmeUh1OXlFSWZIRi1v"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Ampliaciones por más de US$ 7 M en su planta de Piura (2025).",
+          "fuente": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFJsMWwtZ2h5MmpmMTB4bmhlUEVJQnAzdUxzamdKMXAzTWNRYUZPNlNmNTNXOUw1ZGEzX3lsSDR6SGplU0hvM3Q3T2tsSmxOczhPXzhmb3YxNjZQRlFaNUN1Ni1nMDRrSGNSQUVnQmR3eWExNFItZ0c1WDMtckpRLUs1b2luYU9MUVoyWnpCQlFuSnZYeXF2cGt6UDYzMzVlRlc0NU43V3ktUW83YW9Bc2lmakVZR25BcHptaURYX0E1Yk14RGhMdEZqeEU"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ampliación de planta"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-09",
+            "tipo": "inversión",
+            "tema": "ampliación de planta",
+            "titulo": "Grupo Verfrut alista ampliaciones en planta de Piura por más de US$ 7 M",
+            "detalle": "Ampliación de la planta de proceso de su operación peruana en Piura.",
+            "fuente": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFJsMWwtZ2h5MmpmMTB4bmhlUEVJQnAzdUxzamdKMXAzTWNRYUZPNlNmNTNXOUw1ZGEzX3lsSDR6SGplU0hvM3Q3T2tsSmxOczhPXzhmb3YxNjZQRlFaNUN1Ni1nMDRrSGNSQUVnQmR3eWExNFItZ0c1WDMtckpRLUs1b2luYU9MUVoyWnpCQlFuSnZYeXF2cGt6UDYzMzVlRlc0NU43V3ktUW83YW9Bc2lmakVZR25BcHptaURYX0E1Yk14RGhMdEZqeEU"
+          }
+        ]
+      }
+    },
+    {
+      "id": "el-pedregal",
+      "nombre": "El Pedregal",
+      "razon_social": "EL PEDREGAL S.A.",
+      "ruc": null,
+      "subsector": "Uva de mesa, palta y cítricos",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": null,
+          "desc": null,
+          "fuente": null
+        },
+        "facturacion": {
+          "usd_m": 140.1,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca (+33 %). Ene-feb 2026: US$ 74.9 M (+16 %), 2.º del ranking",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": null,
+          "fuente": null
+        },
+        "sede": null,
+        "plantas": [
+          {
+            "nombre": "Fundos de uva, cítricos y palta",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": null
+          },
+          {
+            "nombre": "Fundos de uva",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": null
+          },
+          {
+            "nombre": "Fundos de uva",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Trujillo"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Arrancó 2026 como 2.ª agroexportadora del bimestre con +16 % en valor.",
+          "fuente": "https://agraria.pe/noticias/olivos-de-villacuri-lidera-ranking-de-las-principales-empres-42050"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "ecosac",
+      "nombre": "Ecosac",
+      "razon_social": "ECOSAC AGRICOLA S.A.C.",
+      "ruc": "20530184596",
+      "subsector": "Uva de mesa, pimiento y palta · fresco y conserva",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0122",
+          "desc": "Cultivo de frutas tropicales y subtropicales",
+          "fuente": "https://www.datosperu.org/empresa-ecosac-agricola-sac-20530184596.php"
+        },
+        "facturacion": {
+          "usd_m": 193,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "+12.5 % vs 2023; 7.ª agroexportadora 2024",
+          "fuente": "https://agraria.pe/noticias/oferta-agroexportable-de-peru-llego-a-145-mercados-en-2024-c-38734"
+        },
+        "empleados": {
+          "n": 4536,
+          "anio": 2025,
+          "nota": "planilla SUNAT ene-2025",
+          "fuente": "https://www.datosperu.org/empresa-ecosac-agricola-sac-20530184596.php"
+        },
+        "sede": "Castilla, Piura",
+        "plantas": [
+          {
+            "nombre": "Fundo Chapaira",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": "Castilla"
+          },
+          {
+            "nombre": "Fundo La Obrilla",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": null
+          },
+          {
+            "nombre": "Almacén Paita",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Paita"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": "Socio inversionista Atitlan (sociedad reportada en 2024)",
+          "bolsa": null,
+          "fuente": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcXZ0NVVZT2trdXJGTS12UFk0clBEcXNNMzhITVpBb01tUDFRQTNDYjY3Y2VsWmU1Nl90N1d1MkczUGVDalRzYnN2Y3ZlSkMtWHN0OS1IR3A4LVktTHdBSzdwUEZZZUFlR09GTXJfZW90aVo2RVYyMmJyS0l3Ym9iYXdNRTR0U0NrNmQyWkFUc004LTh4S3ZIY2FLQVgtdVFGV3hlSEFQTkNkVmI5WW10TTJDdUZQZUZzSExkRlYyejd2Y1FBLTBHeXMxaFoxTVdIVmMtVWtyaEM1VmZQSXF6bmxWcG5mTEpSdHRXVDZaeXJXNlRCOFA2ejBqaw?oc=5"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Refinanciación por US$ 215 M para sostener su expansión (2026).",
+          "fuente": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnp1OWdRQ3Z1bXJ0UUdIeC1ZeVhFcjhxMUwySTR1Ml9yQ0gtV2ZOT1lSeXJCNzJiSlNoNmdHTkZxaEYyV2ZodFYxUXJhdTVoV2NFTlFqaHdrcnE4SlkxanNweXZsbkx4T1dHSWljMDhtS3VQRXc4RS1tQVN6cmdvNThJNFhSMENka1JKdmFpOHVTTnlLeUloX2hKYjBiMDJqeXdr?oc=5"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Flota de 40 camionetas Ford",
+          "evidencia": "Nota sobre una agroindustrial de Piura que incorporó 40 camionetas Ford; apareció al buscar Ecosac, el titular no la nombra.",
+          "anio": 2026,
+          "confianza": "baja",
+          "fuente": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LUEI0OWp0bDVod2I4b2VFTUl0bGs1dE1KSE81MlFfWk9saFZlSFh5ZE1LWU9FSmlyd2llS19CQ3pBX1dhTWZDeWFuZEcxNWJPYllxUlZZNzU4UXFFLXFKTXB0S1RSNHRfSkVxcUlNY2gxeTA?oc=5"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "refinanciamiento",
+          "expansión",
+          "logística"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-03",
+            "tipo": "financiamiento",
+            "tema": "refinanciamiento",
+            "titulo": "Ecosac concreta refinanciación por US$ 215 M para sostener su expansión",
+            "detalle": "Reestructura deuda para financiar su crecimiento.",
+            "fuente": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnp1OWdRQ3Z1bXJ0UUdIeC1ZeVhFcjhxMUwySTR1Ml9yQ0gtV2ZOT1lSeXJCNzJiSlNoNmdHTkZxaEYyV2ZodFYxUXJhdTVoV2NFTlFqaHdrcnE4SlkxanNweXZsbkx4T1dHSWljMDhtS3VQRXc4RS1tQVN6cmdvNThJNFhSMENka1JKdmFpOHVTTnlLeUloX2hKYjBiMDJqeXdr?oc=5"
+          },
+          {
+            "fecha": "2025-06",
+            "tipo": "proyecto",
+            "tema": "logística refrigerada",
+            "titulo": "Ecosac improvisa ante la falta de contenedores reefer",
+            "detalle": "Nota sobre su respuesta a la escasez de reefers en campaña.",
+            "fuente": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUJOZHFFa282R3VTdXBQVmQ2ZDVnd1B4SkhYVElSaWlPall5STZVSTVfZFB2dEFpQ2Fnamtac19DWURlTFN3MHdHS2xtTmdrZDFXeUI2eHZmSE1GM2gtbEVEd2o0bjJRdHRBNnRKNVdHclh3QU5HWTA3Y0RHMnRXOG5fM01yMnFERGJHa1ZycWVBUHZ0Z0I0Zk1jRUtsbExn?oc=5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "don-ricardo",
+      "nombre": "Agrícola Don Ricardo",
+      "razon_social": "AGRICOLA DON RICARDO S.A.C.",
+      "ruc": "20293718220",
+      "subsector": "Uva de mesa y arándano",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0121",
+          "desc": "Cultivo de uva",
+          "fuente": "https://www.datosperu.org/empresa-agricola-don-ricardo-sac-20293718220.php"
+        },
+        "facturacion": {
+          "usd_m": 132.5,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca (+139 %)",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": 3504,
+          "anio": 2025,
+          "nota": "planilla SUNAT feb-2025; ene-2025: 8,801 (pico de campaña)",
+          "fuente": "https://www.datosperu.org/empresa-agricola-don-ricardo-sac-20293718220.php"
+        },
+        "sede": "San José de los Molinos, Ica",
+        "plantas": [
+          {
+            "nombre": "Fundos San José de los Molinos",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "San José de los Molinos"
+          },
+          {
+            "nombre": "Fundos La Tinguiña / San Juan Bautista",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "La Tinguiña"
+          },
+          {
+            "nombre": "Oficina Lima",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "Santiago de Surco"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": "Proceso de venta de la agroexportadora reportado en dic-2025",
+          "bolsa": null,
+          "fuente": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXE4THpXYmEwUUFuMG1IRG9PNGRub3ZfRHJFdFlFY1JBSlA2aU9SS0lFY3oxUTF6ZXUxd2UzN3RkWmNCQ19LUjZtNVFYTW9IWk1ZTVpKbk03Ukhna1FKU2VxU2NDcVZnNXZOU2dLSnlFcTl5VnhEaGVJZ0ZMdG1aNXVHSWlZR21kNERDMUFUcjJUVUVFWnRmVGlWQXRZMG9JQXlDajc1ZHdBTE9NY1lQcERMblpmT1VxSDc4aXlSUlJyTEo2WkRnOGVJcmt5SkZiS3ZQMVFXcmpIOVlHbUZCRlVRSkw"
+        },
+        "etapa": {
+          "valor": "reestructuración",
+          "evidencia": "Avanza un acuerdo para la venta de la agroexportadora (dic-2025).",
+          "fuente": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXE4THpXYmEwUUFuMG1IRG9PNGRub3ZfRHJFdFlFY1JBSlA2aU9SS0lFY3oxUTF6ZXUxd2UzN3RkWmNCQ19LUjZtNVFYTW9IWk1ZTVpKbk03Ukhna1FKU2VxU2NDcVZnNXZOU2dLSnlFcTl5VnhEaGVJZ0ZMdG1aNXVHSWlZR21kNERDMUFUcjJUVUVFWnRmVGlWQXRZMG9JQXlDajc1ZHdBTE9NY1lQcERMblpmT1VxSDc4aXlSUlJyTEo2WkRnOGVJcmt5SkZiS3ZQMVFXcmpIOVlHbUZCRlVRSkw"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Riego de precisión",
+          "evidencia": "Redagrícola detalla sus estrategias de riego eficiente y sostenible.",
+          "anio": 2025,
+          "confianza": "media",
+          "fuente": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMU51ekd0Qk1hSXh1c3hCNVpiY21EOC1IZWFJSUQ1SFk0REp4UThoc2xlLVRPNjJXTlpzQWlYX0ptcHNtVUNjRUZjSU1TN1JGb2Fhay1MN3pVYVpyal84M0tNS3prbjBxLWEtdXBqa1VRXzdYbHlQQmhoTkltRy1HV2pXUzVBRlhxU2xsVXNucGdudTg2bjA0"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "venta de la empresa",
+          "mercado China",
+          "logística"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-12",
+            "tipo": "adquisición",
+            "tema": "venta de la empresa",
+            "titulo": "Avanza acuerdo para la venta de Agrícola Don Ricardo",
+            "detalle": "Semana Económica reporta negociación para vender la agroexportadora.",
+            "fuente": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXE4THpXYmEwUUFuMG1IRG9PNGRub3ZfRHJFdFlFY1JBSlA2aU9SS0lFY3oxUTF6ZXUxd2UzN3RkWmNCQ19LUjZtNVFYTW9IWk1ZTVpKbk03Ukhna1FKU2VxU2NDcVZnNXZOU2dLSnlFcTl5VnhEaGVJZ0ZMdG1aNXVHSWlZR21kNERDMUFUcjJUVUVFWnRmVGlWQXRZMG9JQXlDajc1ZHdBTE9NY1lQcERMblpmT1VxSDc4aXlSUlJyTEo2WkRnOGVJcmt5SkZiS3ZQMVFXcmpIOVlHbUZCRlVRSkw"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "proyecto",
+            "tema": "mercado China",
+            "titulo": "Don Ricardo llega con su primer envío de arándanos de la campaña a China",
+            "detalle": "Primer embarque de arándano de la temporada al mercado chino.",
+            "fuente": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOREtKNlNFblNhLWh4QkZRb29MbllVam9CSHFtNjJZc29YY1FNU3N4M0lnQm1NQWR5UTRheVk1c0FDeEFnSWJjdkM0UzNzTThtTDhidk9icmJybURtMlBad0x4RWNwM3hYaUV2SVNOQ0JhY1Z0S2JnVktOMDR1R1ZSbmZnb2I1NlRIQUJHRHBDbzZURVlIX1FlUktoNnY5UXdraUxJZXVwano"
+          },
+          {
+            "fecha": "2025-06",
+            "tipo": "proyecto",
+            "tema": "logística",
+            "titulo": "Diversificar para resistir: la estrategia logística de Don Ricardo",
+            "detalle": "Diversificación de rutas y mercados de exportación.",
+            "fuente": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHptZTRqRUlEWFVBRjFOOTBaRXdkLU03NVdOeWo1UW9EaDZjWDh4dGlIa0xxMG5OeWdYNTRrOWlodUhaR3pha1NqeVVxdWRraFhuZnp5b0dXVk5HMkdjSXFPX3Z5aElPY1ZCdUNYWUlGMGc4ZEhJdG5CcUhPM2V0WmZpdkpUU3RPMDZQcXkxRmQ0UG5i"
+          }
+        ]
+      }
+    },
+    {
+      "id": "olivos-villacuri",
+      "nombre": "Los Olivos de Villacurí",
+      "razon_social": "LOS OLIVOS DE VILLACURI S.A.C.",
+      "ruc": null,
+      "subsector": "Uva de mesa",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": null,
+          "desc": null,
+          "fuente": null
+        },
+        "facturacion": {
+          "usd_m": 65.9,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca (-13 %). Ene-feb 2026: US$ 82.9 M (+48.4 %), 1.ª agroexportadora del bimestre",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": null,
+          "anio": null,
+          "nota": null,
+          "fuente": null
+        },
+        "sede": null,
+        "plantas": [
+          {
+            "nombre": "Fundos y packing de uva",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Villacurí"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Lidera el ranking ene-feb y ene-mar 2026 tras subir cuatro puestos (+48 % en valor).",
+          "fuente": "https://agraria.pe/noticias/olivos-de-villacuri-lidera-ranking-de-las-principales-empres-42050"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "arándano (posible)",
+          "crecimiento de exportaciones"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-07",
+            "tipo": "permiso",
+            "tema": "importación de plantas",
+            "titulo": "Perú autoriza ingreso de 127,400 plantas chilenas de arándano para proyecto en Ica",
+            "detalle": "Nota hallada al buscar la empresa; el titular no la nombra como importadora (atribución por confirmar).",
+            "fuente": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSVA0NDAyMEdVRTNhZmR0UTdGeHFGSDNVbU9FSnpycFJ1dXJkZ1JKSUZQeDREYi05SDdLTHgwTHNjdklVRy1CR0lFWF9xT2FmLXgwRjV2R2cwaF9LWUhfN2RIWnpXWUV1WGNQclNWaFlDNEVXZDE1SWx2UVhpdDVHQWNvX0lFemNjNlBkQVZLRTFEdXVYdTMxQnNjVFlEUE9LdVNfQzJEV1NxX3gtRVVBRnNEYmVlR0Vadlh1bTBfeTdPWGFqTDNCTzZzSUFlcUhKYUJmekhpQ3NSMkw1Z2lBWHcyY25sd2Flc1Z5NGRub1A?oc=5"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "permiso",
+            "tema": "importación de plantas",
+            "titulo": "Senasa aprueba importación de 360 mil plantas de arándano desde Chile",
+            "detalle": "Nota hallada al buscar la empresa; el titular no la nombra (atribución por confirmar).",
+            "fuente": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXZhZWhPYkJHMDFhN2psM1U5b1ZROFJKM2p4U1EyYjFuVzRua1lFREhtQzg4V3pRVlZjMXJrR01jUjdtRmV3SlNFWktPM3JGa0p1aUljV3BsbnMwXzlNM3pJUV9GN1FkcWY5Q01yeGxMUS05bWF5RkY5NGItUnVLdklCMVo5RllSZjF5ek9VNGNvUUVoYUFndkt3amJpZUkybWc?oc=5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agricola-andrea",
+      "nombre": "Agrícola Andrea",
+      "razon_social": "AGRICOLA ANDREA S.A.C.",
+      "ruc": "20505688903",
+      "subsector": "Uva de mesa y arándano",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0121",
+          "desc": "Cultivo de uva",
+          "fuente": "https://www.datosperu.org/empresa-agricola-andrea-sac-20505688903.php"
+        },
+        "facturacion": {
+          "usd_m": 73.7,
+          "anio": 2023,
+          "tipo": "exportaciones FOB",
+          "nota": "solo fruta fresca (+47 %). Ene-feb 2026: US$ 29.1 M (+4.7 %), 10.ª del ranking",
+          "fuente": "https://redagricola.com/wp-content/uploads/2024/11/TOP-50.pdf"
+        },
+        "empleados": {
+          "n": 2751,
+          "anio": 2025,
+          "nota": "planilla SUNAT may-2025",
+          "fuente": "https://www.datosperu.org/empresa-agricola-andrea-sac-20505688903.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Fundos Salas, Los Aquijes e Ica",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Salas / Los Aquijes"
+          },
+          {
+            "nombre": "Fundos Pisco y Humay",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Pisco / Humay"
+          },
+          {
+            "nombre": "Operaciones Lambayeque",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": null
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Ene-feb 2026 creció 4.7 % y se mantiene en el top 10 del bimestre.",
+          "fuente": "https://agraria.pe/noticias/olivos-de-villacuri-lidera-ranking-de-las-principales-empres-42050"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Planta solar flotante (Sungrow FPV)",
+          "evidencia": "Sungrow FPV instaló la primera planta solar flotante del Perú en un fundo de Ica; la nota salió al buscar Agrícola Andrea, el titular no la nombra.",
+          "anio": 2024,
+          "confianza": "baja",
+          "fuente": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUo2WWtMUGxmTExTdE81bGMzWXJFVkd6SEtUbkVYVGxJLXBPU3l6M2tOZzd5NnRLbTVLcVFqa1EwSEcyZkZ5YVZkUHFDOFBkUW5tQ3VNS0h5ZXVyNnpCenNJaU1rT2M4ZzMyTUpnSVV1dmRSWmJvdHktUnhLa1FwZUg4STNTWklZdGt6aGI1eHFOcEF2bEFJWkx0WkI0dlVTaEhXdQ?oc=5"
+        }
+      ],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    }
+  ]
+}

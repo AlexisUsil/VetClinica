@@ -1,0 +1,1213 @@
+{
+ "industria": "pesca",
+ "empresas": [
+  {
+   "id": "seafrost",
+   "nombre": "Seafrost",
+   "razon_social": "SEAFROST S.A.C.",
+   "ruc": "20356922311",
+   "subsector": "Congelados y conservas CHD · pota, perico, atún, langostino",
+   "web": "https://www.seafrost.com.pe/",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-seafrost-sac-20356922311.php"
+    },
+    "facturacion": {
+     "usd_m": 157.64,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#1 exportador CHD 2024 (PROMPERÚ). Aparte, ventas retail locales 2025: S/16.5 M (Gestión).",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 3642,
+     "anio": 2025,
+     "nota": "planilla SUNAT mar-2025; la empresa comunica +1,500 trabajadores",
+     "fuente": "https://www.datosperu.org/empresa-seafrost-sac-20356922311.php"
+    },
+    "sede": "Paita, Piura",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado y conservas Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Mz D Lote 01, Z.I. II, Paita"
+     },
+     {
+      "nombre": "Tiendas Seafrost (San Isidro, La Molina, Surco, Piura, Paita)",
+      "tipo": "oficina",
+      "region": "Lima / Piura",
+      "localidad": "Lima y Piura"
+     }
+    ],
+    "estructura": {
+     "grupo": "Seafrost (familia Bologna)",
+     "accionistas": "Fundada por Marcello Bologna; capital italiano",
+     "bolsa": null,
+     "fuente": "https://gestion.pe/economia/empresas/seafrost-oceano-seafood-y-marinasol-las-empresas-que-dominan-las-exportaciones-pesqueras-en-el-arranque-de-2026-noticia/"
+    },
+    "etapa": {
+     "valor": "expansión",
+     "evidencia": "Creció 15-18 % en 2025; abre 2 tiendas en 2026 y evalúa tercera planta cerca de Lima para 2027.",
+     "fuente": "https://gestion.pe/economia/empresas/seafrost-acelera-su-expansion-en-2026-abrira-dos-nuevas-tiendas-en-lima-y-diversifica-su-portafolio-de-congelados-noticia/"
+    }
+   },
+   "tecno": [
+    {
+     "cat": "Equipos",
+     "producto": "Planta desalinizadora propia",
+     "evidencia": "La web indica planta desalinizadora y tratamiento de efluentes para reforestación.",
+     "anio": 2026,
+     "confianza": "alta",
+     "fuente": "https://www.seafrost.com.pe/"
+    },
+    {
+     "cat": "Otros",
+     "producto": "BRCGS Food Safety, MSC, BASC, amfori BSCI",
+     "evidencia": "Certificaciones publicadas en su web corporativa.",
+     "anio": 2026,
+     "confianza": "alta",
+     "fuente": "https://www.seafrost.com.pe/"
+    }
+   ],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "nueva planta",
+     "retail",
+     "importación de productos"
+    ],
+    "senales": [
+     {
+      "fecha": "2026-02",
+      "tipo": "proyecto",
+      "tema": "nueva planta",
+      "titulo": "Evalúa tercera planta de procesamiento cerca de Lima para 2027",
+      "detalle": "Planta enfocada en congelados listos para cocinar; operaría desde 2027.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-acelera-su-expansion-en-2026-abrira-dos-nuevas-tiendas-en-lima-y-diversifica-su-portafolio-de-congelados-noticia/"
+     },
+     {
+      "fecha": "2026-02",
+      "tipo": "inversión",
+      "tema": "retail",
+      "titulo": "Abrirá 2 tiendas en Lima en 2026 (~US$0.1 M c/u)",
+      "detalle": "Meta de 20-25 tiendas en cuatro años; suma importados de Europa.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-acelera-su-expansion-en-2026-abrira-dos-nuevas-tiendas-en-lima-y-diversifica-su-portafolio-de-congelados-noticia/"
+     },
+     {
+      "fecha": "2026-05",
+      "tipo": "evento",
+      "tema": "exportaciones",
+      "titulo": "#1 exportador pesquero ene-feb 2026 (US$31.2 M)",
+      "detalle": "Seafrost figura #1 en el ranking ADEX de exportaciones pesqueras del primer bimestre 2026.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-oceano-seafood-y-marinasol-las-empresas-que-dominan-las-exportaciones-pesqueras-en-el-arranque-de-2026-noticia/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "marinasol",
+   "nombre": "Marinasol",
+   "razon_social": "MARINASOL S.A.",
+   "ruc": "20513632569",
+   "subsector": "Langostino de cultivo (acuicultura) · congelado",
+   "web": "https://www.marinasol.com.pe/",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "0321",
+     "desc": "Acuicultura marina",
+     "fuente": "https://www.datosperu.org/empresa-marinasol-sa-20513632569.php"
+    },
+    "facturacion": {
+     "usd_m": 63.69,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#3 exportador CHD 2024; 35 % del langostino congelado exportado.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 1035,
+     "anio": 2025,
+     "nota": "planilla SUNAT may-2025",
+     "fuente": "https://www.datosperu.org/empresa-marinasol-sa-20513632569.php"
+    },
+    "sede": "Santiago de Surco, Lima",
+    "plantas": [
+     {
+      "nombre": "Langostineras, hatchery y plantas de proceso (21 establecimientos SUNAT)",
+      "tipo": "fundo",
+      "region": "Tumbes",
+      "localidad": "Puerto Pizarro, Aguas Verdes, Zarumilla"
+     },
+     {
+      "nombre": "Granjas Cerro Negro y Ventarrón-Bloque VII",
+      "tipo": "fundo",
+      "region": "Tumbes",
+      "localidad": "Zarumilla y Tumbes"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": null
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Líder del langostino de cultivo: 35 % de las exportaciones de langostino congelado 2024.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    }
+   },
+   "tecno": [
+    {
+     "cat": "Otros",
+     "producto": "Certificaciones HACCP, BRC, BASC, BAP",
+     "evidencia": "Publicadas en su web; integra hatchery, granjas y plantas de proceso.",
+     "anio": 2026,
+     "confianza": "alta",
+     "fuente": "https://www.marinasol.com.pe/"
+    }
+   ],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": [
+     {
+      "fecha": "2026-05",
+      "tipo": "evento",
+      "tema": "exportaciones",
+      "titulo": "#3 exportador pesquero ene-feb 2026 (US$14.6 M)",
+      "detalle": "Marinasol figura #3 en el ranking ADEX de exportaciones pesqueras del primer bimestre 2026.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-oceano-seafood-y-marinasol-las-empresas-que-dominan-las-exportaciones-pesqueras-en-el-arranque-de-2026-noticia/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "propemar",
+   "nombre": "Propemar",
+   "razon_social": "PROVEEDORA DE PRODUCTOS MARINOS S.A.C.",
+   "ruc": "20483957590",
+   "subsector": "Congelados CHD · pota y perico",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-proveedora-de-productos-marinos-sac-20483957590.php"
+    },
+    "facturacion": {
+     "usd_m": 42.74,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#4 exportador CHD 2024 (PROMPERÚ).",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 573,
+     "anio": 2025,
+     "nota": "planilla SUNAT nov-2025",
+     "fuente": "https://www.datosperu.org/empresa-proveedora-de-productos-marinos-sac-20483957590.php"
+    },
+    "sede": "San Borja, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "P.I. Tablazo 2da etapa, Mz A Lote 3, Paita"
+     },
+     {
+      "nombre": "Sucursal Tacna",
+      "tipo": "planta",
+      "region": "Tacna",
+      "localidad": "Parque Industrial, Mz G Lote 1, Tacna"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": null
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Se mantiene en el top 10 exportador pesquero (#4 CHD 2024, #8 en ene-feb 2026).",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": [
+     {
+      "fecha": "2026-05",
+      "tipo": "evento",
+      "tema": "exportaciones",
+      "titulo": "#8 exportador pesquero ene-feb 2026 (US$9.6 M)",
+      "detalle": "Propemar figura #8 en el ranking ADEX de exportaciones pesqueras del primer bimestre 2026.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-oceano-seafood-y-marinasol-las-empresas-que-dominan-las-exportaciones-pesqueras-en-el-arranque-de-2026-noticia/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "seacorp-peru",
+   "nombre": "Seacorp Perú",
+   "razon_social": "SEACORP PERU S.A.C.",
+   "ruc": "20506548188",
+   "subsector": "Conchas de abanico (acuicultura marina)",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "0321",
+     "desc": "Acuicultura marina",
+     "fuente": "https://www.datosperu.org/empresa-seacorp-peru-sac-20506548188.php"
+    },
+    "facturacion": {
+     "usd_m": 37.32,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#5 exportador CHD 2024; líder en conchas de abanico (30.8 %).",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 15,
+     "anio": 2025,
+     "nota": "planilla SUNAT nov-2025; cifra baja frente a su volumen exportado",
+     "fuente": "https://www.datosperu.org/empresa-seacorp-peru-sac-20506548188.php"
+    },
+    "sede": "Miraflores, Lima",
+    "plantas": [
+     {
+      "nombre": "Concesión Bahía Nonura (Punta Aguja)",
+      "tipo": "fundo",
+      "region": "Piura",
+      "localidad": "Sechura"
+     },
+     {
+      "nombre": "Establecimiento Caleta El Vichayo",
+      "tipo": "fundo",
+      "region": "Piura",
+      "localidad": "Sechura"
+     },
+     {
+      "nombre": "Depósito Sechura",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Prolongación Restauración, Sechura"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": null
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Líder exportador de conchas de abanico con 30.8 % del total 2024.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": []
+   }
+  },
+  {
+   "id": "proanco",
+   "nombre": "Proanco",
+   "razon_social": "PRODUCTORA ANDINA DE CONGELADOS S.R.L.",
+   "ruc": "20484251861",
+   "subsector": "Congelados CHD · pota, perico, conchas, calamar",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-productora-andina-de-congelados-srl-20484251861.php"
+    },
+    "facturacion": {
+     "usd_m": 35.36,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#6 exportador CHD 2024; + US$0.49 M en CHI.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 188,
+     "anio": 2025,
+     "nota": "planilla SUNAT nov-2025; rango 167-193 en 2025",
+     "fuente": "https://www.datosperu.org/empresa-productora-andina-de-congelados-srl-20484251861.php"
+    },
+    "sede": "Sullana, Piura",
+    "plantas": [
+     {
+      "nombre": "Planta Sullana (Z.I. Municipal 1)",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Car. Tambogrande km 2.1, Sullana"
+     },
+     {
+      "nombre": "Planta Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Paita"
+     },
+     {
+      "nombre": "Planta Chincha",
+      "tipo": "planta",
+      "region": "Ica",
+      "localidad": "Chincha"
+     },
+     {
+      "nombre": "Establecimiento Sechura",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Sechura"
+     },
+     {
+      "nombre": "Almacén Callao",
+      "tipo": "planta",
+      "region": "Callao",
+      "localidad": "Callao"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": null
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Top 10 exportador pesquero: #6 CHD 2024 y #7 en ene-feb 2026.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    }
+   },
+   "tecno": [
+    {
+     "cat": "Otros",
+     "producto": "Certificaciones BRC (A+) y HACCP",
+     "evidencia": "Perfil de exportador indica BRC A+ y HACCP.",
+     "anio": null,
+     "confianza": "media",
+     "fuente": "https://panjiva.com/Productora-Andina-De-Congelados/1640093"
+    }
+   ],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": [
+     {
+      "fecha": "2026-05",
+      "tipo": "evento",
+      "tema": "exportaciones",
+      "titulo": "#7 exportador pesquero ene-feb 2026 (US$9.9 M)",
+      "detalle": "Proanco figura #7 en el ranking ADEX de exportaciones pesqueras del primer bimestre 2026.",
+      "fuente": "https://gestion.pe/economia/empresas/seafrost-oceano-seafood-y-marinasol-las-empresas-que-dominan-las-exportaciones-pesqueras-en-el-arranque-de-2026-noticia/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "peruvian-sea-food",
+   "nombre": "Peruvian Sea Food",
+   "razon_social": "PERUVIAN SEA FOOD S.A.",
+   "ruc": "20206228815",
+   "subsector": "Congelados CHD · pota",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-peruvian-sea-food-sa-20206228815.php"
+    },
+    "facturacion": {
+     "usd_m": 30.83,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#8 en exportaciones CHD 2024; + US$ 1.39 M en CHI. Pota congelada US$ 26.1 M (-51 % vs 2023)",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 2099,
+     "anio": 2025,
+     "nota": "may-2025, pico de campaña; mínimo ~307 (oct-2024)",
+     "fuente": "https://www.datosperu.org/empresa-peruvian-sea-food-sa-20206228815.php"
+    },
+    "sede": "Santiago de Surco, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Z.I. II Sector E, Paita"
+     },
+     {
+      "nombre": "Planta Ilo",
+      "tipo": "planta",
+      "region": "Moquegua",
+      "localidad": "Sector Cata Catas, Ilo"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-peruvian-sea-food-sa-20206228815.php"
+    },
+    "etapa": {
+     "valor": "expansión",
+     "evidencia": "Planilla pico 2,099 en may-2025 vs 1,455 en jun-2024, con la vuelta de la pota",
+     "fuente": "https://www.datosperu.org/empresa-peruvian-sea-food-sa-20206228815.php"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "contratación de campaña"
+    ],
+    "senales": [
+     {
+      "fecha": "2025-05",
+      "tipo": "contratación",
+      "tema": "pico de planilla",
+      "titulo": "Planilla llega a 2,099 trabajadores, máximo de la serie",
+      "detalle": "Pasó de 445 (ene-2025) a 2,099 (may-2025) en campaña de pota.",
+      "fuente": "https://www.datosperu.org/empresa-peruvian-sea-food-sa-20206228815.php"
+     }
+    ]
+   }
+  },
+  {
+   "id": "altamar-foods-peru",
+   "nombre": "Altamar Foods Perú",
+   "razon_social": "ALTAMAR FOODS PERU S.C.R.L.",
+   "ruc": "20536938657",
+   "subsector": "Congelados CHD · pota y perico",
+   "web": "https://www.altamarfoods.com/",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-altamar-foods-peru-srl-20536938657.php"
+    },
+    "facturacion": {
+     "usd_m": 30.37,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#9 en exportaciones CHD 2024 (pota, perico). Ene-feb 2026: US$ 11.4 M (#4, Gestión)",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 747,
+     "anio": 2025,
+     "nota": "nov-2025; rango 2025: 546-825 (pico jun)",
+     "fuente": "https://www.datosperu.org/empresa-altamar-foods-peru-srl-20536938657.php"
+    },
+    "sede": "Paita, Piura",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Paita (256.44 t/día)",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Av. Industrial Mz. R Lt. 05, Z.I. II, Paita"
+     },
+     {
+      "nombre": "Flota propia (20 embarcaciones) + 200 artesanales contratadas",
+      "tipo": "flota",
+      "region": null,
+      "localidad": null
+     }
+    ],
+    "estructura": {
+     "grupo": "Altamar Foods Corp (Fort Lauderdale, EE.UU.)",
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.altamarfoods.com/"
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Planilla 546-825 en 2025; opera desde 2010; planta BRC AA+",
+     "fuente": "https://www.datosperu.org/empresa-altamar-foods-peru-srl-20536938657.php"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "cumplimiento ambiental",
+     "contratación de campaña"
+    ],
+    "senales": [
+     {
+      "fecha": "2025-06",
+      "tipo": "contratación",
+      "tema": "pico de planilla",
+      "titulo": "Planilla sube a 825 trabajadores en junio 2025",
+      "detalle": "Desde 577 en enero, pico de la campaña 2025.",
+      "fuente": "https://www.datosperu.org/empresa-altamar-foods-peru-srl-20536938657.php"
+     },
+     {
+      "fecha": "2026-01",
+      "tipo": "permiso",
+      "tema": "fiscalización ambiental",
+      "titulo": "OEFA archiva multa de 6.25 UIT y confirma otra menor",
+      "detalle": "Tribunal del OEFA resuelve apelación de PAS sobre su planta de congelado en Paita.",
+      "fuente": "https://cdn.www.gob.pe/uploads/document/file/9410424/7710731-resolucion-n-044-2026-oefa-tfa-se.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "id": "costa-mira",
+   "nombre": "Costa Mira",
+   "razon_social": "COSTA MIRA S.A.C.",
+   "ruc": "20526317930",
+   "subsector": "Congelados CHD · pota",
+   "web": "https://www.costamira.com.pe/",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-costa-mira-sac-20526317930.php"
+    },
+    "facturacion": {
+     "usd_m": 25.73,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#11 en exportaciones CHD 2024 (pota). Ene-feb 2026: US$ 11.3 M (#5, Gestión)",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 669,
+     "anio": 2025,
+     "nota": "nov-2025; pico 1,004 en jun-2025",
+     "fuente": "https://www.datosperu.org/empresa-costa-mira-sac-20526317930.php"
+    },
+    "sede": "Paita, Piura (oficina en San Isidro, Lima)",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Av. Los Diamantes Mz. E, Z.I. II, Paita"
+     },
+     {
+      "nombre": "Oficina Lima",
+      "tipo": "oficina",
+      "region": "Lima",
+      "localidad": "San Isidro"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-costa-mira-sac-20526317930.php"
+    },
+    "etapa": {
+     "valor": "expansión",
+     "evidencia": "PRODUCE aprobó (oct-2024) subir congelado de 60 a 130 t/día y planta de harina residual de 5 t/h",
+     "fuente": "https://cdn.www.gob.pe/uploads/document/file/7101800/6104181-rd-00239-2024-produce-dgaampa.pdf"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "ampliación de planta",
+     "contratación de campaña"
+    ],
+    "senales": [
+     {
+      "fecha": "2025-06",
+      "tipo": "contratación",
+      "tema": "pico de planilla",
+      "titulo": "Planilla llega a 1,004 trabajadores en junio 2025",
+      "detalle": "Pico de campaña 2025; 669 en nov-2025.",
+      "fuente": "https://www.datosperu.org/empresa-costa-mira-sac-20526317930.php"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mar-andino-peru",
+   "nombre": "Mar Andino Perú",
+   "razon_social": "MAR ANDINO PERU S.A.C.",
+   "ruc": "20553621659",
+   "subsector": "Acuicultura · trucha steelhead",
+   "web": "https://marandino.com/",
+   "linkedin": "https://www.linkedin.com/company/mar-andino/",
+   "firmo": {
+    "ciiu": {
+     "codigo": "0322",
+     "desc": "Acuicultura de agua dulce",
+     "fuente": "https://www.datosperu.org/empresa-mar-andino-peru-sac-20553621659.php"
+    },
+    "facturacion": {
+     "usd_m": 25.34,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#12 en exportaciones CHD 2024; 74 % de la trucha congelada exportada",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 212,
+     "anio": 2025,
+     "nota": "nov-2025; pico 534 en jun-2025 (LinkedIn: 201-500)",
+     "fuente": "https://www.datosperu.org/empresa-mar-andino-peru-sac-20553621659.php"
+    },
+    "sede": "Tinyahuarco, Pasco (domicilio fiscal)",
+    "plantas": [
+     {
+      "nombre": "Centro de cultivo Laguna Punrún",
+      "tipo": "fundo",
+      "region": "Pasco",
+      "localidad": "Simón Bolívar, Pasco"
+     },
+     {
+      "nombre": "Centro de cultivo Choclococha",
+      "tipo": "fundo",
+      "region": "Huancavelica",
+      "localidad": "Santa Ana, Castrovirreyna"
+     },
+     {
+      "nombre": "Incubación y alevinaje Lancari",
+      "tipo": "fundo",
+      "region": "Pasco",
+      "localidad": "Tinyahuarco"
+     },
+     {
+      "nombre": "Sucursal Panamericana Sur km 18.5 (proceso)",
+      "tipo": "planta",
+      "region": "Lima",
+      "localidad": "San Juan de Miraflores"
+     },
+     {
+      "nombre": "Centro Piedra del Águila",
+      "tipo": "fundo",
+      "region": "Argentina",
+      "localidad": "Embalse Piedra del Águila"
+     }
+    ],
+    "estructura": {
+     "grupo": "Mar Andino (operaciones en Perú y Argentina)",
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://marandino.com/nuestros-origenes/"
+    },
+    "etapa": {
+     "valor": "contracción",
+     "evidencia": "Planilla cayó de 534 (jun-2025) a 212 (nov-2025)",
+     "fuente": "https://www.datosperu.org/empresa-mar-andino-peru-sac-20553621659.php"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "mercado EE.UU. (sushi)"
+    ],
+    "senales": [
+     {
+      "fecha": "2026-09",
+      "tipo": "evento",
+      "tema": "mercado EE.UU.",
+      "titulo": "Panelista en Sushi Summit 2026 (Washington D.C.)",
+      "detalle": "Su Sales Manager expuso sobre el crecimiento del sushi en Norteamérica.",
+      "fuente": "https://marandino.com/sushi-summit-esp/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "oceano-seafood",
+   "nombre": "Oceano Seafood",
+   "razon_social": "OCEANO SEAFOOD S.A.",
+   "ruc": "20600581768",
+   "subsector": "Congelados CHD · ovas de pez volador y pota",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-oceano-seafood-sa-20600581768.php"
+    },
+    "facturacion": {
+     "usd_m": 25.12,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "#13 en exportaciones CHD 2024; + US$ 2.38 M en CHI; líder en ovas de pez volador (22.7 %). Ene-feb 2026: US$ 17.3 M (#2, Gestión)",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 238,
+     "anio": 2025,
+     "nota": "may-2025; 1,367 en jun-2023",
+     "fuente": "https://www.datosperu.org/empresa-oceano-seafood-sa-20600581768.php"
+    },
+    "sede": "Santiago de Surco, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta Callao",
+      "tipo": "planta",
+      "region": "Callao",
+      "localidad": "Calle Carlos Concha 180"
+     },
+     {
+      "nombre": "Planta Terminal Pesquero Islay",
+      "tipo": "planta",
+      "region": "Arequipa",
+      "localidad": "Islay"
+     },
+     {
+      "nombre": "Planta Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Av. Los Diamantes Mz. C, Z.I., Paita"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-oceano-seafood-sa-20600581768.php"
+    },
+    "etapa": {
+     "valor": "contracción",
+     "evidencia": "Planilla bajó de 1,367 (jun-2023) a 238 (may-2025); ovas de pez volador -50 % en 2024",
+     "fuente": "https://www.datosperu.org/empresa-oceano-seafood-sa-20600581768.php"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": []
+   }
+  },
+  {
+   "id": "fisholg",
+   "nombre": "Fisholg",
+   "razon_social": "REFRIGERADOS FISHOLG & HIJOS S.A.C.",
+   "ruc": "20525512267",
+   "subsector": "Congelados CHD · perico, pota, conchas",
+   "web": "https://fisholg.com",
+   "linkedin": "https://pe.linkedin.com/company/fisholg",
+   "firmo": {
+    "ciiu": null,
+    "facturacion": {
+     "usd_m": 19.86,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "Exportaciones CHD 2024; puesto #19 del ranking CHD; líder en perico congelado (13 %).",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": null,
+     "anio": 2026,
+     "nota": "LinkedIn: rango 201-500; ConnectAmericas reporta 204 (sin año)",
+     "fuente": "https://pe.linkedin.com/company/fisholg"
+    },
+    "sede": "Paita, Piura",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Paita (nave de 4 500 m²)",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Zona Industrial II, Paita"
+     }
+    ],
+    "estructura": {
+     "grupo": "Grupo familiar de Santos Olaya",
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://connectamericas.com/es/node/6480"
+    },
+    "etapa": {
+     "valor": "expansión",
+     "evidencia": "Vacantes abiertas en Paita, Camaná y La Cruz; buscan talento para «futuras expansiones».",
+     "fuente": "https://fisholg.com/ofertas-laborales/"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "contratación de planta",
+     "TI",
+     "mantenimiento",
+     "ferias"
+    ],
+    "senales": [
+     {
+      "fecha": "2026-09",
+      "tipo": "contratación",
+      "tema": "producción y mantenimiento",
+      "titulo": "Busca jefe de producción, mecánico de planta y operador de PTAR",
+      "detalle": "Portal de empleo con vacantes en producción, congelación, calidad y mantenimiento en Paita.",
+      "fuente": "https://fisholg.com/ofertas-laborales/"
+     },
+     {
+      "fecha": "2026-09",
+      "tipo": "contratación",
+      "tema": "TI y SSOMA",
+      "titulo": "Vacantes de soporte técnico TI y asistente SSOMA",
+      "detalle": "LinkedIn muestra avisos recientes de soporte técnico, SSOMA e ingeniería.",
+      "fuente": "https://pe.linkedin.com/company/fisholg"
+     },
+     {
+      "fecha": "2026-09",
+      "tipo": "evento",
+      "tema": "ferias",
+      "titulo": "Participa en Expoalimentaria 2026 y PROMPERÚ Retail Week",
+      "detalle": "Publicaciones recientes anuncian su presencia en ambas ferias en Lima.",
+      "fuente": "https://pe.linkedin.com/company/fisholg"
+     }
+    ]
+   }
+  },
+  {
+   "id": "acuapesca",
+   "nombre": "Acuapesca",
+   "razon_social": "ACUACULTURA Y PESCA S.A.C.",
+   "ruc": "20136740351",
+   "subsector": "Acuicultura · concha de abanico",
+   "web": "https://acuapesca.com",
+   "linkedin": "https://www.linkedin.com/company/acuapesca/",
+   "firmo": {
+    "ciiu": {
+     "codigo": "0321",
+     "desc": "Acuicultura marina",
+     "fuente": "https://www.datosperu.org/empresa-acuacultura-y-pesca-sac-20136740351.php"
+    },
+    "facturacion": {
+     "usd_m": 18.99,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "Exportaciones CHD 2024; puesto #20 del ranking CHD; 15.7 % de las conchas de abanico congeladas.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 820,
+     "anio": 2025,
+     "nota": "planilla SUNAT a 2025-11; la empresa habla de ~1 000 empleos",
+     "fuente": "https://www.datosperu.org/empresa-acuacultura-y-pesca-sac-20136740351.php"
+    },
+    "sede": "La Molina, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta de procesamiento Casma",
+      "tipo": "planta",
+      "region": "Áncash",
+      "localidad": "Casma"
+     },
+     {
+      "nombre": "Centros de cultivo Samanco / Comandante Noel",
+      "tipo": "fundo",
+      "region": "Áncash",
+      "localidad": "Samanco (Santa) y Comandante Noel (Casma)"
+     },
+     {
+      "nombre": "Centro de cultivo Sechura",
+      "tipo": "fundo",
+      "region": "Piura",
+      "localidad": "Sechura"
+     },
+     {
+      "nombre": "Centro de cultivo Paracas",
+      "tipo": "fundo",
+      "region": "Ica",
+      "localidad": "Paracas"
+     },
+     {
+      "nombre": "Depósitos Callao",
+      "tipo": "oficina",
+      "region": "Callao",
+      "localidad": "Callao"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-acuacultura-y-pesca-sac-20136740351.php"
+    },
+    "etapa": {
+     "valor": "expansión",
+     "evidencia": "700 ha de cultivo; primer envío a Paraguay en 2026 y Argentina en camino.",
+     "fuente": "https://acuapesca.com/blogs/acuapesca-realiza-primer-despacho-de-conchas-de-abanico-a-paraguay/"
+    }
+   },
+   "tecno": [
+    {
+     "cat": "Equipos",
+     "producto": "Sistema automático de empaque, pesaje y sellado",
+     "evidencia": "Parte de la inversión de >US$1 M en planta y cámaras de congelado (+800 t).",
+     "anio": 2024,
+     "confianza": "alta",
+     "fuente": "https://agraria.pe/index.php/noticias/acuapesca-invierte-mas-de-us-1-millon-para-ampliar-su-capaci-36223"
+    },
+    {
+     "cat": "Otros",
+     "producto": "Trazabilidad total (semilla a exportación)",
+     "evidencia": "La empresa declara trazabilidad completa en vieiras; certificaciones ASC, BRCGS, IFS y orgánico UE.",
+     "anio": 2026,
+     "confianza": "media",
+     "fuente": "https://acuapesca.com"
+    }
+   ],
+   "intencion": {
+    "nivel": "medio",
+    "temas": [
+     "nuevos mercados",
+     "ferias"
+    ],
+    "senales": [
+     {
+      "fecha": "2025-11",
+      "tipo": "evento",
+      "tema": "ferias",
+      "titulo": "Expone en Conxemar 2025 (Vigo)",
+      "detalle": "Promoción de la vieira peruana y nuevos contactos comerciales.",
+      "fuente": "https://acuapesca.com/blogs/conxemar-2025-fue-una-gran-oportunidad-para-seguir-posicionando-la-vieira-peruana-como-un-producto-de-excelencia-internacional/"
+     },
+     {
+      "fecha": "2026-04",
+      "tipo": "evento",
+      "tema": "ferias",
+      "titulo": "Visita Seafood Expo Global Barcelona 2026",
+      "detalle": "Asiste como visitante para inteligencia comercial y clientes de vieira.",
+      "fuente": "https://acuapesca.com/blogs/acuapesca-en-seafood-expo-global-barcelona-una-mirada-estrategica-al-mercado-internacional-de-la-vieira/"
+     },
+     {
+      "fecha": "2026-06",
+      "tipo": "proyecto",
+      "tema": "nuevos mercados",
+      "titulo": "Primer despacho de conchas de abanico a Paraguay",
+      "detalle": "Abre Sudamérica; Argentina anunciada como siguiente destino.",
+      "fuente": "https://acuapesca.com/blogs/acuapesca-realiza-primer-despacho-de-conchas-de-abanico-a-paraguay/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "perupez",
+   "nombre": "Perupez",
+   "razon_social": "PERUPEZ S.A.C.",
+   "ruc": "20502257634",
+   "subsector": "Congelados CHD · pota y anguila",
+   "web": "https://perupez.com",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "0311",
+     "desc": "Pesca marítima",
+     "fuente": "https://www.datosperu.org/empresa-perupez-sac-20502257634.php"
+    },
+    "facturacion": {
+     "usd_m": 18.43,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "Exportaciones CHD 2024; puesto #21 del ranking CHD; pota y 50 % de la anguila congelada.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 5,
+     "anio": 2025,
+     "nota": "planilla SUNAT a 2025-11; no refleja personal de planta (probablemente vía terceros)",
+     "fuente": "https://www.datosperu.org/empresa-perupez-sac-20502257634.php"
+    },
+    "sede": "La Molina, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Parachique",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Parachique, Sechura"
+     },
+     {
+      "nombre": "Unidad productiva La Brea-Negritos",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "La Brea, Talara"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-perupez-sac-20502257634.php"
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Líder en exportación de anguila (2024) y busca certificación MSC.",
+     "fuente": "https://perupez.com/noticias/"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": []
+   }
+  },
+  {
+   "id": "dexim",
+   "nombre": "Dexim",
+   "razon_social": "DEXIM S.R.LTDA.",
+   "ruc": "20102881690",
+   "subsector": "Congelados CHD · merluza",
+   "web": "https://dexim.com.pe",
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-dexim-srl-20102881690.php"
+    },
+    "facturacion": {
+     "usd_m": 10.64,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "Exportaciones CHD 2024 (#33) + 5.09 en CHI (total ~15.7); 58 % de la merluza congelada.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 398,
+     "anio": 2025,
+     "nota": "planilla SUNAT a 2025-05; la web habla de >700 trabajadores",
+     "fuente": "https://www.datosperu.org/empresa-dexim-srl-20102881690.php"
+    },
+    "sede": "Paita, Piura",
+    "plantas": [
+     {
+      "nombre": "Planta Paita (80 t/día congelado; 700 t de frío)",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Zona Industrial II, Paita"
+     },
+     {
+      "nombre": "Flota de 4 arrastreros (merluza)",
+      "tipo": "flota",
+      "region": "Piura",
+      "localidad": "Paita"
+     },
+     {
+      "nombre": "Oficina administrativa",
+      "tipo": "oficina",
+      "region": "Piura",
+      "localidad": "Urb. El Chipe, Piura"
+     }
+    ],
+    "estructura": {
+     "grupo": null,
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://www.datosperu.org/empresa-dexim-srl-20102881690.php"
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Opera desde 1992 con el mismo gerente; planta y flota propias sin anuncios de ampliación.",
+     "fuente": "https://dexim.com.pe/about-us/"
+    }
+   },
+   "tecno": [
+    {
+     "cat": "Equipos",
+     "producto": "Flota propia de 4 arrastreros",
+     "evidencia": "La empresa declara 4 arrastreros para pesca diaria de merluza en Paita.",
+     "anio": 2024,
+     "confianza": "alta",
+     "fuente": "https://dexim.com.pe/the-fishing/"
+    },
+    {
+     "cat": "Equipos",
+     "producto": "Congelado 80 t/día y frío a -25 °C (700 t)",
+     "evidencia": "Capacidad declarada de la planta; marcas no publicadas.",
+     "anio": 2024,
+     "confianza": "alta",
+     "fuente": "https://dexim.com.pe/the-process/"
+    }
+   ],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": []
+   }
+  },
+  {
+   "id": "pacific-freezing",
+   "nombre": "Pacific Freezing",
+   "razon_social": "PACIFIC FREEZING COMPANY S.A.C.",
+   "ruc": "20305673669",
+   "subsector": "Congelados CHD · bonito y pota",
+   "web": null,
+   "linkedin": null,
+   "firmo": {
+    "ciiu": {
+     "codigo": "1020",
+     "desc": "Elaboración y conservación de pescado, crustáceos y moluscos",
+     "fuente": "https://www.datosperu.org/empresa-pacific-freezing-company-sac-20305673669.php"
+    },
+    "facturacion": {
+     "usd_m": 7.07,
+     "anio": 2024,
+     "tipo": "exportaciones FOB",
+     "nota": "Exportaciones CHD 2024 (#46) + 0.61 en CHI; destaca en bonito congelado.",
+     "fuente": "https://repositorio.promperu.gob.pe/bitstreams/4148647e-a0be-44ed-b7a1-4dfc79398438/download"
+    },
+    "empleados": {
+     "n": 12,
+     "anio": 2025,
+     "nota": "planilla SUNAT a 2025-11 (+6 prestadores de servicio); no refleja personal de campaña",
+     "fuente": "https://www.datosperu.org/empresa-pacific-freezing-company-sac-20305673669.php"
+    },
+    "sede": "Santiago de Surco, Lima",
+    "plantas": [
+     {
+      "nombre": "Planta de congelado Paita",
+      "tipo": "planta",
+      "region": "Piura",
+      "localidad": "Zona Industrial II, Paita"
+     }
+    ],
+    "estructura": {
+     "grupo": "Vinculada a Mai Shi Group S.A.C. (planta en Sullana): mismo gerente, Mai Lang",
+     "accionistas": null,
+     "bolsa": null,
+     "fuente": "https://cdn.www.gob.pe/uploads/document/file/8806693/6419109-peru-sanipes-29042025_-_-_-_-_updated-list.pdf"
+    },
+    "etapa": {
+     "valor": "estable",
+     "evidencia": "Planta de Paita sigue habilitada por SANIPES (2025); sin anuncios de ampliación.",
+     "fuente": "https://cdn.www.gob.pe/uploads/document/file/8806693/6419109-peru-sanipes-29042025_-_-_-_-_updated-list.pdf"
+    }
+   },
+   "tecno": [],
+   "intencion": {
+    "nivel": "bajo",
+    "temas": [],
+    "senales": []
+   }
+  }
+ ]
+}

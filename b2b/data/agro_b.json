@@ -1,0 +1,1874 @@
+{
+  "industria": "agro",
+  "empresas": [
+    {
+      "id": "pampa-baja",
+      "nombre": "Agrícola Pampa Baja",
+      "razon_social": "AGRICOLA PAMPA BAJA S.A.C.",
+      "ruc": "20411808972",
+      "subsector": "Palta, uva, granada y cítricos · lácteos",
+      "web": "https://www.pampabaja.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0150",
+          "desc": "Explotación mixta (cultivos y cría de animales)",
+          "fuente": "https://www.datosperu.org/empresa-agricola-pampa-baja-sac-20411808972.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin cifra total pública. Granada: US$ 7.5 M ene-may 2026 (7.º exportador); palta: 2.5 % de envíos peruanos a sem. 20 de 2026",
+          "fuente": "https://agraria.pe/noticias/despachos-peruanos-de-granadas-superan-los-us-80-millones-ha-42447"
+        },
+        "empleados": {
+          "n": 6516,
+          "anio": 2025,
+          "nota": "planilla SUNAT set-2025 (4,964 en set-2024); fluctúa ~2,400-6,500 según campaña",
+          "fuente": "https://www.datosperu.org/empresa-agricola-pampa-baja-sac-20411808972.php"
+        },
+        "sede": "Parque Industrial, Arequipa",
+        "plantas": [
+          {
+            "nombre": "Fundo Majes (frutas, hortalizas y establo de 6,250 vacas)",
+            "tipo": "fundo",
+            "region": "Arequipa",
+            "localidad": "Majes, Caylloma"
+          },
+          {
+            "nombre": "Fundo Olmos (940 ha de palta Hass)",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Olmos"
+          },
+          {
+            "nombre": "Plantas de empaque Majes y Olmos",
+            "tipo": "packing",
+            "region": "Arequipa / Lambayeque",
+            "localidad": "Majes / Olmos"
+          },
+          {
+            "nombre": "Fundo El Castillo (Irrigación Ongoro)",
+            "tipo": "fundo",
+            "region": "Arequipa",
+            "localidad": "Aplao, Castilla"
+          },
+          {
+            "nombre": "Fundo El Rosario (Santa Rita de Siguas)",
+            "tipo": "fundo",
+            "region": "Arequipa",
+            "localidad": "San Juan de Siguas"
+          }
+        ],
+        "estructura": {
+          "grupo": "Empresa familiar peruana (fundada en 1999)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.fmo.nl/project-detail/47822"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Prevé 1.7 M cajas de uva (+15 %) tras renovar sus 450 ha; planilla +31 % interanual a set-2025",
+          "fuente": "https://gestion.pe/economia/empresas/pampa-baja-uva-de-arequipa-gana-impulso-mientras-el-nino-afecta-a-la-palta-de-olmos-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Riego tecnificado en fundos Majes y Olmos",
+          "evidencia": "Plan de inversión de US$ 75 M incluyó sistemas de riego modernos y plantas de packing",
+          "anio": 2018,
+          "confianza": "media",
+          "fuente": "https://agraria.pe/noticias/agricola-pampa-baja-sumara-plantas-de-packing-17687"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Frío industrial con amoníaco (packing)",
+          "evidencia": "BID Invest exige seguimiento del manejo seguro de amoníaco en sus instalaciones",
+          "anio": 2018,
+          "confianza": "media",
+          "fuente": "https://idbinvest.org/sites/default/files/resumen-de-la-revisi-n-ambiental-y-social-756-es.pdf"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Energía solar térmica en Majes",
+          "evidencia": "Usa energía solar para el agua caliente de las duchas del personal",
+          "anio": 2018,
+          "confianza": "alta",
+          "fuente": "https://idbinvest.org/sites/default/files/resumen-de-la-revisi-n-ambiental-y-social-756-es.pdf"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "recambio varietal de uva",
+          "palta Hass",
+          "eficiencia laboral"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "uva de mesa",
+            "titulo": "Pampa Baja prevé 1.7 M cajas de uva (+15 %) en Arequipa",
+            "detalle": "Entran en producción 70 ha de recambio varietal; palta de Olmos baja ~30 % por El Niño.",
+            "fuente": "https://gestion.pe/economia/empresas/pampa-baja-uva-de-arequipa-gana-impulso-mientras-el-nino-afecta-a-la-palta-de-olmos-noticia/"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "contratación",
+            "tema": "mano de obra de campaña",
+            "titulo": "Planilla sube a 6,516 trabajadores (+31 % vs. set-2024)",
+            "detalle": "Registro SUNAT muestra alza sostenida de personal de jul a set 2025.",
+            "fuente": "https://www.datosperu.org/empresa-agricola-pampa-baja-sac-20411808972.php"
+          },
+          {
+            "fecha": "2025-06",
+            "tipo": "inversión",
+            "tema": "palta Hass",
+            "titulo": "Proyecta exportar 22 mil t de palta y mantiene capex anual",
+            "detalle": "17 mil t de Olmos y 5 mil t de Majes; el director señala un capex anual constante.",
+            "fuente": "https://agraria.pe/noticias/agricola-pampa-baja-exportaria-22-mil-toneladas-de-palta-has-39781"
+          }
+        ]
+      }
+    },
+    {
+      "id": "exfrusur",
+      "nombre": "Exportadora Frutícola del Sur",
+      "razon_social": "EXPORTADORA FRUTICOLA DEL SUR S.A.",
+      "ruc": "20104902864",
+      "subsector": "Granada, arándano, higo y palta",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-exportadora-fruticola-del-sur-sa-20104902864.php"
+        },
+        "facturacion": {
+          "usd_m": 82.6,
+          "anio": null,
+          "tipo": "exportaciones FOB",
+          "nota": "Datasur (periodo no indicado): 61 % arándano, 22 % otras frutas (granada), 8 % higo. Veritrade: US$ 364.8 M acumulado 2020-2024",
+          "fuente": "https://www.datasur.com/paises/peru/exportaciones/exportadora-fruticola-del-sur-sa/"
+        },
+        "empleados": {
+          "n": 6308,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025; promedio 2025 ~7,150 (5,855 en 2023)",
+          "fuente": "https://www.datosperu.org/empresa-exportadora-fruticola-del-sur-sa-20104902864.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Fundo Santiago Apóstol (Km 317 Panamericana Sur)",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Santiago, Ica"
+          },
+          {
+            "nombre": "Fundo Los Pobres",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Salas, Ica"
+          },
+          {
+            "nombre": "Fundos Soysongo y Manuel Antonio",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Nasca / El Ingenio"
+          },
+          {
+            "nombre": "Fundo Caylán Alto",
+            "tipo": "fundo",
+            "region": "Áncash",
+            "localidad": "Nepeña, Santa"
+          },
+          {
+            "nombre": "Fundos Chingal, Caranca y Alalanán",
+            "tipo": "fundo",
+            "region": "Áncash",
+            "localidad": "Pueblo Libre / Santa Cruz, Huaylas"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo familiar Checa (7 empresas agroexportadoras desde 1986)",
+          "accionistas": "Jorge y Manuel Checa (promotores)",
+          "bolsa": null,
+          "fuente": "https://idbinvest.org/es/proyectos/exportadora-fruticola-del-sur-sa"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "1.er exportador de granada ene-may 2026 (US$ 18.7 M) y planilla +38 % interanual a set-2025",
+          "fuente": "https://agraria.pe/noticias/despachos-peruanos-de-granadas-superan-los-us-80-millones-ha-42447"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "granada",
+          "arándano",
+          "mano de obra"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-09",
+            "tipo": "contratación",
+            "tema": "mano de obra de campaña",
+            "titulo": "Planilla llega a 7,605 trabajadores (+38 % vs. set-2024)",
+            "detalle": "Registro SUNAT muestra mayor personal en la campaña de arándano 2025.",
+            "fuente": "https://www.datosperu.org/empresa-exportadora-fruticola-del-sur-sa-20104902864.php"
+          }
+        ]
+      }
+    },
+    {
+      "id": "safresco-hoja-redonda",
+      "nombre": "Safresco Perú (ex Hoja Redonda)",
+      "razon_social": "SAFRESCO PERU S.A.",
+      "ruc": "20136222725",
+      "subsector": "Mandarina, palta y uva",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-san-miguel-fruits-peru-sa-20136222725.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": null,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin total público. Palta: US$ 21 M en campaña 2024 (8,928 t, puesto 15); mandarina: US$ 5.1 M ene-jun 2026 (4.º)",
+          "fuente": "https://agraria.pe/noticias/17-regiones-del-pais-participaron-en-la-exportacion-de-palta-37615"
+        },
+        "empleados": {
+          "n": 2907,
+          "anio": 2025,
+          "nota": "planilla SUNAT nov-2025; máx. 5,859 en ago-2025 (campaña)",
+          "fuente": "https://www.datosperu.org/empresa-san-miguel-fruits-peru-sa-20136222725.php"
+        },
+        "sede": "Chincha, Ica (oficina en La Victoria, Lima)",
+        "plantas": [
+          {
+            "nombre": "Fundos Hoja Redonda, La Hoyada, San Nicolás y otros",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "El Carmen, Chincha"
+          },
+          {
+            "nombre": "Fundos Santa Lucía y Lurinchincha",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Chincha Baja"
+          },
+          {
+            "nombre": "Fundo Lira",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Alto Larán, Chincha"
+          },
+          {
+            "nombre": "Fundo Piura",
+            "tipo": "fundo",
+            "region": "Piura",
+            "localidad": "Castilla"
+          },
+          {
+            "nombre": "Fundo Pacanga",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Pacanga, Chepén"
+          }
+        ],
+        "estructura": {
+          "grupo": "Cítrico Global S.L. / Citri&Co (Valencia, España)",
+          "accionistas": "Cítrico Global S.L. compró en 2022 el 100 % a S.A. San Miguel (Argentina); razón social: Agrícola Hoja Redonda → San Miguel Fruits Perú (2019) → Safresco Perú (2024)",
+          "bolsa": null,
+          "fuente": "https://www.sanmiguelglobal.com/s/Balance-SAMI-311224-Certificado-nejd.pdf"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Tras el cambio de dueño y nombre, la planilla promedio subió de ~3,280 (2023) a ~3,900 (2025)",
+          "fuente": "https://www.datosperu.org/empresa-san-miguel-fruits-peru-sa-20136222725.php"
+        }
+      },
+      "tecno": [],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "cítricos",
+          "palta"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-03",
+            "tipo": "evento",
+            "tema": "estrategia agroexportadora",
+            "titulo": "Gerente general de Safresco, panelista en CEO Agro Business Night",
+            "detalle": "Pablo Zócalo expone sobre estrategias para competir en el mercado global.",
+            "fuente": "https://agraria.pe/noticias/se-viene-el-ceo-agro-business-night-41943"
+          },
+          {
+            "fecha": "2025-08",
+            "tipo": "contratación",
+            "tema": "mano de obra de campaña",
+            "titulo": "Planilla alcanza 5,859 trabajadores en ago-2025 (+13 % interanual)",
+            "detalle": "Registro SUNAT muestra pico de personal en la campaña de cítricos.",
+            "fuente": "https://www.datosperu.org/empresa-san-miguel-fruits-peru-sa-20136222725.php"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gandules",
+      "nombre": "Gandules",
+      "razon_social": "GANDULES INC S.A.C.",
+      "ruc": "20504004415",
+      "subsector": "Capsicum y hortalizas en conserva/congelado",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1030",
+          "desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+          "fuente": "https://www.datosperu.org/empresa-gandules-inc-20504004415.php"
+        },
+        "facturacion": {
+          "usd_m": 108.2,
+          "anio": 2022,
+          "tipo": "exportaciones FOB",
+          "nota": "Último dato público hallado (+9.95 % vs 2021); sin cifra 2024-2025. En 2024 tuvo 16.3 % de las exportaciones de jalapeño",
+          "fuente": "https://agraria.pe/noticias/gandules-fue-reconocida-como-la-empresa-agroexportadora-del--31468"
+        },
+        "empleados": {
+          "n": 1128,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; pico 12 meses 2,527 (ene-2025)",
+          "fuente": "https://www.datosperu.org/empresa-gandules-inc-20504004415.php"
+        },
+        "sede": "Santiago de Surco, Lima",
+        "plantas": [
+          {
+            "nombre": "Campos y planta Jayanca",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Jayanca, Lambayeque"
+          },
+          {
+            "nombre": "Campos San Pedro de Lloc",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "San Pedro de Lloc, Pacasmayo"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "contracción",
+          "evidencia": "Planilla oct-2025 de 1,059 vs 1,812 en oct-2024 (-42 %); web corporativa caída",
+          "fuente": "https://www.datosperu.org/empresa-gandules-inc-20504004415.php"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Planta de conservas, congelado y fresco (800 t/día)",
+          "evidencia": "Capacidad de proceso declarada por la empresa; 90 % conserva",
+          "anio": 2017,
+          "confianza": "alta",
+          "fuente": "https://agraria.pe/noticias/gandules-proyecta-un-crecimiento-en-ventas-de-38-este-ano-13802"
+        }
+      ],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "avocado-packing-company",
+      "nombre": "Mission Produce Perú (APC)",
+      "razon_social": "AVOCADO PACKING COMPANY S.A.C.",
+      "ruc": "20555757469",
+      "subsector": "Palta Hass, arándano y mango",
+      "web": "https://missionproduce.com",
+      "linkedin": "https://pe.linkedin.com/company/avocado-packing-company",
+      "firmo": {
+        "ciiu": {
+          "codigo": "1030",
+          "desc": "Elaboración y conservación de frutas, legumbres y hortalizas",
+          "fuente": "https://www.datosperu.org/empresa-avocado-packing-company-20555757469.php"
+        },
+        "facturacion": {
+          "usd_m": 58.0,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo palta, campaña 2024 (25,136 t). Lideró jul-2026 con US$ 37.4 M en un solo mes; 12 % del total palta en 2023",
+          "fuente": "https://agraria.pe/noticias/17-regiones-del-pais-participaron-en-la-exportacion-de-palta-37615"
+        },
+        "empleados": {
+          "n": 846,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; pico 12 meses 1,302 (ago-2025). Mission Produce reporta ~2,100 en Perú incl. arándanos Moruga (oct-2025)",
+          "fuente": "https://www.datosperu.org/empresa-avocado-packing-company-20555757469.php"
+        },
+        "sede": "Olmos, Lambayeque (oficina en Víctor Larco, Trujillo)",
+        "plantas": [
+          {
+            "nombre": "Packing y fundos Olmos",
+            "tipo": "packing",
+            "region": "Lambayeque",
+            "localidad": "Olmos, Lambayeque"
+          },
+          {
+            "nombre": "Fundos Chao (El Talismán, San Carlos)",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Chao, Virú"
+          },
+          {
+            "nombre": "Arándanos Moruga (JV, arrendado)",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Olmos"
+          },
+          {
+            "nombre": "Planta Tambogrande",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Tambogrande, Piura"
+          },
+          {
+            "nombre": "Planta Cieneguillo",
+            "tipo": "planta",
+            "region": "Piura",
+            "localidad": "Sullana"
+          },
+          {
+            "nombre": "Oficina Trujillo",
+            "tipo": "oficina",
+            "region": "La Libertad",
+            "localidad": "Víctor Larco Herrera"
+          },
+          {
+            "nombre": "Depósitos portuarios",
+            "tipo": "puerto",
+            "region": "Callao / Piura / La Libertad",
+            "localidad": "Callao, Paita, Salaverry"
+          }
+        ],
+        "estructura": {
+          "grupo": "Mission Produce, Inc. (EE.UU.)",
+          "accionistas": "Filial de Mission Produce, Inc.",
+          "bolsa": "NASDAQ: AVO (matriz)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Capex FY2025 en cultivo de arándano en Perú; 9,600 acres de palta en Perú; compra de Calavo (2026)",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "ERP corporativo (proveedor no revelado)",
+          "evidencia": "10-K de la matriz registra costos de implementación de ERP (US$ 2.2 M FY2025)",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+        },
+        {
+          "cat": "Nube",
+          "producto": "Proveedores de software y datos en la nube (no revelados)",
+          "evidencia": "La matriz declara usar terceros de nube para supply chain, compras y finanzas",
+          "anio": 2025,
+          "confianza": "baja",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Certificación OEA (SUNAT)",
+          "evidencia": "Planta empacadora certificada como Operador Económico Autorizado desde jun-2022",
+          "anio": 2022,
+          "confianza": "alta",
+          "fuente": "https://agraria.pe/noticias/avocado-packing-company-obtiene-certificado-de-operador-econ-33548"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Packing de palta y cámara de frío de arándano",
+          "evidencia": "Una de 4 plantas de empaque del grupo; capex 2024 en planta de enfriado de arándano en Perú",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "arándano",
+          "adquisiciones",
+          "distribución"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-12",
+            "tipo": "inversión",
+            "tema": "arándano",
+            "titulo": "Capex FY2025 en desarrollo de tierras y plantas de arándano en Perú",
+            "detalle": "El 10-K detalla inversión en arándano y huertos de palta en Perú.",
+            "fuente": "https://www.sec.gov/Archives/edgar/data/1802974/000180297425000048/avo-20251031.htm"
+          },
+          {
+            "fecha": "2025-12",
+            "tipo": "evento",
+            "tema": "gobierno corporativo",
+            "titulo": "Steve Barnard deja la CEO de Mission Produce y pasa a presidente ejecutivo",
+            "detalle": "Sucesión de liderazgo en la matriz.",
+            "fuente": "https://missionproduce.com/news/"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "adquisición",
+            "tema": "consolidación",
+            "titulo": "Mission Produce acuerda comprar Calavo Growers",
+            "detalle": "La matriz anuncia la adquisición de su rival estadounidense.",
+            "fuente": "https://missionproduce.com/news/"
+          },
+          {
+            "fecha": "2026-05",
+            "tipo": "adquisición",
+            "tema": "consolidación",
+            "titulo": "Mission Produce completa la compra de Calavo Growers",
+            "detalle": "US$ 26.05 por acción en efectivo y acciones; amplía plataforma norteamericana.",
+            "fuente": "https://missionproduce.com/news/mission-produce-completes-acquisition-of-calavo-growers-advancing-its-north-american-avocado-fresh-produce-platform/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "contrato",
+            "tema": "exportación palta",
+            "titulo": "APC lidera exportación de palta en julio 2026 con US$ 37.4 M",
+            "detalle": "16 % del valor FOB de palta del mes.",
+            "fuente": "https://agraria.pe/noticias/exportacion-de-palta-peruana-se-mantiene-estable-en-julio-pe-42897"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agricola-santa-azul",
+      "nombre": "Santa Azul",
+      "razon_social": "AGRÍCOLA SANTA AZUL S.R.L.",
+      "ruc": "20555837659",
+      "subsector": "Arándano (y palta, uva)",
+      "web": null,
+      "linkedin": "https://pe.linkedin.com/company/agricola-santa-azul",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0125",
+          "desc": "Cultivo de otros frutos y nueces de árboles y arbustos",
+          "fuente": "https://www.datosperu.org/empresa-agricola-santa-azul-20555837659.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2026,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin valor FOB público; exportó 8,375 t de arándano en campaña 2025/26 (38 % de la región Lima)",
+          "fuente": "https://agraria.pe/noticias/region-lima-exporto-21-937-toneladas-de-arandanos-frescos-pa-41956"
+        },
+        "empleados": {
+          "n": 4095,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; pico 12 meses 12,533 (abr-2025), muy estacional",
+          "fuente": "https://www.datosperu.org/empresa-agricola-santa-azul-20555837659.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Fundo Las Minas",
+            "tipo": "fundo",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Planta Santa Azul (packing)",
+            "tipo": "packing",
+            "region": "Lima",
+            "localidad": "Caral, Supe"
+          },
+          {
+            "nombre": "Depósito Supe km 184",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Supe, Barranca"
+          },
+          {
+            "nombre": "Depósito Chao",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Chao, Virú"
+          },
+          {
+            "nombre": "Fundo San Telmo (oficina)",
+            "tipo": "oficina",
+            "region": "Áncash",
+            "localidad": "Cochas, Ocros"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Primer exportador de arándano de la región Lima; región creció 1 % en 2025/26",
+          "fuente": "https://agraria.pe/noticias/region-lima-exporto-21-937-toneladas-de-arandanos-frescos-pa-41956"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "NISIRA ERP",
+          "evidencia": "Aviso de auxiliar de logística pide ingreso de datos en Nisira",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agricola-santa-azul"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Power BI",
+          "evidencia": "Avisos de logística y capital humano piden Power BI intermedio",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agricola-santa-azul"
+        },
+        {
+          "cat": "Automatización",
+          "producto": "Líneas de arándano con PLC (sorter, filler, full cover)",
+          "evidencia": "Busca operadores con programación PLC para máquinas de la planta de Caral",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agricola-santa-azul"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Riego tecnificado y fertirriego",
+          "evidencia": "Aviso de supervisor de riego y fertirriego; la empresa cita riego tecnificado",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agricola-santa-azul"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "contratación de campaña",
+          "automatización de packing"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-03",
+            "tipo": "evento",
+            "tema": "exportación arándano",
+            "titulo": "Santa Azul lidera exportación de arándano de la región Lima (38 %)",
+            "detalle": "8,375 t en la campaña 2025/26.",
+            "fuente": "https://agraria.pe/noticias/region-lima-exporto-21-937-toneladas-de-arandanos-frescos-pa-41956"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "contratación",
+            "tema": "automatización de packing",
+            "titulo": "7 avisos urgentes: operadores PLC, riego, calidad y capital humano",
+            "detalle": "Contratación para la gran campaña en Barranca y San Isidro.",
+            "fuente": "https://pe.computrabajo.com/trabajo-de-agricola-santa-azul"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agualima",
+      "nombre": "Agualima",
+      "razon_social": "AGUALIMA S.A.C.",
+      "ruc": "20512217452",
+      "subsector": "Arándano orgánico, mandarina, palta y espárrago",
+      "web": "https://www.agualima.com",
+      "linkedin": "https://pe.linkedin.com/company/agualima",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0113",
+          "desc": "Cultivo de hortalizas y melones, raíces y tubérculos",
+          "fuente": "https://www.datosperu.org/empresa-agualima-20512217452.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin valor FOB público; 2.º exportador de arándano orgánico en 2025 (4,036 t, 14.1 %)",
+          "fuente": "https://agraria.pe/noticias/cuales-son-las-empresas-protagonistas-en-la-exportacion-de-a-41416"
+        },
+        "empleados": {
+          "n": 2219,
+          "anio": 2025,
+          "nota": "Planilla SUNAT feb-2025 (último dato); pico 12 meses 4,268 (nov-2024)",
+          "fuente": "https://www.datosperu.org/empresa-agualima-20512217452.php"
+        },
+        "sede": "Virú, La Libertad",
+        "plantas": [
+          {
+            "nombre": "Fundo Agualima (Panamericana Norte km 512)",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Virú"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": null
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Proyecta 5 M kg de arándano orgánico, +25 % vs campaña previa",
+          "fuente": "https://agraria.pe/noticias/agualima-proyecta-exportar-5-millones-de-arandanos-organicos-40655"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Datos/BI",
+          "producto": "Power BI",
+          "evidencia": "Aviso de analista de costos agrícolas pide Power BI",
+          "anio": 2026,
+          "confianza": "media",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agualima"
+        },
+        {
+          "cat": "ERP",
+          "producto": "ERP agrícola (SAP o NISIRA, sin confirmar)",
+          "evidencia": "Mismo aviso pide manejo de ERP agrícola tipo SAP o NISIRA",
+          "anio": 2026,
+          "confianza": "baja",
+          "fuente": "https://pe.computrabajo.com/trabajo-de-agualima"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Certificaciones BRC Food, GlobalG.A.P., BASC",
+          "evidencia": "Declaradas en la web corporativa",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://www.agualima.com"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "arándano orgánico",
+          "nuevos mercados"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-09",
+            "tipo": "proyecto",
+            "tema": "arándano orgánico",
+            "titulo": "Agualima proyecta 5 M kg de arándano orgánico (+25 %)",
+            "detalle": "Apunta a Europa, China (recién certificada) y EE.UU.",
+            "fuente": "https://agraria.pe/noticias/agualima-proyecta-exportar-5-millones-de-arandanos-organicos-40655"
+          },
+          {
+            "fecha": "2026-01",
+            "tipo": "evento",
+            "tema": "arándano orgánico",
+            "titulo": "2.º exportador de arándano orgánico del Perú en 2025",
+            "detalle": "4,036 t, 14.1 % del total orgánico.",
+            "fuente": "https://agraria.pe/noticias/cuales-son-las-empresas-protagonistas-en-la-exportacion-de-a-41416"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "contratación",
+            "tema": "costos y embarques",
+            "titulo": "Avisos en Virú: analista de costos, embarques y taller agrícola",
+            "detalle": "Contratación previa al pico de campaña.",
+            "fuente": "https://pe.computrabajo.com/trabajo-de-agualima"
+          }
+        ]
+      }
+    },
+    {
+      "id": "procesadora-laran",
+      "nombre": "Procesadora Larán",
+      "razon_social": "PROCESADORA LARAN S.A.C.",
+      "ruc": "20451899881",
+      "subsector": "Cítricos (mandarina) y frutas frescas",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0123",
+          "desc": "Cultivo de cítricos",
+          "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+        },
+        "facturacion": {
+          "usd_m": 74.1,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo S1 2025 (ene-jun), +52 %, 7.º agroexportador. Mandarina S1 2026: US$ 24.5 M (1.º)",
+          "fuente": "https://agraria.pe/noticias/machu-picchu-foods-destaca-como-la-principal-agroexportadora-40469"
+        },
+        "empleados": {
+          "n": 2740,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; pico de campaña 4,119 (jul-2025); 6,564 en mar-2025 (posible atípico)",
+          "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Fundo San Luis",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Llipata, Palpa"
+          },
+          {
+            "nombre": "Fundo San Fermín",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Palpa"
+          },
+          {
+            "nombre": "Fundo Chiquerillo",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Changuillo, Nasca"
+          },
+          {
+            "nombre": "Fundo San Antonio de Pangaraví",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Nasca"
+          },
+          {
+            "nombre": "Sector Santa Enriqueta",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Alto Larán, Chincha"
+          },
+          {
+            "nombre": "Sector Costa Rica",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Humay, Pisco"
+          },
+          {
+            "nombre": "Oficina administrativa",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "Magdalena del Mar"
+          }
+        ],
+        "estructura": {
+          "grupo": null,
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Exportaciones S1 2025 +52 % (subió 6 puestos) y líder en mandarina en S1 2026",
+          "fuente": "https://agraria.pe/noticias/machu-picchu-foods-destaca-como-la-principal-agroexportadora-40469"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Flota propia de transporte de carga",
+          "evidencia": "Registra CIIU secundario 4923 (transporte de carga por carretera) en SUNAT",
+          "anio": 2025,
+          "confianza": "baja",
+          "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "cítricos",
+          "cambio de gerencia",
+          "crecimiento exportador"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-07",
+            "tipo": "contratación",
+            "tema": "campaña",
+            "titulo": "Planilla sube a 4,119 trabajadores en campaña",
+            "detalle": "La planilla SUNAT pasó de 2,700 (abr-2025) a 4,119 (jul-2025).",
+            "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+          },
+          {
+            "fecha": "2025-08",
+            "tipo": "evento",
+            "tema": "crecimiento exportador",
+            "titulo": "7.º agroexportador del S1 2025 con US$ 74.1 M (+52 %)",
+            "detalle": "Avanzó seis puestos en el ranking semestral de agroexportadoras.",
+            "fuente": "https://agraria.pe/noticias/machu-picchu-foods-destaca-como-la-principal-agroexportadora-40469"
+          },
+          {
+            "fecha": "2025-10",
+            "tipo": "contratación",
+            "tema": "cambio de gerencia",
+            "titulo": "Nuevo gerente general y gerente de finanzas",
+            "detalle": "SUNAT registra nuevo gerente general, apoderado y gerente de finanzas desde el 6-oct-2025.",
+            "fuente": "https://www.datosperu.org/empresa-procesadora-laran-sac-20451899881.php"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "evento",
+            "tema": "cítricos",
+            "titulo": "Líder en mandarina S1 2026 con US$ 24.5 M",
+            "detalle": "Junto a CPF concentra cerca del 40 % del valor exportado de mandarina.",
+            "fuente": "https://agraria.pe/noticias/exportacion-de-mandarinas-llego-a-us-122-8-millones-en-el-pr-42984"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cpf",
+      "nombre": "CPF",
+      "razon_social": "CONSORCIO DE PRODUCTORES DE FRUTA S.A.",
+      "ruc": "20501923428",
+      "subsector": "Mandarina, palta, uva y arándano (consorcio exportador)",
+      "web": "https://cpf.com.pe",
+      "linkedin": "https://www.linkedin.com/company/cpf-peru",
+      "firmo": {
+        "ciiu": {
+          "codigo": "9609",
+          "desc": "Otras actividades de servicios personales n.c.p. (secundario 4620: venta mayorista de materias primas agropecuarias)",
+          "fuente": "https://www.datosperu.org/empresa-consorcio-de-productores-de-fruta-sa-20501923428.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2024,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin total publicado; 1.º en mandarina 2024 (20 % de US$ 300 M del producto) y US$ 24.3 M en mandarina S1 2026",
+          "fuente": "https://agraria.pe/noticias/exportaciones-peruanas-de-mandarinas-alcanzaron-las-230-038--38259"
+        },
+        "empleados": {
+          "n": 40,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025 (estable 40-42); campo y packing a cargo de productores socios; LinkedIn: 51-200",
+          "fuente": "https://www.datosperu.org/empresa-consorcio-de-productores-de-fruta-sa-20501923428.php"
+        },
+        "sede": "La Victoria, Lima",
+        "plantas": [
+          {
+            "nombre": "Packing zona norte",
+            "tipo": "packing",
+            "region": "Lambayeque",
+            "localidad": "Olmos"
+          },
+          {
+            "nombre": "Packing zona norte",
+            "tipo": "packing",
+            "region": "Cajamarca",
+            "localidad": "Chota"
+          },
+          {
+            "nombre": "Packing zona centro",
+            "tipo": "packing",
+            "region": "Lima",
+            "localidad": "Huaral"
+          },
+          {
+            "nombre": "Packing zona centro",
+            "tipo": "packing",
+            "region": "Lima",
+            "localidad": "Santa Rosa"
+          },
+          {
+            "nombre": "Packing zona sur",
+            "tipo": "packing",
+            "region": "Lima",
+            "localidad": "Cañete"
+          },
+          {
+            "nombre": "Packing zona sur",
+            "tipo": "packing",
+            "region": "Ica",
+            "localidad": "Ica"
+          },
+          {
+            "nombre": "Depósito Fundo La Viña",
+            "tipo": "planta",
+            "region": "Lambayeque",
+            "localidad": "Jayanca"
+          },
+          {
+            "nombre": "Depósito Paita",
+            "tipo": "puerto",
+            "region": "Piura",
+            "localidad": "Paita"
+          }
+        ],
+        "estructura": {
+          "grupo": "Consorcio comercial de productores (no compra fruta a terceros); +3,500 ha de socios",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://cpf.com.pe/nosotros/"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Lidera mandarina (1.º en 2024, 2.º en S1 2026) con planilla estable",
+          "fuente": "https://agraria.pe/noticias/exportacion-de-mandarinas-llego-a-us-122-8-millones-en-el-pr-42984"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Trazabilidad de fruta (sistema no especificado)",
+          "evidencia": "La web destaca aseguramiento de calidad y trazabilidad, sin nombrar sistema",
+          "anio": 2025,
+          "confianza": "baja",
+          "fuente": "https://cpf.com.pe/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ferias",
+          "nuevos mercados",
+          "palta Hass"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-02",
+            "tipo": "evento",
+            "tema": "ferias",
+            "titulo": "Stand en Fruit Logistica Berlín 2026",
+            "detalle": "Stand C50, Hall 25, para buscar socios en palta, mandarina, uva, arándano y granada.",
+            "fuente": "https://www.linkedin.com/company/cpf-peru"
+          },
+          {
+            "fecha": "2026-03",
+            "tipo": "evento",
+            "tema": "nuevos mercados",
+            "titulo": "Participa en Fruit Attraction São Paulo",
+            "detalle": "Feria del 24 al 26 de marzo de 2026 en Brasil.",
+            "fuente": "https://www.linkedin.com/company/cpf-peru"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "proyecto",
+            "tema": "palta Hass",
+            "titulo": "Arranca campaña de palta Hass 2026",
+            "detalle": "Anuncia programas de abastecimiento de palta Hass para la nueva campaña.",
+            "fuente": "https://www.linkedin.com/company/cpf-peru"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "evento",
+            "tema": "ferias",
+            "titulo": "Confirma stand en Fruit Attraction Madrid (oct-2026)",
+            "detalle": "Stand 4F19, IFEMA, 6-8 de octubre de 2026.",
+            "fuente": "https://www.linkedin.com/company/cpf-peru"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agrolatina",
+      "nombre": "Agrolatina",
+      "razon_social": "CORPORACION AGROLATINA S.A.C.",
+      "ruc": "20176770474",
+      "subsector": "Uva de mesa, palta y granada",
+      "web": "https://agrolatina.com",
+      "linkedin": "https://www.linkedin.com/company/corporacion-agrolatina",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0150",
+          "desc": "Explotación mixta (cultivo y cría de animales)",
+          "fuente": "https://www.datosperu.org/empresa-corporacion-agrolatina-sac-20176770474.php"
+        },
+        "facturacion": {
+          "usd_m": 114.5,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo S1 2025 (+43 %, 3.º agroexportador). Ene-may 2026: US$ 107.8 M (-4.6 %)",
+          "fuente": "https://agraria.pe/noticias/machu-picchu-foods-destaca-como-la-principal-agroexportadora-40469"
+        },
+        "empleados": {
+          "n": 7709,
+          "anio": 2025,
+          "nota": "Planilla SUNAT feb-2025 (último dato); pico 10,389 en ene-2025; LinkedIn: 501-1,000",
+          "fuente": "https://www.datosperu.org/empresa-corporacion-agrolatina-sac-20176770474.php"
+        },
+        "sede": "Santiago de Surco, Lima (operación en Ica)",
+        "plantas": [
+          {
+            "nombre": "Fundo Don Pepe",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Pampas de Villacurí, Salas"
+          },
+          {
+            "nombre": "Planta de empaque (86,000 m²)",
+            "tipo": "packing",
+            "region": "Ica",
+            "localidad": null
+          },
+          {
+            "nombre": "Fundo Pampas de Chauchilla",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Nasca"
+          },
+          {
+            "nombre": "Fundo Socorro Pajonal",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Nasca"
+          },
+          {
+            "nombre": "Fundo San Juan Totoral",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Las Trancas, Nasca"
+          },
+          {
+            "nombre": "Oficina administrativa",
+            "tipo": "oficina",
+            "region": "Lima",
+            "localidad": "La Molina"
+          }
+        ],
+        "estructura": {
+          "grupo": "Empresa familiar; filial comercial Fresh Latina LLC (Miami, EE. UU.)",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://agrolatina.com/about"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Creció 43 % en S1 2025, pero cae 24 % en Q1 2026 y 4.6 % a mayo 2026",
+          "fuente": "https://agraria.pe/noticias/peru-agroexportaciones-crecen-4-9-pero-con-un-sector-partido-42801"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Líneas de selección automatizadas y control de calidad digital",
+          "evidencia": "Packing de 86,000 m² procesa hasta 1.3 M kg de uva por día",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://agrolatina.com/how-we-grow"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Túneles de frío (1,500 pallets) y cámara de 3,372 pallets",
+          "evidencia": "Cadena de frío con control de temperatura y humedad",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://agrolatina.com/how-we-grow"
+        },
+        {
+          "cat": "Datos/BI",
+          "producto": "Riego por goteo con sondas de suelo y analítica",
+          "evidencia": "Ajusta el riego en tiempo real con sondas y analítica de datos",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://agrolatina.com/impact/water"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Parques fotovoltaicos (9 MW)",
+          "evidencia": "Tres parques de ~3 MW alimentan frío, riego y packing",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://agrolatina.com/impact/solar"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "energía renovable",
+          "uva de mesa",
+          "eficiencia hídrica"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-03",
+            "tipo": "proyecto",
+            "tema": "energía renovable",
+            "titulo": "3.2 MW solares en fundo Don Pepe; plan en Nasca 2025",
+            "detalle": "Bajó 40 % el costo energético y anunció más hectáreas solares en Nasca.",
+            "fuente": "https://agraria.pe/noticias/agrolatina-genera-3-2-megawatts-de-energia-limpia-con-tres-h-38705"
+          },
+          {
+            "fecha": "2025-08",
+            "tipo": "evento",
+            "tema": "uva de mesa",
+            "titulo": "3.º agroexportador del S1 2025 con US$ 114.5 M (+43 %)",
+            "detalle": "Subió dos puestos en el ranking semestral.",
+            "fuente": "https://agraria.pe/noticias/machu-picchu-foods-destaca-como-la-principal-agroexportadora-40469"
+          },
+          {
+            "fecha": "2026-04",
+            "tipo": "evento",
+            "tema": "uva de mesa",
+            "titulo": "Cae a 5.º lugar en Q1 2026 (-24 %)",
+            "detalle": "Exportó US$ 69.7 M frente a US$ 92.0 M en Q1 2025.",
+            "fuente": "https://agraria.pe/noticias/hasta-marzo-olivos-de-villacuri-lidera-ranking-de-agroexport-42253"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "proyecto",
+            "tema": "energía renovable",
+            "titulo": "Capacidad solar llega a 9 MW en tres parques",
+            "detalle": "La web reporta 9 MW, frente a 3.2 MW en mar-2025.",
+            "fuente": "https://agrolatina.com/impact/solar"
+          }
+        ]
+      }
+    },
+    {
+      "id": "aib",
+      "nombre": "AIB",
+      "razon_social": "AGROINDUSTRIAS AIB S.A.",
+      "ruc": "20104420282",
+      "subsector": "Congelados, conservas, jugos y frescos (mango, palta, pimiento, limón)",
+      "web": "https://www.aib.com.pe",
+      "linkedin": "https://www.linkedin.com/company/agroindustrias-aib",
+      "firmo": {
+        "ciiu": {
+          "codigo": "0113",
+          "desc": "Cultivo de hortalizas y melones, raíces y tubérculos (sec. 1030 y 0125)",
+          "fuente": "https://www.datosperu.org/empresa-agroindustrias-aib-sa-20104420282.php"
+        },
+        "facturacion": {
+          "usd_m": 60.0,
+          "anio": null,
+          "tipo": "estimado",
+          "nota": "Datos Perú: 'vende unos 60 Mn USD al año' (sin fecha). Veritrade: FOB 2020-2024 acumulado US$ 240.4 M",
+          "fuente": "https://www.datosperu.org/empresa-agroindustrias-aib-sa-20104420282.php"
+        },
+        "empleados": {
+          "n": 3315,
+          "anio": 2025,
+          "nota": "Planilla SUNAT set-2025; 9,051 en mar-2025 (pico o atípico); LinkedIn: 201-500",
+          "fuente": "https://www.datosperu.org/empresa-agroindustrias-aib-sa-20104420282.php"
+        },
+        "sede": "Miraflores, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Motupe (jugos, aceites, deshidratados, conservas)",
+            "tipo": "planta",
+            "region": "Lambayeque",
+            "localidad": "Motupe"
+          },
+          {
+            "nombre": "Fundo La Noria",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Anchovira, Motupe"
+          },
+          {
+            "nombre": "Fundo Sancarranco",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Valle La Leche, Jayanca"
+          },
+          {
+            "nombre": "Predio El Sarco",
+            "tipo": "fundo",
+            "region": "Lambayeque",
+            "localidad": "Motupe"
+          },
+          {
+            "nombre": "Planta Ica (conservas, congelados, frescos)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Pampa de Villacurí, Salas"
+          },
+          {
+            "nombre": "Fundo Huarango Redondo",
+            "tipo": "fundo",
+            "region": "Ica",
+            "localidad": "Salas"
+          },
+          {
+            "nombre": "Producción de mango/palta congelado",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Chincha"
+          },
+          {
+            "nombre": "Depósito Ate",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Ate"
+          }
+        ],
+        "estructura": {
+          "grupo": "Independiente (ex Agroindustrias Backus hasta 2005); participación mayoritaria en Agrícola José Juan",
+          "accionistas": null,
+          "bolsa": null,
+          "fuente": "https://www.smv.gob.pe/SIMV/Bp_LisDatosGenerales?data=35308A65DAFB8D6DE0922BF568609D&op=bq1"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "Moderniza su ERP a SAP Cloud ERP Private con planilla de ~3,100-3,300 en 2025",
+          "fuente": "https://www.linkedin.com/company/agroindustrias-aib"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "ERP",
+          "producto": "SAP (conversión a SAP Cloud ERP Private, brownfield)",
+          "evidencia": "AIB y SEIDOR anuncian la conversión de su SAP actual a SAP Cloud ERP Private",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://www.linkedin.com/company/agroindustrias-aib"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Procesamiento por alta presión (HPP)",
+          "evidencia": "Ofrece servicio de alta presión además de empaque y enfriamiento",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://aib.com.pe/servicios"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Portal de proveedores propio",
+          "evidencia": "Portal web con login para proveedores",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://www.proveedores.aib.com.pe/portal/"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ERP / SAP",
+          "congelados",
+          "mercados asiáticos"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-05",
+            "tipo": "evento",
+            "tema": "mercados asiáticos",
+            "titulo": "AIB en SIAL Shanghai y visitas a clientes en Corea",
+            "detalle": "Busca nuevos clientes de congelados peruanos en China y Corea del Sur.",
+            "fuente": "https://www.linkedin.com/company/agroindustrias-aib"
+          },
+          {
+            "fecha": "2026-07",
+            "tipo": "contratación",
+            "tema": "congelados",
+            "titulo": "Busca supervisor de producción de mango/palta congelado",
+            "detalle": "Aviso para Chincha, Ica; también agrónomo en Motupe (jun-2026).",
+            "fuente": "https://www.linkedin.com/company/agroindustrias-aib"
+          },
+          {
+            "fecha": "2026-09",
+            "tipo": "contrato",
+            "tema": "ERP / SAP",
+            "titulo": "Contrata a SEIDOR para migrar a SAP Cloud ERP Private",
+            "detalle": "Proyecto brownfield iniciado en set-2026 para modernizar su ERP SAP.",
+            "fuente": "https://www.linkedin.com/company/agroindustrias-aib"
+          }
+        ]
+      }
+    },
+    {
+      "id": "machu-picchu-foods",
+      "nombre": "Machu Picchu Foods",
+      "razon_social": "MACHU PICCHU FOODS S.A.C.",
+      "ruc": "20500985322",
+      "subsector": "Cacao, derivados y chocolates (maquila para marcas globales)",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1073",
+          "desc": "Elaboración de cacao y chocolate y de productos de confitería",
+          "fuente": "https://www.datosperu.org/empresa-machu-picchu-foods-sac-20500985322.php"
+        },
+        "facturacion": {
+          "usd_m": 454.0,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Ene-nov 2025 (SUNAT), 2.ª agroexportadora; 2024 completo: US$371 M; ene-may 2026: US$137 M (1.ª)",
+          "fuente": "https://agraria.pe/noticias/camposol-lidera-las-agroexportaciones-peruanas-en-2025-con-v-41440"
+        },
+        "empleados": {
+          "n": 2342,
+          "anio": 2025,
+          "nota": "Planilla SUNAT may-2025; pico 12 meses 3,601, mínimo 2,107; FMO cita ~2,200 directos",
+          "fuente": "https://www.datosperu.org/empresa-machu-picchu-foods-sac-20500985322.php"
+        },
+        "sede": "San Isidro, Lima (oficina administrativa)",
+        "plantas": [
+          {
+            "nombre": "Planta Callao",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Urb. Grimanesa, Callao"
+          },
+          {
+            "nombre": "Planta Pisco (Panamericana Sur)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Fundo El Sequión, Pisco"
+          },
+          {
+            "nombre": "Planta Pisco (Fermín Tanguis)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Cercado, Pisco"
+          },
+          {
+            "nombre": "Chocofenix (nueva planta)",
+            "tipo": "planta",
+            "region": "Ica",
+            "localidad": "Pisco"
+          },
+          {
+            "nombre": "Planta Quillabamba",
+            "tipo": "planta",
+            "region": "Cusco",
+            "localidad": "Santa Ana, La Convención"
+          },
+          {
+            "nombre": "Planta Jaén",
+            "tipo": "planta",
+            "region": "Cajamarca",
+            "localidad": "Jaén"
+          }
+        ],
+        "estructura": {
+          "grupo": "Familia Guzmán (origen en Negusa, 1975)",
+          "accionistas": "Familia Guzmán; Fernando Guzmán, fundador y gerente general",
+          "bolsa": null,
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/esta-es-la-historia-de-machu-picchu-foods-la-segunda-mayor-agroexportadora-de-cacao-que-provee-a-nestle-y-arcor-noticia/"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Nueva planta Chocofenix en Pisco y ampliaciones vía ITS en Callao, Jaén y Quillabamba",
+          "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-expandira-produccion-con-construccion-de-nueva-planta-en-pisco-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Líneas de chocolate: 2 de masa y 4 de moldeo (1,500 kg/h)",
+          "evidencia": "Capacidad de la nueva planta Chocofenix en Pisco",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-expandira-produccion-con-construccion-de-nueva-planta-en-pisco-noticia/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Líneas de wafer, galletas y barras de cereal",
+          "evidencia": "ITS Callao: ventilación de wafer, filtro de amoníaco y climatización de horneado",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-y-la-fabrica-de-chocolates-el-proyecto-que-asoma-en-planta-de-callao-noticia/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Secadora de grano de 7 t y silo de 18 t",
+          "evidencia": "ITS para línea de secado en la planta Quillabamba",
+          "anio": 2026,
+          "confianza": "alta",
+          "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-invertira-s-356-mil-en-nueva-linea-de-secado-para-su-planta-en-cusco-noticia/"
+        },
+        {
+          "cat": "Equipos",
+          "producto": "Quemadores a gas para secado de cacao",
+          "evidencia": "ITS en Jaén para reemplazar el secado natural",
+          "anio": 2025,
+          "confianza": "alta",
+          "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-planea-potenciar-planta-en-cajamarca-mejora-de-procesos-a-la-vista-noticia/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Cacao certificado: Rainforest Alliance, orgánico UE, Fairtrade",
+          "evidencia": "FMO describe su abastecimiento certificado y el programa Nestlé Cocoa Plan",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://www.fmo.nl/machu-picchu-foods"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "ampliación de planta",
+          "secado de cacao",
+          "líneas de chocolate"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-07",
+            "tipo": "proyecto",
+            "tema": "nueva planta",
+            "titulo": "Construye planta Chocofenix de 7,000 m² en Pisco",
+            "detalle": "Dos líneas de masa y cuatro de moldeo para barras, trufas y wafers.",
+            "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-expandira-produccion-con-construccion-de-nueva-planta-en-pisco-noticia/"
+          },
+          {
+            "fecha": "2025-08",
+            "tipo": "permiso",
+            "tema": "secado de cacao",
+            "titulo": "ITS en Jaén para quemadores a gas en el secado",
+            "detalle": "Inversión de S/ 33,250 en una planta de 3,075 m².",
+            "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-planea-potenciar-planta-en-cajamarca-mejora-de-procesos-a-la-vista-noticia/"
+          },
+          {
+            "fecha": "2025-10",
+            "tipo": "permiso",
+            "tema": "mejora de procesos",
+            "titulo": "ITS para mejorar 15 procesos en la planta Callao",
+            "detalle": "S/ 600 mil en ventilación, filtros de amoníaco y climatización de líneas.",
+            "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-y-la-fabrica-de-chocolates-el-proyecto-que-asoma-en-planta-de-callao-noticia/"
+          },
+          {
+            "fecha": "2026-08",
+            "tipo": "permiso",
+            "tema": "secado de grano",
+            "titulo": "ITS para línea de secado de 7 t en Quillabamba",
+            "detalle": "S/ 356 mil; obra de cinco meses para ampliar la capacidad de secado.",
+            "fuente": "https://gestion.pe/economia/empresas/machu-picchu-foods-invertira-s-356-mil-en-nueva-linea-de-secado-para-su-planta-en-cusco-noticia/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "perhusa",
+      "nombre": "Perhusa (Altomayo)",
+      "razon_social": "PERALES HUANCARUNA S.A.C.",
+      "ruc": "20131495006",
+      "subsector": "Café verde y café industrializado (Altomayo)",
+      "web": null,
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "1061",
+          "desc": "Elaboración de productos de molinería",
+          "fuente": "https://www.datosperu.org/empresa-perales-huancaruna-sac-20131495006.php"
+        },
+        "facturacion": {
+          "usd_m": 209.8,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo café; 1.ª exportadora de café 2025 (11.7 %). 2024: US$159.9 M",
+          "fuente": "https://cultivate.pe/wp-content/uploads/2026/03/Cafe-Peruano-Ene-Dic-2025-comprimido.pdf"
+        },
+        "empleados": {
+          "n": 158,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; rango 12 meses 157-162",
+          "fuente": "https://www.datosperu.org/empresa-perales-huancaruna-sac-20131495006.php"
+        },
+        "sede": "Callao (Fundo Bocanegra)",
+        "plantas": [
+          {
+            "nombre": "Planta Callao (Bocanegra)",
+            "tipo": "planta",
+            "region": "Callao",
+            "localidad": "Fundo Bocanegra, Callao"
+          },
+          {
+            "nombre": "Planta Chiclayo",
+            "tipo": "planta",
+            "region": "Lambayeque",
+            "localidad": "Chiclayo"
+          },
+          {
+            "nombre": "Agencia Jaén",
+            "tipo": "oficina",
+            "region": "Cajamarca",
+            "localidad": "Jaén"
+          },
+          {
+            "nombre": "Agencia Chirinos",
+            "tipo": "oficina",
+            "region": "Cajamarca",
+            "localidad": "Chirinos, San Ignacio"
+          },
+          {
+            "nombre": "Agencia Nueva Cajamarca",
+            "tipo": "oficina",
+            "region": "San Martín",
+            "localidad": "Nueva Cajamarca, Rioja"
+          },
+          {
+            "nombre": "Agencia Pichanaqui",
+            "tipo": "oficina",
+            "region": "Junín",
+            "localidad": "Pichanaqui, Chanchamayo"
+          },
+          {
+            "nombre": "Agencia Satipo",
+            "tipo": "oficina",
+            "region": "Junín",
+            "localidad": "Satipo"
+          }
+        ],
+        "estructura": {
+          "grupo": "Familia Huancaruna",
+          "accionistas": "Familia Huancaruna (2.ª y 3.ª generación); vinculadas: Agro Pucalá, Agrícola San Juan, Tracks and Motors del Perú",
+          "bolsa": null,
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/del-viejo-camion-al-desafio-contra-nestle-la-historia-del-imperio-cafetero-de-los-huancaruna-noticia/"
+        },
+        "etapa": {
+          "valor": "contracción",
+          "evidencia": "Pasó de líder en 2024-2025 al puesto 16 en el T1 2026 (US$2.6 M FOB)",
+          "fuente": "https://gestion.pe/economia/empresas/exportacion-de-cafe-en-peru-las-principales-empresas-del-primer-trimestre-de-2026-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Equipos",
+          "producto": "Planta de estandarización y solubilización de café",
+          "evidencia": "Planta procesadora de Callao, operativa desde 2000",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/del-viejo-camion-al-desafio-contra-nestle-la-historia-del-imperio-cafetero-de-los-huancaruna-noticia/"
+        },
+        {
+          "cat": "Otros",
+          "producto": "CITE Cafés Especiales PERHUSA (I+D privado)",
+          "evidencia": "Calificado en 2019 como centro de innovación tecnológica privado",
+          "anio": 2019,
+          "confianza": "alta",
+          "fuente": "https://agraria.pe/noticias/citecafes-especiales-perhusa-significara-una-nueva-era-de-va-20770"
+        },
+        {
+          "cat": "Otros",
+          "producto": "Automatización y digitalización (proveedor no identificado)",
+          "evidencia": "La 3.ª generación de la familia impulsa automatización y digitalización",
+          "anio": 2026,
+          "confianza": "baja",
+          "fuente": "https://gestion.pe/g-de-gestion/reportaje/del-viejo-camion-al-desafio-contra-nestle-la-historia-del-imperio-cafetero-de-los-huancaruna-noticia/"
+        }
+      ],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [],
+        "senales": []
+      }
+    },
+    {
+      "id": "ofi-olam-agro-peru",
+      "nombre": "ofi (Olam Agro Perú)",
+      "razon_social": "OLAM AGRO PERÚ S.A.C.",
+      "ruc": "20512896252",
+      "subsector": "Café verde y cacao (acopio y exportación)",
+      "web": "https://www.ofi.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "4620",
+          "desc": "Venta al por mayor de materias primas agropecuarias y animales vivos",
+          "fuente": "https://www.datosperu.org/empresa-olam-agro-peru-sac-20512896252.php"
+        },
+        "facturacion": {
+          "usd_m": 161.2,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Solo café; 2.ª exportadora de café 2025 (9.0 %). Total agroexportaciones ene-nov 2025: US$181 M",
+          "fuente": "https://cultivate.pe/wp-content/uploads/2026/03/Cafe-Peruano-Ene-Dic-2025-comprimido.pdf"
+        },
+        "empleados": {
+          "n": 216,
+          "anio": 2025,
+          "nota": "Planilla SUNAT nov-2025; pico 12 meses 239, mínimo 169 (estacional)",
+          "fuente": "https://www.datosperu.org/empresa-olam-agro-peru-sac-20512896252.php"
+        },
+        "sede": "San Isidro, Lima",
+        "plantas": [
+          {
+            "nombre": "Planta Jaén (km 21 Jaén-San Ignacio)",
+            "tipo": "planta",
+            "region": "Cajamarca",
+            "localidad": "Jaén"
+          },
+          {
+            "nombre": "Planta Jaén (km 25.5, Yanuyacu)",
+            "tipo": "planta",
+            "region": "Cajamarca",
+            "localidad": "Jaén"
+          },
+          {
+            "nombre": "Sede productiva Lurín",
+            "tipo": "planta",
+            "region": "Lima",
+            "localidad": "Z.I. Santa Genoveva, Lurín"
+          },
+          {
+            "nombre": "Depósitos Moyobamba",
+            "tipo": "planta",
+            "region": "San Martín",
+            "localidad": "Moyobamba"
+          },
+          {
+            "nombre": "Depósitos Pichanaqui",
+            "tipo": "planta",
+            "region": "Junín",
+            "localidad": "Pichanaqui, Chanchamayo"
+          },
+          {
+            "nombre": "Depósito Luyando",
+            "tipo": "planta",
+            "region": "Huánuco",
+            "localidad": "Luyando, Leoncio Prado"
+          }
+        ],
+        "estructura": {
+          "grupo": "ofi (Olam Food Ingredients), Olam Group (Singapur)",
+          "accionistas": "Filial de ofi / Olam Group",
+          "bolsa": "SGX: Olam Group (matriz)",
+          "fuente": "https://www.olamgroup.com/investors/our-re-organisation.html"
+        },
+        "etapa": {
+          "valor": "estable",
+          "evidencia": "1.ª exportadora de café del país en el T1 2026 (US$13.5 M, 9.2 %)",
+          "fuente": "https://gestion.pe/economia/empresas/exportacion-de-cafe-en-peru-las-principales-empresas-del-primer-trimestre-de-2026-noticia/"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "AtSource (trazabilidad y sostenibilidad)",
+          "evidencia": "Plataforma de ofi para su cadena de café; sin detalle específico de Perú",
+          "anio": null,
+          "confianza": "media",
+          "fuente": "https://www.ofi.com/en-us/coffee/sustainability-in-coffee"
+        }
+      ],
+      "intencion": {
+        "nivel": "bajo",
+        "temas": [
+          "reorganización del grupo"
+        ],
+        "senales": [
+          {
+            "fecha": "2026-04",
+            "tipo": "adquisición",
+            "tema": "reorganización del grupo",
+            "titulo": "Olam vende 44.58 % de Olam Agri a SALIC por US$1,880 M",
+            "detalle": "Desinversión de la matriz para concentrarse en ofi; sin efecto directo en Perú.",
+            "fuente": "https://www.olamgroup.com/investors/our-re-organisation.html"
+          }
+        ]
+      }
+    },
+    {
+      "id": "agroberries-peru",
+      "nombre": "AgroBerries Perú",
+      "razon_social": "AGROBERRIES PERU S.A.C.",
+      "ruc": "20600807685",
+      "subsector": "Arándano (convencional y orgánico)",
+      "web": "https://www.agroberries.com",
+      "linkedin": null,
+      "firmo": {
+        "ciiu": {
+          "codigo": "0122",
+          "desc": "Cultivo de frutas tropicales y subtropicales",
+          "fuente": "https://www.datosperu.org/empresa-agroberries-peru-sac-20600807685.php"
+        },
+        "facturacion": {
+          "usd_m": null,
+          "anio": 2025,
+          "tipo": "exportaciones FOB",
+          "nota": "Sin valor FOB público; campaña 2025/26: 6,687 t a sem. 42 (8.º exportador, 3.4 %) y 3.º en arándano orgánico (2,604 t)",
+          "fuente": "https://agraria.pe/noticias/estas-son-las-10-principales-exportadoras-de-arandano-hasta--41076"
+        },
+        "empleados": {
+          "n": 2135,
+          "anio": 2025,
+          "nota": "Planilla SUNAT feb-2025; pico de campaña 12 meses 10,452, mínimo 735",
+          "fuente": "https://www.datosperu.org/empresa-agroberries-peru-sac-20600807685.php"
+        },
+        "sede": "Virú, La Libertad",
+        "plantas": [
+          {
+            "nombre": "Fundos Chavimochic (La Duna, San Carlos, La Quebrada, Angostura, Las Lomas, Escalante, Pampa Alta)",
+            "tipo": "fundo",
+            "region": "La Libertad",
+            "localidad": "Virú"
+          },
+          {
+            "nombre": "Planta Virú (km 521)",
+            "tipo": "planta",
+            "region": "La Libertad",
+            "localidad": "Virú"
+          },
+          {
+            "nombre": "Fundos Chinecas (Pampa del Toro, Tangay)",
+            "tipo": "fundo",
+            "region": "Áncash",
+            "localidad": "Chimbote y Nuevo Chimbote, Santa"
+          }
+        ],
+        "estructura": {
+          "grupo": "Grupo AgroBerries (origen chileno; matriz registrada en Reino Unido), dueño de BerryWorld",
+          "accionistas": "Grupo AgroBerries; Jorge Varela, cofundador y CEO global",
+          "bolsa": null,
+          "fuente": "https://agraria.pe/noticias/agroberries-renovara-su-marca-tras-la-adquisicion-de-berrywo-40844"
+        },
+        "etapa": {
+          "valor": "expansión",
+          "evidencia": "Integra BerryWorld (comprada en 2024) y creó BerryWorld Asia en 2025",
+          "fuente": "https://agraria.pe/noticias/grupo-agroberries-anuncia-la-creacion-de-berryworld-asia-40553"
+        }
+      },
+      "tecno": [
+        {
+          "cat": "Otros",
+          "producto": "Genética propia de arándano (variedad Sekoya)",
+          "evidencia": "El grupo apuesta por variedades premium y desarrollo genético propio",
+          "anio": 2023,
+          "confianza": "alta",
+          "fuente": "https://agraria.pe/noticias/agroberries-produce-arandanos-en-peru-chile-mexico-estados-u-30564"
+        }
+      ],
+      "intencion": {
+        "nivel": "medio",
+        "temas": [
+          "expansión comercial en Asia",
+          "integración de marca"
+        ],
+        "senales": [
+          {
+            "fecha": "2025-08",
+            "tipo": "proyecto",
+            "tema": "expansión comercial",
+            "titulo": "Grupo AgroBerries crea BerryWorld Asia; Perú es origen clave",
+            "detalle": "Equipos en Shanghái y Hong Kong; primera entrada de BerryWorld en China.",
+            "fuente": "https://agraria.pe/noticias/grupo-agroberries-anuncia-la-creacion-de-berryworld-asia-40553"
+          },
+          {
+            "fecha": "2025-09",
+            "tipo": "evento",
+            "tema": "integración de marca",
+            "titulo": "Renueva su marca tras comprar BerryWorld y la presenta en Fruit Attraction",
+            "detalle": "Une AgroBerries, BerryWorld y PrepWorld bajo una sola identidad.",
+            "fuente": "https://agraria.pe/noticias/agroberries-renovara-su-marca-tras-la-adquisicion-de-berrywo-40844"
+          }
+        ]
+      }
+    }
+  ]
+}
